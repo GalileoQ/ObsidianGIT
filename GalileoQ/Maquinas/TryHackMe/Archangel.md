@@ -53,13 +53,11 @@ http://mafialive.thm/test.php?view=/var/www/html/development_testing/..//..//../
 
 ## Shell www-data
 
-
+![[Pasted image 20231115002136.png]]
 ## movimiento lateral
 hay una tarea cron que se ejecuta cada cierto tiempo, tenemos permisos de escritura en este archivo, así que vamos a meterle una shell, para pasarnos al usuario archangel.
 
-![[Pasted image 20231020002053.png]]
-
-![[Pasted image 20231020002120.png]]
+![[Pasted image 20231115002205.png]]
 
 ## Elevar privilegios
 Tenemos un binario ``backup`` que tira de ``cp`` para hacer alguna movida de copia. 
