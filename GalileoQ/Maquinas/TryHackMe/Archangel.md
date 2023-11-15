@@ -58,13 +58,13 @@ http://mafialive.thm/test.php?view=/var/www/html/development_testing/..//..//../
 hay una tarea cron que se ejecuta cada cierto tiempo, tenemos permisos de escritura en este archivo, así que vamos a meterle una shell, para pasarnos al usuario archangel.
 
 ![[Pasted image 20231115002205.png]]
+![[Pasted image 20231115002239.png]]
 
 ## Elevar privilegios
 Tenemos un binario ``backup`` que tira de ``cp`` para hacer alguna movida de copia. 
 
 vamos a crear un ``cp`` falso el cual agregamos al path para que nos de una bash cuando ejecutemos el binario 
-![[Pasted image 20231020002338.png]]
+![[Pasted image 20231115002308.png]]
 
-![[Pasted image 20231020002346.png]]
 
 Al ejecutarlo ya somos root.
