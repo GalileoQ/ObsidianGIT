@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "8ff6ca813f1c5553",
+    "type": "split",
+    "children": [
+      {
+        "id": "6363cdd65d0ce32f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38415666ccbf7da0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d294f47b5805b9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "006fb8467d7d5a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50cbbe83ed3dc2e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "e2e1d4d1f401f2c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec211addc42d5b39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50152587890625
+  },
+  "right": {
+    "id": "7d38ba899c00f70c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ba2647446fbe9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefe2e4d9ebc8027",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GalileoQ/Shells/OneLiners.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6dd21edc50e30b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GalileoQ/Shells/OneLiners.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c24861f2b0b9c2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2001b1df3cb46aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GalileoQ/Shells/OneLiners.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "50cbbe83ed3dc2e4",
+  "lastOpenFiles": [
+    "GalileoQ/Shells/Tratamiento tty..md",
+    "GalileoQ/Escaneo de puertos/ping con nmap.md",
+    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
+    "GalileoQ/Escaneo de puertos/script nmap potente.md",
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Entornos/Instalar bat.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/id_rsa encrytada.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
+    "entorno/comando.md",
+    "imagenes/Pasted image 20231114213746.png",
+    "imagenes/Pasted image 20231114213415.png",
+    "imagenes/Pasted image 20231114212546.png",
+    "imagenes/Pasted image 20231114212348.png",
+    "imagenes/Pasted image 20231114212116.png",
+    "imagenes/Pasted image 20231114211618.png",
+    "imagenes/Pasted image 20231114211142.png",
+    "imagenes/Pasted image 20231114210522.png",
+    "imagenes/Pasted image 20231114210236.png",
+    "imagenes/Pasted image 20231114201011.png",
+    "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
+    "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
+    "GalileoQ/Maquinas/TryHackMe/Simple CTF.md",
+    "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
+    "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
+    "entorno",
+    "GITHUB",
+    "G41i130Q.github.io/_posts/HackTheBox",
+    "G41i130Q.github.io/_tabs",
+    "G41i130Q.github.io/_posts",
+    "G41i130Q.github.io/_plugins/posts-lastmod-hook.rb",
+    "G41i130Q.github.io/_plugins",
+    "G41i130Q.github.io/_data/share.yml",
+    "G41i130Q.github.io/_data/contact.yml",
+    "G41i130Q.github.io/_data",
+    "Sin título.canvas"
+  ]
+}

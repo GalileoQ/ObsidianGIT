@@ -1,0 +1,23 @@
+.theme-dark {
+    --color-base-00: #0c0c11ee;
+    --color-base-30: #191926;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --code-background: #22223333;
+}
+
+.modal.mod-settings, 
+.vertical-tab-header, 
+.vertical-tab-nav-item, 
+.vertical-tab-header-title, 
+.suggestion-container,
+.suggestion-container.mod-search-suggestion,
+.menu,
+.popover,
+.prompt {
+    background-color: var(--color-base-00);
+}
+
+input[type=checkbox]:checked:after {
+    background-color: #000000;
+}
