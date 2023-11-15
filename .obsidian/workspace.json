@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Cyborg.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "821b90e2c270823e",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
+    "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
+    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
@@ -171,7 +174,6 @@
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
-    "entorno/comando.md",
     "imagenes/Pasted image 20231114213746.png",
     "imagenes/Pasted image 20231114213415.png",
     "imagenes/Pasted image 20231114212546.png",
@@ -182,8 +184,6 @@
     "imagenes/Pasted image 20231114210522.png",
     "imagenes/Pasted image 20231114210236.png",
     "imagenes/Pasted image 20231114201011.png",
-    "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
