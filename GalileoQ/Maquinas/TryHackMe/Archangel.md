@@ -25,7 +25,6 @@ Al poner el dominio, ya tenemos la primera flag.
 ## Path Traversal
 
 mirando el ``/etc/passwd`` 
-![](lfi.png)
 
 para ver los logs 
 ```
