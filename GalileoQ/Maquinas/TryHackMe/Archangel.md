@@ -13,8 +13,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 ## Web 
-
-
+![[Pasted image 20231115001626.png]]
 Al poner el dominio, ya tenemos la primera flag.
 
 ## Fuzzing
