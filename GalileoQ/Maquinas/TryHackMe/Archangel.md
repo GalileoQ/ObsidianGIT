@@ -66,5 +66,5 @@ Tenemos un binario ``backup`` que tira de ``cp`` para hacer alguna movida de cop
 vamos a crear un ``cp`` falso el cual agregamos al path para que nos de una bash cuando ejecutemos el binario 
 ![[Pasted image 20231115002308.png]]
 
-
+![[Pasted image 20231115002336.png]]
 Al ejecutarlo ya somos root.

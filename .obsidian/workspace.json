@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "311bbeeca538a9e0",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Red.md",
+    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
+    "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
+    "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
+    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+    "Pasted image 20231115002336.png",
     "Pasted image 20231115002308.png",
     "Pasted image 20231115002239.png",
     "Pasted image 20231115002205.png",
@@ -157,13 +164,8 @@
     "Pasted image 20231115001838.png",
     "Pasted image 20231115001626.png",
     "web.png.md",
-    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
     "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
-    "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
-    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
-    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
-    "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/maquina git clone mhilane gay.md",
     "GalileoQ/Shells/Tratamiento tty..md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
@@ -182,8 +184,6 @@
     "GalileoQ/Comandos/id_rsa encrytada.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "imagenes/Pasted image 20231114213746.png",
-    "imagenes/Pasted image 20231114213415.png",
-    "imagenes/Pasted image 20231114212546.png",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
