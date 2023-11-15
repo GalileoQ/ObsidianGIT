@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "311bbeeca538a9e0",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "imagenes/web.png.md",
+    "imagenes/Pasted image 20231115002336.png",
+    "imagenes/Pasted image 20231115002308.png",
+    "imagenes/Pasted image 20231115002239.png",
+    "imagenes/Pasted image 20231115002205.png",
+    "imagenes/Pasted image 20231115002136.png",
+    "imagenes/Pasted image 20231115002056.png",
+    "imagenes/Pasted image 20231115002021.png",
+    "imagenes/Pasted image 20231115001838.png",
+    "imagenes/Pasted image 20231115001626.png",
+    "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
+    "GalileoQ/Maquinas/TryHackMe/TomGhost.md",
+    "GalileoQ/Maquinas/TryHackMe/Startup.md",
+    "GalileoQ/Maquinas/TryHackMe/Simple CTF.md",
+    "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Red.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
@@ -155,14 +170,6 @@
     "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "Pasted image 20231115002336.png",
-    "Pasted image 20231115002308.png",
-    "Pasted image 20231115002239.png",
-    "Pasted image 20231115002205.png",
-    "Pasted image 20231115002136.png",
-    "Pasted image 20231115002056.png",
-    "Pasted image 20231115002021.png",
-    "Pasted image 20231115001838.png",
-    "Pasted image 20231115001626.png",
     "web.png.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
     "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
@@ -177,13 +184,6 @@
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Entornos/Instalar bat.md",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
-    "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/id_rsa encrytada.md",
-    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-    "imagenes/Pasted image 20231114213746.png",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
