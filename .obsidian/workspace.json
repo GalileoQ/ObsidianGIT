@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ebefb4190b69684f",
+        "id": "bfc8027f9d312e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "65a87f6eaf6211dd",
+            "id": "311bbeeca538a9e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Archangel.md"
+              }
             }
           }
         ]
@@ -138,14 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "65a87f6eaf6211dd",
+  "active": "311bbeeca538a9e0",
   "lastOpenFiles": [
+    "web.png.md",
+    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
     "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
-    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/maquina git clone mhilane gay.md",
     "GalileoQ/Shells/Tratamiento tty..md",
@@ -165,7 +174,6 @@
     "GalileoQ/Comandos/id_rsa encrytada.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "imagenes/Pasted image 20231114213746.png",
     "imagenes/Pasted image 20231114213415.png",
     "imagenes/Pasted image 20231114212546.png",

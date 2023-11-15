@@ -14,7 +14,6 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ## Web 
 
-![](web.png)
 
 Al poner el dominio, ya tenemos la primera flag.
 
