@@ -25,6 +25,7 @@ Al poner el dominio, ya tenemos la primera flag.
 ## Path Traversal
 
 mirando el ``/etc/passwd`` 
+![[Pasted image 20231115001838.png]]
 
 para ver los logs 
 ```
