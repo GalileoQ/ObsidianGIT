@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "a21828506dea297b",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
