@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md"
+                "file": "GalileoQ/Comandos/Buscador de archivos.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "a21828506dea297b",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/id_rsa encriptada.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Instalar BSPWM.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/Instalar bat.md",
@@ -176,13 +183,6 @@
     "imagenes/Pasted image 20231115001838.png",
     "imagenes/Pasted image 20231115001626.png",
     "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/TomGhost.md",
-    "GalileoQ/Maquinas/TryHackMe/Startup.md",
-    "GalileoQ/Maquinas/TryHackMe/Simple CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/Red.md",
-    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
-    "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
-    "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
     "Pasted image 20231115002336.png",
     "entorno",
     "GITHUB",
