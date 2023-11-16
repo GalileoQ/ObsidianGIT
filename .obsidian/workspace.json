@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "a21828506dea297b",
   "lastOpenFiles": [
+    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
+    "GalileoQ/Escaneo de puertos/script nmap potente.md",
+    "GalileoQ/Escaneo de puertos/ping con nmap.md",
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Entornos/Instalar BSPWM.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Entornos/Instalar bat.md",
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
+    "GalileoQ/Comandos/id_rsa encriptada.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
@@ -162,18 +174,6 @@
     "Template Pentesting Notes/3 - Exploit.md",
     "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
     "Template Pentesting Notes/1 Nmap.md",
-    "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Comandos/id_rsa encriptada.md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
-    "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Entornos/Instalar BSPWM.md",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
-    "GalileoQ/Entornos/Instalar bat.md",
-    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
-    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "imagenes/Pasted image 20231115002336.png",
     "imagenes/Pasted image 20231115002308.png",
     "imagenes/Pasted image 20231115002239.png",

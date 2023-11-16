@@ -1,4 +1,5 @@
-```css
+
+```python
 #!/bin/bash
 
 # Verificar si el usuario es root
