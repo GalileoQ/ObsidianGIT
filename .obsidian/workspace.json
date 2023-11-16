@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ROOTME.md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9a41a6c0e7571a89",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "imagenes/web.png.md",
     "imagenes/Pasted image 20231115002336.png",
     "imagenes/Pasted image 20231115002308.png",
@@ -162,7 +163,6 @@
     "GalileoQ/Maquinas/TryHackMe/TomGhost.md",
     "GalileoQ/Maquinas/TryHackMe/Startup.md",
     "GalileoQ/Maquinas/TryHackMe/Simple CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Red.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
