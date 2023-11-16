@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/Instalar bat.md",
+                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Instalar bat.md",
+                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Instalar bat.md",
+                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Instalar bat.md"
+                "file": "GalileoQ/Entornos/modificaciones del Entorno.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a21828506dea297b",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/Instalar BSPWM.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
@@ -180,10 +183,7 @@
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
-    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
-    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "Pasted image 20231115002336.png",
-    "web.png.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",

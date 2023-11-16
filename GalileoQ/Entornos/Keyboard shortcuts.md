@@ -1,6 +1,6 @@
 
 User.txt
-```css
+```python
 - Windows + Enter: Open a terminal emulator window (kitty).
 - Windows + W: Close the current window.
 - Windows + Alt + R: Restart the bspwm configuration.

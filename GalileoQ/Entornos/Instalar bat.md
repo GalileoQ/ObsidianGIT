@@ -1,4 +1,5 @@
-```cs
+
+```python
 -descargamos el archivo bat. 
 
 -instalamos el archivo con el comando
