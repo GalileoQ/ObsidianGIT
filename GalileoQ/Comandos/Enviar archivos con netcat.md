@@ -1,3 +1,4 @@
+
 ```python
 	maquina atacante
 	nc -lvnp "Ports" > "archivo"
