@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4598f918c540cfd4",
+        "id": "677b5e61d9340ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "5375e6bee2703788",
+            "id": "45baff2d618f0707",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Comandos/Sin título.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5375e6bee2703788",
+  "active": "45baff2d618f0707",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
-    "GalileoQ/Comandos/Sin título.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "imagenes/web.png.md",
