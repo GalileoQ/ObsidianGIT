@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9a41a6c0e7571a89",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "imagenes/web.png.md",
     "imagenes/Pasted image 20231115002336.png",
@@ -182,7 +183,6 @@
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "entorno",
     "GITHUB",
