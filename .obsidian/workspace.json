@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "449e8c8c67e4dc31",
+        "id": "e3c62fc0e15f4ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "a21828506dea297b",
+            "id": "f230003f8864c62a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "Curso/Metaesploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a21828506dea297b",
+  "active": "f230003f8864c62a",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
@@ -173,7 +174,6 @@
     "Template Pentesting Notes/4- Privilege Escalation.md",
     "Template Pentesting Notes/3 - Exploit.md",
     "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
-    "Template Pentesting Notes/1 Nmap.md",
     "imagenes/Pasted image 20231115002336.png",
     "imagenes/Pasted image 20231115002308.png",
     "imagenes/Pasted image 20231115002239.png",
