@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "677b5e61d9340ae8",
+        "id": "449e8c8c67e4dc31",
         "type": "tabs",
         "children": [
           {
-            "id": "45baff2d618f0707",
+            "id": "a21828506dea297b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/Tratamiento tty..md",
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/Tratamiento tty..md",
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/Tratamiento tty..md",
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/Tratamiento tty..md"
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45baff2d618f0707",
+  "active": "a21828506dea297b",
   "lastOpenFiles": [
+    "GalileoQ/Shells/Tratamiento tty..md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
@@ -179,7 +180,6 @@
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
     "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
     "GalileoQ/Maquinas/TryHackMe/maquina git clone mhilane gay.md",
-    "GalileoQ/Shells/Tratamiento tty..md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
