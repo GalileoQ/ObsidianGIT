@@ -1,3 +1,4 @@
+### bash
 ```css
 		script /dev/null -c bash 
 		ctrl + z 
@@ -8,6 +9,7 @@
 		export SHELL=bash
 ```
 
+### Ptython
 ```css
 	python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
