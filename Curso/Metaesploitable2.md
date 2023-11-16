@@ -1,6 +1,6 @@
 
 Escaneo nmap: 
-
+```python
 sudo nmap -p- -sCV --open -sS -n -Pn 10.0.2.4 -oN scaner
 [sudo] password for parrot: 
 
@@ -139,3 +139,4 @@ haciendo una busqueda rapida en internet conseguimos un expliot.py que nos da un
 
 cuando tengamos el archivo no editamos y le ponemos nuestra ip y el puerto por donde estaremos escuchando desde nuestra terminal atacante. 
 una vez tengamos todo configurado lanzamos el exploit y automaticamente tenemos conexion a la maquina victima.
+```
