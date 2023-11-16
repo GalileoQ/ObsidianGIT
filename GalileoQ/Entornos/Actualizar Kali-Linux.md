@@ -2,7 +2,7 @@
 ##### Algunos Kali indican error caundo tienes instalada una versión obsoleta de PostgreSQL (versión 15) en tu sistema y sugiere que instales las últimas versiones de los paquetes del servidor y del cliente (postgresql-16 y postgresql-client-16, respectivamente) y luego realices la actualización.
 
 Para resolver este problema, sigue estos pasos:
-
+```
 1. **Actualizar la lista de paquetes:**
     
     `sudo apt update`

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md"
+                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md"
               }
             }
           }
@@ -149,13 +149,15 @@
   "active": "a21828506dea297b",
   "lastOpenFiles": [
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
@@ -182,8 +184,6 @@
     "Pasted image 20231115002336.png",
     "web.png.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
-    "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
-    "GalileoQ/Maquinas/TryHackMe/maquina git clone mhilane gay.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
