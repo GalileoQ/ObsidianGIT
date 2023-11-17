@@ -117,6 +117,6 @@ aprovecharemos esto para escalar privilegios utilizando el comando vi para edita
 
 	-u#-1
 
-	con este comando le indicamos que al usuario actual le vamos a restar 1 ( -1 ) lo que nos dara como resultado 0 y el numero 0 es el usuario root. asi que aprovecharemos esto
+	con este comando le indicamos que al usuario actual le vamos a restar 1 ( -1 ) lo que nos dara como resultado 0 y el numero 0 es el usuario root, asi que aprovecharemos esto
 ```
-debido a que tenemos permisos sudo los utilizaremos con este primer comando para cambiar el usuario al ejecutar vi.
+### escalada de privilegios
