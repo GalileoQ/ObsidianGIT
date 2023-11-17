@@ -60,5 +60,5 @@ strings archivo
 ![[Pasted image 20231116230935.png]]
 ### tenemos credenciales para el puerto ftp
 ```python
-ftp: host: 10.10.
+	[21]ftp: host: 10.10.113.73 login: ftpuser password: 5iez1wGXKfPKQ
 ```
