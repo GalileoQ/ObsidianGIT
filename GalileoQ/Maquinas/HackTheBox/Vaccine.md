@@ -197,7 +197,7 @@ passid:
 2cb42f8734ea607eefed3b70af13bbd3
 ```
 db:id
-```css
+```python
 user: postgres
 password: P@s5w0rd!
 ```
@@ -206,7 +206,8 @@ password: P@s5w0rd!
 
 hacemos sudo -l para saber cuales son los permiso que tiene el usuario postgres como administrador 
 
-`/bin/vi /etc/postgresql/11/main/pg_hba.config`
+```python
+/bin/vi /etc/postgresql/11/main/pg_hba.config`
 
 vemos que tiene permisos solo en este archivo asi que lo ejecutaremos como administrador 
 
