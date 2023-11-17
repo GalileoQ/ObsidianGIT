@@ -29,3 +29,5 @@ Nmap done: 1 IP address (1 host up) scanned in 85.76 seconds
 al parecer no hay mucho en la pagina web. 
 
 ### aplicaremos fuzzing utilizando gobuster
+![[Pasted image 20231116215958.png]]
+podemos enumerar un directorio llamado /assets asi que vamos a investigar
