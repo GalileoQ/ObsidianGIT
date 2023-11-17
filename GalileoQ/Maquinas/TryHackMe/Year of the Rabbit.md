@@ -41,4 +41,4 @@ al parecer desactivar el javascript no funciona debido a que nos sigue redirigie
 
 ### vamos a interceptar esta peticion con burpsuite
 ![[Pasted image 20231116222108.png]]
-### al parecer burpsuite nos dice que se esta aplicando otra redireccion asi que vamos a investigar
+### al parecer burpsuite nos dice que se esta aplicando otra redireccion asi que vamos a investigar.
