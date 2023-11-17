@@ -65,4 +65,4 @@ strings archivo
 ![[Pasted image 20231116231341.png]]
 ### tenemos conexion por el puerto ftp. vamos a enumerar
 ![[Pasted image 20231116231621.png]]
-### hemos conseguido u
+### hemos conseguido un archivo. con el comando `mget *`  podemos descargarnos todo.
