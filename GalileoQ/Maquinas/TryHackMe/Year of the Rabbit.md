@@ -108,3 +108,5 @@ Tuyo sinceramente
 	passwd: MniVCQVhQHUNI
 ```
 ### tenemos conexion somos el usuario gwendoline. nos falta escalar privilegios.
+![[Pasted image 20231117003332.png]]
+### tenemos permisos de root para ejecutar el binario /usr/bin/vi sobre la ruta /home
