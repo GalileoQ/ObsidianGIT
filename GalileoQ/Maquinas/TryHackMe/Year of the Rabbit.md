@@ -92,6 +92,9 @@ al parecer tenemos otro mensaje oculto en algun lugar llamado leet s3cr3t
 ![[Pasted image 20231117000310.png]]
 tenemos otro archivo oculto
 ![[Pasted image 20231117000435.png]]
+hacemos un cat de este archivo oculto que hemos encontrado
+![[Pasted image 20231117000614.png]]
+### tenemos un nuevo mensaje con lo que parece ser credenciales del usuario Gwendoline
 
 
 
