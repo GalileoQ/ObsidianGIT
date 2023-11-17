@@ -62,3 +62,5 @@ strings archivo
 ```python
 	[21]ftp: host: 10.10.113.73 login: ftpuser password: 5iez1wGXKfPKQ
 ```
+![[Pasted image 20231116231341.png]]
+### tenemos conexion por el puerto ftp. vamos a enumerar
