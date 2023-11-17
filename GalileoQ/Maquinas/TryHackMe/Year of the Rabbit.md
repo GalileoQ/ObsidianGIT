@@ -111,3 +111,8 @@ Tuyo sinceramente
 ![[Pasted image 20231117003332.png]]
 ### tenemos permisos de root para ejecutar el binario /usr/bin/vi sobre la ruta /home/gwendoline/user.txt
 aprovecharemos esto para escalar privilegios utilizando el comando vi para editar el archivo user.txt y poder espaunear una bash como root
+### Utilizaremos el siguiente comando 
+```python
+	sudo -u#-1
+```
+debido a que tenemos permisos sudo los utilizaremos con e
