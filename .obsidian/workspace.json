@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d407e4d2091c618a",
+        "id": "d0d1c97c37014db5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ebfd49d28b11df0",
+            "id": "9f68d2f0520d9c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Vaccine.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ebfd49d28b11df0",
+  "active": "9f68d2f0520d9c5f",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
+    "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
     "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
@@ -174,8 +176,6 @@
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "Template Pentesting Notes/zshrc_history.md",
     "Template Pentesting Notes/Users & Passwords.md",
-    "Template Pentesting Notes/Proof - Flag.md",
-    "Template Pentesting Notes/Interesting content.md",
     "imagenes/Pasted image 20231115002336.png",
     "imagenes/Pasted image 20231115002308.png",
     "imagenes/Pasted image 20231115002239.png",
