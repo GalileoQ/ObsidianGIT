@@ -37,4 +37,6 @@ tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style
 ### tenemos una nota que nos sugiere una direccion asi que vamos a investigar
 ![[Pasted image 20231116220645.png]]
 ### tenemos mensaje en pantalla que nos sugiere desactivar el javascript
-al parecer desactivar el javascript 
+al parecer desactivar el javascript no funciona debido a que nos sigue redirigiendo al .mp4 que hemos conseguido anteriormente.
+
+### vamos a interceptar 
