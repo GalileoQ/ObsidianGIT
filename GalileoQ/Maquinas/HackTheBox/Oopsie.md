@@ -525,8 +525,4 @@ bugtracker --help
 ```
 ###### seleccionamos la opción numero 2
 ![[2023-10-09_01-23.png]]
-User.txt
-```c
-	f2c74ee8db7983851ab2a96a44eb7981
-```
-Root.
+### WE ARE ROOT.

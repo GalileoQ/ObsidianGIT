@@ -1,5 +1,5 @@
 #### nmap
-```css
+```python
 nmap -sVC 10.129.66.130
 Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-11 16:29 EDT
 Stats: 0:00:08 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
@@ -45,7 +45,7 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 ###### Podemos ver que el puerto 21 esta corriendo el servicio ftp el cual esta configurado por defecto como anonymous
 # ftp
-```css 
+```python
 ftp 10.129.66.130
 Connected to 10.129.66.130.
 220 (vsFTPd 3.0.3)
@@ -64,12 +64,12 @@ ftp> ls
 
 ##### al entrar nos damos cuenta que existe un archivo backup.zip el cual descargaremos usando `get backup.zip` si hacemos `unzip backup.zip` al intentar descomprimir el archivo nos damos cuenta que esta cifrado por lo que usaremos `john the ripper con la opcion zip2john` 
 
-```css 
+```python
 zip2john backup.zip > backuphash  
 ```
 ##### con la opcion `>` cambiamos el nombre para que podamos ver el hash de la contraseña, ahora le hacemos un `cat` para ver si tenemos el hash y si todo esta correcto le pasamos el john 
 
-```css
+```python
 john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
 
 --Passw: 741852963
@@ -82,7 +82,7 @@ john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
 ![[2023-10-11_17-21.png]]
 #### conseguimos lo que parece ser una contraseña que esta codificada en otro hash. entonces usaremos hashid para intentar saber que tipo de hash es 
 
-```css
+``
 :hashid 2cb42f8734ea607eefed3b70af13bbd3
 ```
 ![[2023-10-11_17-42.png]]
