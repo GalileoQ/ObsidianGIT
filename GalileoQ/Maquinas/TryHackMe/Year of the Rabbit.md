@@ -75,4 +75,13 @@ strings archivo
 ### tenemos nuevas credenciales. nos falta enumerar el puerto ssh asi que probablemente estas sean las credenciales para dicho puerto.
 ![[Pasted image 20231116232954.png]]
 ### tenemos un mensaje para Gwendoline que dice lo siguiente
+```python
+1 mensaje nuevo
+Mensaje de Root a Gwendoline:
+
+"Gwendoline, no estoy contento contigo. Revisa nuestro escondite de leet s3cr3t. Te dejé un mensaje oculto allí".
+
+FINALIZAR MENSAJE
+```
+al parecer tenemos otro mensaje oculto en algun lugar llamado leet s3cr3t
 ### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
