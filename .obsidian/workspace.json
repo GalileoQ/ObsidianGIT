@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c8970d2eaeb5435",
+  "active": "c26c4db69e391a39",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "Pasted image 20231117000614.png",
     "Pasted image 20231117000435.png",

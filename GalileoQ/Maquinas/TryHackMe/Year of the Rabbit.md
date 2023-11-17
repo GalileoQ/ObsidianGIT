@@ -102,8 +102,10 @@ Tu contraseña es horrible, Gwendoline.
 
 Tuyo sinceramente
 ```
-
-
-
+### cambiamos de usuario
+```python
+	su gwendoline
+	passwd:
+```
 
 ### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
