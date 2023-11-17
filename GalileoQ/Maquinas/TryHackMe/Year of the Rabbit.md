@@ -54,5 +54,5 @@ probamos con la herramienta strings
 ```python
 strings archivo
 ```
-![[Pasted image 20231116224608.png]]
 ### tenemos una nota que nos da informacion sobre el usuario para el servicio ftp y nos dice que la contraseña puede ser una de las siguientes
+![[Pasted image 20231116224608.png]]
