@@ -36,3 +36,4 @@ tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style
 ![[Pasted image 20231116220502.png]]
 ### tenemos una nota que nos sugiere una direccion asi que vamos a investigar
 ![[Pasted image 20231116220645.png]]
+### tenemos mensaje en pantalla que nos sugiere desactivar el javascript
