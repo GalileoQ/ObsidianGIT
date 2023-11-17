@@ -44,3 +44,6 @@ al parecer desactivar el javascript no funciona debido a que nos sigue redirigie
 ### al parecer burpsuite nos dice que se esta aplicando otra redireccion asi que vamos a investigar.
 al parecer burpsuite sugiere dos rutas de redireccion
 ![[Pasted image 20231116222553.png]]
+### hemos conseguido un direcctorio oculto. vamos a investigar
+![[Pasted image 20231116222644.png]]
+### tenemos una image
