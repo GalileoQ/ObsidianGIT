@@ -120,4 +120,6 @@ aprovecharemos esto para escalar privilegios utilizando el comando vi para edita
 	con este comando le indicamos que al usuario actual le vamos a restar 1 ( -1 ) lo que nos dara como resultado 0 y el numero 0 es el usuario root, asi que aprovecharemos esto
 ```
 ### escalada de privilegios
+![[Pasted image 20231117004753.png]]
+### con esto usamos el binario /usr/bin/vi 
 ![[Pasted image 20231117004550.png]]
