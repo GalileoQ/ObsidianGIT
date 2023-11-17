@@ -35,3 +35,4 @@ podemos enumerar un directorio llamado /assets asi que vamos a investigar
 tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style.css. si miramos dentro del el vemos algo interesante. 
 ![[Pasted image 20231116220502.png]]
 ### tenemos una nota que nos sugiere una direccion asi que vamos a investigar
+![[Pasted image 20231116220645.png]]
