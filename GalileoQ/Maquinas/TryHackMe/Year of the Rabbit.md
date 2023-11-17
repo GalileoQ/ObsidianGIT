@@ -90,6 +90,8 @@ al parecer tenemos otro mensaje oculto en algun lugar llamado leet s3cr3t
 	find / -name "s3cr3t" 2>/dev/null
 ```
 ![[Pasted image 20231117000310.png]]
+tenemos otro archivo oculto
+![[Pasted image 20231117000435.png]]
 
 
 
