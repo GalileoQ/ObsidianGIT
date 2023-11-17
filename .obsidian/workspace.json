@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Oopsie.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "3ebfd49d28b11df0",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "imagenes/Pasted image 20231116210231.png",
     "Pasted image 20231116210231.png",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "Curso/Metaesploitable2.md",
-    "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
