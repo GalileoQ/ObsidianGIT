@@ -70,3 +70,6 @@ strings archivo
 ### al parecer el archivo esta encriptado de alguna manera. tendremos que buscar la forma de desencriptarlo
 ![[Pasted image 20231116232517.png]]
 ### haciendo una busqueda en internet al parecer el codigo que vemos es un codigo de programacion llamado Brainfuck. asi que buscaremos alguna manera de desencriptar este codigo ya que parece que esta ofuscado
+![[Pasted image 20231116232700.png]]
+
+### tenemos nuevas credenciales. nos falta enumerar el puerto ssh asi que probablemente estas sean las credenciales para dicho puerto.
