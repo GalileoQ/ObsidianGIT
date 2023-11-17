@@ -109,4 +109,5 @@ Tuyo sinceramente
 ```
 ### tenemos conexion somos el usuario gwendoline. nos falta escalar privilegios.
 ![[Pasted image 20231117003332.png]]
-### tenemos permisos de root para ejecutar el binario /usr/bin/vi sobre la ruta /home
+### tenemos permisos de root para ejecutar el binario /usr/bin/vi sobre la ruta /home/gwendoline/user.txt
+aprovecharemos esto para escalar privilegios utilizando el comando vi para editar el arch
