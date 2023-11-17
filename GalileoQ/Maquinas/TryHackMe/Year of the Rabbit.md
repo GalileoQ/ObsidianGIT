@@ -40,3 +40,5 @@ tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style
 al parecer desactivar el javascript no funciona debido a que nos sigue redirigiendo al .mp4 que hemos conseguido anteriormente.
 
 ### vamos a interceptar esta peticion con burpsuite
+![[Pasted image 20231116222108.png]]
+### al parecer burpsuite nos dice que se esta aplicando otra redireccion asi que vamos a investigar
