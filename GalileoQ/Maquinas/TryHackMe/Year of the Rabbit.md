@@ -50,3 +50,4 @@ solo podemos conseguir una imagen. la descargaremos a nuestro equipo de trabajo 
 ### Recopilación de información oculta
 ![[Pasted image 20231116223122.png]]
 ### al parecer la imagen esta encriptada. necesitaremos desencriptarla para poder ver la informacion
+probamo
