@@ -24,3 +24,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 85.76 seconds
 ```
 ### ports: 21/ftp - 22/ssh - 80/http
+### empezamos enumerando el puerto 80
+![[Pasted image 20231116215827.png]]
+al parecer no hay mucho en la pa
