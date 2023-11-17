@@ -114,5 +114,7 @@ aprovecharemos esto para escalar privilegios utilizando el comando vi para edita
 ### Utilizaremos el siguiente comando 
 ```python
 	sudo -u#-1
+
+	-u#
 ```
-debido a que tenemos permisos sudo los utilizaremos con e
+debido a que tenemos permisos sudo los utilizaremos con este primer comando para cambiar el usuario al ejecutar vi.
