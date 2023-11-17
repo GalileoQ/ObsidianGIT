@@ -84,4 +84,8 @@ Mensaje de Root a Gwendoline:
 FINALIZAR MENSAJE
 ```
 al parecer tenemos otro mensaje oculto en algun lugar llamado leet s3cr3t
+
+### buscaremos el direcctorio "s3cr3t" con el comando
+```python
+```
 ### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
