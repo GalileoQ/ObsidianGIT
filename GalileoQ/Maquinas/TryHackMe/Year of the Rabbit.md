@@ -32,4 +32,4 @@ al parecer no hay mucho en la pagina web.
 ![[Pasted image 20231116215958.png]]
 podemos enumerar un directorio llamado /assets asi que vamos a investigar
 ![[Pasted image 20231116220255.png]]
-tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style.css interesante. 
+tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style.css. si miramos dentro del el vemos algo interesante. 
