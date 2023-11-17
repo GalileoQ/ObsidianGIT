@@ -87,3 +87,4 @@ para ello debemos instalar puttygen
 	sudo apt install putty-tools
 ```
 ![[Pasted image 20231110193247.png]]
+### usaremos esta id_rsa para conectarnos por ssh con el usuario root
