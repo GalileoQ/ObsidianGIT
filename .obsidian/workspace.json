@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md"
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "9f68d2f0520d9c5f",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "Pasted image 20231116232954.png",
     "Pasted image 20231116232700.png",
     "Pasted image 20231116232517.png",
