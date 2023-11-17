@@ -55,7 +55,8 @@ vamos a enumerar al usuario Inorgaard
 	usernam: lnorgaard
 	Pass: Welcome2023!
 ```
-tenemos varios archivos interesantes ![[Pasted image 20231110134928.png]]
+tenemos varios archivos interesantes 
+![[Pasted image 20231110134928.png]]
 ### tenemos dos archivos de bases de datos keepass. debemos buscar algun exploit o alguna manera de conseguir la contraseña en estos archivos. 
 utilizaremos un exploit para atacar el archivo KeePassDumpFull.dmp 
 ![[Pasted image 20231110152612.png]]
