@@ -87,5 +87,11 @@ al parecer tenemos otro mensaje oculto en algun lugar llamado leet s3cr3t
 
 ### buscaremos el direcctorio "s3cr3t" con el comando
 ```python
+	find / -name "s3cr3t" 2>/dev/null
 ```
+![[Pasted image 20231117000310.png]]
+
+
+
+
 ### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
