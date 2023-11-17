@@ -80,4 +80,5 @@ crearemos exploit en python para poder aprovecharnos de esto y capturar la contr
 ![[Pasted image 20231110214804.png]]
 ### con un servidor en python nos traemos este exploit a la maquina victima para poder usarlo
 ![[Pasted image 20231110215304.png]]
-### somos usuario root.
+en este caso nuestra clave de 
+### WE ARE ROOT.
