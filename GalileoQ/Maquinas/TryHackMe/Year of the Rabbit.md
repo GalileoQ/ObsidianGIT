@@ -39,4 +39,4 @@ tenemos un archivo .mp4 que no parece ser importante. y un archivo llamado style
 ### tenemos mensaje en pantalla que nos sugiere desactivar el javascript
 al parecer desactivar el javascript no funciona debido a que nos sigue redirigiendo al .mp4 que hemos conseguido anteriormente.
 
-### vamos a interceptar 
+### vamos a interceptar esta peticion con burpsuite
