@@ -49,4 +49,4 @@ al parecer burpsuite sugiere dos rutas de redireccion
 solo podemos conseguir una imagen. la descargaremos a nuestro equipo de trabajo para intentar conseguir algún tipo de información oculta 
 ### Recopilación de información oculta
 ![[Pasted image 20231116223122.png]]
-### al parecer la imagen esta encriptada. necesitaremos desencriptarla para poder ver la inform
+### al parecer la imagen esta encriptada. necesitaremos desencriptarla para poder ver la informacion
