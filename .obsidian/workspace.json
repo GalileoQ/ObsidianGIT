@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9f68d2f0520d9c5f",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "Pasted image 20231116223122.png",
     "Pasted image 20231116222644.png",
     "Pasted image 20231116222553.png",

@@ -1,3 +1,3 @@
 ```python
-steghide --extract -sf archivo.
+steghide --extract -sf archivo.png/jpg
 ```
