@@ -46,4 +46,5 @@ al parecer burpsuite sugiere dos rutas de redireccion
 ![[Pasted image 20231116222553.png]]
 ### hemos conseguido un direcctorio oculto. vamos a investigar
 ![[Pasted image 20231116222644.png]]
-solo podemos conseguir una imagen. la descargaremos a nuestro equipo de trabajo para 
+solo podemos conseguir una imagen. la descargaremos a nuestro equipo de trabajo para intentar conseguir algún tipo de información oculta 
+### 
