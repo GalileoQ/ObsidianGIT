@@ -105,7 +105,6 @@ Tuyo sinceramente
 ### cambiamos de usuario
 ```python
 	su gwendoline
-	passwd:
+	passwd: MniVCQVhQHUNI
 ```
-
-### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
+### tenemos conexion somos el usuario gwendoline. nos falta escalar privilegios.
