@@ -124,3 +124,4 @@ aprovecharemos esto para escalar privilegios utilizando el comando vi para edita
 ### con esto usamos el binario /usr/bin/vi sobre la ruta /home/gwendoline/user.txt restando -1 al usuario actual lo que permite que se ejecute como root
 ![[Pasted image 20231117004550.png]]
 ### aqui precionamos `shift !` varias veces para poder irnos a la parte de abajo donde podremos inyectar codigo para espaunear una bash
+![[Pasted image 20231117005208.png]]
