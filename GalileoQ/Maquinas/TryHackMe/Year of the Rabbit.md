@@ -95,6 +95,13 @@ tenemos otro archivo oculto
 hacemos un cat de este archivo oculto que hemos encontrado
 ![[Pasted image 20231117000614.png]]
 ### tenemos un nuevo mensaje con lo que parece ser credenciales del usuario Gwendoline
+```python
+Tu contraseña es horrible, Gwendoline.
+¡Debe tener al menos 60 caracteres! No sólo MniVCQVhQHUNI
+¡Honestamente!
+
+Tuyo sinceramente
+```
 
 
 
