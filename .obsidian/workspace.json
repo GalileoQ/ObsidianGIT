@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d1c97c37014db5",
+        "id": "317674b97cfe5da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f68d2f0520d9c5f",
+            "id": "c26c4db69e391a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f66cdfbb75709d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md"
               }
             }
           }
@@ -158,10 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9f68d2f0520d9c5f",
+  "active": "c26c4db69e391a39",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "Pasted image 20231116232954.png",
     "Pasted image 20231116232700.png",
     "Pasted image 20231116232517.png",
@@ -193,7 +182,6 @@
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "entorno",

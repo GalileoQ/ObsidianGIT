@@ -74,4 +74,5 @@ strings archivo
 
 ### tenemos nuevas credenciales. nos falta enumerar el puerto ssh asi que probablemente estas sean las credenciales para dicho puerto.
 ![[Pasted image 20231116232954.png]]
+### tenemos un mensaje 
 ### tenemos conexion somos el usuario eli. nos falta escalar privilegios.
