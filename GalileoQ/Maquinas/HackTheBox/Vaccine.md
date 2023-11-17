@@ -208,12 +208,14 @@ hacemos sudo -l para saber cuales son los permiso que tiene el usuario postgres 
 
 ```python
 /bin/vi /etc/postgresql/11/main/pg_hba.config`
+```
 
 vemos que tiene permisos solo en este archivo asi que lo ejecutaremos como administrador 
+```python
+sudo /bin/vi /etc/postgresql/11/main/pg_hba.config
+```
 
-`sudo /bin/vi /etc/postgresql/11/main/pg_hba.config`
-
-abrimos el archivo, ponemos : y le decimos que nos de una shell y presionamos enter. 
+abrimos el archivo, y le decimos que nos de una shell y presionamos enter. 
 automaticamente seremos root
 
 root.txt
