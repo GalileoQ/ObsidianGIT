@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "68a14d44c9fd0b28",
+  "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "Pasted image 20231118202125.png",
     "Pasted image 20231118201948.png",
     "Pasted image 20231118201742.png",
