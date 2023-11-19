@@ -49,3 +49,5 @@ tenemos una pagina que al parecer nos permite ejecutar codigo
 ![[Pasted image 20231118202125.png]]
 ### Al parecer somos el usuario www-data  pero no podemos ejecutar cualquier codigo ya que nos da errores
 ### despues de una larga busqueda por internet y probar un monton de cosas hemos consegido que interponiendo la barra slash invertido en cada letra de comando al parecer nos deja ejecutarlo. usaremos esto para intentar enviarnos una reverse shell 
+![[Pasted image 20231118212931.png]]
+### hemos creado un archivo shell.php con una reverse shell y hemos creado un servido
