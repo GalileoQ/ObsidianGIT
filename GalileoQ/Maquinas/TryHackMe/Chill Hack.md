@@ -45,3 +45,4 @@ la pagina principal parace no tener nada importante
 ### fuzzing con gobuster
 ![[Pasted image 20231118201742.png]]
 ### tenemos un monton de directorios pero el que nos llama mas la atencion es /secret asi que vamos a investigar
+tenemos una pagina que al parecer nos permite ejecu
