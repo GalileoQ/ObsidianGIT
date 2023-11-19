@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md"
               }
             }
           }
@@ -183,8 +182,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "633f613e32d99ad7",
+  "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "Pasted image 20231118212931.png",
@@ -200,7 +200,6 @@
     "Pasted image 20231117004550.png",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "Pasted image 20231117003332.png",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
