@@ -46,4 +46,5 @@ la pagina principal parace no tener nada importante
 ![[Pasted image 20231118201742.png]]
 ### tenemos un monton de directorios pero el que nos llama mas la atencion es /secret asi que vamos a investigar
 tenemos una pagina que al parecer nos permite ejecutar codigo
-![[Pasted image 20231118201948.png]]
+![[Pasted image 20231118202125.png]]
+### tenemos una 
