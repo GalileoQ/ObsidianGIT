@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "deeb36ac0e4596ea",
+            "id": "8f8f70c109b62e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "633f613e32d99ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68a14d44c9fd0b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -183,13 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "633f613e32d99ad7",
+  "active": "8f8f70c109b62e85",
   "lastOpenFiles": [
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
-    "Pasted image 20231118214103.png",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
+    "Pasted image 20231118214103.png",
     "Pasted image 20231118212931.png",
     "Pasted image 20231118202125.png",
     "Pasted image 20231118201948.png",
