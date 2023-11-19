@@ -40,3 +40,5 @@ Nmap done: 1 IP address (1 host up) scanned in 80.51 seconds
 ### ports: 21/tcp - 22/ssh - 80/http
 
 ### Enumeración 80
+![[Pasted image 20231118200242.png]]
+### la pagina princi
