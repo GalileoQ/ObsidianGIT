@@ -47,4 +47,4 @@ la pagina principal parace no tener nada importante
 ### tenemos un monton de directorios pero el que nos llama mas la atencion es /secret asi que vamos a investigar
 tenemos una pagina que al parecer nos permite ejecutar codigo
 ![[Pasted image 20231118202125.png]]
-### tenemos una 
+### Al parecer somos el usuario www-data  pero no podemos ejecutar cualquier codigo ya que nos da errores
