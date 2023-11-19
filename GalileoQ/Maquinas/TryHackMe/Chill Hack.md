@@ -41,4 +41,5 @@ Nmap done: 1 IP address (1 host up) scanned in 80.51 seconds
 
 ### Enumeración 80
 ![[Pasted image 20231118200242.png]]
-### la pagina princi
+la pagina principal parace no tener nada importante
+### fuzzing con gobuster
