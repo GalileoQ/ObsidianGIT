@@ -43,3 +43,5 @@ Nmap done: 1 IP address (1 host up) scanned in 80.51 seconds
 ![[Pasted image 20231118200242.png]]
 la pagina principal parace no tener nada importante
 ### fuzzing con gobuster
+![[Pasted image 20231118201742.png]]
+### tenemos un monton de directorios pero el que nos llama mas la atencion es /secret asi que vamos a investigar
