@@ -12,10 +12,6 @@
 ### Python
 
 ```python
-python3 -c 'import pty; pty.spawn("/bin/bash")'
-```
-
-```css
 	python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 

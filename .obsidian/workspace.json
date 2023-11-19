@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md"
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
               }
             }
           }
@@ -182,14 +183,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fe7e4dafb44b442",
+  "active": "633f613e32d99ad7",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "Pasted image 20231118214103.png",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
-    "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "Pasted image 20231118212931.png",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20231118202125.png",
     "Pasted image 20231118201948.png",
     "Pasted image 20231118201742.png",
@@ -200,7 +201,6 @@
     "Pasted image 20231117004753.png",
     "Pasted image 20231117004550.png",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "Pasted image 20231117003332.png",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
