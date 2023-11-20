@@ -66,4 +66,6 @@ al parecer tenemos un script de apaar pero todos pueden ejecutarlo. asi que vamo
 sudo -u apaar /home/apaar/.helpline.sh
 ```
 ![[Pasted image 20231119202426.png]]
-### perfecto. somos ap
+### perfecto. somos apaar. hacemos tratamiento de tty y listamos directorios
+![[Pasted image 20231119202943.png]]
+### el index.php parece no tener nada muy importante
