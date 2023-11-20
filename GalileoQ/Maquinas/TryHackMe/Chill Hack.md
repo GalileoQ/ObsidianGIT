@@ -103,4 +103,4 @@ vamos a mirar el archivo hacker.php
 
 ![[Pasted image 20231119210309.png]]
 
-### al intentar descomprimir el archivo nos damos cuenta que tambien esta encriptado asi que le damos enter pero en este caso no tene
+### al intentar descomprimir el archivo nos damos cuenta que tambien esta encriptado asi que le damos enter pero en este caso no tenemos suerte. asi que vamos a
