@@ -70,3 +70,4 @@ sudo -u apaar /home/apaar/.helpline.sh
 ![[Pasted image 20231119202943.png]]
 ###### El index.php parece no tener nada muy importante y en imagenes tampoco.
 ### seguimos buscando y conseguimos una ruta donde tenemos archivos muy interesantes
+vamos a mirar el arch
