@@ -78,3 +78,7 @@ vamos a mirar el archivo hacker.php
 ###### en este caso tenemos informacion sobre una base de datos. nos dan pistas sobre el tipo de hash utilizados y parece que apunta a la tabla de usuarios
 ### el archivo index.php nos da informacion sobre lo que efectivamente es una base de datos
 ![[Pasted image 20231119204232.png]]
+###### tenemos informacion sobre una base de datos mysql y al parecer las credenciales son
+```python
+	DATABASE: user
+```
