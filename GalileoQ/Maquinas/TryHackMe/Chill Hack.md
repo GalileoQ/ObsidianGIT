@@ -89,3 +89,4 @@ vamos a mirar el archivo hacker.php
 ### nos faltaria enumerar el directorio images
 ![[Pasted image 20231119204822.png]]
 ### tenemos un gif y un jpg que por el nombre nos da algo de curiosidad. vamos a descargarla a nuestra maquina para poder examinarla
+![[Pasted image 20231119205135.png]]
