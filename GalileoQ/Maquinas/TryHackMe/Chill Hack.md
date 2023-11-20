@@ -120,6 +120,9 @@ zip2john backup.zip > backup.hash
 ![[Pasted image 20231119212545.png]]
 ### tal parece que se trata de una pagina admin portal en el cual podemos ver una contraseña en base64 y un mensaje que dice Welcome anurodh. al parecer son las credenciales para este usuario
 
+Credenciales
 ```python
+	pass: IWQwbnRLbjB3bVlwQHNzdzByZA==
 
+	user: 
 ```
