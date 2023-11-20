@@ -114,5 +114,5 @@ zip2john backup.zip > backup.hash
 ```python 
 	pass1word
 ```
-### us
+### usamos la contraseña para descomprimir el archivo 
 ![[Pasted image 20231119211930.png]]
