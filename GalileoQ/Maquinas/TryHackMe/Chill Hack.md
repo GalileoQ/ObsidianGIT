@@ -141,4 +141,6 @@ docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 ```
 
 ![[Pasted image 20231119220634.png]]
+
+![[Pasted image 20231119221128.png]]
 ### WE ARE ROOT.
