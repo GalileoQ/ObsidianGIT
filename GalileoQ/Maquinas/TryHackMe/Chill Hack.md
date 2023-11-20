@@ -57,4 +57,6 @@ tenemos una pagina que al parecer nos permite ejecutar codigo
 ### somos el usuario www-data
 hemos intentado hacer tratamiento de tty pero al parecer no podemos. tendremos que hacer movimiento lateral hacia otro usuario para intentarlo de nuevo
 ![[Pasted image 20231118214103.png]]
-### hace
+### veamos los permisos SUID
+![[Pasted image 20231119202137.png]]
+al parecer tenemos un script de apaar pero todos pueden 
