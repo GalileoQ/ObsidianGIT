@@ -72,4 +72,5 @@ sudo -u apaar /home/apaar/.helpline.sh
 ### seguimos buscando y conseguimos una ruta donde tenemos archivos muy interesantes
 vamos a mirar el archivo hacker.php
 ![[Pasted image 20231119203534.png]]
-### tenemos lo que parece ser una pagina web con una imagen y un mensaje que dice: mira en la oscuridad y podrás conseguir la respuesta
+###### tenemos lo que parece ser una pagina web con una imagen y un mensaje que dice: mira en la oscuridad y podrás conseguir la respuesta
+### hacemos cat al siguiente archivo en este caso a
