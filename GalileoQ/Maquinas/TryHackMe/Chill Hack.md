@@ -66,3 +66,4 @@ al parecer tenemos un script de apaar pero todos pueden ejecutarlo. asi que vamo
 sudo -u apaar /home/apaar/.helpline.sh
 ```
 ![[Pasted image 20231119202426.png]]
+### perfecto. somos ap
