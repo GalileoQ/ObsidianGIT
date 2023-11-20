@@ -100,3 +100,7 @@ vamos a mirar el archivo hacker.php
 
 ![[Pasted image 20231119205505.png]]
 ### el archivo pide una contraseña la cual no conocemos asi que solo damos enter. nos dara un mensaje de error pero si listamos nos damos cuenta que tenemos un nuevo archivo llamado backup.zip
+
+![[Pasted image 20231119210309.png]]
+
+### al intentar descomprimir el archivo nos damos cuenta que tambien esta encriptado asi que le damos enter pero en este caso no tene
