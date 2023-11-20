@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Chill Hack.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f8f70c109b62e85",
+  "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Shells/OneLiners.md",
@@ -178,7 +178,6 @@
     "Pasted image 20231117004550.png",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
