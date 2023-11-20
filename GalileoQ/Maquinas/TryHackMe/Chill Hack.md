@@ -108,4 +108,6 @@ vamos a mirar el archivo hacker.php
 zip2john backup.zip > backup.hash
 ```
 ![[Pasted image 20231119211020.png]]
-###
+### descomprimimos el archivo backuo.hash que hemos creado usando jhon
+![[Pasted image 20231119211549.png]]
+### tenemos la contraseña 
