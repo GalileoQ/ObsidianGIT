@@ -117,3 +117,5 @@ zip2john backup.zip > backup.hash
 ### usamos la contraseña para descomprimir el archivo 
 ![[Pasted image 20231119211930.png]]
 ### tenemos un nuecho archivo llamado source_code.php
+![[Pasted image 20231119212545.png]]
+### tal parece que se trata de una pagina admin portal
