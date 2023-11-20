@@ -80,5 +80,9 @@ vamos a mirar el archivo hacker.php
 ![[Pasted image 20231119204232.png]]
 ###### tenemos informacion sobre una base de datos mysql y al parecer las credenciales son
 ```python
-	DATABASE: user
+	DATABASE:
+
+	User: root
+
+	Passwd: !@m+her00+@db
 ```
