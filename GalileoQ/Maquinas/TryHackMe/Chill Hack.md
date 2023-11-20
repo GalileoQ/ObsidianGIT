@@ -108,3 +108,4 @@ vamos a mirar el archivo hacker.php
 zip2john backup.zip > backup.hash
 ```
 ![[Pasted image 20231119211020.png]]
+###
