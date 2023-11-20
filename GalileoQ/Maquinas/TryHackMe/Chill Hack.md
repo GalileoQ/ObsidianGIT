@@ -135,3 +135,11 @@ somos anurodh
 ### enumeramos permisos permisos SUID pero al parecer son los mismos permisos asi que hacemos un id para saber a que grupo pertenecemos
 ![[Pasted image 20231119220324.png]]
 ### parece que estamos dentro de un docker. usaremos esto para escalar privilegios
+
+```python
+	```
+docker run -v /:/mnt --rm -it alpine chroot /mnt sh
+```
+```
+
+![[Pasted image 20231119220634.png]]
