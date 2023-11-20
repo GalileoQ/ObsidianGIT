@@ -60,5 +60,9 @@ hemos intentado hacer tratamiento de tty pero al parecer no podemos. tendremos q
 ### veamos los permisos SUID
 ![[Pasted image 20231119202137.png]]
 al parecer tenemos un script de apaar pero todos pueden ejecutarlo. asi que vamos a aprovechar esto para intentar cambiarlos al usuario apaar.
-### aprovechamos que apaar puede ejecutar este script asi que lo intentaremos ejecuta
+### aprovechamos que apaar puede ejecutar este script asi que lo intentaremos ejecutar como apaar con el siguiente comando
+
+```python 
+sudo -u apaar /home/apaar/.helpline.sh
+```
 ![[Pasted image 20231119202426.png]]
