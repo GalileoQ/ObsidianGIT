@@ -132,4 +132,6 @@ Credenciales
 ### usaremos estas credenciales para iniciar sección 
 ![[Pasted image 20231119215926.png]]
 somos anurodh
-### enumeramos permisos permisos SUID pero al parecer son los mismos permisos as
+### enumeramos permisos permisos SUID pero al parecer son los mismos permisos asi que hacemos un id para saber a que grupo pertenecemos
+![[Pasted image 20231119220324.png]]
+### parece que estamos dentro de un docker. usaremos esto para escalar privilegios
