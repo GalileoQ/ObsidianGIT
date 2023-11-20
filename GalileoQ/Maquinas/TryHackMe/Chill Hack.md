@@ -91,3 +91,5 @@ vamos a mirar el archivo hacker.php
 ### tenemos un gif y un jpg que por el nombre nos da algo de curiosidad. vamos a descargarla a nuestra maquina para poder examinarla
 ![[Pasted image 20231119205135.png]]
 ### con un servidor en python hemos descargado la imagen ahora podemos examinarla desde nuestra maquina
+![[Pasted image 20231119205505.png]]
+### hemos utilizado la herramienta binwalk pero parece estar todo bien. 
