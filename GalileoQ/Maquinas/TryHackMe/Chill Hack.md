@@ -73,4 +73,6 @@ sudo -u apaar /home/apaar/.helpline.sh
 vamos a mirar el archivo hacker.php
 ![[Pasted image 20231119203534.png]]
 ###### tenemos lo que parece ser una pagina web con una imagen y un mensaje que dice: mira en la oscuridad y podrás conseguir la respuesta
-### hacemos cat al siguiente archivo en este caso a
+### hacemos cat al siguiente archivo en este caso account.php
+![[Pasted image 20231119203858.png]]
+### en este caso tenemos informacion sobre una base de datos. nos dan pistas sobre 
