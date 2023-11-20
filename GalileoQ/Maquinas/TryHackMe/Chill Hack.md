@@ -129,4 +129,6 @@ Credenciales
 
 ### vamos a decodear esta password en base64 y intentaremos conectarnos como anurodh
 ![[Pasted image 20231119215709.png]]
-### usaremos estas credenciales para 
+### usaremos estas credenciales para iniciar sección 
+![[Pasted image 20231119215926.png]]
+somos anurodh
