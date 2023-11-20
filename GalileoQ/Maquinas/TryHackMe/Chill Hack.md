@@ -68,4 +68,5 @@ sudo -u apaar /home/apaar/.helpline.sh
 ![[Pasted image 20231119202426.png]]
 ### perfecto. somos apaar. hacemos tratamiento de tty y listamos directorios
 ![[Pasted image 20231119202943.png]]
-### el index.php parece no tener nada muy importante
+###### El index.php parece no tener nada muy importante y en imagenes tampoco.
+### seguimos buscando y conseguimos una ruta donde tenemos archivos muy interesantes
