@@ -126,3 +126,5 @@ Credenciales
 
 	user: Anurodh
 ```
+
+### vamos a decodear esta password en base64 y intentaremos conectarnos como anurodh
