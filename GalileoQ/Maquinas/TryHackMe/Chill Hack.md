@@ -86,4 +86,6 @@ vamos a mirar el archivo hacker.php
 
 	Passwd: !@m+her00+@db
 ```
-### 
+### nos faltaria enumerar el directorio images
+![[Pasted image 20231119204822.png]]
+### tenemos un gif 
