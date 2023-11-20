@@ -128,3 +128,5 @@ Credenciales
 ```
 
 ### vamos a decodear esta password en base64 y intentaremos conectarnos como anurodh
+![[Pasted image 20231119215709.png]]
+### usaremos estas credenciales para 
