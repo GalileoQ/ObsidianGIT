@@ -70,4 +70,6 @@ sudo -u apaar /home/apaar/.helpline.sh
 ![[Pasted image 20231119202943.png]]
 ###### El index.php parece no tener nada muy importante y en imagenes tampoco.
 ### seguimos buscando y conseguimos una ruta donde tenemos archivos muy interesantes
-vamos a mirar el arch
+vamos a mirar el archivo hacker.php
+![[Pasted image 20231119203534.png]]
+### tenemos lo que parece ser una pagina web con una imagen y un mensaje que dice: mira en la oscuridad y podrás conseguir la respuesta
