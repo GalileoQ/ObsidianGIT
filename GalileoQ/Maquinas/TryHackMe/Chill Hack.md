@@ -88,8 +88,9 @@ vamos a mirar el archivo hacker.php
 ```
 ### nos faltaria enumerar el directorio images
 ![[Pasted image 20231119204822.png]]
-### tenemos un gif y un jpg que por el nombre nos da algo de curiosidad. vamos a descargarla a nuestra maquina para poder examinarla
+###### tenemos un gif y un jpg que por el nombre nos da algo de curiosidad. vamos a descargarla a nuestra maquina para poder examinarla
+### hemos utilizado la herramienta binwalk pero parece estar todo bien. luego usamos steghide para intentar extraer informacion oculta en la imagen
+``
 ![[Pasted image 20231119205135.png]]
 ### con un servidor en python hemos descargado la imagen ahora podemos examinarla desde nuestra maquina
 ![[Pasted image 20231119205505.png]]
-### hemos utilizado la herramienta binwalk pero parece estar todo bien. 
