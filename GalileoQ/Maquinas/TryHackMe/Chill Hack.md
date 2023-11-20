@@ -132,3 +132,4 @@ Credenciales
 ### usaremos estas credenciales para iniciar sección 
 ![[Pasted image 20231119215926.png]]
 somos anurodh
+### enumeramos permisos permisos SUID pero al parecer son los mismos permisos as
