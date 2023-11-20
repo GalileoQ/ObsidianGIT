@@ -99,4 +99,4 @@ vamos a mirar el archivo hacker.php
 ```
 
 ![[Pasted image 20231119205505.png]]
-### el archi
+### el archivo pide una contraseña la cual no conocemos asi que solo damos enter. nos dara un mensaje de error pero si listamos nos damos cuenta que tenemos un nuevo archivo llamado backup.zip
