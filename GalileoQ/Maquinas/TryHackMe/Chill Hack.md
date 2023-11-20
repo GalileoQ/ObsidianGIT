@@ -118,4 +118,4 @@ zip2john backup.zip > backup.hash
 ![[Pasted image 20231119211930.png]]
 ### tenemos un nuecho archivo llamado source_code.php
 ![[Pasted image 20231119212545.png]]
-### tal parece que se trata de una pagina admin portal
+### tal parece que se trata de una pagina admin portal en el cual podemos ver una contraseña en base64 y un mensaje que dice Welcome anurod
