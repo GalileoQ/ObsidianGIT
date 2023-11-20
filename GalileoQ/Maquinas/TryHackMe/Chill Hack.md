@@ -75,4 +75,4 @@ vamos a mirar el archivo hacker.php
 ###### tenemos lo que parece ser una pagina web con una imagen y un mensaje que dice: mira en la oscuridad y podrás conseguir la respuesta
 ### hacemos cat al siguiente archivo en este caso account.php
 ![[Pasted image 20231119203858.png]]
-### en este caso tenemos informacion sobre una base de datos. nos dan pistas sobre 
+### en este caso tenemos informacion sobre una base de datos. nos dan pistas sobre el tipo de hash utilizados y parece que apunta a la tabla de usuarios
