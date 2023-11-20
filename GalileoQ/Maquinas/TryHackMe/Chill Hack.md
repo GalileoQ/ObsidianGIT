@@ -114,3 +114,5 @@ zip2john backup.zip > backup.hash
 ```python 
 	pass1word
 ```
+### us
+![[Pasted image 20231119211930.png]]
