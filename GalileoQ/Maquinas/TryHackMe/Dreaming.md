@@ -28,4 +28,4 @@ en este caso parece que no tenemos mucho
 ### aquí podemos enumerar el framework en el que esta echo la pagina y también un usuario admin
 ### si entramos en admin nos dirige a una pagina donde podremos logearnos pero aun no tenemos credenciales. lo que si podemos conseguir es lo que parece ser la version del framework y este lo podemos usar para buscar exploit que nos ayuden a entrar en la pagina
 ![[Pasted image 20231121124556.png]]
-### despues de 
+### despues de una busqueda en internet hemos encontrado un script que no funciona pero leyendo el codigo hemos descubierto que la clave que utiliza para ingresar a la pagina es password
