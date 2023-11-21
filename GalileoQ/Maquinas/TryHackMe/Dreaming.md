@@ -30,3 +30,5 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121124556.png]]
 ### despues de una busqueda en internet hemos encontrado un script que no funciona pero leyendo el codigo hemos descubierto que la clave que utiliza para ingresar a la pagina es password
 ### enumerando todos las rutas de la pagina parece que tenemos un apartado que nos permite subir archivos
+![[Pasted image 20231121134946.png]]
+### intentaremos subir un archivo mali
