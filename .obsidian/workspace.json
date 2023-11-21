@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a4ea36a6fe9a9deb",
+  "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121124556.png",
     "Pasted image 20231121123850.png",
