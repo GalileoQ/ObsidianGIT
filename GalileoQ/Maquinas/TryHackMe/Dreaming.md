@@ -50,4 +50,6 @@ en este caso parece que no tenemos mucho
 ### en este caso primero vamos a intentar enumerar al usuario morpheus, donde podemos ver la flag pero no tenemos permisos. y tambien tenemos un archivo restore.py muy interesante
 
 ![[Pasted image 20231121152552.png]]
-### 
+### si hacemos un cat al archivo restore.py podemos ver que 
+
+![[Pasted image 20231121153245.png]]
