@@ -47,4 +47,5 @@ en este caso parece que no tenemos mucho
 	username morpheus
 ```
 
-### en este caso primero vamos a intentar enumerar al usuario morpheus, podemos
+### en este caso primero vamos a intentar enumerar al usuario morpheus, donde podemos ver la 
+![[Pasted image 20231121152552.png]]
