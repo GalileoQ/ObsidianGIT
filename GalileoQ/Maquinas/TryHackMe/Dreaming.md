@@ -54,4 +54,3 @@ en este caso parece que no tenemos mucho
 
 ![[Pasted image 20231121153245.png]]
 
-### enumeramos al usuario death
