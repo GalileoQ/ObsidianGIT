@@ -16,4 +16,7 @@ Nmap done: 1 IP address (1 host up) scanned in 89.87 seconds
 ```
 ### ports: 22/ssh - 80/http
 
-### empezamos enumerando el 
+### empezamos enumerando el puerto 80
+![[Pasted image 20231121122855.png]]
+en este caso parece que no tenemos mucho
+### Fuzzing con gobuster
