@@ -21,4 +21,5 @@ Nmap done: 1 IP address (1 host up) scanned in 89.87 seconds
 en este caso parece que no tenemos mucho
 ### Fuzzing con gobuster
 ![[Pasted image 20231121123528.png]]
-### tenemos un directorio llamado app. en el que encontramos 
+### tenemos un directorio llamado app. en el que encontramos una carpeta llamada pluck
+![[Pasted image 20231121123646.png]]
