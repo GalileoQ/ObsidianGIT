@@ -23,3 +23,6 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121123528.png]]
 ### tenemos un directorio llamado app. en el que encontramos una carpeta llamada pluck
 ![[Pasted image 20231121123646.png]]
+### nos lleva a lo que parece ser la pagina principal
+![[Pasted image 20231121123850.png]]
+### aqui podemos enumerar el fram
