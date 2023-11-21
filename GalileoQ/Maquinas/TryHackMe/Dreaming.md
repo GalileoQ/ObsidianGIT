@@ -54,4 +54,4 @@ en este caso parece que no tenemos mucho
 
 ![[Pasted image 20231121153245.png]]
 
-### despues 
+### despues de una larga busqueda e intentando muchisimas cosas entre ellas pspy64 el cual no se puede ejecutar debido a un archivo en el sistema que lo impide hemos encontrado esto:
