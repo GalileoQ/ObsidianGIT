@@ -20,3 +20,5 @@ Nmap done: 1 IP address (1 host up) scanned in 89.87 seconds
 ![[Pasted image 20231121122855.png]]
 en este caso parece que no tenemos mucho
 ### Fuzzing con gobuster
+![[Pasted image 20231121123528.png]]
+### tenemos un directorio llamado app. en el que encontramos 
