@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -158,11 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fe7e4dafb44b442",
+  "active": "bed9f35416aa13e9",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121153245.png",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121152552.png",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
@@ -174,7 +175,6 @@
     "Pasted image 20231121145707.png",
     "Pasted image 20231121134946.png",
     "Pasted image 20231121124556.png",
-    "Pasted image 20231121123850.png",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
