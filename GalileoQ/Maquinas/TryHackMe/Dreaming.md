@@ -62,4 +62,4 @@ en este caso parece que no tenemos mucho
 ### efectivamente el archivo test.py contenia las credenciales de lucien
 ### hacemos cat al archivo getDreams.py
 ![[Pasted image 20231121163711.png]]
-### obtenemos informacion sobre una base de datos mysql. 
+### obtenemos información sobre una base de datos mysql. 
