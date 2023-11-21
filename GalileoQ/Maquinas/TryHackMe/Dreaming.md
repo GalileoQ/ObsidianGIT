@@ -39,4 +39,12 @@ en este caso parece que no tenemos mucho
 ### Despues de hacer tratamiento de tty vamos al directorio /home
 ![[Pasted image 20231121151554.png]]
 ### dentro del directorio /home tenemos tres usuarios 
-``
+```python
+	Username: death
+	
+	username: lucien
+	
+	username morpheus
+```
+
+### primero va
