@@ -11,41 +11,9 @@
             "id": "4fe7e4dafb44b442",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231121151554.png"
-              }
-            }
-          },
-          {
-            "id": "e2910b89489cc34c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231121151554.png"
-              }
-            }
-          },
-          {
-            "id": "a4ea36a6fe9a9deb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ed616bc0bd34fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231121151554.png",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231121151554.png",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231121151554.png"
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
               }
             }
           }
@@ -180,6 +148,8 @@
   },
   "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121151554.png",
     "Pasted image 20231121151929.png",
@@ -188,12 +158,10 @@
     "Pasted image 20231121145905.png",
     "Pasted image 20231121145707.png",
     "Pasted image 20231121134946.png",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "Pasted image 20231121124556.png",
     "Pasted image 20231121123850.png",
     "Pasted image 20231121123646.png",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
