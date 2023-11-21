@@ -47,4 +47,4 @@ en este caso parece que no tenemos mucho
 	username morpheus
 ```
 
-### este caso primero vamos a intentar enumerar al usuario morpheus 
+### en este caso primero vamos a intentar enumerar al usuario morpheus, podemos
