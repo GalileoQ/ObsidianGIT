@@ -32,4 +32,4 @@ en este caso parece que no tenemos mucho
 ### enumerando todos las rutas de la pagina parece que tenemos un apartado que nos permite subir archivos
 ![[Pasted image 20231121134946.png]]
 ### intentaremos subir un archivo que contenga una revershell 
-### despues de hacer un 
+### despues de hacer un monton de pruebas parece que la pagina agrega .txt a cada archivo que subimos asi que intentamos baypassar esto probando muchas opciones y phar nos ha funcionado
