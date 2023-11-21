@@ -38,7 +38,6 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121145905.png]]
 ### Despues de hacer tratamiento de tty vamos al directorio /home
 ![[Pasted image 20231121151554.png]]
-]
 ### dentro del directorio /home tenemos tres usuarios 
 ```python
 	Username: death
@@ -48,4 +47,4 @@ en este caso parece que no tenemos mucho
 	username morpheus
 ```
 
-### primero vamos a enumerar al usuario lucien asi que dentro de este vemos la primera flag la cual no tenemos permisos 
+### este caso primero vamos a intentar enumerar al usuario morpheus 
