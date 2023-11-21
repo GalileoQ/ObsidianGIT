@@ -26,3 +26,5 @@ en este caso parece que no tenemos mucho
 ### nos lleva a lo que parece ser la pagina principal
 ![[Pasted image 20231121123850.png]]
 ### aquí podemos enumerar el framework en el que esta echo la pagina y también un usuario admin
+### si entramos en admin nos dirige a una pagina donde podremos logearn
+![[Pasted image 20231121124556.png]]
