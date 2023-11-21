@@ -63,4 +63,4 @@ en este caso parece que no tenemos mucho
 ### hacemos cat al archivo getDreams.py
 ![[Pasted image 20231121163711.png]]
 ### obtenemos información sobre una base de datos mysql. 
-### vamos a intentar buscar 
+### vamos a intentar buscar el bash_history del usuario lucien para intentar recopilar mas informacion
