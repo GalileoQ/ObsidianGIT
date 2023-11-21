@@ -16,4 +16,4 @@ Nmap done: 1 IP address (1 host up) scanned in 89.87 seconds
 ```
 ### ports: 22/ssh - 80/http
 
-### 
+### empezamos enumerando el 
