@@ -32,3 +32,4 @@ en este caso parece que no tenemos mucho
 ### enumerando todos las rutas de la pagina parece que tenemos un apartado que nos permite subir archivos
 ![[Pasted image 20231121134946.png]]
 ### intentaremos subir un archivo que contenga una revershell 
+### despues de hacer un 
