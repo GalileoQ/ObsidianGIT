@@ -64,3 +64,5 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121163711.png]]
 ### obtenemos información sobre una base de datos mysql. 
 ### vamos a intentar buscar el bash_history del usuario lucien para intentar recopilar mas informacion
+![[Pasted image 20231121172038.png]]
+### genial. optenemos informacion valiosa. al parecer lucien se a
