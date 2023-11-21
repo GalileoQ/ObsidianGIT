@@ -57,3 +57,6 @@ en este caso parece que no tenemos mucho
 ### despues de una larga busqueda e intentando muchisimas cosas entre ellas pspy64 el cual no se puede ejecutar debido a un archivo en el sistema que lo impide hemos encontrado esto:
 ![[Pasted image 20231121162834.png]]
 ### en el directorio opt existe un archivo llamado test.py y haciendo un cat podemos ver que al parecer contiene la contraseña del usuario lucien 
+
+![[Pasted image 20231121163324.png]]
+### efectivamente 
