@@ -59,4 +59,4 @@ en este caso parece que no tenemos mucho
 ### en el directorio opt existe un archivo llamado test.py y haciendo un cat podemos ver que al parecer contiene la contraseña del usuario lucien 
 
 ![[Pasted image 20231121163324.png]]
-### efectivamente 
+### efectivamente el archivo test.py contenia las credenciales de lucien
