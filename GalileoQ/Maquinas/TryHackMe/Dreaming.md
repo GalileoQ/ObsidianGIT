@@ -25,4 +25,4 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121123646.png]]
 ### nos lleva a lo que parece ser la pagina principal
 ![[Pasted image 20231121123850.png]]
-### aqui podemos enumerar el fram
+### aquí podemos enumerar el framework en el que esta echo la pagina y también un usuario admin
