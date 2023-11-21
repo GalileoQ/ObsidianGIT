@@ -26,5 +26,5 @@ en este caso parece que no tenemos mucho
 ### nos lleva a lo que parece ser la pagina principal
 ![[Pasted image 20231121123850.png]]
 ### aquí podemos enumerar el framework en el que esta echo la pagina y también un usuario admin
-### si entramos en admin nos dirige a una pagina donde podremos logearn
+### si entramos en admin nos dirige a una pagina donde podremos logearnos pero aun no tenemos credenciales. lo que si podemos conseguir es lo que parece ser la version del framework y este lo podemos usar para buscar exploit
 ![[Pasted image 20231121124556.png]]
