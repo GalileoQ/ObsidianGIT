@@ -36,4 +36,7 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121145707.png]]
 ### nos ponemos a la escucha y recibimos nuestra shell
 ![[Pasted image 20231121145905.png]]
-### nos vamos al directorio home 
+### Despues de hacer tratamiento de tty vamos al directorio /home
+![[Pasted image 20231121151554.png]]
+### dentro del directorio /home tenemos tres usuarios 
+``
