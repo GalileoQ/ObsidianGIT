@@ -122,4 +122,4 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121223213.png]]
 ### tenemos un resultado similar. podríamos buscar la librería que importa el archivo para intentar codificarla y de esta manera inyectar codigo
 ![[Pasted image 20231121223908.png]]
-### hacemos un ls -l de la libreria
+### hacemos un ls -l de la libreria. en este caso es la /usr/lib/python3.8 debido a que siguen una orden 
