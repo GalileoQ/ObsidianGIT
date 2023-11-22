@@ -102,3 +102,6 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121221033.png]]
 ### efectivamente podemos ver que esto es una tarea cron que se ejecuta cada cierto tiempo con python3.8
 ![[Pasted image 20231121221342.png]]
+### vamos a dejar esto corriendo y nos vamos a conectar en parelalo via ssh con las credenciales de death
+![[Pasted image 20231121221905.png]]
+### 
