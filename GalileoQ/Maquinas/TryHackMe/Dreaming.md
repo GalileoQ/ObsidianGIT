@@ -109,3 +109,6 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ### como vimos anteriormente este archivo hace un llamado a una libreria en especifico asi que vamos a buscar algun tipo de vulnerabilidad conocida. por ejemplo hijacking
 ![[Pasted image 20231121222545.png]]
 ### buscaremos un escenario que sea parecido al que tenemos actualmente
+
+![[Pasted image 20231121222813.png]]
+### en este caso 
