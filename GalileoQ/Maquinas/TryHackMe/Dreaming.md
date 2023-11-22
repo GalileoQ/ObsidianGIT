@@ -80,4 +80,6 @@ en este caso parece que no tenemos mucho
 
 ### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo.
 ![[Pasted image 20231121214610.png]]
-### logramos tener conexion. dentro de este usuario hacemos cat al archivo get
+### logramos tener conexion. dentro de este usuario hacemos cat al archivo getDreams.py
+![[Pasted image 20231121215212.png]]
+### hemos conseguido credenciales para el usuario death las cuales podriamos verificar si ingresamos via ssh
