@@ -116,7 +116,8 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ```python
 	pythonX -c 'import sys; print("\n".join(sys.path))'
 
-	note: cambiamos la X por la version de python que esta ejecutando el archivo. en este caso es pyth
+	note: cambiamos la X por la version de python que esta ejecutando el archivo. en este caso es python3.8
 ```
 
 ![[Pasted image 20231121223213.png]]
+### tenemos un resultado similar. podriamos intentar modificar una de estas librerias para poder inyectar codigo malicioso
