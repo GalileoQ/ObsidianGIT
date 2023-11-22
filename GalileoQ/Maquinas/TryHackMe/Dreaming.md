@@ -69,4 +69,8 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121181702.png]]
 ### vamos a mirar en toda la base de datos
 ![[Pasted image 20231121212309.png]]
-### nos aprovecharemos del archivo que mencionamos anteriormente el cual hace un llamado de todo lo que esta en la base de datos e intentaremos inyectar una shell a la base de datos para que cuando ejecutemos el archivo con suerte esto nos envie 
+### nos aprovecharemos del archivo que mencionamos anteriormente el cual hace un llamado de todo lo que esta en la base de datos e intentaremos inyectar una shell a la base de datos para que cuando ejecutemos el archivo con suerte esto nos envie una shell
+### vamos a inyectar codigo a la base de datos
+```python
+	
+```
