@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c714d46bd73cd974",
+        "id": "307e6da408f8842f",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe7e4dafb44b442",
+            "id": "0a8935bfc84beae7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b35ef3c800ad79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,13 +138,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fe7e4dafb44b442",
+  "active": "0a8935bfc84beae7",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121225529.png",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20231121223908.png",
     "Pasted image 20231121223213.png",
     "Pasted image 20231121222813.png",
@@ -179,7 +160,6 @@
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
