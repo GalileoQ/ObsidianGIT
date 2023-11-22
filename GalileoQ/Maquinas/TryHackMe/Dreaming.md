@@ -67,3 +67,5 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121172038.png]]
 ### genial. optenemos informacion valiosa. al parecer lucien se ha conectado en el pasado a la base de datos usando las credenciales que quedaron almacenadas en el bash_history. vamos a aprovechar esto para conectarnos a la base de datos y ver que tipo de informacion podemos sacar...
 ![[Pasted image 20231121181702.png]]
+### vamos a mirar en toda la base de datos
+![[Pasted image 20231121212309.png]]
