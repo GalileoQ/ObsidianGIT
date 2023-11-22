@@ -88,3 +88,5 @@ en este caso parece que no tenemos mucho
 ### vemos que dentro de la carpeta de morpheus existe un archivo llamado restore.py que al parecer hace un llamado de una libreria de python luego hace un backup de in archivo llamado kingdom. 
 ### parece que este archivo es una tarea crontab o se esta ejecutando cada cierto tiempo asi que intentaremos mirarlo con pspy64
 ### para ello vamos a movernos a la carpeta
+```
+```
