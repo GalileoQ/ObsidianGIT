@@ -69,3 +69,4 @@ en este caso parece que no tenemos mucho
 ![[Pasted image 20231121181702.png]]
 ### vamos a mirar en toda la base de datos
 ![[Pasted image 20231121212309.png]]
+### nos aprovecharemos del archivo que mencionamos anteriormente 
