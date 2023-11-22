@@ -62,7 +62,7 @@ en este caso parece que no tenemos mucho
 ### efectivamente el archivo test.py contenia las credenciales de lucien
 ### hacemos cat al archivo getDreams.py
 ![[Pasted image 20231121163711.png]]
-### obtenemos información sobre una base de datos mysql. 
+### obtenemos información sobre una base de datos mysql. este archivo parese mostrarnos
 ### vamos a intentar buscar el bash_history del usuario lucien para intentar recopilar mas informacion
 ![[Pasted image 20231121172038.png]]
 ### genial. optenemos informacion valiosa. al parecer lucien se ha conectado en el pasado a la base de datos usando las credenciales que quedaron almacenadas en el bash_history. vamos a aprovechar esto para conectarnos a la base de datos y ver que tipo de informacion podemos sacar...
