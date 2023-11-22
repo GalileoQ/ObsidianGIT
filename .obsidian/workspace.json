@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "4fe7e4dafb44b442",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121225529.png",
     "GalileoQ/Shells/OneLiners.md",
@@ -193,7 +195,6 @@
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
-    "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Instalar BSPWM.md",
     "entorno",
     "GITHUB",
