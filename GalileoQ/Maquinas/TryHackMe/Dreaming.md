@@ -92,4 +92,6 @@ en este caso parece que no tenemos mucho
 ```python
 	cd /dev/shm
 ```
-### aqui vamos a subir el pspy64 creando un servidor en python y luego haciendo una peticioncon wget
+### aqui vamos a subir el pspy64
+creamos un servidor en python
+![[Pasted image 20231121220720.png]]
