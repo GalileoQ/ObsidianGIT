@@ -85,4 +85,4 @@ en este caso parece que no tenemos mucho
 ### hemos conseguido credenciales para el usuario death las cuales podriamos verificar si ingresamos via ssh
 ### nos falta enumerar el ultimo usuario
 ![[Pasted image 20231121215810.png]]
-### vemos que dentro de la carpeta de morpheus existe un archivo llamado restore.py que al parecer hace un llamado de una libreria de p
+### vemos que dentro de la carpeta de morpheus existe un archivo llamado restore.py que al parecer hace un llamado de una libreria de python luego hace un backup de in archivo llamado kingdom
