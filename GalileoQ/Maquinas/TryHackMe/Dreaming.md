@@ -78,4 +78,4 @@ en este caso parece que no tenemos mucho
 
 ![[Pasted image 20231121214156.png]]
 
-### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo. para ello hacemos sudo -l
+### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo. 
