@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Comandos/Hydra para ssh.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "0a8935bfc84beae7",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121225529.png",
     "Pasted image 20231121223908.png",
