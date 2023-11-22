@@ -120,4 +120,4 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ```
 
 ![[Pasted image 20231121223213.png]]
-### tenemos un resultado similar. podriamos intentar modificar una de estas librerias para poder inyectar codigo malicioso
+### tenemos un resultado similar. podríamos buscar la librería que importa el archivo para intentar codificarla y de esta manera inyectar codigo
