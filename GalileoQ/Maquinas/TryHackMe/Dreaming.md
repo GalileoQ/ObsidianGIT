@@ -106,4 +106,4 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121221905.png]]
 ### vamos a mirar nuevamente el archivo oculto en el directorio de morpheus
 ![[Pasted image 20231121222302.png]]
-### como vimos anteriormente este archivo hace un llamado a una libreria en especifico asi que vamos a buscar algun tipo de vulnerabilidad 
+### como vimos anteriormente este archivo hace un llamado a una libreria en especifico asi que vamos a buscar algun tipo de vulnerabilidad conocida. por ejemplo hijacking
