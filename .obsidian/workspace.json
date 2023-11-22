@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "307e6da408f8842f",
+        "id": "5d5d85a518d7d4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8935bfc84beae7",
+            "id": "d6b90cad4c820c18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0a8935bfc84beae7",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "imagenes/Pasted image 20231121212309.png",
+    "imagenes/Pasted image 20231121181702.png",
+    "imagenes/Pasted image 20231121172038.png",
+    "imagenes/Pasted image 20231121163711.png",
+    "imagenes/Pasted image 20231121163324.png",
+    "imagenes/Pasted image 20231121162834.png",
+    "imagenes/Pasted image 20231121153245.png",
+    "imagenes/Pasted image 20231121152552.png",
+    "imagenes/Pasted image 20231121151929.png",
+    "imagenes/Pasted image 20231121151554.png",
+    "imagenes/Pasted image 20231121145905.png",
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
-    "Pasted image 20231121225529.png",
-    "Pasted image 20231121223908.png",
-    "Pasted image 20231121223213.png",
-    "Pasted image 20231121222813.png",
-    "Pasted image 20231121222545.png",
-    "Pasted image 20231121222302.png",
-    "Pasted image 20231121221905.png",
-    "Pasted image 20231121221342.png",
-    "Pasted image 20231121221033.png",
-    "Pasted image 20231121220852.png",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
@@ -182,8 +176,6 @@
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
-    "GalileoQ/Escaneo de puertos/ping con nmap.md",
-    "GalileoQ/Entornos/Instalar BSPWM.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
