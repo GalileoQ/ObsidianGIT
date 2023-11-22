@@ -95,3 +95,5 @@ en este caso parece que no tenemos mucho
 ### aqui vamos a subir el pspy64
 creamos un servidor en python
 ![[Pasted image 20231121220720.png]]
+hacemos una peticion con wget al servidor para bajarnos el archivo
+![[Pasted image 20231121220852.png]]
