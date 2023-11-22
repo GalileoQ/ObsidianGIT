@@ -125,4 +125,7 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ### hacemos un ls -l de la libreria. en este caso es la /usr/lib/python3.8 debido a que siguen una orden y aqui llamamos la libreria que se esta utilizando en el archivo. en este caso seria as:
 
 ```python
+	/usr/lib/python3.8/shutil.py
 ```
+
+### podemos ver que el usuario death tiene permisos de lectura y escritura sobre esta libreria asi que aprovecharemos esto para 
