@@ -83,3 +83,5 @@ en este caso parece que no tenemos mucho
 ### logramos tener conexion. dentro de este usuario hacemos cat al archivo getDreams.py
 ![[Pasted image 20231121215212.png]]
 ### hemos conseguido credenciales para el usuario death las cuales podriamos verificar si ingresamos via ssh
+### nos falta enumerar el ultimo usuario
+![[Pasted image 20231121215810.png]]
