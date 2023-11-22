@@ -80,3 +80,4 @@ en este caso parece que no tenemos mucho
 
 ### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo.
 ![[Pasted image 20231121214610.png]]
+### logramos tener conexion. dentro de este usuario hacemos cat al archivo get
