@@ -72,5 +72,5 @@ en este caso parece que no tenemos mucho
 ### nos aprovecharemos del archivo que mencionamos anteriormente el cual hace un llamado de todo lo que esta en la base de datos e intentaremos inyectar una shell a la base de datos para que cuando ejecutemos el archivo con suerte esto nos envie una shell
 ### vamos a inyectar codigo a la base de datos
 ```python
-	INSERT into dreams (dreamer,dream) VALUE 
+	INSERT into dreams (dreamer,dream) VALUE ("Gamuke")
 ```
