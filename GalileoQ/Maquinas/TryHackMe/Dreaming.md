@@ -104,4 +104,6 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121221342.png]]
 ### vamos a dejar esto corriendo y nos vamos a conectar en parelalo via ssh con las credenciales de death
 ![[Pasted image 20231121221905.png]]
+### vamos a mirar nuevamente el archivo oculto en el directorio de morpheus
+![[Pasted image 20231121222302.png]]
 ### 
