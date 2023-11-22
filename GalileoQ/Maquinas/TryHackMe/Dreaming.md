@@ -113,4 +113,10 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121222813.png]]
 ### en este caso el escenario 2 nos dice que cuando se ejecuta python este busca en una serie de librerias los modulos que tiene que cargar para ejecutar cada ruta. y nos proporcionan el comando para poder ver estas librerias asi que vamos a buscarlas
 
+```python
+	pythonX -c 'import sys; print("\n".join(sys.path))'
+
+	note: cambiamos la X por la version de python que esta ejecutando el archivo. en este caso es pyth
+```
+
 ![[Pasted image 20231121223213.png]]
