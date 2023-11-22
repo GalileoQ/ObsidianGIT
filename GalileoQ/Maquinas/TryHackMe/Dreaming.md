@@ -78,4 +78,5 @@ en este caso parece que no tenemos mucho
 
 ![[Pasted image 20231121214156.png]]
 
-### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo. 
+### tenemos nuestro codigo malicioso inyectado en la base de datos asi que vamos a ejecutar el archvo.
+![[Pasted image 20231121214610.png]]
