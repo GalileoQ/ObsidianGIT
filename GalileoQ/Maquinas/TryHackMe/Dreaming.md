@@ -100,4 +100,5 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 ### ahora solo le damos permisos de ejecución y lo ejecutamos
 
 ![[Pasted image 20231121221033.png]]
-### efectivamente podemos ver que cada cier
+### efectivamente podemos ver que esto es una tarea cron que se ejecuta cada cierto tiempo con python3.8
+![[Pasted image 20231121221342.png]]
