@@ -97,3 +97,4 @@ creamos un servidor en python
 ![[Pasted image 20231121220720.png]]
 hacemos una peticion con wget al servidor para bajarnos el archivo
 ![[Pasted image 20231121220852.png]]
+### ahora 
