@@ -136,4 +136,5 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 
 ### de esta manera vamos a editar la librería y vamos a inyectar una shell y nos pondremos en escucha en el puerto que hemos especificado
 ![[Pasted image 20231121225529.png]]
-### de esta manera 
+### de esta manera hemos logrado hacer el movimiento lateral hacia el usuario morpheus
+
