@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -158,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fe7e4dafb44b442",
+  "active": "45b35ef3c800ad79",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20231121223908.png",
     "Pasted image 20231121223213.png",
     "Pasted image 20231121222813.png",
@@ -170,9 +172,7 @@
     "Pasted image 20231121221033.png",
     "Pasted image 20231121220852.png",
     "Pasted image 20231121220720.png",
-    "Pasted image 20231121215810.png",
     "GalileoQ/Shells/OneLiners.md",
-    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",

@@ -128,4 +128,4 @@ hacemos una peticion con wget al servidor para bajarnos el archivo
 	/usr/lib/python3.8/shutil.py
 ```
 
-### podemos ver que el usuario death tiene permisos de lectura y escritura sobre esta libreria asi que aprovecharemos esto para 
+### podemos ver que el usuario death tiene permisos de lectura y escritura sobre esta libreria asi que aprovecharemos esto para modificarla 
