@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5d85a518d7d4f7",
+        "id": "05186dbac40c92ed",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b90cad4c820c18",
+            "id": "e2a35c18aa9817c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6b90cad4c820c18",
+  "active": "e2a35c18aa9817c5",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "imagenes/Pasted image 20231121212309.png",
     "imagenes/Pasted image 20231121181702.png",
     "imagenes/Pasted image 20231121172038.png",
@@ -158,14 +151,12 @@
     "imagenes/Pasted image 20231121152552.png",
     "imagenes/Pasted image 20231121151929.png",
     "imagenes/Pasted image 20231121151554.png",
-    "imagenes/Pasted image 20231121145905.png",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
