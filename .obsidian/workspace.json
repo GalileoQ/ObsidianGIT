@@ -11,8 +11,12 @@
             "id": "bff1d3684f591649",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB/1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
+                "file": "GITHUB/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
+                "file": "GITHUB/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md"
+                "file": "GITHUB/1.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "bff1d3684f591649",
   "lastOpenFiles": [
+    "GITHUB/1.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "imagenes/Pasted image 20231121212309.png",
     "imagenes/Pasted image 20231121181702.png",
