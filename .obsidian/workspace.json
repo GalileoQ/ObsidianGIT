@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05186dbac40c92ed",
+        "id": "932385815f96c064",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a35c18aa9817c5",
+            "id": "bff1d3684f591649",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2a35c18aa9817c5",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "imagenes/Pasted image 20231121212309.png",
