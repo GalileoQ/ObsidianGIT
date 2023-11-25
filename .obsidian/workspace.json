@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "932385815f96c064",
+        "id": "2a9f1511f5d57e51",
         "type": "tabs",
         "children": [
           {
-            "id": "bff1d3684f591649",
+            "id": "ecf8141de2f1d822",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GITHUB/1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GITHUB/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GITHUB/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GITHUB/1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bff1d3684f591649",
+  "active": "ecf8141de2f1d822",
   "lastOpenFiles": [
     "GITHUB/1.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
