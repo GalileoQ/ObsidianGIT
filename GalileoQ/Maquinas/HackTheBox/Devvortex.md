@@ -21,4 +21,4 @@ Nmap done: 1 IP address (1 host up) scanned in 56.92 seconds
 
 ### Ports: 22/ssh - 80/http
 
-### vamos a enumerar 
+### vamos a enumerar el puerto 80
