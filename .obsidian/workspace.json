@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "9e8e73e17f69f507",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "Pasted image 20231128195252.png",
     "GalileoQ/Comandos/Hydra para ssh.md",
@@ -164,7 +166,6 @@
     "imagenes/Pasted image 20231121153245.png",
     "imagenes/Pasted image 20231121152552.png",
     "imagenes/Pasted image 20231121151929.png",
-    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
