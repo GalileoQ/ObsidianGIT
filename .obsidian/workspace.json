@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8d6d4cfa345d6fd",
+        "id": "9a43de2f482b1c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d07d21cb1d2e0a1",
+            "id": "868a0a9c2bb65967",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6d07d21cb1d2e0a1",
+  "active": "868a0a9c2bb65967",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
