@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a43de2f482b1c0e",
+        "id": "70cbd4e914b6a5c3",
         "type": "tabs",
         "children": [
           {
-            "id": "868a0a9c2bb65967",
+            "id": "20237b6663a6c160",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md"
+              }
             }
           }
         ]
@@ -138,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "868a0a9c2bb65967",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
