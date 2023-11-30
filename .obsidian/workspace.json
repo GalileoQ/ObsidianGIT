@@ -11,8 +11,12 @@
             "id": "20237b6663a6c160",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Source.md"
               }
             }
           }
@@ -142,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "20237b6663a6c160",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
+    "GalileoQ/Maquinas/TryHackMe/Source.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
@@ -167,7 +173,6 @@
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
-    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
@@ -179,7 +184,6 @@
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "Curso/Metaesploitable2.md",
-    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
