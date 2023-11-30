@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a4581565b5c685",
+        "id": "1c537965ee9af0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "9e8e73e17f69f507",
+            "id": "b1849fc88ad845c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e8e73e17f69f507",
+  "active": "b1849fc88ad845c9",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "Pasted image 20231128195252.png",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GITHUB/1.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
