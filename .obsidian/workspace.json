@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "6d07d21cb1d2e0a1",
   "lastOpenFiles": [
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "Pasted image 20231128195252.png",
