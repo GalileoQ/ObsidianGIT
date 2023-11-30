@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Hydra para ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Comandos/Hydra para ssh.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "9e8e73e17f69f507",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "Pasted image 20231128195252.png",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
-    "GalileoQ/Shells/OneLiners.md",
     "GITHUB/1.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "imagenes/Pasted image 20231121212309.png",
