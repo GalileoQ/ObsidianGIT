@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f4afddfa4e2d54f",
+        "id": "61c6daa800249a09",
         "type": "tabs",
         "children": [
           {
-            "id": "d99c4cbe1cb8fcce",
+            "id": "cd78ae279f6c6146",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
+                "file": "GalileoQ/Comandos maquina/nona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
+                "file": "GalileoQ/Comandos maquina/nona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/Keyboard shortcuts.md"
+                "file": "GalileoQ/Comandos maquina/nona.md"
               }
             }
           }
@@ -146,8 +142,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d99c4cbe1cb8fcce",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
+    "GalileoQ/Comandos maquina/nona.md",
+    "GalileoQ/Comandos maquina",
+    "GalileoQ/Escaneo de puertos/script nmap potente.md",
+    "GalileoQ/Escaneo de puertos/ping con nmap.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
@@ -178,12 +180,7 @@
     "imagenes/Pasted image 20231121181702.png",
     "imagenes/Pasted image 20231121172038.png",
     "imagenes/Pasted image 20231121163711.png",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
-    "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
@@ -193,7 +190,6 @@
     "G41i130Q.github.io/_plugins",
     "G41i130Q.github.io/_data/share.yml",
     "G41i130Q.github.io/_data/contact.yml",
-    "G41i130Q.github.io/_data",
     "Sin título.canvas"
   ]
 }
