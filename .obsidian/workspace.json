@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Entornos/Keyboard shortcuts.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "d99c4cbe1cb8fcce",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Entornos/Instalar bat.md",
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
@@ -158,7 +162,6 @@
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Source.md",
     "Pasted image 20231130204614.png",
     "Pasted image 20231130201108.png",
@@ -168,7 +171,6 @@
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
-    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "Pasted image 20231128195252.png",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GITHUB/1.md",
@@ -177,13 +179,11 @@
     "imagenes/Pasted image 20231121172038.png",
     "imagenes/Pasted image 20231121163711.png",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
-    "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
-    "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
