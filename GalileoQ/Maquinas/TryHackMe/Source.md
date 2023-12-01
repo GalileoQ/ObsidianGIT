@@ -23,3 +23,4 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 ### Enumeracion del puerto 10000 http
 ![[Pasted image 20231130200443.png]]
 ### parece que la pagina corre por https asi que debemos especificarlo en la url
+![[Pasted image 20231130200603.png]]
