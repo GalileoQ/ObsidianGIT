@@ -28,4 +28,5 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 ![[Pasted image 20231130201108.png]]
 ### tenemos una pagina de login. de la cual no conocemos las credenciales
 
-### Buscaremos un exploit para esta web y encontramos uno que con la bandera -cmd nos permite ejecutar comandos asi que apro
+### Buscaremos un exploit para esta web y encontramos uno que con la bandera -cmd nos permite ejecutar comandos.
+
