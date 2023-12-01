@@ -11,8 +11,12 @@
             "id": "b4500d14d67b9773",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "b4500d14d67b9773",
   "lastOpenFiles": [
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Source.md",
