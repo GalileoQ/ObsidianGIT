@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70cbd4e914b6a5c3",
+        "id": "c1d40eba40b78d54",
         "type": "tabs",
         "children": [
           {
-            "id": "20237b6663a6c160",
+            "id": "a5211be69d1cf295",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "799770b93a0fa3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20237b6663a6c160",
+  "active": "a5211be69d1cf295",
   "lastOpenFiles": [
-    "Pasted image 20231130204614.png",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Source.md",
+    "Pasted image 20231130204614.png",
     "Pasted image 20231130201108.png",
     "Pasted image 20231130200653.png",
     "Pasted image 20231130200603.png",
@@ -181,7 +161,6 @@
     "imagenes/Pasted image 20231121181702.png",
     "imagenes/Pasted image 20231121172038.png",
     "imagenes/Pasted image 20231121163711.png",
-    "imagenes/Pasted image 20231121163324.png",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",

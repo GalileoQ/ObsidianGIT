@@ -39,3 +39,4 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 	4) nos ponemos a la escucha en el puerto que hemos especificado
 	5) ejecutamos el exploit y hemos ganado una shell
 ```
+### WE ARE ROOT
