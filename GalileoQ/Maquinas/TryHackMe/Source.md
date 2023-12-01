@@ -26,4 +26,7 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 ![[Pasted image 20231130200653.png]]
 ### damos en advanced - luego en accept the risk and continue 
 ![[Pasted image 20231130201108.png]]
-### tenemos una pagina de login. al parecer no
+### tenemos una pagina de login. de la cual no conocemos las credenciales
+
+### fuzzing con gobusuter
+
