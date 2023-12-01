@@ -33,5 +33,6 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 ### explicacion:
 
 ```python
-	1) ejecutamos el exploit y usamos 
+	1) ejecutamos el exploit y usamos whoami para asegurarnos que si funciona. nos indica que simos root
+	2) creamos un archivo index.html que contenta una reverse
 ```
