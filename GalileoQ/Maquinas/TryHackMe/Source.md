@@ -35,5 +35,7 @@ Nmap done: 1 IP address (1 host up) scanned in 116.37 seconds
 ```python
 	1) ejecutamos el exploit y usamos whoami para asegurarnos que si funciona. nos indica que simos root
 	2) creamos un archivo index.html que contenta una revershell y creamos un servidor en python
-	3) ejecutamos el exploit y hacemos un curl 
+	3) ejecutamos el exploit y hacemos un curl a nuestra ip para llamar al archivo
+	4) nos ponemos a la escucha en el puerto que hemos especificado
+	5) ejecutamos el exploit y hemos ganado una shell
 ```
