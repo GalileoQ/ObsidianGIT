@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d40eba40b78d54",
+        "id": "b2faaa3be4c08891",
         "type": "tabs",
         "children": [
           {
-            "id": "a5211be69d1cf295",
+            "id": "b4500d14d67b9773",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a5211be69d1cf295",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Source.md",
