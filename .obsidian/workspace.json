@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "799770b93a0fa3e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Shells/OneLiners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Source.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20237b6663a6c160",
+  "active": "799770b93a0fa3e4",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Source.md",
     "Pasted image 20231130201108.png",
     "Pasted image 20231130200653.png",
     "Pasted image 20231130200603.png",
     "Pasted image 20231130200443.png",
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
-    "GalileoQ/Maquinas/TryHackMe/Source.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
@@ -169,7 +182,6 @@
     "imagenes/Pasted image 20231121172038.png",
     "imagenes/Pasted image 20231121163711.png",
     "imagenes/Pasted image 20231121163324.png",
-    "imagenes/Pasted image 20231121162834.png",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
