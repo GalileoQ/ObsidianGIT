@@ -11,8 +11,12 @@
             "id": "ec97eb02afd5cf2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "ec97eb02afd5cf2c",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Source.md",
@@ -151,31 +166,24 @@
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "Pasted image 20231128195252.png",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GITHUB/1.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "imagenes/Pasted image 20231121212309.png",
     "imagenes/Pasted image 20231121181702.png",
     "imagenes/Pasted image 20231121172038.png",
     "imagenes/Pasted image 20231121163711.png",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/TryHackMe/Year of the Rabbit.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Maquinas/HackTheBox/Oopsie.md",
     "GalileoQ/Maquinas/HackTheBox/Codify.md",
-    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
