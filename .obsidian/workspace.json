@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5ff0cf0cb48e9ede",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
@@ -179,7 +180,6 @@
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "Pasted image 20231130204614.png",
     "Pasted image 20231130201108.png",
     "Pasted image 20231130200653.png",
