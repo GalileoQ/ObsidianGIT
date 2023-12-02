@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3c2bb96cf85ea96e",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
@@ -168,8 +170,6 @@
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/Instalar BSPWM.md",
     "GalileoQ/Entornos/Instalar bat.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "Pasted image 20231201213400.png",
     "Pasted image 20231201212236.png",
