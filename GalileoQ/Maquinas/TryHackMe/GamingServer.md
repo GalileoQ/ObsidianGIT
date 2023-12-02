@@ -23,8 +23,12 @@ Nmap done: 1 IP address (1 host up) scanned in 103.74 seconds
 
 ### Fuzzing con gobuster
 ![[Pasted image 20231201211706.png]]
-tenemos dos directorios. vamos a mirar en secret
+tenemos dos directorios. vamos a mirar
 
+### uploads
+![[Pasted image 20231201212236.png]]
+
+### secret
 ![[Pasted image 20231201211847.png]]
 ### tenemos un archivo llamado secretKEY
 ![[Pasted image 20231201212110.png]]
