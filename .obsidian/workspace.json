@@ -11,8 +11,12 @@
             "id": "49e1d9ea1939da62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md"
               }
             }
           }
@@ -142,8 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "49e1d9ea1939da62",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
+    "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
+    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
+    "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
+    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "imagenes/web.png.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "imagenes/Pasted image 20231201234253.png",
@@ -174,13 +184,7 @@
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/Instalar BSPWM.md",
-    "GalileoQ/Entornos/Instalar bat.md",
-    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
-    "GalileoQ/Comandos maquina/nona.md",
     "GalileoQ/Comandos maquina",
-    "GalileoQ/Escaneo de puertos/script nmap potente.md",
-    "GalileoQ/Escaneo de puertos/ping con nmap.md",
-    "GalileoQ/Entornos/modificaciones del Entorno.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
