@@ -23,7 +23,7 @@ Nmap done: 1 IP address (1 host up) scanned in 103.74 seconds
 
 ### Fuzzing con gobuster
 ![[Pasted image 20231201211706.png]]
-tenemos dos directorios. vamos a mirar
+tenemos dos directorios. vamos a mirar (mirando el codigo principal de la pag podemos conseguir un usuario llamado john)
 
 ### uploads
 ![[Pasted image 20231201212236.png]]
@@ -34,3 +34,5 @@ tenemos dos directorios. vamos a mirar
 ![[Pasted image 20231201212110.png]]
 ### la id_rsa esta encriptada asi que la desencriptamos con con ssh2john
 ![[Pasted image 20231201213400.png]]
+
+### usaremos estas credenciales para ingresar via ssh
