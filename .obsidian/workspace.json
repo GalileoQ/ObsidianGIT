@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/id_rsa encriptada.md"
+                "file": "GalileoQ/Comandos/Recopilacion de informacion oculta.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "3c2bb96cf85ea96e",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "Pasted image 20231202000556.png",
     "Pasted image 20231201234253.png",
@@ -163,7 +165,6 @@
     "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Comandos/id_rsa encriptada.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
@@ -182,7 +183,6 @@
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20231130204614.png",
     "Pasted image 20231130201108.png",
     "entorno",
