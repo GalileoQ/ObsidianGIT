@@ -42,4 +42,5 @@ ssh -i id_rsa -p 22 john@IP
 ```
 
 ### escalada de privilegios
-el usuario pertenece a un grupo llamado (lxd) despues de hacer una busqueda esto parece ser un 
+el usuario pertenece a un grupo llamado (lxd) despues de hacer una busqueda esto parece ser un contenedor
+![[Pasted image 20231201234253.png]]
