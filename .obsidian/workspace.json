@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "804b1dce1ece4277",
+        "id": "a0b67778b89a2385",
         "type": "tabs",
         "children": [
           {
-            "id": "9333158fe320002f",
+            "id": "5ff0cf0cb48e9ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
+                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
+                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
+                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/GamingServer.md"
+                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9333158fe320002f",
+  "active": "5ff0cf0cb48e9ede",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Entornos/Instalar BSPWM.md",
+    "GalileoQ/Entornos/Instalar bat.md",
+    "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
+    "GalileoQ/Comandos/id_rsa encriptada.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "Pasted image 20231201213400.png",
     "Pasted image 20231201212236.png",
     "Pasted image 20231201212110.png",
     "Pasted image 20231201211847.png",
     "Pasted image 20231201211706.png",
-    "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Comandos maquina/nona.md",
     "GalileoQ/Comandos maquina",
     "GalileoQ/Escaneo de puertos/script nmap potente.md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Recopilacion de informacion oculta.md",
-    "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
-    "GalileoQ/Maquinas/TryHackMe/Source.md",
     "Pasted image 20231130204614.png",
     "Pasted image 20231130201108.png",
     "Pasted image 20231130200653.png",
     "Pasted image 20231130200603.png",
     "Pasted image 20231130200443.png",
-    "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
-    "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
-    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
-    "Pasted image 20231128195252.png",
-    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
