@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2a4f54c18531d6",
+        "id": "c659fab71ac336d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3c2bb96cf85ea96e",
+            "id": "49e1d9ea1939da62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3c2bb96cf85ea96e",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "imagenes/web.png.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
