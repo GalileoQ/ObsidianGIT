@@ -32,3 +32,4 @@ tenemos dos directorios. vamos a mirar
 ![[Pasted image 20231201211847.png]]
 ###  lo que hemos encontrado es una id_rsa
 ![[Pasted image 20231201212110.png]]
+### la id_rsa esta encriptada asi que la desencriptamos con 
