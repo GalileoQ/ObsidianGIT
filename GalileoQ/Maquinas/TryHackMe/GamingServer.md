@@ -36,3 +36,7 @@ tenemos dos directorios. vamos a mirar (mirando el codigo principal de la pag po
 ![[Pasted image 20231201213400.png]]
 
 ### usaremos estas credenciales para ingresar via ssh
+
+```python
+ssh -i id_rsa -p 22 john@IP
+```
