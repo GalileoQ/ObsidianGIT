@@ -46,4 +46,4 @@ el usuario pertenece a un grupo llamado (lxd) despues de hacer una busqueda esto
 ![[Pasted image 20231201234253.png]]
 
 ![[Pasted image 20231202000556.png]]
-### 
+### estariamos dentro del contenedor. para ir al directorio root tendriamos que ir a la ruta 
