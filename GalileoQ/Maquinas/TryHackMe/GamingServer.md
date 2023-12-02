@@ -40,3 +40,6 @@ tenemos dos directorios. vamos a mirar (mirando el codigo principal de la pag po
 ```python
 ssh -i id_rsa -p 22 john@IP
 ```
+
+### escalada de privilegios
+el usuario pertenece a un grupo llamado (lxd) despues de hacer una busqueda esto parece ser un 
