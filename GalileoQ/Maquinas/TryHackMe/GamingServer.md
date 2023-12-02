@@ -40,11 +40,3 @@ tenemos dos directorios. vamos a mirar (mirando el codigo principal de la pag po
 ```python
 ssh -i id_rsa -p 22 john@IP
 ```
-
-
-
-
-
-
-
-![[Pasted image 20231201232345.png]]
