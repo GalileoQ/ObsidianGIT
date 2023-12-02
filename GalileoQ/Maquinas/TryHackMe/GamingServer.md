@@ -30,6 +30,5 @@ tenemos dos directorios. vamos a mirar
 
 ### secret
 ![[Pasted image 20231201211847.png]]
-### tenemos un archivo llamado secretKEY
+###  lo que hemos encontrado es una id_rsa
 ![[Pasted image 20231201212110.png]]
-### lo que hemos encontrado es una id_rsa
