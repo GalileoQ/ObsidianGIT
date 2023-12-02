@@ -32,4 +32,5 @@ tenemos dos directorios. vamos a mirar
 ![[Pasted image 20231201211847.png]]
 ###  lo que hemos encontrado es una id_rsa
 ![[Pasted image 20231201212110.png]]
-### la id_rsa esta encriptada asi que la desencriptamos con 
+### la id_rsa esta encriptada asi que la desencriptamos con con ssh2john
+![[Pasted image 20231201213400.png]]
