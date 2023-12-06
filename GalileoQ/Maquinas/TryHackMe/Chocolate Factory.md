@@ -53,4 +53,6 @@ nos da un archivo b64.txt que podemos decoder
 vamos a decifrar el hash utilizando john
 ![[Pasted image 20231206152032.png]]
 
-### Puerto 
+### Puerto 80/http
+las credenciales que hemos conseguido nos permiten iniciar session en la pagina web que se encuentra corriendo el el puerto 80 en la cual tenemos una 
+![[Pasted image 20231206152513.png]]
