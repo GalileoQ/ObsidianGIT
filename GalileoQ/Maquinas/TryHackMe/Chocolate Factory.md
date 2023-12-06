@@ -53,3 +53,4 @@ nos da un archivo b64.txt que podemos decoder
 vamos a decifrar el hash utilizando john
 ![[Pasted image 20231206152032.png]]
 
+### Puerto 
