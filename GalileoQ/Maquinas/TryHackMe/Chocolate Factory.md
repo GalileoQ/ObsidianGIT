@@ -74,3 +74,5 @@ primero damos permisos de lectura para el archivo id_rsa
 ![[Pasted image 20231206160625.png]]
 somos el usuario charlie
 ### Escalada de privilegios
+![[Pasted image 20231206160725.png]]
+### hacemos sudo -l y podemos ver que todos los usuarios pueden ejecutar el binario /usr/bin/vi 
