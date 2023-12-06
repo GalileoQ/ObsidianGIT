@@ -40,3 +40,5 @@ PORT    STATE SERVICE     VERSION
 ```
 
 ### Ports : 21/ - 22/  - 80/ - 100/...
+
+### puerto 21 ftp
