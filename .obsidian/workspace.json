@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Nuevo.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Nuevo.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Nuevo.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Nuevo.md"
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
               }
             }
           }
