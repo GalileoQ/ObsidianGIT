@@ -80,5 +80,5 @@ somos el usuario charlie
 
 ### ahora buscamos la flag de root
 ![[Pasted image 20231206162307.png]]
-la clave esta encriptada en un pequeño codigo de python que al ejecutarlo nos pide la 
+la clave esta encriptada en un pequeño codigo de python que al ejecutarlo nos pide la primera key que hemos conseguido y nos da la flag de root
 ### WE ARE ROOT
