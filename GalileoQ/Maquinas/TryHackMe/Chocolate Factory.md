@@ -62,4 +62,7 @@ buscamos una reverse shell y la ejecutamos desde la linea de comandos de la pagi
 obtenemos conexión con la maquina
 ### tenemos un archivo bastante sospechoso llamado key_rev_key
 ![[Pasted image 20231206154332.png]]
-### podemos ver una linea que dice felicidades has encontrado la contraseña. asi que tenemos una nueva contraseña que podriamos intentar decifrar
+### podemos ver una key
+ahora vamos al directorio de charlie 
+![[Pasted image 20231206155455.png]]
+### tenemos un archivo que contiene una id_rsa
