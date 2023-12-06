@@ -47,4 +47,6 @@ descargamos el archivo. tenemos una imagen que puede contener informacion oculta
 ### extraemos informacion oculta de la imagen
 ![[Pasted image 20231206150844.png]]
 nos da un archivo b64.txt que podemos decoder
-### 
+### tenemos lo que parece ser el archivo /etc/password
+![[Pasted image 20231206151351.png]]
+### lo decodeamos en base 64 y obtenemo
