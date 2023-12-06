@@ -57,4 +57,6 @@ vamos a decifrar el hash utilizando john
 las credenciales que hemos conseguido nos permiten iniciar session en la pagina web que se encuentra corriendo el el puerto 80 en la cual tenemos una barra que nos permite ejecutar comandos. vamos a aprovechar esto para ejecutar una reverse shell
 ![[Pasted image 20231206152513.png]]
 ### reverse shell
-buscamos una reverse shell
+buscamos una reverse shell y la ejecutamos desde la linea de comandos de la pagina web
+![[Pasted image 20231206152856.png]]
+obtenemos conexión con la maquina
