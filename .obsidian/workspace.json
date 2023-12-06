@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Ignite.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Ignite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Ignite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Ignite.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "16c0fda1e973cdac",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
     "Pasted image 20231206162307.png",
     "Pasted image 20231206161304.png",
     "Pasted image 20231206160725.png",
@@ -170,9 +171,7 @@
     "Pasted image 20231206154332.png",
     "Pasted image 20231206152856.png",
     "GalileoQ/Shells/OneLiners.md",
-    "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
     "Pasted image 20231206152513.png",
-    "Pasted image 20231206152032.png",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
