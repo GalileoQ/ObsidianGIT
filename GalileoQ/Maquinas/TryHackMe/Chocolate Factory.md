@@ -64,7 +64,7 @@ obtenemos conexión con la maquina
 ![[Pasted image 20231206154332.png]]
 ### podemos ver una key
 ahora vamos al directorio de charlie 
-![[Pasted image 20231206155455.png]]
 ### tenemos un archivo que contiene una id_rsa
-
-### vamos a ver el otro archivo llamado teleport.
+![[Pasted image 20231206155455.png]]
+### vamos a ver el otro archivo llamado teleport.pub
+![[Pasted image 20231206155820.png]]
