@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c940b89c6309cdb",
+  "active": "16c0fda1e973cdac",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
     "Pasted image 20231206152513.png",
     "Pasted image 20231206152032.png",
