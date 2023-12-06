@@ -71,3 +71,6 @@ ahora vamos al directorio de charlie
 ### Ppuerto 22/ssh vamos a usar la id_rsa que hemos conseguido para iniciar session con el usuario charlie
 primero damos permisos de lectura para el archivo id_rsa
 ![[Pasted image 20231206160323.png]]
+![[Pasted image 20231206160625.png]]
+somos el usuario charlie
+### Escalada de privilegios
