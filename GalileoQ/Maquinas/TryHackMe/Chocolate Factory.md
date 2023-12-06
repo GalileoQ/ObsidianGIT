@@ -50,5 +50,6 @@ nos da un archivo b64.txt que podemos decoder
 ### tenemos lo que parece ser el archivo /etc/password
 ![[Pasted image 20231206151351.png]]
 ### lo decodeamos en base 64 y obtenemos el hash de inicio de sesión de charlie
+vamos a decifrar el hash utilizando john
 ![[Pasted image 20231206152032.png]]
 
