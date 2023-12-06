@@ -68,4 +68,6 @@ ahora vamos al directorio de charlie
 ![[Pasted image 20231206155455.png]]
 ### vamos a ver el otro archivo llamado teleport.pub
 ![[Pasted image 20231206155820.png]]
-### Ppuerto 22/ssh vamos a usar la id_rsa que hemos conseguido para iniciar session con el usuario charl
+### Ppuerto 22/ssh vamos a usar la id_rsa que hemos conseguido para iniciar session con el usuario charlie
+primero damos permisos de lectura para el archivo id_rsa
+![[Pasted image 20231206160323.png]]
