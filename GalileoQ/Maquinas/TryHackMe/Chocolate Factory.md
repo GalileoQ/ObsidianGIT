@@ -77,4 +77,8 @@ somos el usuario charlie
 ![[Pasted image 20231206160725.png]]
 ### hacemos sudo -l y podemos ver que todos los usuarios pueden ejecutar el binario /usr/bin/vi sin proporcionar contraseñas asi que vamos a aprovechar esto
 ![[Pasted image 20231206161304.png]]
+
+### ahora buscamos la flag de root
+![[Pasted image 20231206162307.png]]
+la clave esta encriptada en un pequeño codigo de python que al ejecutarlo nos pide la 
 ### WE ARE ROOT
