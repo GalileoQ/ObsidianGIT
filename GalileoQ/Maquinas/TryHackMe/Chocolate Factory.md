@@ -54,5 +54,5 @@ vamos a decifrar el hash utilizando john
 ![[Pasted image 20231206152032.png]]
 
 ### Puerto 80/http
-las credenciales que hemos conseguido nos permiten iniciar session en la pagina web que se encuentra corriendo el el puerto 80 en la cual tenemos una 
+las credenciales que hemos conseguido nos permiten iniciar session en la pagina web que se encuentra corriendo el el puerto 80 en la cual tenemos una barra que nos permite ejecutar comandos. vamos a aprovechar esto para ejecutar una reverse shell
 ![[Pasted image 20231206152513.png]]
