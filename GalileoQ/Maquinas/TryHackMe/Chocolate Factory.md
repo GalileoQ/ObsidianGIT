@@ -44,4 +44,4 @@ PORT    STATE SERVICE     VERSION
 ### puerto 21 ftp
 ![[Pasted image 20231206145928.png]]
 descargamos el archivo. tenemos una imagen que puede contener informacion oculta
-
+### 
