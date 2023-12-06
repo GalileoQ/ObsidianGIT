@@ -68,3 +68,4 @@ ahora vamos al directorio de charlie
 ![[Pasted image 20231206155455.png]]
 ### vamos a ver el otro archivo llamado teleport.pub
 ![[Pasted image 20231206155820.png]]
+### vamos a usar la id
