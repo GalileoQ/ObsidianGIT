@@ -60,4 +60,6 @@ las credenciales que hemos conseguido nos permiten iniciar session en la pagina 
 buscamos una reverse shell y la ejecutamos desde la linea de comandos de la pagina web
 ![[Pasted image 20231206152856.png]]
 obtenemos conexión con la maquina
-### tenemos un archivo bastante sos
+### tenemos un archivo bastante sospechoso llamado key_rev_key
+![[Pasted image 20231206154332.png]]
+### podemos ver una linea que dice felicidades has encontrado la contraseña. asi que tenemos una nueva contraseña que podriamos intentar de
