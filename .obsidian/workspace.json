@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "4813d152532e0857",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
     "Pasted image 20231207001407.png",
     "Pasted image 20231207001318.png",
     "Pasted image 20231207001157.png",
     "Pasted image 20231207000504.png",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "Pasted image 20231206235224.png",
@@ -183,7 +184,6 @@
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
-    "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
