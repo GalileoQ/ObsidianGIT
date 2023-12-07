@@ -22,3 +22,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 ```
 ### Ports: 80/http - 6498/ssh - 65524/http
+
+### Enumeracion del puerto 80/65524
