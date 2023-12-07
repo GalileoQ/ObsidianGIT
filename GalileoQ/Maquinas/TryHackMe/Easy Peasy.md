@@ -34,3 +34,4 @@ Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 ### encontramos lo que parece ser un sub directorio,  investigamos y tenemos mas informacion
 vamos a descargar la imagen
 ![[Pasted image 20231206204807.png]]
+### tenemos otro codigo que podeos decencriptar 
