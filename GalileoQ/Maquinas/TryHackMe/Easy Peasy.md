@@ -43,3 +43,4 @@ vamos a descargar la imagen
 ### nuestro escaneo de nmap nos dice que en el puerto 65524 esta un recurso compartido llamado robots.txt
 aca tenemos la primera flag
 ![[Pasted image 20231206232632.png]]
+### vamos a la url del 
