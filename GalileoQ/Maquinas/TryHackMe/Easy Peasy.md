@@ -25,3 +25,5 @@ Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 
 ### Enumeracion del puerto 80/65524
 ![[Pasted image 20231206201035.png]]
+![[Pasted image 20231206201231.png]]
+
