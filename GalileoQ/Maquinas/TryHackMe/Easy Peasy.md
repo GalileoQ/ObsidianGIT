@@ -40,4 +40,6 @@ vamos a descargar la imagen
 ![[Pasted image 20231206213831.png]]
 ### este archivo nos entrega un codigo binario
 ![[Pasted image 20231206225142.png]]
-### nuestro escaneo de nmap nos dice que en el puerto 65524 esta un recur
+### nuestro escaneo de nmap nos dice que en el puerto 65524 esta un recurso compartido llamado robots.txt
+aca tenemos la primera flag
+![[Pasted image 20231206232632.png]]
