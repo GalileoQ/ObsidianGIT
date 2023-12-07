@@ -65,3 +65,7 @@ tenemos que decodear
 ![[Pasted image 20231207001157.png]]
 hacemos ls y tenemos permisos para editar esta tarea crontab 
 ### editamos los permisos de la bash
+![[Pasted image 20231207001318.png]]
+### ejecutamos bash -p 
+![[Pasted image 20231207001407.png]]
+### WE ARE ROOT
