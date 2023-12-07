@@ -43,14 +43,14 @@ vamos a descargar la imagen
 ### nuestro escaneo de nmap nos dice que en el puerto 65524 esta un recurso compartido llamado robots.txt
 aca tenemos la primera flag
 ![[Pasted image 20231206232632.png]]
-### conseguimos la flag 1
+### conseguimos la flag 1 en los dos directorios que hemos encontrado con gobuster
 solo tenemos que decodearla
 ![[Pasted image 20231206233837.png]]
 
-### conseguimos la flag 2
+### conseguimos la flag 2 en el archivo robots que se esta compartiendo en el puerto 65524
 tenemos que decodearla
 ![[Pasted image 20231206234057.png]]
 
-### vamos a la url con el puerto 65524
+### v65524
 ![[Pasted image 20231206232830.png]]
 aca tenemos la flag 3
