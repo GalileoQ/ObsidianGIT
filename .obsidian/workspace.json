@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f036218165a43c49",
+  "active": "adca346bec3045ad",
   "lastOpenFiles": [
+    "Pasted image 20231207000504.png",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
@@ -174,7 +175,6 @@
     "Pasted image 20231206213831.png",
     "Pasted image 20231206205652.png",
     "Pasted image 20231206204807.png",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
@@ -196,7 +196,6 @@
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",

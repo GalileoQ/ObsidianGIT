@@ -58,3 +58,7 @@ tenemos que decodear
 ![[Pasted image 20231206234950.png]]
 ### user flag
 ![[Pasted image 20231206235224.png]]
+
+### Escalada de privilegios
+![[Pasted image 20231207000504.png]]
+### tenemos una tarea crontab que 
