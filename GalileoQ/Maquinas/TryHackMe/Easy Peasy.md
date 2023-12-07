@@ -40,3 +40,4 @@ vamos a descargar la imagen
 ![[Pasted image 20231206213831.png]]
 ### este archivo nos entrega un codigo binario
 ![[Pasted image 20231206225142.png]]
+### 
