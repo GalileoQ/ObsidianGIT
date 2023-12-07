@@ -40,4 +40,4 @@ vamos a descargar la imagen
 ![[Pasted image 20231206213831.png]]
 ### este archivo nos entrega un codigo binario
 ![[Pasted image 20231206225142.png]]
-### 
+### nuestro escaneo de nmap nos dice que en el puerto 65524 esta un recur
