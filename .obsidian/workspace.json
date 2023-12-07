@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md"
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4813d152532e0857",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
@@ -157,7 +158,6 @@
     "Pasted image 20231207001318.png",
     "Pasted image 20231207001157.png",
     "Pasted image 20231207000504.png",
-    "GalileoQ/Comandos/Buscador de archivos.md",
     "Pasted image 20231206235224.png",
     "Pasted image 20231206234950.png",
     "Pasted image 20231206234057.png",
