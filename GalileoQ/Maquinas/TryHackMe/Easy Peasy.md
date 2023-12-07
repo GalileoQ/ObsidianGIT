@@ -38,4 +38,5 @@ vamos a descargar la imagen
 ![[Pasted image 20231206205652.png]]
 ### extraemos la informacion oculta en la imagen y utilizamos esta password 
 ![[Pasted image 20231206213831.png]]
-### este archivo 
+### este archivo nos entrega un codigo binario
+![[Pasted image 20231206225142.png]]
