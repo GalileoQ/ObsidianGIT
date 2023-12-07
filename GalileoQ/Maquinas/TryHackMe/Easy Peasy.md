@@ -56,3 +56,5 @@ tenemos que decodear
 ![[Pasted image 20231206232830.png]]
 ### Enumeracion del puerto 6498/ssh
 ![[Pasted image 20231206234950.png]]
+### user flag
+![[Pasted image 20231206235224.png]]
