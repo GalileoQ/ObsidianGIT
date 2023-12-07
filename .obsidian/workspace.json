@@ -148,6 +148,8 @@
   },
   "active": "899b090ffe34acc9",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
@@ -163,8 +165,6 @@
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
     "Pasted image 20231207001407.png",
