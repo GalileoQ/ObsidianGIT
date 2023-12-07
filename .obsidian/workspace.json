@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Comandos/Buscador de archivos.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "4813d152532e0857",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
     "Pasted image 20231207001407.png",
