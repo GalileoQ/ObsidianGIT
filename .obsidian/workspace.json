@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6526cf2d118534",
+        "id": "60203ff2943066f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4813d152532e0857",
+            "id": "899b090ffe34acc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4813d152532e0857",
+  "active": "899b090ffe34acc9",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
@@ -169,7 +173,6 @@
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Brute-It.md",
@@ -177,13 +180,10 @@
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "imagenes/web.png.md",
-    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
-    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
