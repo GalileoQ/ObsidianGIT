@@ -35,3 +35,4 @@ Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 vamos a descargar la imagen
 ![[Pasted image 20231206204807.png]]
 ### tenemos otro codigo que podeos decencriptar 
+![[Pasted image 20231206205652.png]]
