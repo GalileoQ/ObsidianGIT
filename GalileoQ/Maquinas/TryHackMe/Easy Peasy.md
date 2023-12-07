@@ -51,6 +51,7 @@ solo tenemos que decodearla
 tenemos que decodearla
 ![[Pasted image 20231206234057.png]]
 
-### v65524
+### conseguimos la flag 3 en el codigo fuente del puerto 65524
+tenemos que decodear
 ![[Pasted image 20231206232830.png]]
-aca tenemos la flag 3
+
