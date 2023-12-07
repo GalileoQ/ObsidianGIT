@@ -54,4 +54,4 @@ tenemos que decodearla
 ### conseguimos la flag 3 en el codigo fuente del puerto 65524
 tenemos que decodear
 ![[Pasted image 20231206232830.png]]
-
+### Enumeracion del puerto 6498/ssh
