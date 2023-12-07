@@ -62,3 +62,5 @@ tenemos que decodear
 ### Escalada de privilegios
 ![[Pasted image 20231207000504.png]]
 ### tenemos una tarea crontab en la que tenemos permisos de ejecusion
+![[Pasted image 20231207001157.png]]
+hacemos ls y tenemos permisos para editar esta tarea crontab
