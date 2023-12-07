@@ -36,4 +36,5 @@ vamos a descargar la imagen
 ![[Pasted image 20231206204807.png]]
 ### tenemos otro codigo que podeos decencriptar 
 ![[Pasted image 20231206205652.png]]
-### extraemos la informacion oculta en la imagen 
+### extraemos la informacion oculta en la imagen y utilizamos esta password 
+![[Pasted image 20231206213831.png]]
