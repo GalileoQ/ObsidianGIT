@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/Subdominios con Wfuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/Subdominios con Wfuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/Subdominios con Wfuzz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
+                "file": "GalileoQ/Comandos/Subdominios con Wfuzz.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "899b090ffe34acc9",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
@@ -170,7 +174,6 @@
     "Pasted image 20231206232632.png",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Chocolate Factory.md",
-    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/AGENT SUDO.md",
@@ -180,10 +183,7 @@
     "GalileoQ/Maquinas/TryHackMe/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "imagenes/web.png.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
