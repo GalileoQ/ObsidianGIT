@@ -31,4 +31,5 @@ Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 ![[Pasted image 20231206201418.png]]
 ### vamos a desencriptar este codigo el hash analizer nos indica que esta en base62 asi que vamos a decodear
 ![[Pasted image 20231206202254.png]]
-### encontramos lo que parece ser un subdirectorio asi q
+### encontramos lo que parece ser un sub directorio,  investigamos y tenemos mas
+![[Pasted image 20231206204807.png]]
