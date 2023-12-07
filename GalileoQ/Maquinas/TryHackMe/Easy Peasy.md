@@ -29,3 +29,4 @@ Nmap done: 1 IP address (1 host up) scanned in 91.73 seconds
 
 ### en el codigo fuente de la maquina haciendo redireccion al puerto 65524 tenemos algo oculto
 ![[Pasted image 20231206201418.png]]
+### vamos
