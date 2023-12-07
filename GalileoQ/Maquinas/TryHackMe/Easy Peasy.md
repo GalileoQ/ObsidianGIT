@@ -47,6 +47,10 @@ aca tenemos la primera flag
 solo tenemos que decodearla
 ![[Pasted image 20231206233837.png]]
 
+### conseguimos la flag 2
+tenemos que decodearla
+![[Pasted image 20231206234057.png]]
+
 ### vamos a la url con el puerto 65524
 ![[Pasted image 20231206232830.png]]
 aca tenemos la flag 3
