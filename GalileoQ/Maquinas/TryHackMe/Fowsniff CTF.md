@@ -28,6 +28,8 @@ tenemos un mensaje que nos da informacion sobre un hackeo que ha sufrido la empr
 ### Twitter
 ![[Pasted image 20231207233456.png]]
 vamos a mirar el link
+### Informacion sobre el hackeo
+![[Pasted image 20231207233636.png]]
 
 ![[Pasted image 20231207231157.png]]
 ### 
