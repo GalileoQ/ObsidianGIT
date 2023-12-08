@@ -42,3 +42,4 @@ parece que los directorios no tienen nada que sea demasiado importante asi que v
 
 ### hidra 
 ![[Pasted image 20231208001035.png]]
+![[Pasted image 20231208001115.png]]
