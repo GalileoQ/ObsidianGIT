@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a55078008b9d5db5",
+  "active": "be86a693bf53d6af",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "Pasted image 20231207233937.png",
     "Pasted image 20231207233636.png",
@@ -178,7 +178,6 @@
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
-    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
