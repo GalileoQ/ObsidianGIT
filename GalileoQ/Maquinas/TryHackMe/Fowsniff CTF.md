@@ -39,8 +39,7 @@ tenemos algunos correos electronicos con lo que parece ser el hash
 parece que los directorios no tienen nada que sea demasiado importante asi que vamos a decifrar los correos electronicos y los hashes
 ### usaremos hashid para identificar el tipo de hash de cada uno de los correos electronicos
 ![[Pasted image 20231208001421.png]]
-una vez tengamos el tipo de hash podemos decodearlo y asi encontar la contraseña
-
+una vez tengamos el tipo de hash podemos decodearlo y asi encontar la contraseña en resumen tenemos un monton de usuarios y un monton de contraseñas que podemos usar para hacer ataques de fuerza bruta
 ### hidra 
 ![[Pasted image 20231208001035.png]]
 ![[Pasted image 20231208001115.png]]
