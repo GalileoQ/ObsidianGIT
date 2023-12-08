@@ -27,6 +27,7 @@ Nmap done: 1 IP address (1 host up) scanned in 85.59 seconds
 tenemos un mensaje que nos da informacion sobre un hackeo que ha sufrido la empresa. parece que secuestraron su cuenta de twitter. vamos a mirar
 ### Twitter
 ![[Pasted image 20231207233456.png]]
+vamos a mirar el link
 
 ![[Pasted image 20231207231157.png]]
 ### 
