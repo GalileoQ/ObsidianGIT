@@ -31,5 +31,6 @@ vamos a mirar el link
 ### Informacion sobre el hackeo
 ![[Pasted image 20231207233636.png]]
 
+### Fuzzing con gobuster
 ![[Pasted image 20231207231157.png]]
 ### 
