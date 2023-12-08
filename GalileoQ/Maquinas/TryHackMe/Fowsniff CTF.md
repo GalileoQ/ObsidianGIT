@@ -31,6 +31,8 @@ vamos a mirar el link
 ### Informacion sobre el hackeo
 ![[Pasted image 20231207233636.png]]
 
+### backups links
+![[Pasted image 20231207233937.png]]
 ### Fuzzing con gobuster
 ![[Pasted image 20231207231157.png]]
-### 
+parece que los directorios no tienen nada que sea demasiado i
