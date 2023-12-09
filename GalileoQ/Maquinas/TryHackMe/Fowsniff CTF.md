@@ -53,3 +53,4 @@ enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros di
 ### Escalada de privilegios
 ![[Pasted image 20231208235833.png]]
 ### encontramos un archivo que parece ser el estilo que se ejecuta cuando iniciamos session por ssh. el grupo de users puede escribir sobre el y el usuario actual pertenece a ese grupo asi que podemos editar el archivo y poner una reverse shell
+![[Pasted image 20231209001421.png]]
