@@ -48,3 +48,5 @@ una vez tengamos el tipo de hash podemos decodearlo y asi encontar la contraseñ
 enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros diccionarios
 ### hydra por ssh
 ![[Pasted image 20231208231209.png]]
+### ssh
+![[Pasted image 20231208231402.png]]
