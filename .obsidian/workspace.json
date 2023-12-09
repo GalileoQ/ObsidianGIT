@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/ping con nmap.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/ping con nmap.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/ping con nmap.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/ping con nmap.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be86a693bf53d6af",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "Pasted image 20231208001421.png",
