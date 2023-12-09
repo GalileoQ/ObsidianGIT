@@ -43,3 +43,5 @@ una vez tengamos el tipo de hash podemos decodearlo y asi encontar la contraseñ
 ### Fuerza bruta con hydra al puerto 110 
 ![[Pasted image 20231208001035.png]]
 ![[Pasted image 20231208001115.png]]
+### entramos al puerto 110/pop3 y tenemos dos archivos
+![[Pasted image 20231208230437.png]]
