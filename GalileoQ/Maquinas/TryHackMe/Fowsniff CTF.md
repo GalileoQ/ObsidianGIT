@@ -50,3 +50,4 @@ enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros di
 ![[Pasted image 20231208231209.png]]
 ### ssh
 ![[Pasted image 20231208231402.png]]
+### Escalada de privilegios
