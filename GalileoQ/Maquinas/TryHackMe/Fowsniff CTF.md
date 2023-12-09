@@ -57,3 +57,5 @@ enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros di
 ### guardamos y luego es importante salir del puerto ssh y entrar de nuevo ya que al iniciar session el archivo se ejecuta como root
 ![[Pasted image 20231209001651.png]]
 
+### WE ARE ROOT
+![[Pasted image 20231209001934.png]]
