@@ -45,4 +45,6 @@ una vez tengamos el tipo de hash podemos decodearlo y asi encontar la contraseñ
 ![[Pasted image 20231208001115.png]]
 ### entramos al puerto 110/pop3 y tenemos dos archivos debemos mirarlos
 ![[Pasted image 20231208230437.png]]
-enumeramos y gardamos todos lo
+enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros diccionarios
+### hydra por ssh
+![[Pasted image 20231208231209.png]]
