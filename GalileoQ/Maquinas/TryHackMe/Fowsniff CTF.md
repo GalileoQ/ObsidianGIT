@@ -51,3 +51,5 @@ enumeramos y gardamos todos los nuevos usuarios y las contraseñas a nuestros di
 ### ssh
 ![[Pasted image 20231208231402.png]]
 ### Escalada de privilegios
+![[Pasted image 20231208235833.png]]
+### encontramos un archivo que parece ser el estilo que se ejecuta cuand
