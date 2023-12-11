@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "195225c268376b58",
+        "id": "8708cf09f3ff7984",
         "type": "tabs",
         "children": [
           {
-            "id": "be86a693bf53d6af",
+            "id": "89790b6a3211650c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5e1057e1a7b301f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0739afb19076b04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Comandos/DIOS MUNDO CRUEL.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,16 +138,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be86a693bf53d6af",
+  "active": "89790b6a3211650c",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
+    "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "Pasted image 20231209001934.png",
     "Pasted image 20231209001651.png",
     "Pasted image 20231209001421.png",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20231208235833.png",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "Pasted image 20231208231402.png",
     "Pasted image 20231208231209.png",
     "Pasted image 20231208230437.png",
