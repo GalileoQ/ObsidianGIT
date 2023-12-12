@@ -106,3 +106,6 @@ el archivo parece pertenecer al usuario root pero (otros) tienen permisos de eje
 primero vamos al directorio /tmp vamos a crear un nuevo archivo que se llame tail y vamos a cambiar los permisos de la bash con el siguiente comando
 ![[Pasted image 20231212004540.png]]
 
+
+
+![[Pasted image 20231212005317.png]]
