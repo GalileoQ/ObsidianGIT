@@ -102,4 +102,5 @@ navegando por la maquina nos hemos encontrado otro usuario el cual tiene un arch
 el archivo parece pertenecer al usuario root pero (otros) tienen permisos de ejecución 
 ![[Pasted image 20231212004140.png]]
 
-### vamos a
+### vamos a aprovecharnos de la variable tail para poder escalar privilegios
+primero vamos al directorio /tmp
