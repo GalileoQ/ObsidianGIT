@@ -96,4 +96,5 @@ para poder copiar la id_rsa de una mejor podemos hacer Ctrl + u para ver el codi
 ![[Pasted image 20231212003433.png]]
 perfecto estamos dentro y somos el usuario barry
 ### Escalada de privilegios
-navegando por la maquina nos hemos encontrado otro usuario el cual tiene un archivo muy interesante, si hacemos cat no podemos ver nada p
+navegando por la maquina nos hemos encontrado otro usuario el cual tiene un archivo muy interesante, si hacemos cat no podemos ver nada pero si hacemos strings.....
+![[Pasted image 20231212003910.png]]
