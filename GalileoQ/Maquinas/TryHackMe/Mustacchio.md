@@ -53,6 +53,5 @@ buscamos un decoder de hash SHA-1
 ![[Pasted image 20231211222616.png]]
 ### parece que aqui nos dejan una pista asi que vamos a mirar este subdirectorio
 ### se nos descarga un archivo automaticamente y lo abrimos con strings 
-parece que tenemos un archivo 
+parece que tenemos un archivo xml
 ![[Pasted image 20231211222919.png]]
-
