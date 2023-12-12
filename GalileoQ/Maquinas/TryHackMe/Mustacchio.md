@@ -37,4 +37,4 @@ parece que el archivo esta vacio
 gobuster nos certifica que existe el archivo robots.txt aparte de esto de todos los subdirectorios el mas llamativo es custom
 ### subdirectorio custom/js
 ![[Pasted image 20231211215353.png]]
-### el archivo users.bak lo podemos descar
+### el archivo users.bak lo podemos descargar 
