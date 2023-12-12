@@ -32,8 +32,8 @@ tenemos un archivo robots.txt
 ### parece que no hay mucha cosa interesante veamos el archivo robots.txt
 ![[Pasted image 20231211215451.png]]
 parece que el archivo esta vacio
-
 ###  gobuster
-
+![[Pasted image 20231211215631.png]]
+gobuster nos certifica que existe el archivo robots
 ### subdirectorio custom/js
 ![[Pasted image 20231211215353.png]]
