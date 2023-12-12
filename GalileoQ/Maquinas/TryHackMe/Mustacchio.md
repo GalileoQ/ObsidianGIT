@@ -46,3 +46,4 @@ parece que tenemos un usuario admin con un hash asi que vamos a decodearlo
 buscamos un decoder de hash SHA-1
 ### tenemos un usuario y ahora una pass
 ![[Pasted image 20231211220902.png]]
+### iniciamos session c
