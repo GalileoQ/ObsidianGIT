@@ -90,3 +90,5 @@ para poder copiar la id_rsa de una mejor podemos hacer Ctrl + u para ver el codi
 ![[Pasted image 20231212002803.png]]
 ### con estos pasos podemos conseguir el hash de la id_rsa y lo enviamos a un archivo llamado id_hash como se ve en la imagen, hacemos un cat para asegurarnos que el archivo id_hash contenga el hash
 ### usaremos la herramienta john para decodear el hash
+![[Pasted image 20231212003052.png]]
+### ahora tenemos la palabra clave que necesita la id_rsa asi que intentemos entrar por ssh de nuevo
