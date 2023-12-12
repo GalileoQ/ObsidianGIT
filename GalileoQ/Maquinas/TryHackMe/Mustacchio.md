@@ -30,9 +30,7 @@ tenemos un archivo robots.txt
 ### Enumeracion del puerto 80
 ![[Pasted image 20231211214708.png]]
 ### parece que no hay mucha cosa interesante veamos el archivo robots.txt
-
-
-
-
+![[Pasted image 20231211215451.png]]
+parece que el archivo esta vaci
 ### subdirectorio custom/js
 ![[Pasted image 20231211215353.png]]
