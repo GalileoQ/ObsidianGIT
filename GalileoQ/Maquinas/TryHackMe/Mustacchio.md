@@ -80,3 +80,5 @@ usaremos esta xml inyeccion para intentar mirar el etc/passwd
 <com>&test; </com> 
 </comment>
 ```
+### tenemos la id_rsa de barry
+![[Pasted image 20231212001934.png]]
