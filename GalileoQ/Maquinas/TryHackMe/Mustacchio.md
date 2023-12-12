@@ -68,3 +68,4 @@ usaremos esta xml inyeccion para intentar mirar el etc/passwd
 ```
 
 ![[Pasted image 20231212001031.png]]
+### perfecto tenemos respuesta. vemos que existe un usuario llamado barry. vamos a intentar consegui su id_rsa modificando la ruta en el xml
