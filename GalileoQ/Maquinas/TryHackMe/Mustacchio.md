@@ -106,7 +106,7 @@ el archivo parece pertenecer al usuario root pero (otros) tienen permisos de eje
 primero vamos al directorio /tmp vamos a crear un nuevo archivo que se llame tail y vamos a cambiar los permisos de la bash con el siguiente comando
 ![[Pasted image 20231212010043.png]]
 guardamos el archivo
-### agregamos la ruta al $PATH
+### $PATH hijacking
 
 ```python
 export PATH=/tmp:$PATH
@@ -114,3 +114,5 @@ export PATH=/tmp:$PATH
 agregamos la ruta en la que se encuentra nuestro archivo para que el $PATH la tome en cuenta cuando haga un llamado
 ![[Pasted image 20231212010450.png]]
 ### luego hacemos echo $PATH para verificar y si todo esta bien hemos cambiado los permisos a la bash. asi que si hacemos bash -p deberiamos tener una bash como el usuario root
+![[Pasted image 20231212011005.png]]
+### WE ARE ROOT
