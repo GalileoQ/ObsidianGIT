@@ -85,3 +85,5 @@ usaremos esta xml inyeccion para intentar mirar el etc/passwd
 para poder copiar la id_rsa de una mejor podemos hacer Ctrl + u para ver el codigo fuente
 ![[Pasted image 20231212002209.png]]
 ### puerto 22/ssh
+![[Pasted image 20231212002530.png]]
+### intentamos conectarnos por ssh pero nece
