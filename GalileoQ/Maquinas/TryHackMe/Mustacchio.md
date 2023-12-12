@@ -111,6 +111,6 @@ guardamos el archivo
 ```python
 export PATH=/tmp:$PATH
 ```
-agregamos la ruta en la que se encuentra nuestro archivo para que 
+agregamos la ruta en la que se encuentra nuestro archivo para que el $PATH la tome en cuenta cuando haga un llamado
 ![[Pasted image 20231212010450.png]]
-
+### luego hacemos echo $PATH para verificar y si todo esta bien hemos cambiado los permisos a la bash
