@@ -38,3 +38,5 @@ gobuster nos certifica que existe el archivo robots.txt aparte de esto de todos 
 ### subdirectorio custom/js
 ![[Pasted image 20231211215353.png]]
 ### el archivo users.bak lo podemos descargar 
+![[Pasted image 20231211220112.png]]
+parece que tenemos un s
