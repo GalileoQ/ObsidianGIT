@@ -29,4 +29,4 @@ tenemos un archivo robots.txt
 
 ### Enumeracion del puerto 80
 ![[Pasted image 20231211214708.png]]
-### parece que no hay mucha cosa interesante vea
+### parece que no hay mucha cosa interesante veamos el archivo robots.txt
