@@ -108,5 +108,9 @@ primero vamos al directorio /tmp vamos a crear un nuevo archivo que se llame tai
 guardamos el archivo
 ### agregamos la ruta al $PATH
 
+```python
+export PATH=/tmp:$PATH
+```
+agregamos la ruta en la que se encuentra nuestro archivo para que 
 ![[Pasted image 20231212010450.png]]
 
