@@ -94,4 +94,6 @@ para poder copiar la id_rsa de una mejor podemos hacer Ctrl + u para ver el codi
 ### ahora tenemos la palabra clave que necesita la id_rsa asi que intentemos entrar por ssh de nuevo
 ### Port 22/ssh
 ![[Pasted image 20231212003433.png]]
-### perfecto estamos dentro y somos el usuario barry
+perfecto estamos dentro y somos el usuario barry
+### Escalada de privilegios
+navegando por la maquina nos hemos encontrado otro usuario el cual tiene un archivo muy interesante, si hacemos cat no podemos ver nada p
