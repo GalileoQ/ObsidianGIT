@@ -56,3 +56,4 @@ buscamos un decoder de hash SHA-1
 parece que tenemos un archivo xml
 ![[Pasted image 20231211222919.png]]
 ### xml inyection 
+``
