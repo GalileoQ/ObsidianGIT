@@ -50,4 +50,6 @@ buscamos un decoder de hash SHA-1
 ![[Pasted image 20231211222507.png]]
 ### parece que el panel de comandos no es vulnerable a reverse shell ni inyeccion sql
 ### miramos el codigo fuente
+![[Pasted image 20231211222616.png]]
+### parece que aqui nos dejan una pista asi que vamos a mirar este subdirectorio
 
