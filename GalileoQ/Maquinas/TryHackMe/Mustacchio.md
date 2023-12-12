@@ -55,3 +55,4 @@ buscamos un decoder de hash SHA-1
 ### se nos descarga un archivo automaticamente y lo abrimos con strings 
 parece que tenemos un archivo xml
 ![[Pasted image 20231211222919.png]]
+### 
