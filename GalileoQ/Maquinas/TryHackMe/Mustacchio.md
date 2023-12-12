@@ -44,3 +44,5 @@ parece que tenemos un usuario admin con un hash asi que vamos a decodearlo
 ### usamos hashid para identificar el hash
 ![[Pasted image 20231211220355.png]]
 buscamos un decoder de hash SHA-1
+### tenemos un usuario y ahora una pass
+![[Pasted image 20231211220902.png]]
