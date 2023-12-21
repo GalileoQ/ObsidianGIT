@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8708cf09f3ff7984",
+        "id": "e5bdb698b4601def",
         "type": "tabs",
         "children": [
           {
-            "id": "89790b6a3211650c",
+            "id": "6666d71ca9bff77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "89790b6a3211650c",
+  "active": "6666d71ca9bff77b",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
     "Pasted image 20231212011005.png",
     "Pasted image 20231212010450.png",
     "Pasted image 20231212010043.png",
@@ -158,8 +159,6 @@
     "Pasted image 20231212003910.png",
     "Pasted image 20231212003433.png",
     "Pasted image 20231212003052.png",
-    "Pasted image 20231212002803.png",
-    "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
