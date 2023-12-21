@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5bdb698b4601def",
+        "id": "f58e0e1a4e696844",
         "type": "tabs",
         "children": [
           {
-            "id": "6666d71ca9bff77b",
+            "id": "eba85de825bbff68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6666d71ca9bff77b",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
