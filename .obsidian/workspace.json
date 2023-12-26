@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "eba85de825bbff68",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
+    "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Shells/OneLiners.md",
     "imagenes/Pasted image 20231212010450.png",
     "imagenes/Pasted image 20231212010043.png",
@@ -167,12 +169,10 @@
     "GalileoQ/Maquinas/TryHackMe/Red.md",
     "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
-    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
-    "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
