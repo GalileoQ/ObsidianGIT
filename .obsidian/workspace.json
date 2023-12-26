@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f453f568ad8bc14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eba85de825bbff68",
+  "active": "1f453f568ad8bc14",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
