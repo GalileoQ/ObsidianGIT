@@ -11,8 +11,12 @@
             "id": "eba85de825bbff68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md"
               }
             }
           }
@@ -142,10 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "eba85de825bbff68",
   "lastOpenFiles": [
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
+    "imagenes/Pasted image 20231212010450.png",
+    "imagenes/Pasted image 20231212010043.png",
+    "imagenes/Pasted image 20231212005317.png",
+    "imagenes/Pasted image 20231212004540.png",
+    "imagenes/Pasted image 20231212004140.png",
+    "imagenes/Pasted image 20231212004107.png",
+    "imagenes/Pasted image 20231212003910.png",
+    "imagenes/Pasted image 20231212003433.png",
+    "imagenes/Pasted image 20231212003052.png",
+    "imagenes/Pasted image 20231212002803.png",
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
@@ -156,16 +170,6 @@
     "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/TryHackMe/Archangel.md",
     "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
-    "Pasted image 20231212011005.png",
-    "Pasted image 20231212010450.png",
-    "Pasted image 20231212010043.png",
-    "Pasted image 20231212005317.png",
-    "Pasted image 20231212004540.png",
-    "Pasted image 20231212004140.png",
-    "Pasted image 20231212004107.png",
-    "Pasted image 20231212003910.png",
-    "Pasted image 20231212003433.png",
-    "Pasted image 20231212003052.png",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
     "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
@@ -179,7 +183,6 @@
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
