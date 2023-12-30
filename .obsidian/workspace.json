@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "6bf705da64935ce0",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
@@ -170,7 +171,6 @@
     "imagenes/Pasted image 20231212003433.png",
     "imagenes/Pasted image 20231212003052.png",
     "imagenes/Pasted image 20231212002803.png",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/TryHackMe/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
