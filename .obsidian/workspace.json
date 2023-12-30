@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fd8bd502c9ab6a8",
+        "id": "707412c106453af8",
         "type": "tabs",
         "children": [
           {
-            "id": "152c71f8f4858fc5",
+            "id": "6bf705da64935ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Sau.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Sau.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Sau.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Sau.md"
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "152c71f8f4858fc5",
+  "active": "6bf705da64935ce0",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
+    "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Red.md",
     "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
@@ -159,7 +160,6 @@
     "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
-    "GalileoQ/Shells/OneLiners.md",
     "imagenes/Pasted image 20231212010450.png",
     "imagenes/Pasted image 20231212010043.png",
     "imagenes/Pasted image 20231212005317.png",
