@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "707412c106453af8",
+        "id": "d3042069ff8b373d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf705da64935ce0",
+            "id": "e7dc455b7fe06605",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md"
+              }
             }
           }
         ]
@@ -138,8 +142,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6bf705da64935ce0",
+  "active": "e7dc455b7fe06605",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
@@ -175,7 +180,6 @@
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
