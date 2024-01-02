@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mustacchio.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md"
               }
             }
           }
@@ -146,27 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7dc455b7fe06605",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/TomGhost.md",
-    "GalileoQ/Maquinas/TryHackMe/Overpass.md",
-    "GalileoQ/Maquinas/TryHackMe/GamingServer.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/TomGhost.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Overpass.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/GamingServer.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Maquinas/TryHackMe/Wgel-CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/Fowsniff CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/Easy Peasy.md",
-    "GalileoQ/Maquinas/TryHackMe/Lian_Yu.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Wgel-CTF.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Fowsniff CTF.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Easy Peasy.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Lian_Yu.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
-    "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
-    "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
-    "GalileoQ/Maquinas/TryHackMe/Red.md",
-    "GalileoQ/Maquinas/TryHackMe/Chill Hack.md",
-    "GalileoQ/Maquinas/TryHackMe/Bounty Hacker.md",
-    "GalileoQ/Maquinas/TryHackMe/AnonForce.md",
-    "GalileoQ/Maquinas/TryHackMe/Anthem.md",
-    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/ROOTME.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Red.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Chill Hack.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Bounty Hacker.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/AnonForce.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Anthem.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Dreaming.md",
     "imagenes/Pasted image 20231212010450.png",
     "imagenes/Pasted image 20231212010043.png",
     "imagenes/Pasted image 20231212005317.png",
@@ -178,9 +178,9 @@
     "imagenes/Pasted image 20231212003052.png",
     "imagenes/Pasted image 20231212002803.png",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Maquinas/TryHackMe/Ignite.md",
-    "GalileoQ/Maquinas/TryHackMe/Cyborg.md",
-    "GalileoQ/Maquinas/TryHackMe/Archangel.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Ignite.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Cyborg.md",
+    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Archangel.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
