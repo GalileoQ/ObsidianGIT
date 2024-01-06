@@ -47,3 +47,4 @@ aqui vamos a inyectar comando en php
 ### inyectamos nuestro codigo php y buscamos la ruta exacta donde se guarda esta template
 ![[Pasted image 20240106135321.png]]
 ya estamos dentro
+### En la ruta /var/www/html podemos conseguir un archivo de configuracion que contiene credenciale

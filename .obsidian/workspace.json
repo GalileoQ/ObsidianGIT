@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a6a5c836a628581c",
+  "active": "4d92525fe451bb24",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
     "Pasted image 20240106135321.png",
     "Pasted image 20240106135230.png",
@@ -196,7 +196,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Easy Peasy.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Lian_Yu.md",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/ROOTME.md",
