@@ -46,4 +46,4 @@ aqui vamos a inyectar comando en php
 ![[Pasted image 20240106135230.png]]
 ### inyectamos nuestro codigo php y buscamos la ruta exacta donde se guarda esta template
 ![[Pasted image 20240106135321.png]]
-ya estamos den
+ya estamos dentro
