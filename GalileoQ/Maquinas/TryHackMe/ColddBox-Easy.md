@@ -31,3 +31,8 @@ tenemos al usuario philip, c0ldd, hugo. creamos un pequeño diccionario con esto
 ![[Pasted image 20240106132913.png]]
 ![[Pasted image 20240106133114.png]]
 ### aqui estamos haciendo un ataque de fueraza bruta para conseguir la contraseña de alguno de los usuarios 
+Conseguimos la contraseña
+![[Pasted image 20240106133342.png]]
+### Credenciales
+```
+```
