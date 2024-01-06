@@ -29,3 +29,5 @@ conseguimos uun posible archivo XML
 ![[Pasted image 20240106132420.png]]
 tenemos al usuario philip, c0ldd, hugo. creamos un pequeño diccionario con estos usuarios y lo usaremos para hacer fuerza bruta
 ![[Pasted image 20240106132913.png]]
+![[Pasted image 20240106133114.png]]
+### aqui estamos haciendo un ataque de fueraza bruta 
