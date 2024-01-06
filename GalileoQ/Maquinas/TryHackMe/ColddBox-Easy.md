@@ -24,4 +24,7 @@ Nmap done: 1 IP address (1 host up) scanned in 75.77 seconds
 
 ### utilizaremos la eramienta wpscan
 ![[Pasted image 20240106132000.png]]
-conseguimos uun posible archivo XM
+conseguimos uun posible archivo XML
+### usuarios
+![[Pasted image 20240106132420.png]]
+tenemos al usuario philip, c0ldd, hugo
