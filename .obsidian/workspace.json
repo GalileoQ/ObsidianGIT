@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3042069ff8b373d",
+        "id": "7aec7c3c262c8e97",
         "type": "tabs",
         "children": [
           {
-            "id": "e7dc455b7fe06605",
+            "id": "5b3d7b225353320b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/TryHackMe/Mustacchio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
