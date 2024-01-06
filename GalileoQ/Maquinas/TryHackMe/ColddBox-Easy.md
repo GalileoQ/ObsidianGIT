@@ -19,3 +19,8 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 75.77 seconds
 ```
+### Enumeracion del puerto 80
+![[Pasted image 20240106131915.png]]
+
+### utilizaremos la eramienta wpscan
+![[Pasted image 20240106132000.png]]
