@@ -38,3 +38,5 @@ Conseguimos la contraseña
 users: c0ldd
 passw: 9876543210
 ```
+### ingresamos al wordpress
+![[Pasted image 20240106133706.png]]
