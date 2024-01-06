@@ -42,3 +42,4 @@ passw: 9876543210
 ![[Pasted image 20240106133706.png]]
 ### vamos al apartado de themas y podemos editar un thema 
 ![[Pasted image 20240106134008.png]]
+aqui vamos a inyectar comando en php
