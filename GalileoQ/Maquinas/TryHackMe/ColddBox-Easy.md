@@ -51,5 +51,6 @@ ya estamos dentro
 ![[Pasted image 20240106140658.png]]
 ### Escalada de privilegios 
 ![[Pasted image 20240106141104.png]]
-el usuario c0ldd puede ejecutar los siguientes comandos como root
+el usuario c0ldd puede ejecutar los siguientes comandos como root....
+usaremos el comando chmod para cambiar los permisos de la bash y asi poder spaunear una bash como root
 ![[Pasted image 20240106141327.png]]
