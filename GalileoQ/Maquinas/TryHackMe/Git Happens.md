@@ -17,4 +17,4 @@ Nmap done: 1 IP address (1 host up) scanned in 80.32 seconds
 ### Enumeracion del puerto 80
 parece que contiene un repositorio en github
 ![[Pasted image 20240106114818.png]]
-### Descargamos la herramienta gitdumper y 
+### Descargamos la herramienta gitdumper y analizamos la carpeta logs para buscar todos los commits y capturar el ultimo commit donde esta la contraseña 
