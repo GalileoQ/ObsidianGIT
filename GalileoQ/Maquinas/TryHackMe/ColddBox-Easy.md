@@ -49,4 +49,6 @@ aqui vamos a inyectar comando en php
 ya estamos dentro
 ### En la ruta /var/www/html podemos conseguir un archivo de configuracion que contiene credenciales
 ![[Pasted image 20240106140658.png]]
-### esc
+### Escalada de privilegios 
+![[Pasted image 20240106141104.png]]
+el usuario c0ldd puede ejecutar los siguientes comandos como root
