@@ -43,3 +43,7 @@ passw: 9876543210
 ### vamos al apartado de themas y podemos editar un thema 
 ![[Pasted image 20240106134008.png]]
 aqui vamos a inyectar comando en php
+![[Pasted image 20240106135230.png]]
+### inyectamos nuestro codigo php y buscamos la ruta exacta donde se guarda esta template
+![[Pasted image 20240106135321.png]]
+ya estamos den
