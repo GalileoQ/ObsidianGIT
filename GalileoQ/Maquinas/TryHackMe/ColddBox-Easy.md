@@ -27,4 +27,5 @@ Nmap done: 1 IP address (1 host up) scanned in 75.77 seconds
 conseguimos uun posible archivo XML
 ### usuarios
 ![[Pasted image 20240106132420.png]]
-tenemos al usuario philip, c0ldd, hugo. creamos un pequeño diccionario con estos usuarios y lo usaremos para hacer fuerxa
+tenemos al usuario philip, c0ldd, hugo. creamos un pequeño diccionario con estos usuarios y lo usaremos para hacer fuerza bruta
+![[Pasted image 20240106132913.png]]
