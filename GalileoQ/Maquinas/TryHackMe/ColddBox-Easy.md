@@ -49,3 +49,4 @@ aqui vamos a inyectar comando en php
 ya estamos dentro
 ### En la ruta /var/www/html podemos conseguir un archivo de configuracion que contiene credenciales
 ![[Pasted image 20240106140658.png]]
+### esc
