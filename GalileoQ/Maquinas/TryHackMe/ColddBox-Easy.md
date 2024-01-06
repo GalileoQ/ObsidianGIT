@@ -52,3 +52,5 @@ ya estamos dentro
 ### Escalada de privilegios 
 ![[Pasted image 20240106141104.png]]
 el usuario c0ldd puede ejecutar los siguientes comandos como root
+![[Pasted image 20240106141327.png]]
+tenemos 
