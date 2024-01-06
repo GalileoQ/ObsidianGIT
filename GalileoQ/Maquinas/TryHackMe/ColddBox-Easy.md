@@ -34,5 +34,7 @@ tenemos al usuario philip, c0ldd, hugo. creamos un pequeño diccionario con esto
 Conseguimos la contraseña
 ![[Pasted image 20240106133342.png]]
 ### Credenciales
-```
+```python
+users: c0ldd
+passw: 9876543210
 ```
