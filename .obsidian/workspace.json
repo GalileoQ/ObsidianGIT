@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Devvortex.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Git Happens.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5b3d7b225353320b",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+    "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/TomGhost.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Overpass.md",
@@ -182,8 +184,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Ignite.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Cyborg.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Archangel.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
