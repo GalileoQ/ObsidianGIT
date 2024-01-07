@@ -35,3 +35,4 @@ PORT      STATE SERVICE    VERSION
 ### Enumeracion del puerto 80
 ![[Pasted image 20240106222122.png]]
 tenemos información sobre la pagina. esto es importante para poder buscar vulnerabilidades o exploits
+### buscam
