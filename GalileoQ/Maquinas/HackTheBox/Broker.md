@@ -41,3 +41,4 @@ searchsploit nos indica que tenemos varios sploits  para poder vulnerar este fra
 
 ### CVE-2023-46604
 ![[Pasted image 20240106224146.png]]
+
