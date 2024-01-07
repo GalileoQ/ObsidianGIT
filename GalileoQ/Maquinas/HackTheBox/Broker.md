@@ -40,3 +40,4 @@ tenemos información sobre la pagina. esto es importante para poder buscar vulne
 searchsploit nos indica que tenemos varios sploits  para poder vulnerar este framework asi que haremos una busqueda en internet
 
 ### CVE-2023-46604
+![[Pasted image 20240106224146.png]]
