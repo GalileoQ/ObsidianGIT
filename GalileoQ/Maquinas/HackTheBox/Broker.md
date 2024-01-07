@@ -37,3 +37,4 @@ PORT      STATE SERVICE    VERSION
 tenemos información sobre la pagina. esto es importante para poder buscar vulnerabilidades o exploits
 ### buscamos información sobre el framework
 ![[Pasted image 20240106222624.png]]
+
