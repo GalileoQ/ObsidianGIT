@@ -33,3 +33,5 @@ PORT      STATE SERVICE    VERSION
 ```
 
 ### Enumeracion del puerto 80
+![[Pasted image 20240106222122.png]]
+tenemos informacion sobre 
