@@ -64,3 +64,6 @@ http {
 	}
 }
 ```
+si nos da un error podemos cambiar el puerto de listen por otro
+![[Pasted image 20240107003240.png]]
+### finalmente podemos hacer un curl al localhost 
