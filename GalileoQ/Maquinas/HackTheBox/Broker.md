@@ -51,3 +51,6 @@ tenemos conexión
 ![[Pasted image 20240106232230.png]]
 
 ### copiamos el archivo nginx.conf al directorio tmp para poder editarlo
+```
+
+```
