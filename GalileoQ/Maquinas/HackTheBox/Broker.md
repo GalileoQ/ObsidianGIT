@@ -47,3 +47,5 @@ abrimos un servidor en python para poder hacer el llamado del poc.xml y ejecutam
 ![[Pasted image 20240106231746.png]]
 tenemos conexión 
 
+### Escalada de privilegios 
+![[Pasted image 20240106232230.png]]
