@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6238eb76eab8c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md"
+                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
               }
             }
           }
@@ -146,13 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c8ec2301e4d6661d",
+  "active": "d6238eb76eab8c78",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "Pasted image 20240106231746.png",
     "Pasted image 20240106224146.png",
     "Pasted image 20240106222624.png",
     "Pasted image 20240106222122.png",
-    "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
@@ -162,7 +175,6 @@
     "Pasted image 20240106135321.png",
     "Pasted image 20240106135230.png",
     "Pasted image 20240106134008.png",
-    "Pasted image 20240106133706.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
