@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6238eb76eab8c78",
+  "active": "c8ec2301e4d6661d",
   "lastOpenFiles": [
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "Pasted image 20240106232230.png",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "Pasted image 20240106231746.png",
     "Pasted image 20240106224146.png",
     "Pasted image 20240106222624.png",
