@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e84803196a9d7c0",
+        "id": "7d7c9ab111658ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "4d92525fe451bb24",
+            "id": "c8ec2301e4d6661d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6a5c836a628581c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b32596a0aab77775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md"
               }
             }
           }
@@ -170,22 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4d92525fe451bb24",
+  "active": "c8ec2301e4d6661d",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Broker.md",
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
+    "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
     "Pasted image 20240106141327.png",
     "Pasted image 20240106141104.png",
     "Pasted image 20240106140658.png",
-    "GalileoQ/Shells/TRATAMIENTO TTY..md",
-    "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
     "Pasted image 20240106135321.png",
     "Pasted image 20240106135230.png",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20240106134008.png",
     "Pasted image 20240106133706.png",
     "Pasted image 20240106133342.png",
     "Pasted image 20240106133114.png",
     "Pasted image 20240106132913.png",
-    "Pasted image 20240106132420.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
