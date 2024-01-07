@@ -37,4 +37,6 @@ PORT      STATE SERVICE    VERSION
 tenemos información sobre la pagina. esto es importante para poder buscar vulnerabilidades o exploits
 ### buscamos información sobre el framework
 ![[Pasted image 20240106222624.png]]
-searchsploit nos indica que tenemos varios sploits  para poder vulnerar este frame
+searchsploit nos indica que tenemos varios sploits  para poder vulnerar este framework asi que haremos una busqueda en internet
+
+### CVE-2023-46604
