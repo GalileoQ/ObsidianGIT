@@ -52,5 +52,16 @@ tenemos conexión
 
 ### copiamos el archivo nginx.conf al directorio tmp para poder editarlo
 ```
-
+user root;
+events {
+	worker_connections 768;
+}
+http {
+	server {
+		listen 9001;
+		root /;
+		autoindex on;
+	}
+}
 ```
+
