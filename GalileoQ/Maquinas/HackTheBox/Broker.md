@@ -43,5 +43,7 @@ searchsploit nos indica que tenemos varios sploits  para poder vulnerar este fra
 ![[Pasted image 20240106224146.png]]
 
 ### ejecutamos el exploit
-abrimos un servidor en python pa
-![[Pasted image 2024010623174
+abrimos un servidor en python para poder hacer el llamado del poc.xml y ejecutamos
+![[Pasted image 20240106231746.png]]
+tenemos conexión 
+
