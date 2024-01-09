@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7c9ab111658ca6",
+        "id": "a6ab2a99e6789cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ec2301e4d6661d",
+            "id": "0f75a90607b4f42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6238eb76eab8c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/TRATAMIENTO TTY..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c8ec2301e4d6661d",
+  "active": "0f75a90607b4f42a",
   "lastOpenFiles": [
-    "Pasted image 20240107003240.png",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
+    "Pasted image 20240107003240.png",
     "Pasted image 20240106232230.png",
     "Pasted image 20240106231746.png",
     "Pasted image 20240106224146.png",
@@ -174,7 +154,6 @@
     "Pasted image 20240106141104.png",
     "Pasted image 20240106140658.png",
     "Pasted image 20240106135321.png",
-    "Pasted image 20240106135230.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
