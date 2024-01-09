@@ -36,8 +36,10 @@ Nmap done: 1 IP address (1 host up) scanned in 53.45 seconds
 ![[Pasted image 20240108215937.png]]
 tenemos los apartados de home/about us/services/contact. debemos hacer una recopilacion pasiva de informacion
 ```python
-Address - A108 Adam Street, NY 535022, USA
-Phone Number
-[+1 5589 55488 55](tel:+155895548855)
-Email - info@bizness.htb
+Informacion
+
+Address: - A108 Adam Street, NY 535022, USA
+Phone: - [+1 5589 55488 55](tel:+155895548855)
+Email: - info@bizness.htb
 ```
+
