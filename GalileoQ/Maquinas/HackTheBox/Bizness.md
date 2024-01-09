@@ -53,3 +53,4 @@ primero tenemos que inetalar los requerimentos
 ![[Pasted image 20240108225217.png]]
 una vez tenemos todos los requerimentos podemos ver como se instala y se ejecuta
 ![[Pasted image 20240108225711.png]]
+este exploit hace que la pag sea vulnerable y ahora si podemos atacarla
