@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bi.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bi.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bi.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bi.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "0f75a90607b4f42a",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
-    "GalileoQ/Maquinas/HackTheBox/Bi.md",
+    "GalileoQ/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "Pasted image 20240107003240.png",
