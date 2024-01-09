@@ -43,3 +43,5 @@ Phone: - [+1 5589 55488 55](tel:+155895548855)
 Email: - info@bizness.htb
 ```
 
+### Fuzzing con dirb
+![[Pasted image 20240108221622.png]]

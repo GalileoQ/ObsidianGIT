@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6e512d163b2c8d54",
+  "active": "0f75a90607b4f42a",
   "lastOpenFiles": [
+    "Pasted image 20240108221622.png",
+    "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/HackTheBox/Codify.md",
@@ -182,7 +183,6 @@
     "Pasted image 20240106141104.png",
     "Pasted image 20240106140658.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
-    "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/TomGhost.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Overpass.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/GamingServer.md",
@@ -196,7 +196,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Red.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Chill Hack.md",
-    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
