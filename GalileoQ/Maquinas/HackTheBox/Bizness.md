@@ -44,4 +44,5 @@ Email: - info@bizness.htb
 ```
 ### Fuzzing con dirb
 ![[Pasted image 20240108221622.png]]
-en este caso usamos la herramienta dirb y conseguimos diferentes subdirectorios
+en este caso usamos la herramienta dirb y conseguimos diferentes subdirectorios. en el directorio accounting tenemos un panel de login
+![[Pasted image 20240108221731.png]]
