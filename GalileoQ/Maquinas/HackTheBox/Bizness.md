@@ -54,3 +54,5 @@ primero tenemos que inetalar los requerimentos
 una vez tenemos todos los requerimentos podemos ver como se instala y se ejecuta
 ![[Pasted image 20240108225711.png]]
 este exploit hace que la pag sea vulnerable y ahora si podemos atacarla
+
+### una ves nuestra maquina es vulnerable podemos intentar copiar el binario de netcat para realizar 
