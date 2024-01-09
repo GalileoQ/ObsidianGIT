@@ -51,3 +51,5 @@ en este caso usamos la herramienta dirb y conseguimos diferentes subdirectorios.
 ### despues de una larga busqueda en internet tenemos un CVE posiblemente funcional asi que vamos a probar 
 primero tenemos que inetalar los requerimentos 
 ![[Pasted image 20240108225217.png]]
+una vez tenemos todos los requerimentos podemos ver como se instala y se ejecuta
+![[Pasted image 20240108225711.png]]
