@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a188df29c75e8ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f75a90607b4f42a",
+  "active": "a188df29c75e8ea5",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
+    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "Pasted image 20240108215937.png",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
-    "GalileoQ/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "Pasted image 20240107003240.png",
@@ -164,7 +179,6 @@
     "Pasted image 20240106141327.png",
     "Pasted image 20240106141104.png",
     "Pasted image 20240106140658.png",
-    "Pasted image 20240106135321.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
@@ -183,7 +197,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Bounty Hacker.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/AnonForce.md",
-    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Anthem.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
