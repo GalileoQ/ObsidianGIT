@@ -48,4 +48,6 @@ en este caso usamos la herramienta dirb y conseguimos diferentes subdirectorios.
 ![[Pasted image 20240108221731.png]]
 
 
-### despues de una larga busqueda en internet tenemos un CVE posiblemente funciona
+### despues de una larga busqueda en internet tenemos un CVE posiblemente funcional asi que vamos a probar 
+primero tenemos que inetalar los requerimentos 
+![[Pasted image 20240108225217.png]]
