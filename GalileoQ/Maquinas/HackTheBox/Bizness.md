@@ -34,4 +34,7 @@ Nmap done: 1 IP address (1 host up) scanned in 53.45 seconds
 
 ### Enumeracion del puerto 80
 ![[Pasted image 20240108215937.png]]
-tenemos los apartados de home/about us/services/contact. podemos mirar
+tenemos los apartados de home/about us/services/contact. debemos hacer una recopilacion pasiva de informacion
+```python
+Email - info@bizness.htb
+```
