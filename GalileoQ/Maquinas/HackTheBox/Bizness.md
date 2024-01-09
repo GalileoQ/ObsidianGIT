@@ -33,3 +33,5 @@ Nmap done: 1 IP address (1 host up) scanned in 53.45 seconds
 ### Ports: 22/ssh - 80/http - 443/ssl
 
 ### Enumeracion del puerto 80
+![[Pasted image 20240108215937.png]]
+tenemos los apartados de home/about us/services/contact. podemos mirar
