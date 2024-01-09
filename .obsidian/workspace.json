@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a188df29c75e8ea5",
+            "id": "6e512d163b2c8d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Codify.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md"
               }
             }
           }
@@ -159,9 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a188df29c75e8ea5",
+  "active": "6e512d163b2c8d54",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
+    "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "Pasted image 20240108215937.png",
@@ -180,7 +182,6 @@
     "Pasted image 20240106141104.png",
     "Pasted image 20240106140658.png",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
-    "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/TomGhost.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Overpass.md",
@@ -196,7 +197,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Red.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Chill Hack.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Bounty Hacker.md",
-    "GalileoQ/Maquinas/HackTheBox/TryHackMe/AnonForce.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
