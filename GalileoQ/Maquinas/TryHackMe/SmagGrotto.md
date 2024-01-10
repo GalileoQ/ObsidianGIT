@@ -38,5 +38,8 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ### agregamos el dominio al archivo /etc/hosts
 ![[Pasted image 20240110185219.png]]
 ###### una vez hecho esto podemos dirigirnos al dominio desde la direccion ip de la maquina
-### obtenemos acceso al dominio en el cual nos encontramos con 3 dominios .php que parece ser la pagina de login qu
+### obtenemos acceso al dominio en el cual nos encontramos con 3 dominios .php que parece ser la pagina de login en la cual se había realizado la peticion
 ![[Pasted image 20240110185504.png]]
+
+### login.php
+![[Pasted image 20240110185746.png]]
