@@ -33,4 +33,4 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110183844.png]]
 ###### podemos ver un intercambio de conexiones entre dos ips diferentes asi que vamos a leer esta conexión para intentar extraer mas información 
 ![[Pasted image 20240110184616.png]]
-### descubrimos que este paquete contiene una coneccion en un servicio login.php tambien tenemos un dominio llamado 
+### descubrimos que este paquete contiene una conexión en un servicio login.php también tenemos un dominio llamado development.smag.thm y también tenemos unas credenciales. vamos a investigar el nuevo dominio para saber de que se trata
