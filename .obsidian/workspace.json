@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -158,11 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "644910872dcd9679",
+  "active": "a437749ab8023c7b",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
     "Pasted image 20240110192841.png",
     "GalileoQ/Shells/OneLiners.md",
-    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
     "Pasted image 20240110190620.png",
     "Pasted image 20240110190330.png",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
@@ -176,7 +177,6 @@
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
-    "Pasted image 20240110175916.png",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
