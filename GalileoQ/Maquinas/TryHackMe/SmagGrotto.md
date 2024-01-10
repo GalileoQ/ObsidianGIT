@@ -46,5 +46,7 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110185746.png]]
 
 ### obtenemos conexion y esto nos lleva a un panel que nos permite ejecutar comando. usaremos esto para intentar conseguir una reverse shell
-###### ingresamos un onliner que contenga una reverse shell. estaremos a la escucha por el puerto especificado y hacemos el ataque
+###### ingresamos un onliner que contenga una reverse shell. estaremos a la escucha por el puerto especificado
 ![[Pasted image 20240110190330.png]]
+###### listening
+![[Pasted image 20240110190620.png]]
