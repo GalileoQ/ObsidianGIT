@@ -27,8 +27,8 @@ temos un subdominio llamado /mail asi que vamos a investigar
 ### subdominio /mail
 tenemos tres mensajes en esta dirección que nos proporcionan información valiosa
 ![[Pasted image 20240110175916.png]]
-tenemos un archivo para descargar y 3 usuarios: NETADMIN, jAKE, UZI  
+###### tenemos un archivo para descargar y 3 usuarios: NETADMIN, jAKE, UZI  
 
 ### Analizaremos el archivo .pcap con wireshark 
 ![[Pasted image 20240110183844.png]]
-###### podemos ver un intercambio de conecxiones entre dos ipsd
+###### podemos ver un intercambio de conexiones entre dos ips diferentes asi que vamos a leer esta conexión para intentar extraer mas información 
