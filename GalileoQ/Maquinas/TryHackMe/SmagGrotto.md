@@ -18,14 +18,14 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 
 ### Enumeracion del puerto 80
 ![[Pasted image 20240110174447.png]]
-parece que no tenemos mucha información debido a que la pagina esta en mantenimiento. y mirando el código fuente de la pagina tampoco podemos conseguir mucha información
+###### parece que no tenemos mucha información debido a que la pagina esta en mantenimiento. y mirando el código fuente de la pagina tampoco podemos conseguir mucha información
 
 ### Fuzzing con gobuster
 ![[Pasted image 20240110175151.png]]
-temos un subdominio llamado /mail asi que vamos a investigar 
+###### temos un subdominio llamado /mail asi que vamos a investigar 
 
 ### subdominio /mail
-tenemos tres mensajes en esta dirección que nos proporcionan información valiosa
+###### tenemos tres mensajes en esta dirección que nos proporcionan información valiosa
 ![[Pasted image 20240110175916.png]]
 ###### tenemos un archivo para descargar y 3 usuarios: NETADMIN, jAKE, UZI  
 
