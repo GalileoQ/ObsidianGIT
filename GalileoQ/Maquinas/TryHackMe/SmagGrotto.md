@@ -27,4 +27,4 @@ temos un subdominio llamado /mail asi que vamos a investigar
 ### subdominio /mail
 tenemos tres mensajes en esta dirección que nos proporcionan información valiosa
 ![[Pasted image 20240110175916.png]]
-tenemos 
+tenemos un archivo para descargar y un usuario llamado Uzi
