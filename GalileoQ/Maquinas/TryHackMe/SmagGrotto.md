@@ -44,3 +44,6 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ### login.php
 ###### este parece ser el login.php en el cual se estaba realizando la peticion que hemos conseguido anteriormente. asi que vamos a probar las credenciales
 ![[Pasted image 20240110185746.png]]
+
+### obtenemos conexion y esto nos lleva a un panel que nos permite ejecutar comando. usaremos esto para intentar conseguir una reverse shell
+![[Pasted image 20240110190048.png]]
