@@ -52,4 +52,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110190620.png]]
 ### tareas crontab
 ![[Pasted image 20240110192841.png]]
-###### tenemos una tarea /crontab que se ejecuta a cada minuto. esta tarea ejecuta un archivo que esta en la ruta /opt y lo guarda en 
+###### tenemos una tarea /crontab que se ejecuta a cada minuto. esta tarea ejecuta un archivo que esta en la ruta /opt y lo guarda en el direcctorio de jake en la ruta .ssh/authorized_keys
+
