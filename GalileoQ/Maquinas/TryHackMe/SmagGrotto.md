@@ -25,4 +25,5 @@ parece que no tenemos mucha información debido a que la pagina esta en mantenim
 temos un subdominio llamado /mail asi que vamos a investigar 
 
 ### subdominio /mail
-tenemos tres mensajes en esta direccion que nos dan informacion sobre 
+tenemos tres mensajes en esta dirección que nos proporcionan información valiosa
+![[Pasted image 20240110175916.png]]
