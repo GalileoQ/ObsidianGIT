@@ -55,8 +55,8 @@ una vez tenemos todos los requerimentos podemos ver como se instala y se ejecuta
 ![[Pasted image 20240108225711.png]]
 este exploit hace que la pag sea vulnerable y ahora si podemos atacarla
 
-### una ves nuestra maquina es vulnerable podemos intentar copiar el binario de netcat para realizar un ataque 
+### una ves nuestra maquina es vulnerable podemos intentar copiar el binario de netcat para ponernos a la escucha
 ```python
 cp /usr/bin/nc ./
 ```
-
+### ejecutamos el exploits y nos ponemos a la escucha en el puerto correspondiente y estaremos dentro

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Keeper.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Keeper.md",
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Keeper.md"
+                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2f9f1711e1b4cc5",
+  "active": "0f75a90607b4f42a",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/HackTheBox/Bizness.md",
     "Pasted image 20240108225711.png",
     "Pasted image 20240108225217.png",
@@ -182,7 +182,6 @@
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
-    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "Pasted image 20240108215937.png",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
