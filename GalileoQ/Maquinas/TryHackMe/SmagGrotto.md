@@ -50,3 +50,6 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110190330.png]]
 ###### listening
 ![[Pasted image 20240110190620.png]]
+### tareas crontab
+![[Pasted image 20240110192841.png]]
+###### tenemos una tarea crontab 
