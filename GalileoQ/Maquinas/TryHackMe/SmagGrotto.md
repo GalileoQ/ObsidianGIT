@@ -22,4 +22,5 @@ parece que no tenemos mucha información debido a que la pagina esta en mantenim
 
 ### Fuzzing con gobuster
 ![[Pasted image 20240110175151.png]]
-temos un subdominio llamado /mail asi que vamos a invertigar 
+temos un subdominio llamado /mail asi que vamos a investigar 
+
