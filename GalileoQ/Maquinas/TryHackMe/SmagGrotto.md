@@ -31,3 +31,4 @@ tenemos un archivo para descargar y 3 usuarios: NETADMIN, jAKE, UZI
 
 ### Analizaremos el archivo .pcap con wireshark 
 ![[Pasted image 20240110183844.png]]
+###### podemos ver un intercambio de conecxiones entre dos ipsd
