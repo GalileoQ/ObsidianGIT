@@ -17,3 +17,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ### Ports: 22/ssh - 80/http
 
 ### Enumeracion del puerto 80
+![[Pasted image 20240110174447.png]]
+parece que no tenemos mucha informacion debido a que la pagina esta en mantenimiento. y mirando el codigo fuente de la pa
