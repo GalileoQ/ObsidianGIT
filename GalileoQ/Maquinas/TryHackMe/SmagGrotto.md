@@ -46,4 +46,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110185746.png]]
 
 ### obtenemos conexion y esto nos lleva a un panel que nos permite ejecutar comando. usaremos esto para intentar conseguir una reverse shell
-![[Pasted image 20240110190048.png]]
+###### ingresamos u
+![[Pasted image 20240110190330.png]]
