@@ -42,5 +42,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ![[Pasted image 20240110185504.png]]
 
 ### login.php
-###### este parece ser el login.php en el cual se estaba realizando la peticion que hemos conseguido anteriormente
+###### este parece ser el login.php en el cual se estaba realizando la peticion que hemos conseguido anteriormente. asi que vamos a probar las credenciales
 ![[Pasted image 20240110185746.png]]
