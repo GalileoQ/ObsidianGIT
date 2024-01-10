@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Dreaming.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "773f6596c789a948",
+  "active": "644910872dcd9679",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
@@ -196,7 +196,6 @@
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Fowsniff CTF.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Easy Peasy.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Lian_Yu.md",
-    "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",

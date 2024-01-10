@@ -29,3 +29,4 @@ tenemos tres mensajes en esta dirección que nos proporcionan información valio
 ![[Pasted image 20240110175916.png]]
 tenemos un archivo para descargar y 3 usuarios: NETADMIN, jAKE, UZI  
 
+### Analizaremos el archivo .pcap con wireshark 
