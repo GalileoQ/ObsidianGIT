@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a6ab2a99e6789cc0",
+        "id": "d95fda43e7b194cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0f75a90607b4f42a",
+            "id": "644910872dcd9679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f9f1711e1b4cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Keeper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e512d163b2c8d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Bizness.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,27 +138,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f75a90607b4f42a",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "imagenes/Pasted image 20240108225217.png",
+    "imagenes/Pasted image 20240108221731.png",
+    "imagenes/Pasted image 20240108221622.png",
+    "imagenes/Pasted image 20240108215937.png",
+    "imagenes/Pasted image 20240107003240.png",
+    "imagenes/Pasted image 20240106232230.png",
+    "imagenes/Pasted image 20240106231746.png",
+    "imagenes/Pasted image 20240106224146.png",
+    "imagenes/Pasted image 20240106222624.png",
+    "imagenes/Pasted image 20240106222122.png",
+    "imagenes/Pasted image 20240106141327.png",
+    "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/HackTheBox/Bizness.md",
-    "Pasted image 20240108225711.png",
-    "Pasted image 20240108225217.png",
-    "Pasted image 20240108221731.png",
-    "Pasted image 20240108221622.png",
-    "GalileoQ/Maquinas/TryHackMe/Mr. Robot.md",
     "GalileoQ/Maquinas/HackTheBox/Devvortex.md",
     "GalileoQ/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Maquinas/HackTheBox/Vaccine.md",
-    "Pasted image 20240108215937.png",
     "GalileoQ/Maquinas/TryHackMe/BrokingNiveNive.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
-    "Pasted image 20240107003240.png",
-    "Pasted image 20240106232230.png",
-    "Pasted image 20240106231746.png",
-    "Pasted image 20240106224146.png",
-    "Pasted image 20240106222624.png",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/ColddBox-Easy.md",
     "GalileoQ/Maquinas/TryHackMe/Git Happens.md",
