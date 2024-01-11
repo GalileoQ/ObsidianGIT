@@ -55,3 +55,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ###### tenemos una tarea /crontab que se ejecuta a cada minuto. esta tarea ejecuta un archivo que esta en la ruta /opt y lo guarda en el direcctorio de jake en la ruta .ssh/authorized_keys
 
 ### crearemos un par de claves ssh
+![[Pasted image 20240110202942.png]]
+### vamos a c
