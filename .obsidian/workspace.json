@@ -138,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb5297b6c2850635",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "Curso/Hacking Con S4vitar",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
@@ -175,7 +176,6 @@
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Wgel-CTF.md",
     "GalileoQ/Maquinas/HackTheBox/TryHackMe/Fowsniff CTF.md",
-    "GalileoQ/Maquinas/HackTheBox/TryHackMe/Easy Peasy.md",
     "GalileoQ/Comandos maquina",
     "entorno",
     "GITHUB",
