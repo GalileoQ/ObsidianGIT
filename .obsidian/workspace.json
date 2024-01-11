@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+                "file": "GalileoQ/Comandos/script para.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+                "file": "GalileoQ/Comandos/script para.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+                "file": "GalileoQ/Comandos/script para.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md"
+                "file": "GalileoQ/Comandos/script para.md"
               }
             }
           }
@@ -160,20 +160,20 @@
   },
   "active": "644910872dcd9679",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+    "GalileoQ/Comandos/script para.md",
     "Pasted image 20240110204249.png",
     "Pasted image 20240110204224.png",
     "Pasted image 20240110203913.png",
     "Pasted image 20240110203643.png",
     "Pasted image 20240110202942.png",
     "GalileoQ/Shells/OneLiners.md",
-    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
     "Pasted image 20240110192841.png",
     "Pasted image 20240110190620.png",
     "Pasted image 20240110190330.png",
     "GalileoQ/Maquinas/TryHackMe/Dreaming.md",
     "Pasted image 20240110190048.png",
     "Pasted image 20240110185746.png",
-    "Pasted image 20240110185504.png",
     "GalileoQ/Maquinas/TryHackMe/LAZY ADMIN.md",
     "GalileoQ/Maquinas/TryHackMe/ROOTME.md",
     "GalileoQ/Maquinas/TryHackMe/Mustacchio.md",
