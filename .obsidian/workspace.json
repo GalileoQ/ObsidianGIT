@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d95fda43e7b194cd",
+        "id": "b96f7804a133a8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "644910872dcd9679",
+            "id": "bb5297b6c2850635",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a437749ab8023c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,16 +138,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "644910872dcd9679",
+  "active": "bb5297b6c2850635",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Maquinas/TryHackMe/SmagGrotto.md",
     "Pasted image 20240110204249.png",
     "Pasted image 20240110204224.png",
     "Pasted image 20240110203913.png",
     "Pasted image 20240110203643.png",
     "Pasted image 20240110202942.png",
-    "GalileoQ/Shells/OneLiners.md",
     "Pasted image 20240110192841.png",
     "Pasted image 20240110190620.png",
     "Pasted image 20240110190330.png",
