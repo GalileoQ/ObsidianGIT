@@ -61,3 +61,5 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 ##### tenemos conexion
 
 ### Escalada de privilegios
+![[Pasted image 20240110203913.png]]
+###### el usuario jake tiene permisos sudo para ejecutar el binario a
