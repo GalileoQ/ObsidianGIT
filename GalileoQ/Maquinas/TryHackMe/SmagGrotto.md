@@ -56,5 +56,8 @@ Nmap done: 1 IP address (1 host up) scanned in 84.71 seconds
 
 ### crearemos un par de claves ssh
 ![[Pasted image 20240110202942.png]]
-### vamos a copiar la clave publica y editamos el archivo jake_id_rsa.pub.backup y pegamos nuestra clave publica. usaremos esto para entrar por el puerto ssh
+### vamos a pegar la clave publica en el archivo jake_id_rsa.pub.backup. usaremos esto para entrar por el puerto ssh
 ![[Pasted image 20240110203643.png]]
+##### tenemos conexion
+
+### Escalada de privilegios
