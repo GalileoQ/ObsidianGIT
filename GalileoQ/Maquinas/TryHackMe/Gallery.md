@@ -36,4 +36,4 @@ admin'OR 1=1-- -
 
 ### tenemos acceso a la pag web
 ![[Pasted image 20240112210533.png]]
-###### en el apartado de albums podemos ver una opcion para cargar archivos lo que podriamos utilizar para intentar cargar un archivo php que c
+###### en el apartado de albums podemos ver una opcion para cargar archivos lo que podriamos utilizar para intentar cargar un archivo php que contenga una reverse shell
