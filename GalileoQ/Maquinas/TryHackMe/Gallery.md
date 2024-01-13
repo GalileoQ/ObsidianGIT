@@ -90,6 +90,7 @@ el usuario mike tiene permisos root para el script rootkit.sh usaremos esto para
 usaremos la opcion numero 4 (read) esto nos permite editar el archivo 
 ![[Pasted image 20240112231008.png]]
 
+usaremos este comando con nano para lograr la escalada 
 ```python
 nano
 - Ctrl^R 
@@ -98,3 +99,4 @@ nano
 ```
 
 ![[Pasted image 20240112231326.png]]
+### WE ARE ROOT
