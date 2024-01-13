@@ -71,3 +71,5 @@ sqlmap -r phpid.txt -D gallery_db -T users --columns users
 ```
 
 ![[Pasted image 20240112223801.png]]
+
+ahora vamos a enumerar las columnas de 
