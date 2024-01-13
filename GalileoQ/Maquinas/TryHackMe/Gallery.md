@@ -41,3 +41,5 @@ admin'OR 1=1-- -
 la rever shell ha funcionado tenemos conexion a la maquina
 
 ### movimiento lateral. 
+![[Pasted image 20240112212241.png]]
+###### navegando por la maquina hemos conseguido un archivo backups del usuario mike en el cual tenemos permiso
