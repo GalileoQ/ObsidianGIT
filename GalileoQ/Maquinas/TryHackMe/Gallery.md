@@ -82,4 +82,4 @@ tenemos credenciales del usuario admin
 
 ### Escalada de privilegios
 ![[Pasted image 20240112230108.png]]
-el usuario mike tiene permisos r
+el usuario mike tiene permisos root para el script rootkit.sh usaremos esto para escalar privilegios
