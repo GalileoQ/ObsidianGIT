@@ -40,4 +40,4 @@ admin'OR 1=1-- -
 ![[Pasted image 20240112212006.png]]
 la rever shell ha funcionado tenemos conexion a la maquina
 
-### movimiento lateral
+### movimiento lateral. 
