@@ -83,3 +83,6 @@ tenemos credenciales del usuario admin
 ### Escalada de privilegios
 ![[Pasted image 20240112230108.png]]
 el usuario mike tiene permisos root para el script rootkit.sh usaremos esto para escalar privilegios
+
+### script: el archivo tiene 4 variables. pero lo mas importante es que nos perm
+![[Pasted image 20240112230528.png]]
