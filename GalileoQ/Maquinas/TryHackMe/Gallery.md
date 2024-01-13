@@ -96,3 +96,5 @@ nano
 - reset; sh 1>&0 2>&0
 - Ctrl^X
 ```
+
+![[Pasted image 20240112231326.png]]
