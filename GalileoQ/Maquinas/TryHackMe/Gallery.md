@@ -80,3 +80,6 @@ sqlmap -r phpid.txt -D gallery_db -T users --columns users -C username,password 
 ![[Pasted image 20240112224808.png]]
 tenemos credenciales del usuario admin
 
+### Escalada de privilegios
+![[Pasted image 20240112230108.png]]
+el usuario mike tiene permisos r
