@@ -47,4 +47,9 @@ la rever shell ha funcionado tenemos conexion a la maquina
 ### analizando la maquina podemos ver que tenemos una base de datos
 ![[Pasted image 20240112220052.png]]
 ###### usaremos sqlmap para enumerar esta base de datos
+
+```python
+sqlmap -r phpid.txt --dbs
+```
+
 ![[Pasted image 20240112222715.png]]
