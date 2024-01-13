@@ -86,3 +86,6 @@ el usuario mike tiene permisos root para el script rootkit.sh usaremos esto para
 
 ### script: el archivo tiene 4 variables. pero lo mas importante es que nos permite usar nano como root. usaremos esto para escalar privilegios
 ![[Pasted image 20240112230528.png]]
+
+usaremos la opcion numero 4 (read) 
+![[Pasted image 20240112231008.png]]
