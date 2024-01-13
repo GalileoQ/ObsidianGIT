@@ -20,3 +20,6 @@ Nmap done: 1 IP address (1 host up) scanned in 95.42 seconds
 ### Ports: 80/htto - 8080/http
 
 ### Enumeracion del puerto 80
+![[Pasted image 20240112205004.png]]
+
+### Fuzzing con gobuster
