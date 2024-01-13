@@ -26,3 +26,6 @@ Nmap done: 1 IP address (1 host up) scanned in 95.42 seconds
 ![[Pasted image 20240112205902.png]]
 vamos a analizar el subdominio /gallery
 
+### login
+![[Pasted image 20240112210033.png]]
+###### vamos a intentar varias credenciales por defecto y tambien inyecciones sql
