@@ -29,3 +29,6 @@ vamos a analizar el subdominio /gallery
 ### login
 ![[Pasted image 20240112210033.png]]
 ###### vamos a intentar varias credenciales por defecto y tambien inyecciones sql
+```python
+admin'OR 1=1-- -
+```
