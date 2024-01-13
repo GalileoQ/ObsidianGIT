@@ -52,4 +52,6 @@ la rever shell ha funcionado tenemos conexion a la maquina
 sqlmap -r phpid.txt --dbs
 ```
 necesitamos interceptar alguna peticion con el burpsuite para poder conseguir la phpsessionid
+
 ![[Pasted image 20240112222715.png]]
+ya tenemos el nombre de la base de datos. ahora vamos a enumerarla
