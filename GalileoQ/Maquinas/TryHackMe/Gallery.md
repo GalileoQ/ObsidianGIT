@@ -44,3 +44,6 @@ la rever shell ha funcionado tenemos conexion a la maquina
 ![[Pasted image 20240112212241.png]]
 ###### navegando por la maquina hemos conseguido un archivo backups del usuario mike en el cual tenemos permisos de lectura sobre el archivo .bash_history y dentro podemos ver que el usuario mike en algun momento proporciono su clave de super usuario asi que vamos a capturarla para convertirnos en el usuario mike
 
+### analizando la maquina podemos ver que tenemos una base de datos
+![[Pasted image 20240112220052.png]]
+###### usaremos sqlmap para enumerar esta base de datos
