@@ -24,4 +24,5 @@ Nmap done: 1 IP address (1 host up) scanned in 95.42 seconds
 
 ### Fuzzing con gobuster
 ![[Pasted image 20240112205902.png]]
-vamos a analizar el 
+vamos a analizar el subdominio /gallery
+
