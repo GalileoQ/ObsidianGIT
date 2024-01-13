@@ -56,3 +56,6 @@ necesitamos interceptar alguna peticion con el burpsuite para poder conseguir la
 ![[Pasted image 20240112222715.png]]
 ya tenemos el nombre de la base de datos. ahora vamos a enumerarla
 
+``
+
+![[Pasted image 20240112223302.png]]
