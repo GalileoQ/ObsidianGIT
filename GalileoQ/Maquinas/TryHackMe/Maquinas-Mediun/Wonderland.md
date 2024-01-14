@@ -16,5 +16,7 @@ Nmap done: 1 IP address (1 host up) scanned in 84.27 seconds
 ### Ports: 22/ssh - 80/http
 
 ### Enumeración del puerto 80
-no tenemos mucha informacion asi que vamos a realizar 
+no tenemos mucha informacion en la pagina asi que vamos a realizar fuzzing
 ![[Pasted image 20240113203037.png]]
+
+### Fuzzing con gobuster
