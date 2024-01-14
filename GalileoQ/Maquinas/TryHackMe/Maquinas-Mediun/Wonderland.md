@@ -24,3 +24,8 @@ tenemos algunos directorios que vamos a investigar
 ![[Pasted image 20240113203227.png]]
 
 ### /img/
+![[Pasted image 20240113203353.png]]
+
+### /r/
+![[Pasted image 20240113203444.png]]
+
