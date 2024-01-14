@@ -29,3 +29,7 @@ tenemos algunos directorios que vamos a investigar
 ### /r/
 ![[Pasted image 20240113203444.png]]
 
+### /poem/
+![[Pasted image 20240113203709.png]]
+
+### tenemos 
