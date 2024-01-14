@@ -20,3 +20,6 @@ no tenemos mucha informacion en la pagina asi que vamos a realizar fuzzing
 ![[Pasted image 20240113203037.png]]
 
 ### Fuzzing con gobuster
+tenemos algunos directorios que vamos a investigar 
+![[Pasted image 20240113203227.png]]
+
