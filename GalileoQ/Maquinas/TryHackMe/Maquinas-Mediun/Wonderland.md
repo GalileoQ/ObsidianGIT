@@ -75,3 +75,7 @@ logramos cambiar de usuario a rabbit
 ### vamos al directorio del usuario rabbit
 ![[Pasted image 20240113213525.png]]
 tenemos otro 
+
+### PATH hijacking 
+![[Pasted image 20240113214522.png]]
+el escript utiliza la variable date de linux asi que podemos util
