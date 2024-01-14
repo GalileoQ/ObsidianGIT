@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "Curso/Metaesploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e141ac87194f5bd4",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113225241.png",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113225005.png",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
@@ -165,7 +165,6 @@
     "Pasted image 20240113213312.png",
     "Pasted image 20240113213035.png",
     "Pasted image 20240113212411.png",
-    "Pasted image 20240113210239.png",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
