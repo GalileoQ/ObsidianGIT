@@ -81,6 +81,7 @@ tenemos otro
 el escript utiliza la variable date de linux asi que podemos utilizar esto para crear un archivo llamado date y poder agregarlo en el path
 
 ### creamos el archivo date 
-
+![[Pasted image 20240113215245.png]]
 ### agregamos date al PATH
 ![[Pasted image 20240113215115.png]]
+
