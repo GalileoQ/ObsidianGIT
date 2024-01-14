@@ -92,3 +92,4 @@ le damos permisos de lectura al archivo
 hemos cambiado de usuario exitosamente
 
 ### Escalada de privilegios
+enumeracion
