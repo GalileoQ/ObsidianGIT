@@ -57,4 +57,6 @@ tenemos conexion como el usuario alice
 ### Escalada de privilegios 
 ![[Pasted image 20240113210239.png]]
 el usuario rabbit tiene permiso para ejecutar el siguiente binario
-
+### el archivo importa la libreria ramdon de python
+![[Pasted image 20240113212411.png]]
+usaremos esto 
