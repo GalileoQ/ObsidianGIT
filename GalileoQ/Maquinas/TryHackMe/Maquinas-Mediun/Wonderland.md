@@ -49,4 +49,5 @@ tenemos el mismo mensaje asi que seguiremos haciendo fuzzing
 una de las imagenes contiene un archivo.txt pero no es de mucha informacion
 ![[Pasted image 20240113205534.png]]
 
-### ssh
+### Port 22/ssh
+vamos a intentar ingresar al puerto ssh con la inofrmacion encontrada en el codigo fuente de la pagina web
