@@ -62,3 +62,5 @@ el usuario rabbit tiene permiso para ejecutar el siguiente binario
 usaremos esto para realizar una especia de hijacking. basicamente tenemos la ruta donde se esta ejecutando el script asi que si creamos un archivo llamado random el script llamara primero a este archivo antes que a la libreria 
 ### primero crearemos un archivo llamado random.py
 ![[Pasted image 20240113213035.png]]
+
+### ejecutaremos 
