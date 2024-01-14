@@ -33,3 +33,6 @@ tenemos algunos directorios que vamos a investigar
 ![[Pasted image 20240113203709.png]]
 
 ### parece que el mas interesante es el directorio /r/ así que seguiremos investigando por aquí. haremos un nuevo ataque de fuzzing apuntando a este directorio
+![[Pasted image 20240113203946.png]]
+
+### tenemos un nue
