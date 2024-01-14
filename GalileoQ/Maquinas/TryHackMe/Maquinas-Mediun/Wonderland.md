@@ -63,4 +63,11 @@ usaremos esto para realizar una especia de hijacking. basicamente tenemos la rut
 ### primero crearemos un archivo llamado random.py
 ![[Pasted image 20240113213035.png]]
 
-### ejecutaremos 
+### ejecutaremos el script para cambiar de usuario
+
+```python
+sudo -u rabbit /usr/bin/python3.6 /home/alice/walrus_and_the_carpenter.py
+```
+
+![[Pasted image 20240113213312.png]]
+logramos cambiar de usuario a rabbit
