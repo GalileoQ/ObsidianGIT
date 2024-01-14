@@ -91,3 +91,4 @@ le damos permisos de lectura al archivo
 ![[Pasted image 20240113220101.png]]
 hemos cambiado de usuario exitosamente
 
+### Escalada de privilegios
