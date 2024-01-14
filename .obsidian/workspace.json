@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pa",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
