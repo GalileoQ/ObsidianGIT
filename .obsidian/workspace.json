@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2e1d4d1f401f2c7",
+  "active": "73018e882f3dea8d",
   "lastOpenFiles": [
+    "Pasted image 20240113215115.png",
     "Pasted image 20240113214522.png",
     "Pasted image 20240113213525.png",
     "Pasted image 20240113213312.png",
@@ -173,7 +173,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113204827.png",
     "Pasted image 20240113204522.png",
-    "Pasted image 20240113204104.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
