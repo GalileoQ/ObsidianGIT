@@ -59,4 +59,4 @@ tenemos conexion como el usuario alice
 el usuario rabbit tiene permiso para ejecutar el siguiente binario
 ### el archivo importa la libreria ramdon de python
 ![[Pasted image 20240113212411.png]]
-usaremos esto 
+usaremos esto para realizar una especia de hijacking. basicamente tenemos la ruta donde se esta
