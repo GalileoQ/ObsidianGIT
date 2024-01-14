@@ -35,4 +35,4 @@ tenemos algunos directorios que vamos a investigar
 ### parece que el mas interesante es el directorio /r/ así que seguiremos investigando por aquí. haremos un nuevo ataque de fuzzing apuntando a este directorio
 ![[Pasted image 20240113203946.png]]
 
-### tenemos un nue
+### tenemos un nuevo directorio que agregaremos a la ruta y nos quedaria de la siguiente manera http://10.10.63.231/r/a/
