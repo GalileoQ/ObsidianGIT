@@ -71,3 +71,7 @@ sudo -u rabbit /usr/bin/python3.6 /home/alice/walrus_and_the_carpenter.py
 
 ![[Pasted image 20240113213312.png]]
 logramos cambiar de usuario a rabbit
+
+### vamos al directorio del usuario rabbit
+![[Pasted image 20240113213525.png]]
+tenemos otro 
