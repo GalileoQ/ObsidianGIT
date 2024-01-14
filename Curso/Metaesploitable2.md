@@ -147,3 +147,7 @@ una vez tengamos todo configurado lanzamos el exploit y automaticamente tenemos 
 payload/linux/x86/meterpreter/reverse_tcp
 
 ```
+run
+```python
+
+```
