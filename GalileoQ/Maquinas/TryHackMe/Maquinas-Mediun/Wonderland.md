@@ -57,3 +57,4 @@ tenemos conexion como el usuario alice
 ### Escalada de privilegios 
 ![[Pasted image 20240113210239.png]]
 el usuario rabbit tiene permiso para ejecutar el siguiente binario
+
