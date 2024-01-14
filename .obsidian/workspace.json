@@ -11,8 +11,12 @@
             "id": "73018e882f3dea8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "73018e882f3dea8d",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
@@ -185,7 +194,6 @@
     "G41i130Q.github.io/_posts/HackTheBox",
     "G41i130Q.github.io/_tabs",
     "G41i130Q.github.io/_posts",
-    "G41i130Q.github.io/_plugins/posts-lastmod-hook.rb",
     "Sin título.canvas"
   ]
 }
