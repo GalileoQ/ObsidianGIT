@@ -87,3 +87,5 @@ le damos permisos de lectura al archivo
 ![[Pasted image 20240113215115.png]]
 
 ### ejecutamos el script 
+
+![[Pasted image 20240113220101.png]]
