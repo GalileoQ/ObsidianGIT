@@ -51,3 +51,6 @@ una de las imagenes contiene un archivo.txt pero no es de mucha informacion
 
 ### Port 22/ssh
 vamos a intentar ingresar al puerto ssh con la inofrmacion encontrada en el codigo fuente de la pagina web
+![[Pasted image 20240113205819.png]]
+tenemos conexion como el usuario alice
+
