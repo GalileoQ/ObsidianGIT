@@ -45,3 +45,8 @@ tenemos el mismo mensaje asi que seguiremos haciendo fuzzing
 ### miramos el código fuente y conseguimos información que parece ser credenciales
 ![[Pasted image 20240113204827.png]]
 
+### extraemos informacion de las imagenes 
+una de las imagenes contiene un archivo.txt pero no es de mucha informacion
+![[Pasted image 20240113205534.png]]
+
+### ssh
