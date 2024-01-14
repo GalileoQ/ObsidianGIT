@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "32cf3be44aa67123",
+  "active": "73018e882f3dea8d",
   "lastOpenFiles": [
+    "Pasted image 20240113203037.png",
+    "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
@@ -198,8 +199,6 @@
     "imagenes/Pasted image 20240112220052.png",
     "imagenes/Pasted image 20240112212241.png",
     "imagenes/Pasted image 20240112212006.png",
-    "GalileoQ/Maquinas/TryHackMe/Gallery.md",
-    "GalileoQ/Shells/OneLiners.md",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
     "entorno",
