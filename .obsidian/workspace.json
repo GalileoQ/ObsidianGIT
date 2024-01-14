@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b2bf2ef58e872ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md"
+                "file": "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md"
               }
             }
           }
@@ -159,8 +171,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c020029214a6350c",
+  "active": "2b2bf2ef58e872ab",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113220101.png",
     "Pasted image 20240113215245.png",
@@ -195,9 +211,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
