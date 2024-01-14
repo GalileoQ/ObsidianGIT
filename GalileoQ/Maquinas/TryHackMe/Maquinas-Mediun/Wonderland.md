@@ -89,3 +89,5 @@ le damos permisos de lectura al archivo
 ### ejecutamos el script 
 
 ![[Pasted image 20240113220101.png]]
+hemos cambiado de usuario exitosamente
+
