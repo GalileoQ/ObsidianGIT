@@ -23,3 +23,4 @@ no tenemos mucha informacion en la pagina asi que vamos a realizar fuzzing
 tenemos algunos directorios que vamos a investigar 
 ![[Pasted image 20240113203227.png]]
 
+### /img/
