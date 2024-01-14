@@ -94,3 +94,8 @@ hemos cambiado de usuario exitosamente
 ### Escalada de privilegios
 enumeracion de capabilitis
 ![[Pasted image 20240113225005.png]]
+tenemos el binario perl el cual usaremos para escalar privilegios
+
+```python
+
+```
