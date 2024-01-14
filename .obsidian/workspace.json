@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md"
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "73018e882f3dea8d",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Comandos/Enumerar capabilitis.md",
+    "Pasted image 20240113225005.png",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113220101.png",
     "Pasted image 20240113215245.png",
     "Pasted image 20240113215115.png",
@@ -163,7 +165,6 @@
     "Pasted image 20240113213035.png",
     "Pasted image 20240113212411.png",
     "Pasted image 20240113210239.png",
-    "Pasted image 20240113205819.png",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
@@ -185,7 +186,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Git Happens.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
