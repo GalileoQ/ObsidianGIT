@@ -38,3 +38,6 @@ tenemos algunos directorios que vamos a investigar
 ### tenemos un nuevo directorio que agregaremos a la ruta y nos quedaria de la siguiente manera http://10.10.63.231/r/a/
 ![[Pasted image 20240113204104.png]]
 tenemos el mismo mensaje asi que seguiremos haciendo fuzzing
+
+### la ruta rotal nos lleva al directorio ht
+![[Pasted image 20240113204522.png]]
