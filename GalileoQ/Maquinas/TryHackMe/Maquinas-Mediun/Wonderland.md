@@ -42,3 +42,6 @@ tenemos el mismo mensaje asi que seguiremos haciendo fuzzing
 ### la ruta rotal nos lleva al directorio http://10.10.63.231/r/a/b/b/i/t/
 ![[Pasted image 20240113204522.png]]
 
+### miramos el código fuente y conseguimos información que parece ser credenciales
+![[Pasted image 20240113204827.png]]
+
