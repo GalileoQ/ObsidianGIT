@@ -47,4 +47,4 @@ estamos en una pagina que nos permite crear Basket
 
 ### despues de crear un basket podemos ver una parte que nos permite configurar 
 ![[Pasted image 20240115181808.png]]
-en esta parte nos indica un Forward URL lo que nos hace p
+en esta parte nos indica un Forward URL lo que nos hace pensar que podemos hacer un server side request 
