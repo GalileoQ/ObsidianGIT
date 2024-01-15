@@ -58,3 +58,4 @@ podemos ver que ahora nos redirige a una pagina diferente. y podemos obtener el 
 ![[Pasted image 20240115182940.png]]
 ### ejecución del exploit 
 ![[Pasted image 20240115183551.png]]
+ejecu
