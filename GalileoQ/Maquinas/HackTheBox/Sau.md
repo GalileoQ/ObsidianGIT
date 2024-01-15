@@ -45,4 +45,6 @@ PORT      STATE    SERVICE REASON         VERSION
 estamos en una pagina que nos permite crear Basket
 ![[Pasted image 20240115180236.png]]
 
-### despues de crear un basket 
+### despues de crear un basket podemos ver una parte que nos permite configurar 
+![[Pasted image 20240115181808.png]]
+en esta parte nos indica un Forward URL lo que nos hace p
