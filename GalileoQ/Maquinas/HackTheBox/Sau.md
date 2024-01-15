@@ -62,3 +62,5 @@ ejecutamos el exploit con los parametros que nos solicitan y estaremos a la escu
 
 ### Escalada de privilegios 
 ![[Pasted image 20240115184603.png]]
+tenemos permisos root para ejecutar el Binario /usr/bin/systemctl status trail.service
+
