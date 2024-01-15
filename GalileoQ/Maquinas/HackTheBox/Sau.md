@@ -56,6 +56,7 @@ podemos ver que ahora nos redirige a una pagina diferente. y podemos obtener el 
 
 ### Exploit para Remote Code Execution (RCE)
 ![[Pasted image 20240115182940.png]]
-### ejecución del exploit 
+### ejecución del exploit
+ejecutamos el exploit con los parametros que nos solicitan y estaremos a la escucha por el puerto especificado
 ![[Pasted image 20240115183551.png]]
-ejecu
+
