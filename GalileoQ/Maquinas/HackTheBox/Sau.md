@@ -60,3 +60,5 @@ podemos ver que ahora nos redirige a una pagina diferente. y podemos obtener el 
 ejecutamos el exploit con los parametros que nos solicitan y estaremos a la escucha por el puerto especificado
 ![[Pasted image 20240115183551.png]]
 
+### Escalada de privilegios 
+![[Pasted image 20240115184603.png]]
