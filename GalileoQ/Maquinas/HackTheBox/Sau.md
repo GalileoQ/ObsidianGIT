@@ -48,4 +48,4 @@ estamos en una pagina que nos permite crear Basket
 ### despues de crear un basket podemos ver una parte que nos permite configurar 
 ![[Pasted image 20240115181808.png]]
 en esta parte nos indica un Forward URL
-### server side request forgery: esta tecnica nos permite 
+### server side request forgery: esta tecnica nos permite cambiar puertos
