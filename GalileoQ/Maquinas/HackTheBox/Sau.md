@@ -48,4 +48,4 @@ estamos en una pagina que nos permite crear Basket
 ### despues de crear un basket podemos ver una parte que nos permite configurar 
 ![[Pasted image 20240115181808.png]]
 en esta parte nos indica un Forward URL
-### server side request forgery: esta tecnica nos permite cambiar puertos
+### server side request forgery: esta tecnica nos permite cambiar puertos. basicamente capturamos el trafico del puerto 80 y lo enviamos al puerto 55555 para poder ver la pagina que esta corriendo en ese puerto ya que esta filtrado
