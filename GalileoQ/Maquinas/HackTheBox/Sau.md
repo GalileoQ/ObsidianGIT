@@ -54,3 +54,5 @@ volvemos a enumerar la pagina nuevamente
 ![[Pasted image 20240115182727.png]]
 podemos ver que ahora nos redirige a una pagina diferente. y podemos obtener el cms y la version lo que nos sera util para buscar un exploit en internet
 
+### explo
+![[Pasted image 20240115182940.png]]
