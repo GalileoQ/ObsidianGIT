@@ -44,3 +44,5 @@ PORT      STATE    SERVICE REASON         VERSION
 ### Enumeracion del puerto 55555
 estamos en una pagina que nos permite crear Basket
 ![[Pasted image 20240115180236.png]]
+
+### despues de crear un basket 
