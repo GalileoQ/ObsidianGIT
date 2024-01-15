@@ -42,5 +42,5 @@ PORT      STATE    SERVICE REASON         VERSION
 ### Ports: 22/ssh - 80/http - 8338/tcp - 55555/tcp
 
 ### Enumeracion del puerto 55555
-estamos en u
+estamos en una pagina que nos permite crear Basket
 ![[Pasted image 20240115180236.png]]
