@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2b7c6955a4e37a17",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
@@ -158,7 +159,6 @@
     "Pasted image 20240115182727.png",
     "Pasted image 20240115181808.png",
     "Pasted image 20240115180236.png",
-    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "Pasted image 20240113225241.png",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
