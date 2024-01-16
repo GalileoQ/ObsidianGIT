@@ -65,3 +65,5 @@ ejecutamos el exploit con los parametros que nos solicitan y estaremos a la escu
 tenemos permisos root para ejecutar el Binario /usr/bin/systemctl status trail.service
 una ves ejecutamos el comando solo tenemos que ejecutar !/bin/bash y esto nos hace root
 ![[Pasted image 20240115185739.png]]
+
+### WE ARE ROOT
