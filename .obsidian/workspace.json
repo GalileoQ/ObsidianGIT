@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a02ce01c21776ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Shells/OneLiners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Shells/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Metaesploitable2.md"
+                "file": "GalileoQ/Shells/OneLiners.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "1a02ce01c21776ee",
   "lastOpenFiles": [
-    "GalileoQ/Shells/OneLiners.md",
     "Curso/Metaesploitable2.md",
+    "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "Pasted image 20240115185739.png",
