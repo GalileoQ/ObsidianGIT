@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Shells/OneLiners.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1a02ce01c21776ee",
+  "active": "2b7c6955a4e37a17",
   "lastOpenFiles": [
-    "Curso/Metaesploitable2.md",
     "GalileoQ/Shells/OneLiners.md",
+    "Curso/Metaesploitable2.md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "Pasted image 20240115185739.png",
