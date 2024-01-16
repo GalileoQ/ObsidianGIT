@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c93bca230477dfed",
+        "id": "e0ed2d45a88ff609",
         "type": "tabs",
         "children": [
           {
-            "id": "5d14e44c41d26d90",
+            "id": "2b7c6955a4e37a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Maquinas/HackTheBox/Broker.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d14e44c41d26d90",
+  "active": "2b7c6955a4e37a17",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "Pasted image 20240115185739.png",
     "Pasted image 20240115184603.png",
@@ -185,7 +178,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Lian_Yu.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
