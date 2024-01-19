@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ed2d45a88ff609",
+        "id": "d8c0dae026473b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b7c6955a4e37a17",
+            "id": "d36455df7f9d2860",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso/Metaesploitable2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a02ce01c21776ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Shells/OneLiners.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso/Metaesploitable2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,9 +138,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2b7c6955a4e37a17",
+  "active": "d36455df7f9d2860",
   "lastOpenFiles": [
     "GalileoQ/Shells/OneLiners.md",
+    "GITHUB/cabezera nueva.md",
+    "GITHUB/cabezera post.md",
+    "GITHUB/1.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
@@ -195,9 +178,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Overpass.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Lian_Yu.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
