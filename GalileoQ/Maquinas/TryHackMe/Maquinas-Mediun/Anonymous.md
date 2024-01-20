@@ -85,5 +85,5 @@ el archivo removed.files.log solo es una captura de la ejecusion del script sin 
 ![[Pasted image 20240120175636.png]]
 
 ### Reverse shell
-lo primero que vamos hacer sera editar el script.sh para agregar una reverse shell aregando el siguiente comando
+lo primero que vamos hacer sera editar el script.sh para agregar una reverse shell aregando el siguiente comando ``
 ![[Pasted image 20240120181957.png]]
