@@ -71,3 +71,6 @@ Host script results:
 ```
 este puerto tiene una configuracion de credenciales por defecto con el usuario anonymous y tambien podemos ver que tenemos permisos writable (escritura)
 
+### ftp 
+nos conectamos al puerto ftp con las credenciales de anonymous(default)
+![[Pasted image 20240120174450.png]]
