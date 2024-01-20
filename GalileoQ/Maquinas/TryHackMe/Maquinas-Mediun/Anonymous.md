@@ -77,3 +77,6 @@ nos conectamos al puerto ftp con las credenciales de anonymous(default) en este 
 
 el archivo nmap.txt coresponde a nuestro archivo de escaneo y tenemos los 3 archivos que hemos conseguido en la maquina
 ![[Pasted image 20240120174740.png]]
+
+el archivo to_do.txt
+![[Pasted image 20240120175113.png]]
