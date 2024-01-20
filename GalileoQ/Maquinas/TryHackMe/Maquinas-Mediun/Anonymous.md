@@ -93,5 +93,7 @@ hemos ganado intrusión como el usuario namelessone
 ![[Pasted image 20240120183436.png]]
 
 ### Escalada de privilegios
-buscaremos permisos SUID utilizando el comando `find / -perm -4000 2>/dev/null` tenemos el binario `/usr/bin/env`
+buscaremos permisos SUID utilizando el comando `find / -perm -4000 2>/dev/null` tenemos el binario `/usr/bin/env` lo cual nos permite escalar privilegios 
 ![[Pasted image 20240120185947.png]]
+
+### WE ARE ROOT
