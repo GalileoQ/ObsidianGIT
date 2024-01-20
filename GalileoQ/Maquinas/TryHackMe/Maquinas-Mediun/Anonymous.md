@@ -84,3 +84,6 @@ el archivo to_do.txt es un mensaje que nos dicen que han desabilitado el login d
 el archivo removed.files.log solo es una captura de la ejecusion del script sin embargo dice que no se encontro nungun archivo para eliminar
 ![[Pasted image 20240120175636.png]]
 
+### Reverse shell
+lo primero que vamos hacer sera editar el archivo 
+![[Pasted image 20240120181957.png]]
