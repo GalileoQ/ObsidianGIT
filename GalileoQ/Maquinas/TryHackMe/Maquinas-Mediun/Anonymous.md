@@ -97,3 +97,4 @@ buscaremos permisos SUID utilizando el comando `find / -perm -4000 2>/dev/null` 
 ![[Pasted image 20240120185947.png]]
 
 ### WE ARE ROOT
+![[Pasted image 20240120190528.png]]
