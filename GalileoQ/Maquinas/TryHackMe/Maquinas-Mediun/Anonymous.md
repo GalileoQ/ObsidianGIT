@@ -48,4 +48,5 @@ Host script results:
 |   challenge_response: supported
 |_  message_signing: disabled (dangerous, but default)
 ```
-### Ports: 21/ftp - 22/ssh - 139/smb - 
+### Ports: 21/ftp - 22/ssh - 139/smb - 445/smb 
+
