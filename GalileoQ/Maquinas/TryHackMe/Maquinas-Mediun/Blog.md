@@ -44,5 +44,5 @@ Nmap done: 1 IP address (1 host up) scanned in 56.03 seconds
 
 ### Ports: 22/ssh - 80/http - 139/ smb - 445/ smb
 
-### Enumeracion del puerto 80/http
-###### CMS: WordPress 5.0  ###### Users: Billy Joel
+### Enumeración del puerto 80/http
+###### CMS: WordPress 5.0 ; Users: Billy Joel
