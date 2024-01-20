@@ -72,5 +72,5 @@ Host script results:
 este puerto tiene una configuracion de credenciales por defecto con el usuario anonymous y tambien podemos ver que tenemos permisos writable (escritura)
 
 ### ftp 
-nos conectamos al puerto ftp con las credenciales de anonymous(default) en este caso tenemos una carpeta llamada scripts la cual contiene 3 archivos, usando mget * podemos descargar todos los archivos 
+nos conectamos al puerto ftp con las credenciales de anonymous(default) en este caso tenemos una carpeta llamada scripts la cual contiene 3 archivos, usando mget * podemos descargar todos los archivos para poder verlos mejor en local
 ![[Pasted image 20240120174450.png]]
