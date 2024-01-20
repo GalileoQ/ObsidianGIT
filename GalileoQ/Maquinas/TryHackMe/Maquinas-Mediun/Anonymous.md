@@ -92,3 +92,6 @@ lo primero que vamos hacer sera editar el script.sh para agregar una reverse she
 hemos ganado intrusión como el usuario namelessone
 ![[Pasted image 20240120183436.png]]
 
+### Escalada de privilegios
+b
+![[Pasted image 20240120185947.png]]

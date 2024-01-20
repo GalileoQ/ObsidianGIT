@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md"
               }
             }
           }
@@ -171,8 +170,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "22bd75b12070f683",
+  "active": "12bbf39838738905",
   "lastOpenFiles": [
+    "Pasted image 20240120185947.png",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
@@ -207,8 +208,6 @@
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
