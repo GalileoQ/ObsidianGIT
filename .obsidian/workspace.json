@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -173,6 +173,14 @@
   },
   "active": "22bd75b12070f683",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
+    "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
+    "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "Pasted image 20240120183436.png",
@@ -196,7 +204,6 @@
     "Pasted image 20240115184603.png",
     "Pasted image 20240115183551.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
@@ -204,12 +211,6 @@
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
