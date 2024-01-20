@@ -89,4 +89,4 @@ lo primero que vamos hacer sera editar el script.sh para agregar una reverse she
 ![[Pasted image 20240120181957.png]]
 
 ### intrusión
-hemos ganado intrusión como el usuario namelessone 
+hemos ganado intrusión como el usuario namelessone
