@@ -80,3 +80,5 @@ el archivo nmap.txt coresponde a nuestro archivo de escaneo y tenemos los 3 arch
 
 el archivo to_do.txt es un mensaje que nos dicen que han desabilitado el login de anonymous y que esto no es una practica segura. el archivo clean.sh es un script en bash que realiza una limpieza en el directorio /tmp. debido a que tenemos permisos de escritura podriamos editar este script para optener una reverse shell
 ![[Pasted image 20240120175113.png]]
+
+el archivo removed.files.log solo es 
