@@ -78,5 +78,5 @@ nos conectamos al puerto ftp con las credenciales de anonymous(default) en este 
 el archivo nmap.txt coresponde a nuestro archivo de escaneo y tenemos los 3 archivos que hemos conseguido en la maquina
 ![[Pasted image 20240120174740.png]]
 
-el archivo to_do.txt
+el archivo to_do.txt es un mensaje que nos dicen que han desabilitado el login de anonymous y que esto no es una practica segura y
 ![[Pasted image 20240120175113.png]]
