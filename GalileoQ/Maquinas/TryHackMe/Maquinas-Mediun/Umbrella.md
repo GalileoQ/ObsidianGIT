@@ -60,4 +60,5 @@ PORT     STATE SERVICE REASON         VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ```
-### Ports: 22/ssh - 5000/http - 8080/http
+### Ports: 22/ssh - 3306/msql -5000/http - 8080/http
+
