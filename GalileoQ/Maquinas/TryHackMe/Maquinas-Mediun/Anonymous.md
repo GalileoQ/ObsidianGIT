@@ -69,4 +69,4 @@ Host script results:
 | ftp-anon: Anonymous FTP login allowed (FTP code 230)
 |_drwxrwxrwx    2 111      113          4096 Jun 04  2020 scripts [NSE: writeable]
 ```
-este puerto 
+este puerto tiene una configuracion de credenciales por defecto con el usuario anonymous y tambien podemos ver que tenemos permisos writable (escritur)
