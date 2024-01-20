@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "867643928065a246",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "Pasted image 20240120190528.png",
     "Pasted image 20240120185947.png",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
