@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "867643928065a246",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Shells/OneLiners.md",
@@ -170,7 +171,6 @@
     "Pasted image 20240120175113.png",
     "Pasted image 20240120174740.png",
     "Pasted image 20240120174450.png",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GITHUB/cabezera nueva.md",
     "Pasted image 20240118223131.png",
