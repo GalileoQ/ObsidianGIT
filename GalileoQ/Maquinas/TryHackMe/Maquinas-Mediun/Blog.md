@@ -112,8 +112,9 @@ tenemos que setear: password, RHOSTS, USERNAME, LHOST
 show options
 ![[Pasted image 20240120232025.png]]
 
-
-
+run
+![[Pasted image 20240120232752.png]]
+te
 
 
 
