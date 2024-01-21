@@ -121,10 +121,7 @@ el binario `/usr/bin/pkexec` es vulnerable asi que buscaremos un exploit que nos
 ![[Pasted image 20240120232953.png]]
 
 exploit en github para escalar privilegios 
-
-
-
-
+![[Pasted image 20240120233550.png]]
 
 creamos un servidor en python para compartirnos el exploit
 ![[Pasted image 20240120233508.png]]
