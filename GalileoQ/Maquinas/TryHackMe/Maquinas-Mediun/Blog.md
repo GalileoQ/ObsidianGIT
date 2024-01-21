@@ -93,14 +93,10 @@ usuarios `bjoel, kwheel, karen wheeler, billy joel `
 
 Obtenemos credenciales validas
 ![[Pasted image 20240120220415.png]]
-
 ### wp-admin
 ![[Pasted image 20240120220602.png]]
-
 ###### comments
 ![[Pasted image 20240120220812.png]]
-
-
 ### msfconsole
 usamos el exploit/multi/http/wp_crop_rce
 ![[Pasted image 20240120231023.png]]
