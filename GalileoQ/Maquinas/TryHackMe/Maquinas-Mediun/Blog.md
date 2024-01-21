@@ -102,6 +102,8 @@ Obtenemos credenciales validas
 
 
 ### msfconsole
+usamos el exploit/multi/http/
+![[Pasted image 20240120231023.png]]
 
 
 
