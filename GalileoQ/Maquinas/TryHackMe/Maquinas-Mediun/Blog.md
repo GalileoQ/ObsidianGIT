@@ -73,3 +73,7 @@ en este caso tenemos un archivo compartido llamado `BillySMB`
 
 vamos a seguir la ruta del archivo
 ![[Pasted image 20240120212015.png]]
+
+### Enumeración con wpscan
+
+![[Pasted image 20240120213010.png]]
