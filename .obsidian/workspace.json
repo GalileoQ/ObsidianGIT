@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog - Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog - Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog - Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog - Medium.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "b0d3b669f5365ac2",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog - Medium.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120233743.png",
     "Pasted image 20240120233550.png",
     "Pasted image 20240120233508.png",
@@ -163,7 +164,6 @@
     "Pasted image 20240120225613.png",
     "Pasted image 20240120220812.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
