@@ -89,3 +89,4 @@ usuarios `bjoel, kwheel, karen wheeler, billy joel `
 ![[Pasted image 20240120213838.png]]
 
 ### Ataque de fuerza bruta con wpscan
+![[Pasted image 20240120220309.png]]
