@@ -68,6 +68,6 @@ con un ataque de fuerza bruta utilizando hydra obtenemos un paquete de posibles 
 después de probar las contraseñas no obtuvimos acceso a la pagina así que seguiremos enumerando 
 
 ### Enumeracion con smbmap
-
+en este caso tenemos 
 ![[Pasted image 20240120211221.png]]
 
