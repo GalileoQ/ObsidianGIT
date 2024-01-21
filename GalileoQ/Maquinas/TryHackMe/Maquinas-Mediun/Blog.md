@@ -79,8 +79,10 @@ vamos a seguir la ruta del archivo
 ![[Pasted image 20240120213010.png]]
 tenemos un recurso `robots.txt` que vamos a investigar 
 
+tenemos un `uploads`
 ![[Pasted image 20240120214104.png]]
-tenemos un ip
+
+usuarios 
 ![[Pasted image 20240120213229.png]]
 
 ### robots.txt
