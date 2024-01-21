@@ -50,5 +50,9 @@ Nmap done: 1 IP address (1 host up) scanned in 56.03 seconds
 
 
 
-
+### enum4linux
+enumracion de recursos compartidos 
 ![[Pasted image 20240120200005.png]]
+
+enumeracion
+![[Pasted image 20240120201748.png]]
