@@ -41,13 +41,11 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 56.03 seconds
 ```
-
 ### Ports: 22/ssh - 80/http - 139/ smb - 445/ smb
 
 ### Enumeración del puerto 80/http
 ###### CMS: WordPress 5.0 ; Users: Billy Joel
-
-
+![[Pasted image 20240120202953.png]]
 ### Fuzzing con gobuster 
 ![[Pasted image 20240120202906.png]]
 
