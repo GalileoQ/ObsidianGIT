@@ -107,6 +107,7 @@ usamos el exploit/multi/http/wp_crop_rce
 
 show options
 ![[Pasted image 20240120231322.png]]
+tenemos que setear: password, RHOSTS, USERNAME, LHOST
 
 
 
