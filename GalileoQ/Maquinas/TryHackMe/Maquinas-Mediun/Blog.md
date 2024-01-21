@@ -68,6 +68,8 @@ con un ataque de fuerza bruta utilizando hydra obtenemos un paquete de posibles 
 después de probar las contraseñas no obtuvimos acceso a la pagina así que seguiremos enumerando 
 
 ### Enumeracion con smbmap
-en este caso tenemos 
+en este caso tenemos un archivo compartido llamado `BillySMB` 
 ![[Pasted image 20240120211221.png]]
 
+vamos a seguir la ruta del archivo
+![[Pasted image 20240120212015.png]]
