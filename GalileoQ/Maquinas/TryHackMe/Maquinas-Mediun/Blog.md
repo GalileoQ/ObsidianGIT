@@ -126,20 +126,7 @@ exploit en github para escalar privilegios
 creamos un servidor en python para compartirnos el exploit
 ![[Pasted image 20240120233508.png]]
 
+ejecutamos el exploit siguiendo los paso
+![[Pasted image 20240120233743.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[Pasted image 20240120225613.png]]
-
+### WE ARE ROOT
