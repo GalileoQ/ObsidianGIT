@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "410fdc2fd04cec9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "867643928065a246",
+  "active": "410fdc2fd04cec9d",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120202953.png",
     "Pasted image 20240120202906.png",
     "Pasted image 20240120201748.png",
     "Pasted image 20240120200005.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Shells/OneLiners.md",
@@ -173,7 +186,6 @@
     "Pasted image 20240120181957.png",
     "Pasted image 20240120175636.png",
     "Pasted image 20240120175113.png",
-    "Pasted image 20240120174740.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GITHUB/cabezera nueva.md",
     "GITHUB/cabezera post.md",
