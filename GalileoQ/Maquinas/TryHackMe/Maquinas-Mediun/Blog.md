@@ -105,6 +105,9 @@ Obtenemos credenciales validas
 usamos el exploit/multi/http/wp_crop_rce
 ![[Pasted image 20240120231023.png]]
 
+show options
+![[Pasted image 20240120231322.png]]
+
 
 
 
