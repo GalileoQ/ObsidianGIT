@@ -117,8 +117,9 @@ run
 tenemos conexión en la maquina
 
 ### Escalada de privilegio
-el binario p
+el binario `/usr/bin/pkexec` es vulnerable asi que buscaremos un exploit que nos permita explotar esta ruta y ser usuario root
 ![[Pasted image 20240120232953.png]]
+
 
 
 
