@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
               }
             }
           }
@@ -158,14 +159,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "867643928065a246",
+  "active": "410fdc2fd04cec9d",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120214104.png",
     "Pasted image 20240120213838.png",
     "Pasted image 20240120213229.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120213010.png",
     "Pasted image 20240120212015.png",
     "Pasted image 20240120211221.png",
@@ -174,7 +175,6 @@
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "Pasted image 20240120202953.png",
     "Pasted image 20240120202906.png",
-    "Pasted image 20240120201748.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
