@@ -109,6 +109,8 @@ show options
 ![[Pasted image 20240120231322.png]]
 tenemos que setear: password, RHOSTS, USERNAME, LHOST
 
+show options
+![[Pasted image 20240120232025.png]]
 
 
 
