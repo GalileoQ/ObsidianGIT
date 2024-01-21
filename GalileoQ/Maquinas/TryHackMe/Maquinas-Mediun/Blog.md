@@ -77,5 +77,9 @@ vamos a seguir la ruta del archivo
 ### Enumeración con wpscan
 
 ![[Pasted image 20240120213010.png]]
-tenemos un recurso 
+tenemos un recurso `robots.txt` que vamos a investigar 
+
 ![[Pasted image 20240120213229.png]]
+
+### robots.txt
+![[Pasted image 20240120213838.png]]
