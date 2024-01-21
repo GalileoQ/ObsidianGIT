@@ -117,6 +117,8 @@ run
 tenemos conexión en la maquina
 
 ### Escalada de privilegio
+el binario p
+![[Pasted image 20240120232953.png]]
 
 
 
