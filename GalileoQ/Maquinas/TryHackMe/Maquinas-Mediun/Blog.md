@@ -97,3 +97,5 @@ Obtenemos credenciales validas
 ### wp-admin
 ![[Pasted image 20240120220602.png]]
 
+###### comments
+![[Pasted image 20240120220812.png]]
