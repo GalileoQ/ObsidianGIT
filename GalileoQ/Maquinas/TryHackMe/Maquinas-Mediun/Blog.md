@@ -103,5 +103,27 @@ Obtenemos credenciales validas
 
 ### msfconsole
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![[Pasted image 20240120225613.png]]
 
