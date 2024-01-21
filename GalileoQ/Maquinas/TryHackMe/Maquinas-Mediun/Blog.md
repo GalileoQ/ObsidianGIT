@@ -51,3 +51,4 @@ Nmap done: 1 IP address (1 host up) scanned in 56.03 seconds
 
 
 
+![[Pasted image 20240120200005.png]]
