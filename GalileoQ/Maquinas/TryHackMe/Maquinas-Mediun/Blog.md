@@ -61,5 +61,6 @@ tenemos un `WordPress` podriamos intentar hacer un ataque de fuerza bruta utiliz
 ![[Pasted image 20240120210226.png]]
 
 ### Fuerza bruta con hydra
-hydra nos 
+hydra nos dio un paquete para intentar ganar acceso a la pagina
 ![[Pasted image 20240120210558.png]]
+
