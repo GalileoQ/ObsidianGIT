@@ -94,3 +94,6 @@ usuarios `bjoel, kwheel, karen wheeler, billy joel `
 Obtenemos credenciales validas
 ![[Pasted image 20240120220415.png]]
 
+### wp-admin
+![[Pasted image 20240120220602.png]]
+
