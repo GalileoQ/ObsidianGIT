@@ -99,3 +99,6 @@ Obtenemos credenciales validas
 
 ###### comments
 ![[Pasted image 20240120220812.png]]
+
+
+### msfconsole
