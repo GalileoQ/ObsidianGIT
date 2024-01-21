@@ -47,6 +47,7 @@ Nmap done: 1 IP address (1 host up) scanned in 56.03 seconds
 ###### CMS: WordPress 5.0 ; Users: Billy Joel
 ![[Pasted image 20240120202953.png]]
 ### Fuzzing con gobuster 
+
 ![[Pasted image 20240120202906.png]]
 ### Enumeracion con enum4linux
 enumeración de recursos compartidos 
@@ -67,3 +68,6 @@ con un ataque de fuerza bruta utilizando hydra obtenemos un paquete de posibles 
 después de probar las contraseñas no obtuvimos acceso a la pagina así que seguiremos enumerando 
 
 ### Enumeracion con smbmap
+
+![[Pasted image 20240120211221.png]]
+
