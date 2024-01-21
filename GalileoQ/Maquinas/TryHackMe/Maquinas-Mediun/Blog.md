@@ -102,7 +102,7 @@ Obtenemos credenciales validas
 
 
 ### msfconsole
-usamos el exploit/multi/http/
+usamos el exploit/multi/http/wp_crop_rce
 ![[Pasted image 20240120231023.png]]
 
 
