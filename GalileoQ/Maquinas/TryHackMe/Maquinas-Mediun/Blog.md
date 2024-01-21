@@ -77,5 +77,5 @@ vamos a seguir la ruta del archivo
 ### Enumeración con wpscan
 
 ![[Pasted image 20240120213010.png]]
-
+tenemos un recurso 
 ![[Pasted image 20240120213229.png]]
