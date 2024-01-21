@@ -54,3 +54,4 @@ enumeración de recursos compartidos
 
 enumeración de usuarios
 ![[Pasted image 20240120201748.png]]
+
