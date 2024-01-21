@@ -56,5 +56,8 @@ enumeración de usuarios
 ![[Pasted image 20240120201748.png]]
 
 ### Enumeracion de directorio http://blog.thm/wp-login.php
-tenemos un `WordPress` podriamos intentar hacer un ataque de fuerza bruta con hydra o utilizando wp-scan 
+tenemos un `WordPress` podriamos intentar hacer un ataque de fuerza bruta utilizando `hydra o wp-scan`  
+
 ![[Pasted image 20240120210226.png]]
+
+### Fuer
