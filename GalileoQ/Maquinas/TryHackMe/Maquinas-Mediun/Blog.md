@@ -79,6 +79,8 @@ vamos a seguir la ruta del archivo
 ![[Pasted image 20240120213010.png]]
 tenemos un recurso `robots.txt` que vamos a investigar 
 
+![[Pasted image 20240120214104.png]]
+tenemos un ip
 ![[Pasted image 20240120213229.png]]
 
 ### robots.txt
