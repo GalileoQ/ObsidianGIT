@@ -114,8 +114,9 @@ show options
 
 run
 ![[Pasted image 20240120232752.png]]
-te
+tenemos conexión en la maquina
 
+### Escalada de privilegio
 
 
 

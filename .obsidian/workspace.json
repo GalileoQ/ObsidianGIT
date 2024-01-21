@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
               }
             }
           }
@@ -170,22 +171,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "867643928065a246",
+  "active": "ddfc7036cebd05a9",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120232752.png",
     "Pasted image 20240120232025.png",
     "Pasted image 20240120231322.png",
     "Pasted image 20240120231023.png",
     "Pasted image 20240120225613.png",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "Pasted image 20240120220812.png",
     "Pasted image 20240120220602.png",
     "Pasted image 20240120220415.png",
     "Pasted image 20240120220309.png",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "Pasted image 20240120214104.png",
-    "Pasted image 20240120213838.png",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
