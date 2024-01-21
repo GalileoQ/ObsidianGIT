@@ -120,7 +120,14 @@ tenemos conexión en la maquina
 el binario `/usr/bin/pkexec` es vulnerable asi que buscaremos un exploit que nos permita explotar esta ruta y ser usuario root
 ![[Pasted image 20240120232953.png]]
 
+exploit en github para escalar privilegios 
 
+
+
+
+
+creamos un servidor en python para compartirnos el exploit
+![[Pasted image 20240120233508.png]]
 
 
 
