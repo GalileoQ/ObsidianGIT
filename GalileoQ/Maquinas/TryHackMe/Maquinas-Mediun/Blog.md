@@ -82,7 +82,7 @@ tenemos un recurso `robots.txt` que vamos a investigar
 tenemos un `uploads`
 ![[Pasted image 20240120214104.png]]
 
-usuarios 
+usuarios `bjoel, kwheel, karen wheeler, billy joel `
 ![[Pasted image 20240120213229.png]]
 
 ### robots.txt
