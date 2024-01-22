@@ -2,5 +2,6 @@
   "accentColor": "#054904",
   "cssTheme": "Blue Topaz",
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "translucency": false
 }
