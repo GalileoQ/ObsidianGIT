@@ -88,14 +88,14 @@ usuarios `bjoel, kwheel, karen wheeler, billy joel `
 ### robots.txt
 ![[Pasted image 20240120213838.png]]
 
-### Ataque de fuerza bruta con wpscan - Usuario b
+### Ataque de fuerza bruta con wpscan - Usuario kheel
 ![[Pasted image 20240120220309.png]]
 
 Obtenemos credenciales validas
 ![[Pasted image 20240120220415.png]]
 ### wp-admin
 ![[Pasted image 20240120220602.png]]
-###### comments
+###### Comments
 ![[Pasted image 20240120220812.png]]
 ### msfconsole
 usamos el exploit/multi/http/wp_crop_rce
