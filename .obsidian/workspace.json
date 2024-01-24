@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb74c32ce1be75bb",
+        "id": "6e13ccb866a63a27",
         "type": "tabs",
         "children": [
           {
-            "id": "8518d5f7792b1d5e",
+            "id": "70a77eb145ae7346",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8518d5f7792b1d5e",
+  "active": "70a77eb145ae7346",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
@@ -174,8 +176,6 @@
     "GITHUB/cabezera post.md",
     "GITHUB/1.md",
     "Curso/Metaesploitable2.md",
-    "GalileoQ/Maquinas/HackTheBox/Broker.md",
-    "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
