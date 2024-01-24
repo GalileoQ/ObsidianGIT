@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "514888fd9b525830",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
     "imagenes/Pasted image 20240120232953.png",
@@ -158,13 +163,8 @@
     "imagenes/Pasted image 20240120225613.png",
     "imagenes/Pasted image 20240120220812.png",
     "imagenes/Pasted image 20240120220602.png",
-    "imagenes/Pasted image 20240120220415.png",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Shells/OneLiners.md",
