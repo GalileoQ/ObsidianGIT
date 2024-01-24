@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b6e38f562499dd",
+        "id": "4ac97c44c38da7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "fead744a1cc787aa",
+            "id": "514888fd9b525830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Escaneo de puertos/script safe thm_vpn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fead744a1cc787aa",
+  "active": "514888fd9b525830",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
+    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
@@ -182,7 +176,6 @@
     "GalileoQ/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
