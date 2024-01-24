@@ -11,8 +11,12 @@
             "id": "e663f30b33c58d28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md"
+              }
             }
           }
         ]
@@ -140,6 +148,11 @@
   },
   "active": "e663f30b33c58d28",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
+    "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
+    "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
+    "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
@@ -168,14 +181,9 @@
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Subdominios con Wfuzz.md",
-    "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
-    "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GITHUB/cabezera nueva.md",
     "GITHUB/cabezera post.md",
-    "GITHUB/1.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
