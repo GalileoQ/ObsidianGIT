@@ -11,8 +11,12 @@
             "id": "514888fd9b525830",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Escaneo de puertos/Script Try Hack Me.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "514888fd9b525830",
   "lastOpenFiles": [
-    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
+    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
