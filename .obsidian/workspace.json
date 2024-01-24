@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6e13ccb866a63a27",
+        "id": "2d2346c5d57ae0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "70a77eb145ae7346",
+            "id": "f5dd5913f231b694",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "70a77eb145ae7346",
+  "active": "f5dd5913f231b694",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
