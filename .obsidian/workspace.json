@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2346c5d57ae0c8",
+        "id": "2a74d0e967eb2958",
         "type": "tabs",
         "children": [
           {
-            "id": "f5dd5913f231b694",
+            "id": "e663f30b33c58d28",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f5dd5913f231b694",
+  "active": "e663f30b33c58d28",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
@@ -171,11 +173,9 @@
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GITHUB/cabezera nueva.md",
     "GITHUB/cabezera post.md",
     "GITHUB/1.md",
-    "Curso/Metaesploitable2.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
