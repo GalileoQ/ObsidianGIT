@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.50152587890625
+    "width": 283.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md"
+                "file": "GalileoQ/Comandos/Buscador de archivos.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "e663f30b33c58d28",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
+    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Comandos/DIOS MUNDO CRUEL.md",
@@ -177,13 +184,6 @@
     "GalileoQ/Maquinas/HackTheBox/Keeper.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
-    "GalileoQ/Shells/OneLiners.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Buscador de archivos.md",
-    "GITHUB/cabezera nueva.md",
-    "GITHUB/cabezera post.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
