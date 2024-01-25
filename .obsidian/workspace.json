@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 212.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md"
+                "file": "GalileoQ/Comandos/Buscador de archivos.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
@@ -166,8 +168,6 @@
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
-    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
