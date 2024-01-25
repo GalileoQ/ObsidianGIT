@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a74d0e967eb2958",
+        "id": "a0a1a7f8cf68d504",
         "type": "tabs",
         "children": [
           {
-            "id": "e663f30b33c58d28",
+            "id": "942cd867cca440d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Comandos/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Comandos/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md",
+                "file": "GalileoQ/Comandos/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Buscador de archivos.md"
+                "file": "GalileoQ/Comandos/Sin título.md"
               }
             }
           }
@@ -146,14 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e663f30b33c58d28",
+  "active": "942cd867cca440d1",
   "lastOpenFiles": [
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Comandos/Sin título.md",
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-    "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
@@ -169,7 +174,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
     "imagenes/Pasted image 20240120232953.png",
@@ -180,10 +184,6 @@
     "imagenes/Pasted image 20240120225613.png",
     "imagenes/Pasted image 20240120220812.png",
     "imagenes/Pasted image 20240120220602.png",
-    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
-    "GalileoQ/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Nueva carpeta",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
