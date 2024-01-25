@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar plugins Wp.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar plugins Wp.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar plugins Wp.md",
+                "file": "GalileoQ/Comandos/Buscador de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar plugins Wp.md"
+                "file": "GalileoQ/Comandos/Buscador de archivos.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "942cd867cca440d1",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
