@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ab8ca4899b5f3da",
+        "id": "fb175a57bd5a978c",
         "type": "tabs",
         "children": [
           {
-            "id": "7345c9c1bd7c89ba",
+            "id": "6208c7c17e89991c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Metaesploitable2.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7345c9c1bd7c89ba",
+  "active": "6208c7c17e89991c",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
@@ -169,7 +170,6 @@
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
