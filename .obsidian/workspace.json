@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enumeracion web.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ce1423f9a5c0de97",
+  "active": "e94c9a7274c98814",
   "lastOpenFiles": [
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/Enumeracion web.md",
