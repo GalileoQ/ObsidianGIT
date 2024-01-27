@@ -11,8 +11,12 @@
             "id": "3d5201343fcf0709",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md",
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Entornos/modificaciones del Entorno.md"
+                "file": "GalileoQ/Comandos/Enumerar capabilitis.md"
               }
             }
           }
@@ -142,16 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "3d5201343fcf0709",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Técnicas avanzadas.md",
+    "GalileoQ/Comandos/Enumeracion web.md",
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
     "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Entornos/Instalar BSPWM.md",
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Eliminar sistema.md",
-    "GalileoQ/Comandos/Enumeracion web.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
@@ -169,7 +174,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GITHUB/path imagen.md",
     "GITHUB/1.md",
-    "GITHUB/cabezera nueva.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",

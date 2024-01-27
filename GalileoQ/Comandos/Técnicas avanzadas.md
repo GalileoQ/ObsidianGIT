@@ -1,9 +1,9 @@
-### descifrar claves PuTTY key a id_rsa
+### Descifrar claves PuTTY key a id_rsa
 
 ```python
 	puttygen NombreDelArchivo.ppk -O private-openssh -o id_rsa
 ```
-### generar claves hash con openssl
+### Generar claves hash con openssl
 
 ```python
 openssl passwd -6 -salt 'salt' 'password'
