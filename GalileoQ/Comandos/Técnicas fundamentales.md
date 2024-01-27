@@ -105,17 +105,16 @@ tcpdump -i tun0 icmp -n
 john --wordlist=/usr/share/wordlists/rockyou.txt hash
 
 hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
+```
 
-​
+### Cracking de contraseñas con passwd y shadow
 
-#Cracking de contraseñas con passwd y shadow
-
+```python 
 unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ```
 ​
-
 # Cracking de documentos encriptados de Office
 
 ```python 
