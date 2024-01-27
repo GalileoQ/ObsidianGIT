@@ -132,7 +132,6 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 	steghide --extract -sf archivo.png/jpg
 ```
-
 ### Búsqueda de exploits
 
 ```python
@@ -147,7 +146,7 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 	find / -iname nombre_archivo
 ```
-### Fuerxa bruta con hydra para ssh
+### Fuerza bruta con hydra para ssh
 
 ```python
 	hydra 127.0.0.1 ssh -s 22 -L users -P worstpasswords.txt -f -vV 
