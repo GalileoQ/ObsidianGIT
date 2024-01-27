@@ -11,8 +11,12 @@
             "id": "d8ed5f369bd2cf02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Técnicas/Enumeracion web.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Técnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Técnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Técnicas/Pivoting.md"
+                "file": "GalileoQ/Técnicas/Enumeracion web.md"
               }
             }
           }
@@ -140,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "d8ed5f369bd2cf02",
   "lastOpenFiles": [
+    "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Shell",
     "GalileoQ/shel/OneLiners.md",
@@ -156,7 +163,6 @@
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Entornos/Instalar bat.md",
     "GalileoQ/Entornos",
-    "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Técnicas/Uso de nmap.md",
     "GalileoQ/Técnicas/Técnicas avanzadas.md",
     "GalileoQ/Técnicas/Enumeracion web.md",
