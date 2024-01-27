@@ -3,23 +3,23 @@
 
 ```python
 	script /dev/null -c bash # Lanza pseudoconsola
-
+	
 	[ctrl+z] # Suspende la shell actual
-
+	
 	stty raw -echo
-
+	
 	fg # Recupera la shell suspendida
-
+	
 	reset "xterm" # Reinicia la configuración de la terminal
-
+	
 	xterm # Especifica el tipo de terminal
-
+	
 	export TERM=xterm # Asigna xterm a la variable TERM
-
+	
 	export SHELL=bash # Asigna bash a la variable SHELL
-
+	
 	stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
-
+	
 	Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
  ```
 ### TTY Shell con Python
@@ -31,49 +31,49 @@
 
 ```python
 #.tar
-
+	
 	tar -xf archive.tar.gz
-
+	
 #.gz
-
+	
 	gzip -d file.gz
-
+	
 #.zip
-
+	
 	unzip file.zip
 ```
 ### Comparación de archivos
 
 ```python
 	diff -c scan-a.txt scan-b.txt
-
+	
 	comm scan-a.txt scan-b.txt
 ```
 ### Transferencia de archivos
 
 ```python 
 #HTTP
-
+	
 #Servidor
-
+	
 	python3 -m http.server
-
+	
 	python -m SimpleHTTPServer
 
 #Cliente
-
+	
 	certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
-
+	
 	wget http://<SERVER_IP>/file.txt
 ```
 ### FTP
 ```python
 #Servidor
-
+	
 	python3 -m pyftpdlib
-
+	
 #Cliente
-
+	
 	ftp <SERVER_IP>
 ```
 
@@ -106,7 +106,7 @@
 
 ```python
 	john --wordlist=/usr/share/wordlists/rockyou.txt hash
-
+	
 	hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
 ```
 
@@ -114,14 +114,14 @@
 
 ```python 
 	unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
-
+	
 	john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ```
 ### Cracking de documentos encriptados de Office
 
 ```python 
 	office2john.py <Ruta_Documento> > <Archivo_hash>
-
+	
 	john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ``` 
 ### Extraer información de imágenes
@@ -142,7 +142,7 @@
 ### Buscador de archivos
 
 ```python
-find / -iname nombre_archivo
+	find / -iname nombre_archivo
 ```
 ### Fuerxa bruta con hydra para ssh
 
