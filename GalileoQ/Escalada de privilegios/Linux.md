@@ -21,6 +21,7 @@
 	cat /etc/crontab
 ```
 
+---
 ### Escaladas 
 ### Escalada de privilegios con cat
 

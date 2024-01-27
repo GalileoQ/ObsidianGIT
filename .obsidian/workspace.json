@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,13 +161,13 @@
   },
   "active": "7626b59837ab1966",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/Linux.md",
+    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Enumeracion web.md",
