@@ -77,8 +77,8 @@ python3 -m pyftpdlib
 #Cliente
 
 ftp <SERVER_IP>
+```
 
-​
 
 #Netcat
 
@@ -101,8 +101,6 @@ tcpdump -i tun0 icmp -n
 ### Cracking
 
 ```python
-#Básico
-
 john --wordlist=/usr/share/wordlists/rockyou.txt hash
 
 hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
