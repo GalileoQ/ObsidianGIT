@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GITHUB/1 cabecera.md",
+                "file": "Curso/Metaesploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GITHUB/1 cabecera.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GITHUB/1 cabecera.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GITHUB/1 cabecera.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "d8ed5f369bd2cf02",
   "lastOpenFiles": [
+    "GalileoQ/Shells/OneLiners.md",
+    "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GITHUB/cabecera post.md",
+    "GITHUB/1 cabecera.md",
     "GITHUB/cabecera nueva.md",
     "GITHUB/path imagen.md",
-    "GITHUB/1 cabecera.md",
     "GalileoQ/Comandos/Uso de nmap.md",
     "GalileoQ/Comandos/ping con nmap.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
@@ -174,8 +176,6 @@
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
-    "GalileoQ/Entornos/modificaciones del Entorno.md",
-    "GalileoQ/Entornos/Keyboard shortcuts.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
