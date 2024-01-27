@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
+                "file": "GalileoQ/Shell/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 243.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
+                "file": "GalileoQ/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
+                "file": "GalileoQ/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md"
+                "file": "GalileoQ/Shell/OneLiners.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "4d5abbce4223a6ab",
   "lastOpenFiles": [
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -156,7 +158,6 @@
     "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",
     "GalileoQ/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
@@ -173,7 +174,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Git Happens.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Maquinas/TryHackMe",
