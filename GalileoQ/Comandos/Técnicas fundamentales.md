@@ -29,6 +29,7 @@ Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando 
 python -c 'import pty; pty.spawn("/bin/sh")'
 ```
 ### Descompresión
+
 ```python
 #.tar
 
@@ -42,15 +43,15 @@ gzip -d file.gz
 
 unzip file.zip
 ```
+### Comparación de archivos
 
- ### Comparación de archivos
 ```python
 diff -c scan-a.txt scan-b.txt
 
 comm scan-a.txt scan-b.txt
 ```
-
 ### Transferencia de archivos
+
 ```python 
 #HTTP
 
