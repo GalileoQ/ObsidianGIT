@@ -97,7 +97,8 @@ nc -lvnp 4242 > file.tgz
 ```python
 tcpdump -i tun0 icmp -n
  
-
+```-ythi
+```
 ### Cracking[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#cracking)
 
 #Básico
@@ -114,19 +115,18 @@ unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ```
-​
-# Cracking de documentos encriptados de Office
+### Cracking de documentos encriptados de Office
 
 ```python 
+
 office2john.py <Ruta_Documento> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
-
 ``` 
 
 ### Búsqueda de exploits
-```python
 
+```python
 searchsploit <SOFTWARE>
 
 searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
