@@ -11,7 +11,7 @@ stty raw -echo
 
 fg # Recupera la shell suspendida
 
-reset # Reinicia la configuración de la terminal
+reset xterm # Reinicia la configuración de la terminal
 
 xterm # Especifica el tipo de terminal
 
