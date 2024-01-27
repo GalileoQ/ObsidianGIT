@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GITHUB/1.md",
+                "file": "GITHUB/1 cabecera.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GITHUB/1.md",
+                "file": "GITHUB/1 cabecera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GITHUB/1.md",
+                "file": "GITHUB/1 cabecera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GITHUB/1.md"
+                "file": "GITHUB/1 cabecera.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "d8ed5f369bd2cf02",
   "lastOpenFiles": [
+    "GITHUB/cabecera post.md",
+    "GITHUB/cabecera nueva.md",
+    "GITHUB/path imagen.md",
+    "GITHUB/1 cabecera.md",
     "GalileoQ/Comandos/Uso de nmap.md",
     "GalileoQ/Comandos/ping con nmap.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
@@ -172,10 +176,6 @@
     "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
     "GalileoQ/Entornos/Keyboard shortcuts.md",
-    "GalileoQ/Entornos/Instalar bat.md",
-    "GalileoQ/Entornos/Instalar BSPWM.md",
-    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
-    "GalileoQ/Comandos/Eliminar sistema.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
