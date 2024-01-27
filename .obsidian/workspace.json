@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61f42aa74c9a81ca",
+        "id": "02fbe3e76de3eac5",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c85a1aa139b83a",
+            "id": "25acc403ad4f5b50",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a4c85a1aa139b83a",
+  "active": "25acc403ad4f5b50",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Shell/OneLiners.md",
