@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Hydra para ssh.md",
+                "file": "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,16 +161,17 @@
   },
   "active": "ce1423f9a5c0de97",
   "lastOpenFiles": [
-    "GalileoQ/Comandos/Hydra para ssh.md",
-    "GalileoQ/Comandos/Técnicas fundamentales.md",
+    "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
+    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
+    "GalileoQ/Comandos/Técnicas fundamentales.md",
+    "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
-    "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
@@ -182,7 +183,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
-    "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Comandos/Eliminar sistema.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
