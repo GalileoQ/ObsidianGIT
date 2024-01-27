@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5e5e6e574d9009",
+        "id": "78ef88ec5a7360c1",
         "type": "tabs",
         "children": [
           {
-            "id": "719bb7f73a132d0d",
+            "id": "7b85fe2ce8ad9ed9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "7b85fe2ce8ad9ed9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "2023-10-29_23-17.png.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
@@ -155,8 +158,6 @@
     "GalileoQ/Linux/Scripts",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
@@ -169,7 +170,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Overpass.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian_Yu.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
