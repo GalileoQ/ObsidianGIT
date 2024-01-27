@@ -70,23 +70,17 @@ reg query "HKLM\Software\Microsoft\Windows NT\CurrentVersion\winlogon"
 
 cmdkey /list
 ```
-#### 
-
-Enumeración de antivirus[](#enumeracion-de-antivirus)
-
+### Enumeración de antivirus[](#enumeracion-de-antivirus)
+```python
 sc query windefend
 
 sc queryex type= service #Lista servicios activos
 
 netsh advfirewall firewall dump
+```
+### Enumeración con herramientas automáticas[](#enumeracion-con-herramientas-automaticas)
 
-#### 
-
-Enumeración con herramientas automáticas[](#enumeracion-con-herramientas-automaticas)
-
-[
-
-![](https://github.com/fluidicon.png)
+[https://github.com/fluidicon.png)
 
 Release Release refs/heads/master 20230108 · carlospolop/PEASS-ng
 
