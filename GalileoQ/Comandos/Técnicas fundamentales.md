@@ -106,7 +106,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash
 hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
 ```
 
-### Cracking de contraseñas con passwd y shadow
+### Cracking de contraseñas con password y shadow
 
 ```python 
 unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
