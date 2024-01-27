@@ -2,6 +2,8 @@
 
 ### Tratamiento de la TTY[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#tratamiento-de-la-tty)
 
+```python
+
 script /dev/null -c bash # Lanza pseudoconsola
 
 [ctrl+z] # Suspende la shell actual
@@ -26,11 +28,11 @@ Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando 
 ### Lanzar una TTY Shell con Python[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#lanzar-una-tty-shell-con-python)
 
 python -c 'import pty; pty.spawn("/bin/sh")'
-
+```
  
 
-### Descompresión[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#descompresion)
-
+### Descompresión
+``
 #.tar
 
 tar -xf archive.tar.gz
@@ -42,7 +44,7 @@ gzip -d file.gz
 #.zip
 
 unzip file.zip
-
+`` 
  
 
 ### Comparación de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#comparacion-de-archivos)
