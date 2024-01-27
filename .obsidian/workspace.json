@@ -11,12 +11,8 @@
             "id": "d8ed5f369bd2cf02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Técnicas/Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Técnicas/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Técnicas/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,18 +142,26 @@
   },
   "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
-    "Curso/Metaesploitable2.md",
+    "GalileoQ/Técnicas/Técnicas fundamentales.md",
+    "GalileoQ/Técnicas/Uso de nmap.md",
+    "GalileoQ/Técnicas/Técnicas avanzadas.md",
+    "GalileoQ/Técnicas/Enumeracion web.md",
     "GalileoQ/Técnicas/Pivoting.md",
+    "GalileoQ/Técnicas",
+    "GalileoQ/Técnicass/Uso de nmap.md",
+    "GalileoQ/Técnicass/Técnicas fundamentales.md",
+    "GalileoQ/Técnicass/Técnicas avanzadas.md",
+    "GalileoQ/Técnicass/Pivoting.md",
+    "GalileoQ/Técnicass/Enumeracion web.md",
+    "GalileoQ/Técnicass",
+    "Curso/Metaesploitable2.md",
     "GalileoQ/Shells/OneLiners.md",
     "GalileoQ/Shells/TRATAMIENTO TTY..md",
     "GITHUB/cabecera post.md",
     "GITHUB/1 cabecera.md",
     "GITHUB/cabecera nueva.md",
     "GITHUB/path imagen.md",
-    "GalileoQ/Técnicas/Uso de nmap.md",
     "GalileoQ/Comandos/ping con nmap.md",
-    "GalileoQ/Técnicas/Técnicas avanzadas.md",
-    "GalileoQ/Técnicas/Enumeracion web.md",
     "GalileoQ/Escaneo de puertos/nmap potente.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",
@@ -170,12 +172,6 @@
     "GalileoQ/Escaneo de puertos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
-    "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Escalada de privilegios/Linux.md",
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
-    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
@@ -192,8 +188,6 @@
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
     "entorno",
-    "GITHUB",
-    "G41i130Q.github.io/_posts/HackTheBox",
     "Sin título.canvas"
   ]
 }
