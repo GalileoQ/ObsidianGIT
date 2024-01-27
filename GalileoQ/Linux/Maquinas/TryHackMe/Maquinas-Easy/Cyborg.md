@@ -77,4 +77,5 @@ llamamos la bandera c y aprovecharemos esto para darle permisos a la bash como u
 ```
 ### hacemos bash -p
 ![[Pasted image 20231108002744.png]]
-### hemos cambiado los permisos de la bash para que se ejecute como sudo y cuando hacemos bash -p nos da una bash como root
+hemos cambiado los permisos de la bash para que se ejecute como sudo y cuando hacemos bash -p nos da una bash como root
+### WE ARE ROOT
