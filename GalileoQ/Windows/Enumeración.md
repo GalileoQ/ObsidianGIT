@@ -88,21 +88,19 @@ netsh advfirewall firewall dump
 ## Funciones básicas[](#funciones-basicas)
 
 ### Descarga de archivos[](#descarga-de-archivos)
+
 ```python
 certutil.exe -urlcache -f <URL> <OUTPUT_FILE>
 ```
-#### 
+### Comprobación de permisos sobre un archivo[](#comprobacion-de-permisos-sobre-un-archivo)
 
-Comprobación de permisos sobre un archivo[](#comprobacion-de-permisos-sobre-un-archivo)
-
+```python
 accesschk.exe /accepteula -quvw <user> <Ruta absoluta del archivo>
-
-#### 
-
-Ejecución de un programa como otro usuario en Powershell[](#ejecucion-de-un-programa-como-otro-usuario-en-powershell)
-
+```
+### Ejecución de un programa como otro usuario en Powershell[](#ejecucion-de-un-programa-como-otro-usuario-en-powershell)
+```python
 powershell -c "$password = ConvertTo-SecureString '<PASSWORD>' -AsPlainText -Force; $creds = New-Object System.Management.Automation.PSCredential('<USER>', $password);Start-Process -FilePath "<PROGRAM.EXE>" -Credential $creds"
-
+```
 #### 
 
 Windows Port Forwarding[](#windows-port-forwarding)
