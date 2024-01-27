@@ -9,7 +9,7 @@
 	
 	wmic logicaldisk get caption, description, providername #Muestra discos
 ```
-### Enumeración de usuarios[](#enumeracion-de-usuarios)
+### Enumeración de usuarios
 
 ```python
 whoami
@@ -26,7 +26,8 @@ net localgroup
 
 net localgroup <GRUPO>
 ```
-### Enumeración de red[](#enumeracion-de-red)
+### Enumeración de red
+
 ```python
 ip a
 
@@ -46,7 +47,8 @@ route print
 
 netstat -ano
 ```
-### Búsqueda de archivos[](#busqueda-de-archivos)
+### Búsqueda de archivos
+
 ```python
 #CMD
 
@@ -56,7 +58,8 @@ where /r c:\ file.txt
 
 Get-ChildItem -Path C:\Myfolder -Filter file.txt -Recurs
 ```
-### Búsqueda de credenciales[](#busqueda-de-credenciales)
+### Búsqueda de credenciales
+
 ```python
 #Valores en el registro que contengan la string “password”
 
@@ -70,7 +73,8 @@ reg query "HKLM\Software\Microsoft\Windows NT\CurrentVersion\winlogon"
 
 cmdkey /list
 ```
-### Enumeración de antivirus[](#enumeracion-de-antivirus)
+### Enumeración de antivirus
+
 ```python
 sc query windefend
 
@@ -78,7 +82,8 @@ sc queryex type= service #Lista servicios activos
 
 netsh advfirewall firewall dump
 ```
-### Enumeración con herramientas automáticas[](#enumeracion-con-herramientas-automaticas)
+### Enumeración con herramientas automáticas
+
 ```python
 	[Release Release refs/heads/master 20230108 · carlospolop/PEASS-ng (github.com)](https://github.com/carlospolop/PEASS-ng/releases/tag/20230108)
 	
