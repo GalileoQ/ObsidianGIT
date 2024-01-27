@@ -76,7 +76,6 @@
 	
 	ftp <SERVER_IP>
 ```
-
 ###### Netcat
 ```python
 
@@ -95,7 +94,11 @@
 	nc "IP" "Ports" < "archivo"
 
 ```
+###### ssh
 
+```python
+scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
+```
 ### Sniffing
 
 ```python
