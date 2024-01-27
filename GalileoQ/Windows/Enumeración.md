@@ -79,32 +79,14 @@ sc queryex type= service #Lista servicios activos
 netsh advfirewall firewall dump
 ```
 ### Enumeración con herramientas automáticas[](#enumeracion-con-herramientas-automaticas)
+```python
+[ Release Release refs/heads/master 20230108 · carlospolop/PEASS-ng
 
-[
+GitHub](https://github.com/carlospolop/PEASS-ng/releases/tag/20230108)
 
-Release Release refs/heads/master 20230108 · carlospolop/PEASS-ng
+[ GitHub - bitsadmin/wesng: Windows Exploit Suggester - Next Generation
 
-GitHub
-
-
-
-
-
-](https://github.com/carlospolop/PEASS-ng/releases/tag/20230108)
-
-[
-
-![](https://github.com/fluidicon.png)
-
-GitHub - bitsadmin/wesng: Windows Exploit Suggester - Next Generation
-
-GitHub
-
-
-
-
-
-](https://github.com/bitsadmin/wesng)
+GitHub](https://github.com/bitsadmin/wesng)
 
 ### 
 
