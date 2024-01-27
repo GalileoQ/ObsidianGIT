@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d45f1236b4742c2",
+        "id": "1b5e5e6e574d9009",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb2c5dcf2405872",
+            "id": "719bb7f73a132d0d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-10-29_23-17.png.md"
-              }
+              "state": {}
             }
           }
         ]
