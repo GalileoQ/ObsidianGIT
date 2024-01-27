@@ -125,6 +125,11 @@ office2john.py <Ruta_Documento> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ``` 
+### Extraer información de imágenes
+
+```python
+steghide --extract -sf archivo.png/jpg
+```
 
 ### Búsqueda de exploits
 
