@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d44300ed88afdef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GITHUB/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8351921011b4d4f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GITHUB/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GITHUB/1.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GITHUB/1.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GITHUB/1.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md"
               }
             }
           }
@@ -171,11 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8351921011b4d4f7",
+  "active": "6208c7c17e89991c",
   "lastOpenFiles": [
+    "GITHUB/1.md",
     "GITHUB/cabezera nueva.md",
     "GITHUB/cabezera post.md",
-    "GITHUB/1.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "imagenes/anonforce.jpg",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
