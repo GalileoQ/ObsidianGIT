@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e170e5a7f2449a29",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Entornos",
     "GalileoQ/Técnicas/Enumeracion web.md",
     "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
@@ -180,7 +181,6 @@
     "GITHUB/1 cabecera.md",
     "GITHUB/cabecera nueva.md",
     "GITHUB/path imagen.md",
-    "GalileoQ/Comandos/ping con nmap.md",
     "GalileoQ/Scripts",
     "GalileoQ/Nueva carpeta",
     "imagenes/anonforce.jpg",
