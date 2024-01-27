@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enumeracion web.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
+                "file": "GalileoQ/Comandos/Enumeracion web.md"
               }
             }
           }
@@ -160,11 +160,11 @@
   },
   "active": "e94c9a7274c98814",
   "lastOpenFiles": [
-    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+    "GalileoQ/Comandos/Enumeracion web.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
