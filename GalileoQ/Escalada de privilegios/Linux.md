@@ -8,12 +8,14 @@
 ```python
 	find / -perm -4000 2>/dev/null
 ```
+### cambiar de usuario con sudo
+
 ### Capabilities
 
 ```python
 	getcap -r / 2>/dev/null
 ```
-### Tareas programadas(crontab)
+### Tareas crontab
 
 ```python
 	cat /etc/crontab
