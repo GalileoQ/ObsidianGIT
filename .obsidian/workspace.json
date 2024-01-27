@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enumerar capabilitis.md"
+                "file": "GalileoQ/Escalada de privilegios/Linux.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d5201343fcf0709",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Enumerar capabilitis.md",
+    "GalileoQ/Escalada de privilegios/Linux.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Enumeracion web.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
@@ -157,7 +159,6 @@
     "GalileoQ/Entornos/Actualizar Kali-Linux.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Comandos/Eliminar sistema.md",
-    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
@@ -173,7 +174,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GITHUB/path imagen.md",
-    "GITHUB/1.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
