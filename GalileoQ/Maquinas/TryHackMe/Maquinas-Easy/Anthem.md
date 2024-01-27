@@ -44,3 +44,5 @@ posible contraseña
 ### tenemos credenciales para administrador vamos a conectarnos por RemoteDesktop
 ![[Pasted image 20231204222125.png]]
 activamos los archivos ocultos y tenemos un backup dentro tenemos un archivo txt cambiamos los permisos y conseguimos la clave de admin para poder acceder al directorio de administrador
+
+### WE ARE ROOT
