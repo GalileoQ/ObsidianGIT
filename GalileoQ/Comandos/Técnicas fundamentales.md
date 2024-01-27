@@ -40,14 +40,14 @@
 
 #.zip
 
-unzip file.zip
+	unzip file.zip
 ```
 ### Comparación de archivos
 
 ```python
-diff -c scan-a.txt scan-b.txt
+	diff -c scan-a.txt scan-b.txt
 
-comm scan-a.txt scan-b.txt
+	comm scan-a.txt scan-b.txt
 ```
 ### Transferencia de archivos
 
@@ -56,25 +56,25 @@ comm scan-a.txt scan-b.txt
 
 #Servidor
 
-python3 -m http.server
+	python3 -m http.server
 
-python -m SimpleHTTPServer
+	python -m SimpleHTTPServer
 
 #Cliente
 
-certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
+	certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
 
-wget http://<SERVER_IP>/file.txt
+	wget http://<SERVER_IP>/file.txt
 ```
 ### FTP
 ```python
 #Servidor
 
-python3 -m pyftpdlib
+	python3 -m pyftpdlib
 
 #Cliente
 
-ftp <SERVER_IP>
+	ftp <SERVER_IP>
 ```
 
 ### Netcat
@@ -99,45 +99,45 @@ ftp <SERVER_IP>
 ### Sniffing
 
 ```python
-tcpdump -i tun0 icmp -n
+	tcpdump -i tun0 icmp -n
  
 ```
 ### Cracking
 
 ```python
-john --wordlist=/usr/share/wordlists/rockyou.txt hash
+	john --wordlist=/usr/share/wordlists/rockyou.txt hash
 
-hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
+	hashcat -a 0 -m 1600 hash /usr/share/wordlists/rockyou.txt
 ```
 
 ### Cracking de contraseñas con password y shadow
 
 ```python 
-unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
+	unshadow <Archivo_passwd> <Archivo_shadow> > <Archivo_hash>
 
-john --wordlist=<Ruta_Diccionario> <Archivo_hash>
+	john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ```
 ### Cracking de documentos encriptados de Office
 
 ```python 
-office2john.py <Ruta_Documento> > <Archivo_hash>
+	office2john.py <Ruta_Documento> > <Archivo_hash>
 
-john --wordlist=<Ruta_Diccionario> <Archivo_hash>
+	john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ``` 
 ### Extraer información de imágenes
 
 ```python
-steghide --extract -sf archivo.png/jpg
+	steghide --extract -sf archivo.png/jpg
 ```
 
 ### Búsqueda de exploits
 
 ```python
-searchsploit <SOFTWARE>
-
-searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
-
-searchsploit -m <ID_EXPLOIT> # Mueve el exploit al directorio actual de trabajo
+	searchsploit <SOFTWARE>
+	
+	searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
+	
+	searchsploit -m <ID_EXPLOIT> # Mueve el exploit al directorio actual de trabajo
 ```
 ### Buscador de archivos
 
