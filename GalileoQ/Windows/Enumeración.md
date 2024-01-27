@@ -85,14 +85,12 @@ netsh advfirewall firewall dump
 	[bitsadmin/wesng: Windows Exploit Suggester - Next Generation (github.com)](https://github.com/bitsadmin/wesng)
 
 ````
-### Funciones básicas[](#funciones-basicas)
+## Funciones básicas[](#funciones-basicas)
 
-#### 
-
-Descarga de archivos[](#descarga-de-archivos)
-
+### Descarga de archivos[](#descarga-de-archivos)
+```python
 certutil.exe -urlcache -f <URL> <OUTPUT_FILE>
-
+```
 #### 
 
 Comprobación de permisos sobre un archivo[](#comprobacion-de-permisos-sobre-un-archivo)
