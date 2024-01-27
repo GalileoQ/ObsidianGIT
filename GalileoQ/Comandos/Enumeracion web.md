@@ -13,3 +13,5 @@ wfuzz -c --hc 404,400,302 -t 200 -w /usr/share/wordlists/dirbuster/directory-lis
 ```python
 curl -s -X GET "http://localhost:80" | grep plugins
 ```
+
+### fuerza bruta web con hydra
