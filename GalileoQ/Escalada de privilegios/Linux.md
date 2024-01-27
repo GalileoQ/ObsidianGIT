@@ -8,6 +8,8 @@
 ```python
 	getcap -r / 2>/dev/null
 ```
-#### Tareas programadas[](#tareas-programadas)
+#### Tareas programadas
 
-cat /etc/crontab
+```python
+	cat /etc/crontab
+```
