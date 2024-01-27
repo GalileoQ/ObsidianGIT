@@ -26,10 +26,8 @@ net localgroup
 
 net localgroup <GRUPO>
 ```
-#### 
-
-Enumeración de red[](#enumeracion-de-red)
-
+### Enumeración de red[](#enumeracion-de-red)
+```python
 ip a
 
 ifconfig
