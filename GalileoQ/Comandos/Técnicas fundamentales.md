@@ -66,7 +66,7 @@
 	
 	wget http://<SERVER_IP>/file.txt
 ```
-### FTP
+###### FTP
 ```python
 #Servidor
 	
@@ -77,7 +77,7 @@
 	ftp <SERVER_IP>
 ```
 
-### Netcat
+###### Netcat
 ```python
 
 #Servidor
