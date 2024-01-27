@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df8a531175e4d33e",
+        "id": "3308f3d3e2644dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "e94c9a7274c98814",
+            "id": "e7ce15da2b0d3d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enumeracion web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce1423f9a5c0de97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/Enumeracion web.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enumeracion web.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enumeracion web.md",
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enumeracion web.md"
+                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md"
               }
             }
           }
@@ -158,15 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e94c9a7274c98814",
+  "active": "e7ce15da2b0d3d90",
   "lastOpenFiles": [
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Enumeracion web.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
-    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Comandos/Eliminar sistema.md",
@@ -186,7 +174,7 @@
     "imagenes/anonforce.jpg",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "Curso/Metaesploitable2.md",
-    "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios Linux/sudo wget escalada de privilegios.md",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
     "imagenes/Pasted image 20240120232953.png",
