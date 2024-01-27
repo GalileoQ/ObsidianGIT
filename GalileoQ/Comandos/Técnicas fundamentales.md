@@ -53,10 +53,10 @@ unzip file.zip
 diff -c scan-a.txt scan-b.txt
 
 comm scan-a.txt scan-b.txt
+```
 
- 
-### Transferencia de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#transferencia-de-archivos)
-
+### Transferencia de archivos
+```python 
 #HTTP
 
 #Servidor
