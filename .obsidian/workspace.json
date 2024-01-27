@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enviar archivos con netcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce1423f9a5c0de97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Comandos/Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enviar archivos con netcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+                "file": "GalileoQ/Comandos/Enviar archivos con netcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
+                "file": "GalileoQ/Comandos/Enviar archivos con netcat.md"
               }
             }
           }
@@ -148,16 +160,16 @@
   },
   "active": "e94c9a7274c98814",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Técnicas fundamentales.md",
+    "GalileoQ/Comandos/Enviar archivos con netcat.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
-    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
