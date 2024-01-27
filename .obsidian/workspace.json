@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Linux.md",
+                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md"
+                "file": "GalileoQ/Escalada de privilegios/Linux.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "7626b59837ab1966",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/Linux.md",
+    "GalileoQ/Comandos/Técnicas fundamentales.md",
+    "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Enumeracion web.md",
@@ -174,7 +176,6 @@
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Comandos/Eliminar sistema.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
-    "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
@@ -186,7 +187,6 @@
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
