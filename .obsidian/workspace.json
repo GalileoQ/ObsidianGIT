@@ -160,8 +160,9 @@
   },
   "active": "3d5201343fcf0709",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/Linux.md",
+    "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
@@ -185,7 +186,6 @@
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",

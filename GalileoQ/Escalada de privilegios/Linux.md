@@ -10,6 +10,14 @@
 	
 	find / -perm -4000 2>/dev/null
 ```
+### escalada de privilegios con cat
+
+```python
+	/bin/cat /etc/shadow
+```
+
+
+
 ### Capabilities
 
 ```python
