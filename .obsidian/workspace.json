@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -143,7 +143,7 @@
   "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Escalada",
-    "GalileoQ/Tecnica",
+    "GalileoQ/Comandos",
     "GalileoQ/Entorno",
     "GalileoQ/Maquinas",
     "GalileoQ/Maquinas",
