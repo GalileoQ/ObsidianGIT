@@ -142,6 +142,12 @@
   },
   "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Entornos/modificaciones del Entorno.md",
+    "GalileoQ/Entornos/Instalar BSPWM.md",
+    "GalileoQ/Entornos/Keyboard shortcuts.md",
+    "GalileoQ/Entornos/Actualizar Kali-Linux.md",
+    "GalileoQ/Entornos/Instalar bat.md",
+    "GalileoQ/Entornos",
     "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Técnicas/Uso de nmap.md",
     "GalileoQ/Técnicas/Técnicas avanzadas.md",
@@ -165,13 +171,8 @@
     "GalileoQ/Escaneo de puertos/nmap potente.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",
-    "GalileoQ/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Scripts",
     "GalileoQ/Nueva carpeta",
-    "GalileoQ/Escaneo de puertos/ping con nmap.md",
-    "GalileoQ/Escaneo de puertos/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
-    "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
@@ -187,7 +188,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "Curso/Hacking Con S4vitar",
     "GalileoQ/Comandos maquina",
-    "entorno",
     "Sin título.canvas"
   ]
 }
