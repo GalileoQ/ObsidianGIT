@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e97feedfef1908ca",
+        "id": "ab8f8f9d98836f07",
         "type": "tabs",
         "children": [
           {
-            "id": "e170e5a7f2449a29",
+            "id": "81bfb003d9ca506d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,6 +142,9 @@
   },
   "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Shell/OneLiners.md",
+    "GalileoQ/Scripts/Script Try Hack Me.md",
+    "GalileoQ/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
@@ -165,9 +168,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Chill Hack.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Brute-It.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Maquinas/TryHackMe",
