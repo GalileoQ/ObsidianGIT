@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16c45e119b99ba56",
+        "id": "e97feedfef1908ca",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ed5f369bd2cf02",
+            "id": "e170e5a7f2449a29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Técnicas/Enumeracion web.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d8ed5f369bd2cf02",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
