@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Escaneo nmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "325a30e1dd281012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Comandos/ping con nmap.md",
+                "file": "GalileoQ/Comandos/Uso de nmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/ping con nmap.md",
+                "file": "GalileoQ/Comandos/Uso de nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/ping con nmap.md",
+                "file": "GalileoQ/Comandos/Uso de nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/ping con nmap.md"
+                "file": "GalileoQ/Comandos/Uso de nmap.md"
               }
             }
           }
@@ -159,12 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "325a30e1dd281012",
+  "active": "d8ed5f369bd2cf02",
   "lastOpenFiles": [
-    "GalileoQ/Comandos/Escaneo nmap.md",
+    "GalileoQ/Comandos/ping con nmap.md",
+    "GalileoQ/Comandos/Uso de nmap.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Enumeracion web.md",
-    "GalileoQ/Comandos/ping con nmap.md",
     "GalileoQ/Escaneo de puertos/nmap potente.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",
