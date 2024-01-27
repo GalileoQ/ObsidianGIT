@@ -1,9 +1,8 @@
  
 
-### Tratamiento de la TTY[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#tratamiento-de-la-tty)
+### Tratamiento de la TTY
 
 ```python
-
 script /dev/null -c bash # Lanza pseudoconsola
 
 [ctrl+z] # Suspende la shell actual
@@ -23,8 +22,7 @@ export SHELL=bash # Asigna bash a la variable SHELL
 stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
 
 Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
-
- 
+ ```
 ### Lanzar una TTY Shell con Python[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#lanzar-una-tty-shell-con-python)
 
 python -c 'import pty; pty.spawn("/bin/sh")'
@@ -128,8 +126,10 @@ office2john.py <Ruta_Documento> > <Archivo_hash>
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 
 ``` 
-```
-### Búsqueda de exploits[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#busqueda-de-exploits)
+
+### Búsqueda de exploits
+```python
+
 searchsploit <SOFTWARE>
 
 searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
