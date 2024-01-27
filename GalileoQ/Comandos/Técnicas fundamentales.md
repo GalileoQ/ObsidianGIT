@@ -116,7 +116,6 @@ john --wordlist=<Ruta_Diccionario> <Archivo_hash>
 ### Cracking de documentos encriptados de Office
 
 ```python 
-
 office2john.py <Ruta_Documento> > <Archivo_hash>
 
 john --wordlist=<Ruta_Diccionario> <Archivo_hash>
