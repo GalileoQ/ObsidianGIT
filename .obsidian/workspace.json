@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "9426c8787e0abdc9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
+    "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chill Hack.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Brute-It.md",
@@ -165,9 +169,7 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "2023-10-29_23-17.png.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
-    "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -176,8 +178,6 @@
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Linux/Scripts",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
