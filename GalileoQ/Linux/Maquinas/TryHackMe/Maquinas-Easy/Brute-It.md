@@ -52,4 +52,4 @@ nos dicen que el username de la pagina es admin
 ![[Pasted image 20231113033200.png]]
 ### cambiamos de usuario con su root
 ![[Pasted image 20231113033453.png]]
-### ya somos root
+### WE ARE ROOT
