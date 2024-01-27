@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
+                "file": "GalileoQ/Comandos/Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Buscar subdominios con ffuz.md"
+                "file": "GalileoQ/Comandos/Técnicas fundamentales.md"
               }
             }
           }
@@ -158,8 +159,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e94c9a7274c98814",
+  "active": "ce1423f9a5c0de97",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
@@ -170,11 +175,7 @@
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/Enviar archivos con netcat.md",
-    "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
-    "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Buscador de archivos.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
