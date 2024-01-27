@@ -1,15 +1,16 @@
 ### Enumeración del sistema[](#enumeracion-del-sistema)
+
 ```python
-
-systeminfo
-
-systeminfo | findstr /B /C: "OS Name" /C: "OS Version" /C: "System Type"
-
-wmic qfe get Caption, Description, HotFixID, InstalledOn #Muestra actualizaciones del sistema
-
-wmic logicaldisk get caption, description, providername #Muestra discos
+	systeminfo
+	
+	systeminfo | findstr /B /C: "OS Name" /C: "OS Version" /C: "System Type"
+	
+	wmic qfe get Caption, Description, HotFixID, InstalledOn #Muestra actualizaciones del sistema
+	
+	wmic logicaldisk get caption, description, providername #Muestra discos
 ```
 ### Enumeración de usuarios[](#enumeracion-de-usuarios)
+
 ```python
 whoami
 
@@ -24,7 +25,7 @@ net user <USUARIO>
 net localgroup
 
 net localgroup <GRUPO>
-
+```
 #### 
 
 Enumeración de red[](#enumeracion-de-red)
