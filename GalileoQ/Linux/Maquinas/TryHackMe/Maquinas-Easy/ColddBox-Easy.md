@@ -54,3 +54,4 @@ ya estamos dentro
 el usuario c0ldd puede ejecutar los siguientes comandos como root....
 usaremos el comando chmod para cambiar los permisos de la bash y asi poder spaunear una bash como root
 ![[Pasted image 20240106141327.png]]
+### WE ARE ROOT
