@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md"
+                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6208c7c17e89991c",
   "lastOpenFiles": [
-    "GITHUB/path imagen.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
+    "GITHUB/path imagen.md",
     "GITHUB/1.md",
     "GITHUB/cabezera nueva.md",
     "GITHUB/cabezera post.md",
