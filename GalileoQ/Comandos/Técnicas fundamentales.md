@@ -97,10 +97,10 @@ nc -lvnp 4242 > file.tgz
 ```python
 tcpdump -i tun0 icmp -n
  
-```-ythi
 ```
-### Cracking[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#cracking)
+### Cracking
 
+```python
 #Básico
 
 john --wordlist=/usr/share/wordlists/rockyou.txt hash
