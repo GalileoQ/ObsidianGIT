@@ -11,8 +11,12 @@
             "id": "e170e5a7f2449a29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Técnicas/Técnicas fundamentales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Técnicas/Enumeracion web.md",
+                "file": "GalileoQ/Técnicas/Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Técnicas/Enumeracion web.md",
+                "file": "GalileoQ/Técnicas/Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Técnicas/Enumeracion web.md"
+                "file": "GalileoQ/Técnicas/Técnicas fundamentales.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "e170e5a7f2449a29",
   "lastOpenFiles": [
+    "GalileoQ/Técnicas/Enumeracion web.md",
     "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Shell",
@@ -161,7 +166,6 @@
     "GalileoQ/Entornos",
     "GalileoQ/Técnicas/Uso de nmap.md",
     "GalileoQ/Técnicas/Técnicas avanzadas.md",
-    "GalileoQ/Técnicas/Enumeracion web.md",
     "GalileoQ/Técnicas/Pivoting.md",
     "GalileoQ/Técnicas",
     "GalileoQ/Técnicass/Uso de nmap.md",
