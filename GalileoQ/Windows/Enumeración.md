@@ -57,8 +57,7 @@ where /r c:\ file.txt
 Get-ChildItem -Path C:\Myfolder -Filter file.txt -Recurs
 ```
 ### Búsqueda de credenciales[](#busqueda-de-credenciales)
-```pyth
-```
+```python
 #Valores en el registro que contengan la string “password”
 
 reg query HKLM /f password /t REG_SZ /s
@@ -84,7 +83,7 @@ GitHub
 
 
 ](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md#eop---looting-for-passwords)
-
+```
 #### 
 
 Enumeración de antivirus[](#enumeracion-de-antivirus)
