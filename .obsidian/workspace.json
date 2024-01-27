@@ -11,8 +11,12 @@
             "id": "25acc403ad4f5b50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Windows/Enumeracion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Windows/Enumeracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Windows/Enumeracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Windows/Enumeracion.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "25acc403ad4f5b50",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Enumeracion.md",
+    "GalileoQ/Windows",
+    "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Shell",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
@@ -167,15 +178,12 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Git Happens.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
     "GalileoQ/Linux/Maquinas/HackTheBox",
     "GalileoQ/Linux/Maquinas",
     "GalileoQ/Linux/Escalada",
-    "GalileoQ/Linux/Entorno",
-    "GalileoQ/Linux/1-Tecnicas",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
