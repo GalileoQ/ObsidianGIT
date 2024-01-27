@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "41d46ab1f82f3ea6",
+        "id": "6d45f1236b4742c2",
         "type": "tabs",
         "children": [
           {
-            "id": "13eb23ecda4b8a90",
+            "id": "bcb2c5dcf2405872",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md"
+                "file": "2023-10-29_23-17.png.md"
               }
             }
           }
@@ -146,8 +140,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "13eb23ecda4b8a90",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "2023-10-29_23-17.png.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
@@ -176,8 +172,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian_Yu.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
