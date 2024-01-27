@@ -45,11 +45,9 @@ arp -a
 route print
 
 netstat -ano
-
-#### 
-
-Búsqueda de archivos[](#busqueda-de-archivos)
-
+```
+### Búsqueda de archivos[](#busqueda-de-archivos)
+```python
 #CMD
 
 where /r c:\ file.txt
@@ -57,11 +55,10 @@ where /r c:\ file.txt
 #Powershell
 
 Get-ChildItem -Path C:\Myfolder -Filter file.txt -Recurs
-
-#### 
-
-Búsqueda de credenciales[](#busqueda-de-credenciales)
-
+```
+### Búsqueda de credenciales[](#busqueda-de-credenciales)
+```pyth
+```
 #Valores en el registro que contengan la string “password”
 
 reg query HKLM /f password /t REG_SZ /s
