@@ -73,4 +73,4 @@ debido a que podemos ejecutar less como sudo. podemos crear un archivo de texto 
 ```python
 	!/bin/bash
 ```
-esto nos hace root
+### WE ARE ROOT
