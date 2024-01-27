@@ -32,7 +32,7 @@ python -c 'import pty; pty.spawn("/bin/sh")'
  
 
 ### Descompresión
-``
+```python
 #.tar
 
 tar -xf archive.tar.gz
@@ -44,11 +44,12 @@ gzip -d file.gz
 #.zip
 
 unzip file.zip
-`` 
+```
+
  
 
-### Comparación de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#comparacion-de-archivos)
-
+### Comparación de archivos
+```python
 diff -c scan-a.txt scan-b.txt
 
 comm scan-a.txt scan-b.txt
