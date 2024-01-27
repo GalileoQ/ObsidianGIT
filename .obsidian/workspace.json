@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4578b6e94eed3c91",
+        "id": "16c45e119b99ba56",
         "type": "tabs",
         "children": [
           {
-            "id": "7626b59837ab1966",
+            "id": "d8ed5f369bd2cf02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escaneo de puertos/nmap potente.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/nmap potente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escaneo de puertos/nmap potente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Escaneo de puertos/nmap potente.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7626b59837ab1966",
+  "active": "d8ed5f369bd2cf02",
   "lastOpenFiles": [
+    "GalileoQ/Escaneo de puertos/nmap potente.md",
+    "GalileoQ/Comandos/Enumerar capabilitis.md",
+    "GalileoQ/Scripts/Script Try Hack Me.md",
+    "GalileoQ/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Scripts",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Escaneo de puertos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Escaneo de puertos/Script Try Hack Me.md",
-    "GalileoQ/Escaneo de puertos/nmap potente.md",
     "GalileoQ/Escaneo de puertos/script safe thm_vpn.md",
     "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Escalada de privilegios/Linux.md",
@@ -162,7 +158,6 @@
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
-    "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Enumeracion web.md",
     "GalileoQ/Entornos/modificaciones del Entorno.md",
@@ -173,7 +168,6 @@
     "GalileoQ/Comandos/Eliminar sistema.md",
     "GalileoQ/Comandos/generar claves hash con openssl.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
@@ -192,8 +186,6 @@
     "entorno",
     "GITHUB",
     "G41i130Q.github.io/_posts/HackTheBox",
-    "G41i130Q.github.io/_tabs",
-    "G41i130Q.github.io/_posts",
     "Sin título.canvas"
   ]
 }
