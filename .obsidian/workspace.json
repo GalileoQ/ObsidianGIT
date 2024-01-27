@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07ebe2afb6017d38",
+        "id": "61f42aa74c9a81ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b48ca09ebbac47f2",
+            "id": "a4c85a1aa139b83a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b48ca09ebbac47f2",
+  "active": "a4c85a1aa139b83a",
   "lastOpenFiles": [
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Shell/OneLiners.md",
