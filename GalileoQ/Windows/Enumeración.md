@@ -69,20 +69,6 @@ reg query "HKLM\Software\Microsoft\Windows NT\CurrentVersion\winlogon"
 #Lista contraseñas guardadas
 
 cmdkey /list
-
-[
-
-![](https://github.com/fluidicon.png)
-
-PayloadsAllTheThings/Windows - Privilege Escalation.md at master · swisskyrepo/PayloadsAllTheThings
-
-GitHub
-
-
-
-
-
-](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md#eop---looting-for-passwords)
 ```
 #### 
 
