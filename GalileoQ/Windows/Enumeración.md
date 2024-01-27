@@ -80,7 +80,7 @@ netsh advfirewall firewall dump
 ```
 ### Enumeración con herramientas automáticas[](#enumeracion-con-herramientas-automaticas)
 
-[https://github.com/fluidicon.png)
+[
 
 Release Release refs/heads/master 20230108 · carlospolop/PEASS-ng
 
