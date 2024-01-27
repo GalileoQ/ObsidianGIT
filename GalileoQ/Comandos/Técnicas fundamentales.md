@@ -23,12 +23,11 @@ stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
 
 Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
  ```
-### Lanzar una TTY Shell con Python[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#lanzar-una-tty-shell-con-python)
+### TTY Shell con Python
 
+```python
 python -c 'import pty; pty.spawn("/bin/sh")'
 ```
- 
-
 ### Descompresión
 ```python
 #.tar
@@ -44,9 +43,7 @@ gzip -d file.gz
 unzip file.zip
 ```
 
- 
-
-### Comparación de archivos
+ ### Comparación de archivos
 ```python
 diff -c scan-a.txt scan-b.txt
 
