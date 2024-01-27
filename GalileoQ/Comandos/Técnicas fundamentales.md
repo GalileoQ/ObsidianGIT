@@ -1,6 +1,6 @@
  
 
-####Tratamiento de la TTY[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#tratamiento-de-la-tty)
+### Tratamiento de la TTY[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#tratamiento-de-la-tty)
 
 script /dev/null -c bash # Lanza pseudoconsola
 
@@ -22,15 +22,14 @@ stty rows <VALOR_FILAS> columns <VALOR_COLUMNAS>
 
 Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
 
-#### 
-
-Lanzar una TTY Shell con Python[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#lanzar-una-tty-shell-con-python)
+ 
+### Lanzar una TTY Shell con Python[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#lanzar-una-tty-shell-con-python)
 
 python -c 'import pty; pty.spawn("/bin/sh")'
 
-#### 
+ 
 
-Descompresión[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#descompresion)
+### Descompresión[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#descompresion)
 
 #.tar
 
@@ -44,17 +43,16 @@ gzip -d file.gz
 
 unzip file.zip
 
-#### 
+ 
 
-Comparación de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#comparacion-de-archivos)
+### Comparación de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#comparacion-de-archivos)
 
 diff -c scan-a.txt scan-b.txt
 
 comm scan-a.txt scan-b.txt
 
-#### 
-
-Transferencia de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#transferencia-de-archivos)
+ 
+### Transferencia de archivos[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#transferencia-de-archivos)
 
 #HTTP
 
