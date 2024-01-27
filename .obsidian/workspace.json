@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "9426c8787e0abdc9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
