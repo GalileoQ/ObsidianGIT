@@ -1,4 +1,4 @@
-### Enumeración del sistema[](#enumeracion-del-sistema)
+### Enumeración del sistema
 
 ```python
 	systeminfo

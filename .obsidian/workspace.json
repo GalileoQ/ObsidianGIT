@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02fbe3e76de3eac5",
+        "id": "233d8173c89debd0",
         "type": "tabs",
         "children": [
           {
-            "id": "25acc403ad4f5b50",
+            "id": "78a6b54f7d2bffc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Windows/Enumeración.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "25acc403ad4f5b50",
+  "active": "78a6b54f7d2bffc9",
   "lastOpenFiles": [
+    "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
@@ -177,7 +170,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Git Happens.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
