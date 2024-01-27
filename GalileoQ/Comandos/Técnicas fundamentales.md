@@ -128,3 +128,9 @@ searchsploit -x <ID_EXPLOIT> # Inspeccionar el código del exploit
 
 searchsploit -m <ID_EXPLOIT> # Mueve el exploit al directorio actual de trabajo
 ```
+### Buscador de archivos
+
+```python
+find / -iname nombre_archivo
+```
+### 
