@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+                "file": "GalileoQ/Comandos/Técnicas avanzadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dafc88b447ad58b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Comandos/generar claves hash con openssl.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+                "file": "GalileoQ/Comandos/generar claves hash con openssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
+                "file": "GalileoQ/Comandos/generar claves hash con openssl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md"
+                "file": "GalileoQ/Comandos/generar claves hash con openssl.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ce15da2b0d3d90",
+  "active": "dafc88b447ad58b3",
   "lastOpenFiles": [
+    "GalileoQ/Comandos/Técnicas avanzadas.md",
     "GalileoQ/Comandos/Técnicas fundamentales.md",
     "GalileoQ/Comandos/Enumeracion web.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
-    "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Enumerar capabilitis.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
     "GalileoQ/Comandos/Subdominios con Wfuzz.md",
