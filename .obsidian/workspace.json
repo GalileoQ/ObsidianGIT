@@ -11,8 +11,12 @@
             "id": "81bfb003d9ca506d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Técnicas/Técnicas fundamentales.md"
+                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md"
               }
             }
           }
@@ -140,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "81bfb003d9ca506d",
   "lastOpenFiles": [
+    "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",
     "GalileoQ/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
@@ -165,9 +174,6 @@
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
-    "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Maquinas/TryHackMe",
