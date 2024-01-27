@@ -140,4 +140,4 @@ searchsploit -m <ID_EXPLOIT> # Mueve el exploit al directorio actual de trabajo
 ```python
 find / -iname nombre_archivo
 ```
-### 
+### Fuerxa bruta con hydra para ssh
