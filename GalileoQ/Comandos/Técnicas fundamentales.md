@@ -1,5 +1,4 @@
  
-
 ### Tratamiento de la TTY
 
 ```python
