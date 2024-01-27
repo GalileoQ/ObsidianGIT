@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "233d8173c89debd0",
+        "id": "41d46ab1f82f3ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "78a6b54f7d2bffc9",
+            "id": "13eb23ecda4b8a90",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "78a6b54f7d2bffc9",
+  "active": "13eb23ecda4b8a90",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Windows",
@@ -168,8 +170,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian_Yu.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Git Happens.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
