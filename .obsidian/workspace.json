@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d5201343fcf0709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7626b59837ab1966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/Linux.md",
+                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
+                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md"
+                "file": "GalileoQ/Comandos/script para crear una lista de hash en el rango 0 al 100.md"
               }
             }
           }
@@ -158,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d5201343fcf0709",
+  "active": "7626b59837ab1966",
   "lastOpenFiles": [
+    "GalileoQ/Escaneo de puertos/ping con nmap.md",
     "GalileoQ/Escalada de privilegios/Linux.md",
     "GalileoQ/Escalada de privilegios/cambiar de usuario con sudo.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
@@ -185,7 +174,6 @@
     "GalileoQ/Comandos/steghide extraer info de imagenes jpg o png.md",
     "GalileoQ/Comandos/ssh2john para id_rsa encriptada.md",
     "GalileoQ/Comandos/Hydra para ssh.md",
-    "GalileoQ/Comandos/Enviar archivos con netcat.md",
     "imagenes/anonforce.jpg",
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",

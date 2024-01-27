@@ -10,6 +10,9 @@
 ```
 ### cambiar de usuario con sudo
 
+```python
+	sudo -u#-1
+```
 ### Capabilities
 
 ```python
