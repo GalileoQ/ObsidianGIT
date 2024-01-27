@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94c6a805aadc2a10",
+        "id": "07ebe2afb6017d38",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5abbce4223a6ab",
+            "id": "b48ca09ebbac47f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4d5abbce4223a6ab",
+  "active": "b48ca09ebbac47f2",
   "lastOpenFiles": [
-    "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+    "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
     "GalileoQ/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
