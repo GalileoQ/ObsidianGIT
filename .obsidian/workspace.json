@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Windows/Enumeración.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "9426c8787e0abdc9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
+    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chill Hack.md",
@@ -157,7 +161,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "2023-10-29_23-17.png.md",
@@ -175,9 +178,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
