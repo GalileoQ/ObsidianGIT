@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/1-Tecnicas/Enumeracion web.md"
+                "file": "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "81bfb003d9ca506d",
   "lastOpenFiles": [
-    "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Técnicas/Técnicas fundamentales.md",
     "GalileoQ/Shell/OneLiners.md",
     "GalileoQ/Scripts/Script Try Hack Me.md",

@@ -22,6 +22,7 @@
 	
 	Para ver el valor de filas y columnas de nuestra terminal se utiliza el comando -> stty -a
  ```
+ 
 ### TTY Shell con Python
 
 ```python
