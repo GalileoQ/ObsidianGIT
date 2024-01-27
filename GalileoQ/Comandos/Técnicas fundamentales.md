@@ -66,7 +66,7 @@
 	
 	wget http://<SERVER_IP>/file.txt
 ```
-###### FTP
+### FTP
 ```python
 #Servidor
 	
@@ -76,7 +76,7 @@
 	
 	ftp <SERVER_IP>
 ```
-###### Netcat
+### Netcat
 ```python
 
 #Servidor
@@ -94,7 +94,7 @@
 	nc "IP" "Ports" < "archivo"
 
 ```
-###### ssh
+### ssh
 
 ```python
 scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
