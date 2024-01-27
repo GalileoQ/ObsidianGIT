@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 473.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md"
+                "file": "GalileoQ/Comandos/fuerza bruta web con hydra.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   "active": "e94c9a7274c98814",
   "lastOpenFiles": [
     "GalileoQ/Comandos/Técnicas fundamentales.md",
-    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/fuerza bruta web con hydra.md",
+    "GalileoQ/Comandos/Enviar archivos mediante ssh con scp.md",
     "GalileoQ/Comandos/decifrar claves PuTTY key a id_rsa.md",
     "GalileoQ/Comandos/Buscar subdominios con ffuz.md",
     "GalileoQ/Comandos/Enumerar plugins Wp.md",
