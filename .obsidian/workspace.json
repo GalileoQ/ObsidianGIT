@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+                "file": "GalileoQ/Escalada de privilegios/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md"
+                "file": "GalileoQ/Escalada de privilegios/Linux.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d5201343fcf0709",
+  "active": "7626b59837ab1966",
   "lastOpenFiles": [
-    "GalileoQ/Escalada de privilegios/Linux.md",
     "GalileoQ/Escalada de privilegios/sudo wget escalada de privilegios.md",
+    "GalileoQ/Escalada de privilegios/Linux.md",
     "GalileoQ/Escalada de privilegios/sudo perl Escalada de privilegios.md",
     "GalileoQ/Escalada de privilegios/sudo cat escalada de privilegios con cat.md",
     "GalileoQ/Escalada de privilegios/Buscar binarios para escalada de privilegios.md",

