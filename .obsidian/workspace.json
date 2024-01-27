@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BrokingNiveNive.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "7b85fe2ce8ad9ed9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Bounty Hacker.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
@@ -175,9 +178,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Simple CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Overpass.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
