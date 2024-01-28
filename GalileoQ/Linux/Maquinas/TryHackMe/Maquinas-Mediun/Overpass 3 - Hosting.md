@@ -20,4 +20,8 @@ Nmap done: 1 IP address (1 host up) scanned in 13.86 seconds
 ### Ports: 21/ftp - 22/ssh - 80/http
 
 ### Enumeracion del puerto 80/http
+
 ![[Pasted image 20240128163523.png]]
+tenemos un archivo llamado backups
+
+### tenemos un archivo llamado 
