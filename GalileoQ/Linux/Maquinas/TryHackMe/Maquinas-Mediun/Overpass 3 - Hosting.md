@@ -32,4 +32,5 @@ vamos a agregar la clave privada al archivo
 ![[Pasted image 20240128164456.png]]
 hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
 
-### miramos el archivo con una herramien
+### miramos el archivo con una herramienta online
+![[Pasted image 20240128164700.png]]
