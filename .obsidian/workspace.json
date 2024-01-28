@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2badf88396aff5d5",
+        "id": "c125c5e128cd9247",
         "type": "tabs",
         "children": [
           {
-            "id": "9426c8787e0abdc9",
+            "id": "ac7f90daac868b7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9426c8787e0abdc9",
+  "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
@@ -176,7 +169,6 @@
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Shell",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
-    "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Linux/Scripts",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
