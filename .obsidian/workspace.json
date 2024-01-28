@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -158,15 +159,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac7f90daac868b7b",
+  "active": "d34504a6ffb69c02",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "Pasted image 20240128165309.png",
     "Pasted image 20240128164700.png",
     "Pasted image 20240128164456.png",
     "Pasted image 20240128163757.png",
     "Pasted image 20240128163523.png",
-    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
@@ -205,7 +206,6 @@
     "imagenes/Pasted image 20240120233508.png",
     "imagenes/Pasted image 20240120232953.png",
     "imagenes/Pasted image 20240120232752.png",
-    "imagenes/Pasted image 20240120232025.png",
     "Sin título.canvas"
   ]
 }
