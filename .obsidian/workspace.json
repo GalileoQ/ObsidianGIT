@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d34504a6ffb69c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac7f90daac868b7b",
+  "active": "d34504a6ffb69c02",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
