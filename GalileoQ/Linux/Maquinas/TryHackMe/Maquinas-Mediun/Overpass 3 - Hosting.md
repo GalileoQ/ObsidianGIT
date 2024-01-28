@@ -17,3 +17,7 @@ Service Info: OS: Unix
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 13.86 seconds
 ```
+
+
+
+![[Pasted image 20240128163523.png]]
