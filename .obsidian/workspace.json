@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "d34504a6ffb69c02",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "Pasted image 20240128165309.png",
