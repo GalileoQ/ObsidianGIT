@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
+                "file": "GalileoQ/Windows/Enumeración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md"
+                "file": "GalileoQ/Windows/Enumeración.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
