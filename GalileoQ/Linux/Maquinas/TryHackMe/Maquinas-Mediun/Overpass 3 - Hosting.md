@@ -30,4 +30,6 @@ vamos a agregar la clave privada al archivo
 
 ### pgp decrypt
 ![[Pasted image 20240128164456.png]]
-hemos guardado la salida en un nuevo archivo llamado CustomerDetails.
+hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
+
+### miramos el archivo con una herramien
