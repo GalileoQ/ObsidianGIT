@@ -27,3 +27,5 @@ tenemos un archivo llamado backups
 ### tenemos un archivo pgp
 vamos a agregar la clave privada al archivo 
 ![[Pasted image 20240128163757.png]]
+
+### 
