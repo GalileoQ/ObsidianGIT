@@ -34,3 +34,6 @@ hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
 
 ### miramos el archivo con una herramienta online
 ![[Pasted image 20240128164700.png]]
+tenemos 3 usuarios y 3 password
+
+### f
