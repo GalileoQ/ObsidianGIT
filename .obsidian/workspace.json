@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -172,8 +174,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "2023-10-29_23-17.png.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/GamingServer.md",
-    "Template Pentesting Notes/1.2 - Servicios & Versiones.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
