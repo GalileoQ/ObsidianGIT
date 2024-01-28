@@ -24,4 +24,6 @@ Nmap done: 1 IP address (1 host up) scanned in 13.86 seconds
 ![[Pasted image 20240128163523.png]]
 tenemos un archivo llamado backups
 
-### tenemos un archivo llamado 
+### tenemos un archivo pgp
+vamos a agregar la clave privada al archivo 
+![[Pasted image 20240128163757.png]]
