@@ -36,4 +36,5 @@ hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
 ![[Pasted image 20240128164700.png]]
 tenemos 3 usuarios y 3 password
 
-### f
+### Enumeracion del puerto 21/fftp
+![[Pasted image 20240128165309.png]]
