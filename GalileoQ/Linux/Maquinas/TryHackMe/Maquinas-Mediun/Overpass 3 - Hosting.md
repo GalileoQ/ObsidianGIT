@@ -28,4 +28,6 @@ tenemos un archivo llamado backups
 vamos a agregar la clave privada al archivo 
 ![[Pasted image 20240128163757.png]]
 
-### 
+### pgp decrypt
+![[Pasted image 20240128164456.png]]
+hemos guardado la salida en un nuevo archivo llamado CustomerDetails.
