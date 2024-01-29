@@ -66,9 +66,9 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 ![[Pasted image 20240129183828.png]]
 
 ### vamos a configurar el Port Forwarding 
-primero lan
+primero lanzamos el siguiente comando
 ```python 
-
+	-run autoroute -s IP 
 ```
 ![[Pasted image 20240129190039.png]]
 
