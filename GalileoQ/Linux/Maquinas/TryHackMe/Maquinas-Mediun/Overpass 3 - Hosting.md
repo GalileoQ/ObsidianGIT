@@ -72,6 +72,8 @@ primero lanzamos el siguiente comando
 ```
 ![[Pasted image 20240129190039.png]]
 aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maquina victivo
+
+aqui vemos que 
 ![[Pasted image 20240129190149.png]]
 
 
