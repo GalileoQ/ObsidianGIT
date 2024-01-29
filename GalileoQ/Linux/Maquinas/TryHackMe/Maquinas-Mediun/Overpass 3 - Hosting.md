@@ -57,6 +57,9 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
 
 
+### linpeas
+
+![[Pasted image 20240129183544.png]]
 
 
 
