@@ -66,6 +66,10 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 ![[Pasted image 20240129183828.png]]
 
 ### vamos a configurar el Port Forwarding 
+primero lan
+```python 
+
+```
 ![[Pasted image 20240129190039.png]]
 
 ![[Pasted image 20240129190149.png]]
