@@ -71,7 +71,7 @@ primero lanzamos el siguiente comando
 	-run autoroute -s IP/victima
 ```
 ![[Pasted image 20240129190039.png]]
-aqui estamos seteando el puerto 2049 
+aqui 
 ![[Pasted image 20240129190149.png]]
 
 
