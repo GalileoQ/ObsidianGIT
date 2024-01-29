@@ -45,8 +45,4 @@ tenemos 3 usuarios y 3 password
 ### chisel
 ![[Pasted image 20240128233102.png]]
 
-
-1. sudo chown root:root nombre_del_archivo
-    
-
-Enviar mensaje a 🎙Room 2
+![[2024-01-29_00-47.png]]
