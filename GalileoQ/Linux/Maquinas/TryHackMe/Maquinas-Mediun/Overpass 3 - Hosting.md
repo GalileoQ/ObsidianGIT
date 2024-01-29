@@ -40,6 +40,34 @@ tenemos 3 usuarios y 3 password
 ![[Pasted image 20240128165309.png]]
 
 
+### msfconsole /multi/handler
+![[Pasted image 20240129174759.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### chisel
