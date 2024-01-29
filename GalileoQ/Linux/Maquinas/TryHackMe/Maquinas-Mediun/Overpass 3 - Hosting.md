@@ -53,8 +53,8 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 ![[Pasted image 20240129181718.png]]
 
 ###### set options
-![[Pasted image 20240129174759.png]]
-
+![[Pasted image 20240129182211.png]]
+LHOST(Local-Ip) LPORT()
 
 
 
