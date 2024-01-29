@@ -41,7 +41,9 @@ tenemos 3 usuarios y 3 password
 ### Enumeracion del puerto 21/fftp
 
 ![[Pasted image 20240128165309.png]]
-el usuario tenemos permisos de escritura en el servidio ftp asi que usaremos esto para subir una reverse shell
+el usuario paradox y la contraseña estan habilitados para ftp y tenemos permisos de escritura en el servicio ftp asi que usaremos esto para subir una reverse shell
+
+### msfvenom 
 
 ### msfconsole /multi/handler
 ![[Pasted image 20240129174759.png]]
