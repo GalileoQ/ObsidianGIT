@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d34504a6ffb69c02",
+  "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "Pasted image 20240128233102.png",
+    "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -190,8 +191,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",

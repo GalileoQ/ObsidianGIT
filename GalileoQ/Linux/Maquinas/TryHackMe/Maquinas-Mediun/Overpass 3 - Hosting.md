@@ -38,3 +38,9 @@ tenemos 3 usuarios y 3 password
 
 ### Enumeracion del puerto 21/fftp
 ![[Pasted image 20240128165309.png]]
+
+
+
+
+### chisel
+![[Pasted image 20240128233102.png]]
