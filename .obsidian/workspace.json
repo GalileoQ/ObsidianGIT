@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "Pasted image 20240128233102.png",
     "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
@@ -168,7 +169,6 @@
     "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "Pasted image 20240128165309.png",
     "Pasted image 20240128164700.png",
     "Pasted image 20240128164456.png",
@@ -205,7 +205,6 @@
     "imagenes/Pasted image 20240120233550.png",
     "imagenes/Pasted image 20240120233508.png",
     "imagenes/Pasted image 20240120232953.png",
-    "imagenes/Pasted image 20240120232752.png",
     "Sin título.canvas"
   ]
 }
