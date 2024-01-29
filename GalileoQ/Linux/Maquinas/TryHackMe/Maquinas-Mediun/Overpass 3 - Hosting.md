@@ -71,7 +71,7 @@ primero lanzamos el siguiente comando
 	-run autoroute -s IP/victima
 ```
 ![[Pasted image 20240129190039.png]]
-aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maquina 
+aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maquina victivo
 ![[Pasted image 20240129190149.png]]
 
 
