@@ -47,6 +47,8 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 
 ### msfconsole /multi/handler
 
+![[Pasted image 20240129181612.png]]
+
 ![[Pasted image 20240129174759.png]]
 
 
