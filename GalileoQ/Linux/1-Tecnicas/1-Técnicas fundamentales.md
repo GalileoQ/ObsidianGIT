@@ -154,4 +154,7 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```
 
 ### Cambo de usuario sobre archivos 
-``
+
+```python
+	sudo chown root:root nombre_del_archivo
+```
