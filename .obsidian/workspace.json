@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be274a779cd72d93",
+  "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "Pasted image 20240129174759.png",
     "2024-01-29_00-47.png",
