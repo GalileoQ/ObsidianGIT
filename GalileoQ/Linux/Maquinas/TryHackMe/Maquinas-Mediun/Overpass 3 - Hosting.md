@@ -33,7 +33,7 @@ vamos a agregar la clave privada al archivo
 ![[Pasted image 20240128164456.png]]
 hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
 
-### miramos el archivo con una herramienta online
+### miramos el archivo con una herramienta online para excel
 
 ![[Pasted image 20240128164700.png]]
 tenemos 3 usuarios y 3 password
@@ -41,7 +41,7 @@ tenemos 3 usuarios y 3 password
 ### Enumeracion del puerto 21/fftp
 
 ![[Pasted image 20240128165309.png]]
-tenemos permisos de escritura en el servidio ftp asi que usaremos esto para subir una reverse shell
+el usuario tenemos permisos de escritura en el servidio ftp asi que usaremos esto para subir una reverse shell
 
 ### msfconsole /multi/handler
 ![[Pasted image 20240129174759.png]]
