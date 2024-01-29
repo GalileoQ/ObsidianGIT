@@ -54,7 +54,7 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 
 ###### set options
 ![[Pasted image 20240129182211.png]]
-LHOST(Local-Ip) LPORT()
+LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
 
 
 
