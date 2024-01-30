@@ -67,7 +67,7 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 ![[Pasted image 20240129183828.png]]
 una vez termine el linpeas hacemos Ctrl z para enviar la bash a segundo plano 
 ### Configuración del Port Forwarding 
-primero lanzamos el siguiente comando
+
 ![[Pasted image 20240129211007.png]]
 aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maquina victivo
 
