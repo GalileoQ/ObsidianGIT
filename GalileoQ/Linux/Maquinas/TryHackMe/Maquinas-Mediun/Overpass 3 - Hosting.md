@@ -51,13 +51,9 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 
 ###### search /multi/handler
 ![[Pasted image 20240129181718.png]]
-
 ###### set options
-
 ![[Pasted image 20240129182211.png]]
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
-
-
 ### subimos linpeas
 
 ![[Pasted image 20240129183544.png]]
