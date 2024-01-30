@@ -109,6 +109,7 @@ podemos ver la id_rsa del usuario james
 
 
 
+
 ### chisel
 ![[Pasted image 20240128233102.png]]
 
