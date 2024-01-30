@@ -49,7 +49,7 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 
 ![[Pasted image 20240129181612.png]]
 
-###### /multi/handler
+###### search /multi/handler
 ![[Pasted image 20240129181718.png]]
 
 ###### set options
@@ -99,7 +99,7 @@ hacemos una copia binario /bin/bash a la montura de james y le cambiamos los per
 cp /bin/bash ~/Desktop/thm/Medium-Machine/Overpass3-Hosting/james > bash.sh
 ```
 ![[Pasted image 20240129210355.png]]
-
+### WE ARE ROOT
 
 
 
