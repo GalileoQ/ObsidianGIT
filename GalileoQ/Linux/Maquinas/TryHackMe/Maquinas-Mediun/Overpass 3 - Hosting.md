@@ -89,29 +89,13 @@ podemos ver la id_rsa del usuario james
 
 ![[Pasted image 20240129204652.png]]
 
-### /bin/bash
-hacemos una copia binario /bin/bash a la montura de james y le cambiamos los permisos y el propietario
+### Escalada de privilegios
+hacemos una copia binario /bin/bash a la montura de james y le cambiamos los permisos y el propietario desde la maquina atacante
 ```python
 cp /bin/bash ~/Desktop/thm/Medium-Machine/Overpass3-Hosting/james > bash.sh
 ```
 ![[Pasted image 20240129210355.png]]
 ### WE ARE ROOT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### chisel
-![[Pasted image 20240128233102.png]]
 
 ![[2024-01-29_00-47.png]]
