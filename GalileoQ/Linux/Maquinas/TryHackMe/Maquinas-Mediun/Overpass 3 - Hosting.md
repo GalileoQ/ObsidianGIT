@@ -48,7 +48,7 @@ creamos un payload
 buscaremos la options /multi/handler
 ![[Pasted image 20240129212916.png]]
 ###### set options
-![[Pasted image 20240129182211.png]]
+![[Pasted image 20240129213550.png]]
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
 ### subimos linpeas
 
