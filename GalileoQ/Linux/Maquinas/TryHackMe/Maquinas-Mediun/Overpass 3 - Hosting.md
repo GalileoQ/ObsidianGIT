@@ -73,6 +73,8 @@ aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maqui
 
 aqui vemos que  tenemos una sesión activa. 
 ![[Pasted image 20240129190149.png]]
+### Configuración del Port Forwarding con chisel (Opcional/solo)
+![[Pasted image 20240128233102.png]]
 ###### verificamos que tenemos conecxion en el puerto
 ![[Pasted image 20240129201003.png]]
 ### Creamos la montura
