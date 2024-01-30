@@ -27,12 +27,10 @@ tenemos un archivo llamado backups
 ### tenemos un archivo pgp
 vamos a agregar la clave privada al archivo 
 ![[Pasted image 20240128163757.png]]
-
 ### pgp decrypt
 
 ![[Pasted image 20240128164456.png]]
 hemos guardado la salida en un nuevo archivo llamado CustomerDetails.xlsx
-
 ### miramos el archivo con una herramienta online para excel
 
 ![[Pasted image 20240128164700.png]]
