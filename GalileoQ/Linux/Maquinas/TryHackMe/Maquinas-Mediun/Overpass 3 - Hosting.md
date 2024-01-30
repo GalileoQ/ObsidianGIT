@@ -65,7 +65,7 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 ### vulnerabilidad *(rw,fsid=0,sync,no_root_squash,insecure)
 
 ![[Pasted image 20240129183828.png]]
-
+una vez termine el linpeas hacemos Ctrl z para enviar la bash a segundo plano 
 ### Configuración del Port Forwarding 
 primero lanzamos el siguiente comando
 ```python 
