@@ -86,7 +86,8 @@ creamos un directorio en este caso lo llamare james y creamos la montura dentro 
 podemos ver la id_rsa del usuario james
 ![[Pasted image 20240129203631.png]]
 
-
+###### hacemos un cat para copiar la id_rsa
+![[Pasted image 20240129203926.png]]
 
 
 
