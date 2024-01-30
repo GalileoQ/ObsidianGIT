@@ -83,14 +83,11 @@ creamos un directorio en este caso lo llamare james y creamos la montura dentro 
 ### ssh james
 podemos ver la id_rsa del usuario james
 ![[Pasted image 20240129203631.png]]
-
 ###### hacemos un cat para copiar la id_rsa
 ![[Pasted image 20240129203926.png]]
-
 ### Conexion ssh con usuario james
 
 ![[Pasted image 20240129204652.png]]
-
 ### Escalada de privilegios
 hacemos una copia binario /bin/bash a la montura de james y le cambiamos los permisos y el propietario desde la maquina atacante
 ```python
@@ -98,6 +95,5 @@ cp /bin/bash ~/Desktop/thm/Medium-Machine/Overpass3-Hosting/james > bash.sh
 ```
 ![[Pasted image 20240129210355.png]]
 ### WE ARE ROOT
-
 
 ![[2024-01-29_00-47.png]]
