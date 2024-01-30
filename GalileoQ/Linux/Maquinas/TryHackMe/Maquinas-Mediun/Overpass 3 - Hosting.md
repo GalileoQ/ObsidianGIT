@@ -78,8 +78,8 @@ aqui vemos que  tenemos una sesión activa.
 ![[Pasted image 20240129190149.png]]
 ###### verificamos que tenemos conecxion en el puerto
 ![[Pasted image 20240129201003.png]]
-### cre
-
+### Creamos la montura
+creamos un directorio en este caso lo llamare james y creamos la montura dentro de
 ![[Pasted image 20240129201344.png]]
 
 
