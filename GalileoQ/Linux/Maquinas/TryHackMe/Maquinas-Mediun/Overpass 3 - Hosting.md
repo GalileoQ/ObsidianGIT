@@ -63,7 +63,7 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 ![[Pasted image 20240129183544.png]]
 
 ### vulnerabilidad *(rw,fsid=0,sync,no_root_squash,insecure)
-
+esta vulnerabilidad nos indica que podemos crear una montura de /h
 ![[Pasted image 20240129183828.png]]
 una vez termine el linpeas hacemos Ctrl z para enviar la bash a segundo plano 
 ### Configuración del Port Forwarding 
