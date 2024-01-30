@@ -49,7 +49,7 @@ buscaremos la options /multi/handler
 ![[Pasted image 20240129212916.png]]
 ###### set options
 ![[Pasted image 20240129213550.png]]
-LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
+LHOST(Local-Ip) - LPORT(Listen Meterpreter Port)  - set payload()
 ### subimos linpeas
 uploads /Ruta/De/TU/linpeas.sh
 ![[Pasted image 20240129183544.png]]
