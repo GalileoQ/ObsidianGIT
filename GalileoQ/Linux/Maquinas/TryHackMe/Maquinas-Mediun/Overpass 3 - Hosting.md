@@ -68,10 +68,7 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 una vez termine el linpeas hacemos Ctrl z para enviar la bash a segundo plano 
 ### Configuración del Port Forwarding 
 primero lanzamos el siguiente comando
-```python 
-	-run autoroute -s IP/victima
-```
-![[Pasted image 20240129190039.png]]
+![[Pasted image 20240129211007.png]]
 aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maquina victivo
 
 aqui vemos que  tenemos una sesión activa. 
