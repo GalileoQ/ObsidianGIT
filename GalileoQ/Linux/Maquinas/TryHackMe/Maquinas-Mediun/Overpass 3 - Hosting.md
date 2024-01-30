@@ -46,7 +46,7 @@ creamos un payload
 ![[Pasted image 20240129212335.png]]
 ### msfconsole
 
-![[Pasted image 20240129181612.png]]
+![[Pasted image 20240129212916.png]]
 
 ###### search /multi/handler
 ![[Pasted image 20240129181718.png]]
