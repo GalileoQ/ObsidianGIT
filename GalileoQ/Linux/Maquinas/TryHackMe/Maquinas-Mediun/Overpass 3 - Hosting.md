@@ -42,9 +42,9 @@ tenemos 3 usuarios y 3 password
 el usuario paradox y la contraseña estan habilitados para ftp y tenemos permisos de escritura en el servicio ftp asi que usaremos esto para subir una reverse shell
 
 ### msfvenom
-
+creamos un payload
 ![[Pasted image 20240129212335.png]]
-### msfconsole /multi/handler
+### msfconsole
 
 ![[Pasted image 20240129181612.png]]
 
