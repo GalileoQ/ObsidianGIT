@@ -78,7 +78,9 @@ aqui vemos que  tenemos una sesión activa.
 ![[Pasted image 20240129190149.png]]
 ###### verificamos que tenemos conecxion en el puerto
 ![[Pasted image 20240129201003.png]]
+### cre
 
+![[Pasted image 20240129201344.png]]
 
 
 
