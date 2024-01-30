@@ -89,6 +89,9 @@ podemos ver la id_rsa del usuario james
 ###### hacemos un cat para copiar la id_rsa
 ![[Pasted image 20240129203926.png]]
 
+### Conexion ssh con usuario james
+
+
 
 
 
