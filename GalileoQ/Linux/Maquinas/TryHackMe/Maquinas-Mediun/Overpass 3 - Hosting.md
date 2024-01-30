@@ -51,7 +51,7 @@ buscaremos la options /multi/handler
 ![[Pasted image 20240129213550.png]]
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
 ### subimos linpeas
-uploads /home/kali/Downloads/linpeas.sh
+uploads /Ruta/De/TU/linpeas.sh
 ![[Pasted image 20240129183544.png]]
 
 ### vulnerabilidad *(rw,fsid=0,sync,no_root_squash,insecure)*
