@@ -94,7 +94,7 @@ podemos ver la id_rsa del usuario james
 ![[Pasted image 20240129204652.png]]
 
 ### /bin/bash
-copiamos nuestro binario /bin/bash a la montura de james y le cambiamos los permisos y el
+copiamos nuestro binario /bin/bash a la montura de james y le cambiamos los permisos y el propietario
 ```python
 cp /bin/bash ~/Desktop/thm/Medium-Machine/Overpass3-Hosting/james > bash.sh
 ```
