@@ -91,7 +91,7 @@ podemos ver la id_rsa del usuario james
 
 ### Conexion ssh con usuario james
 
-
+![[Pasted image 20240129204652.png]]
 
 
 
