@@ -58,7 +58,7 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
 
 
-### linpeas
+### subimos linpeas
 
 ![[Pasted image 20240129183544.png]]
 
@@ -66,7 +66,7 @@ LHOST(Local-Ip) LPORT(Listen Meterpreter Port)
 
 ![[Pasted image 20240129183828.png]]
 
-### vamos a configurar el Port Forwarding 
+### Configuración del Port Forwarding 
 primero lanzamos el siguiente comando
 ```python 
 	-run autoroute -s IP/victima
