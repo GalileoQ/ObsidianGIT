@@ -83,8 +83,9 @@ creamos un directorio en este caso lo llamare james y creamos la montura dentro 
 ![[Pasted image 20240129201344.png]]
 
 ### ssh james
-
+podemos ver la id_rsa del usuario james
 ![[Pasted image 20240129203631.png]]
+
 
 
 
