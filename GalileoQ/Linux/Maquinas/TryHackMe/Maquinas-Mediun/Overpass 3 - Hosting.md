@@ -76,7 +76,7 @@ aqui hacemos que nuestro puerto 2049 se transforme en el puerto 2049 de la maqui
 aqui vemos que  tenemos una sesión activa. 
 ![[Pasted image 20240129190149.png]]
 
-
+###### verificamos que tenemos conecxio
 
 
 
