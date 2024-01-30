@@ -93,7 +93,12 @@ podemos ver la id_rsa del usuario james
 
 ![[Pasted image 20240129204652.png]]
 
-
+### /bin/bash
+usando el comando 
+```python
+cp /bin/bash ~/Desktop/thm/Medium-Machine/Overpass3-Hosting/james > bash.sh
+```
+![[Pasted image 20240129205206.png]]
 
 
 
