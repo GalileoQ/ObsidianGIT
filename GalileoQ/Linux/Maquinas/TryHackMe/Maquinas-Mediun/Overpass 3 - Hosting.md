@@ -45,11 +45,8 @@ el usuario paradox y la contraseña estan habilitados para ftp y tenemos permiso
 creamos un payload
 ![[Pasted image 20240129212335.png]]
 ### msfconsole
-
+buscaremos la options /multi/handler
 ![[Pasted image 20240129212916.png]]
-
-###### search /multi/handler
-![[Pasted image 20240129181718.png]]
 ###### set options
 ![[Pasted image 20240129182211.png]]
 LHOST(Local-Ip) LPORT(Listen Meterpreter Port) 
