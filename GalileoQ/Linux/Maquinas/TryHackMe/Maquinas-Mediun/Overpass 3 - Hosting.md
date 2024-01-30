@@ -82,7 +82,9 @@ aqui vemos que  tenemos una sesión activa.
 creamos un directorio en este caso lo llamare james y creamos la montura dentro de la carpeta james
 ![[Pasted image 20240129201344.png]]
 
+### ssh james
 
+![[Pasted image 20240129203631.png]]
 
 
 
