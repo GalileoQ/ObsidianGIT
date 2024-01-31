@@ -90,3 +90,5 @@ para ello debemos instalar puttygen
 ### usaremos esta id_rsa para conectarnos por ssh con el usuario root
 ![[Pasted image 20231116210231.png]]
 ### WE ARE ROOT.
+
+![[Pasted image 20240130210111.png]]
