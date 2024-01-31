@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bc170e5318ff743c",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Git-Happens.md",
@@ -179,7 +180,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "imagenes/Pasted image 20240129212916.png",
     "imagenes/Pasted image 20240129212335.png",
     "imagenes/Pasted image 20240129211007.png",

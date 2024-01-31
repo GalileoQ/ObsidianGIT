@@ -1,5 +1,4 @@
-
-### Scan
+### nmap
 ```python
 PORT    STATE SERVICE  REASON         VERSION
 80/tcp  open  http     syn-ack ttl 63 Apache httpd
