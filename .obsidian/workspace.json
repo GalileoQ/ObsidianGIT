@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc170e5318ff743c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/Bind Shell.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/Bind Shell.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/Bind Shell.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb8673855b687b6e",
+  "active": "bc170e5318ff743c",
   "lastOpenFiles": [
     "GalileoQ/Linux/Shell/Bind Shell.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
