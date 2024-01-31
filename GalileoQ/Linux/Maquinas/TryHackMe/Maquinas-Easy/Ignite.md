@@ -38,3 +38,5 @@ usamos las credenciales
 ![[Pasted image 20231112231754.png]]
 ### tenemos credenciales para root.
 ![[Pasted image 20231112232022.png]]
+
+### WE ARE ROOT
