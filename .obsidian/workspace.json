@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Shell/Bind Shell.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Shell/OneLiners.md"
               }
             }
           }
@@ -159,12 +158,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc170e5318ff743c",
+  "active": "eb8673855b687b6e",
   "lastOpenFiles": [
     "GalileoQ/Linux/Shell/Bind Shell.md",
+    "GalileoQ/Linux/Shell/OneLiners.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
@@ -188,7 +188,6 @@
     "imagenes/Pasted image 20240129212335.png",
     "imagenes/Pasted image 20240129211007.png",
     "imagenes/Pasted image 20240129210355.png",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",

