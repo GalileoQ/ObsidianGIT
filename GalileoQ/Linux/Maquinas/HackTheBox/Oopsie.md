@@ -1,6 +1,6 @@
 ### nmap
 
-```css
+```python
 sudo nmap -sCV 10.129.137.184
 [sudo] password for parrot: 
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-10-06 15:53 BST
@@ -27,7 +27,7 @@ admin@megacorp.com
 ```
 
 ### BurpSuite
-```css
+```python
 Configurar el BurpSuite
 --FireFox
 --Settings
@@ -43,7 +43,7 @@ Configurar el BurpSuite
 
 ## en la pagina princial del burpsuite:
 
-```css
+```python
 ---En la pagina principal del burp vamos a la pertana de proxy y 
 --luego a la opcion de --intercept is --off y nos aseguramos de tenerla en --On 
 --luego vamos a --OpenBrowaer esto nos abre una pestana del navegador preparada con el proxy para poder hacer nuestro reconocimiento web.
@@ -52,10 +52,11 @@ Configurar el BurpSuite
 ![[2023-10-06_11-56.png]]
 
 ### Burpsuite
-```css
+
+```python
 --Si navegamos a la ip objetivo y damos un enter para despues volver al burpsuite podemos ver que ya el burp intercepto la peticion
 ```
--------------------------------------------------------------------------------
+
 ![[2023-10-06_12-10 2.png]]
 
 ##### Ahora podemos ir a la parte de la ip o target en el burpsuite para ver toda la informacion que hemos recopilado.
