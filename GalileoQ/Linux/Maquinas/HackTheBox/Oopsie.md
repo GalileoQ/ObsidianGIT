@@ -62,19 +62,15 @@ Configurar el BurpSuite
 
 ![[2023-10-06_12-11.png]]
 
-###### En esta parte podemos ver la direccion web: http://10.129.137.184 y dando click a la flechita podemos desplegar los direcctorios a los que esta accediendo esta direccion:
-##### En el cuadro verde podemos ver la peticion que esta realizando la direccion web
-
-##### y en la parte de arriba podemos ver los subdominios a los que esta accediendo esta dreccion 
+###### En esta parte podemos ver la direccion web: http://10.129.137.184 y dando click a la flechita podemos desplegar los direcctorios a los que esta accediendo esta direccion:  En el cuadro verde podemos ver la peticion que esta realizando la direccion web y en la parte de arriba podemos ver los subdominios a los que esta accediendo esta dreccion 
 
 URL: Podemos ver las peticiones GET a los direfentes subdominios por ejemplo
-```css
+```python
 /cdn-cgi/login/
 /cdn-cgi/login/admin.php
 ```
 
 ![[2023-10-06_12-14.png]]
--------------------------------------------------------------------------------------------------------------
 
 ### Vamos a navegar al subdominio /cdn-cgi/login/ para ver que nos encontramos:
 
