@@ -100,6 +100,13 @@
 ```python
 scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```
+---
+
+### información de procesos
+
+```python
+	ps -faux
+```
 ### Sniffing
 
 ```python
