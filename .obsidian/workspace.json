@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "20958467ca1e09a0",
+        "id": "2ba7de1d827a4333",
         "type": "tabs",
         "children": [
           {
-            "id": "44528d6ab8c6a620",
+            "id": "eb8673855b687b6e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "44528d6ab8c6a620",
+  "active": "eb8673855b687b6e",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
@@ -159,7 +160,6 @@
     "Pasted image 20240130202648.png",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "imagenes/Pasted image 20240129212916.png",
