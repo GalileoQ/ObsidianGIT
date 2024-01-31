@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c125c5e128cd9247",
+        "id": "c1709782a1428edd",
         "type": "tabs",
         "children": [
           {
-            "id": "ac7f90daac868b7b",
+            "id": "7513206f1dc08400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac7f90daac868b7b",
+  "active": "7513206f1dc08400",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
@@ -177,7 +178,6 @@
     "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Windows/Enumeración.md",
