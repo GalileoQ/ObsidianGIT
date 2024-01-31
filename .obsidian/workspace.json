@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+    "imagenes/Pasted image 20240130202648.png",
+    "imagenes/Pasted image 20240130204058.png",
     "Pasted image 20240130204058.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Pasted image 20240130202648.png",
@@ -162,9 +167,6 @@
     "imagenes/Pasted image 20240129210355.png",
     "imagenes/Pasted image 20240129205206.png",
     "imagenes/Pasted image 20240129204652.png",
-    "imagenes/Pasted image 20240129203926.png",
-    "imagenes/Pasted image 20240129203631.png",
-    "imagenes/Pasted image 20240129201344.png",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Linux/Escalada/Linux.md",
@@ -178,8 +180,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chill Hack.md",
