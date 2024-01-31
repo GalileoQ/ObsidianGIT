@@ -1,4 +1,4 @@
-### Scan
+### nmap
 
 ```css
 sudo nmap -sCV 10.129.137.184
