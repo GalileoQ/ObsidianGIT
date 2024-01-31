@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "imagenes/Pasted image 20240129212916.png",
     "imagenes/Pasted image 20240129212335.png",
     "imagenes/Pasted image 20240129211007.png",
@@ -182,8 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Brute-It.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BrooklynNiveNive.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Bounty Hacker.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
