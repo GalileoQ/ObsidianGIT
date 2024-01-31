@@ -62,4 +62,5 @@ cp /usr/bin/nc ./
 ```
 ### ejecutamos el exploits y nos ponemos a la escucha en el puerto correspondiente y estaremos dentro
 
+![[Pasted image 20240130202648.png]]
 ### WE ARE ROOT
