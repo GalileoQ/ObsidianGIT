@@ -44,7 +44,7 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 ###### Podemos ver que el puerto 21 esta corriendo el servicio ftp el cual esta configurado por defecto como anonymous
-# ftp
+### ftp
 ```python
 ftp 10.129.66.130
 Connected to 10.129.66.130.
@@ -62,12 +62,12 @@ ftp> ls
 226 Directory send OK.
 ```
 
-##### al entrar nos damos cuenta que existe un archivo backup.zip el cual descargaremos usando `get backup.zip` si hacemos `unzip backup.zip` al intentar descomprimir el archivo nos damos cuenta que esta cifrado por lo que usaremos `john the ripper con la opcion zip2john` 
+###### al entrar nos damos cuenta que existe un archivo backup.zip el cual descargaremos usando `get backup.zip` si hacemos `unzip backup.zip` al intentar descomprimir el archivo nos damos cuenta que esta cifrado por lo que usaremos `john the ripper con la opcion zip2john` 
 
 ```python
 zip2john backup.zip > backuphash  
 ```
-##### con la opcion `>` cambiamos el nombre para que podamos ver el hash de la contraseña, ahora le hacemos un `cat` para ver si tenemos el hash y si todo esta correcto le pasamos el john 
+###### con la opcion `>` cambiamos el nombre para que podamos ver el hash de la contraseña, ahora le hacemos un `cat` para ver si tenemos el hash y si todo esta correcto le pasamos el john 
 
 ```python
 john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
@@ -77,10 +77,10 @@ john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
 
 ![[2023-10-11_17-11.png]]
 
-#### conseguimos dos archivos: `index.php` `style.css` el index.php se ve prometedor asi que le hacemos un `cat`
+###### conseguimos dos archivos: `index.php` `style.css` el index.php se ve prometedor asi que le hacemos un `cat`
 
 ![[2023-10-11_17-21.png]]
-#### conseguimos lo que parece ser una contraseña que esta codificada en otro hash. entonces usaremos hashid para intentar saber que tipo de hash es 
+###### conseguimos lo que parece ser una contraseña que esta codificada en otro hash. entonces usaremos hashid para intentar saber que tipo de hash es 
 
 ```python
 :hashid 2cb42f8734ea607eefed3b70af13bbd3
