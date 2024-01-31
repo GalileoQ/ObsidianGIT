@@ -11,8 +11,12 @@
             "id": "eb8673855b687b6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Shell/Bin Shell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Linux/Shell/Bin Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Linux/Shell/Bin Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Linux/Shell/Bin Shell.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "eb8673855b687b6e",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Shell/Bin Shell.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -175,7 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
