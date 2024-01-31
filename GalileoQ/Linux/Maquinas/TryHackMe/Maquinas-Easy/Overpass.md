@@ -127,4 +127,4 @@ por otro lado estaremos escuchando con netcat
 ```
 
 ![[2023-11-03_13-37.png]]
-ejecutamos el comando whoami y la respuesta es root. asi que ya somos usuario root con todos los privilegios
+### WE ARE ROOT
