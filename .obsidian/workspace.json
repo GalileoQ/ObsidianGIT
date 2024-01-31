@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bc170e5318ff743c",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -183,7 +184,6 @@
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
