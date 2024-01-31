@@ -480,17 +480,17 @@ User.
 ### El comando cat lo podemos convinar con grep para buscar archivos que contengan una palabra en espesifico. 
 
 # code
-```css
+```python
 cat * | grep -i passw*
 ```
 # Info
-```css
+```python
 ($_POST["username"]==="admin" && $_POST["password"]==="MEGACORP_4dm1n!!")
 ```
 
 # bugtracker --help 
 
-##### La herramienta acepta entradas del usuario como nombre del archivo que se leerá usando el comando cat; sin embargo, no especifica la ruta completa al archivo cat y, por lo tanto, podríamos aprovechar esto.
+###### La herramienta acepta entradas del usuario como nombre del archivo que se leerá usando el comando cat; sin embargo, no especifica la ruta completa al archivo cat y, por lo tanto, podríamos aprovechar esto.
 
 ![[2023-10-09_01-18.png]]
 ### Navegaremos al directorio /tmp y crearemos un archivo llamado cat con el siguiente contenido: 
