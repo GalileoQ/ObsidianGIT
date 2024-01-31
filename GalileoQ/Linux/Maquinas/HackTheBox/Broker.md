@@ -68,3 +68,4 @@ si nos da un error podemos cambiar el puerto de listen por otro
 ![[Pasted image 20240107003240.png]]finalmente podemos hacer un curl al localhost apuntando al puerto listen que especificamos y al directorio donde buscaremos el archivo que necesitamos
 
 ### WE ARE ROOT
+![[Pasted image 20240130204058.png]]
