@@ -138,4 +138,5 @@ en este caso usaremos el oneliner mas basico para probar si nos da alguna inform
 ### al ejecutar el archivo planner.sh nos envia una shell como lannie. esto me hace pensar que esto es una tarea crontab. lennie no tiene ninguna tarea crontab asi que debe ser una tarea crontab del usuario root. vamos a esperar un par de minutos
 
 ![[Pasted image 20231104191240.png]]
-### crontab -l para ver las tareas cron. genial teniamos razon es una tarea cron sobre el usuario root. la shell que nos ha llegado es del usuario root.
+### crontab -l para ver las tareas.
+### WE ARE ROOT
