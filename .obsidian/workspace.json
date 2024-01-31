@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ac7f90daac868b7b",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",

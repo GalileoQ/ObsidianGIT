@@ -60,3 +60,5 @@ este exploit hace que la pag sea vulnerable y ahora si podemos atacarla
 cp /usr/bin/nc ./
 ```
 ### ejecutamos el exploits y nos ponemos a la escucha en el puerto correspondiente y estaremos dentro
+
+### WE ARE R
