@@ -74,12 +74,12 @@ URL: Podemos ver las peticiones GET a los direfentes subdominios por ejemplo
 
 ### Vamos a navegar al subdominio /cdn-cgi/login/ para ver que nos encontramos:
 
-#### para ello debemos apagar la intercepcion que hemos hecho con el burpSuite y navegar hasta la pg para revisar el subdominio que hemos encontrado
+###### para ello debemos apagar la intercepcion que hemos hecho con el burpSuite y navegar hasta la pg para revisar el subdominio que hemos encontrado
 
 ![[2023-10-06_12-38.png]]
 
 #### Ok hemos encontrado una pagina de Log In que nos permite ingresar como Guest(Invitado)
-##### Ingresamos y podemos ver lo siguiente
+###### Ingresamos y podemos ver lo siguiente
 
 ![[2023-10-06_13-57.png]]
 
@@ -87,7 +87,7 @@ URL: Podemos ver las peticiones GET a los direfentes subdominios por ejemplo
 ##### Navegando por los enlaces de la pagina:
 
 Index
-```css
+```python
 --Account
 --Brandimg
 --Clients
@@ -120,9 +120,9 @@ Info:
 	------------------------------------------------------------------------------------
 ```
 
-##### Si miramos con atencion la Url podemos notar que el subdominio termina en "accounts&id=2". esto podria ser una piasta ya que probablemente exista el usuario 1 o el usuario 3.
+###### Si miramos con atencion la Url podemos notar que el subdominio termina en "accounts&id=2". esto podria ser una piasta ya que probablemente exista el usuario 1 o el usuario 3.
 
-##### Si hacemos una pequena modificacion en: accounts&id=2 y lo reemplazamos por accounts&id=1. obtenemos informacion de usuario 1 en este caso es: 
+###### Si hacemos una pequena modificacion en: accounts&id=2 y lo reemplazamos por accounts&id=1. obtenemos informacion de usuario 1 en este caso es: 
 
 ![[2023-10-06_14-20.png]]
 
@@ -133,7 +133,7 @@ Info:
 	--Email:admin@megacorp.com
 ```
 
-##### Ok necesitamos accesso como administrador para ver la pestana de #Uploads asi que vamos de nuevo al burpsuite e intentemos interceptar la peticion para cambiar nuestro AccessID de guest por el AccessID del usuario admin a ver si esto nos da mas informacion.
+###### Ok necesitamos accesso como administrador para ver la pestana de #Uploads asi que vamos de nuevo al burpsuite e intentemos interceptar la peticion para cambiar nuestro AccessID de guest por el AccessID del usuario admin a ver si esto nos da mas informacion.
 
 ```css
 	--:Burpsuite
