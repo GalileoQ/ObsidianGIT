@@ -11,8 +11,12 @@
             "id": "c851927be9cdf32e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Curso/eJPTv2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curso/eJPTv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curso/eJPTv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Curso/eJPTv2.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   "active": "c851927be9cdf32e",
   "lastOpenFiles": [
     "Curso/Metaesploitable2.md",
+    "Curso/eJPTv2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240131232831.png",
@@ -166,7 +175,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
-    "GalileoQ/Linux/Shell/Bind Shell.md",
     "imagenes/Pasted image 20240130210111.png",
     "Pasted image 20240130210111.png",
     "imagenes/Pasted image 20240130202648.png",
