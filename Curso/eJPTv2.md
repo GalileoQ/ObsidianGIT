@@ -24,5 +24,5 @@ smbmap -H IP
 
 ### crakmapexec
 ```python
-crakmapexec smb IP -u '' -p
+crakmapexec smb IP -u '' -p '' --shares
 ```
