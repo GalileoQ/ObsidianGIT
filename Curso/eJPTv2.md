@@ -22,3 +22,7 @@ smbclint -L IP -N
 smbmap -H IP
 ```
 
+### crakmapexec
+```python
+crakmapexec smb IP -u '' -p
+```
