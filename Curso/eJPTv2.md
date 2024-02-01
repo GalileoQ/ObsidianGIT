@@ -34,3 +34,8 @@ crakmapexec smb IP -u '' -p '' --shares
 ```python
 enun4linux IP
 ```
+
+### nmap 
+```python
+nmap --script ""
+```
