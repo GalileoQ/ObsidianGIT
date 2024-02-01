@@ -36,6 +36,8 @@ enun4linux IP
 ```
 
 ### nmap 
+
 ```python
-nmap --script ""
+nmap --script "smb-enum-*" -p445 IP
 ```
+
