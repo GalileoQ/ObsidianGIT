@@ -167,5 +167,5 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```
 ### grep 
 ```python
-	grep '[0-9]$' archivo.txt
+	grep '[0-9]$' archivo.txt | cut -d '/'
 ```
