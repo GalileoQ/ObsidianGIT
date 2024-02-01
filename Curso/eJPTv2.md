@@ -4,6 +4,7 @@
 sudo nmap -sS --min-rate 5000 -p- -Pn 10.10.10.10,IP,,IP,IP -oN tcp_scan.txt
 ```
 ### grep 
+
 ```python
 	grep '[0-9]$' archivo.txt
 	
@@ -23,6 +24,13 @@ smbmap -H IP
 ```
 
 ### crakmapexec
+
 ```python
 crakmapexec smb IP -u '' -p '' --shares
+```
+
+### enun4linux
+
+```python
+enun4linux IP
 ```
