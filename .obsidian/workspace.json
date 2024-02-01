@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba7de1d827a4333",
+        "id": "02aa52f3825bf1c1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc170e5318ff743c",
+            "id": "8cf2dbadfa825b02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso/Metaesploitable2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso/Metaesploitable2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc170e5318ff743c",
+  "active": "8cf2dbadfa825b02",
   "lastOpenFiles": [
+    "Curso/Metaesploitable2.md",
     "Pasted image 20240131232831.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
@@ -183,7 +176,6 @@
     "imagenes/Pasted image 20240129212916.png",
     "imagenes/Pasted image 20240129212335.png",
     "imagenes/Pasted image 20240129211007.png",
-    "imagenes/Pasted image 20240129210355.png",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
