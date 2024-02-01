@@ -156,3 +156,8 @@ Ubuntu3:	                   | 10.0.4.5
 -------------------------------------------------------------
 socat tcp-l:443,fork,reuseaddr tcp:192.168.10.10.443
 ```
+
+### grep 
+```python
+	grep '[0-9]$' archivo.txt | cut -d '/' -fi | sort 
+```
