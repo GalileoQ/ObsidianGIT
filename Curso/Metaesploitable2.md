@@ -143,3 +143,16 @@ una vez tengamos todo configurado lanzamos el exploit y automaticamente tenemos 
 ### Pivoting con Socat 
 
 ![[Pasted image 20240131232831.png]]
+
+
+```python
+kali:   | 10.10.2.7 
+
+Ubuntu: | 10.10.2.6 | 10.0.3.4
+
+Ubuntu2:            | 10.0.3.7 | 10.0.4.4
+
+Ubuntu3:	                   | 10.0.4.5
+-------------------------------------------------------------
+socat tcp-l:443,fork,reuseaddr tcp:192.168.10.10.443
+```
