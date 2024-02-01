@@ -15,6 +15,8 @@ sudo nmap -sS --min-rate 5000 -p- -Pn 10.10.10.10,IP,,IP,IP -oN tcp_scan.txt
 
 ```python
 smbclint -L IP -N 
+
+
 ```
 
 ### smbmap
