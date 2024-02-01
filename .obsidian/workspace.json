@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "Curso/Metaesploitable2.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "bc170e5318ff743c",
   "lastOpenFiles": [
+    "Pasted image 20240131232831.png",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
@@ -170,10 +172,8 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Shell/Bind Shell.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
     "imagenes/Pasted image 20240130210111.png",
     "Pasted image 20240130210111.png",
     "imagenes/Pasted image 20240130202648.png",
