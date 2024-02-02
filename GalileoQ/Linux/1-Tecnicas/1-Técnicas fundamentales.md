@@ -165,3 +165,9 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 	sudo chown root:root nombre_del_archivo
 ```
+
+### sqlmap
+
+```python
+	sqlmap -r 
+```
