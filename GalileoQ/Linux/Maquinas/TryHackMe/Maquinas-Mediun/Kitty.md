@@ -107,3 +107,7 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 conexion por ssh haciendo un port forwarding  
 ![[Pasted image 20240205005339.png]]
 
+### localhost:8080
+
+![[Pasted image 20240205005619.png]]
+tenemos conexion por el puerto 8080 en el que vemos
