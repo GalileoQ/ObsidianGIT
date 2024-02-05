@@ -103,7 +103,8 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 ### Escalada de Privilegios
 
 ![[Pasted image 20240205004914.png]]
-parece que este script hace un guardado en logged de los intentos de sqli que se hace
+parece que este script hace un guardado en logged de los intentos de sqli que se hacen en el panel de login de parte del desarrolador
+
 conexion por ssh haciendo un port forwarding  
 ![[Pasted image 20240205005339.png]]
 
