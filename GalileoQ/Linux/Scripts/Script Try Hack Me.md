@@ -10,7 +10,7 @@ NC='\033[1;32m'    # verde color
 
 # Mensaje del autor con efecto visual
 echo -e "${CYAN}╔══════════════════════════════════════════════════╗${NC}"
-echo -e "${CYAN}║           Script by                    ║${NC}"
+echo -e "${CYAN}║           Script by GalileoQ                     ║${NC}"
 echo -e "${CYAN}║      Unlocking the Secrets of the Universe!      ║${NC}"
 echo -e "${CYAN}╚══════════════════════════════════════════════════╝${NC}"
 
