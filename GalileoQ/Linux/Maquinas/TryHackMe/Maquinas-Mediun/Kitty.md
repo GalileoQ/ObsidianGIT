@@ -36,4 +36,8 @@ parece que la pagina esta en mantenimiento.
 vamos a probar otras inyecciones diferentes
 ![[Pasted image 20240204213231.png]]
 
+![[Pasted image 20240204213305.png]]
+
 ### Fuzzing con gobuster
+
+![[Pasted image 20240204213332.png]]
