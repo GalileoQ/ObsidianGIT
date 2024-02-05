@@ -55,3 +55,6 @@ vamos a interceptar una peticion con burpsuite
 intruder
 ![[Pasted image 20240204220113.png]]
 
+configuramos el payloads
+![[Pasted image 20240204220220.png]]
+
