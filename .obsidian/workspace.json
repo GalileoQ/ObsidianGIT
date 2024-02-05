@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Scripts/Script Try Hack Me.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "68c3311bb4e341c8",
+  "active": "d3e27f0be6c16adb",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
+    "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240204223225.png",
     "Pasted image 20240204222627.png",

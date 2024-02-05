@@ -70,3 +70,6 @@ para el tercer posición obtenemos la letra "w"
 ![[Pasted image 20240204223225.png]]
 tenemos que hacer esto cambiando la posición hasta conseguir información sobre el nombre de la base de datos
 
+```python
+
+```
