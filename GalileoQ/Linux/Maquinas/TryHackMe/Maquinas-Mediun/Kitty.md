@@ -73,3 +73,4 @@ tenemos que hacer esto cambiando la posición hasta conseguir información sobre
 ```python
 	username=kitty'+and+substring((select+tables_name+from+information_schema.tables+where+table_schema="mywebsite"+limit+0,1),1,1="a"+#&password=kitty
 ```
+username=kitty'and
