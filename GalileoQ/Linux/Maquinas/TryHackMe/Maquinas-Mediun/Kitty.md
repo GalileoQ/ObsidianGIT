@@ -57,7 +57,9 @@ intruder
 
 configuramos el payloads
 ![[Pasted image 20240204220220.png]]
-
+obtenemos como respuesta 
 ```python
 	username=kitty'+and+substring(database(),1,1)="m"+#&password=kitty
 ```
+
+![[Pasted image 20240204222627.png]]
