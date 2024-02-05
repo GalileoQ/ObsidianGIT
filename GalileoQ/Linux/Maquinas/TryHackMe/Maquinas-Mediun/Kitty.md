@@ -58,8 +58,10 @@ intruder
 configuramos el payloads
 ![[Pasted image 20240204220220.png]]
 obtenemos como respuesta 
+
 ```python
 	username=kitty'+and+substring(database(),1,1)="m"+#&password=kitty
 ```
 
+para el segundo ataque obtenemos la leta y
 ![[Pasted image 20240204222627.png]]
