@@ -88,5 +88,5 @@ tenemos que hacer esto hasta sacar el nombre de la tabla
 ```
 
 ```python
-kitty'+AND+SUB
+kitty'+AND+SUBSTRING((SELECT+username+from+si))
 ```
