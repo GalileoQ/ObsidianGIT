@@ -104,3 +104,6 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 
 ![[Pasted image 20240205004914.png]]
 
+conexion por ssh haciendo un port forwarding  
+![[Pasted image 20240205005339.png]]
+
