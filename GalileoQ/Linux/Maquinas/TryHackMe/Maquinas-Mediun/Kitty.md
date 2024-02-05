@@ -29,3 +29,8 @@ Nmap done: 1 IP address (1 host up) scanned in 48.21 seconds
 ### Enumeración del puerto 80
 vamos a intentar hacer una inyección sqli
 ![[Pasted image 20240204210908.png]]
+
+![[Pasted image 20240204211038.png]]
+parece que la pagina esta en mantenimiento. 
+
+### Fuzzing con gobuster
