@@ -109,7 +109,7 @@ conexion por ssh haciendo un port forwarding
 ![[Pasted image 20240205005339.png]]
 
 ### localhost:8080
-
+desde aqui podemos ver el panel de login desde la vista de desarrollador 
 ![[Pasted image 20240205005619.png]]
 tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarrollador
 
