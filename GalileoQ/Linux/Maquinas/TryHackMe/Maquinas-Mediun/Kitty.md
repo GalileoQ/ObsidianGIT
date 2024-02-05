@@ -89,3 +89,9 @@ tenemos que hacer esto hasta sacar el nombre de la tabla
 
 sacamos carácter de la posición 4 "g"  
 ![[Pasted image 20240205001529.png]]
+hacemos esto desde la posición 1 hasta conseguir todos los caracteres
+
+```python
+	username:kitty
+	password:
+```
