@@ -92,6 +92,6 @@ sacamos carácter de la posición 4 "g"
 hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 
 ```python
-	username:kitty
-	password:
+	username: kitty
+	password: L0ng_liv3_kitty
 ```
