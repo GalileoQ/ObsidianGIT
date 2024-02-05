@@ -112,3 +112,6 @@ conexion por ssh haciendo un port forwarding
 ![[Pasted image 20240205005619.png]]
 tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarrollador
 
+### burpsuite
+
+![[Pasted image 20240205011158.png]]
