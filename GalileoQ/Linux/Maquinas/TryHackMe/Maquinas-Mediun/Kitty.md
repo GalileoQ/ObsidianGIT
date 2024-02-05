@@ -93,5 +93,5 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 
 ```python
 	username: kitty
-	password: L0ng_liv3_kitty
+	password: L0ng_Liv3_kittY
 ```
