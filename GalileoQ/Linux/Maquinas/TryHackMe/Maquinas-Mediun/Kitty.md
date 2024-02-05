@@ -33,4 +33,7 @@ vamos a intentar hacer una inyección sqli
 ![[Pasted image 20240204211038.png]]
 parece que la pagina esta en mantenimiento. 
 
+vamos a probar otras inyecciones diferentes
+![[Pasted image 20240204213231.png]]
+
 ### Fuzzing con gobuster
