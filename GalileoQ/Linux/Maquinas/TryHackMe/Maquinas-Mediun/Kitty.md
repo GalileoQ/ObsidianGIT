@@ -114,5 +114,8 @@ conexion por ssh haciendo un port forwarding
 tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarrollador
 
 ### Burpsuite
-usamos la inyeccion sqli para que la informacion nos muestre 
+usamos la inyeccion sqli para que esta informacion se guarde en el archivo logged y agregamos la linea
+```python
+
+```
 ![[Pasted image 20240205011158.png]]
