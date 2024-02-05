@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "68c3311bb4e341c8",
+            "id": "a9d7cc9048103e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a23a91418c7c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
+                "file": "GalileoQ/Linux/Escalada/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+                "file": "GalileoQ/Linux/Escalada/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+                "file": "GalileoQ/Linux/Escalada/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
+                "file": "GalileoQ/Linux/Escalada/Linux.md"
               }
             }
           }
@@ -170,23 +159,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d3e27f0be6c16adb",
+  "active": "a9d7cc9048103e83",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240205003102.png",
     "Pasted image 20240205001529.png",
     "Pasted image 20240205000151.png",
     "Pasted image 20240204235500.png",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240204223225.png",
     "Pasted image 20240204222627.png",
     "Pasted image 20240204220220.png",
     "Pasted image 20240204220113.png",
     "Pasted image 20240204220002.png",
     "Pasted image 20240204213332.png",
-    "Pasted image 20240204213305.png",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Curso/eJPTv2.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
