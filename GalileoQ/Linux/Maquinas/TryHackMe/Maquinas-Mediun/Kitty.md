@@ -52,3 +52,6 @@ parece que no tenemos ningún directorio que sea de ayuda.
 vamos a interceptar una peticion con burpsuite
 ![[Pasted image 20240204220002.png]]
 
+intruder
+![[Pasted image 20240204220113.png]]
+
