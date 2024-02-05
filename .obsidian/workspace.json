@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Escalada/Linux.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "a9d7cc9048103e83",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240205004914.png",
-    "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240205003102.png",
     "Pasted image 20240205001529.png",
