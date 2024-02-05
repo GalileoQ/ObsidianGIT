@@ -81,4 +81,5 @@ el primer resultado nos da la letra "s"
 
 ejecutamos el ataque cambiando la posición, en este caso nos da la letra "i"
 ![[Pasted image 20240205000151.png]]
+tenemos que hacer esto hasta sacar el nombre de la tabla
 
