@@ -41,3 +41,10 @@ vamos a probar otras inyecciones diferentes
 ### Fuzzing con gobuster
 
 ![[Pasted image 20240204213332.png]]
+parece que no tenemos ningún directorio que sea de ayuda. 
+
+### sqli
+
+```python
+	'+and+substring(database(),1,1)="a"+#
+```
