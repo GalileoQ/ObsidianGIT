@@ -103,7 +103,7 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 ### Escalada de Privilegios
 
 ![[Pasted image 20240205004914.png]]
-
+parece que este script hace un guardado en logged de los intentos de sqli que se hace
 conexion por ssh haciendo un port forwarding  
 ![[Pasted image 20240205005339.png]]
 
@@ -112,6 +112,6 @@ conexion por ssh haciendo un port forwarding
 ![[Pasted image 20240205005619.png]]
 tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarrollador
 
-### burpsuite
+### Burpsuite
 
 ![[Pasted image 20240205011158.png]]
