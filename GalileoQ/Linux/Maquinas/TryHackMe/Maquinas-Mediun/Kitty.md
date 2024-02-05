@@ -48,3 +48,7 @@ parece que no tenemos ningún directorio que sea de ayuda.
 ```python
 	'+and+substring(database(),1,1)="a"+#
 ```
+
+vamos a interceptar una peticion con burpsuite
+![[Pasted image 20240204220002.png]]
+
