@@ -103,3 +103,4 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 ### Escalada de Privilegios
 
 ![[Pasted image 20240205004914.png]]
+

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
               }
             }
           }
@@ -159,12 +158,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a9d7cc9048103e83",
+  "active": "d3e27f0be6c16adb",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Escalada/Linux.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240205004914.png",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240205003102.png",
     "Pasted image 20240205001529.png",
     "Pasted image 20240205000151.png",
