@@ -95,3 +95,5 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 	username: kitty
 	password: L0ng_Liv3_kittY
 ```
+
+### ssh
