@@ -79,4 +79,6 @@ usaremos este parametro para obtener informacion sobre las tablas
 el primer resultado nos da la letra "s"
 ![[Pasted image 20240204235500.png]]
 
-ejecutamos el ataque cambiando la pocisíon 
+ejecutamos el ataque cambiando la posición, en este caso nos da la letra "i"
+![[Pasted image 20240205000151.png]]
+
