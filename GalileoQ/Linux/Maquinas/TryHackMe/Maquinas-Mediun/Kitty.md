@@ -78,3 +78,5 @@ usaremos este parametro para obtener informacion sobre las tablas
 
 el primer resultado nos da la letra "s"
 ![[Pasted image 20240204235500.png]]
+
+ejecutamos el ataque cambiando la pocisíon 
