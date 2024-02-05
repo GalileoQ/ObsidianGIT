@@ -43,7 +43,7 @@ vamos a probar otras inyecciones diferentes
 ![[Pasted image 20240204213332.png]]
 parece que no tenemos ningún directorio que sea de ayuda. 
 
-### sqli
+### sqli usando Burpsuite
 
 ```python
 	'+and+substring(database(),1,1)="a"+#
@@ -97,3 +97,6 @@ hacemos esto desde la posición 1 hasta conseguir todos los caracteres
 ```
 
 ### ssh
+
+![[Pasted image 20240205003102.png]]
+
