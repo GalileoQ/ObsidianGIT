@@ -26,6 +26,6 @@ Nmap done: 1 IP address (1 host up) scanned in 48.21 seconds
 
 ### Ports: 22/ssh - 80/http
 
-### Enumeracion del puerto 80
-
+### Enumeración del puerto 80
+vamos a intentar hacer una inyección sqli
 ![[Pasted image 20240204210908.png]]
