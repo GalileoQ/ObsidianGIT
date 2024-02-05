@@ -110,4 +110,5 @@ conexion por ssh haciendo un port forwarding
 ### localhost:8080
 
 ![[Pasted image 20240205005619.png]]
-tenemos conexion por el puerto 8080 en el que vemos
+tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarrollador
+
