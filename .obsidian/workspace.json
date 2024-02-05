@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e25487fd49c7688",
+        "id": "84464d28735ba7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "c851927be9cdf32e",
+            "id": "d3e27f0be6c16adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c851927be9cdf32e",
+  "active": "d3e27f0be6c16adb",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Curso/eJPTv2.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240131232831.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "imagenes/Pasted image 20240130210111.png",
     "Pasted image 20240130210111.png",
     "imagenes/Pasted image 20240130202648.png",
