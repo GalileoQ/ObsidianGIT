@@ -124,3 +124,5 @@ usamos la inyeccion sqli para que esta informacion se guarde en el archivo logge
 esperamos un rato a que se haga el guardado 
 
 ### WE ARE ROOT
+
+![[Pasted image 20240205012010.png]]
