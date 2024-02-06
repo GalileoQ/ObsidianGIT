@@ -24,7 +24,7 @@ eliminar una ruta
 
 agregar rutas automaticas
 ```python
-	use 
+	use multi/manage/autoroute
 ```
 
 
