@@ -38,4 +38,7 @@ escaneo de puertos TCP
 	scanner/portscan/tcp
 ```
 
-ssh
+fuerza bruta para ssh con metaesploit
+```python
+	ssh_login
+```
