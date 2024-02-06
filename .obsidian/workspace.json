@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GITHUB/Postear.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GITHUB/Postear.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GITHUB/Postear.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GITHUB/Postear.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d3e27f0be6c16adb",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GITHUB/Postear.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "Pasted image 20240205012010.png",
     "Pasted image 20240205011158.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
