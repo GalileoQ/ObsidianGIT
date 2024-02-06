@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GITHUB/Postear.md",
@@ -183,7 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Git-Happens.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
