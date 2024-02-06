@@ -32,3 +32,8 @@ pivoting by portforgarding
 ```python
 portfwd add -l 7777 -p 21 -r 10.0.2.5
 ```
+
+escaneo de puertos TCP
+```python
+	scanner/portscan/tcp
+```
