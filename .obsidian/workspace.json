@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Pivoting.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
@@ -184,7 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
