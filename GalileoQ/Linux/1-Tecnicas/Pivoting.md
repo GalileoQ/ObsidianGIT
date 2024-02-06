@@ -17,9 +17,16 @@ route add
 route add 10.0.2.4 255.255.255.0 2
 ```
 
+eliminar una ruta
 ```python
 	route del
 ```
+
+agregar rutas automaticas
+```python
+	use 
+```
+
 
 pivoting by portforgarding 
 ```python
