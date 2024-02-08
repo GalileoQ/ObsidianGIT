@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/eJPTv2.md",
+                "file": "Curso/Hacking Con S4vitar/sqli.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/eJPTv2.md",
+                "file": "Curso/Hacking Con S4vitar/sqli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/eJPTv2.md",
+                "file": "Curso/Hacking Con S4vitar/sqli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/eJPTv2.md"
+                "file": "Curso/Hacking Con S4vitar/sqli.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "Pasted image 20240208124843.png",
+    "Curso/eJPTv2.md",
+    "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -170,7 +173,6 @@
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "Pasted image 20240204223225.png",
-    "Curso/eJPTv2.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
@@ -182,8 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Overpass1.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
