@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meta",
+                "query": "uns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8724280c729e60f4",
+  "active": "e2e1d4d1f401f2c7",
   "lastOpenFiles": [
     "Curso/Hacking Con S4vitar/sqli.md",
     "Pasted image 20240208125612.png",
