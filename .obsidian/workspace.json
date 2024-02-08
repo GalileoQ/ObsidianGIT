@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "Curso/eJPTv2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "Curso/eJPTv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md",
+                "file": "Curso/eJPTv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración.md"
+                "file": "Curso/eJPTv2.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
@@ -183,7 +184,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Overpass1.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",

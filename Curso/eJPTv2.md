@@ -43,3 +43,8 @@ enun4linux IP
 nmap --script "smb-enum-*" -p445 IP
 ```
 
+### diccionario metaesploit
+
+```python
+/usr/share/metasploit-framework/data/wordlist/
+```
