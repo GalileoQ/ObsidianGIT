@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "Curso/Hacking Con S4vitar/sqli.md",
     "Pasted image 20240208125612.png",
     "Pasted image 20240208125442.png",
     "Pasted image 20240208124843.png",
     "Curso/eJPTv2.md",
-    "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Windows/Enumeración.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -170,7 +170,6 @@
     "Pasted image 20240205004914.png",
     "Pasted image 20240205003102.png",
     "Pasted image 20240205001529.png",
-    "Pasted image 20240205000151.png",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "Curso/Metaesploitable2.md",
