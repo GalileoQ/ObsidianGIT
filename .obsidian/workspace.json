@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2e1d4d1f401f2c7",
+  "active": "8724280c729e60f4",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Curso/Hacking Con S4vitar/sqli.md",
     "Pasted image 20240208125612.png",
     "Pasted image 20240208125442.png",
@@ -159,7 +159,6 @@
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GITHUB/Postear.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
