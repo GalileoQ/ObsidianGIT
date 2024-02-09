@@ -9,3 +9,6 @@
 
 ### SQLI (XSS)
 
+```python
+<script>
+```
