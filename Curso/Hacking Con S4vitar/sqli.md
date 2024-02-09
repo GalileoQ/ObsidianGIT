@@ -14,5 +14,6 @@
 ```
 
 ```python
-
+<script>var email= prompt("introduce tu correo")
+	</script>
 ```
