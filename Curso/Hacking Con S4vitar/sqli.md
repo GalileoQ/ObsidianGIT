@@ -14,6 +14,11 @@
 ```
 
 ```python
-<script>var email= prompt("introduce tu correo")
-	</script>
+<script>
+var email= prompt("introduce tu correo");
+
+if (email==null | email == ""){
+							   
+}
+</script>
 ```
