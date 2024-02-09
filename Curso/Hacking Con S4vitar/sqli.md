@@ -5,3 +5,7 @@
 
 
 ![[Pasted image 20240208125442.png]]
+
+
+### SQLI (XSS)
+
