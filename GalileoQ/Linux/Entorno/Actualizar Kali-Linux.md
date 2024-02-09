@@ -18,7 +18,6 @@ Para resolver este problema, sigue estos pasos:
     
 4. **Realizar la actualización del clúster de PostgreSQL:**
     
-    
     `sudo pg_upgradecluster 15 main`
     
     Este comando actualizará el clúster de PostgreSQL de la versión 15 a la versión 16. Asegúrate de que PostgreSQL no esté en ejecución durante este proceso.
