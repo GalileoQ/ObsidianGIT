@@ -10,7 +10,7 @@
 ### SQLI (XSS)
 
 ```python
-<script>alert("XSS")<script/>
+<script>alert("XSS")</script>
 ```
 
 ```python
