@@ -18,7 +18,9 @@
 var email= prompt("introduce tu correo");
 
 if (email==null | email == ""){
-	alert("Es necesario introducir un correo valido para ") 
+	alert("Es necesario introducir un correo valido para visualizar el post"); 
+} else {
+	
 }
 </script>
 ```
