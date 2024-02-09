@@ -28,6 +28,9 @@ if (email==null || email == ""){
 ```python
 <script>
 	var k = "";
-	document.onkeypress = f
+	document.onkeypress = funtion(e){
+	k += e.key
+	var i = new Imagen();
+	}
 </script>
 ```
