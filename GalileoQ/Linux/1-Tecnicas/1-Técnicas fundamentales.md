@@ -30,6 +30,10 @@
 ```
 
 ### Copiar al clipboard
+
+```python
+	cat archivo.txt | xclip -sel clip
+```
 ### Descompresión
 
 ```python
