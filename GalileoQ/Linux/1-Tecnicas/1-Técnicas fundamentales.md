@@ -28,6 +28,8 @@
 ```python
 	python -c 'import pty; pty.spawn("/bin/sh")'
 ```
+
+### Copiar al clipboard
 ### Descompresión
 
 ```python

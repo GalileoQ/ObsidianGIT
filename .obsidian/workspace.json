@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Hacking Con S4vitar/sqli.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "7256e6296f6c7ebb",
   "lastOpenFiles": [
+    "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "Curso/Hacking Con S4vitar/sqli.md",
     "Pasted image 20240208125612.png",
     "Pasted image 20240208125442.png",
     "Pasted image 20240208124843.png",
