@@ -25,3 +25,9 @@ if (email==null || email == ""){
 </script>
 ```
 
+```python
+<script>
+	var k = "";
+	document.onkeypress = f
+</script>
+```
