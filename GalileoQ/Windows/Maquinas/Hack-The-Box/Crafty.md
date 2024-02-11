@@ -22,3 +22,5 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 agregamos el subdominio al que nos esta redirigiendo en el /etc/host
 ![[Pasted image 20240210232547.png]]
 
+tenemos 
+![[Pasted image 20240210233121.png]]
