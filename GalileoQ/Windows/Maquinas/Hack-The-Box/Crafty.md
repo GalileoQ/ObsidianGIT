@@ -25,3 +25,5 @@ agregamos el subdominio al que nos esta redirigiendo en el /etc/host
 pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty.htb
 ![[Pasted image 20240210233121.png]]
 
+### Fuzzing con gobuster
+
