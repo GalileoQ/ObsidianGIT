@@ -27,3 +27,5 @@ pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty
 
 ### Fuzzing con gobuster
 
+![[Pasted image 20240210234241.png]]
+

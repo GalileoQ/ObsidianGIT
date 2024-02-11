@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md"
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
               }
             }
           }
@@ -171,10 +170,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "7256e6296f6c7ebb",
   "lastOpenFiles": [
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "Pasted image 20240210234241.png",
     "GalileoQ/Windows/Enumeración Window.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240210233121.png",
     "Pasted image 20240210232547.png",
