@@ -17,3 +17,7 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 ### Ports: 80/http - 25565/tcp
 
+### Enumeracion del puerto 80
+
+agregamos
+![[Pasted image 20240210232547.png]]
