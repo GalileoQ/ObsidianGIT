@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7256e6296f6c7ebb",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Hack-The-Box",
+    "GalileoQ/Windows/Maquinas",
     "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
@@ -183,7 +185,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Overpass1.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
@@ -193,7 +194,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe",
     "GalileoQ/Linux/Maquinas/HackTheBox",
     "GalileoQ/Linux/Maquinas",
-    "GalileoQ/Linux/Escalada",
     "Sin título.canvas"
   ]
 }
