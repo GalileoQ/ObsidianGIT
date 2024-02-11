@@ -14,3 +14,5 @@ PORT      STATE SERVICE   VERSION
 25565/tcp open  minecraft Minecraft 1.16.5 (Protocol: 127, Message: Crafty Server, Users: 3/100)
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
+
+### Ports:
