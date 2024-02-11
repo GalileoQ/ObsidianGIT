@@ -17,7 +17,8 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
 ### Ports: 80/http - 25565/tcp
 
-### Enumeracion del puerto 80
+### Enumeración del puerto 80
 
-agregamos
+agregamos el subdominio al que nos esta redirigiendo en el /etc/host
 ![[Pasted image 20240210232547.png]]
+
