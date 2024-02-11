@@ -22,5 +22,6 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 agregamos el subdominio al que nos esta redirigiendo en el /etc/host
 ![[Pasted image 20240210232547.png]]
 
-tenemos 
+pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.c
 ![[Pasted image 20240210233121.png]]
+
