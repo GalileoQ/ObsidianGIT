@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#role",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7256e6296f6c7ebb",
+  "active": "e2e1d4d1f401f2c7",
   "lastOpenFiles": [
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
