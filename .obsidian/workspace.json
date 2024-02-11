@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -170,12 +171,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7256e6296f6c7ebb",
+  "active": "46cbd4f4f5f34f84",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240210234241.png",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240210233121.png",
     "Pasted image 20240210232547.png",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
@@ -198,7 +199,6 @@
     "Pasted image 20240205005619.png",
     "Pasted image 20240205005339.png",
     "GalileoQ/Linux/Escalada/Linux.md",
-    "Pasted image 20240205004914.png",
     "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "Curso/Metaesploitable2.md",
