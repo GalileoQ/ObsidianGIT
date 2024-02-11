@@ -11,12 +11,8 @@
             "id": "7256e6296f6c7ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +152,8 @@
   },
   "active": "7256e6296f6c7ebb",
   "lastOpenFiles": [
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
     "GalileoQ/Windows/Maquinas",
     "Curso/Hacking Con S4vitar/sqli.md",
