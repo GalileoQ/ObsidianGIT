@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Sin título.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "7256e6296f6c7ebb",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Sin título.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
     "GalileoQ/Windows/Maquinas",
     "Curso/Hacking Con S4vitar/sqli.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "Pasted image 20240208125612.png",
     "Pasted image 20240208125442.png",
@@ -193,7 +194,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Linux/Maquinas/TryHackMe",
     "GalileoQ/Linux/Maquinas/HackTheBox",
-    "GalileoQ/Linux/Maquinas",
     "Sin título.canvas"
   ]
 }
