@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "46cbd4f4f5f34f84",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240210234241.png",
     "GalileoQ/Windows/Enumeración Window.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240210233121.png",
     "Pasted image 20240210232547.png",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
