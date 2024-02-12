@@ -53,5 +53,8 @@ def def_handler(sig, frame):
 	sys.exit(1)
 
 # Ctrl+C
-signal.signal(signal.SIGINT, )
+signal.signal(signal.SIGINT, def_handler)
+
+# Variables globales
+main_url = 
 ```
