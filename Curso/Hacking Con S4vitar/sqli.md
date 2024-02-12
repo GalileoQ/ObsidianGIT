@@ -82,5 +82,7 @@ def makeSQLI():
 		extracted_info += chr(character)
 		p2.status(extracted_info)
 		break
-if __name__ == '__ma'
+if __name__ == '__main__'
+	
+	makeSQLI()
 ```
