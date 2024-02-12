@@ -62,5 +62,9 @@ Characters = string.printable
 def makeSQLI():
 
 p1 = log.progress("Fuerza bruta")
-p1.status("")
+p1.status("Iniciando progreso de fuerza bruta")
+
+time.sleep(2)
+
+p2 = log.progress("Datos ex")
 ```
