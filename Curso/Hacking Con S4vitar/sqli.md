@@ -40,5 +40,6 @@ xss keylogger
 ```
 
 ```python
- 
+ #!/usr/bin/python3
+import
 ```
