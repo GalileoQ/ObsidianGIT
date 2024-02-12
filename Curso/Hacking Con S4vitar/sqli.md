@@ -61,14 +61,15 @@ Characters = string.printable
 
 def makeSQLI():
 
-p1 = log.progress("Fuerza bruta")
-p1.status("Iniciando progreso de fuerza bruta")
+	p1 = log.progress("Fuerza bruta")
+	p1.status("Iniciando progreso de fuerza bruta")
 
-time.sleep(2)
+	time.sleep(2)
 
-p2 = log.progress("Datos extraidos")
-extracted_info = ""
+	p2 = log.progress("Datos extraidos")
 
-for position in range(1, 200)
-	
+	extracted_info = ""
+
+	for position in range(1, 200)
+		for character in range(33, 126)
 ```
