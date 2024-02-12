@@ -56,5 +56,8 @@ def def_handler(sig, frame):
 signal.signal(signal.SIGINT, def_handler)
 
 # Variables globales
-main_url = 
+main_url = "http://localhost/searchUsers.php"
+Characters = string.printable
+
+def make
 ```
