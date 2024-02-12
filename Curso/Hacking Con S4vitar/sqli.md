@@ -59,5 +59,8 @@ signal.signal(signal.SIGINT, def_handler)
 main_url = "http://localhost/searchUsers.php"
 Characters = string.printable
 
-def make
+def makeSQLI():
+
+p1 = log.progress("Fuerza bruta")
+p1.status("")
 ```
