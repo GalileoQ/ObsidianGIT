@@ -49,5 +49,6 @@ import string
 from pwn import *
 
 def def_handler(sig, frame):
-	print("\n\n[!]saliendo...\n)
+	print("\n\n[!] Saliendo...\n")
+	sys.exit
 ```
