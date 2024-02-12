@@ -66,5 +66,9 @@ p1.status("Iniciando progreso de fuerza bruta")
 
 time.sleep(2)
 
-p2 = log.progress("Datos ex")
+p2 = log.progress("Datos extraidos")
+extracted_info = ""
+
+for position in range(1, 200)
+	
 ```
