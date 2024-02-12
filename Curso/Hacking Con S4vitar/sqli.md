@@ -76,5 +76,8 @@ def makeSQLI():
 % (position,character)
 	p1.status(sqli_url)
 
-	r = 
+	r = request.get(sqli_url)
+
+	if r.status_code == 2--:
+		extracted_info +=
 ```
