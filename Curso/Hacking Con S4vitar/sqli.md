@@ -41,5 +41,11 @@ xss keylogger
 
 ```python
  #!/usr/bin/python3
-import
+import requests
+import signal
+import sys
+import time
+import string
+from pwn import *
+
 ```
