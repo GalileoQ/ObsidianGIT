@@ -92,5 +92,11 @@ if __name__ == '__main__'
 ```python
 #!/usr/bin/python3
 
-import requ
+import requests
+import signal
+import sys
+import time
+from pwn import *
+
+def def
 ```
