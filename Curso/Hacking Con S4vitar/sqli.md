@@ -99,5 +99,9 @@ import time
 from pwn import *
 
 def def_handler(sig, frame):
-	print("\n\n[!] Saliendo... \n)
+	print("\n\n[!] Saliendo... \n")
+	sys.exit(1)
+
+# Ctrl+C
+signal.signal(signal.SIGINT, def_han)
 ```
