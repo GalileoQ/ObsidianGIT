@@ -98,5 +98,6 @@ import sys
 import time
 from pwn import *
 
-def def
+def def_handler(sig, frame):
+	print("\n\n[!] Saliendo... \n)
 ```
