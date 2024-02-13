@@ -103,5 +103,11 @@ def def_handler(sig, frame):
 	sys.exit(1)
 
 # Ctrl+C
-signal.signal(signal.SIGINT, def_han)
+signal.signal(signal.SIGINT, def_handler)
+
+def makeSQLI():
+
+	print("\n[+]Hola")
+
+if 
 ```
