@@ -76,3 +76,5 @@ Nmap done: 1 IP address (1 host up) scanned in 100.22 seconds
 no tenemos mucha informacion del puerto 80
 ![[Pasted image 20240217183752.png]]
 ###### vamos a agregar el dominio "spookysec.local"al /etc/hosts
+
+### crackmapexec
