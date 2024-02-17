@@ -68,4 +68,4 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 100.22 seconds
 ```
 
-### Ports: 53-80-88-135-139-389-445-464-
+### Ports: 53-80-88-135-139-389-445-464-593-636-3268-3269
