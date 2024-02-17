@@ -73,6 +73,6 @@ Nmap done: 1 IP address (1 host up) scanned in 100.22 seconds
 ###### el puerto 389 nos indica que tenemos una redireccion hacia un domino llamado "spookysec.local"
 
 ### Enumeracion del puerto 80
-
+no tenemos mucha informacion del puerto 80
 ![[Pasted image 20240217183752.png]]
-###### vamos a agregar el dominio al /etc/hosts
+###### vamos a agregar el dominio "spookysec.local"al /etc/hosts
