@@ -11,8 +11,12 @@
             "id": "7ea09af406744a7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md"
+              }
             }
           }
         ]
@@ -138,13 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "7ea09af406744a7c",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
     "GalileoQ/Windows/Enumeración Window.md",
-    "GalileoQ/Windows/Maquinas/Crafty.md",
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -185,7 +194,6 @@
     "GalileoQ/Linux/Shell",
     "GalileoQ/Linux/Scripts",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy",
     "Sin título.canvas"
   ]
 }
