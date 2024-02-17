@@ -98,4 +98,6 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 	./kerbrute_linux_amd64 userenum --dc 10.10.124.3 -d spookysec.local userlist.txt
 ```
 
+![[Pasted image 20240217195612.png]]
+
 
