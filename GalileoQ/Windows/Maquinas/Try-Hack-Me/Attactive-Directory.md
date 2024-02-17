@@ -91,5 +91,7 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 
 ###### una ves clonado el repositorio vamos al directorio para instalar los requierements
 ![[Pasted image 20240217190539.png]]
-
-###### esta herramienta necesita un diccionario de usuarios y uno de con
+###### esta herramienta necesita un diccionario de usuarios y uno de contraseñas para poder funcionar
+```python
+	python3 kerbrute.py -users userlist.txt -passwords passwordlist.txt -domain spookysec.local -t 100
+```
