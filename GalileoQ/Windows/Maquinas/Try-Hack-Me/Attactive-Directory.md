@@ -81,4 +81,6 @@ no tenemos mucha informacion del puerto 80
 esta herramienta nos permite enumerar el puerto smb para obtener un poco de información 
 ![[Pasted image 20240217184401.png]]
 
-### Enun
+### enum4linux 
+otra herramienta para enumerar. en este caso no 
+![[Pasted image 20240217185818.png]]
