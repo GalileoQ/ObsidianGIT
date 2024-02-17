@@ -89,4 +89,6 @@ otra herramienta para enumerar. en este caso no encontramos nada.
 vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del repositorio de github 
 ![[Pasted image 20240217190205.png]]
 
-###### una ves cl
+###### una ves clonado el repositorio vamos al directorio para instalar los requierements
+![[Pasted image 20240217190539.png]]
+
