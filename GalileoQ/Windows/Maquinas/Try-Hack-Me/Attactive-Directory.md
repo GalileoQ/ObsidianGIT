@@ -94,4 +94,8 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 ###### esta herramienta necesita un diccionario de usuarios y uno de contraseñas para poder funcionar
 ```python
 	python3 kerbrute.py -users userlist.txt -passwords passwordlist.txt -domain spookysec.local -t 100
+	
+	./kerbrute_linux_amd64 userenum --dc 10.10.124.3 -d spookysec.local userlist.txt
 ```
+
+
