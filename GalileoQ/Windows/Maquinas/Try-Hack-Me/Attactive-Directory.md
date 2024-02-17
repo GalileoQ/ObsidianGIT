@@ -89,3 +89,4 @@ otra herramienta para enumerar. en este caso no encontramos nada.
 vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del repositorio de github 
 ![[Pasted image 20240217190205.png]]
 
+###### una ves cl
