@@ -69,6 +69,8 @@ Nmap done: 1 IP address (1 host up) scanned in 100.22 seconds
 ```
 
 ### Ports: 53-80-88-135-139-389-445-464-593-636-3268-3269-3389-5985-9389-47001-49664-49665-49669-49673-9675-49676-49679-49684-49685
-###### El puerto 88 nos indica que esta corriendo el servisio kerberos
+###### El puerto 88 nos indica que esta corriendo el protocolo kerberos
 ###### el puerto 389 nos indica que tenemos una redireccion hacia un domino llamado "spookysec.local"
-#####
+
+### Enumeracion del puerto 80
+###### vamos a agregar el dominio al /etc/hosts
