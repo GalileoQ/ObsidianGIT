@@ -78,5 +78,6 @@ no tenemos mucha informacion del puerto 80
 ###### vamos a agregar el dominio "spookysec.local"al /etc/hosts
 
 ### crackmapexec
-esta herramienta nos permite enumerar el puerto smb para optener un poco de informacion 
+esta herramienta nos permite enumerar el puerto smb para obtener un poco de información 
 ![[Pasted image 20240217184401.png]]
+
