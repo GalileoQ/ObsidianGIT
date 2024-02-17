@@ -85,4 +85,6 @@ esta herramienta nos permite enumerar el puerto smb para obtener un poco de info
 otra herramienta para enumerar. en este caso no encontramos nada.
 ![[Pasted image 20240217185818.png]]
 
-### 
+### Kerbrute
+vamos a utilizar esta herramienta llamada kerbrute. haremos un 
+![[Pasted image 20240217190205.png]]
