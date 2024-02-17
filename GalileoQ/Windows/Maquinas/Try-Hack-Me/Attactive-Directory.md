@@ -86,5 +86,6 @@ otra herramienta para enumerar. en este caso no encontramos nada.
 ![[Pasted image 20240217185818.png]]
 
 ### Kerbrute
-vamos a utilizar esta herramienta llamada kerbrute. haremos un 
+vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del repositorio de github 
 ![[Pasted image 20240217190205.png]]
+
