@@ -103,5 +103,7 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 
 ###### impacket-GetNPUsers 
 de esta manera solicitamos un ticket al domain-controler el cual nos regresa una contraseña en forma de hash 
-![[Pasted image 20240217201604.png]]
+![[Pasted image 20240217202022.png]]
+
+
 
