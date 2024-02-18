@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fde4250bd7c4880f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
+                "file": "GalileoQ/Windows/Enumeración Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
+                "file": "GalileoQ/Windows/Enumeración Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md"
+                "file": "GalileoQ/Windows/Enumeración Window.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7ea09af406744a7c",
+  "active": "fde4250bd7c4880f",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "Pasted image 20240217203917.png",
     "Pasted image 20240217202902.png",
     "Pasted image 20240217202415.png",
@@ -158,8 +172,6 @@
     "Pasted image 20240217190205.png",
     "Pasted image 20240217185818.png",
     "Pasted image 20240217184401.png",
-    "Pasted image 20240217183825.png",
-    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
