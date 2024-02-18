@@ -117,3 +117,6 @@ de esta manera podemos entrar al servicio smb y al servicio compartido
 ###### decodeamos la clave
 ![[Pasted image 20240217204716.png]]
 
+### impacket-secretsdump
+
+![[Pasted image 20240217205119.png]]
