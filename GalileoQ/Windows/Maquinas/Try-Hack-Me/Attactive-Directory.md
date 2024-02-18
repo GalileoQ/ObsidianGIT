@@ -121,3 +121,5 @@ de esta manera podemos entrar al servicio smb y al servicio compartido
 proporcionamos la clave y podemos listar todos los hash. en este caso tenemos el hash de administrator
 ![[Pasted image 20240217205119.png]]
 
+###### impacket-psexec
+![[Pasted image 20240217205829.png]]
