@@ -124,3 +124,4 @@ proporcionamos la clave y podemos listar todos los hash. en este caso tenemos el
 ###### impacket-psexec
 
 ![[Pasted image 20240217205829.png]]
+![[Pasted image 20240217210816.png]]
