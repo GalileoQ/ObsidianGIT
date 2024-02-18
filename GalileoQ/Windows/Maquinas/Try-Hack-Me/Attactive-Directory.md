@@ -107,3 +107,6 @@ de esta manera solicitamos un ticket al domain-controler el cual nos regresa una
 ###### guardamos el ticket en un archivo llamado hash y se lo pasamos a john
 ![[Pasted image 20240217202415.png]]
 
+### crackmapexec
+con esta he
+![[Pasted image 20240217202902.png]]
