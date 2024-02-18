@@ -118,5 +118,6 @@ de esta manera podemos entrar al servicio smb y al servicio compartido
 ![[Pasted image 20240217204716.png]]
 
 ### impacket-secretsdump
-
+proporcionamos la clave y podemos listar todos los hash. en este caso tenemos el hash de administrator
 ![[Pasted image 20240217205119.png]]
+
