@@ -114,4 +114,5 @@ con esta herramienta podemos validar las credenciales y también podemos ver los
 ### smbclient 
 de esta manera podemos entrar al servicio smb y al servicio compartido
 ![[Pasted image 20240217203917.png]]
-
+###### de
+![[Pasted image 20240217204716.png]]
