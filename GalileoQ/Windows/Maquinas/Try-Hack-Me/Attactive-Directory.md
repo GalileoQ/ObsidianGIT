@@ -111,3 +111,6 @@ de esta manera solicitamos un ticket al domain-controler el cual nos regresa una
 con esta herramienta podemos validar las credenciales y también podemos ver los recursos compartidos. tenemos un recurso llamado backup
 ![[Pasted image 20240217202902.png]]
 
+### smbclient 
+
+![[Pasted image 20240217203917.png]]
