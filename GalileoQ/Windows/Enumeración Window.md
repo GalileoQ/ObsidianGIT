@@ -47,6 +47,12 @@ route print
 
 netstat -ano
 ```
+
+### smbclient 
+
+```python
+	smbclient \\\\spookysec.local\\backup --user user --password pass
+```
 ### Búsqueda de archivos
 
 ```python
