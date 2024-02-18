@@ -101,5 +101,6 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 ![[Pasted image 20240217195612.png]]
 ###### en este caso el usuario que mas llama la atencion es el svc-admin@spookysec.local
 
-###### impa
+###### impacket-GetNPUsers 
+
 ![[Pasted image 20240217201604.png]]
