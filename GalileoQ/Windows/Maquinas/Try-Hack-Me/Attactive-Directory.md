@@ -102,5 +102,5 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 ###### en este caso el usuario que mas llama la atencion es el svc-admin@spookysec.local
 
 ###### impacket-GetNPUsers 
-
+de esta manera solicitamos un tiket al domain-controler 
 ![[Pasted image 20240217201604.png]]
