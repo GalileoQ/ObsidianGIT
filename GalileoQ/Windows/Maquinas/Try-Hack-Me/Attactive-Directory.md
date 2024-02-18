@@ -108,6 +108,6 @@ de esta manera solicitamos un ticket al domain-controler el cual nos regresa una
 ![[Pasted image 20240217202415.png]]
 
 ### crackmapexec
-con esta herramienta podemos validar las credenciales y también podemos ver los recursos compartidos
+con esta herramienta podemos validar las credenciales y también podemos ver los recursos compartidos. tenemos 
 ![[Pasted image 20240217202902.png]]
 
