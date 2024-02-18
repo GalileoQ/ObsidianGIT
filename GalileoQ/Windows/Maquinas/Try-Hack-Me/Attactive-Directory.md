@@ -105,5 +105,6 @@ vamos a utilizar esta herramienta llamada kerbrute. haremos un git clone del rep
 de esta manera solicitamos un ticket al domain-controler el cual nos regresa una contraseña en forma de hash 
 ![[Pasted image 20240217202022.png]]
 
+###### guardamos la contraseña en un archivo llamado hash y se lo pasamos a john
 
-
+![[Pasted image 20240217202415.png]]
