@@ -103,5 +103,5 @@ El puerto 3389 nos permite establecer una conexion mediante Microsoft Terminal S
 al parecer las credenciales no están habilitadas
 
 ### Enumeracion del puerto 48663
-si nos dirigimos al directorio compartido y
+si nos dirigimos al directorio compartido y al archivo lo podemos ver desde la pagina web 
 ![[Pasted image 20240223232625.png]]
