@@ -113,3 +113,5 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 ### Escalada de privilegios
 
 ![[Pasted image 20240223234543.png]]
+###### realizando una busqueda por google
+![[Pasted image 20240223235231.png]]
