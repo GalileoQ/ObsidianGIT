@@ -123,3 +123,8 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 ###### subimos el archivo al directorio compartido
 ![[Pasted image 20240223235833.png]]
 
+###### para buscar el archivo lo hacemos con el siguiente comando 
+```python
+	dir NombreDelArchivo /s /p
+```
+![[Pasted image 20240224000305.png]]
