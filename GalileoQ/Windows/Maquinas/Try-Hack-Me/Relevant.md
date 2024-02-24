@@ -131,3 +131,5 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 
 ###### ejecutamos el exploit 
 ![[Pasted image 20240224000736.png]]
+
+### WE ARE ROOT
