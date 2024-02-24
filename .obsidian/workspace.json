@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1140dcd438339b39",
+        "id": "78c24c8f6d318796",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea09af406744a7c",
+            "id": "e0fddab0813074a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16b0e0bbf834003f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "fde4250bd7c4880f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,21 +138,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "16b0e0bbf834003f",
+  "active": "e0fddab0813074a0",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "Pasted image 20240217211839.png",
     "Pasted image 20240217210816.png",
     "Pasted image 20240217205829.png",
     "Pasted image 20240217205119.png",
     "Pasted image 20240217204716.png",
     "GalileoQ/Windows/Enumeración Window.md",
-    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "Pasted image 20240217203917.png",
     "Pasted image 20240217202902.png",
     "Pasted image 20240217202415.png",
     "Pasted image 20240217202022.png",
     "Pasted image 20240217201604.png",
-    "Pasted image 20240217195612.png",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
