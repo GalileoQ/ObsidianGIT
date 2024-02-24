@@ -109,3 +109,7 @@ si nos dirigimos al directorio compartido y al archivo lo podemos ver desde la p
 ### ReverseShell
 creamos una reverse shell con msfvenom. la subimos al directorio compartido y luego hacemos la conexión 
 ![[Pasted image 20240223234147.png]]
+
+### Escalada de privilegios
+
+![[Pasted image 20240223234543.png]]
