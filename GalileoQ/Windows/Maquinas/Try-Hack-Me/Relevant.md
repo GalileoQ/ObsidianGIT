@@ -128,3 +128,6 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 	dir NombreDelArchivo /s /p
 ```
 ![[Pasted image 20240224000305.png]]
+
+###### ejecutamos el exploit 
+![[Pasted image 20240224000736.png]]
