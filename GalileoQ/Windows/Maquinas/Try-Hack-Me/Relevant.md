@@ -68,3 +68,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 170.95 seconds
 ```
 
+| PORT  | STATE  | SERVICE | VERSION |
+| ----- | ------ | ------- | ------- |
+| 80    | Open   | HTTP    | Apache  |
+| 135   | Open   | HTTPS   | Nginx   |
+| 22    | Closed | SSH     |         |
+| 8080  | Open   | HTTP    | Tomcat  |
+| 3306  | Open   | MySQL   |         |
+| 27017 | Open   | MongoDB |         |
+| 21    | Closed | FTP     |         |
+| 25    | Open   | SMTP    | Postfix |
