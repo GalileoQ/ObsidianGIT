@@ -68,6 +68,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 170.95 seconds
 ```
 
+### Ports
+
 | PORT      | STATE | SERVICE        | VERSION                                                    |
 | --------- | ----- | -------------- | ---------------------------------------------------------- |
 | 80/tcp    | open  | http           | Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)                    |
