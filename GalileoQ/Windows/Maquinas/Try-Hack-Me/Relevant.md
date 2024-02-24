@@ -99,3 +99,4 @@ El puerto 3389 nos permite establecer una conexion mediante Microsoft Terminal S
 	xfreerdp /u:REVELANT\Bill /p:'Juw4nnaM4n420696969!$$$' /v:10.10.233.28:3389
 ```
 
+![[Pasted image 20240223222058.png]]
