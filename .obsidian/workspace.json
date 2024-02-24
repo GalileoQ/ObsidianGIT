@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "GalileoQ/Windows/msfvenom shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "GalileoQ/Windows/msfvenom shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "GalileoQ/Windows/msfvenom shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md"
+                "file": "GalileoQ/Windows/msfvenom shell.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e0fddab0813074a0",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+    "GalileoQ/Windows/msfvenom shell.md",
     "Pasted image 20240224000736.png",
     "Pasted image 20240224000305.png",
     "Pasted image 20240223235833.png",
@@ -158,8 +160,6 @@
     "Pasted image 20240223232625.png",
     "Pasted image 20240223222058.png",
     "Pasted image 20240223220300.png",
-    "Pasted image 20240223215640.png",
-    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
