@@ -1,4 +1,4 @@
-### TTL
+### Ping
 ```python
 ping -c 1 10.10.235.94
 PING 10.10.235.94 (10.10.235.94) 56(84) bytes of data.
@@ -8,6 +8,9 @@ PING 10.10.235.94 (10.10.235.94) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 197.975/197.975/197.975/0.000 ms
 ```
+
+### TTL = 127 > Window
+
 ### nmap
 ```python
 PORT      STATE SERVICE        VERSION
