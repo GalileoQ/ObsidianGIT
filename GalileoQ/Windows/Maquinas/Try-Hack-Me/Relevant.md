@@ -100,3 +100,4 @@ El puerto 3389 nos permite establecer una conexion mediante Microsoft Terminal S
 ```
 
 ![[Pasted image 20240223222058.png]]
+al parecer las credenciales no estan habilitadas
