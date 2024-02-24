@@ -115,3 +115,8 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 ![[Pasted image 20240223234543.png]]
 ###### realizando una busqueda por google
 ![[Pasted image 20240223235231.png]]
+
+
+###### conseguimos uno que ya esta compilado 
+![[Pasted image 20240223235737.png]]
+
