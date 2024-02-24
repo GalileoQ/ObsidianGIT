@@ -22,7 +22,7 @@ PORT      STATE SERVICE        VERSION
 135/tcp   open  msrpc          Microsoft Windows RPC
 139/tcp   open  netbios-ssn    Microsoft Windows netbios-ssn
 445/tcp   open  microsoft-ds   Windows Server 2016 Standard Evaluation 14393 microsoft-ds
-3389/tcp  open  ms-wbt-server?
+3389/tcp  open  ms-wbt-server? Microsoft Terminal Services
 | ssl-cert: Subject: commonName=Relevant
 | Not valid before: 2024-02-23T00:00:13
 |_Not valid after:  2024-08-24T00:00:13
@@ -94,7 +94,7 @@ hemos intentado con todos los recursos, tenemos conexión con el nt4wrksv
 ![[Pasted image 20240223220300.png]]
 
 ### Enumeracion puerto 3389
-
+debido a que el puerto 3389 nos permite establecer una conexion mediante Microsoft Terminal Services
 ```python
 	xfreerdp /u:REVELANT\Bill /p:'Juw4nnaM4n420696969!$$$' /v:10.10.233.28:3389
 ```
