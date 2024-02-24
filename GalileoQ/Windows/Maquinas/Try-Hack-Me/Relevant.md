@@ -89,3 +89,6 @@ Nmap done: 1 IP address (1 host up) scanned in 170.95 seconds
 ![[Pasted image 20240223215640.png]]
 hemos intentado con todos los recursos, tenemos conexión con el nt4wrksv 
 
+###### 
+
+![[Pasted image 20240223220300.png]]
