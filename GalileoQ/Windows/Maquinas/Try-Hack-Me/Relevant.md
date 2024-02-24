@@ -120,3 +120,6 @@ creamos una reverse shell con msfvenom. la subimos al directorio compartido y lu
 ###### conseguimos uno que ya esta compilado 
 ![[Pasted image 20240223235737.png]]
 
+###### subimos el archivo al directorio compartido
+![[Pasted image 20240223235833.png]]
+
