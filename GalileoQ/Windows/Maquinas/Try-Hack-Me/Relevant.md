@@ -68,13 +68,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 170.95 seconds
 ```
 
-| PORT  | STATE  | SERVICE | VERSION |
-| ----- | ------ | ------- | ------- |
-| 80    | Open   | HTTP    | Apache  |
-| 135   | Open   | HTTPS   | Nginx   |
-| 22    | Closed | SSH     |         |
-| 8080  | Open   | HTTP    | Tomcat  |
-| 3306  | Open   | MySQL   |         |
-| 27017 | Open   | MongoDB |         |
-| 21    | Closed | FTP     |         |
-| 25    | Open   | SMTP    | Postfix |
+| PORT      | STATE | SERVICE        | VERSION                                                    |
+| --------- | ----- | -------------- | ---------------------------------------------------------- |
+| 80/tcp    | open  | http           | Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)                    |
+| 135/tcp   | open  | msrpc          | Microsoft Windows RPC                                      |
+| 139/tcp   | open  | netbios-ssn    | Microsoft Windows netbios-ssn                              |
+| 445/tcp   | open  | microsoft-ds   | Windows Server 2016 Standard Evaluation 14393 microsoft-ds |
+| 3389/tcp  | open  | ms-wbt-server? |                                                            |
+| 49663/tcp | open  | http           | Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)                    |
+| 49667/tcp | open  | msrpc          | Microsoft Windows RPC                                      |
+| 49669/tcp | open  | msrpc          | Microsoft Windows RPC                                      |
