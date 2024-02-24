@@ -87,4 +87,5 @@ Nmap done: 1 IP address (1 host up) scanned in 170.95 seconds
 ### Enumeracion del puerto 445
 
 ![[Pasted image 20240223215640.png]]
-hemos intentado con todos los recursos. 
+hemos intentado con todos los recursos, tenemos conexión con el nt4wrksv 
+
