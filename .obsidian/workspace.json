@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d541abaad1b1e4b",
+        "id": "7cd829faaf1c6d68",
         "type": "tabs",
         "children": [
           {
-            "id": "288d8bdd561affc0",
+            "id": "8c2b166fe901fe52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/msfvenom shell.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/msfvenom shell.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/msfvenom shell.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/msfvenom shell.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "288d8bdd561affc0",
+  "active": "8c2b166fe901fe52",
   "lastOpenFiles": [
-    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Windows/msfvenom shell.md",
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
     "Pasted image 20240224000736.png",
     "Pasted image 20240224000305.png",
     "Pasted image 20240223235833.png",
@@ -188,7 +189,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
