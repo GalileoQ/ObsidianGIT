@@ -160,6 +160,12 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 	find / -iname nombre_archivo
 ```
+
+### Permisos SUID
+
+```python
+	find / -perm -04000 -ls 2>/dev/null
+```
 ### Fuerza bruta con hydra para ssh
 
 ```python
