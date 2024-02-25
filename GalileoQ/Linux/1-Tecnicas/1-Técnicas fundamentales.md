@@ -189,3 +189,9 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 echo -n "caracteres" | wc -c
 ```
+
+### Capabilitis 
+
+```python
+	getcap -r / 2>/dev/null
+```
