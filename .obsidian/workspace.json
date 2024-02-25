@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md"
               }
             }
           }
@@ -159,10 +158,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "22dfdaa8a7528095",
+  "active": "8c2b166fe901fe52",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
+    "Pasted image 20240224220415.png",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "Pasted image 20240224212355.png",
     "Pasted image 20240224204640.png",
@@ -202,7 +202,6 @@
     "Curso/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
