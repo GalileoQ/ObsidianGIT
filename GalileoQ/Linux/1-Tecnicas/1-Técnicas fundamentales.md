@@ -26,7 +26,7 @@
 ### TTY Shell con Python
 
 ```python
-	python -c 'import pty; pty.spawn("/bin/sh")'
+	python3 -c 'import pty; pty.spawn("/bin/sh")'
 ```
 
 ### Copiar al clipboard
