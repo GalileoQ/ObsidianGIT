@@ -196,4 +196,8 @@ echo -n "caracteres" | wc -c
 	getcap -r / 2>/dev/null
 ```
 
-### Standard PAT
+### Standard PAHT
+
+```python
+	export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+```
