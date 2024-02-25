@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "Template Pentesting Notes/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "Template Pentesting Notes/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+                "file": "Template Pentesting Notes/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md"
+                "file": "Template Pentesting Notes/Sin título.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "595d14f7be787edd",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
+    "Template Pentesting Notes/Sin título.md",
+    "plantillas",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Windows/msfvenom shell.md",
-    "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
     "Pasted image 20240224000736.png",
     "Pasted image 20240224000305.png",
     "Pasted image 20240223235833.png",
@@ -201,12 +203,10 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
     "GalileoQ/Linux/Scripts",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun",
     "Sin título.canvas"
   ]
 }
