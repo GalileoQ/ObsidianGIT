@@ -50,7 +50,9 @@ parece que no funciona esta id_rsa
 ### Enumeracion del sistema
 
 ![[Pasted image 20240224224512.png]]
-tenemos un exploit 
+tenemos un exploit para esta version de linux
+
+
 ###### vamos a sobre escribir el path debido a que el actual parece estar dañado
 ```python
 	export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
