@@ -56,3 +56,6 @@ tenemos un exploit para esta version de linux. creamos un servidor y lo comparti
 	export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ```
 
+![[Pasted image 20240224225042.png]]
+
+### WE ARE ROOT
