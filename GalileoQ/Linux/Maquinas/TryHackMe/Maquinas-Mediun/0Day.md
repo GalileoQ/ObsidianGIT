@@ -30,3 +30,4 @@ Nmap done: 1 IP address (1 host up) scanned in 33.39 seconds
 ### Fuzzing con wffuzz
 
 ![[Pasted image 20240224204334.png]]
+###### en el directorio backup encontramos un id_rsa
