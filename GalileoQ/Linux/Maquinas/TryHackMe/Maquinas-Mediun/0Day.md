@@ -33,3 +33,5 @@ Nmap done: 1 IP address (1 host up) scanned in 33.39 seconds
 ###### en el directorio backup encontramos un id_rsa
 ![[Pasted image 20240224204640.png]]
 
+### Common Vulnerabilities and Exposures
+###### 
