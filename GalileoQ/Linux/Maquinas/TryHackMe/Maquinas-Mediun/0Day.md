@@ -23,4 +23,4 @@ Nmap done: 1 IP address (1 host up) scanned in 33.39 seconds
 | 22/tcp | open  | ssh     | OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0) |
 | 80/tcp | open  | http    | Apache httpd 2.4.7 ((Ubuntu))                                   |
 
-### Enumeración puerto 
+### Enumeración puerto 80
