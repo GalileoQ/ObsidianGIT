@@ -1,4 +1,4 @@
-### nmap
+### nma
 ```python
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
@@ -17,8 +17,7 @@ Nmap done: 1 IP address (1 host up) scanned in 33.39 seconds
 ```
 
 
-| PORT   | STATE | SERVICE | VERSION                                 |
-| ------ | ----- | ------- | --------------------------------------- |
-| 22/tcp | open  | http    | Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP) |
-| 80/tcp | open  | msrpc   | Microsoft Windows RPC                   |
-|        |       |         |                                         |
+| PORT   | STATE | SERVICE | VERSION                                                         |
+| ------ | ----- | ------- | --------------------------------------------------------------- |
+| 22/tcp | open  | http    | OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0) |
+| 80/tcp | open  | msrpc   | Microsoft Windows RPC                                           |
