@@ -148,6 +148,7 @@
   },
   "active": "009efcbe62bd6867",
   "lastOpenFiles": [
+    "plantillas",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GITHUB/Postear.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
@@ -167,7 +168,6 @@
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "Template Pentesting Notes/Tabla.md",
-    "plantillas",
     "GalileoQ/Windows/msfvenom shell.md",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
@@ -189,7 +189,6 @@
     "GalileoQ/Linux/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "Curso/Metaesploitable2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Metaesploitable2.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
