@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd829faaf1c6d68",
+        "id": "e6f289824c1ba129",
         "type": "tabs",
         "children": [
           {
-            "id": "8c2b166fe901fe52",
+            "id": "0e4d316a5ac07dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22dfdaa8a7528095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md"
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md"
               }
             }
           }
@@ -158,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8c2b166fe901fe52",
+  "active": "0e4d316a5ac07dcf",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "imagenes/Pasted image 20240224224841.png",
     "imagenes/Pasted image 20240224224512.png",
     "imagenes/Pasted image 20240224220415.png",
@@ -170,9 +160,7 @@
     "imagenes/Pasted image 20240224000736.png",
     "imagenes/Pasted image 20240224000305.png",
     "imagenes/Pasted image 20240223235833.png",
-    "imagenes/Pasted image 20240223235737.png",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "Template Pentesting Notes/Tabla.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
