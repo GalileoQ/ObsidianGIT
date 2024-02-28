@@ -42,4 +42,4 @@ Nmap done: 1 IP address (1 host up) scanned in 44.48 seconds
 ```
 este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64 
 ![[Pasted image 20240228174008.png]]
-
+###### esta re
