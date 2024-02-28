@@ -51,4 +51,5 @@ este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64
 ###### perfecto. miramos el codigo fuente
 ![[Pasted image 20240228175200.png]]
 ###### parece que podemos ver el archivo /etc/passwd 
-
+sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apuntar 
+![[Pasted image 20240228190816.png]]
