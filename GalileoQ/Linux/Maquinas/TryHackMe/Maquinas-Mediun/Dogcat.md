@@ -33,3 +33,5 @@ Nmap done: 1 IP address (1 host up) scanned in 44.48 seconds
 | 80/tcp | open  | http    | Apache httpd 2.4.38 ((Debian))                               |
 ### Enumeración del puerto 80
 
+![[Pasted image 20240228172752.png]]
+
