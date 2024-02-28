@@ -75,4 +75,5 @@ tendremos que inyectar un codigo php URL encode en la variable &cmd para que pue
 ![[Pasted image 20240228195209.png]]
 
 ### WE ARE ROOT
+
 ![[Pasted image 20240228195111.png]]
