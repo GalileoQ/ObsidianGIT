@@ -60,5 +60,6 @@ podemos ver el access.log así que tendremos que aplicar la técnica Log Poisoni
 
 ### Burpsuite
 ###### interceptamos la peticion para poder ver la url y envenenamos el log de la siguiente manera
-tendremos que inyectar un codigo php URL
+tendremos que inyectar un codigo php URL encode en la variable &cmd para que pueda ser imterpretada por el systema
+
 ![[Pasted image 20240228190816.png]]
