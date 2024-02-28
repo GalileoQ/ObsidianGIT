@@ -46,3 +46,6 @@ este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64
 ```python
 /?view=./dog/../../../../../../../etc/passwd&ext=
 ```
+
+![[Pasted image 20240228174831.png]]
+###### perfecto. miramos el codigo fuente
