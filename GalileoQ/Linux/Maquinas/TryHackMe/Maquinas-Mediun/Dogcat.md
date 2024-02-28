@@ -71,7 +71,8 @@ tendremos que inyectar un codigo php URL encode en la variable &cmd para que pue
 ### Escalada de privilegios 
 
 ![[Pasted image 20240228192848.png]]
+###### tenemos un archivo backup.sh que parece ser una tarea cron
+![[Pasted image 20240228195209.png]]
 
-
-
+### WE ARE ROOT
 ![[Pasted image 20240228195111.png]]
