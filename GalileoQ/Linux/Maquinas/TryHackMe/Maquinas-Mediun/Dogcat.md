@@ -59,5 +59,6 @@ sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apu
 podemos ver el access.log así que tendremos que aplicar la técnica Log Poisoning para envenenar el log de acceso y poder inyectar una reverse shell
 
 ### Burpsuite
-###### interceptamos 
+###### interceptamos la peticion para poder ver la url y envenenamos el log de la siguiente manera
+tendremos que inyectar un codigo php URL
 ![[Pasted image 20240228190816.png]]
