@@ -64,4 +64,7 @@ tendremos que inyectar un codigo php URL encode en la variable &cmd para que pue
 
 ![[Pasted image 20240228190816.png]]
 
-### nc -
+### nc -lvnp 7890
+
+![[Pasted image 20240228191534.png]]
+
