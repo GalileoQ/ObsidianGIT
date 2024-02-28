@@ -37,3 +37,8 @@ Nmap done: 1 IP address (1 host up) scanned in 44.48 seconds
 ###### al hacer click en los botones las imagenes y los gatos son aleatorios. tambien tenemos un = por lo que podemos intentar un PATH traversal
 ![[Pasted image 20240228173259.png]]
 ###### ok parece que están sanetizando de alguna manera este archivo así que vamos a intentar baypasearlo con una técnica de direcroty traversal 
+```python
+/?view=php://filter/read=convert.base64-encode/resource=./dog/../index
+```
+este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64 
+
