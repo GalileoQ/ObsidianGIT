@@ -201,3 +201,8 @@ echo -n "caracteres" | wc -c
 ```python
 	export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ```
+
+### Integridad del hash de un binario compartido
+```python
+	md5sum Binario
+```
