@@ -53,5 +53,9 @@ este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64
 ###### parece que podemos ver el archivo /etc/passwd 
 sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apuntar al log y envenenarlo(Log Poisoning)
 
-GET /?view=./dog../../../../../../var/log/apache2/access.log&ext= HTTP/1.1
+```python
+	GET /?view=./dog../../../../../../var/log/apache2/access.log&ext= HTTP/1.1
+```
+podemos ver el access.log asi que tendremos que aplicar la tecnica Log Poisoning para envenenar el log de acceso y poder unyectar una reverse shell
+
 ![[Pasted image 20240228190816.png]]
