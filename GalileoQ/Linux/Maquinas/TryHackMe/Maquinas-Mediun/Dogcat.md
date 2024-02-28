@@ -71,3 +71,7 @@ tendremos que inyectar un codigo php URL encode en la variable &cmd para que pue
 ### Escalada de privilegios 
 
 ![[Pasted image 20240228192848.png]]
+
+
+
+![[Pasted image 20240228195111.png]]

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "521f2fc3a2de726c",
+  "active": "2fe7f70c8405b080",
   "lastOpenFiles": [
+    "Pasted image 20240228195111.png",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "Pasted image 20240228192848.png",
     "Pasted image 20240228191534.png",
@@ -194,7 +195,6 @@
     "GalileoQ/Windows/Maquinas",
     "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
     "Curso/eJPTv2.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Pivoting.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
