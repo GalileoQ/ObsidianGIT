@@ -34,4 +34,6 @@ Nmap done: 1 IP address (1 host up) scanned in 44.48 seconds
 ### Enumeración del puerto 80
 
 ![[Pasted image 20240228172752.png]]
-###### al hacer click en los botones las imagenes y los gatos son aleatorios. tambien tenemos 
+###### al hacer click en los botones las imagenes y los gatos son aleatorios. tambien tenemos un = por lo que podemos intentar un PATH traversal
+![[Pasted image 20240228173259.png]]
+
