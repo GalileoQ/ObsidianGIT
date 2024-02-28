@@ -56,6 +56,8 @@ sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apu
 ```python
 	GET /?view=./dog../../../../../../var/log/apache2/access.log&ext= HTTP/1.1
 ```
-podemos ver el access.log asi que tendremos que aplicar la tecnica Log Poisoning para envenenar el log de acceso y poder unyectar una reverse shell
+podemos ver el access.log así que tendremos que aplicar la técnica Log Poisoning para envenenar el log de acceso y poder inyectar una reverse shell
 
+### Burpsuite
+###### interceptamos 
 ![[Pasted image 20240228190816.png]]
