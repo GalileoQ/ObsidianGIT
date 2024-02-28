@@ -51,5 +51,7 @@ este comando nos ayuda a hacer el llamado al recurso y encodearlo en base64
 ###### perfecto. miramos el codigo fuente
 ![[Pasted image 20240228175200.png]]
 ###### parece que podemos ver el archivo /etc/passwd 
-sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apuntar 
+sin embargo no tenemos nungun hash por lo que puedo pensar que tendremos que apuntar al log y envenenarlo(Log Poisoning)
+
+GET /?view=./dog../../../../../../var/log/apache2/access.log&ext= HTTP/1.1
 ![[Pasted image 20240228190816.png]]
