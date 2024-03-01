@@ -28,3 +28,16 @@ Nmap done: 1 IP address (1 host up) scanned in 128.05 seconds
 ```
 
 ### Ports
+| PORT      | STATE | SERVICE     | VERSION                               |
+|-----------|-------|-------------|---------------------------------------|
+| 53/tcp    | open  | domain      | Simple DNS Plus                       |
+| 135/tcp   | open  | msrpc       | Microsoft Windows RPC                 |
+| 445/tcp   | open  | microsoft-ds|                                       |
+| 464/tcp   | open  | kpasswd5    |                                       |
+| 6379/tcp  | open  | redis       | Redis key-value store 2.8.2402        |
+| 49665/tcp | open  | msrpc       | Microsoft Windows RPC                 |
+| 49668/tcp | open  | msrpc       | Microsoft Windows RPC                 |
+| 49669/tcp | open  | ncacn_http  | Microsoft Windows RPC over HTTP 1.0   |
+| 49670/tcp | open  | msrpc       | Microsoft Windows RPC                 |
+| 49685/tcp | open  | msrpc       | Microsoft Windows RPC                 |
+| 49698/tcp | open  | msrpc       | Microsoft Windows RPC                 |
