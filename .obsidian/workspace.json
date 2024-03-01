@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md"
+                "file": "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "2fe7f70c8405b080",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "Pasted image 20240228195209.png",
     "Pasted image 20240228195111.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "Pasted image 20240228192848.png",
     "Pasted image 20240228191534.png",
     "Pasted image 20240228190816.png",
@@ -180,7 +180,6 @@
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
-    "imagenes/Pasted image 20240224224841.png",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "Template Pentesting Notes/Tabla.md",
     "GalileoQ/Windows/msfvenom shell.md",
