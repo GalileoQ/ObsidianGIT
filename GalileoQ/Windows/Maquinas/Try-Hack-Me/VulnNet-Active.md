@@ -42,8 +42,11 @@ Nmap done: 1 IP address (1 host up) scanned in 128.05 seconds
 | 49685/tcp | open  | msrpc       | Microsoft Windows RPC                 |
 | 49698/tcp | open  | msrpc       | Microsoft Windows RPC                 |
 
+### Enumeracion con smbclient
 
+![[Pasted image 20240302172336.png]]
 
+### Enumeracion con smbmap
 ![[Pasted image 20240302172043.png]]
 
 
