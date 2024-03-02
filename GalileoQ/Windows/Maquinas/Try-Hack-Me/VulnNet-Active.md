@@ -42,4 +42,9 @@ Nmap done: 1 IP address (1 host up) scanned in 128.05 seconds
 | 49685/tcp | open  | msrpc       | Microsoft Windows RPC                 |
 | 49698/tcp | open  | msrpc       | Microsoft Windows RPC                 |
 
+
+
+![[Pasted image 20240302172043.png]]
+
+
 ### Enumeracion del puerto 6379/ redis
