@@ -49,5 +49,4 @@ Nmap done: 1 IP address (1 host up) scanned in 128.05 seconds
 ### Enumeracion con smbmap
 ![[Pasted image 20240302172043.png]]
 
-
 ### Enumeracion del puerto 6379/ redis
