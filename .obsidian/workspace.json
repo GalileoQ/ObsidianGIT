@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1049ceb86c929d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
               }
             }
           }
@@ -159,8 +170,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c0e0f79040d5e60",
+  "active": "a6263f4079f02f49",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "Pasted image 20240302204849.png",
@@ -168,7 +181,6 @@
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/VulnNet-Active.md",
     "Pasted image 20240302172336.png",
     "Pasted image 20240302172043.png",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "imagenes/Pasted image 20240228195111.png",
     "imagenes/Pasted image 20240228192848.png",
     "imagenes/Pasted image 20240228191534.png",
@@ -178,7 +190,6 @@
     "imagenes/Pasted image 20240228174008.png",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GITHUB/Postear.md",
     "plantillas",
