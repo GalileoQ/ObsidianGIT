@@ -25,3 +25,6 @@ Nmap done: 1 IP address (1 host up) scanned in 53.08 seconds
 ```
 
 ### Enumeración del puerto 80
+
+![[Pasted image 20240302204849.png]]
+
