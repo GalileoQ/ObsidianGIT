@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c0e0f79040d5e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
+                "file": "GalileoQ/Linux/Shell/OneLiners.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a6263f4079f02f49",
+  "active": "4c0e0f79040d5e60",
   "lastOpenFiles": [
-    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "Pasted image 20240302204849.png",
     "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/VulnNet-Active.md",
