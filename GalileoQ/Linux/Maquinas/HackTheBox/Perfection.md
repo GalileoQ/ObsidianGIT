@@ -27,7 +27,8 @@ Nmap done: 1 IP address (1 host up) scanned in 53.08 seconds
 ### Enumeración del puerto 80
 
 ![[Pasted image 20240302204849.png]]
-
+en esta parte tenemos una espec
+![[Pasted image 20240303152607.png]]
 ### Burpsuite
 interceptamos la peticion con burp y al intentar ingresar una reverse shell lo detecta como codigo malisioso
-![[Pasted image 20240303152515.png]]
+![[Pasted image 20240303152
