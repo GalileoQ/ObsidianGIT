@@ -28,3 +28,6 @@ Nmap done: 1 IP address (1 host up) scanned in 53.08 seconds
 
 ![[Pasted image 20240302204849.png]]
 
+### Burpsuite
+interceptamos la peticion con burp y al intentar ingresar una reverse shell nos detecta 
+![[Pasted image 20240303152357.png]]
