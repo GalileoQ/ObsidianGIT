@@ -8,6 +8,7 @@ PING 10.10.11.253 (10.10.11.253) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 371.851/371.851/371.851/0.000 ms
 ```
+### TTL 63= Linux
 ### nmpa
 ```python
 PORT   STATE SERVICE VERSION
