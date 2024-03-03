@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
               }
             }
           }
@@ -171,11 +170,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c0e0f79040d5e60",
+  "active": "a6263f4079f02f49",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "Pasted image 20240302204849.png",
     "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
