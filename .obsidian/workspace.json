@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80533906e415ebe6",
+        "id": "a918e490fd308b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae2ad428677dc4b4",
+            "id": "a6263f4079f02f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Entorno/Keyboard shortcuts.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ae2ad428677dc4b4",
+  "active": "a6263f4079f02f49",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+    "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/VulnNet-Active.md",
     "Pasted image 20240302172336.png",
     "Pasted image 20240302172043.png",
@@ -188,7 +190,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Linux/Escalada/Linux.md",
-    "GalileoQ/Linux/Scripts/Script Try Hack Me.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
