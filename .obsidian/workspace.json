@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b5213a1d69521eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Shell/OneLiners.md"
               }
             }
           }
@@ -159,10 +171,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dc595f0c0e7f1bec",
+  "active": "9b5213a1d69521eb",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "Pasted image 20240303204746.png",
     "Pasted image 20240303204514.png",
     "Pasted image 20240303203611.png",
