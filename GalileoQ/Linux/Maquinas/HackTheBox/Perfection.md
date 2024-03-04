@@ -34,7 +34,9 @@ interceptamos la petición con burp y al intentar ingresar una reverse shell lo 
 ![[Pasted image 20240303152515.png]]
 
 
+### Info
 
+![[Pasted image 20240303203611.png]]
 
 ### regex ruby bypass
 
