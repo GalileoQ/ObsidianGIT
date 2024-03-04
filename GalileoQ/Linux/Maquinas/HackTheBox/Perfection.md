@@ -60,3 +60,4 @@ pupilpath_credentials.db
 
 ### sqlite3
 ![[Pasted image 20240304130045.png]]
+
