@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ad6e927ab25ec204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b5213a1d69521eb",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
+                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -158,11 +171,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a6263f4079f02f49",
+  "active": "ad6e927ab25ec204",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "Pasted image 20240303204746.png",
     "Pasted image 20240303204514.png",
     "Pasted image 20240303203611.png",
