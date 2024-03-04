@@ -32,3 +32,10 @@ en esta parte tenemos una especie de calculadora podemos interactuar e intentar 
 ### Burpsuite
 interceptamos la petición con burp y al intentar ingresar una reverse shell lo detecta como código malicioso
 ![[Pasted image 20240303152515.png]]
+
+
+
+
+### regex ruby bypass
+
+![[Pasted image 20240303203414.png]]
