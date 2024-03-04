@@ -57,3 +57,4 @@ tenemos un archivo db que podemos leer con sqlite3
 ###### conseguimos un archivo 
 ### hashcat
 ![[Pasted image 20240304130441.png]]
+
