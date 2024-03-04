@@ -65,3 +65,4 @@ tenemos un archivo db que podemos leer con sqlite3
 ![[Pasted image 20240304142429.png]] 
 ###### tenemos la clave de susan
 
+![[Pasted image 20240304145027.png]]
