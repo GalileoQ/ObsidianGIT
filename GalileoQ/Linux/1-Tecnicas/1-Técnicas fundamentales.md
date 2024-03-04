@@ -8,9 +8,7 @@
 	
 	stty raw -echo; fg # Recupera la shell suspendida
 	
-	reset "xterm" # Reinicia la configuración de la terminal
-	
-	xterm # Especifica el tipo de terminal
+	reset xterm # Reinicia la configuración de la terminal xterm # Especifica el tipo de terminal
 	
 	export TERM=xterm # Asigna xterm a la variable TERM
 	
