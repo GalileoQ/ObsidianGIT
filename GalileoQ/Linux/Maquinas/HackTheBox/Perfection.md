@@ -49,3 +49,4 @@ en este caso tenemos que agregar un salto de linea para que ruby pueda interpret
 
 de esta manera podemos tener acceso
 ![[Pasted image 20240303204746.png]]
+

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dc595f0c0e7f1bec",
+  "active": "a6263f4079f02f49",
   "lastOpenFiles": [
+    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "Pasted image 20240303204746.png",
     "Pasted image 20240303204514.png",
@@ -179,7 +179,6 @@
     "Pasted image 20240302172043.png",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
-    "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GITHUB/Postear.md",
     "plantillas",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
