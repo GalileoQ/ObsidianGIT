@@ -6,9 +6,7 @@
 	
 	[ctrl+z] # Suspende la shell actual
 	
-	stty raw -echo
-	
-	fg # Recupera la shell suspendida
+	stty raw -echo; fg # Recupera la shell suspendida
 	
 	reset "xterm" # Reinicia la configuración de la terminal
 	
