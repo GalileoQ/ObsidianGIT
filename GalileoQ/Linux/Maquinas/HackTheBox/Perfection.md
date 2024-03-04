@@ -58,3 +58,6 @@ tenemos un archivo db que podemos leer con sqlite3
 ### hashcat
 ![[Pasted image 20240304130441.png]]
 
+### hashcat
+
+![[Pasted image 20240304142429.png]]
