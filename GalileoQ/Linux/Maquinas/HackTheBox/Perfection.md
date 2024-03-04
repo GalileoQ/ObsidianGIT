@@ -35,7 +35,7 @@ interceptamos la petición con burp y al intentar ingresar una reverse shell lo 
 
 
 ### Info
-
+tenemos informacion de come ejecutar un Execute Code
 ![[Pasted image 20240303203611.png]]
 
 ### regex ruby bypass
