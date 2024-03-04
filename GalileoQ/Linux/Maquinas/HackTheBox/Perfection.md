@@ -45,4 +45,7 @@ en este caso tenemos que agregar un salto de linea para que ruby pueda interpret
 ### regex ruby bypass
 
 ![[Pasted image 20240303203414.png]]
-###### inyectamos este coma
+###### inyectamos este comando y usamos URL_ENCODE para poder baypassear 
+
+de esta manera podemos tener acceso
+![[Pasted image 20240303204746.png]]
