@@ -91,11 +91,9 @@ descargamos el archivo UserInfo.exe.zip
 ###### Herramienta[https://github.com/icsharpcode/AvaloniaILSpy/releases/download/v7.2-rc/Linux.x64.Release.zip]
 usaremos esta herramienta para mirar el codigo de las funciones 
 
+###### La cadena enc_password se decodifica en Base64 y se coloca en una matriz de bytes. Se crea una segunda matriz de bytes llamada matriz2 con el mismo valor que matriz . La contraseña parece estar cifrada mediante XOR. El proceso de descifrado es el siguiente: El código para esta función es el siguiente. Finalmente se devuelve la clave descifrada. Se inicializa un bucle, que recorre cada carácter de la matriz y lo aplica XOR con una letra de la clave y luego con el byte 0xDFu (223).
 ![[Pasted image 20240304233251.png]]
 tenemos una password "0Nv32PTwgYjzg9/8j5TbmvPd3e7WhtWWyuPsyO76/Y+U193E"
-###### La cadena enc_password se decodifica en Base64 y se coloca en una matriz de bytes. Se crea una segunda matriz de bytes llamada matriz2 con el mismo valor que matriz . La contraseña parece estar cifrada mediante XOR. El proceso de descifrado es el siguiente: El código para esta función es el siguiente. Finalmente se devuelve la clave descifrada. Se inicializa un bucle, que recorre cada carácter de la matriz y lo aplica XOR con una letra de la clave y luego con el byte 0xDFu (223).
-
-
-![[Pasted image 20240304234651.png]]
 ###### podemos ver que hace un llamado a support.htb
+![[Pasted image 20240304234651.png]]
 
