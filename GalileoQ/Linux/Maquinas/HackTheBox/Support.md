@@ -162,6 +162,6 @@ git clone https://github.com/BloodHoundAD/BloodHound
 ###### ejecutamos
 
 ![[Pasted image 20240305011613.png]]
-![[Pasted image 20240305011758.png]]
-###### Una vez finalizada la ejecución podremos ver que se ha creado un archivo Zip que contiene todos los datos recopilados. lo descargamos usando Evil-WinRM
 
+![[Pasted image 20240305012842.png]]
+###### Una vez finalizada la ejecución podremos ver que se ha creado un archivo Zip que contiene todos los datos recopilados. lo descargamos usando Evil-WinRM
