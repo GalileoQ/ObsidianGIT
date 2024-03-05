@@ -92,4 +92,4 @@ descargamos el archivo UserInfo.exe.zip
 usaremos esta herramienta para mirar el codigo de las funciones 
 
 ![[Pasted image 20240304233251.png]]
-
+###### tenemos esta consulta de 
