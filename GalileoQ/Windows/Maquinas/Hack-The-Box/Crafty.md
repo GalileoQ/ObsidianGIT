@@ -41,3 +41,6 @@ pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty
 
 ![[Pasted image 20240210234241.png]]
 
+
+
+![[Pasted image 20240305171536.png]]
