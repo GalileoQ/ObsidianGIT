@@ -168,6 +168,7 @@ git clone https://github.com/BloodHoundAD/BloodHound
 
 ![[Pasted image 20240305014003.png]]
 
+###### Podemos ver que la sección Control de objetos delegados de grupo muestra un Este valor muestra si un grupo del que nuestro usuario es miembro tiene acceso a objetos de control. valor de 1 La descripción general anterior incluye las membresías de grupos del usuario, objetos en el dominio que el usuario tiene control en el dominio
 
 ![[Pasted image 20240305014257.png]]
-Podemos ver que la sección Control de objetos delegados de grupo muestra un Este valor muestra si un grupo del que nuestro usuario es miembro tiene acceso a objetos de control. valor de 1 La descripción general anterior incluye las membresías de grupos del usuario, objetos en el dominio que el usuario tiene control en el dominio
+###### 
