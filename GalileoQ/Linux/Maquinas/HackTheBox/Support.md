@@ -141,4 +141,4 @@ podemos ver que de hecho la maquina pertenece al dominio dc.support.htb
 
 podemos comprobar esto con el siguiente comando
 ![[Pasted image 20240305003935.png]]
-
+###### El usuario de soporte parece ser miembro de un grupo no predeterminado llamado Cuentas de soporte compartidas , así como del grupo Usuarios autenticados . Usemos BloodHound Para identificar posibles rutas de ataque es este dominio que puede ayudarnos a aumentar nuestros privilegios.
