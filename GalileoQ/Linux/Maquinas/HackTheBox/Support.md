@@ -134,4 +134,6 @@ evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
 ```
 
 ![[Pasted image 20240305003154.png]]
-###### perfecto tenemos conexión. recordamos que el escaneo de nmap nos revelo que esta maquina pertenece a un dominio
+###### perfecto tenemos conexión. recordamos que el escaneo de nmap nos revelo que esta maquina pertenece a un dominio de Active Directory 
+
+![[Pasted image 20240305003618.png]]
