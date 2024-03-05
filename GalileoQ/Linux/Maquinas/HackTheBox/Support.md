@@ -218,5 +218,5 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 ```
 
 ### Impacket
-usaremos impacket para generar un ticket con toda la informacion 
+usaremos impacket para generar un ticket con toda la información del usuario que estamos impersonando
 ![[Pasted image 20240305031138.png]]
