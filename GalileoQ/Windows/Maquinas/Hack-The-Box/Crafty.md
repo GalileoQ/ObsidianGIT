@@ -52,7 +52,7 @@ tenemos esta Poc que nos sera muy util
 ![[Pasted image 20240305191624.png]]
 para ejecutar esto necesitamos Java JDK
 
-### Opción 2
+### pyCraft
 usaremos pycraft para hacer la inyección ldap al servidor
 ![[Pasted image 20240305192830.png]]
 
@@ -61,10 +61,10 @@ perfecto tenemos conexión y estamos redirigiendo el trafico al puerto 9001
 ![[Pasted image 20240305192930.png]]
 
 ### Redireccionamiento de puerto
-estaremos a la escucha por el 9001 donde estaremos redireccionando la inyecccion 
+estaremos a la escucha por el 9001 donde estaremos redireccionando la inyecccion ldap
 ![[Pasted image 20240305193218.png]]
 
 ### star.py
-
+el script star
 ![[Pasted image 20240305193141.png]]
 
