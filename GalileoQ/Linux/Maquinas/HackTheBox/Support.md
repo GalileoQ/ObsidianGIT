@@ -175,4 +175,5 @@ git clone https://github.com/BloodHoundAD/BloodHound
 
 Al hacer clic derecho en la línea llamada GenericAll y seleccionar Ayuda se proporciona más información sobre este privilegio y cómo explotarlo.
 ![[Pasted image 20240305014725.png]]
-BloodHound menciona que debido al privilegio GenericAll podemos realizar una función restringida basada en recursos.
+BloodHound menciona que debido al privilegio GenericAll podemos realizar una función restringida basada en recursos. Ataque de delegación (RBCD) y escalada de privilegios.
+
