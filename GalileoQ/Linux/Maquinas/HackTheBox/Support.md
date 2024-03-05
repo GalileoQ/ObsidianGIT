@@ -137,3 +137,5 @@ evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
 ###### perfecto tenemos conexión. recordamos que el escaneo de nmap nos revelo que esta maquina pertenece a un dominio de Active Directory 
 
 ![[Pasted image 20240305003618.png]]
+podemos ver que de hecho la maquina pertenece al dominio dc.support.htb
+
