@@ -121,5 +121,9 @@ ahora tenemos credenciales para intentar conectarnos al servidor LDAP
 ```
 
 ### ldapsearch
-con esta intyeccion podemos ver que hay conecci
+con esta inyección podemos ver que hay conexión
+```python
+ldapsearch -H ldap://support.htb -D ldap@support.htb -w 'nvEfEK16^1aM4$e7AclUf8x$tRWxPWO1%lmz' -b "dc=support,dc=htb" "Administrator"
+```
 ![[Pasted image 20240305002408.png]]
+
