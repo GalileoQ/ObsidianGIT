@@ -196,4 +196,5 @@ En pocas palabras, a través de un ataque de delegación restringida basada en r
 ### Escalada de privilegios
 [Resource-based Constrained Delegation - HackTricks](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/resource-based-constrained-delegation)
 ![[Pasted image 20240305022850.png]]
-descargamos powermad y lo subimos 
+descargamos powermad y lo subimos a la maquina
+
