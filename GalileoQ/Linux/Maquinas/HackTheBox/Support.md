@@ -110,5 +110,7 @@ key2 = 223
 res = '' 
 for e,k in zip(enc_password, cycle(key)): 
 	res += chr(e ^ k ^ key2) 
-	print(res)
+print(res)
 ```
+
+![[Pasted image 20240304235604.png]]El script imprime la contraseña descifrada y podemos proceder a conectarnos al servidor LDAP para recopilar información.
