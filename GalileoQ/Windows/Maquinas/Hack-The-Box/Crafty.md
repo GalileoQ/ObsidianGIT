@@ -48,3 +48,5 @@ debido a que tenemos un servidor de minecraft usaremos tlauncher para conectarno
 ### Enumeracion del servidor 
 con una pequeña busqyeda encontramos que esta version es vulnerable a una inyeccion de ldap
 ![[Pasted image 20240305191518.png]]
+tenemos esta Poc que nos 
+![[Pasted image 20240305191624.png]]
