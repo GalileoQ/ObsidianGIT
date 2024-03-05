@@ -210,3 +210,5 @@ descargamos powermad y lo subimos a la maquina
 
 ![[Pasted image 20240305024040.png]]
 
+
+![[Pasted image 20240305025446.png]]
