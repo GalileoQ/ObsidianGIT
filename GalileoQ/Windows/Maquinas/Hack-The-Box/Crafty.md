@@ -52,4 +52,7 @@ tenemos esta Poc que nos sera muy util
 ![[Pasted image 20240305191624.png]]
 para ejecutar esto necesitamos Java JDK
 
-tambien usaremos pycraft par
+### Opción 2
+usaremos pycraft para hacer la inyección ldap al servidor
+![[Pasted image 20240305192830.png]]
+
