@@ -171,4 +171,4 @@ git clone https://github.com/BloodHoundAD/BloodHound
 ###### Podemos ver que la sección Control de objetos delegados de grupo muestra un Este valor muestra si un grupo del que nuestro usuario es miembro tiene acceso a objetos de control. valor de 1 La descripción general anterior incluye las membresías de grupos del usuario, objetos en el dominio que el usuario tiene control en el dominio
 
 ![[Pasted image 20240305014257.png]]
-###### 
+###### el resultado muestra que el grupo de Cuentas de Support compartidas tiene privilegios GenericAll en el controlador de dominio y, dado que el usuario Support es miembro de este grupo, también tiene todos los privilegios en el DC. ()
