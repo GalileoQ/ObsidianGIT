@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
+                "file": "Curso/eJPTv2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
+                "file": "Curso/eJPTv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
+                "file": "Curso/eJPTv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md"
+                "file": "Curso/eJPTv2.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "12467fc98b238325",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
@@ -178,8 +181,6 @@
     "GITHUB/Postear.md",
     "plantillas",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
     "Template Pentesting Notes/Tabla.md",
     "GalileoQ/Windows/msfvenom shell.md",
@@ -187,7 +188,6 @@
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
-    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
     "GalileoQ/Windows/Maquinas",
     "GalileoQ/Windows",
