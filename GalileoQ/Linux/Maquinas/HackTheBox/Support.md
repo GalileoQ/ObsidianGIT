@@ -84,3 +84,7 @@ Nmap done: 1 IP address (1 host up) scanned in 188.46 seconds
 descargamos el archivo UserInfo.exe.zip
 ![[Pasted image 20240304225819.png]]
 
+### unzip 
+
+![[Pasted image 20240304230025.png]]
+
