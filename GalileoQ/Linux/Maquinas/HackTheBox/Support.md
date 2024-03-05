@@ -143,3 +143,5 @@ podemos comprobar esto con el siguiente comando
 ![[Pasted image 20240305003935.png]]
 ###### El usuario de support parece ser miembro de un grupo no predeterminado llamado Cuentas de support compartidas , así como del grupo Usuarios autenticados . Usemos BloodHound Para identificar posibles rutas de ataque en este dominio que puedan ayudarnos a escalar privilegios.
 
+
+![[Pasted image 20240305005911.png]]
