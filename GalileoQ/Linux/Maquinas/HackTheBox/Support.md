@@ -149,7 +149,7 @@ sudo apt install BloodHound
 ```
 
 ![[Pasted image 20240305005911.png]]
-configuramos credenciales para bloo
+configuramos credenciales para bloodHound
 ### BloodHoundAD
 este es el BloodHound para active Directory
 
@@ -165,3 +165,6 @@ git clone https://github.com/BloodHoundAD/BloodHound
 
 ![[Pasted image 20240305012842.png]]
 ###### Una vez finalizada la ejecución podremos ver que se ha creado un archivo Zip que contiene todos los datos recopilados. lo descargamos usando Evil-WinRM
+
+![[Pasted image 20240305014003.png]]
+
