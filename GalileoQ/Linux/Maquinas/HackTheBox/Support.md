@@ -217,3 +217,6 @@ descargamos powermad y lo subimos a la maquina
 Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofotheridentity'
 ```
 
+### Impacket
+
+![[Pasted image 20240305031138.png]]
