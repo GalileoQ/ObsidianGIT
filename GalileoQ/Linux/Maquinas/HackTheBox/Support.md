@@ -114,4 +114,8 @@ print(res)
 ```
 
 ![[Pasted image 20240304235604.png]]El script imprime la contraseña descifrada y podemos proceder a conectarnos al servidor LDAP para recopilar información.
-ahora tenemos credenciales 
+ahora tenemos credenciales para intentar conectarnos al servidor LDAP
+
+```python
+	sudo apt install ldap-utils
+```
