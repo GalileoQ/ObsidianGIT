@@ -218,5 +218,5 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 ```
 
 ### Impacket
-
+usaremos impacket para generar un ticket con toda la informacion 
 ![[Pasted image 20240305031138.png]]
