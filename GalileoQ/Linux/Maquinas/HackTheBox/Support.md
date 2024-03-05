@@ -76,3 +76,7 @@ Nmap done: 1 IP address (1 host up) scanned in 188.46 seconds
 |49754/tcp| open  | msrpc         | Microsoft Windows RPC                                  |
 ```
 
+### Enumeración de servicios compartidos
+
+![[Pasted image 20240304224621.png]]
+
