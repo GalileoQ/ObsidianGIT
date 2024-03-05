@@ -221,5 +221,6 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 usaremos impacket para generar un ticket con toda la información del usuario que estamos impersonando
 ![[Pasted image 20240305031138.png]]
 
-igualamos la variable export KRB5CCNAME=Administrator luego con impacket 
+igualamos la variable export KRB5CCNAME=Administrator luego con impacket creamos una conexión 
 ![[Pasted image 20240305031800.png]]
+### WE ARE ROOT
