@@ -200,3 +200,7 @@ descargamos powermad y lo subimos a la maquina
 
 ![[Pasted image 20240305023424.png]]
 ###### ahora usaremos powerview para enumerar el directorio activo
+```python
+	Import-Module .\PowerView.ps1
+```
+
