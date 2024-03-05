@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "12467fc98b238325",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Oopsie.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex-Incompleta.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "imagenes/Perfection.jpg",
     "imagenes/Pasted image 20240305031800.png",
     "imagenes/Pasted image 20240305031138.png",
@@ -185,11 +188,8 @@
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
-    "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box",
     "GalileoQ/Windows/Maquinas",
-    "GalileoQ/Linux/Entorno/Actualizar Kali-Linux.md",
-    "Curso/eJPTv2.md",
     "GalileoQ/Windows",
     "GalileoQ/Nueva carpeta",
     "GalileoQ/Linux/Shell",
