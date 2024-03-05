@@ -110,5 +110,5 @@ key2 = 223
 res = '' 
 for e,k in zip(enc_password, cycle(key)): 
 	res += chr(e ^ k ^ key2) 
-	print(res
+	print(res)
 ```
