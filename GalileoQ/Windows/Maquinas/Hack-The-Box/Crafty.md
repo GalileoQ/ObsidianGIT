@@ -56,3 +56,6 @@ para ejecutar esto necesitamos Java JDK
 usaremos pycraft para hacer la inyección ldap al servidor
 ![[Pasted image 20240305192830.png]]
 
+### Poc
+perfecto tenemos coneccio
+![[Pasted image 20240305192930.png]]
