@@ -60,3 +60,7 @@ usaremos pycraft para hacer la inyección ldap al servidor
 perfecto tenemos conexión y estamos redirigiendo el trafico al puerto 9001
 ![[Pasted image 20240305192930.png]]
 
+### star.py
+
+![[Pasted image 20240305193141.png]]
+
