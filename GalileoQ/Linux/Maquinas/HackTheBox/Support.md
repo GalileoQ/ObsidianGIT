@@ -146,3 +146,6 @@ podemos comprobar esto con el siguiente comando
 ### BloodHound
 
 ![[Pasted image 20240305005911.png]]
+
+###### subimos el archivo SharpHound.exe
+![[Pasted image 20240305011211.png]]
