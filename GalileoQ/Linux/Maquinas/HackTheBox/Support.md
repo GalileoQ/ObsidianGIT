@@ -92,6 +92,7 @@ descargamos el archivo UserInfo.exe.zip
 usaremos esta herramienta para mirar el codigo de las funciones 
 
 ![[Pasted image 20240304233251.png]]
+tenemos una password "0Nv32PTwgYjzg9/8j5TbmvPd3e7WhtWWyuPsyO76/Y+U193E"
 
 ###### podemos ver que hace un llamado a support.htb
 ```python
