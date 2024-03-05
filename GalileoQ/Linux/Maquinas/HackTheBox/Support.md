@@ -81,4 +81,6 @@ Nmap done: 1 IP address (1 host up) scanned in 188.46 seconds
 ![[Pasted image 20240304224621.png]]
 
 ###### vamos a mirar el directorio support-tools
+descargamos el archivo UserInfo.exe.zip
 ![[Pasted image 20240304225819.png]]
+
