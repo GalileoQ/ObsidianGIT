@@ -92,4 +92,7 @@ descargamos el archivo UserInfo.exe.zip
 usaremos esta herramienta para mirar el codigo de las funciones 
 
 ![[Pasted image 20240304233251.png]]
-###### tenemos esta consulta de 
+######
+```python
+public LdapQuery() { string password = Protected.getPassword(); entry = new DirectoryEntry("LDAP://support.htb", "support\\ldap", password); entry.set_AuthenticationType((AuthenticationTypes)1); ds = new DirectorySearcher(entry); }
+```
