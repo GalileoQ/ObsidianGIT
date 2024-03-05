@@ -159,4 +159,7 @@ git clone https://github.com/BloodHoundAD/BloodHound
 
 ###### subimos el archivo SharpHound.exe
 ![[Pasted image 20240305011211.png]]
+###### ejecutamos
+
+![[Pasted image 20240305011613.png]]
 
