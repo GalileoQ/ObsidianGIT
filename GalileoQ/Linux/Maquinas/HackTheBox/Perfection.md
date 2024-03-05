@@ -62,6 +62,7 @@ tenemos un archivo db que podemos leer con sqlite3
 aqui tenemos pistas de como se esta efectuando una migracion de la base de datos. 
 ![[Pasted image 20240304145323.png]]
 ### hashcat
+guardamos el hash en un archivo y usamos hashcat
 ![[Pasted image 20240304130441.png]]
 
 ### hashcat
