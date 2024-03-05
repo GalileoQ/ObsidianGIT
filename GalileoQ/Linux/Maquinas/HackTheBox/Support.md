@@ -92,7 +92,8 @@ descargamos el archivo UserInfo.exe.zip
 usaremos esta herramienta para mirar el codigo de las funciones 
 
 ![[Pasted image 20240304233251.png]]
-######
+
+###### podemos ver que hace un llamado a support.htb
 ```python
 public LdapQuery() 
 { 
@@ -100,5 +101,4 @@ public LdapQuery()
  entry = new DirectoryEntry("LDAP://support.htb", "support\\ldap", password); 
  entry.set_AuthenticationType((AuthenticationTypes)1); 
  ds = new DirectorySearcher(entry); }
-```
-podemos ver que hace un llamado a support.htb 
+``` 
