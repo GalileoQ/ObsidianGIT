@@ -203,4 +203,6 @@ descargamos powermad y lo subimos a la maquina
 ```python
 	Import-Module .\PowerView.ps1
 ```
-
+````
+```
+![[Pasted image 20240305024040.png]]
