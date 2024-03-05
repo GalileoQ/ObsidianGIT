@@ -119,3 +119,4 @@ ahora tenemos credenciales para intentar conectarnos al servidor LDAP
 ```python
 	sudo apt install ldap-utils
 ```
+
