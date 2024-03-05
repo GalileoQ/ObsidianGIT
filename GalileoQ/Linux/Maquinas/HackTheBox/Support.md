@@ -79,4 +79,5 @@ Nmap done: 1 IP address (1 host up) scanned in 188.46 seconds
 ### Enumeración de servicios compartidos
 
 ![[Pasted image 20240304224621.png]]
+###### vamos a mirar el directorio support-tools
 
