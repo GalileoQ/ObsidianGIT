@@ -192,4 +192,3 @@ En pocas palabras, a través de un ataque de delegación restringida basada en r
 
 ###### De nuestra enumeración anterior sabemos que el usuario support es de hecho un miembro del grupo Usuarios autenticados así como del grupo Cuentas de soporte compartidas . También sabemos que el grupo de Cuentas de soporte compartidas tiene privilegios GenericAll sobre el Controlador de dominio. ( dc.support.htb )
 
-###### Comprobemos el valor del atributo ms-ds-machineaccountquota .
