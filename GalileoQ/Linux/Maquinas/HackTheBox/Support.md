@@ -152,9 +152,10 @@ sudo apt install BloodHound
 
 ### BloodHoundAD
 este es el BloodHound para active Directory
-```pytho
-```
+
+```python
 git clone https://github.com/BloodHoundAD/BloodHound
+```
 
 ###### subimos el archivo SharpHound.exe
 ![[Pasted image 20240305011211.png]]
