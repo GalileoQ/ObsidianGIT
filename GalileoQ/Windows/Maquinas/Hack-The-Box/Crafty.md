@@ -23,7 +23,7 @@ PORT      STATE SERVICE   VERSION
 80/tcp    open  http      Microsoft IIS httpd 10.0
 |_http-title: Did not follow redirect to http://crafty.htb
 |_http-server-header: Microsoft-IIS/10.0
-25565/tcp open  minecraft Minecraft 1.16.5 (Protocol: 127, Message: Crafty Server, Users: 3/100)
+10.10.11.249:25565/tcp open  minecraft Minecraft 1.16.5 (Protocol: 127, Message: Crafty Server, Users: 3/100)
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
