@@ -42,5 +42,6 @@ pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty
 ![[Pasted image 20240210234241.png]]
 
 ### Tlauncher
-debido a que tenemos un servidor en python
+debido a que tenemos un servidor de minecraft usaremos tlauncher para conectarnos
 ![[Pasted image 20240305171536.png]]
+
