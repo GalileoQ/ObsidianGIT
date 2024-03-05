@@ -75,4 +75,4 @@ el script star.py no solicita el nombre de usuario para la segunda opcion nos pi
 en el directorio de plugins hemos conseguido uno que parece interesante. 
 ![[Pasted image 20240305195827.png]]
 
-### M
+### msfvenon
