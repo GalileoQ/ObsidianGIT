@@ -97,3 +97,8 @@ tenemos una password "0Nv32PTwgYjzg9/8j5TbmvPd3e7WhtWWyuPsyO76/Y+U193E"
 ###### podemos ver que hace un llamado a support.htb
 ![[Pasted image 20240304234651.png]]
 
+### Script en python
+```python
+import base64 from itertools 
+import cycle enc_password = base64.b64decode("0Nv32PTwgYjzg9/8j5TbmvPd3e7WhtWWyuPsyO76/Y+U193E") key = b"armando" key2 = 223 res = '' for e,k in zip(enc_password, cycle(key)): res += chr(e ^ k ^ key2) print(res
+```
