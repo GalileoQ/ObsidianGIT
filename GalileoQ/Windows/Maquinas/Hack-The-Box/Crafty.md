@@ -50,4 +50,5 @@ con una pequeña busqyeda encontramos que esta version es vulnerable a una inyec
 ![[Pasted image 20240305191518.png]]
 tenemos esta Poc que nos sera muy util
 ![[Pasted image 20240305191624.png]]
+para ejecutar esto necesitamos Java JDK
 
