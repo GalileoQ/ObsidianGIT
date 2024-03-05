@@ -144,8 +144,12 @@ podemos comprobar esto con el siguiente comando
 ###### El usuario de support parece ser miembro de un grupo no predeterminado llamado Cuentas de support compartidas , así como del grupo Usuarios autenticados . Usemos BloodHound Para identificar posibles rutas de ataque en este dominio que puedan ayudarnos a escalar privilegios.
 
 ### BloodHound
+```python
+sudo apt install BloodHound
+```
 
 ![[Pasted image 20240305005911.png]]
-
+git clone https://github.com/BloodHoundAD/BloodHound
 ###### subimos el archivo SharpHound.exe
 ![[Pasted image 20240305011211.png]]
+
