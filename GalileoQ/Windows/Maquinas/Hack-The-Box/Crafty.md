@@ -65,6 +65,6 @@ estaremos a la escucha por el 9001 donde estaremos redireccionando la inyecccion
 ![[Pasted image 20240305193218.png]]
 
 ### star.py
-el script star
+el script star.py no solicita el nombre de usuario para la segunda opcion nos pide dejarlo en blanco para el modo offline y nos solicita el 
 ![[Pasted image 20240305193141.png]]
 
