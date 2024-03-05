@@ -87,4 +87,3 @@ descargamos el archivo UserInfo.exe.zip
 ### unzip 
 
 ![[Pasted image 20240304230025.png]]
-
