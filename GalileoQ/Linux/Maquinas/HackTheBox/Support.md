@@ -89,4 +89,4 @@ descargamos el archivo UserInfo.exe.zip
 ![[Pasted image 20240304230710.png]]
 
 ###### Herramienta[https://github.com/icsharpcode/AvaloniaILSpy/releases/download/v7.2-rc/Linux.x64.Release.zip]
-
+usaremos esta herramienta para 
