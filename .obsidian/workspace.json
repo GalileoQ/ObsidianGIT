@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "fcfb4ef9ac8d42a7",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "imagenes/Perfection.jpg",
     "imagenes/Pasted image 20240305031800.png",
     "imagenes/Pasted image 20240305031138.png",
@@ -158,11 +160,9 @@
     "imagenes/Pasted image 20240305022850.png",
     "imagenes/Pasted image 20240305014725.png",
     "imagenes/Pasted image 20240305014257.png",
-    "imagenes/Pasted image 20240305014003.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Linux/Entorno/Keyboard shortcuts.md",
