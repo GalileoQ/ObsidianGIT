@@ -120,3 +120,6 @@ ahora tenemos credenciales para intentar conectarnos al servidor LDAP
 	sudo apt install ldap-utils
 ```
 
+### ldapsearch
+con esta intyeccion podemos ver que hay conecci
+![[Pasted image 20240305002408.png]]
