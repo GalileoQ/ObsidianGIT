@@ -131,3 +131,6 @@ analizamos la peticion es un trabajo arduo pero podemos encrontrar lo que parece
 ### evil-winrm
 ```python
 evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
+```
+
+![[Pasted image 20240305003154.png]]
