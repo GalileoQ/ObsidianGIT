@@ -101,4 +101,4 @@ public LdapQuery()
  entry.set_AuthenticationType((AuthenticationTypes)1); 
  ds = new DirectorySearcher(entry); }
 ```
-
+podemos ver que hace un llamado a
