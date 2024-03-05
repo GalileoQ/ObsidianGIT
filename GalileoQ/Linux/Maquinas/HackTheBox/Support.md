@@ -149,7 +149,7 @@ sudo apt install BloodHound
 ```
 
 ![[Pasted image 20240305005911.png]]
-
+configuramos credenciales para bloo
 ### BloodHoundAD
 este es el BloodHound para active Directory
 
