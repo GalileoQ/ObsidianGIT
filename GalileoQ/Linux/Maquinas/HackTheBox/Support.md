@@ -185,4 +185,4 @@ En pocas palabras, a través de un ataque de delegación restringida basada en r
 ### El ataque se basa en tres requisitos previos: 
 1) Necesitamos un shell o ejecución de código como usuario de dominio que pertenece al grupo de Usuarios autenticados. De forma predeterminada, cualquier miembro de este grupo puede agregar hasta 10 computadoras al dominio.
 2) El atributo ms-ds-machineaccountquota debe ser superior a 0. Este atributo controla el cantidad de computadoras que los usuarios de dominio autenticados pueden agregar al dominio.
-3) 
+3) Nuestro usuario actual o un grupo del que nuestro usuario es miembro, debe tener privilegios de ESCRITURA WriteDACL a través de una computadora unida al dominio (en este caso, el controlador de dominio). 
