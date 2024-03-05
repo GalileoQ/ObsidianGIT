@@ -198,3 +198,5 @@ En pocas palabras, a través de un ataque de delegación restringida basada en r
 ![[Pasted image 20240305022850.png]]
 descargamos powermad y lo subimos a la maquina
 
+![[Pasted image 20240305023424.png]]
+
