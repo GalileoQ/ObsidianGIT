@@ -172,3 +172,7 @@ git clone https://github.com/BloodHoundAD/BloodHound
 
 ![[Pasted image 20240305014257.png]]
 ###### el resultado muestra que el grupo de Cuentas de Support compartidas tiene privilegios GenericAll en el controlador de dominio y, dado que el usuario Support es miembro de este grupo, también tiene todos los privilegios en el DC. (Domain Controller)
+
+Al hacer clic derecho en la línea llamada GenericAll y seleccionar Ayuda se proporciona más información sobre este privilegio y cómo explotarlo.
+![[Pasted image 20240305014725.png]]
+
