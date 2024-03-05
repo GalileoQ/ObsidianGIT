@@ -212,8 +212,8 @@ descargamos powermad y lo subimos a la maquina
 
 ###### aqui usaremos todos los comandos de hacktriks
 
+![[Pasted image 20240305025446.png]]
 ```python
 Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofotheridentity'
 ```
 
-![[Pasted image 20240305025446.png]]
