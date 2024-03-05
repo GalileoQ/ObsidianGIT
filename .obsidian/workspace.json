@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70426623a5e7169b",
+        "id": "eb0b9cefa1db8a22",
         "type": "tabs",
         "children": [
           {
-            "id": "12467fc98b238325",
+            "id": "b7eb9ef15c5496fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso/Metaesploitable2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso/Metaesploitable2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "12467fc98b238325",
+  "active": "b7eb9ef15c5496fb",
   "lastOpenFiles": [
+    "GITHUB/Postear.md",
+    "GITHUB/path imagen.md",
+    "Curso/Metaesploitable2.md",
     "Curso/eJPTv2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
@@ -179,12 +174,9 @@
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/VulnNet-Active.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Relevant.md",
-    "GITHUB/Postear.md",
     "plantillas",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me/Attactive-Directory.md",
     "GalileoQ/Linux/1-Tecnicas/Técnicas avanzadas.md",
-    "Template Pentesting Notes/Tabla.md",
-    "GalileoQ/Windows/msfvenom shell.md",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Try-Hack-Me",
