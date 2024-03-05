@@ -139,3 +139,6 @@ evil-winrm -u support -p 'Ironside47pleasure40Watchful' -i support.htb
 ![[Pasted image 20240305003618.png]]
 podemos ver que de hecho la maquina pertenece al dominio dc.support.htb
 
+podemos comprobar esto con el siguiente comando
+![[Pasted image 20240305003935.png]]
+
