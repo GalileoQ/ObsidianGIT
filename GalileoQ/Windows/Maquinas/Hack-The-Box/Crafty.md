@@ -76,3 +76,6 @@ en el directorio de plugins hemos conseguido uno que parece interesante.
 ![[Pasted image 20240305195827.png]]
 
 ### msfvenon
+
+![[Pasted image 20240305200121.png]]
+
