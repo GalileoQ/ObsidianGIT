@@ -87,4 +87,8 @@ en el directorio de plugins hemos conseguido uno que parece interesante.
 
 ![[Pasted image 20240305195827.png]]
 
-### 
+### Transferencia de archivo
+vamos a enviarnos este archivo a nuestra maquina atacante para poder analizarlo
+
+![[Pasted image 20240305220312.png]]
+
