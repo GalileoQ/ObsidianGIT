@@ -95,9 +95,11 @@ vamos a enviarnos este archivo a nuestra maquina atacante para poder analizarlo
 ![[Pasted image 20240305220343.png]]
 
 ### trasnferencia de archivo
-usaremos impacket-server
+usaremos impacket-smbserver para crear un servidor compartido 
+
 ![[Pasted image 20240305222529.png]]
 
+copiamos el archivo especificando la ip y el directorio donde esta corriend
 ![[Pasted image 20240305222609.png]]
 
 ### analizando el archivo
