@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+                "file": "GalileoQ/Windows/Enumeración Window.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Windows/Enumeración Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Windows/Enumeración Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
+                "file": "GalileoQ/Windows/Enumeración Window.md"
               }
             }
           }
@@ -158,8 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b7eb9ef15c5496fb",
+  "active": "8f7135ca08596bf6",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240305200121.png",
     "Pasted image 20240305195827.png",
     "Pasted image 20240305193720.png",
@@ -167,8 +170,6 @@
     "Pasted image 20240305193141.png",
     "Pasted image 20240305192930.png",
     "Pasted image 20240305192830.png",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240305191624.png",
     "Pasted image 20240305191518.png",
     "Pasted image 20240305171536.png",
@@ -187,7 +188,6 @@
     "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex-Incompleta.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
-    "imagenes/Perfection.jpg",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
