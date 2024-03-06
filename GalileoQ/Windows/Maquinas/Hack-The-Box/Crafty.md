@@ -100,6 +100,6 @@ vamos a enviarnos este archivo a nuestra maquina atacante para poder analizarlo
 
 ![[Pasted image 20240305222609.png]]
 
-### Anal
-
+### analizando el archivo
+usaremos jar para extraer la informacion del archivo 
 ![[Pasted image 20240305224037.png]]
