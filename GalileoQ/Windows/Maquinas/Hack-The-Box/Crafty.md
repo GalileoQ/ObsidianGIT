@@ -112,3 +112,6 @@ tenemos una estructura de archivos bien organizada lo que parece ser un archivo.
 ### JD-GUI
 usaremos jd-gui para poder leer este archivo.jar
 
+![[Pasted image 20240305225321.png]]
+tenemos lo que parece ser unas credenciales
+
