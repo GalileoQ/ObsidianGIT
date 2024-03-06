@@ -108,4 +108,6 @@ usaremos jar para extraer la informacion del archivo
 
 ![[Pasted image 20240305224247.png]]
 
-### JD-G
+tenemos una estructura de archivos 
+### JD-GUI
+usarem
