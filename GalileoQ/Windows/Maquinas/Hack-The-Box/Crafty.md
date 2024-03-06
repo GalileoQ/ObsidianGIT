@@ -95,11 +95,12 @@ vamos a enviarnos este archivo a nuestra maquina atacante para poder analizarlo
 ![[Pasted image 20240305220343.png]]
 
 ### trasnferencia de archivo
-
+usaremos impacket-server
 ![[Pasted image 20240305222529.png]]
 
 ![[Pasted image 20240305222609.png]]
 
 ### analizando el archivo
-usaremos jar para extraer la informacion del archivo 
-![[Pasted image 20240305224037.png]]
+usaremos jar para extraer la informacion del archivo
+
+![[Pasted image 20240305224247.png]]
