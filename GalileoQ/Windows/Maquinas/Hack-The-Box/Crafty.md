@@ -23,7 +23,7 @@ PORT      STATE SERVICE   VERSION
 80/tcp    open  http      Microsoft IIS httpd 10.0
 |_http-title: Did not follow redirect to http://crafty.htb
 |_http-server-header: Microsoft-IIS/10.0
-10.10.11.249:25565/tcp open  minecraft Minecraft 1.16.5 (Protocol: 127, Message: Crafty Server, Users: 3/100)
+25565/tcp open  minecraft Minecraft 1.16.5 (Protocol: 127, Message: Crafty Server, Users: 3/100)
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
@@ -32,9 +32,11 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 ### Enumeración del puerto 80
 
 agregamos el subdominio al que nos esta redirigiendo en el /etc/host
+
 ![[Pasted image 20240210232547.png]]
 
 pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty.htb
+
 ![[Pasted image 20240210233121.png]]
 
 ### Fuzzing con gobuster
@@ -43,6 +45,7 @@ pagina web/ tenemos lo que parece ser un subdominio diferente llamdo play.crafty
 
 ### Tlauncher
 debido a que tenemos un servidor de minecraft usaremos tlauncher para conectarnos
+
 ![[Pasted image 20240305171536.png]]
 
 ### Enumeracion del servidor 
@@ -76,10 +79,12 @@ el script star.py no solicita el nombre de usuario para la segunda opcion nos pi
 ![[Pasted image 20240305193141.png]]
 
 ### Recibimos conexión 
+
 ![[Pasted image 20240305193218.png]]
 
 ### Escalada De privilegios
 en el directorio de plugins hemos conseguido uno que parece interesante. 
+
 ![[Pasted image 20240305195827.png]]
 
 ### msfvenon
