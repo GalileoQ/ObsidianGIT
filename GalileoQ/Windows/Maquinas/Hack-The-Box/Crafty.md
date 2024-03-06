@@ -99,10 +99,12 @@ usaremos impacket-smbserver para crear un servidor compartido
 
 ![[Pasted image 20240305222529.png]]
 
-copiamos el archivo especificando la ip y el directorio donde esta corriend
+copiamos el archivo especificando la ip y el directorio donde esta corriendo el servidor
+
 ![[Pasted image 20240305222609.png]]
 
 ### analizando el archivo
 usaremos jar para extraer la informacion del archivo
 
 ![[Pasted image 20240305224247.png]]
+
