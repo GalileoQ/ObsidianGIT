@@ -99,3 +99,7 @@ vamos a enviarnos este archivo a nuestra maquina atacante para poder analizarlo
 ![[Pasted image 20240305222529.png]]
 
 ![[Pasted image 20240305222609.png]]
+
+### Anal
+
+![[Pasted image 20240305224037.png]]
