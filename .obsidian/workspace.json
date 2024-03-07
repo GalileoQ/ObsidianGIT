@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "b7eb9ef15c5496fb",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240305225321.png",
     "Pasted image 20240305225150.png",
     "Pasted image 20240305224247.png",
@@ -170,10 +171,8 @@
     "Pasted image 20240305220312.png",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240305200121.png",
     "Pasted image 20240305195827.png",
-    "Pasted image 20240305193720.png",
     "GITHUB/Postear.md",
     "GITHUB/path imagen.md",
     "Curso/Metaesploitable2.md",
