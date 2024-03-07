@@ -64,7 +64,7 @@ usaremos pycraft para hacer la inyección ldap al servidor
 ![[Pasted image 20240305192830.png]]
 
 ### Poc
-"debemos editar el exploit perfecto tenemos conexión y estamos redirigiendo el trafico al puerto 9001
+"debemos editar el exploit para que ejecute una cmd.exe.... perfecto tenemos conexión y estamos redirigiendo el trafico al puerto 9001
 
 ![[Pasted image 20240305192930.png]]
 
