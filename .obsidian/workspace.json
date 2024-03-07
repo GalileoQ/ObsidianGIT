@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md",
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Window.md"
+                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8f7135ca08596bf6",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240305225321.png",
@@ -158,7 +159,6 @@
     "Pasted image 20240305222529.png",
     "Pasted image 20240305220343.png",
     "Pasted image 20240305220312.png",
-    "GalileoQ/Windows/Enumeración Window.md",
     "Pasted image 20240305200121.png",
     "Pasted image 20240305195827.png",
     "GITHUB/Postear.md",
