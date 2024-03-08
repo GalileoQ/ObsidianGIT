@@ -145,4 +145,7 @@ subiremos el payload a la maquina victima usando el comando
 ejecutamos el payload
 ![[Pasted image 20240307211305.png]]
 
-### 
+### multi/handler
+recibimos conexión en el multi/handler
+![[Pasted image 20240307211356.png]]
+
