@@ -142,3 +142,7 @@ subiremos el payload a la maquina victima usando el comando
 
 ![[Pasted image 20240307211011.png]]
 
+ejecutamos el payload
+![[Pasted image 20240307211305.png]]
+
+### 
