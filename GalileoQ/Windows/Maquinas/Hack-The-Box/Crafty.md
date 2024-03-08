@@ -118,3 +118,5 @@ tenemos lo que parece ser unas credenciales
 ```python
 $SecPass = ConvertTo-SecureStrings 's67u84zKq8IXw' -AsPlainText -Force
 ```
+
+### msfvenon
