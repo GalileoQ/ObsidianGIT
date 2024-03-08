@@ -154,6 +154,10 @@ aqui subiremos un nuevo payload con msfvenom como hicimos anteriormente pero en 
 (https://github.com/antonioCoco/RunasCs/releases?source=post_page-----316a735a306d--------------------------------)
 ![[Pasted image 20240307212411.png]]
 
+
+
+
+
 .\RunasCs.exe Administrator s67u84zKq8IXw expl3.exe
 
 ![[Pasted image 20240307223811.png]]
