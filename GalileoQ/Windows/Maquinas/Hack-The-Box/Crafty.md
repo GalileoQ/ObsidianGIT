@@ -125,3 +125,6 @@ creamos un payload con msfvenom y lo moveremos a la ruta /var/www/html
 ### msfconsole
 usaremos el multi/handler
 ![[Pasted image 20240307203956.png]]
+
+### multi/handler
+
