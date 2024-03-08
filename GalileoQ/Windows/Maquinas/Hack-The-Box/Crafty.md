@@ -161,4 +161,4 @@ una ves que tenemos el payload y el RunasCs.exe estaremos a la escucha y ejecuta
 
 ![[Pasted image 20240307224010.png]]
 
-### We
+### WE ARE ROOT
