@@ -149,7 +149,7 @@ ejecutamos el payload
 recibimos conexión en el multi/handler
 ![[Pasted image 20240307211356.png]]
 
-vamos a la ruta 
-c:\users\svc_minecraft\server\logs aqui subiremos un nuevo payload y tambien vamos a subir el archivo RunasCs_net2.exe 
+### vamos a la ruta  c:\users\svc_minecraft\server\logs 
+aqui subiremos un nuevo payload con msfvenom como hicimos anteriormente pero y tambien vamos a subir el archivo RunasCs_net2.exe 
 (https://github.com/antonioCoco/RunasCs/releases?source=post_page-----316a735a306d--------------------------------)
 ![[Pasted image 20240307212411.png]]
