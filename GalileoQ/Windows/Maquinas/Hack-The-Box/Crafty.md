@@ -128,3 +128,8 @@ usaremos el multi/handler
 
 ### multi/handler
 
+![[Pasted image 20240307210748.png]]
+
+### http.server
+
+![[Pasted image 20240307210833.png]]
