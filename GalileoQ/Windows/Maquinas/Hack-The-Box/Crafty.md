@@ -133,3 +133,9 @@ estaremos escuchando con el multi/handler para intentar conserguir una reverse s
 ### http.server
 creamos un servidor para poder compartir el archivo
 ![[Pasted image 20240307210833.png]]
+
+### transferencia de archivo
+subiremos el payload a la maquina victima usando el comando 
+````
+```
+![[Pasted image 20240307211011.png]]
