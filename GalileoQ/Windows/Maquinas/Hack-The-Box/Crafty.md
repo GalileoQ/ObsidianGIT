@@ -120,6 +120,6 @@ $SecPass = ConvertTo-SecureStrings 's67u84zKq8IXw' -AsPlainText -Force
 ```
 
 ### msfvenom
-creamos un payload con msfvenom
-![[Pasted image 20240307201751.png]]
+creamos un payload con msfvenom y lo moveremos a la ruta /var/www/html
+![[Pasted image 20240307202021.png]]
 
