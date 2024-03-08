@@ -153,10 +153,11 @@ recibimos conexión en el multi/handler
 aqui subiremos un nuevo payload con msfvenom como hicimos anteriormente pero en un puerto diferente y tambien vamos a subir el archivo RunasCs.exe
 (https://github.com/antonioCoco/RunasCs/releases?source=post_page-----316a735a306d--------------------------------)
 ![[Pasted image 20240307212411.png]]
-una ves que tenemos el payload y el Runascs.exe estaremos a la escucha y ejecutamos .\RunasCs.exe Administrator s67u84zKq8IXw expl3.exe
+una ves que tenemos el payload y el RunasCs.exe estaremos a la escucha y ejecutamos .\RunasCs.exe Administrator s67....... expl3.exe
 
 ![[Pasted image 20240307223811.png]]
 
 ### Runas.Cs.exe 
 
 ![[Pasted image 20240307224010.png]]
+
