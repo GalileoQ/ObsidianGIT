@@ -127,9 +127,9 @@ usaremos el multi/handler
 ![[Pasted image 20240307203956.png]]
 
 ### multi/handler
-
+estaremos escuchando con el multi/handler para intentar conserguir una reverse shell
 ![[Pasted image 20240307210748.png]]
 
 ### http.server
-
+creamos un servidor para poder compartir el archivo
 ![[Pasted image 20240307210833.png]]
