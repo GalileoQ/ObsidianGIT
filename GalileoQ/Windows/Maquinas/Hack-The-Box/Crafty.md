@@ -119,4 +119,7 @@ tenemos lo que parece ser unas credenciales
 $SecPass = ConvertTo-SecureStrings 's67u84zKq8IXw' -AsPlainText -Force
 ```
 
-### msfvenon
+### msfvenom
+creamos un payload con msfvenom
+![[Pasted image 20240307201751.png]]
+
