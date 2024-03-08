@@ -149,3 +149,6 @@ ejecutamos el payload
 recibimos conexión en el multi/handler
 ![[Pasted image 20240307211356.png]]
 
+vamos a la ruta 
+c:\users\svc_minecraft\server\logs aqui subiremos un nuevo payload
+![[Pasted image 20240307212411.png]]
