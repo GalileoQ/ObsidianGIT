@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0b9cefa1db8a22",
+        "id": "457c6de7ca5320c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7135ca08596bf6",
+            "id": "7e8e1015ccab9a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f7135ca08596bf6",
+  "active": "7e8e1015ccab9a8e",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "Pasted image 20240307224010.png",
     "Pasted image 20240307223811.png",
     "Pasted image 20240307212411.png",
@@ -158,10 +160,8 @@
     "Pasted image 20240307210748.png",
     "Pasted image 20240307210028.png",
     "Pasted image 20240307203956.png",
-    "Pasted image 20240307202021.png",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GITHUB/Postear.md",
     "GITHUB/path imagen.md",
     "Curso/Metaesploitable2.md",
