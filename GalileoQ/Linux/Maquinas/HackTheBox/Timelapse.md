@@ -116,3 +116,7 @@ tenemos credenciales asi que usaremos esto para crear una nueva conexión
 
 ![[Pasted image 20240309001757.png]]
 
+### Escalada de privilegios
+
+![[Pasted image 20240309001935.png]]
+
