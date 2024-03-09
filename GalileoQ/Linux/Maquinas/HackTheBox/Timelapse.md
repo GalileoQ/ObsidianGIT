@@ -125,3 +125,5 @@ subimos el archivo
 ![[Pasted image 20240309004319.png]]
 
 ### GET-Laps
+
+![[Pasted image 20240309013840.png]]
