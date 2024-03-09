@@ -88,4 +88,5 @@ smbclient -L //10.10.10.10/
 ### zip2john
 
 ![[Pasted image 20240308221822.png]]
-obtenemos credenciales para 
+obtenemos credenciales para descomprimir el archivo
+
