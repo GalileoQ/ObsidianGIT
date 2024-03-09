@@ -101,9 +101,10 @@ convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2j
 tenemos la password del archivo asi que vemos a intentar 
 ![[Pasted image 20240308232530.png]]
 
-thuglegacy 
-Dado que desciframos el archivo pfx y generamos una clave y un certificado válidos, podemos intentar iniciar sesión a través de
+esto nos crea un certificado y una clave validos thuglegacy 
+![[Pasted image 20240308234011.png]]
+
+al desciframos el archivo pfx y generamos una clave y un certificado válidos, podemos intentar iniciar sesión a través de
 WinRM. En el resultado de nuestro comando Nmap podemos ver que el puerto 5986 está abierto, que WinRM usa
 comúnmente pero usa SSL en lugar de conexiones no cifradas. Dado que Evil WinRM nos permite pasar una clave y un
 certificado usando los indicadores c y k , podemos pasar el certificado y la clave y autenticarnos en el objetivo.
-![[Pasted image 20240308234011.png]]
