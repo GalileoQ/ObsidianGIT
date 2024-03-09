@@ -75,3 +75,9 @@ con este reconocimiento logramos obtener el nombre de la maquina: Service Info: 
 
 ### Enumeración del puerto SMB
 
+```python
+smbclient -L //10.10.10.10/
+```
+
+![[Pasted image 20240308220604.png]]
+
