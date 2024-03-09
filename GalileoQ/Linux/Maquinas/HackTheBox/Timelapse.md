@@ -109,3 +109,5 @@ esto nos crea un certificado y una clave validos
 al desciframos el archivo pfx generamos una clave y un certificado válidos, podemos intentar iniciar sesión a través de Evil-WinRM esto nos permite pasar una clave y un certificado usando los indicadores c y k 
 ![[Pasted image 20240309000213.png]]
 
+###   
+![[Pasted image 20240309000757.png]]
