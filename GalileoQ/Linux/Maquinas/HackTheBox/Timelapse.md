@@ -81,6 +81,11 @@ smbclient -L //10.10.10.10/
 
 ![[Pasted image 20240308220917.png]]
 
-### descargamos todos los archivos que estan en los di
+### descargamos todos los archivos que estan en los directorios compartidos 
+
+![[Pasted image 20240308222108.png]]
+
+### zip2john
 
 ![[Pasted image 20240308221822.png]]
+obtenemos credenciales para 
