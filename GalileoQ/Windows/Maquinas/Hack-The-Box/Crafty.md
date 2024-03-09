@@ -157,7 +157,7 @@ una ves que tenemos el payload y el RunasCs.exe estaremos a la escucha y ejecuta
 
 ![[Pasted image 20240307223811.png]]
 
-### Runas.Cs.exe 
+### Runas.Cs.exe Administrator shell
 
 ![[Pasted image 20240307224010.png]]
 
