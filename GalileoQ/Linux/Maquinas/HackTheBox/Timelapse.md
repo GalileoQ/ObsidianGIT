@@ -99,7 +99,7 @@ convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2j
 ![[Pasted image 20240308224352.png]]
 
 ### openssl
-usaremos openssl para generar 
+usaremos openssl para generar una clave y un certificado validos. usaremos la clave que hemos conseguido anteriormente 
 ![[Pasted image 20240308232530.png]]
 
 esto nos crea un certificado y una clave validos thuglegacy 
