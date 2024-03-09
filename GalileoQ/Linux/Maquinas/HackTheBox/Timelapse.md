@@ -73,4 +73,4 @@ Nmap done: 1 IP address (1 host up) scanned in 239.62 seconds
 | 49674/tcp| open | msrpc       | Microsoft Windows RPC                                   |
 | 49718/tcp| open | msrpc       | Microsoft Windows RPC                                   |
 
-### Enumeracion del puero 
+### Enumeracion del puerto SMB
