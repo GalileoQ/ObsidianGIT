@@ -106,5 +106,4 @@ esto nos crea un certificado y una clave validos thuglegacy
 
 
 al desciframos el archivo pfx generamos una clave y un certificado válidos, podemos intentar iniciar sesión a través de Evil-WinRM esto nos permite pasar una clave y un certificado usando los indicadores c y k 
-
-type $env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+![[Pasted image 20240309000213.png]]
