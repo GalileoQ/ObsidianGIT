@@ -97,4 +97,4 @@ parece que necesitamos una password diferente para este archivo
 convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2john, John para descifrar la contraseña.
 
 ![[Pasted image 20240308224352.png]]
-
+tenemos la password del archivo asi que vemos a intentar 
