@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a07f12dd5495c3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e8e1015ccab9a8e",
+  "active": "a07f12dd5495c3b3",
   "lastOpenFiles": [
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
