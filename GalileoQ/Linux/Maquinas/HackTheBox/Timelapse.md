@@ -131,3 +131,5 @@ tenemos credenciales que podriamos probar para administrador
 ### evil-winrm
 
 ![[Pasted image 20240309015511.png]]
+
+### WE ARE ROOT
