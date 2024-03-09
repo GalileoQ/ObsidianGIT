@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+                "file": "GalileoQ/Linux/Entorno/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Entorno/modificaciones del Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Entorno/modificaciones del Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
+                "file": "GalileoQ/Linux/Entorno/modificaciones del Entorno.md"
               }
             }
           }
@@ -170,8 +171,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e8e1015ccab9a8e",
+  "active": "b559fcd3e7058683",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "Pasted image 20240309004319.png",
     "Pasted image 20240309004315.png",
     "Pasted image 20240309001935.png",
@@ -180,12 +183,9 @@
     "Pasted image 20240309000757.png",
     "Pasted image 20240309000213.png",
     "Pasted image 20240308234011.png",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "Pasted image 20240308232530.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "Pasted image 20240308224352.png",
-    "Pasted image 20240308223006.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GalileoQ/Windows/Enumeración Window.md",
