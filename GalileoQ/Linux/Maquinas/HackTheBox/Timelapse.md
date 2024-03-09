@@ -51,7 +51,7 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 239.62 seconds
 ```
-con este reconocimiento logramos obtener el nombre de la maquina Service Info: Host: DC01 
+con este reconocimiento logramos obtener el nombre de la maquina: Service Info: Host: DC01 tambien tenemos el nombre del dominio: Domain: timelapse.htb0 y tamb
 ### Ports
 | PORT    | STATE | SERVICE     | VERSION                                                 |
 |---------|-------|-------------|---------------------------------------------------------|
