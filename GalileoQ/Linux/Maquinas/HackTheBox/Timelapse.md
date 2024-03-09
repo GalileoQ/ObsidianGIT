@@ -120,3 +120,7 @@ tenemos credenciales asi que usaremos esto para crear una nueva conexión
 
 ![[Pasted image 20240309001935.png]]
 El resultado del comando anterior muestra que somos parte del grupo LAPS_Readers . (LAPS) se utiliza para administrar las contraseñas de cuentas locales de las computadoras con Active Directory. Hay un módulo de PowerShell que se puede usar para recuperar esta contraseña se llama Get-LAPSPasswords [[https://github.com/kfosaaen/Get-LAPSPasswords]]
+
+subimos el archivo 
+![[Pasted image 20240309004319.png]]
+
