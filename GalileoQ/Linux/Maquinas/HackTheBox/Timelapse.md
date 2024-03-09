@@ -102,9 +102,10 @@ convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2j
 usaremos openssl para generar una clave y un certificado validos. usaremos la clave que hemos conseguido anteriormente 
 ![[Pasted image 20240308232530.png]]
 
-esto nos crea un certificado y una clave validos thuglegacy 
+esto nos crea un certificado y una clave validos
 ![[Pasted image 20240308234011.png]]
 
-
+### Evil-WinRM
 al desciframos el archivo pfx generamos una clave y un certificado válidos, podemos intentar iniciar sesión a través de Evil-WinRM esto nos permite pasar una clave y un certificado usando los indicadores c y k 
 ![[Pasted image 20240309000213.png]]
+
