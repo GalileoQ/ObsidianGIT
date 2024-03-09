@@ -95,7 +95,6 @@ obtenemos credenciales para descomprimir el archivo
 ![[Pasted image 20240308223006.png]]
 parece que necesitamos una password diferente para este archivo
 
-Utilizando la herramienta pfx2john , convertimos el archivo pfx a un formato hash y luego usamos
-John para descifrar la contraseña. Usando el siguiente comando podemos descifrar con éxito la
+convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2john, John para descifrar la contraseña. Usando el siguiente comando podemos descifrar con éxito la
 contraseña del archivo pfx 
 ![[Pasted image 20240308224352.png]]
