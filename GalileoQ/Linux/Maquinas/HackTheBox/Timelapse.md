@@ -81,6 +81,6 @@ smbclient -L //10.10.10.10/
 
 ![[Pasted image 20240308220917.png]]
 
-### descargaremos todos losa 
+### descargamos todos los archivos que estan en los di
 
 ![[Pasted image 20240308221822.png]]
