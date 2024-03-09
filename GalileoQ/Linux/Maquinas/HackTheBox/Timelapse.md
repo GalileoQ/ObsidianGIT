@@ -125,6 +125,6 @@ subimos el archivo
 ![[Pasted image 20240309004319.png]]
 
 ### GET-LAPS
-
+tenemos credenciales que podriamos probar para administrador
 ![[Pasted image 20240309013840.png]]
 
