@@ -128,3 +128,6 @@ subimos el archivo
 tenemos credenciales que podriamos probar para administrador
 ![[Pasted image 20240309013840.png]]
 
+### evil-winrm
+
+![[Pasted image 20240309015511.png]]
