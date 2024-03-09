@@ -81,3 +81,4 @@ smbclient -L //10.10.10.10/
 
 ![[Pasted image 20240308220917.png]]
 
+![[Pasted image 20240308221822.png]]
