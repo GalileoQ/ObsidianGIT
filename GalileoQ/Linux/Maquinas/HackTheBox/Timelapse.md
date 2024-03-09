@@ -99,4 +99,4 @@ convertimos el archivo pfx a un formato hash y luego usamos la herramienta pfx2j
 ![[Pasted image 20240308224352.png]]
 tenemos la password del archivo asi que vemos a intentar 
 
-
+thuglegacy 
