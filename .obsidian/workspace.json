@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "667800c4d20c618f",
+  "active": "7e8e1015ccab9a8e",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Pasted image 20240308224352.png",
@@ -202,7 +202,6 @@
     "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex-Incompleta.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
