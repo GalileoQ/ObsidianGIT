@@ -110,5 +110,6 @@ al desciframos el archivo pfx generamos una clave y un certificado válidos, pod
 ![[Pasted image 20240309000213.png]]
 
 ### ConsoleHost_history.txt
-se utiliza para mostrar el contenido del historial de comandos de PowerShell que se ha almacenado en el archivo
+este archivo basicamente se utiliza para mostrar el contenido del historial de comandos de PowerShell
 ![[Pasted image 20240309000757.png]]
+
