@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -170,11 +171,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e8e1015ccab9a8e",
+  "active": "b559fcd3e7058683",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "Pasted image 20240308232530.png",
     "GalileoQ/Linux/Shell/OneLiners.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "Pasted image 20240308224352.png",
     "Pasted image 20240308223006.png",
@@ -187,7 +188,6 @@
     "Pasted image 20240307224010.png",
     "Pasted image 20240307223811.png",
     "Pasted image 20240307212411.png",
-    "Pasted image 20240307211356.png",
     "GalileoQ/Windows/Enumeración Window.md",
     "GITHUB/Postear.md",
     "GITHUB/path imagen.md",
