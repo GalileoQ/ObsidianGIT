@@ -81,4 +81,6 @@ smbclient -L //10.10.10.10/
 
 ![[Pasted image 20240308220917.png]]
 
+### descargaremos todos losa 
+
 ![[Pasted image 20240308221822.png]]
