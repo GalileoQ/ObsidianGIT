@@ -124,6 +124,6 @@ El resultado del comando anterior muestra que somos parte del grupo LAPS_Readers
 subimos el archivo 
 ![[Pasted image 20240309004319.png]]
 
-### GET-Laps
+### GET-LaPS
 
 ![[Pasted image 20240309013840.png]]
