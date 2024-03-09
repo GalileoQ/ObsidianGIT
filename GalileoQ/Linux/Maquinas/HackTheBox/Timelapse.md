@@ -93,3 +93,4 @@ obtenemos credenciales para descomprimir el archivo
 ### usamos openssl para extraer el nuevo archivo 
 
 ![[Pasted image 20240308223006.png]]
+
