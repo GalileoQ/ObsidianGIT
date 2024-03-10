@@ -92,6 +92,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 | 49717/tcp | open     | msrpc        | Microsoft Windows RPC                                 |
 Service Info: Host: PRINTER; OS: Windows; CPE: cpe:/o:microsoft:windows
 
-### Enumeracion del puerto 
-
+### Enumeracion del puerto SMB (445)
+tenemos recursos compartidos pero no tenemos permisos para leerlos
 ![[Pasted image 20240310172159.png]]
+
+### Enumeraci
