@@ -122,5 +122,5 @@ Este grupo tiene permisos para realizar varias configuraciones en los controlado
 
 
 ### netcat
-vamos a descargar netcat y lo subiremos a la maquina victima
+vamos a descargar netcat y con un servidor en python subimos el archivo a la maquina victima
 ![[Pasted image 20240310182212.png]]
