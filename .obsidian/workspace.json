@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Shell/OneLiners.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "667800c4d20c618f",
+  "active": "7e8e1015ccab9a8e",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
@@ -190,7 +190,6 @@
     "imagenes/Pasted image 20240308232530.png",
     "GalileoQ/Linux/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GalileoQ/Windows/Enumeración Window.md",
