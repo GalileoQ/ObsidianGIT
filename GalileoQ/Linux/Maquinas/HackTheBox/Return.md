@@ -131,6 +131,8 @@ aqui podemos ver todos los servicios que pueden ser modificados por el usuario s
 podemos modificar uno de estos servicios para que ejecute el netcat y de esa manera poder conseguir una reverse shell
 
 
+![[Pasted image 20240310191527.png]]
+
 
 
 
