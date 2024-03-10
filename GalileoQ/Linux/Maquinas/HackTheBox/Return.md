@@ -139,12 +139,7 @@ vamos a modificar el sevicio VSS este permite facilitar la creación de copias d
 	nc.exe start vss
 ```
 ![[Pasted image 20240310191527.png]]
-estaremos a la escucha en el puerto seleccionado para que al restablecer el servicio podamos conseguir una reverse shell
-
-
-
-
-
+estaremos a la escucha en el puerto seleccionado para que al restablecer el servicio podamos conseguir una reverse shell esta reverse shell es inestable asi que solo durara unos pocos segundos. para conseguir una 
 
 
 
