@@ -124,3 +124,7 @@ Este grupo tiene permisos para realizar varias configuraciones en los controlado
 ### netcat
 vamos a descargar netcat y con un servidor en python subimos el archivo a la maquina victima
 ![[Pasted image 20240310182212.png]]
+
+### services
+aqui podemos ver todos los servicios que pueden ser modificados por el usuario svc-pr
+![[Pasted image 20240310182347.png]]
