@@ -114,3 +114,7 @@ podemos ver las credenciales de del usuario svc-printer
 usamos las credenciales que hemos conseguido para lograr una conexión con evin-winrm
 ![[Pasted image 20240310174117.png]]
 
+
+### Escalada de privilegios
+
+![[Pasted image 20240310174507.png]]
