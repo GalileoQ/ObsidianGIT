@@ -118,4 +118,5 @@ usamos las credenciales que hemos conseguido para lograr una conexión con evin-
 ### Escalada de privilegios
 La enumeración de membresías de grupos revela que svc printer es parte del grupo Server Operators.
 ![[Pasted image 20240310174507.png]]
+Este grupo tiene permisos para realizar varias configuraciones en los controladores de dominio, incluidos privilegios de copia de seguridad y restauración, cambiar la hora del sistema y apagar el sistema.
 
