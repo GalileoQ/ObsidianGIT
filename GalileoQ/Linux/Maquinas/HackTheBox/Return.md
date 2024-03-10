@@ -116,5 +116,5 @@ usamos las credenciales que hemos conseguido para lograr una conexión con evin-
 
 
 ### Escalada de privilegios
-La enumeración de membresías de grupos revela que svc printer es parte del grupo Operadores de servidores .
+La enumeración de membresías de grupos revela que svc printer es parte del grupo Remote Maganement Use .
 ![[Pasted image 20240310174507.png]]
