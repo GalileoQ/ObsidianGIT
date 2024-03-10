@@ -143,6 +143,7 @@ estaremos a la escucha en el puerto seleccionado para que al restablecer el serv
 
 ### WE ARE ROOT
 
+![[Pasted image 20240310193234.png]]
 
 
 ### SharpHound
