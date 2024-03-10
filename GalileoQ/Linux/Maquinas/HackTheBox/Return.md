@@ -130,7 +130,7 @@ aqui podemos ver todos los servicios que pueden ser modificados por el usuario s
 ![[Pasted image 20240310182347.png]]
 podemos modificar uno de estos servicios para que ejecute el netcat y de esa manera poder conseguir una reverse shell
 
-
+vamos a modificar el sevicio VSS este servicio VSS es facilitar la creación de copias de seguridad de volúmenes de disco mientras los archivos están en uso
 ![[Pasted image 20240310191527.png]]
 
 
