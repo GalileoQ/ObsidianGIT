@@ -103,4 +103,5 @@ tenemos recursos compartidos pero no tenemos permisos para leerlos
 Settings
 ![[Pasted image 20240310172444.png]]
 
-Configuremos netcat en el puerto 389 (LDAP) y especifiquemos nuestra dirección IP tun0 en el campo Dirección del servidor 
+Configuremos netcat en el puerto 389 (LDAP) y especifiquemos nuestra dirección IP tun0 en el campo server address
+![[Pasted image 20240310173449.png]]
