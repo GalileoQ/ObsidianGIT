@@ -123,4 +123,3 @@ Este grupo tiene permisos para realizar varias configuraciones en los controlado
 
 ### netcat
 vamos a descargar netcat y lo subiremos a la maquina victima
-
