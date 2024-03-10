@@ -96,4 +96,5 @@ Service Info: Host: PRINTER; OS: Windows; CPE: cpe:/o:microsoft:windows
 tenemos recursos compartidos pero no tenemos permisos para leerlos
 ![[Pasted image 20240310172159.png]]
 
-### Enumeraci
+### Enumeración del puerto http (80)
+
