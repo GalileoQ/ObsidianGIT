@@ -100,5 +100,6 @@ tenemos recursos compartidos pero no tenemos permisos para leerlos
 
 ![[Pasted image 20240310172404.png]]
 
-
+Settings
 ![[Pasted image 20240310172444.png]]
+
