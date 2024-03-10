@@ -126,5 +126,7 @@ vamos a descargar netcat y con un servidor en python subimos el archivo a la maq
 ![[Pasted image 20240310182212.png]]
 
 ### services
-aqui podemos ver todos los servicios que pueden ser modificados por el usuario svc-pr
+aqui podemos ver todos los servicios que pueden ser modificados por el usuario svc-printer ya que este pertenece al grupo Server Operators
 ![[Pasted image 20240310182347.png]]
+podemos modificar uno de estos servicios para que ejecute el netcat y de esa manera poder conseguir una reverse shell
+
