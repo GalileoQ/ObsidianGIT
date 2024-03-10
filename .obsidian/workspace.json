@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df9e7bc9cae64d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Return.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "667800c4d20c618f",
+  "active": "df9e7bc9cae64d1b",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
+    "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
