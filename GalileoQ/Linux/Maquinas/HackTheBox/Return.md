@@ -108,4 +108,6 @@ Configuremos netcat en el puerto 389 (LDAP) y especifiquemos nuestra dirección 
 
 logramos conexión
 ![[Pasted image 20240310173608.png]]
+podemos ver las credenciales de del usuario svc-printer 
 
+![[Pasted image 20240310174117.png]]
