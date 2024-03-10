@@ -105,3 +105,6 @@ Settings
 
 Configuremos netcat en el puerto 389 (LDAP) y especifiquemos nuestra dirección IP tun0 en el campo server address
 ![[Pasted image 20240310173449.png]]
+
+logramos
+![[Pasted image 20240310173608.png]]
