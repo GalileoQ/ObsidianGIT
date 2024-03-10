@@ -110,4 +110,7 @@ logramos conexión
 ![[Pasted image 20240310173608.png]]
 podemos ver las credenciales de del usuario svc-printer 
 
+### evil-winrm
+usamos las credenciales que hemos conseguido para lograr una conexión con evin-winrm
 ![[Pasted image 20240310174117.png]]
+
