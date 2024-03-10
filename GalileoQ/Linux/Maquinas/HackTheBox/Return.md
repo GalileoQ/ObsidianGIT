@@ -144,3 +144,7 @@ podemos modificar uno de estos servicios para que ejecute el netcat y de esa man
 
 ### SharpHound
 ![[Pasted image 20240310183126.png]]
+
+### upload
+![[Pasted image 20240310183257.png]]
+
