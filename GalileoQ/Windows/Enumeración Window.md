@@ -63,6 +63,8 @@ where /r c:\ file.txt
 #Powershell
 
 Get-ChildItem -Path C:\Myfolder -Filter file.txt -Recurs
+
+cmd.exe /c dir /s /b C:\user.txt
 ```
 ### Búsqueda de credenciales
 
