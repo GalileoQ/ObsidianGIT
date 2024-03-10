@@ -98,3 +98,7 @@ tenemos recursos compartidos pero no tenemos permisos para leerlos
 
 ### Enumeración del puerto http (80)
 
+![[Pasted image 20240310172404.png]]
+
+
+![[Pasted image 20240310172444.png]]
