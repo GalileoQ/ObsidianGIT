@@ -58,6 +58,9 @@ C:\FilesExplotation\ysoserial-1.34\Release>.\ysoserial.exe -p ViewState  -g Text
 
 ![[Pasted image 20240311110529.png]]
 
+### Invoke-PowerShelltcp
+ahora 
+![[Pasted image 20240311110955.png]]
 ### Servidor con python
 
 ![[Pasted image 20240311110845.png]]
