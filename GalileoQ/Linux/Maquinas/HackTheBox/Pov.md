@@ -44,3 +44,4 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 ### BurpSuite
 
 ![[Pasted image 20240310212727.png]]
+Usaremos la herramienta YSoSerial.net 
