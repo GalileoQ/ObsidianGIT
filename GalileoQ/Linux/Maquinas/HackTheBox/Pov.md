@@ -54,4 +54,6 @@ usaremos la herramienta YSoSerial.Net esta herramienta es para maquina windows a
 
 ![[Pasted image 20240311110529.png]]
 
+### rlwrap
+
 ![[Pasted image 20240311105747.png]]
