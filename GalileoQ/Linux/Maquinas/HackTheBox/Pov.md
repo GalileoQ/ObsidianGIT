@@ -109,7 +109,7 @@ hemos conseguido una nueva conexión con las credenciales de alaading
 ![[Pasted image 20240311183935.png]]
 
 ### Escalada de privilegios
-
+podremos ver que el privilegio “sedebugPrivilegePoC” ha sido deshabilitado
 ![[Pasted image 20240311184829.png]]
 
 
