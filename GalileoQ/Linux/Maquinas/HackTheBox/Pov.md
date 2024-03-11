@@ -41,10 +41,11 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 
 ![[Pasted image 20240310211028.png]]
 
+
 ### BurpSuite
 
 ![[Pasted image 20240310212727.png]]
-Usaremos la herramienta YSoSerial.net 
+podemos interceptar esta petición y llamar al /web.config. esto  
 
 ### Vulnerabilidad Exploiting __VIEWSTATE
 ![[Pasted image 20240311105353.png]]
