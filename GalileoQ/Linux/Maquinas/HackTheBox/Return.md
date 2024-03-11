@@ -142,12 +142,3 @@ vamos a modificar el sevicio VSS este permite facilitar la creación de copias d
 estaremos a la escucha en el puerto seleccionado para que al restablecer el servicio podamos conseguir una reverse shell esta reverse shell es inestable asi que solo durara unos pocos segundos. para conseguir una shell optima podríamos establecer una conexión con meterpreter 
 
 ### WE ARE ROOT
-
-
-
-### SharpHound
-![[Pasted image 20240310183126.png]]
-
-### upload
-![[Pasted image 20240310183257.png]]
-
