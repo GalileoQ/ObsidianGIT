@@ -45,3 +45,6 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 
 ![[Pasted image 20240310212727.png]]
 Usaremos la herramienta YSoSerial.net 
+
+### vulnerabilidad
+![[Pasted image 20240311105353.png]]
