@@ -48,6 +48,6 @@ cambiamos el EVENTVALIDATION= cv.pdf por = /web.config. esto nos muestra informa
 
 ### Vulnerabilidad Exploiting __VIEWSTATE
 ![[Pasted image 20240311105353.png]]
-usaremos la herramienta YSoSerial.Net
+usaremos la herramienta YSoSerial.Net esta herramienta es para maquina windows asi que debes tener una maquina windows donde poder ejecutar esto (tambien puedes ejecutarlo desde k)
 
 ![[Pasted image 20240311105747.png]]
