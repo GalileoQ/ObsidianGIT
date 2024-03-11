@@ -79,3 +79,7 @@ Nota: el codigo debe ir URLEncode puede hacerlo desde burpsuite seleccionando el
 estaremos a la escucha con rlwrap para recibir nuestra reverse shell
 ![[Pasted image 20240311105747.png]]
 
+### xml
+
+![[Pasted image 20240311112314.png]]
+
