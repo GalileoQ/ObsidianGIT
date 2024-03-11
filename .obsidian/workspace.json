@@ -23,11 +23,16 @@
             "id": "df9e7bc9cae64d1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -154,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "667800c4d20c618f",
+  "active": "df9e7bc9cae64d1b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
     "Pasted image 20240311194312.png",
     "Pasted image 20240311190718.png",
     "Pasted image 20240311190554.png",
@@ -166,9 +172,7 @@
     "Pasted image 20240311182044.png",
     "Pasted image 20240311181805.png",
     "Pasted image 20240311181743.png",
-    "Pasted image 20240311175136.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
