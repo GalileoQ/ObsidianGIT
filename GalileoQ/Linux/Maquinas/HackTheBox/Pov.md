@@ -29,6 +29,8 @@ obtenemos el nombre de dominio del host y lo agregamos al /etc/hosts
 
 ![[Pasted image 20240310205202.png]]
 
-### Fuzzing con wfuzz
+### Fuzzing con wfuzz (Directorios)
 no obtenemos nada interesante por el momento
 ![[Pasted image 20240310205503.png]]
+
+### 
