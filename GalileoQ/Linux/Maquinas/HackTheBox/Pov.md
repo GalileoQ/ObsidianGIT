@@ -34,4 +34,6 @@ no obtenemos nada interesante por el momento
 ![[Pasted image 20240310205503.png]]
 
 ### Fuzzing con wfuzz (Subdominios)
+encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
+![[Pasted image 20240310210838.png]]
 
