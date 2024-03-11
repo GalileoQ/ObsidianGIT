@@ -39,11 +39,10 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 
 ### Web dev.pov.htb
 
-![[Pasted image 20240310211028.png]]
-
+![[Pasted image 20240311105847.png]]
 
 ### BurpSuite
-
+interceptamos la petición de download cv
 ![[Pasted image 20240310212727.png]]
 podemos interceptar esta petición y llamar al /web.config. esto  
 
