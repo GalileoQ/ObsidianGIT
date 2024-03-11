@@ -82,10 +82,10 @@ estaremos a la escucha con rlwrap para recibir nuestra reverse shell
 ### xml
 
 ![[Pasted image 20240311112314.png]]
-En este archivo obtenemos otro Usuario llamado **alaading** y la contraseña codificada. con los siguientes comandos para obtener la contraseña
+En este archivo obtenemos otro Usuario llamado **alaading** y la contraseña codificada.
 
 ### Import-Clixml 
-
+con import-clixml podemos extraer los datos de ese archivo xml
 ![[Pasted image 20240311175136.png]]
 
 
