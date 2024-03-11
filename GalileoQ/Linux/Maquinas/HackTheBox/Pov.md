@@ -49,3 +49,6 @@ podemos interceptar esta petición y llamar al /web.config. esto
 
 ### Vulnerabilidad Exploiting __VIEWSTATE
 ![[Pasted image 20240311105353.png]]
+
+
+![[Pasted image 20240311105747.png]]
