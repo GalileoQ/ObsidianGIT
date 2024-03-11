@@ -108,7 +108,9 @@ ejecutamos RunasCs con las credenciales que hemos conseguido llamamos una cmd.ex
 hemos conseguido una nueva conexión con las credenciales de alaading
 ![[Pasted image 20240311183935.png]]
 
-###
+### Escalada de privilegios
+
+![[Pasted image 20240311184829.png]]
 
 
 
