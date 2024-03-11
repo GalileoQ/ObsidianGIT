@@ -82,4 +82,5 @@ estaremos a la escucha con rlwrap para recibir nuestra reverse shell
 ### xml
 
 ![[Pasted image 20240311112314.png]]
-En este archivo obtenemos otro Usuario llamado **alaading** con su contraseña codificada. Ahora use los siguientes comandos para obtener la contraseña
+En este archivo obtenemos otro Usuario llamado **alaading** y la contraseña codificada. con los siguientes comandos para obtener la contraseña
+
