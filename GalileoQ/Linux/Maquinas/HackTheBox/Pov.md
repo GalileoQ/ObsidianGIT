@@ -72,8 +72,8 @@ estaremos compartiendo este archivo en un servidor con python
 ![[Pasted image 20240311110845.png]]
 
 ### BurpSuite
-
-
+finalmente usaremos el codigo que hemos generado con el YSoSerial.Net intectandolo en el parametro *VIESTATE 
+![[Pasted image 20240311111432.png]]
 ### rlwrap
 
 ![[Pasted image 20240311105747.png]]
