@@ -73,8 +73,8 @@ estaremos compartiendo este archivo en un servidor con python
 
 ### BurpSuite
 finalmente usaremos el codigo que hemos generado con el YSoSerial.Net intectandolo en el parametro **VIESTATE** 
-Nota: el codigo debe ir URLEncode puede hacerlo desde burpsuite seleccionando
+Nota: el codigo debe ir URLEncode puede hacerlo desde burpsuite seleccionando el codigo y presionando CTRL + U 
 ![[Pasted image 20240311111432.png]]
 ### rlwrap
-
+estaremos a la escucha con rlwrap para recibir n
 ![[Pasted image 20240311105747.png]]
