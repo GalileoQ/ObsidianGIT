@@ -37,6 +37,7 @@ no obtenemos nada interesante por el momento
 encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 ![[Pasted image 20240310210838.png]]
 
-### Web dev.pov.h
+### Web dev.pov.htb
 
 ![[Pasted image 20240310211028.png]]
+
