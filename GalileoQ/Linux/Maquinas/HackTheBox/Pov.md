@@ -117,7 +117,7 @@ ejecutamos los script que hemos subido anteriormente y procedemos a la escalada
 ![[Pasted image 20240311190250.png]]
 
 ### msfvenom
-creamos un exploit con msfvenom para iniciar una reverse shell como nt\system y lo vamos a subir a la maquina victima con un ser
+creamos un exploit con msfvenom para iniciar una reverse shell como nt\system y lo vamos a subir a la maquina victima con un servidor en python
 ![[Pasted image 20240311190718.png]]
 
 ### 
