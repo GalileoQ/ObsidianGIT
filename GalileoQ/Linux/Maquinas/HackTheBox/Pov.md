@@ -58,6 +58,10 @@ C:\FilesExplotation\ysoserial-1.34\Release>.\ysoserial.exe -p ViewState  -g Text
 
 ![[Pasted image 20240311110529.png]]
 
+### Servidor con python
+
+![[Pasted image 20240311110845.png]]
+
 ### rlwrap
 
 ![[Pasted image 20240311105747.png]]
