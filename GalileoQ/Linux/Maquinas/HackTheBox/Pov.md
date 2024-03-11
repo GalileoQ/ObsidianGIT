@@ -9,7 +9,7 @@ PING 10.10.11.251 (10.10.11.251) 56(84) bytes of data.
 rtt min/avg/max/mdev = 156.729/156.729/156.729/0.000 ms
 ```
 
-### TTL 127 
+### TTL 127= Windows
 ### nmap
 ```python
 PORT   STATE SERVICE VERSION
@@ -23,3 +23,4 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 39.52 seconds
 ```
+obtenemos el nombre de dominio del h
