@@ -46,5 +46,5 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 ![[Pasted image 20240310212727.png]]
 Usaremos la herramienta YSoSerial.net 
 
-### vulnerabilidad
+### Vulnerabilidad Exploiting __VIEWSTATE
 ![[Pasted image 20240311105353.png]]
