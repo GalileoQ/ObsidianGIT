@@ -50,6 +50,8 @@ cambiamos el EVENTVALIDATION= cv.pdf por = /web.config. esto nos muestra informa
 ![[Pasted image 20240311105353.png]]
 usaremos la herramienta YSoSerial.Net esta herramienta es para maquina windows asi que debes tener una maquina windows donde poder ejecutar esto (tambien puedes ejecutarlo desde kali linux pero debes complementarlo con otras herramientas)
 
+### YSoSerial.Net
 
+![[Pasted image 20240311110529.png]]
 
 ![[Pasted image 20240311105747.png]]
