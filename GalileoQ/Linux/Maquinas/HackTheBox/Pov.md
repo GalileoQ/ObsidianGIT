@@ -105,6 +105,8 @@ ejecutamos RunasCs con las credenciales que hemos conseguido llamamos una cmd.ex
 ![[Pasted image 20240311182556.png]]
 
 ### rlwrap 
+hemos conseguido una nueva cone
+![[Pasted image 20240311183935.png]]
 
 
 
