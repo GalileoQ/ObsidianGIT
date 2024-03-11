@@ -44,10 +44,10 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 ### BurpSuite
 interceptamos la petición de download cv
 ![[Pasted image 20240310212727.png]]
-cambiamos el EVENTVALIDATION= cv.pdf por = /web.config. esto nos muestra información de la pagina la cual la hace vulnerable a una explo
+cambiamos el EVENTVALIDATION= cv.pdf por = /web.config. esto nos muestra información de la pagina la cual la hace vulnerable a una explotacion de VIEWSTATE
 
 ### Vulnerabilidad Exploiting __VIEWSTATE
 ![[Pasted image 20240311105353.png]]
-
+usaremos la herramienta YSoSerial.Net
 
 ![[Pasted image 20240311105747.png]]
