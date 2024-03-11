@@ -41,3 +41,6 @@ encontramos un subdominio sospechoso. lo agregamos al /etc/hosts
 
 ![[Pasted image 20240310211028.png]]
 
+### BurpSuite
+
+![[Pasted image 20240310212727.png]]
