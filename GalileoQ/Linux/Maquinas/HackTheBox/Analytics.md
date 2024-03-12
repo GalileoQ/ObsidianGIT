@@ -44,3 +44,4 @@ tenemos un apartado de login
 
 agregamos el nuevo dominio al /etc/host 
 ![[Pasted image 20240312124810.png]]
+
