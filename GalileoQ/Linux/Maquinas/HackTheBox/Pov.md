@@ -126,7 +126,8 @@ subimos el archivo a la maquina victima y ejecutamos .\exploit.exe
 
 ### msfconsole
 vamos a setear todos los parametros de multi/handler y ejecutamos el .\exploit.exe
-![[Pasted image 20240311195737.png]]
+![[Pasted image 20240311200351.png]]
+
 
 
 
