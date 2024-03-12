@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "457c6de7ca5320c1",
+        "id": "3c1ca3cd91b8ad85",
         "type": "tabs",
         "children": [
           {
-            "id": "667800c4d20c618f",
+            "id": "67b70ffdb9c4372c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9e7bc9cae64d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,23 +138,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "667800c4d20c618f",
+  "active": "67b70ffdb9c4372c",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
     "Pasted image 20240311201120.png",
     "Pasted image 20240311200502.png",
     "Pasted image 20240311200351.png",
     "Pasted image 20240311195737.png",
     "Pasted image 20240311195649.png",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Pov.md",
     "Pasted image 20240311194312.png",
     "Pasted image 20240311190718.png",
     "Pasted image 20240311190554.png",
     "Pasted image 20240311190250.png",
     "Pasted image 20240311184829.png",
-    "Pasted image 20240311183935.png",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
