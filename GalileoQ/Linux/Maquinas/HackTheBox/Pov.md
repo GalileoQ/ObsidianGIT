@@ -121,6 +121,7 @@ creamos un exploit con msfvenom para iniciar una reverse shell como nt\system y 
 ![[Pasted image 20240311190718.png]]
 
 ### exploit.exe 
+subimos el archivo a la maquina victima y ejecutamos .\exploit.exe 
 ![[Pasted image 20240311194312.png]]
 
 ### msfconsole
