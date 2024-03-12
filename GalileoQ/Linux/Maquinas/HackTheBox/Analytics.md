@@ -58,4 +58,7 @@ interceptamos la petición del login y redireccionamos el GET
 ### Ejecutamos el exploit 
 
 ![[Pasted image 20240312134618.png]]
+esto parece ser un contenedor asi que debemos escapar de el para poder escalar prilegios
 
+### Enumeracion del
+![[Pasted image 20240312140208.png]]
