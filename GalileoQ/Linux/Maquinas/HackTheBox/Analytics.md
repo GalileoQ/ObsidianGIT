@@ -68,3 +68,5 @@ con el comando printenv podemos enumerar variables que hayan sido ejecutadas ant
 usamos las credenciales que hemos conseguido para conectarnos por ssh
 ![[Pasted image 20240312140730.png]]
 
+### Escalada de privilegios
+
