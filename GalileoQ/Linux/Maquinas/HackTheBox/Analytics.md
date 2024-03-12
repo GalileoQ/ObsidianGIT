@@ -27,11 +27,16 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Tue Mar 12 12:35:20 2024 -- 1 IP address (1 host up) scanned in 29.46 seconds
 ```
 
+### Ports
+
 | PORT   | STATE | SERVICE | VERSION               |
 | ------ | ----- | ------- | --------------------- |
-| 22/tcp | open  | ssh     |                       |
+| 22/tcp | open  | ssh     | OpenSSH 8.9p1         |
 | 80/tcp | open  | http    | nginx 1.18.0 (Ubuntu) |
 
 ### /etc/hosts
 agregamos la IP y el dominio al /etc/hosts
 ![[Pasted image 20240312124121.png]]
+
+### Enumeración del puerto 80 (http)
+
