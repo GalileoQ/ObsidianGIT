@@ -44,4 +44,7 @@ tenemos un apartado de login
 
 agregamos el nuevo dominio al /etc/host 
 ![[Pasted image 20240312124810.png]]
+conseguimos una vulnerabilidad para para metabase la cual nos permite autenticarnos
 
+### Burp
+![[Pasted image 20240312134206.png]]
