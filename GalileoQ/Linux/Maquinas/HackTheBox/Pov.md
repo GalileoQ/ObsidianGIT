@@ -128,6 +128,9 @@ subimos el archivo a la maquina victima y ejecutamos .\exploit.exe
 vamos a setear todos los parametros de multi/handler y ejecutamos el .\exploit.exe
 ![[Pasted image 20240311200351.png]]
 
+### PID
+
+![[Pasted image 20240311200502.png]]
 
 
 
