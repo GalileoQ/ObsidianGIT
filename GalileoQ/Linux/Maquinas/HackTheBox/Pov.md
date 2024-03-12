@@ -85,7 +85,7 @@ estaremos a la escucha con rlwrap para recibir nuestra reverse shell
 En este archivo obtenemos otro Usuario llamado **alaading** y la contraseña codificada.
 
 ### Import-Clixml 
-con (import-clixml cone podemos extraer los datos de ese archivo xml
+con (import-clixml conennection.xml).GetNetworkCredential() | fl  podemos extraer los datos de ese archivo xml
 ![[Pasted image 20240311175136.png]]
 
 ### Servidor con python 
