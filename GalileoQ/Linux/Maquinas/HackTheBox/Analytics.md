@@ -64,4 +64,7 @@ esto parece ser un contenedor asi que debemos escapar de el para poder escalar p
 con el comando printenv podemos enumerar variables que hayan sido ejecutadas anteriormente. en este caso conseguimos usuario y contraseña
 ![[Pasted image 20240312140208.png]]
 
-### 
+### ssh
+usamos las credenciales que hemos conseguido para conectarnos por ssh
+![[Pasted image 20240312140730.png]]
+
