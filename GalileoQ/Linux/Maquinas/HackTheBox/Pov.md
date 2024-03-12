@@ -129,7 +129,7 @@ vamos a setear todos los parametros de multi/handler y ejecutamos el .\exploit.e
 ![[Pasted image 20240311200351.png]]
 
 ### PID
-aqui tendremos el PID del winlogon.ex
+aqui tendremos el PID del winlogon.exe y ahora solo debemos migrar a este PID
 ![[Pasted image 20240311200502.png]]
 
 
