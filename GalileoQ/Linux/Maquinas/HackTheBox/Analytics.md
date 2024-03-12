@@ -40,3 +40,6 @@ agregamos la IP y el dominio al /etc/hosts
 
 ### Enumeración del puerto 80 (http)
 
+
+
+![[Pasted image 20240312124810.png]]
