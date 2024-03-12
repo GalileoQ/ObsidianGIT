@@ -55,3 +55,5 @@ interceptamos la petición del login y redireccionamos el GET
 
 ![[Pasted image 20240312134206.png]]
 
+### 
+![[Pasted image 20240312134618.png]]
