@@ -15,3 +15,5 @@ rtt min/avg/max/mdev = 152.321/152.321/152.321/0.000 ms
 ```python
 
 ```
+
+### /etc/hosts
