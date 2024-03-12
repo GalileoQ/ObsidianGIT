@@ -44,7 +44,7 @@ tenemos un apartado de login
 
 agregamos el nuevo dominio al /etc/host 
 ![[Pasted image 20240312124810.png]]
-conseguimos una vulnerabilidad para para metabase la cual nos permite autenticarnos
+conseguimos una vulnerabilidad para para metabase la cual nos permite autenticarnos [[https://github.com/Pyr0sec/CVE-2023-38646]]
 
 ### BurpSuite
 interceptamos la petición del login y redireccionamos el GET
@@ -55,5 +55,6 @@ interceptamos la petición del login y redireccionamos el GET
 
 ![[Pasted image 20240312134206.png]]
 
-### 
+### Ejecutamos el exploit 
+
 ![[Pasted image 20240312134618.png]]
