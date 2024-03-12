@@ -47,8 +47,11 @@ agregamos el nuevo dominio al /etc/host
 conseguimos una vulnerabilidad para para metabase la cual nos permite autenticarnos
 
 ### BurpSuite
-interceptamos la petición del login y redireccionamos el GET hacia 
+interceptamos la petición del login y redireccionamos el GET
+
 ```python
-```
 /api/session/properties
+```
+
 ![[Pasted image 20240312134206.png]]
+
