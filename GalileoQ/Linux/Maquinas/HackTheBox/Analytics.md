@@ -63,3 +63,5 @@ esto parece ser un contenedor asi que debemos escapar de el para poder escalar p
 ### Enumeración del contenedor
 con el comando printenv podemos enumerar variables que hayan sido ejecutadas anteriormente. en este caso conseguimos usuario y contraseña
 ![[Pasted image 20240312140208.png]]
+
+### 
