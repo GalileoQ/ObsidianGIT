@@ -58,3 +58,4 @@ interceptamos la petición del login y redireccionamos el GET
 ### Ejecutamos el exploit 
 
 ![[Pasted image 20240312134618.png]]
+
