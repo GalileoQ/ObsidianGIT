@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "f1296655417d2adb",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex-Incompleta.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
@@ -182,8 +184,6 @@
     "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Oopsie.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
     "plantillas",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
