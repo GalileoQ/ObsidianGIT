@@ -70,7 +70,5 @@ usamos las credenciales que hemos conseguido para conectarnos por ssh
 
 ### Escalada de privilegios
 
-
-
 ejecutamos el exploit
 ![[Pasted image 20240312143440.png]]
