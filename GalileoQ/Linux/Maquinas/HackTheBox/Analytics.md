@@ -39,7 +39,8 @@ agregamos la IP y el dominio al /etc/hosts
 ![[Pasted image 20240312124121.png]]
 
 ### Enumeración del puerto 80 (http)
+tenemos un apartado de login
+![[Pasted image 20240312124841.png]]
 
-
-
+agregamos el nuevo dominio al /etc/host 
 ![[Pasted image 20240312124810.png]]
