@@ -72,3 +72,5 @@ usamos la herramienta de impacket pero tampoco tenemos éxito así que seguiremo
 ![[Pasted image 20240312233348.png]]
 
 ### Enumeración del puerto 80 (http)
+tenemos directorios como home
+![[Pasted image 20240312234526.png]]
