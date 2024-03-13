@@ -226,4 +226,3 @@ igualamos la variable export KRB5CCNAME=Administrator luego con impacket creamos
 ![[Pasted image 20240305031800.png]]
 ### WE ARE ROOT
 
-![[Pasted image 20240305033619.png]]
