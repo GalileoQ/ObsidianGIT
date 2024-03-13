@@ -116,4 +116,6 @@ ejecutamos kerbrute
 logramos conseguir un usuario valido **fsmith**
 ![[Pasted image 20240313005637.png]]
 
-### 
+### impacket
+
+![[Pasted image 20240313010322.png]]
