@@ -95,9 +95,10 @@ ahora vamos hacer algunas permutaciones en los nombres para tener muchas mas var
 # ejemplo
 nombre apellido
 nombre.apellido
-fergus     
-ferguss    
-fsmith
+nombre
+apellido
+nombrea    
+napellido
 ```
 
 ![[Pasted image 20240313004436.png]]
