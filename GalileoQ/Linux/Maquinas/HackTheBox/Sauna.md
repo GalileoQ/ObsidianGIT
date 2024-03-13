@@ -67,3 +67,5 @@ intentaremos enumerar el domain controller usando rpcclinet pero tampoco tenemos
 usaremos la herramienta [windapsearch](https://github.com/ropnop/windapsearch) para enumerar el puerto LDAP. en este caso no obtenemos nada
 ![[Pasted image 20240312233139.png]]
 
+### 
+![[Pasted image 20240312233348.png]]
