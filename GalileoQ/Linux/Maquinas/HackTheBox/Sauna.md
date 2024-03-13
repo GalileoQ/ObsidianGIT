@@ -104,5 +104,5 @@ napellido
 ![[Pasted image 20240313004436.png]]
 
 ### kerbrute
-
+podemos descargar kerbruter desde a
 ![[Pasted image 20240313000615.png]]
