@@ -76,5 +76,6 @@ vamos al directorio About Us y hacemos scroll hacia abajo
 ![[Pasted image 20240312234526.png]]
 
 ### About Us
-aqui podemos ver los 
+aqui podemos ver los nombres completos de algunos empleados del banco
 ![[Pasted image 20240312234728.png]]
+
