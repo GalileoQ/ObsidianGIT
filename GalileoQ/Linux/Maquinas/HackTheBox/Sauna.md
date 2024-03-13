@@ -1,3 +1,4 @@
 ### Ping
-```pyth
+```python
+
 ```
