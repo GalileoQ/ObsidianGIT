@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2348bd394b86964",
+        "id": "9f079b3d89291d32",
         "type": "tabs",
         "children": [
           {
-            "id": "f1296655417d2adb",
+            "id": "110e99cfcea0883b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27040d2e1f827f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md"
               }
             }
           }
@@ -158,26 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f1296655417d2adb",
+  "active": "110e99cfcea0883b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Codify.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
     "Pasted image 20240312143440.png",
     "Pasted image 20240312140730.png",
     "Pasted image 20240312140208.png",
     "Pasted image 20240312134618.png",
     "Pasted image 20240312134206.png",
-    "GalileoQ/Linux/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Analytics.md",
     "Pasted image 20240312124841.png",
     "Pasted image 20240312124810.png",
     "Pasted image 20240312124121.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Devvortex-Incompleta.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "Pasted image 20240311201120.png",
     "Pasted image 20240311200502.png",
-    "Pasted image 20240311200351.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Return.md",
     "GalileoQ/Windows/Enumeración Window.md",
     "GalileoQ/Linux/Shell/OneLiners.md",
@@ -186,7 +177,6 @@
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Crafty.md",
     "GalileoQ/Linux/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Windows/Maquinas/Hack-The-Box/Crafty.md",
     "GITHUB/Postear.md",
     "GITHUB/path imagen.md",
@@ -194,8 +184,6 @@
     "Curso/eJPTv2.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Vaccine.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Sau.md",
     "plantillas",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
     "GalileoQ/Windows/Maquinas/Try-Hack-Me",
