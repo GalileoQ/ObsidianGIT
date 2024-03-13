@@ -112,3 +112,4 @@ go buil .
 liste de esta manera ya tenemos kerbrute preparado
 ![[Pasted image 20240313000615.png]]
 
+ejecu
