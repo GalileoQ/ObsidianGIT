@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc8b0dbafa51578f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md"
               }
             }
           }
@@ -159,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dc8b0dbafa51578f",
+  "active": "110e99cfcea0883b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "Pasted image 20240313010322.png",
     "Pasted image 20240313005637.png",
