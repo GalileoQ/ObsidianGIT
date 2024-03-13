@@ -93,13 +93,14 @@ creamos una lista de usuarios en un archivo txt
 ahora vamos hacer algunas permutaciones en los nombres para tener muchas mas variantes
 ```python
 # ejemplo
-fergus smith
-fergus.smith
+nombre apellido
+nombre.apellido
 fergus     
 ferguss    
 fsmith
 ```
 
+![[Pasted image 20240313004436.png]]
 
 ### kerbrute
 
