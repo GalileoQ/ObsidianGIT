@@ -56,4 +56,9 @@ Nmap done: 1 IP address (1 host up) scanned in 140.36 seconds
 podemos enumerar un domain controller  para el dominio EGOTISTICAL-BANK.LOCAL y LDAP corriendo por el puerto 80 y el 389 respectivamente
 
 ### Enumeración del puerto 389 (LDAP)
-para la enumeracion del LDAP usaremos la herramienta [github](https://github.com/ropnop/windapsearch.git)
+para la enumeracion del LDAP usaremos la herramienta [windapsearch.git](https://github.com/ropnop/windapsearch.git) 
+```python
+$ git clone https://github.com/ropnop/windapsearch.git
+$ pip install python-ldap #or apt-get install python-ldap
+$ ./windapsearch.py
+```
