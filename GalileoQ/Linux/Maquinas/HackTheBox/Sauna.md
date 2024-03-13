@@ -88,7 +88,7 @@ vamos a usar este herramienta para hacer permutaciones entre los usuarios que he
 ![[Pasted image 20240312235201.png]]
 
 creamos una lista de usuarios en un archivo txt
-
+![[Pasted image 20240313003316.png]]
 
 ### kerbrute
 
