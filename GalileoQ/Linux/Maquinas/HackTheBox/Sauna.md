@@ -56,7 +56,7 @@ Nmap done: 1 IP address (1 host up) scanned in 140.36 seconds
 podemos enumerar un domain controller  para el dominio EGOTISTICAL-BANK.LOCAL y LDAP corriendo por el puerto 80 y el 389 respectivamente
 
 ### Enumeración del puerto 445 (SMB)
-
+utilizamos diferentes herramientas para intentar enumerar el puerto SMB pero no tenemos exito
 
 
 ### Enumeración del puerto 389 (LDAP)
