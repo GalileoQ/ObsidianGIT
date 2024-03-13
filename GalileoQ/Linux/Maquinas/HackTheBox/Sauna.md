@@ -72,5 +72,5 @@ usamos la herramienta de impacket pero tampoco tenemos éxito así que seguiremo
 ![[Pasted image 20240312233348.png]]
 
 ### Enumeración del puerto 80 (http)
-tenemos directorios como home
+vamos al directorio About Us y hacemos scroll hacia abajo 
 ![[Pasted image 20240312234526.png]]
