@@ -117,5 +117,5 @@ logramos conseguir un usuario valido **fsmith**
 ![[Pasted image 20240313005637.png]]
 
 ### impacket-GetNPUsers
-
+El módulo `GetNPUsers` de Impacket es una herramienta utilizada para extraer información sobre cuentas de usuario que tienen configurada la propiedad `Do Not Require Preauthentication` (no requerir autenticación previa) en un dominio de Active Directory. Esta característica de seguridad, cuando está habilitada para una cuenta de usuario en particular, permite que un atacante pueda realizar ataques de captura de hash de autenticación (ASREPRoasting) contra esa cuenta.
 ![[Pasted image 20240313010322.png]]
