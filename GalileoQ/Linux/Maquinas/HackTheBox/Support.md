@@ -98,6 +98,7 @@ tenemos una password `0Nv32PTwgYjzg9/8j5TbmvPd3e7WhtWWyuPsyO76/Y+U193E`
 ![[Pasted image 20240304234651.png]]
 
 ### Script en python
+
 ```python
 import base64 
 from itertools 
