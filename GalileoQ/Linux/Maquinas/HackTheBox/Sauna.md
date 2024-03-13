@@ -90,7 +90,15 @@ vamos a usar este herramienta para hacer permutaciones entre los usuarios que he
 creamos una lista de usuarios en un archivo txt
 ![[Pasted image 20240313003316.png]]
 
-ahora vamos hacer algunas permutaciones en los nombres para tener muchas mas 
+ahora vamos hacer algunas permutaciones en los nombres para tener muchas mas variantes
+```python
+# ejemplo
+fergus smith
+fergus.smith
+fergus     
+ferguss    
+fsmith
+```
 
 
 ### kerbrute
