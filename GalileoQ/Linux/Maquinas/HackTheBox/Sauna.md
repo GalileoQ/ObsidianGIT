@@ -71,3 +71,4 @@ usaremos la herramienta [windapsearch](https://github.com/ropnop/windapsearch) p
 usamos la herramienta de impacket pero tampoco tenemos éxito así que seguiremos enumerando
 ![[Pasted image 20240312233348.png]]
 
+### Enumeración del puerto 80 (http)
