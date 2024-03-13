@@ -53,6 +53,6 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 140.36 seconds
 ```
-obtenemos el nombre de dominio 
+obtenemos el nombre de dominio EGOTISTICAL-BANK.LOCAL
 
 ### 
