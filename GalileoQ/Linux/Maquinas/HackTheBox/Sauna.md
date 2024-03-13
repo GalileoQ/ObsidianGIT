@@ -60,4 +60,6 @@ utilizamos diferentes herramientas para intentar enumerar el puerto SMB pero no 
 ![[Pasted image 20240312225027.png]]
 
 ### Enumeración del puerto 389 (LDAP)
-intentaremos enumerar el domain controller usando rpcclinet
+intentaremos enumerar el domain controller usando rpcclinet pero tampoco tenemos exito
+![[Pasted image 20240312225457.png]]
+
