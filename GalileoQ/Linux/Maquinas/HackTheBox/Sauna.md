@@ -83,6 +83,6 @@ vamos al directorio About Us y hacemos scroll hacia abajo
 aqui podemos ver los nombres completos de algunos empleados del banco
 ![[Pasted image 20240312234728.png]]
 
-### 
-
+### username-anarchy
+vamos a usar este herramienta para 
 ![[Pasted image 20240312235201.png]]
