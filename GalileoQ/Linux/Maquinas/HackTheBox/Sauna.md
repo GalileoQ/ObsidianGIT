@@ -106,6 +106,9 @@ napellido
 ### kerbrute
 podemos descargar kerbruter desde [kerbrute](https://github.com/ropnop/kerbrute) 
 ```python 
-cd kerbruter
+cd kerbrute
+go buil .
 ```
+liste de esta manera ya tenemos kerbrute preparado
 ![[Pasted image 20240313000615.png]]
+
