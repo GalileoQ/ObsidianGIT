@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "d3cfcb514a877740",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "Pasted image 20240313010322.png",
     "Pasted image 20240313005637.png",
     "Pasted image 20240313004436.png",
