@@ -85,3 +85,4 @@ aqui podemos ver los nombres completos de algunos empleados del banco
 
 ### 
 
+![[Pasted image 20240312235201.png]]
