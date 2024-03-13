@@ -9,7 +9,7 @@ PING 10.10.10.175 (10.10.10.175) 56(84) bytes of data.
 rtt min/avg/max/mdev = 152.043/152.043/152.043/0.000 ms
 ```
 
-### TTL 127
+### TTL 127=Windows
 
 ### nmap
 ```python
@@ -53,3 +53,5 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 140.36 seconds
 ```
+
+### Ports
