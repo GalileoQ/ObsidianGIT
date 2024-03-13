@@ -113,5 +113,5 @@ liste de esta manera ya tenemos kerbrute preparado
 ![[Pasted image 20240313000615.png]]
 
 ejecutamos kerbrute
-
+logramos conseguir un usuario 
 ![[Pasted image 20240313005637.png]]
