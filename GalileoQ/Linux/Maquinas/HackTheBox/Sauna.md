@@ -104,5 +104,8 @@ napellido
 ![[Pasted image 20240313004436.png]]
 
 ### kerbrute
-podemos descargar kerbruter desde a
+podemos descargar kerbruter desde [kerbrute](https://github.com/ropnop/kerbrute) 
+```python 
+cd kerbruter
+```
 ![[Pasted image 20240313000615.png]]
