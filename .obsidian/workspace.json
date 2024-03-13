@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3cfcb514a877740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md"
+                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "110e99cfcea0883b",
+  "active": "d3cfcb514a877740",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "Pasted image 20240313010322.png",
     "Pasted image 20240313005637.png",
     "Pasted image 20240313004436.png",
