@@ -71,6 +71,10 @@ usaremos la herramienta [windapsearch](https://github.com/ropnop/windapsearch) p
 usamos la herramienta de impacket pero tampoco tenemos éxito así que seguiremos enumerando
 ![[Pasted image 20240312233348.png]]
 
+### Fuzzing con ffuz
+
+![[Pasted image 20240312235017.png]]
+
 ### Enumeración del puerto 80 (http)
 vamos al directorio About Us y hacemos scroll hacia abajo 
 ![[Pasted image 20240312234526.png]]
