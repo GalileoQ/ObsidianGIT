@@ -59,13 +59,5 @@ podemos enumerar un domain controller  para el dominio EGOTISTICAL-BANK.LOCAL y 
 utilizamos diferentes herramientas para intentar enumerar el puerto SMB pero no tenemos exito
 ![[Pasted image 20240312225027.png]]
 
-### 
 ### Enumeración del puerto 389 (LDAP)
-para la enumeracion del LDAP usaremos la herramienta [windapsearch.git](https://github.com/ropnop/windapsearch.git) 
-
-```python
-$ git clone https://github.com/ropnop/windapsearch.git
-$ pip install python-ldap 'or' apt-get install python-ldap
-$ ./windapsearch.py
-```
-
+intentarem
