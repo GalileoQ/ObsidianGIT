@@ -84,5 +84,7 @@ aqui podemos ver los nombres completos de algunos empleados del banco
 ![[Pasted image 20240312234728.png]]
 
 ### username-anarchy
-vamos a usar este herramienta para 
+vamos a usar este herramienta para hacer permutaciones entre los usuarios que hemos conseguido
 ![[Pasted image 20240312235201.png]]
+
+creamos una lista de usuarios en un archivo txt
