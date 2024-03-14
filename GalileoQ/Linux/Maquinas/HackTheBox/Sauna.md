@@ -210,5 +210,10 @@ descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/power
 ![[Pasted image 20240314004811.png]]
 
 ### Upload
-`cd C:\windows\Temp`
+```python
+cd C:\Windows\temp
+mkdir Privesc
+cd Privesc
+upload 
+```
 ![[Pasted image 20240314005413.png]]
