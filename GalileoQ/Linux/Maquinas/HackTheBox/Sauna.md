@@ -160,3 +160,6 @@ tenemos conexión
 de esta manera podemos enumerar los usuarios que pertenecen tanto al grupo local como los usuarios existentes en el sistema 
 ![[Pasted image 20240313215737.png]]
 
+`usuario svc_loanmgr`
+no tenemos permisos para 
+![[Pasted image 20240313221650.png]]
