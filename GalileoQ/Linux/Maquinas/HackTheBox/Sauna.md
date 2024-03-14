@@ -202,5 +202,6 @@ obtenemos conexión
 sudo apt install neo4j bloodhound
 ```
 
-abrimos blood
+abrimos bloodhound 
 ![[Pasted image 20240314003923.png]]
+
