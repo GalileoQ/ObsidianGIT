@@ -209,3 +209,6 @@ abrimos bloodhound
 descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/powershell/blob/master/SharpHound.ps1) con un `wget`
 ![[Pasted image 20240314004811.png]]
 
+### Upload
+`cd C:\windows\Temp`
+![[Pasted image 20240314005413.png]]
