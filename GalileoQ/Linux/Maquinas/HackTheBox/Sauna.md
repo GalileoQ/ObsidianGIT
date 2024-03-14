@@ -206,5 +206,6 @@ abrimos bloodhound
 ![[Pasted image 20240314003923.png]]
 
 ### SharpHound.ps1
-descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/powershell/blob/master/SharpHound.ps1) 
+descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/powershell/blob/master/SharpHound.ps1) con un `wget`
 ![[Pasted image 20240314004811.png]]
+
