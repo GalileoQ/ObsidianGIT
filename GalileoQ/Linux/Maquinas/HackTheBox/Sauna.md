@@ -222,11 +222,11 @@ upload /home/kali/Desktop/htb/Sauna/SharpHound.exe
 
 ```
 
-`No funciona`
+
 ![[Pasted image 20240314005413.png]]
 
-`usamos la versión .exe pero tampoco funciona`
-![[Pasted image 20240314114302.png]]
+
+
 
 
 ### BloodHound-python
