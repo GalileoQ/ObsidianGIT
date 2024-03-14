@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -158,21 +159,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "110e99cfcea0883b",
+  "active": "ea9dd88bf2c8a979",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "Pasted image 20240314001619.png",
     "Pasted image 20240314001302.png",
     "Pasted image 20240314000840.png",
     "Pasted image 20240313235751.png",
     "Pasted image 20240313231249.png",
     "Pasted image 20240313231202.png",
-    "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "Pasted image 20240313224717.png",
     "Pasted image 20240313223933.png",
     "Pasted image 20240313221650.png",
     "Pasted image 20240313215737.png",
-    "Pasted image 20240313215456.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
