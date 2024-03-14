@@ -148,6 +148,10 @@ tenemos conexión
 ![[Pasted image 20240313204137.png]]
 
 ### Escalada de privilegios
+
+`whoami /priv`
+![[Pasted image 20240313215456.png]]
+
 podemos ver que efectivamnete formamos parte del grupo `Remote Management Users` 
 ![[Pasted image 20240313214833.png]]
 
