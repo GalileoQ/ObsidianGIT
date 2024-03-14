@@ -229,5 +229,5 @@ upload /home/kali/Desktop/htb/Sauna/SharpHound.exe
 ![[Pasted image 20240314114302.png]]
 
 ### BloodHound-python
-usaremos la herramienta 
+usaremos la herramienta BloodHound-python para 
 ![[Pasted image 20240314115219.png]]
