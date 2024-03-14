@@ -191,5 +191,6 @@ confirmamos que estas son las credenciales correctas y también podemos establec
 obtenemos conexión
 ![[Pasted image 20240314001302.png]]
 
-
+### Enumeración de permisos 
+`whoami /priv`  `net user svc_loanmgr`
 ![[Pasted image 20240314001619.png]]
