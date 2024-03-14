@@ -130,5 +130,6 @@ hashcat --example-hashes | grep krb5asrep # `krb5asrep` pertenece a el primer pa
 hashcat --example-hashes | grep krb5asrep -B 20 # -B 20 nos permite capturar las primeras 20 lineas del resultado de identificar el hash
 ```
 
-con estas 
+con estas opciones logramos obtener el tipo de hash al que nos estamos enfrentando
 ![[Pasted image 20240313200051.png]]
+
