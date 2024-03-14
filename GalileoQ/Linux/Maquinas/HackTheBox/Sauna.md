@@ -186,3 +186,7 @@ usando las credenciales de `fsmith` podemos enumerar los usuarios de una manera 
 ### crackmapexec
 confirmamos que estas son las credenciales correctas y también podemos establecer conexión vía evil-winrm
 ![[Pasted image 20240314000840.png]]
+
+### 
+
+![[Pasted image 20240314001302.png]]
