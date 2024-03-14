@@ -238,3 +238,4 @@ hemos generado un archivo llamado `20240314172620_BloodHound.zip` lo descargarem
 la herramienta BloodHound-python hace lo mismo que la herramienta SharpHound.ps1 
 ![[Pasted image 20240314115219.png]]
 
+### BloodHound
