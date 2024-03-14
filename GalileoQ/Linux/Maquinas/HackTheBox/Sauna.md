@@ -183,3 +183,6 @@ aqui podemos ver las credenciales del usuario `svc_loanmanager` pero anteriormen
 usando las credenciales de `fsmith` podemos enumerar los usuarios de una manera diferente usando rpcclient y asegurarnos de cual es el usuario existente en este caso `svc_loanmgr`
 ![[Pasted image 20240313235751.png]]
 
+### crackmapexec
+confirmamos que estas son las credenciales correctas y también 
+![[Pasted image 20240314000840.png]]
