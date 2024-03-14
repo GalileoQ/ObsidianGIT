@@ -226,7 +226,8 @@ upload /home/kali/Desktop/htb/Sauna/SharpHound.exe
 ![[Pasted image 20240314005413.png]]
 
 
-
+### Recopilación de información con SharpHound.ps1
+![[Pasted image 20240314132902.png]]
 
 
 ### BloodHound-python
