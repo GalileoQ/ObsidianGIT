@@ -148,4 +148,5 @@ tenemos conexión
 ![[Pasted image 20240313204137.png]]
 
 ### Escalada de privilegios
-
+podemos ver que efectivamnete formamos parte del grupo `Remote Management Users` 
+![[Pasted image 20240313214833.png]]
