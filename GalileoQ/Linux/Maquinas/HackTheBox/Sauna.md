@@ -205,3 +205,6 @@ sudo apt install neo4j bloodhound
 abrimos bloodhound 
 ![[Pasted image 20240314003923.png]]
 
+### SharpHound.ps1
+descargamos 
+![[Pasted image 20240314004811.png]]
