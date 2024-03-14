@@ -194,3 +194,4 @@ obtenemos conexión
 ### Enumeración de permisos 
 `whoami /priv`  `net user svc_loanmgr`
 ![[Pasted image 20240314001619.png]]
+
