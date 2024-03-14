@@ -210,7 +210,6 @@ descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/power
 ![[Pasted image 20240314004811.png]]
 
 ### Upload
-
 ```python
 cd C:\Windows\temp
 
