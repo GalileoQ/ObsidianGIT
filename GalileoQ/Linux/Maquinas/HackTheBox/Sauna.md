@@ -233,7 +233,7 @@ Invoke-BloodHound -CollectionMethod All
 hemos generado un archivo llamado `20240314172620_BloodHound.zip` lo descargaremos a nuestra maquina atacante para poder analizarlo
 ![[Pasted image 20240314132902.png]]
 
-`download` d
+`download` descargaremos el archivo con el nombre BloodHound.zip 
 ![[Pasted image 20240314192511.png]]
 ### Opción 2: BloodHound-python
 usaremos la herramienta BloodHound-python para 
