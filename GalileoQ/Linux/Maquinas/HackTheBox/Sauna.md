@@ -164,4 +164,5 @@ de esta manera podemos enumerar los usuarios que pertenecen tanto al grupo local
 no tenemos permisos para ver el directorio del usuario
 ![[Pasted image 20240313221650.png]]
 
-### winPEASx64.exe   [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca) 
+### winPEASx64.exe  
+vamos a descargar esta herramienta desde [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca)  
