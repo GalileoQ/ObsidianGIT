@@ -121,3 +121,8 @@ El módulo `GetNPUsers` de Impacket nos permite extraer información sobre cuent
 ![[Pasted image 20240313010322.png]]
 logramos obtener un TGT `Ticket Granting Ticket` esto es un hash. vamos a intentar romperlo con hashcat
 
+### hashcat
+```python
+hashcat
+```
+![[Pasted image 20240313200051.png]]
