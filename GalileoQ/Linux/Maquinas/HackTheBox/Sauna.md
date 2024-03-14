@@ -151,5 +151,6 @@ tenemos conexión
 podemos ver que efectivamnete formamos parte del grupo `Remote Management Users` 
 ![[Pasted image 20240313214833.png]]
 
-### net local
+### Enumeración de usuarios en el sistema
+
 ![[Pasted image 20240313215302.png]]
