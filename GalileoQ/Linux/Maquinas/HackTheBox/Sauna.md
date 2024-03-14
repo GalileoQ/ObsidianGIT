@@ -133,3 +133,6 @@ hashcat --example-hashes | grep krb5asrep -B 20 # -B 20 nos permite capturar las
 con estas opciones logramos obtener el tipo de hash al que nos estamos enfrentando en este caso es `HAsh mode #18200`
 ![[Pasted image 20240313200051.png]]
 
+Iniciando 
+![[Pasted image 20240313201029.png]]
+
