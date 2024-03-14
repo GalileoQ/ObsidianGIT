@@ -210,10 +210,16 @@ descargamos la herramienta [SharpHound.ps1](https://github.com/puckiestyle/power
 ![[Pasted image 20240314004811.png]]
 
 ### Upload
+
 ```python
 cd C:\Windows\temp
+
 mkdir Privesc
+
 cd Privesc
-upload 
+
+upload /home/kali/Desktop/htb/Sauna/SharpHound.ps1
 ```
+
 ![[Pasted image 20240314005413.png]]
+
