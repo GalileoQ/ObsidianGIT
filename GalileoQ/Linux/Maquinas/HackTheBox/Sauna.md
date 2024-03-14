@@ -166,5 +166,5 @@ no tenemos permisos para ver el directorio del usuario
 
 ### winPEASx64.exe  
 vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca) y la subimos a la maquina victima.
-`Nota: vamos a la ruta Windows/Temp creamos un nuevo directorio Emun 
+`Nota: vamos a la ruta Windows/Temp creamos un nuevo directorio, entramos y usando upload y la ruta de nuestro archivo 
 ![[Pasted image 20240313223933.png]]
