@@ -176,6 +176,5 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 ![[Pasted image 20240313231202.png]]
 
 `AutoLogon credential`
-aqui podemos ver las credenciales del usuario `svc_loanmanager`
+aqui podemos ver las credenciales del usuario `svc_loanmanager` pero anteriormente teníamos un nombre de usuario diferente
 ![[Pasted image 20240313231249.png]]
-
