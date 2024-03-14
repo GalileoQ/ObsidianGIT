@@ -156,6 +156,6 @@ tenemos conexión
 ![[Pasted image 20240313214833.png]]
 
 ### Enumeración de usuarios en el sistema
-`net localgroup "Remote Management Users"` - `net Users` 
+`net localgroup "Remote Management Users"` - `net Users` de esta manera podemos enumerar los usuarios que pertenecen tanto al 
 ![[Pasted image 20240313215737.png]]
 
