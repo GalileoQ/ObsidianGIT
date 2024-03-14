@@ -236,6 +236,6 @@ hemos generado un archivo llamado `20240314172620_BloodHound.zip` lo descargarem
 `download` descargaremos el archivo con el nombre BloodHound.zip 
 ![[Pasted image 20240314192511.png]]
 ### Opción 2: BloodHound-python
-la herramienta BloodHound-python hace exac
+la herramienta BloodHound-python hace 
 ![[Pasted image 20240314115219.png]]
 
