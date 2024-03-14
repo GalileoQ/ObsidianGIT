@@ -140,6 +140,6 @@ de esta manera logramos obtener la contraseña perteneciente a este hash
 ![[Pasted image 20240313201114.png]]
 
 ### crackmapexec
-podemos usar crackmapexec para intentar validar estas credenciales. si vemos un `+` esto nos indica que las credenciales son validas. una vez confirmado esto también podemos usar crackmapexec winrm para saber 
+podemos usar crackmapexec para intentar validar estas credenciales. si vemos un `+` esto nos indica que las credenciales son validas. una vez confirmado esto también podemos usar crackmapexec winrm para saber si el usuario `fsmith` forma parte del grupo 
 ![[Pasted image 20240313203544.png]]
 
