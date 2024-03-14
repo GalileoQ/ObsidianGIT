@@ -144,6 +144,8 @@ podemos usar crackmapexec para intentar validar estas credenciales. si vemos un 
 ![[Pasted image 20240313203544.png]]
 
 ### evil-winrm
-
+tenemos conexión
 ![[Pasted image 20240313204137.png]]
+
+### Escalada de privilegios
 
