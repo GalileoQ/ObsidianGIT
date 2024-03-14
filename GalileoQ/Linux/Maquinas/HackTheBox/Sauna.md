@@ -161,5 +161,6 @@ de esta manera podemos enumerar los usuarios que pertenecen tanto al grupo local
 ![[Pasted image 20240313215737.png]]
 
 `usuario svc_loanmgr`
-no tenemos permisos para 
+no tenemos permisos para ver el directorio del usuario
 ![[Pasted image 20240313221650.png]]
+
