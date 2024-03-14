@@ -233,7 +233,7 @@ Invoke-BloodHound -CollectionMethod All
 
 ![[Pasted image 20240314132902.png]]
 
-
-### BloodHound-python
+### Opción 2: BloodHound-python
 usaremos la herramienta BloodHound-python para 
 ![[Pasted image 20240314115219.png]]
+
