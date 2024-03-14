@@ -140,5 +140,6 @@ de esta manera logramos obtener la contraseña perteneciente a este hash
 ![[Pasted image 20240313201114.png]]
 
 ### crackmapexec
-podemos usar crackmapexec para 
+podemos usar crackmapexec para intentar validar estas credenciales. si vemos un `+` esto nos indica que las credenciales son validas
 ![[Pasted image 20240313203112.png]]
+
