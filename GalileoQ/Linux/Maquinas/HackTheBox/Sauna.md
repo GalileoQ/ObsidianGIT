@@ -123,6 +123,8 @@ logramos obtener un TGT `Ticket Granting Ticket` esto es un hash. vamos a intent
 
 ### hashcat
 ```python
-hashcat
+hashcat --example-hashes # podemos ver un ejemplo de todos los hashes que estan en hashcat
+
+hashcat --example-hashes | grep 
 ```
 ![[Pasted image 20240313200051.png]]
