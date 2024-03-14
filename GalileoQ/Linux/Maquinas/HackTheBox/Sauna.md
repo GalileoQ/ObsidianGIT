@@ -169,3 +169,5 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 `Nota: vamos a la ruta Windows/Temp creamos un nuevo directorio, entramos y usando upload y la ruta de nuestro archivo winPEASx64.exe
 ![[Pasted image 20240313223933.png]]
 
+`winPEASx64.exe`
+![[Pasted image 20240313224717.png]]
