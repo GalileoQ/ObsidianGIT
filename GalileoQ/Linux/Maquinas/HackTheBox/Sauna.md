@@ -156,6 +156,6 @@ tenemos conexión
 ![[Pasted image 20240313214833.png]]
 
 ### Enumeración de usuarios en el sistema
-`net localgroup`
-![[Pasted image 20240313215302.png]]
+`net localgroup "Remote Management Users"` - `net Users` 
+![[Pasted image 20240313215737.png]]
 
