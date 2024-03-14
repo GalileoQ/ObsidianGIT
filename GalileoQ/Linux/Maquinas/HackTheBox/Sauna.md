@@ -136,3 +136,6 @@ con estas opciones logramos obtener el tipo de hash al que nos estamos enfrentan
 Iniciando 
 ![[Pasted image 20240313201029.png]]
 
+de esta manera logramos obtener la contraseña perteneciente a este hash
+![[Pasted image 20240313201114.png]]
+
