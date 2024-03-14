@@ -175,6 +175,6 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 `logged users`
 ![[Pasted image 20240313231202.png]]
 
-`AutoLogon credential` 
+`AutoLogon credential`
+aqui podemos ver las credenciales del usuario `svc_loanm`
 ![[Pasted image 20240313231249.png]]
-
