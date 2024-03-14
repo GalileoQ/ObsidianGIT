@@ -166,3 +166,5 @@ no tenemos permisos para ver el directorio del usuario
 
 ### winPEASx64.exe  
 vamos a descargar esta herramienta desde [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca)  
+
+![[Pasted image 20240313223933.png]]
