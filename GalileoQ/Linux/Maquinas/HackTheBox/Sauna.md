@@ -218,7 +218,8 @@ mkdir Privesc
 
 cd Privesc
 
-upload /home/kali/Desktop/htb/Sauna/SharpHound.ps1
+upload /home/kali/Desktop/htb/Sauna/SharpHound.exe
+# Nota: usar la version .exe
 ```
 
 ![[Pasted image 20240314005413.png]]
