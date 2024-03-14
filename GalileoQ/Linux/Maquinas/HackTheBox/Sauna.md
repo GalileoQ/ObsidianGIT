@@ -152,9 +152,10 @@ tenemos conexión
 `whoami /priv`
 ![[Pasted image 20240313215456.png]]
 
-podemos ver que efectivamnete formamos parte del grupo `Remote Management Users` 
+`whoami /all` podemos ver que efectivamente formamos parte del grupo `Remote Management Users` 
 ![[Pasted image 20240313214833.png]]
 
 ### Enumeración de usuarios en el sistema
-
+`net localgroup`
 ![[Pasted image 20240313215302.png]]
+
