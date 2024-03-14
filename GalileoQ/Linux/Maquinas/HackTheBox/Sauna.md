@@ -180,5 +180,5 @@ aqui podemos ver las credenciales del usuario `svc_loanmanager` pero anteriormen
 ![[Pasted image 20240313231249.png]]
 
 ### rpcclient
-usaremos las credenciales que tenemos del usuario`fsmith` para enumerar los u
+usando las credenciales de `fsmith` podemos enumerar los usuarios de una manera diferente y poder asegurarnos de cual es el usuario existente
 ![[Pasted image 20240313235751.png]]
