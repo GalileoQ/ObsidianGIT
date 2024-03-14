@@ -197,6 +197,10 @@ obtenemos conexión
 
 ### BloodHound
 ```python
-# para instalar 
+# instalar bloodhound 
+
+sudo apt install neo4j bloodhound
 ```
+
+abrimos blood
 ![[Pasted image 20240314003923.png]]
