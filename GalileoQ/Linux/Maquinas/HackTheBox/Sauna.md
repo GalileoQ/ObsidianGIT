@@ -171,3 +171,7 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 
 `winPEASx64.exe`
 ![[Pasted image 20240313224717.png]]
+
+`logged users`
+![[Pasted image 20240313231202.png]]
+
