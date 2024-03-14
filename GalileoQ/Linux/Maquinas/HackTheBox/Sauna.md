@@ -146,3 +146,4 @@ podemos usar crackmapexec para intentar validar estas credenciales. si vemos un 
 ### evil-winrm
 
 ![[Pasted image 20240313204137.png]]
+
