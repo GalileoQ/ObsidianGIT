@@ -222,10 +222,5 @@ upload /home/kali/Desktop/htb/Sauna/SharpHound.exe
 # Nota: usar la version .exe
 ```
 
-![[Pasted image 20240314005413.png]]
-
-
-
-![[Pasted image 20240314114302.png]]
 
 ![[Pasted image 20240314115219.png]]
