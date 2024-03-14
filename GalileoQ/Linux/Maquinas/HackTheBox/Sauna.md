@@ -196,5 +196,7 @@ obtenemos conexión
 ![[Pasted image 20240314001619.png]]
 
 ### BloodHound
-
+```python
+# para instalar 
+```
 ![[Pasted image 20240314003923.png]]
