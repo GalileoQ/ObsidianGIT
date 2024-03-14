@@ -127,6 +127,8 @@ hashcat --example-hashes # podemos ver un ejemplo de todos los hashes que estan 
 
 hashcat --example-hashes | grep krb5asrep # `krb5asrep` pertenece a el primer parametro del hash. suelen estan encerrados por el sombilo $
 
-hashcat --example-hashes | grep krb5asrep -B 20 # -B 20 nos permite
+hashcat --example-hashes | grep krb5asrep -B 20 # -B 20 nos permite capturar las primeras 20 lineas del resultado de identificar el hash
 ```
+
+con estas 
 ![[Pasted image 20240313200051.png]]
