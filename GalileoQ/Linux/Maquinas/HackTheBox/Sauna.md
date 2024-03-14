@@ -178,3 +178,7 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 `AutoLogon credential`
 aqui podemos ver las credenciales del usuario `svc_loanmanager` pero anteriormente teníamos un nombre de usuario diferente
 ![[Pasted image 20240313231249.png]]
+
+### rpcclient
+usaremos las credenciales que tenemos del usuario`fsmith` para enumerar los u
+![[Pasted image 20240313235751.png]]
