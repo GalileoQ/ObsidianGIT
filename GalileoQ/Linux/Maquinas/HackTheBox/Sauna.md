@@ -125,6 +125,6 @@ logramos obtener un TGT `Ticket Granting Ticket` esto es un hash. vamos a intent
 ```python
 hashcat --example-hashes # podemos ver un ejemplo de todos los hashes que estan en hashcat
 
-hashcat --example-hashes | grep 
+hashcat --example-hashes | grep krb5asrep # `krb5asrep` pertenece a el primer parametro del hash. suelen estan encerrados 
 ```
 ![[Pasted image 20240313200051.png]]
