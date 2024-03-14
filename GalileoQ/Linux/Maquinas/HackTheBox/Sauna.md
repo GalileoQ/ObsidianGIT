@@ -150,3 +150,6 @@ tenemos conexión
 ### Escalada de privilegios
 podemos ver que efectivamnete formamos parte del grupo `Remote Management Users` 
 ![[Pasted image 20240313214833.png]]
+
+### net local
+![[Pasted image 20240313215302.png]]
