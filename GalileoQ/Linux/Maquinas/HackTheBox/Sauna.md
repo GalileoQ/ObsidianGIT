@@ -165,6 +165,6 @@ no tenemos permisos para ver el directorio del usuario
 ![[Pasted image 20240313221650.png]]
 
 ### winPEASx64.exe  
-vamos a descargar esta herramienta desde [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca)  
-
+vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240310-532aceca) y la subimos a la maquina victima.
+`Nota: vamos a la rita Windows
 ![[Pasted image 20240313223933.png]]
