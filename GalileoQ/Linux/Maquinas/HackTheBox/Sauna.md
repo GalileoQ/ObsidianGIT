@@ -175,3 +175,6 @@ vamos a descargar la herramienta desde [wimpeas](https://github.com/carlospolop/
 `logged users`
 ![[Pasted image 20240313231202.png]]
 
+`AutoLogon credential` 
+![[Pasted image 20240313231249.png]]
+
