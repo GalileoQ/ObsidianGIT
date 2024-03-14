@@ -230,7 +230,7 @@ upload /home/kali/Desktop/htb/Sauna/SharpHound.ps1
 Import-Module .\SharpHound.ps1
 Invoke-BloodHound -CollectionMethod All
 ```
-
+hemos generado un archivo llamado `20240314172620_BloodHound.zip` lo descargaremos a nuestra maquina atacante para poder analizarlo
 ![[Pasted image 20240314132902.png]]
 
 ### Opción 2: BloodHound-python
