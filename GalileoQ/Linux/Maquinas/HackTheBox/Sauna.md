@@ -269,3 +269,6 @@ en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdum
 `realizamos el ataque DCSync y obtenemos el hash NT del usuario Administrator`
 ![[Pasted image 20240315001751.png]]
 
+### impacket-psexec
+con impacket-psexec podemos realizar un pass
+![[Pasted image 20240315002624.png]]
