@@ -1,3 +1,4 @@
+#Linux #Easy 
 ### Scan
 ```css
 sudo nmap -p- --open -sCV -sS --min-rate 3000 -n -vvv -Pn 10.10.211.59
