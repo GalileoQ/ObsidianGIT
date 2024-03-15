@@ -243,9 +243,9 @@ iniciamos el `neo4j` con el comando `sudo neo4j console & /dev/null & disown` y 
 ![[Pasted image 20240314202442.png]]
 
 hacemos un `update data` 
-![[Pasted image 20240314232736.png]]
+![[Pasted image 20240314232831.png]]
 
 ### Domain Controller
 aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios administrador del DC `Domein Controller`
-![[Pasted image 20240314215117.png]]
+240314215117.png]]
 
