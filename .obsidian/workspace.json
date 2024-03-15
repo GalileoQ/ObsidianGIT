@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Git-Happens.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gaming-Server.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
@@ -168,12 +174,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Perfection.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Oopsie.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Keeper.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Devvortex-Incompleta.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Crafty.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Codify.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
