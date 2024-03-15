@@ -248,3 +248,4 @@ hacemos un `update data`
 ### Domain Controller
 aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios administrador del DC `Domein Controller`
 ![[Pasted image 20240314215117.png]]
+
