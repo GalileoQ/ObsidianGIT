@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2af9ffa9463e1889",
+        "id": "d8f737c7eda3dade",
         "type": "tabs",
         "children": [
           {
-            "id": "33071114bc8591a9",
+            "id": "a1325668bf7aae54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Metaesploitable2.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Metaesploitable2.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "Curso/Metaesploitable2.md",
     "Curso/eJPTv2.md",
     "Curso/Hacking Con S4vitar/sqli.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
@@ -173,7 +174,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Overpass1.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
