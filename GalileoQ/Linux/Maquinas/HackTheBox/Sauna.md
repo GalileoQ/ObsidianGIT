@@ -256,5 +256,6 @@ aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios adm
 aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChangesAll` , `GetChanges` y `DCSync` sobre el DC
 ![[Pasted image 20240314235537.png]]
 
-`DCSync Attac`
+`DCSync Attack`
+las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack
 ![[Pasted image 20240315000146.png]]
