@@ -265,6 +265,7 @@ Con los privilegios `GetChanges` y `GetChangesAll` se puede realizar un ataque `
 ![[Pasted image 20240315000448.png]]
 
 ### DCSync Attack con Impacket-secretdump
-en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdump también puede realizar este tipo de ataques pero las 2 formas son correctas
+en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdump también puede realizar este tipo de ataques
+
 ![[Pasted image 20240315001751.png]]
 
