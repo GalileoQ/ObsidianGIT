@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "showLineNumber": false,
   "livePreview": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "rightToLeft": false
 }
