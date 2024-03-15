@@ -240,3 +240,4 @@ la herramienta BloodHound-python hace lo mismo que la herramienta SharpHound.ps1
 
 ### BloodHound
 iniciamos el `neo4j` con el comando `sudo neo4j console & /dev/null & disown` y luego abrimos el BloodHound
+![[Pasted image 20240314202442.png]]
