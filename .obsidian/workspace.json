@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f737c7eda3dade",
+        "id": "7c7b71e1889119f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a1325668bf7aae54",
+            "id": "2be64034a186f94c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1325668bf7aae54",
+  "active": "2be64034a186f94c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
@@ -165,7 +166,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
