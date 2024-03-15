@@ -1,4 +1,4 @@
-#
+#Linux #Linux 
 ### nmap
 ```python
 sudo nmap -p- --open -sS -sCV -n --min-rate 2500 -Pn 10.10.41.104
