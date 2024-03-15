@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,13 +150,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9a87a0db6d1c1669",
+  "active": "33071114bc8591a9",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
     "imagenes/anonforce.jpg",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "Pasted image 20240315002624.png",
     "Pasted image 20240315001751.png",
     "Pasted image 20240315000448.png",
