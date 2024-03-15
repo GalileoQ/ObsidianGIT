@@ -1,3 +1,4 @@
+#Linux #Easy
 ### nmap
 ```python
 nmap -sVC 10.129.66.130
