@@ -1,5 +1,5 @@
 
-Escaneo nmap: 
+### nmap: 
 ```python
 sudo nmap -p- -sCV --open -sS -n -Pn 10.0.2.4 -oN scaner
 [sudo] password for parrot: 
