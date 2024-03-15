@@ -257,5 +257,8 @@ aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChan
 ![[Pasted image 20240314235537.png]]
 
 `DCSync Attack`
-las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack
+las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack.
 ![[Pasted image 20240315000146.png]]
+
+### Window
+![[Pasted image 20240315000448.png]]
