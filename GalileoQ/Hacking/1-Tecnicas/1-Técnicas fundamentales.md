@@ -1,6 +1,5 @@
- 
-### Tratamiento de la TTY
-
+ ### Tratamiento de la TTY
+#tecnicas
 ```python
 	script /dev/null -c bash # Lanza pseudoconsola
 	
