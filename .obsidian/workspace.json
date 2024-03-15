@@ -11,12 +11,8 @@
             "id": "110e99cfcea0883b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +152,8 @@
   },
   "active": "110e99cfcea0883b",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "Pasted image 20240315002624.png",
     "Pasted image 20240315001751.png",
     "Pasted image 20240315000448.png",
