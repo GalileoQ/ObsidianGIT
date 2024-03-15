@@ -12,7 +12,7 @@ rtt min/avg/max/mdev = 150.365/150.365/150.365/0.000 ms
 ### TTL 127 = Windows
 
 ### nmap
-#Easy 
+
 ```python
 PORT      STATE SERVICE       VERSION
 53/tcp    open  domain        Simple DNS Plus

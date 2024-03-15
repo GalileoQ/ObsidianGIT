@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9a87a0db6d1c1669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
