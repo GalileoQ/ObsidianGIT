@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md"
+                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "110e99cfcea0883b",
   "lastOpenFiles": [
+    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
     "Pasted image 20240315002624.png",
     "Pasted image 20240315001751.png",
     "Pasted image 20240315000448.png",
@@ -170,9 +171,7 @@
     "Pasted image 20240314232831.png",
     "Pasted image 20240314232736.png",
     "Pasted image 20240314215117.png",
-    "Pasted image 20240314212502.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
-    "GalileoQ/Linux/Maquinas/HackTheBox/Sauna.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
