@@ -261,5 +261,5 @@ las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack. 
 ![[Pasted image 20240315000146.png]]
 
 `Windows Abuse`
+aui 
 ![[Pasted image 20240315000448.png]]
-
