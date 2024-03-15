@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Return.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Perfection.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Oopsie.md",
@@ -172,8 +174,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",

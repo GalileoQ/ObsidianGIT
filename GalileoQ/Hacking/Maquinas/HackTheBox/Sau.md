@@ -1,4 +1,5 @@
 ### nmap 
+#Linux #Easy 
 ```python
 PORT      STATE    SERVICE REASON         VERSION
 22/tcp    open     ssh     syn-ack ttl 63 OpenSSH 8.2p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
