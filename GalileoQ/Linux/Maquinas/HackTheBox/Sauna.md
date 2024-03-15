@@ -270,5 +270,5 @@ en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdum
 ![[Pasted image 20240315001751.png]]
 
 ### impacket-psexec
-con impacket-psexec podemos realizar un pass
+con impacket-psexec podemos realizar un pass de hash utilizando el hash que hemos conseguido del usuario administrator 
 ![[Pasted image 20240315002624.png]]
