@@ -8,7 +8,7 @@ PING 10.10.11.233 (10.10.11.233) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 152.321/152.321/152.321/0.000 ms
 ```
-
+#Linux
 ### TTL 63=Linux
 
 ### nmap

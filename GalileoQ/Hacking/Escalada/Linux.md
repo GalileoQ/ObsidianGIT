@@ -1,5 +1,5 @@
 ### Buscar Permisos SUID
-
+#Linux
 ```python
 	find / -perm -u=s -type f 2>/dev/null
 ```

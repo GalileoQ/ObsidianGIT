@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
+    "GalileoQ/Hacking/Escalada/Linux.md",
+    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -170,10 +174,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Bounty Hacker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Simple CTF.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
