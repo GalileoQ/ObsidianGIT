@@ -253,5 +253,5 @@ aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios adm
 ![[Pasted image 20240314233430.png]]
 
 ### Find Degree Object Control
-
+aquí podemos ver 
 ![[Pasted image 20240314235537.png]]
