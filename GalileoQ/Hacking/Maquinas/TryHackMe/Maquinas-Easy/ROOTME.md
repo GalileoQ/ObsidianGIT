@@ -1,3 +1,4 @@
+#Linux #Easy 
 Haremos los reconococimientos de nmap y vemos el puerto 80 y 22 abiertos:
 ![[Pasted image 20230401011056.png]]
 Si vemos la web es esta:

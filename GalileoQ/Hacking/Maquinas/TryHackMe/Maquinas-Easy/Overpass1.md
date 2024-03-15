@@ -1,4 +1,4 @@
-#Linux 
+#Linux #Easy 
 ### nmap
 ```css
 PORT   STATE SERVICE REASON         VERSION
