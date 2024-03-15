@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
@@ -168,12 +174,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Chocolate Factory.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Chill Hack.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Brute-It.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BrooklynNiveNive.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Bounty Hacker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",

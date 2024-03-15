@@ -1,3 +1,4 @@
+#Linux #medium 
 ### Ping
 ```python
 ping -c 1 10.10.183.95

@@ -1,3 +1,4 @@
+#Linux #Easy 
 ### nmap
 ```python
 sudo nmap -p- --open -sS -sCV -n -Pn 10.10.65.163

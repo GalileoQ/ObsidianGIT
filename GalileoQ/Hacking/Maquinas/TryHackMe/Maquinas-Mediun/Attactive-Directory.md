@@ -1,3 +1,4 @@
+#Linux #medium 
 ### nmap
 ```python
 sudo nmap -p- --open -sS -sC -sV --min-rate 5000 -n -Pn 10.10.124.3
