@@ -1,3 +1,4 @@
+#windows #Easy 
 ### nmap
 ```python
 PORT     STATE SERVICE       VERSION

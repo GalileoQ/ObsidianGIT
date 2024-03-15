@@ -11,8 +11,12 @@
             "id": "a1325668bf7aae54",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "a1325668bf7aae54",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/AnonForce.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/AGENT SUDO.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
@@ -163,9 +174,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "Curso/Metaesploitable2.md",
-    "Curso/eJPTv2.md",
-    "Curso/Hacking Con S4vitar/sqli.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",

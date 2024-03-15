@@ -1,3 +1,4 @@
+#Linux #Easy
 Haremos el reconocimiento con nmap:
 ![[Pasted image 20230528202316.png]]
 Si miramos la web, sería esta:
