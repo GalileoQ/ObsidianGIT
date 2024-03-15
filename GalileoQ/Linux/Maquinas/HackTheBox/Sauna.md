@@ -252,5 +252,6 @@ aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios adm
 `generarmente me gusta buscar cada usuario que hemos comprometido y marcarlo como owned para asi poder identificarlo rapidamente`
 ![[Pasted image 20240314233430.png]]
 
-### Find Dgree Objet 
+### Find Degree Object Control
+
 ![[Pasted image 20240314235537.png]]
