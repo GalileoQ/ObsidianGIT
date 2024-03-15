@@ -11,6 +11,14 @@
             "id": "33071114bc8591a9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a87a0db6d1c1669",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
@@ -19,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +155,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33071114bc8591a9",
+  "active": "9a87a0db6d1c1669",
   "lastOpenFiles": [
-    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
+    "GalileoQ/Linux/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Linux/Maquinas/HackTheBox/Pov-Medium.md",
     "imagenes/anonforce.jpg",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
