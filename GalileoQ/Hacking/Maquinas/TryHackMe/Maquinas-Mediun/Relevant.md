@@ -1,3 +1,4 @@
+#windows #ActiveDirectory #medium 
 ### Ping
 ```python
 ping -c 1 10.10.235.94
