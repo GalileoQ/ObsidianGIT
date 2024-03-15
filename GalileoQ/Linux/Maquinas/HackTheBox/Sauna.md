@@ -266,6 +266,6 @@ Con los privilegios `GetChanges` y `GetChangesAll` se puede realizar un ataque `
 
 ### DCSync Attack con Impacket-secretdump
 en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdump también puede realizar este tipo de ataques. 
-`realizamos el ataque DCSync y obtenemos el hash del usuario Administrator`
+`realizamos el ataque DCSync y obtenemos el hash NT del usuario Administrator`
 ![[Pasted image 20240315001751.png]]
 
