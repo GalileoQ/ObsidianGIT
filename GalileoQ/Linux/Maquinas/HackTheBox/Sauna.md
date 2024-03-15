@@ -264,3 +264,5 @@ las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack.
 Con los privilegios `GetChanges` y `GetChangesAll` se puede realizar un ataque `DCSync Attack` para obtener el hash de contraseña de un principal administrador usando mimikatz. 
 ![[Pasted image 20240315000448.png]]
 
+### DCSync Attack con Impacket
+
