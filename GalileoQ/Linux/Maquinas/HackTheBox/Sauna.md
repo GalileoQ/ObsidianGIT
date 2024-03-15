@@ -249,5 +249,5 @@ hacemos un `update data`
 aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios administrador del DC `Domein Controller`
 ![[Pasted image 20240314233044.png]]
 
-`generarmente me gusta buscar cada usuario que hemos compro`
+`generarmente me gusta buscar cada usuario que hemos comprometido y marcarlo como owned para asi poder identificarlo rapidamente`
 ![[Pasted image 20240314233430.png]]
