@@ -1,4 +1,5 @@
-### Ping 
+### Ping
+#windows
 ```python
 ping -c 1 10.10.11.249
 PING 10.10.11.249 (10.10.11.249) 56(84) bytes of data.
