@@ -1,3 +1,4 @@
+#Linux #Easy 
 Hacemos el escaneo de nmap:
 ![[Pasted image 20230705123730.png]]
 Viendo el puerto 80 nos encontramos con una plantilla por defecto de apache:
