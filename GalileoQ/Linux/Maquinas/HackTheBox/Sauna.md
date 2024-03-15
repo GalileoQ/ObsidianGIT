@@ -257,9 +257,9 @@ aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChan
 ![[Pasted image 20240314235537.png]]
 
 `DCSync Attack`
-las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack. esto nos permitiría intentar capturar el hash del usuario administrador
+las propiedades del usuario `svc_loanmgr` le permite ejecutar un DCSync Attack.
 ![[Pasted image 20240315000146.png]]
 
 `Windows Abuse`
-aui 
+Con los privilegios `GetChanges` y `GetChangesAll` en BloodHound, puede realizar un ataque dcsync para obtener el hash de contraseña de un principal arbitrario usando mimikatz:
 ![[Pasted image 20240315000448.png]]
