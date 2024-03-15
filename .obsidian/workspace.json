@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f079b3d89291d32",
+        "id": "34cf8bd28dcecd1a",
         "type": "tabs",
         "children": [
           {
-            "id": "110e99cfcea0883b",
+            "id": "98fcc1f109fc7510",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "ea9dd88bf2c8a979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -150,9 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "110e99cfcea0883b",
+  "active": "98fcc1f109fc7510",
   "lastOpenFiles": [
     "GalileoQ/Linux/Maquinas/HackTheBox/Sauna-Windows.md",
+    "imagenes/anonforce.jpg",
     "GalileoQ/Linux/Maquinas/HackTheBox/Support.md",
     "Pasted image 20240315002624.png",
     "Pasted image 20240315001751.png",
@@ -163,7 +152,6 @@
     "Pasted image 20240314233044.png",
     "Pasted image 20240314232831.png",
     "Pasted image 20240314232736.png",
-    "Pasted image 20240314215117.png",
     "GalileoQ/Linux/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Linux/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
