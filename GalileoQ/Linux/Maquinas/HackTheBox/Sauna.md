@@ -245,3 +245,5 @@ iniciamos el `neo4j` con el comando `sudo neo4j console & /dev/null & disown` y 
 hacemos un `update data` 
 ![[Pasted image 20240314212502.png]]
 
+### Doma
+![[Pasted image 20240314215117.png]]
