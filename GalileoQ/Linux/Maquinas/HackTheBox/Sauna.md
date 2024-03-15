@@ -253,5 +253,6 @@ aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios adm
 ![[Pasted image 20240314233430.png]]
 
 ### Find Degree Object Control
-aquí podemos ver que el usuario `svc_loanmgr` tiene las pripiedades de `GetChangesAll` y 
+aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChangesAll` y `GetChanges` sobre el DC
 ![[Pasted image 20240314235537.png]]
+
