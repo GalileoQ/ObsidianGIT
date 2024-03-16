@@ -124,4 +124,4 @@ ingresamos las credenciales y abrimos el bloodhound
 ![[Pasted image 20240316135100.png]]
 
 ### Sharphound.ps1
-vamos a descargar esta herramienta desde aquí []
+vamos a descargar esta herramienta desde aquí [].()
