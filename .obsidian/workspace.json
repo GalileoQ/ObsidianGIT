@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8178ffc1fd67dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
+                "file": "GalileoQ/Windows/Enumeración Windows.md"
               }
             }
           }
@@ -159,10 +171,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7a35f38fa73fe21e",
+  "active": "f8178ffc1fd67dac",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
