@@ -88,3 +88,4 @@ crearemos un archivo para guardar todos los usuarios que hemos enumerado
 ### impacket-GetNPUsers
 con `impacket-GetNPUsers` podemos realizar un ataque ASREPRoast para intentar obtener un `TGT`(Ticket Granting Tickets) de algunos de los usuarios que hemos logrado enumerar 
 ![[Pasted image 20240316121631.png]]
+
