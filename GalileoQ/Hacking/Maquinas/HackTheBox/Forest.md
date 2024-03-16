@@ -93,3 +93,6 @@ con `impacket-GetNPUsers` podemos realizar un ataque ASREPRoast para intentar ob
 con john podemos intentar crakear el TGT que hemos conseguido que no es mas que un hash
 ![[Pasted image 20240316123151.png]]
 
+### crackmapexec
+validamos las credenciales que hemos conseguido con 
+![[Pasted image 20240316130445.png]]
