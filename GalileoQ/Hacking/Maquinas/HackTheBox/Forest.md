@@ -2,8 +2,16 @@
 
 ### Ping
 ```python
+ping -c 1 10.10.10.161
+PING 10.10.10.161 (10.10.10.161) 56(84) bytes of data.
+64 bytes from 10.10.10.161: icmp_seq=1 ttl=127 time=151 ms
 
+--- 10.10.10.161 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 151.126/151.126/151.126/0.000 ms
 ```
+
+### TTL 127=Windows
 ### nmap
 ```python
 PORT      STATE SERVICE      VERSION
@@ -61,3 +69,4 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 93.82 seconds
 ```
+
