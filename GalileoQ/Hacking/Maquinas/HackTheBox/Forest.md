@@ -94,5 +94,6 @@ con john podemos intentar crakear el TGT que hemos conseguido que no es mas que 
 ![[Pasted image 20240316123151.png]]
 
 ### crackmapexec
-validamos las credenciales que hemos conseguido con y validamos que este usuario tenga conexión  
+validamos las credenciales que hemos conseguido con y validamos que este usuario tenga conexión con `evil-winrm` 
 ![[Pasted image 20240316130621.png]]
+
