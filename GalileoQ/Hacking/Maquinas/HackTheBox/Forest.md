@@ -117,3 +117,6 @@ primero debemos iniciar el neo4j para que luego el bloodhound pueda conectarse a
 ![[Pasted image 20240316134850.png]]
 
 `BloodHound`
+ingresamos las credenciales y abrimos el bloodhound
+![[Pasted image 20240316135001.png]]
+
