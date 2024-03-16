@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "7a35f38fa73fe21e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "Pasted image 20240316123151.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Sin título.md",
     "Pasted image 20240316121631.png",
@@ -178,8 +180,6 @@
     "GalileoQ/Windows/msfvenom shell.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Vaccine.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
