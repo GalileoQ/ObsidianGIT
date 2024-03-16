@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+                "file": "GalileoQ/Windows/Enumeración Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md"
+                "file": "GalileoQ/Windows/Enumeración Windows.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7a35f38fa73fe21e",
+  "active": "293925f8a4bf0440",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
