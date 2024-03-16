@@ -101,3 +101,6 @@ validamos las credenciales que hemos conseguido con y validamos que este usuario
 
 ![[Pasted image 20240316130915.png]]
 
+### ldapdomaindump
+con `ldapdomaindump` podemos hacer una enumeración a nivel de grupos 
+![[Pasted image 20240316133210.png]]
