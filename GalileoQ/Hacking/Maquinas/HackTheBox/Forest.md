@@ -97,3 +97,6 @@ con john podemos intentar crakear el TGT que hemos conseguido que no es mas que 
 validamos las credenciales que hemos conseguido con y validamos que este usuario tenga conexión con `evil-winrm` 
 ![[Pasted image 20240316130621.png]]
 
+### evil-winrm
+
+![[Pasted image 20240316130915.png]]
