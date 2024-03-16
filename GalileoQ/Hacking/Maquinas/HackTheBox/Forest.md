@@ -127,3 +127,4 @@ ingresamos las credenciales y abrimos el bloodhound
 vamos a descargar esta herramienta desde aquí [SharpHound.ps1](https://raw.githubusercontent.com/puckiestyle/powershell/master/SharpHound.ps1)  
 ![[Pasted image 20240316140513.png]]
 
+``
