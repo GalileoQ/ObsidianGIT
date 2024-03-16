@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5133353e1af1a3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "78a7f4e1fbd9ffda",
+  "active": "5133353e1af1a3db",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "Pasted image 20240316120801.png",
     "Pasted image 20240316115705.png",
     "Pasted image 20240316114408.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
@@ -162,7 +176,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
@@ -193,7 +206,6 @@
     "Pasted image 20240315000146.png",
     "Pasted image 20240314235537.png",
     "Pasted image 20240314233430.png",
-    "Pasted image 20240314233044.png",
     "Sin título.canvas"
   ]
 }
