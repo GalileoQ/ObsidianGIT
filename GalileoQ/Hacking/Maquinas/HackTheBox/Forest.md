@@ -79,5 +79,9 @@ con `rpcclient` podemos enumerar usuarios a nivel de dominio. obtenemos un lista
 ![[Pasted image 20240316115705.png]]
 
 ### Enumeración de usuarios
+```python
+rpcclient -U "" 10.10.10.161 -N -c 'enumdomusers' | grep -oP "\[.*?\]" | grep -v 0x | tr -d '[]'
+```
 
 ![[Pasted image 20240316120801.png]]
+
