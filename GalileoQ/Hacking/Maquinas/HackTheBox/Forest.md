@@ -132,3 +132,4 @@ vamos a descargar esta herramienta desde aquí [SharpHound.ps1](https://raw.gith
 
 `Descargamos el archivo zip que hemos generado`
 ![[Pasted image 20240316144032.png]]
+
