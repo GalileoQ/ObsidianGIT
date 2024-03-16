@@ -1,4 +1,9 @@
 #ActiveDirectory #Easy #windows 
+
+### Ping
+```python
+
+```
 ### nmap
 ```python
 PORT      STATE SERVICE      VERSION
