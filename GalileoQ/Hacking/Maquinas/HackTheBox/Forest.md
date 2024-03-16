@@ -137,5 +137,6 @@ vamos a descargar esta herramienta desde aquí [SharpHound.ps1](https://raw.gith
 ![[Pasted image 20240316144334.png]]
 
 ### BloodHound
-en el bloodhound vamos a upload Data
+en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrimos
 ![[Pasted image 20240316144426.png]]
+
