@@ -75,6 +75,6 @@ con crackmapexec enumeramos el puerto `smb` donde podemos obtener el nombre de l
 ![[Pasted image 20240316114408.png]]
 
 ### rpcclient
-con `rpcclient` intentaremos enumerar usuarios a nivel de dominio
+con `rpcclient` podemos enumerar usuarios a nivel de dominio. 
 ![[Pasted image 20240316115705.png]]
 
