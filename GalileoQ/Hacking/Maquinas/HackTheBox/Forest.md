@@ -100,3 +100,4 @@ validamos las credenciales que hemos conseguido con y validamos que este usuario
 ### evil-winrm
 
 ![[Pasted image 20240316130915.png]]
+
