@@ -90,5 +90,5 @@ con `impacket-GetNPUsers` podemos realizar un ataque ASREPRoast para intentar ob
 ![[Pasted image 20240316121631.png]]
 
 ### john
-con john podemos intentar crakear el TGT que hemos cons
+con john podemos intentar crakear el TGT que hemos conseguido que no es mas que un hash
 ![[Pasted image 20240316123151.png]]
