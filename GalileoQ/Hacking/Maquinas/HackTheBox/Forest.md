@@ -86,5 +86,5 @@ crearemos un archivo para guardar todos los usuarios que hemos enumerado
 ![[Pasted image 20240316120801.png]]
 
 ### impacket-GetNPUsers
-con `impacket-GetNPUsers` podemos hacer un ataque 
+con `impacket-GetNPUsers` podemos realizar un ataque ASREPRoast para intentar obtener un `TGT` 
 ![[Pasted image 20240316121631.png]]
