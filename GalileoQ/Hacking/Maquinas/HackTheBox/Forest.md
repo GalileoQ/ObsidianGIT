@@ -74,3 +74,7 @@ Nmap done: 1 IP address (1 host up) scanned in 93.82 seconds
 con crackmapexec enumeramos el puerto `smb` donde podemos obtener el nombre de la maquina y el nombre del dominio, tratamos de enumerar los recursos compartidos pero no tenemos éxito. aplicamos un nuevo reconocimiento con smbclient pero no tenemos resultado
 ![[Pasted image 20240316114408.png]]
 
+### rpcclient
+con `rpcclient` intentaremos enumerar usuarios a nivel de dominio
+![[Pasted image 20240316115705.png]]
+
