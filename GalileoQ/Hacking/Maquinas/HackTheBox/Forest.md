@@ -80,8 +80,8 @@ con `rpcclient` podemos enumerar usuarios a nivel de dominio. obtenemos un lista
 
 ### Enumeración de usuarios
 ```python
-rpcclient -U "" 10.10.10.161 -N -c 'enumdomusers' | grep -oP "\[.*?\]" | grep -v 0x | tr -d '[]'
+rpcclient -U "" 10.10.10.161 -N -c 'enumdomusers' | grep -oP "\[.*?\]" | grep -v 0x | tr -d '[]' > users.txt
 ```
-
+crearemos un archivo para guardar todos los usuarios que hemos enumerado
 ![[Pasted image 20240316120801.png]]
 
