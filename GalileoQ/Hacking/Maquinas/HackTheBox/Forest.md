@@ -103,7 +103,7 @@ validamos las credenciales que hemos conseguido con y validamos que este usuario
 
 ### ldapdomaindump
 con `ldapdomaindump` podemos hacer una enumeración a nivel de grupos pertenecientes al usuario del sistema.
-![[Pasted image 20240316133210.png]]
+![[Pasted image 20240316133840.png]]
 
 ### servidor con python
 creamos un servidor de python para poder ver los archivos
