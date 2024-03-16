@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "f8178ffc1fd67dac",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "GalileoQ/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
