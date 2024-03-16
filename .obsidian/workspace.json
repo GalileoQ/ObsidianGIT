@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "293925f8a4bf0440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
               }
             }
           }
@@ -173,8 +161,8 @@
   },
   "active": "7a35f38fa73fe21e",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
