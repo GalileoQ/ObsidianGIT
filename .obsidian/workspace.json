@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "5133353e1af1a3db",
+            "id": "7a35f38fa73fe21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5133353e1af1a3db",
+  "active": "7a35f38fa73fe21e",
   "lastOpenFiles": [
-    "GalileoQ/Sin título.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
+    "GalileoQ/Hacking/1-Tecnicas/Nota.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+    "GalileoQ/Sin título.md",
     "Pasted image 20240316121631.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
     "Pasted image 20240316120801.png",
@@ -190,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
