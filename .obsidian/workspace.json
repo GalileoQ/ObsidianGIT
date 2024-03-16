@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c7b71e1889119f0",
+        "id": "abae8ff74c1206dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2be64034a186f94c",
+            "id": "78a7f4e1fbd9ffda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2be64034a186f94c",
+  "active": "78a7f4e1fbd9ffda",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
+    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
@@ -172,8 +174,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
