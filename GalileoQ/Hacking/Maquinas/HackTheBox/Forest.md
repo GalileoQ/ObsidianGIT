@@ -85,6 +85,6 @@ rpcclient -U "" 10.10.10.161 -N -c 'enumdomusers' | grep -oP "\[.*?\]" | grep -v
 crearemos un archivo para guardar todos los usuarios que hemos enumerado
 ![[Pasted image 20240316120801.png]]
 
-### 
+### impacket-GetNPUsers
 
 ![[Pasted image 20240316121631.png]]
