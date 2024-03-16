@@ -147,7 +147,7 @@ podemos comprobar esto con el siguiente comando
 
 ### BloodHound
 ```python
-sudo apt install BloodHound
+sudo apt install neo4k BloodHound
 ```
 
 ![[Pasted image 20240305005911.png]]

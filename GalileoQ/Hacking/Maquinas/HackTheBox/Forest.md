@@ -108,3 +108,8 @@ con `ldapdomaindump` podemos hacer una enumeración a nivel de grupos pertenecie
 ### servidor con python
 creamos un servidor de python para poder ver los archivos desde el `localhost` 
 ![[Pasted image 20240316133533.png]]
+
+### BloodHound
+```python
+sudo apt install neo4k BloodHound
+```
