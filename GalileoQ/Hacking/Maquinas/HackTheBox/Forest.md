@@ -106,3 +106,5 @@ con `ldapdomaindump` podemos hacer una enumeración a nivel de grupos pertenecie
 ![[Pasted image 20240316133210.png]]
 
 ### servidor con python
+creamos un vervidor
+![[Pasted image 20240316133533.png]]
