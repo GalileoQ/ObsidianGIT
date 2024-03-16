@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Enumeración Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
               }
             }
           }
@@ -171,10 +171,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "293925f8a4bf0440",
+  "active": "7a35f38fa73fe21e",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
+    "GalileoQ/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "Pasted image 20240316144426.png",
     "Pasted image 20240316144334.png",
@@ -195,7 +196,6 @@
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Windows/msfvenom shell.md",
-    "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
