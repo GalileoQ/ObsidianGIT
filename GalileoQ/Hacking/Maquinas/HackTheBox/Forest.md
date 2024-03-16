@@ -111,5 +111,6 @@ creamos un servidor de python para poder ver los archivos desde el `localhost`
 
 ### BloodHound
 ```python
-sudo apt install neo4k BloodHound
+sudo apt install neo4j BloodHound
 ```
+primero debemos iniciar el neo4j para que luego el bloodhound pueda conectarse a la base de datos 
