@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md"
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2be64034a186f94c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Windows/msfvenom shell.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Vaccine.md",
@@ -157,7 +158,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Broker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
