@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md"
               }
             }
           }
@@ -159,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5133353e1af1a3db",
+  "active": "78a7f4e1fbd9ffda",
   "lastOpenFiles": [
+    "Pasted image 20240316121631.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Forest.md",
     "Pasted image 20240316120801.png",
@@ -175,7 +176,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Support.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Analytics.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
