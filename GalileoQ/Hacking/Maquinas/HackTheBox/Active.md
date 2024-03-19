@@ -65,3 +65,4 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 
 `Enumeracion`
 ![[Pasted image 20240318224330.png]]
+![[Pasted image 20240318225234.png]]
