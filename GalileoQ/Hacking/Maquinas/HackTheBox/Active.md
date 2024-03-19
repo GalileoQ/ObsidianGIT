@@ -66,5 +66,5 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 `Enumeracion`
 ![[Pasted image 20240318224330.png]]
 
+`enumerando el systema hemos conceguido un archivo.xml`
 ![[Pasted image 20240318225916.png]]
-
