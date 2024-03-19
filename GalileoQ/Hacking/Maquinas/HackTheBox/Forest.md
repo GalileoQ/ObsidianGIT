@@ -159,3 +159,6 @@ agregamos el permiso del grupo para el usuario que hemos creado
 con la primera linea seteamos los privilegios de DCSync al usuario que hemos creado. primero seteamos la contraseña, luego definimos una credencial para el usuario en el dominio  y luego usaremos el script PowerView.ps1 creamos un servidor en python y lo subimos a la maquina
 ![[Pasted image 20240319002640.png]]
 
+### impacket-secretdump
+Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync
+![[Pasted image 20240319005053.png]]
