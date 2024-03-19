@@ -164,5 +164,6 @@ con la primera linea seteamos los privilegios de DCSync al usuario que hemos cre
 ![[Pasted image 20240319005053.png]]
 
 ### crackmapexec
-validamos las credenciales que hemos conseguido usando 
+validamos las credenciales que hemos conseguido usando y tenemos un `OK` para SMB y para winrm
 ![[Pasted image 20240319005456.png]]
+
