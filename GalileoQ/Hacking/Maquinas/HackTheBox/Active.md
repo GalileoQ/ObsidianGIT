@@ -73,3 +73,6 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 en el archivo xml podemos ver una contraseña encriptada y un usuario. con la herramienta `gpp-decrypt` podemos obtener la contraseña en texto claro
 ![[Pasted image 20240319013120.png]]
 
+### crackmapexec
+validamos las credenci
+![[Pasted image 20240319014827.png]]
