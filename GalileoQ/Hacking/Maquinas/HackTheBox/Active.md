@@ -56,5 +56,6 @@ Nmap done: 1 IP address (1 host up) scanned in 93.29 seconds
 ```
 
 ### crackmapexec
-enumeramos el sistema para ver a que n
+enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un DC (Domain Controller)
 ![[Pasted image 20240318220651.png]]
+
