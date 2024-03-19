@@ -142,3 +142,4 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 
 `Find Shortest Path To Domain Admin`
 ![[Pasted image 20240318233919.png]]
+
