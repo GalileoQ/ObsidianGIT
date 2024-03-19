@@ -170,3 +170,5 @@ validamos las credenciales que hemos conseguido usando y tenemos un `OK` para SM
 ### Evil-winrm
 
 ![[Pasted image 20240319005719.png]]
+
+### WE ARE ROOT
