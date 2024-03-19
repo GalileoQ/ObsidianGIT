@@ -60,5 +60,6 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 ![[Pasted image 20240318220651.png]]
 
 ### smbmap
-`smbclient para enumerar los archivos compartidos. esto lo podemos confirmar con smbmap  
+`smbclient` para enumerar los archivos compartidos. esto lo podemos confirmar con `smbmap` en este caso nos reporta los permisos que tenemos sobre los archivos compartidos  
 ![[Pasted image 20240318223409.png]]
+
