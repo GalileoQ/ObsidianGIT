@@ -156,3 +156,5 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 agregamos el permiso del grupo para el usuario que hemos creado
 ![[Pasted image 20240319000959.png]]
 
+
+![[Pasted image 20240319002640.png]]
