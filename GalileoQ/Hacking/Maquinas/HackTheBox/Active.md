@@ -81,3 +81,6 @@ validamos las credenciales que hemos conseguido a nivel de `SMB` y tambien para 
 vamos a listar de nuevo los recursos compartidos con las credenciales obtenidas
 ![[Pasted image 20240319020224.png]]
 
+`Enumeracion de los recursos compartidos`
+![[Pasted image 20240319021103.png]]
+
