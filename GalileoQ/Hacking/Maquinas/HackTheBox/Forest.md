@@ -143,5 +143,5 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 `Find Shortest Path To Domain Admin`
 ![[Pasted image 20240318233919.png]]
 
-`Los miembros de este grupo pueden crear y modificar la mayoría de los tipos de cuentas, incluidas cuentas para usuarios, grupos locales y grupos globales. Los miembros del grupo pueden iniciar sesión localmente en los controladores de dominio.
+`ACCOUNT OPERATORS` Los miembros de este grupo pueden crear y modificar la mayoría de los tipos de cuentas, incluidas cuentas para usuarios, grupos locales y grupos globales. Los miembros del grupo pueden iniciar sesión localmente en los controladores de dominio.
 ![[Pasted image 20240318235821.png]]
