@@ -153,3 +153,6 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 `Exchange Windows Permissions`
 ![[Pasted image 20240319000711.png]]
 
+agregamos el permiso del grupo para el usuario que hemos creado
+![[Pasted image 20240319000959.png]]
+
