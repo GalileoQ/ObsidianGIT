@@ -156,5 +156,6 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 agregamos el permiso del grupo para el usuario que hemos creado
 ![[Pasted image 20240319000959.png]]
 
-con la primera linea seteamos los privilegios de DCSync al usuario que hemos creado. primero seteamos la contraseña, luego definimos una credencial para el usuario en el dominio  
+con la primera linea seteamos los privilegios de DCSync al usuario que hemos creado. primero seteamos la contraseña, luego definimos una credencial para el usuario en el dominio  y luego usaremos el script PowerView.ps1 creamos un servidor en python y lo subimos a la maquina
 ![[Pasted image 20240319002640.png]]
+
