@@ -163,3 +163,6 @@ con la primera linea seteamos los privilegios de DCSync al usuario que hemos cre
 `Add-DomainObjectAcl -Credential $Cred -TargetIdentity 'DC=htb,DC=local' -PrincipalIdentity gamu -Rights DCSync` agregamos el usuario al dominio y le damos permisos de DCSync luego ejecutamos un ataque DCSync y podemos ver el hash del usuario Administrator
 ![[Pasted image 20240319005053.png]]
 
+### crackmapexec
+validamos las credenciales que hemos conseguido usando 
+![[Pasted image 20240319005456.png]]
