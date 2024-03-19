@@ -70,3 +70,5 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 ![[Pasted image 20240318225916.png]]
 
 ### gpp-decrypte
+con `gpp-decrypte` podemos desencriptar esta contraseña 
+![[Pasted image 20240319013120.png]]
