@@ -69,4 +69,4 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 `enumerando el systema hemos conceguido un archivo.xml`
 ![[Pasted image 20240318225916.png]]
 
-### gpp-dec
+### gpp-decrypte
