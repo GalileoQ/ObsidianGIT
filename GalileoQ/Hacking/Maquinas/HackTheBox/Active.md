@@ -74,5 +74,6 @@ en el archivo xml podemos ver una contraseña encriptada y un usuario. con la he
 ![[Pasted image 20240319013120.png]]
 
 ### crackmapexec
-validamos las credenci
+validamos las credenciales que hemos conseguido a nivel de `SMB` y tambien para `winrm` para este ultimo no tenemos acceso 
 ![[Pasted image 20240319014827.png]]
+
