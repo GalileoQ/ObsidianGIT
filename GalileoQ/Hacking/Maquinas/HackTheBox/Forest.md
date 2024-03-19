@@ -167,3 +167,6 @@ con la primera linea seteamos los privilegios de DCSync al usuario que hemos cre
 validamos las credenciales que hemos conseguido usando y tenemos un `OK` para SMB y para winrm
 ![[Pasted image 20240319005456.png]]
 
+### Evil-winrm
+
+![[Pasted image 20240319005719.png]]
