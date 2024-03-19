@@ -77,3 +77,5 @@ en el archivo xml podemos ver una contraseña encriptada y un usuario. con la he
 validamos las credenciales que hemos conseguido a nivel de `SMB` y tambien para `winrm` para este ultimo no tenemos acceso 
 ![[Pasted image 20240319014827.png]]
 
+### smbmap
+
