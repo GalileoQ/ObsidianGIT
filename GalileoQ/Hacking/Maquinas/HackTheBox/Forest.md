@@ -150,7 +150,7 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 `net user /add /domain` agregamos un nuevo usuario a nivel de dominio
 ![[Pasted image 20240319000312.png]]
 
-`Exchange Windows Permissions`
+`Exchange Windows Permissions` podemos ver los grupos con `net group`
 ![[Pasted image 20240319000711.png]]
 
 agregamos el permiso del grupo para el usuario que hemos creado
