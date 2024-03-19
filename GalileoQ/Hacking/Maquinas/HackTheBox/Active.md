@@ -60,5 +60,5 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 ![[Pasted image 20240318220651.png]]
 
 ### smbmap
-usamos smbclient para enumerar los archivos compartidos 
+`smbclient para enumerar los archivos compartidos. esto lo podemos confirmar con smbmap  
 ![[Pasted image 20240318223409.png]]
