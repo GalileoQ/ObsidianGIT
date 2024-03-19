@@ -78,4 +78,5 @@ validamos las credenciales que hemos conseguido a nivel de `SMB` y tambien para 
 ![[Pasted image 20240319014827.png]]
 
 ### smbmap
-
+vamos a listar de nuevo los archivos compartidos
+![[Pasted image 20240319020224.png]]
