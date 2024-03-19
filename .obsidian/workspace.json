@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,6 +172,7 @@
   },
   "active": "3f30d47539f515b0",
   "lastOpenFiles": [
+    "Pasted image 20240319000711.png",
     "Pasted image 20240319000312.png",
     "Pasted image 20240318235821.png",
     "Pasted image 20240318233919.png",
@@ -191,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox/Timelapse.md",
     "Pasted image 20240316144426.png",
     "Pasted image 20240316144334.png",
-    "Pasted image 20240316144032.png",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Sin título.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Sau.md",

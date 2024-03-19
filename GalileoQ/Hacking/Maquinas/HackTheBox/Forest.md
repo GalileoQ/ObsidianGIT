@@ -150,3 +150,6 @@ en el bloodhound vamos a upload Data seleccionamos todos los archivos y lo abrim
 `net user /add /domain` agregamos un nuevo usuario a nivel de dominio
 ![[Pasted image 20240319000312.png]]
 
+`Exchange Windows Permissions`
+![[Pasted image 20240319000711.png]]
+
