@@ -59,3 +59,6 @@ Nmap done: 1 IP address (1 host up) scanned in 93.29 seconds
 enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un DC (Domain Controller) con el nombre active.htb
 ![[Pasted image 20240318220651.png]]
 
+### smbmap
+usamos smbclient para enumerar los archivos compartidos 
+![[Pasted image 20240318223409.png]]
