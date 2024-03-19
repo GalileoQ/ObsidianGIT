@@ -70,5 +70,5 @@ enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un
 ![[Pasted image 20240318225916.png]]
 
 ### gpp-decrypte
-en el archivo xml podemos ver una contraseña encriptada y un usuario. con `gpp-decrypt` 
+en el archivo xml podemos ver una contraseña encriptada y un usuario. con `gpp-decrypt` podemos 
 ![[Pasted image 20240319013120.png]]
