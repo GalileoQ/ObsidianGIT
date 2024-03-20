@@ -100,3 +100,6 @@ intentamos obtener un `TGS (Ticket-granting server)` TGS emite tickets de servic
 guardamos el hash en un archivo y lo intentamos crackear con `john`
 ![[Pasted image 20240319235834.png]]
 
+### crackmapexec 
+validamos las credenciales que hemos conseguido tanto para SMB
+![[Pasted image 20240320000954.png]]
