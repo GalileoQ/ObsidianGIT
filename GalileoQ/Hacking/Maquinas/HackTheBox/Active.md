@@ -85,6 +85,6 @@ vamos a listar de nuevo los recursos compartidos con las credenciales obtenidas
 ![[Pasted image 20240319021103.png]]
 
 ### rpcclient 
-enumeración de usuarios, de grupos con `rpcclient`
+enumeración de usuarios, grupos y la información con `rpcclient`
 ![[Pasted image 20240319220626.png]]
 
