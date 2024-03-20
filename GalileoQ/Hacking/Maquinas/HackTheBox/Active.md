@@ -108,3 +108,4 @@ validamos las credenciales que hemos conseguido tanto para `SMB` como para `winr
 establecemos conexión con `impacket-psexec`
 ![[Pasted image 20240320001429.png]]
 
+### WE ARE ROOT

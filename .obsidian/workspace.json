@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b47a8fe106bd5a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7a35f38fa73fe21e",
+  "active": "9b47a8fe106bd5a2",
   "lastOpenFiles": [
     "Pasted image 20240320001429.png",
     "Pasted image 20240320000954.png",
