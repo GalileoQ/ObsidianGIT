@@ -1,4 +1,5 @@
-### incursor
-### Logolo-NG
+### incursor (Enumeración)
+### Logolo-NG (Pivoting)
 ### SharpUp (Winpeas)
+### Lazagne (Mimikats con esteroides)
 ###
