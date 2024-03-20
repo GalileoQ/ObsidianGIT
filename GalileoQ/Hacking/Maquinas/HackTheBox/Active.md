@@ -84,3 +84,6 @@ vamos a listar de nuevo los recursos compartidos con las credenciales obtenidas
 `Enumeracion de los recursos compartidos`
 ![[Pasted image 20240319021103.png]]
 
+### rpcclient 
+
+![[Pasted image 20240319220133.png]]
