@@ -88,3 +88,6 @@ vamos a listar de nuevo los recursos compartidos con las credenciales obtenidas
 enumeración de usuarios, grupos y la información con `rpcclient`
 ![[Pasted image 20240319220626.png]]
 
+### impacket-GetNPUsers
+intentamos obtener un TGT pero el usuario no 
+![[Pasted image 20240319223713.png]]
