@@ -92,3 +92,6 @@ enumeración de usuarios, grupos y la información con `rpcclient`
 intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` por lo cual no podremos obtener un `TGT`
 ![[Pasted image 20240319223713.png]]
 
+### impacket-GetUserSPNs 
+
+![[Pasted image 20240319231957.png]]
