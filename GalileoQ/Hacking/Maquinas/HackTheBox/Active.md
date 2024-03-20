@@ -97,5 +97,6 @@ intentamos obtener un `TGS (Ticket-granting server)` TGS emite tickets de servic
 ![[Pasted image 20240319235342.png]]
 
 ### john
-guardamos el hash en un archivo y lo 
+guardamos el hash en un archivo y lo intentamos crackear con `john`
 ![[Pasted image 20240319235834.png]]
+
