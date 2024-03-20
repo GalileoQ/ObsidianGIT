@@ -93,5 +93,5 @@ intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` p
 ![[Pasted image 20240319223713.png]]
 
 ### impacket-GetUserSPNs 
-
+intentamos obtener un `TGS ()`
 ![[Pasted image 20240319231957.png]]
