@@ -101,5 +101,6 @@ guardamos el hash en un archivo y lo intentamos crackear con `john`
 ![[Pasted image 20240319235834.png]]
 
 ### crackmapexec 
-validamos las credenciales que hemos conseguido tanto para SMB
+validamos las credenciales que hemos conseguido tanto para `SMB` como para `winrm`. en este caso no tenemos conexión por `evil-winrm`
 ![[Pasted image 20240320000954.png]]
+
