@@ -104,3 +104,5 @@ guardamos el hash en un archivo y lo intentamos crackear con `john`
 validamos las credenciales que hemos conseguido tanto para `SMB` como para `winrm`. en este caso no tenemos conexión por `evil-winrm`
 ![[Pasted image 20240320000954.png]]
 
+### impacket
+![[Pasted image 20240320001429.png]]
