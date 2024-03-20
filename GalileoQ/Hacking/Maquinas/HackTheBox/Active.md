@@ -93,5 +93,6 @@ intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` p
 ![[Pasted image 20240319223713.png]]
 
 ### impacket-GetUserSPNs 
-intentamos obtener un `TGS (Ticket-granting server)` 
+intentamos obtener un `TGS (Ticket-granting server)` TGS emite tickets de servicio que permiten a los usuarios acceder a servicios específicos en la red una vez que han sido autenticados correctamente.
 ![[Pasted image 20240319231957.png]]
+
