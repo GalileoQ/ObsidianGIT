@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Windows/Windows Tools.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Windows/Windows Tools.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Windows/Windows Tools.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Windows/Windows Tools.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox/Pov-Medium.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7a35f38fa73fe21e",
   "lastOpenFiles": [
+    "GalileoQ/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox/Active.md",
     "Pasted image 20240320001429.png",
     "Pasted image 20240320000954.png",
@@ -160,7 +161,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "Pasted image 20240319220626.png",
     "Pasted image 20240319220133.png",
-    "GalileoQ/Windows/Windows Tools.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "Pasted image 20240319021103.png",
     "Pasted image 20240319020224.png",
