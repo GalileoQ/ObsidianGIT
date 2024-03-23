@@ -152,3 +152,7 @@ una ves conseguida la intrusión vamos a estabilizar nuestra TTY en este caso lo
 tenemos un archivo openplc.db el cual podemos ver con sqlite3.
 ![[Pasted image 20240323171004.png]]
 
+### linpeas.sh
+vamos a subir el linpeas para explorar maneras de escapar del contenedor
+![[Pasted image 20240323172722.png]]
+
