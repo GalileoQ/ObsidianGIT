@@ -131,3 +131,4 @@ conseguimos un `Remote code execution`
 
 `En Hardware tenemos la pestaña de Hardware Layer box. aqui parece que podemos inyectar codigo en lengiaje C inyectamos la reverse shell aqui`
 ![[Pasted image 20240323162951.png]]
+
