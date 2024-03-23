@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f274aa160de332b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md"
               }
             }
           }
@@ -146,12 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1c9c854140d9f2c2",
+  "active": "1f274aa160de332b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240322230509.png",
     "Pasted image 20240322223213.png",
     "Pasted image 20240322222019.png",
