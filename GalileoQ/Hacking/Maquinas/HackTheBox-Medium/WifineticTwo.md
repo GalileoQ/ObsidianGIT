@@ -178,8 +178,8 @@ usaremos la herramienta [OneShot](https://github.com/kimocoder/OneShot) la desca
 ![[Pasted image 20240323175130.png]]
 
 ### oneshot
-
-
+para ejecutar el oneshot necesitamos el BSS y la interfaz de red 
+![[Pasted image 20240323180408.png]]
 
 
 
