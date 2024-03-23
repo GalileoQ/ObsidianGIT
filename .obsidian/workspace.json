@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "f14126bed058aaf8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240322210109.png",
@@ -180,7 +182,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "Pasted image 20240319223713.png",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "Pasted image 20240319220626.png",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
@@ -188,7 +189,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Sin título.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
