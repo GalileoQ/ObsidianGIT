@@ -201,3 +201,8 @@ echo -n "caracteres" | wc -c
 ```python
 	md5sum Binario
 ```
+
+### Listar conexiones de red
+```python
+lsof -i:
+```
