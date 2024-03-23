@@ -123,3 +123,6 @@ tenemos un CMS openplc
 conseguimos un `Remote code execution`
 ![[Pasted image 20240323161500.png]]
 
+
+
+![[Pasted image 20240323162544.png]]
