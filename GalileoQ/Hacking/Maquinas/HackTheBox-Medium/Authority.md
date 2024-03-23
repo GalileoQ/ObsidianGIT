@@ -189,6 +189,6 @@ obtenemos información sobre dos recursos compartidos en los cuales tenemos perm
 enumeramos diferentes recursos compartidos asi que vamos a mirarlos
 ![[Pasted image 20240322222019.png]]
 
-con el comando `-c "recurse; prompt; mget * "`
+con el comando `-c "recurse; prompt; mget * "` podemos descargar el recurso compartido completo
 ![[Pasted image 20240322223213.png]]
 
