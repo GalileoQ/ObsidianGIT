@@ -23,23 +23,13 @@ Descripción: Obtiene la arquitectura del sistema remoto (32 o 64 bits).
 ```python
 impacket-getArch.py DOMAIN/USER:PASSWORD@TARGET_HOST
 ```
-        
-6. **impacket-mssqlclient**:
-    
-    - Descripción: Un cliente interactivo de SQL Server que se puede utilizar para ejecutar consultas SQL y comandos en un sistema remoto que ejecuta SQL Server.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-mssqlclient.py DOMAIN/USER:PASSWORD@TARGET_HOST`
-        
-7. **impacket-mssqlinstance**:
-    
-    - Descripción: Enumera las instancias de SQL Server en un sistema remoto.
-    - Ejemplo:
-        
-        bashCopy code
-        
+### impacket-mssqlclient:
+Descripción: Un cliente interactivo de SQL Server que se puede utilizar para ejecutar consultas SQL y comandos en un sistema remoto que ejecuta SQL Server.
+```python
+impacket-mssqlclient.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
+### impacket-mssqlinstance:
+Descripción: Enumera las instancias de SQL Server en un sistema remoto.
         `impacket-mssqlinstance.py DOMAIN/USER:PASSWORD@TARGET_HOST`
         
 8. **impacket-mssqlping**:
