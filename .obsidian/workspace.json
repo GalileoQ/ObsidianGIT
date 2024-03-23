@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "f14126bed058aaf8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240322230509.png",
@@ -169,7 +170,6 @@
     "Pasted image 20240322221929.png",
     "Pasted image 20240322215618.png",
     "Pasted image 20240322215026.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "Pasted image 20240322213419.png",
     "Pasted image 20240322212639.png",
