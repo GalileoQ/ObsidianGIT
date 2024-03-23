@@ -171,9 +171,15 @@ Enumeramos las interfaces de red. podemos ver que tenemos una en `Mode: Managed 
 ![[Pasted image 20240323174314.png]]
 
 ### Interfaz de red
-usaremos la her [OneShot](https://github.com/kimocoder/OneShot)
+usaremos la herramienta [OneShot](https://github.com/kimocoder/OneShot) la descargamos y la compartimos a la maquina victima 
 
 ![[Pasted image 20240323175130.png]]
+
+
+
+
+
+
 ### Hacktris
 en hacktris tenemos informacion sobre 
 ![[Pasted image 20240323173959.png]]
