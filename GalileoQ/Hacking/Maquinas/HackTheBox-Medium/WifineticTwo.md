@@ -136,3 +136,6 @@ en esta parte incluimos las librerías de nuestra revershe shell
 `en la parte final podemos declarar el resto de nuestra reverse shell`
 ![[Pasted image 20240323165027.png]]
 
+`guardamos los cambios, parece que todo va perfecto`
+![[Pasted image 20240323165131.png]]
+
