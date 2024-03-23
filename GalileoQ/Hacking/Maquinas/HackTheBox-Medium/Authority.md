@@ -167,5 +167,6 @@ en la web no obtenemos mucha información
 ![[Pasted image 20240322210109.png]]
 
 ### Enumeración del puerto 88 (Kerberos)
-
+por el momento no podemos obtener ningún usuario para el servicio de kerberos
 ![[Pasted image 20240322212639.png]]
+
