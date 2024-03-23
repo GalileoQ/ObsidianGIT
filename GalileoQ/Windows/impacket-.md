@@ -1,18 +1,14 @@
 ### impacket-GetNPUsers:
 Descripción: Extrae tickets TGT (Ticket Granting Ticket) sin necesidad de autenticación de contraseña, utilizando el protocolo Kerberos.
 ```python
-``
-        
-2. **impacket-atexec**:
-    
-    - Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-atexec.py DOMAIN/USER:PASSWORD@TARGET_HOST COMMAND`
-        
-3. **impacket-dpapi**:
+impacket-GetNPUsers DOMAIN/USER -dc-ip <domain_controller_ip>
+```
+### impacket-atexec:
+Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
+```python
+impacket-atexec.py DOMAIN/USER:PASSWORD@TARGET_HOST COMMAND
+```
+impacket-dpapi**:
     
     - Descripción: Proporciona herramientas para manipular DPAPI (Data Protection API) en sistemas Windows.
     - Ejemplo:
