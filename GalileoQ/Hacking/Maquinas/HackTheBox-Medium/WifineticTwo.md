@@ -120,5 +120,6 @@ tenemos un CMS openplc
 ![[Pasted image 20240323153455.png]]
 
 ### searchsploit
-
+conseguimos un `Remote code execution`
 ![[Pasted image 20240323161500.png]]
+
