@@ -148,5 +148,6 @@ una ves conseguida la intrusión vamos a estabilizar nuestra TTY en este caso lo
 ![[Pasted image 20240323170148.png]]
 
 ### sqlite3
-tenemos un archivo openplc.db
+tenemos un archivo openplc.db el cual podemos ver con sqlite3 
 ![[Pasted image 20240323171004.png]]
+
