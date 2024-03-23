@@ -18,6 +18,8 @@ Descripción: Extrae contraseñas almacenadas en la SAM (Security Accounts Manag
 ```python
 impacket-secretsdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
 ```
+
+
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
