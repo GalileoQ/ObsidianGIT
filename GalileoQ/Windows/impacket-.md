@@ -32,7 +32,7 @@ impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CO
 Para solicitar un Golden Ticket con Impacket, puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
 ```python
 impacket-ticketer.py -nthash <USER_NT_HASH> -domain-sid <DOMAIN_SID> -domain <DOMAIN_NAME> -sid <USER_SID> -krbtgt <KRBTGT_HASH> -des <DESCRIPTOR> -rc4 <RC4_HASH> <USER_NAME>
-```
+------------------------------------------------------------------------------------------------------------------------------------------
 Donde:    
     - `<USER_NT_HASH>` es el hash NT (hash de la contraseña) del usuario.
     - `<DOMAIN_SID>` es el SID (identificador de seguridad) del dominio.
@@ -42,11 +42,13 @@ Donde:
     - `<DESCRIPTOR>` es el descriptor de seguridad del usuario (opcional).
     - `<RC4_HASH>` es el hash RC4 (opcional).
     - `<USER_NAME>` es el nombre de usuario del usuario.
+```
+```
 ### impacket-ticketer Silver Ticket:
 Para solicitar un Silver Ticket con Impacket, también puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
 ```python
 impacket-ticketer.py -nthash <USER_NT_HASH> -domain-sid <DOMAIN_SID> -domain <DOMAIN_NAME> -sid <USER_SID> -krbtgt <KRBTGT_HASH> -spn <SERVICE_SPN> <USER_NAME>
------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 Donde:
     
     - `<USER_NT_HASH>` es el hash NT (hash de la contraseña) del usuario.
@@ -56,6 +58,7 @@ Donde:
     - `<KRBTGT_HASH>` es el hash del usuario KRBTGT.
     - `<SERVICE_SPN>` es el Service Principal Name (SPN) del servicio al que deseas acceder.
     - `<USER_NAME>` es el nombre de usuario del usuario.
+```
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
