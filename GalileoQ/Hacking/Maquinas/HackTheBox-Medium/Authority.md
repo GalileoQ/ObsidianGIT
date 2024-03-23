@@ -176,4 +176,8 @@ por el momento seguimos sin obtener información importante
 
 ### Enumeración del puerto 389 (ldap)
 
+```python
 ldapsearch -x -H ldap://10.10.11.222 -b "dc=authority,dc=thb" -s sub "(objectclass=*)"
+```
+![[Pasted image 20240322215026.png]]
+
