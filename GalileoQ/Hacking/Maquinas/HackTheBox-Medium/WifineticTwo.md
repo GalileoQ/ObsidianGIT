@@ -167,7 +167,7 @@ tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 ![[Pasted image 20240323173700.png]]
 
 ### 
-vamos a enumerar las 
+Enumeramos las interfaces de red. podemos ver que tenemos una en `Mode: Managed Access Po`
 ![[Pasted image 20240323174314.png]]
 
 ### Hacktris
