@@ -185,6 +185,9 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 `creamos un archivo de configiracion con los datos que hemos conseguido y luego iniciamos el demonio `
 ![[Pasted image 20240323181518.png]]
 
+`vamos a setear una `
+![[Pasted image 20240323182317.png]]
+
 ### Hacktris
 en hacktris tenemos informacion sobre 
 ![[Pasted image 20240323173959.png]]
