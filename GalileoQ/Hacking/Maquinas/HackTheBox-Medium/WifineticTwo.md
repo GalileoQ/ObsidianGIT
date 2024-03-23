@@ -126,9 +126,8 @@ conseguimos un `Remote code execution`
 `parece que el programa lleva extenciones .st las cuales son interpretaciones del codigo C`
 ![[Pasted image 20240323162615.png]]
 
-`En Hardware tenemos la pestaña de Hardware Layer box. aqui parece que podemos inyectar codigo en lengiaje C`
-![[Pasted image 20240323162951.png]]
-
-
-
+`Reverse shell en lenguaje C`
 ![[Pasted image 20240323162544.png]]
+
+`En Hardware tenemos la pestaña de Hardware Layer box. aqui parece que podemos inyectar codigo en lengiaje C inyectamos la reverse shell aqui`
+![[Pasted image 20240323162951.png]]
