@@ -188,3 +188,4 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 `vamos a setear una direccion IP y una mascara para la interfaz wlan0`
 ![[Pasted image 20240323182541.png]]
 
+`ahora vamos a realizar una p`
