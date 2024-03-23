@@ -193,5 +193,5 @@ este comando realiza un escaneo de ping a la subred(`192.168.1.$i`, donde `i` va
 ![[Pasted image 20240323183515.png]]
 
 ### ssh
-establecemos conexión con la 
+establecemos conexión con la interfaz v
 ![[Pasted image 20240323183803.png]]
