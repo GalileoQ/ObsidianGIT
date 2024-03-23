@@ -153,4 +153,4 @@ Host script results:
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Fri Mar 22 20:33:02 2024 -- 1 IP address (1 host up) scanned in 97.79 seconds
 ```
-
+###### Active Directory LDAP (Domain: authority.htb 
