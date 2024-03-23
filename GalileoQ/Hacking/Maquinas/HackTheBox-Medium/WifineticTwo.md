@@ -133,3 +133,6 @@ conseguimos un `Remote code execution`
 en esta parte incluimos las librerías de nuestra revershe shell
 ![[Pasted image 20240323164928.png]]
 
+`en la parte final podemos declarar el resto de nuestra reverse shell`
+![[Pasted image 20240323165027.png]]
+
