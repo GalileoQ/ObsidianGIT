@@ -13,23 +13,16 @@ Descripción: Proporciona herramientas para manipular DPAPI (Data Protection API
 ```python
 impacket-dpapi.py
 ```
-### impacket-esentutl**:
-    
-    - Descripción: Permite interactuar con bases de datos ESENT (Extensible Storage Engine) en sistemas Windows.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-esentutl.py`
-        
-5. **impacket-getArch**:
-    
-    - Descripción: Obtiene la arquitectura del sistema remoto (32 o 64 bits).
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-getArch.py DOMAIN/USER:PASSWORD@TARGET_HOST`
+### impacket-esentutl:
+Descripción: Permite interactuar con bases de datos ESENT (Extensible Storage Engine) en sistemas Windows.
+```python
+impacket-esentutl.py
+```
+### impacket-getArch**:
+Descripción: Obtiene la arquitectura del sistema remoto (32 o 64 bits).
+```python
+impacket-getArch.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
         
 6. **impacket-mssqlclient**:
     
