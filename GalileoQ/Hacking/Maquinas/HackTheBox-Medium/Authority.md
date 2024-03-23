@@ -166,3 +166,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 en la web no obtenemos mucha información
 ![[Pasted image 20240322210109.png]]
 
+### Enumeración del puerto 88 (Kerberos)
+
+![[Pasted image 20240322212639.png]]
