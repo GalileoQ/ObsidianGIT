@@ -192,4 +192,4 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 este comando realiza un escaneo de ping a la subred(`192.168.1.$i`, donde `i` varía de 1 a 255) y muestra solo las respuestas exitosas que contienen la cadena "bytes from". y Las respuestas exitosas se imprimen en la salida estándar
 ![[Pasted image 20240323183515.png]]
 
-#
+### ssh
