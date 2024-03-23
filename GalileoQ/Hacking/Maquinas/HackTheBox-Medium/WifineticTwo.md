@@ -166,6 +166,10 @@ vamos a subir el linpeas para explorar maneras de escapar del contenedor
 tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 ![[Pasted image 20240323173700.png]]
 
+### 
+vamos a enumerar las 
+![[Pasted image 20240323174314.png]]
+
 ### Hacktris
 en hacktris tenemos informacion sobre 
 ![[Pasted image 20240323173959.png]]
