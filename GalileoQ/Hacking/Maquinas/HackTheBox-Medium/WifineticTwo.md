@@ -182,8 +182,8 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 `obtenemos la WPS PIN:, WPA PSK, AP SSID:`
 ![[Pasted image 20240323180408.png]]
 
-`vamos a `
-
+`vamos a cambiar la `
+![[Pasted image 20240323181518.png]]
 
 ### Hacktris
 en hacktris tenemos informacion sobre 
