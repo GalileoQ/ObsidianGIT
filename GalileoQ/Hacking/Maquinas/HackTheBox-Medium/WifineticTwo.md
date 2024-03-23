@@ -170,12 +170,14 @@ tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 Enumeramos las interfaces de red. podemos ver que tenemos una en `Mode: Managed Access Point`
 ![[Pasted image 20240323174314.png]]
 
-`podemos hacer un escaneo de la`
+`podemos hacer un escaneo de la interfaz wlan0 y obtenemos el BSS ID`
 ![[Pasted image 20240323175922.png]]
 ### Interfaz de red
 usaremos la herramienta [OneShot](https://github.com/kimocoder/OneShot) la descargamos y la compartimos a la maquina victima 
 
 ![[Pasted image 20240323175130.png]]
+
+### oneshot
 
 
 
