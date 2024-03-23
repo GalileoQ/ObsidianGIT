@@ -181,3 +181,6 @@ ldapsearch -x -H ldap://10.10.11.222 -b "dc=authority,dc=thb" -s sub "(objectcla
 ```
 ![[Pasted image 20240322215026.png]]
 
+### Enumeración del puerto 445 (SMB)
+obtenemos información sobre dos recursos compartidos en los cuales tenemos permisos de lectura
+![[Pasted image 20240322215618.png]]

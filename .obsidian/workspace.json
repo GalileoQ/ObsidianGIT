@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ldapsea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,6 +160,7 @@
   },
   "active": "1c9c854140d9f2c2",
   "lastOpenFiles": [
+    "Pasted image 20240322215618.png",
     "Pasted image 20240322215026.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
@@ -184,7 +184,6 @@
     "Pasted image 20240320000954.png",
     "Pasted image 20240319235834.png",
     "Pasted image 20240319235342.png",
-    "Pasted image 20240319231957.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Windows/Enumeración Windows.md",
