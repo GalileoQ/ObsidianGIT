@@ -30,24 +30,16 @@ impacket-mssqlclient.py DOMAIN/USER:PASSWORD@TARGET_HOST
 ```
 ### impacket-mssqlinstance:
 Descripción: Enumera las instancias de SQL Server en un sistema remoto.
-        `impacket-mssqlinstance.py DOMAIN/USER:PASSWORD@TARGET_HOST`
-        
-8. **impacket-mssqlping**:
-    
-    - Descripción: Realiza un ping a un servidor SQL para verificar la disponibilidad.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-mssqlping.py DOMAIN/USER:PASSWORD@TARGET_HOST`
-        
-9. **impacket-mssqlservice**:
-    
-    - Descripción: Enumera los servicios de SQL Server en un sistema remoto.
-    - Ejemplo:
-        
-        bashCopy code
-        
+```python
+impacket-mssqlinstance.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
+### impacket-mssqlping:
+Descripción: Realiza un ping a un servidor SQL para verificar la disponibilidad.
+```python
+impacket-mssqlping.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
+### impacket-mssqlservice:
+Descripción: Enumera los servicios de SQL Server en un sistema remoto.
         `impacket-mssqlservice.py DOMAIN/USER:PASSWORD@TARGET_HOST`
         
 10. **impacket-ntlmrelayx**:
