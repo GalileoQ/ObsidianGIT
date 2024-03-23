@@ -166,10 +166,12 @@ vamos a subir el linpeas para explorar maneras de escapar del contenedor
 tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 ![[Pasted image 20240323173700.png]]
 
-### Interfaz de red
+### Enumeración de la interfaz de red
 Enumeramos las interfaces de red. podemos ver que tenemos una en `Mode: Managed Access Point`
 ![[Pasted image 20240323174314.png]]
 
+`podemos hacer un escaneo de la`
+![[Pasted image 20240323175922.png]]
 ### Interfaz de red
 usaremos la herramienta [OneShot](https://github.com/kimocoder/OneShot) la descargamos y la compartimos a la maquina victima 
 
