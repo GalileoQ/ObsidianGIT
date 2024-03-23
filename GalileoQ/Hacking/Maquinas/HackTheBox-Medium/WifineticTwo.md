@@ -188,4 +188,5 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 `vamos a setear una direccion IP y una mascara para la interfaz wlan0`
 ![[Pasted image 20240323182541.png]]
 
-`ahora vamos a realizar una p`
+`ahora vamos a realizar una prueba`
+este comando realiza un escaneo de ping a la subred(`192.168.1.X`, donde `X` varía de 1 a 255) y muestra solo las respuestas exitosas que contienen la cadena "bytes from". Las respuestas exitosas se imprimen en la salida estándar
