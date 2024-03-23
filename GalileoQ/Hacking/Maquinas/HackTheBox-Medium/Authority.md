@@ -192,3 +192,5 @@ enumeramos diferentes recursos compartidos asi que vamos a mirarlos
 con el comando `-c "recurse; prompt; mget * "` podemos descargar el recurso compartido completo
 ![[Pasted image 20240322223213.png]]
 
+### Code
+en mi caso yo uso visual code
