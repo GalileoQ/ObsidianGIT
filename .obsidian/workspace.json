@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ldapsea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md"
               }
             }
           }
@@ -158,17 +160,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1c9c854140d9f2c2",
+  "active": "f14126bed058aaf8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240322213419.png",
     "Pasted image 20240322212639.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240322210109.png",
     "Pasted image 20240322205956.png",
     "Pasted image 20240322204510.png",
@@ -184,7 +186,6 @@
     "Pasted image 20240319231957.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
-    "Pasted image 20240319223713.png",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
