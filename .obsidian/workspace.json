@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "d9bcaf1eb13fdba4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "Template Pentesting Notes/Pentest.md",
     "Template Pentesting Notes/Tabla.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Windows/impacket.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
@@ -185,7 +186,6 @@
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
