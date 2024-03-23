@@ -114,3 +114,7 @@ tenemos un CMS openplc
 
 `default credential`
 ![[Pasted image 20240323153432.png]]
+
+### OpenPLC
+
+![[Pasted image 20240323153455.png]]
