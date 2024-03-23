@@ -30,13 +30,10 @@ impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CO
 ```
 ### impacket-ticketer Golden Ticket:
 Para solicitar un Golden Ticket con Impacket, puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
-    
-    bashCopy code
-    
-    `impacket-ticketer.py -nthash <USER_NT_HASH> -domain-sid <DOMAIN_SID> -domain <DOMAIN_NAME> -sid <USER_SID> -krbtgt <KRBTGT_HASH> -des <DESCRIPTOR> -rc4 <RC4_HASH> <USER_NAME>`
-    
-    Donde:
-    
+```python
+impacket-ticketer.py -nthash <USER_NT_HASH> -domain-sid <DOMAIN_SID> -domain <DOMAIN_NAME> -sid <USER_SID> -krbtgt <KRBTGT_HASH> -des <DESCRIPTOR> -rc4 <RC4_HASH> <USER_NAME>
+```
+Donde:    
     - `<USER_NT_HASH>` es el hash NT (hash de la contraseña) del usuario.
     - `<DOMAIN_SID>` es el SID (identificador de seguridad) del dominio.
     - `<DOMAIN_NAME>` es el nombre del dominio.
@@ -45,7 +42,7 @@ Para solicitar un Golden Ticket con Impacket, puedes usar `ticketer.py`. Aquí t
     - `<DESCRIPTOR>` es el descriptor de seguridad del usuario (opcional).
     - `<RC4_HASH>` es el hash RC4 (opcional).
     - `<USER_NAME>` es el nombre de usuario del usuario.
-2. **Silver Ticket**: Para solicitar un Silver Ticket con Impacket, también puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
+### impacket-ticketer Silver Ticket**: Para solicitar un Silver Ticket con Impacket, también puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
     
     bashCopy code
     
