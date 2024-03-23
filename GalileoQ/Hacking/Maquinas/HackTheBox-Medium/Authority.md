@@ -170,7 +170,7 @@ en la web no obtenemos mucha información
 por el momento no podemos obtener ningún usuario para el servicio de kerberos
 ![[Pasted image 20240322212639.png]]
 
-### Enumeración del puerto 135
+### Enumeración del puerto 135 (msrpc)
 por el momento seguimos sin obtener información importante
 ![[Pasted image 20240322213419.png]]
 
