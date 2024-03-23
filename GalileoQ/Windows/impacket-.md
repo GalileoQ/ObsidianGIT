@@ -40,18 +40,15 @@ impacket-mssqlping.py DOMAIN/USER:PASSWORD@TARGET_HOST
 ```
 ### impacket-mssqlservice:
 Descripción: Enumera los servicios de SQL Server en un sistema remoto.
-        `impacket-mssqlservice.py DOMAIN/USER:PASSWORD@TARGET_HOST`
-        
-10. **impacket-ntlmrelayx**:
-    
-    - Descripción: Se utiliza para realizar ataques de relé NTLM en redes corporativas.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-ntlmrelayx.py -tf targets.txt`
-        
-11. **impacket-psexec**:
+```python
+impacket-mssqlservice.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
+### impacket-ntlmrelayx:
+Descripción: Se utiliza para realizar ataques de relé NTLM en redes corporativas.
+```python
+impacket-ntlmrelayx.py -tf targets.txt
+```
+### impacket-psexec:
     
     - Descripción: Ejecuta comandos en un sistema remoto utilizando el servicio PsExec.
     - Ejemplo:
