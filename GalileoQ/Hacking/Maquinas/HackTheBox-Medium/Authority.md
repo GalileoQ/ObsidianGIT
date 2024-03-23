@@ -159,4 +159,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 `dig`
 ![[Pasted image 20240322204510.png]]
 
-`dnsen`
+`dnsrecon`
+![[Pasted image 20240322205956.png]]
+
+### Enumeración del puerto 
