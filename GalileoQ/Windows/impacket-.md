@@ -43,7 +43,6 @@ Donde:
     - `<RC4_HASH>` es el hash RC4 (opcional).
     - `<USER_NAME>` es el nombre de usuario del usuario.
 ```
-```
 ### impacket-ticketer Silver Ticket:
 Para solicitar un Silver Ticket con Impacket, también puedes usar `ticketer.py`. Aquí tienes un ejemplo de cómo hacerlo:
 ```python
