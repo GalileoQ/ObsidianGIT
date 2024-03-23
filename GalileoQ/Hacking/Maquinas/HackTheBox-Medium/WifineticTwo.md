@@ -118,3 +118,7 @@ tenemos un CMS openplc
 ### OpenPLC
 
 ![[Pasted image 20240323153455.png]]
+
+### searchsploit
+
+![[Pasted image 20240323161500.png]]
