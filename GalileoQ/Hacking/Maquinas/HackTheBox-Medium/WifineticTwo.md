@@ -182,7 +182,7 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 `obtenemos la WPS PIN:, WPA PSK, AP SSID:`
 ![[Pasted image 20240323180408.png]]
 
-`creamos un archivo de configiracion con los datos que hemos conseguido`
+`creamos un archivo de configiracion con los datos que hemos conseguido y luego iniciamos el demonio `
 ![[Pasted image 20240323181518.png]]
 
 ### Hacktris
