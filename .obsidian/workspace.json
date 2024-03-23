@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md"
               }
             }
           }
@@ -159,10 +158,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5c7ee03eae218cf4",
+  "active": "d9bcaf1eb13fdba4",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
+    "Pasted image 20240323170148.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "Pasted image 20240323165523.png",
     "Pasted image 20240323165131.png",
     "Pasted image 20240323165027.png",

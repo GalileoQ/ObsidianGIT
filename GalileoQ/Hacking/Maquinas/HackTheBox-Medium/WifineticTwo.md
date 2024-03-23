@@ -143,3 +143,6 @@ en esta parte incluimos las librerías de nuestra revershe shell
 estaremos a la escucha e iniciamos el servicio `Star PLC` de esta manera obtenemos una conexión 
 ![[Pasted image 20240323165523.png]]
 
+### TTY
+una ves conseguida la instrusión 
+![[Pasted image 20240323170148.png]]
