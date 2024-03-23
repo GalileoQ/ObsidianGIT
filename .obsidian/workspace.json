@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/impacket-.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/impacket-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Windows/impacket-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Windows/impacket-.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "1f274aa160de332b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Windows/impacket-.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
@@ -186,7 +187,6 @@
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Pov-Medium.md",
     "GalileoQ/Windows/Windows Tools.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",

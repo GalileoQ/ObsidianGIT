@@ -204,5 +204,6 @@ echo -n "caracteres" | wc -c
 
 ### Listar conexiones de red
 ```python
-lsof -i:
+lsof -i # lsof -i:port
 ```
+
