@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "Template Pentesting Notes/Pentest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "Template Pentesting Notes/Pentest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "Template Pentesting Notes/Pentest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "Template Pentesting Notes/Pentest.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "1c9c854140d9f2c2",
   "lastOpenFiles": [
+    "Template Pentesting Notes/Tabla.md",
+    "Template Pentesting Notes/Pentest.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Windows/impacket.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
@@ -184,8 +186,6 @@
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
-    "GalileoQ/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
