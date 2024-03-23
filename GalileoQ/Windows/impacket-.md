@@ -1,11 +1,7 @@
 ### impacket-GetNPUsers:
-    
-    - Descripción: Extrae tickets TGT (Ticket Granting Ticket) sin necesidad de autenticación de contraseña, utilizando el protocolo Kerberos.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-GetNPUsers DOMAIN/USER -dc-ip <domain_controller_ip>`
+Descripción: Extrae tickets TGT (Ticket Granting Ticket) sin necesidad de autenticación de contraseña, utilizando el protocolo Kerberos.
+```python
+``
         
 2. **impacket-atexec**:
     
