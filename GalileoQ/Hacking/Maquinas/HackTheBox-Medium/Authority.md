@@ -193,4 +193,5 @@ con el comando `-c "recurse; prompt; mget * "` podemos descargar el recurso comp
 ![[Pasted image 20240322223213.png]]
 
 ### Code
-en mi caso yo uso visual code
+al analizar los archivos que hemos descargado conseguimos est
+![[Pasted image 20240322230509.png]]
