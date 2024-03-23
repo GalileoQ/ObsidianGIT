@@ -28,7 +28,6 @@ Obtención del TGS: Una vez que hayas identificado el SPN deseado, puedes solici
 ```python
 impacket-GetUserSPNs.py <USER>:<PASSWORD> -spn <SPN_TO_TARGET> -dc-ip <DOMAIN_CONTROL
 ```
-
 ### impacket-atexec:
 Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servicio Task Scheduler (programador de tareas).
 ```python
