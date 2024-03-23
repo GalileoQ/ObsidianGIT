@@ -179,7 +179,7 @@ usaremos la herramienta [OneShot](https://github.com/kimocoder/OneShot) la desca
 
 ### oneshot
 para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información que hemos recopilado anteriormente)
-`obtenemos la WPS PIN:, WPA PSK AP SSID:`
+`obtenemos la WPS PIN:, WPA PSK, AP SSID:`
 ![[Pasted image 20240323180408.png]]
 
 
