@@ -193,5 +193,5 @@ con el comando `-c "recurse; prompt; mget * "` podemos descargar el recurso comp
 ![[Pasted image 20240322223213.png]]
 
 ### Code
-al analizar los archivos que hemos descargado conseguimos est
+al analizar los recursos que hemos descargado conseguimos estos VAULT que parecen interesantes
 ![[Pasted image 20240322230509.png]]
