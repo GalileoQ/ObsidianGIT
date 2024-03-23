@@ -159,5 +159,6 @@ vamos a subir el linpeas para explorar maneras de escapar del contenedor
 `èjecutamos el linpeas`
 ![[Pasted image 20240323173306.png]]
 
-`obtenemos una posible via con `
+`obtenemos una posible via de ataque con release_agent breakout 2`
 ![[Pasted image 20240323173358.png]]
+
