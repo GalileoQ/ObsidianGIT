@@ -156,3 +156,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 ###### Active Directory LDAP (Domain: authority.htb) - (DNS authority.htb.corp)
 
 ### Enumeración del puerto 53 (Domain)
+
+![[Pasted image 20240322204510.png]]
