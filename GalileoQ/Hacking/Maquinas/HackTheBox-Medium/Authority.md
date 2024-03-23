@@ -186,5 +186,5 @@ obtenemos información sobre dos recursos compartidos en los cuales tenemos perm
 ![[Pasted image 20240322215618.png]]
 
 ### smbclient
-encontramos 
-![[Pasted image 20240322221929.png]]
+enumeramos diferentes 
+![[Pasted image 20240322222019.png]]
