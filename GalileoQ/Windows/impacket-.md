@@ -8,16 +8,12 @@ Descripción: Permite ejecutar comandos en un sistema remoto utilizando el servi
 ```python
 impacket-atexec.py DOMAIN/USER:PASSWORD@TARGET_HOST COMMAND
 ```
-impacket-dpapi**:
-    
-    - Descripción: Proporciona herramientas para manipular DPAPI (Data Protection API) en sistemas Windows.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-dpapi.py`
-        
-4. **impacket-esentutl**:
+### impacket-dpapi:
+Descripción: Proporciona herramientas para manipular DPAPI (Data Protection API) en sistemas Windows.
+```python
+impacket-dpapi.py
+```
+### impacket-esentutl**:
     
     - Descripción: Permite interactuar con bases de datos ESENT (Extensible Storage Engine) en sistemas Windows.
     - Ejemplo:
