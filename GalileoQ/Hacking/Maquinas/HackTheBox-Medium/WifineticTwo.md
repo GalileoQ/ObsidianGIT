@@ -109,5 +109,8 @@ Nmap done: 1 IP address (1 host up) scanned in 43.52 seconds
 ```
 
 ### Enumeración del puerto 8080(http)
-
+tenemos un CMS openplc
 ![[Pasted image 20240323153128.png]]
+
+`default credential`
+![[Pasted image 20240323153432.png]]
