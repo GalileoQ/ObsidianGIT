@@ -130,5 +130,6 @@ conseguimos un `Remote code execution`
 ![[Pasted image 20240323162544.png]]
 
 `En Hardware tenemos la pestaña de Hardware Layer box. aqui podemos intentar inyectamos la reverse shell en lenguaje C al final de las sentencias`
-![[Pasted image 20240323162951.png]]
+en esta parte incluimos las librerías de nuestra revershe shell
+![[Pasted image 20240323164928.png]]
 
