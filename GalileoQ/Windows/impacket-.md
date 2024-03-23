@@ -49,24 +49,17 @@ Descripción: Se utiliza para realizar ataques de relé NTLM en redes corporativ
 impacket-ntlmrelayx.py -tf targets.txt
 ```
 ### impacket-psexec:
-    
-    - Descripción: Ejecuta comandos en un sistema remoto utilizando el servicio PsExec.
-    - Ejemplo:
+Descripción: Ejecuta comandos en un sistema remoto utilizando el servicio PsExec.
+```python
+impacket-psexec.py DOMAIN/USER:PASSWORD@TARGET_HOST CMD.EXE
+```
+### impacket-rpcdump:
+Descripción: Realiza una enumeración de RPC en un host remoto.
+```python
+impacket-rpcdump.py DOMAIN/USER:PASSWORD@TARGET_HOST
+```
         
-        bashCopy code
-        
-        `impacket-psexec.py DOMAIN/USER:PASSWORD@TARGET_HOST CMD.EXE`
-        
-12. **impacket-rpcdump**:
-    
-    - Descripción: Realiza una enumeración de RPC en un host remoto.
-    - Ejemplo:
-        
-        bashCopy code
-        
-        `impacket-rpcdump.py DOMAIN/USER:PASSWORD@TARGET_HOST`
-        
-13. **impacket-secretsdump**:
+13impacket-secretsdump:
     
     - Descripción: Extrae contraseñas almacenadas en la SAM (Security Accounts Manager) de un sistema Windows.
     - Ejemplo:
