@@ -186,5 +186,5 @@ para ejecutar el oneshot necesitamos el BSS y la interfaz de red(información qu
 ![[Pasted image 20240323181518.png]]
 
 `vamos a setear una direccion IP y una mascara para la interfaz wlan0`
-![[Pasted image 20240323182317.png]]
+![[Pasted image 20240323182541.png]]
 
