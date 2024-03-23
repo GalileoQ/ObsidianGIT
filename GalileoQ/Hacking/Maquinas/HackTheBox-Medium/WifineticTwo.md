@@ -162,3 +162,6 @@ vamos a subir el linpeas para explorar maneras de escapar del contenedor
 `obtenemos una posible via de ataque con release_agent breakout 2`
 ![[Pasted image 20240323173358.png]]
 
+`Interfaz de red`
+tenemos una interfaz de re
+![[Pasted image 20240323173700.png]]
