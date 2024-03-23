@@ -170,7 +170,7 @@ tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 Enumeramos las interfaces de red. podemos ver que tenemos una en `Mode: Managed Access Point`
 ![[Pasted image 20240323174314.png]]
 
-
+### [OneShot](https://github.com/kimocoder/OneShot)
 
 ### Hacktris
 en hacktris tenemos informacion sobre 
