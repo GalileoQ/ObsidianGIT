@@ -163,5 +163,6 @@ vamos a subir el linpeas para explorar maneras de escapar del contenedor
 ![[Pasted image 20240323173358.png]]
 
 `Interfaz de red`
-tenemos una interfaz de re
+tambien tenemos una interfaz de red wifi que parece estar en modo monitor
 ![[Pasted image 20240323173700.png]]
+
