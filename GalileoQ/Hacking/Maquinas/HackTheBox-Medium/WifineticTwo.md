@@ -144,7 +144,8 @@ estaremos a la escucha e iniciamos el servicio `Star PLC` de esta manera obtenem
 ![[Pasted image 20240323165523.png]]
 
 ### TTY
-una ves conseguida la intrusión vamos a estabilizar nuestra TTY en este caso lo haremos con python3 ya que la maquina tiene este servicio 
+una ves conseguida la intrusión vamos a estabilizar nuestra TTY en este caso lo haremos con python3 ya que la maquina tiene este servicio
+`Nota: actualmente somos root pero creo que estamos dentro de un contene`
 ![[Pasted image 20240323170148.png]]
 
 ### sqlite3
