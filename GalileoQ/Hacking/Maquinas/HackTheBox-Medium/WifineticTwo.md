@@ -119,6 +119,8 @@ tenemos un CMS openplc
 
 ![[Pasted image 20240323153455.png]]
 
+`parece que el programa lleva extenciones .st las cuales son interpretaciones del codigo C`
+![[Pasted image 20240323162615.png]]
 ### searchsploit
 conseguimos un `Remote code execution`
 ![[Pasted image 20240323161500.png]]
