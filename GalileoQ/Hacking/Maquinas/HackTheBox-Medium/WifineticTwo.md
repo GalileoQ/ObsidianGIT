@@ -156,3 +156,6 @@ tenemos un archivo openplc.db el cual podemos ver con sqlite3.
 vamos a subir el linpeas para explorar maneras de escapar del contenedor
 ![[Pasted image 20240323172722.png]]
 
+`èjecutamos el linpeas`
+![[Pasted image 20240323173306.png]]
+
