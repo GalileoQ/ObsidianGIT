@@ -9,7 +9,7 @@ PING 10.10.11.8 (10.10.11.8) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 151.017/151.017/151.017/0.000 ms
 ```
-
+### TTL 63=Linux
 ### nmap
 ```python
 
