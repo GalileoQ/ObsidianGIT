@@ -108,6 +108,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 43.52 seconds
 ```
 
-### Enimeración del puerto 8080(http)
+### Enumeración del puerto 8080(http)
 
 ![[Pasted image 20240323153128.png]]
