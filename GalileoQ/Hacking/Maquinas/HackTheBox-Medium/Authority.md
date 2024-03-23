@@ -175,7 +175,7 @@ por el momento seguimos sin obtener información importante
 ![[Pasted image 20240322213419.png]]
 
 ### Enumeración del puerto 389 (ldap)
-
+seguimos sin obtener informacion
 ```python
 ldapsearch -x -H ldap://10.10.11.222 -b "dc=authority,dc=thb" -s sub "(objectclass=*)"
 ```
