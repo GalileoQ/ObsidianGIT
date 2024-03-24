@@ -105,3 +105,10 @@ Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 
 ### Enumeración del puerto 5000
 
+
+`error`
+![[Pasted image 20240323232319.png]]
+
+### Servidor de python
+obtenemos una cookie
+![[Pasted image 20240323232349.png]]
