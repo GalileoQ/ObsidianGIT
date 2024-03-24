@@ -140,5 +140,6 @@ interceptamos la petición y descubrimos que el parámetro de date es vulnerable
 ![[Pasted image 20240324122125.png]]
 
 `shell`
-aprobechamos para inyectar una shell pero debemos URL_Encodearla para
+aprovechamos para inyectar una shell pero debemos URL_Encodearla para que pueda ser ejecutada ya que los espacios no están siendo interpretados por el comando
 ![[Pasted image 20240324122338.png]]
+
