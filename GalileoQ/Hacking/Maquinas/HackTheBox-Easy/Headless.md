@@ -139,3 +139,6 @@ obtenemos otra cookie para `is_admin`
 interceptamos la petición y descubrimos que el parámetro de date es vulnerable a (XSS Command Inyection)
 ![[Pasted image 20240324122125.png]]
 
+`shell`
+aprobechamos para inyectar una shell pero debemos URL_Encodearla para
+![[Pasted image 20240324122338.png]]
