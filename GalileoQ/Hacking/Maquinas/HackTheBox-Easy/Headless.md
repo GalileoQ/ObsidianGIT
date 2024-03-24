@@ -132,5 +132,6 @@ obtenemos una cookie diferente a la cookie de `is_admin` que nos entregan al ini
 obtenemos otra cookie para `is_admin`
 ![[Pasted image 20240323234442.png]]
 
-``
+`usaremos esta nueva cookie para entrar al panel de dashboard`
 ![[Pasted image 20240324104631.png]]
+
