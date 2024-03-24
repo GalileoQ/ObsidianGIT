@@ -128,3 +128,6 @@ hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la es
 obtenemos una cookie diferente a la cookie de `is_admin` que nos entregan al inicio
 ![[Pasted image 20240323232349.png]]
 
+`base64 decode`
+decodeamos la cookie y al parecer es otra cookie de is_admin
+![[Pasted image 20240323234442.png]]
