@@ -113,6 +113,9 @@ Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 `inyección de request cookie`
 ![[Pasted image 20240323232319.png]]
 
+`error`
+![[Pasted image 20240323233006.png]]
+
 
 ### Servidor de python
 obtenemos una cookie
