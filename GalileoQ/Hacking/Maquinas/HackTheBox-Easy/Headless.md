@@ -102,3 +102,6 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 ```
+
+### Enumeración del puerto 5000
+
