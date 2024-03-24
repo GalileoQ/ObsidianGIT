@@ -129,5 +129,6 @@ obtenemos una cookie diferente a la cookie de `is_admin` que nos entregan al ini
 ![[Pasted image 20240323232349.png]]
 
 `base64 decode`
-decodeamos la cookie y al parecer es otra cookie de is_admin
+obtenemos otra cookie para `is_admin`
 ![[Pasted image 20240323234442.png]]
+
