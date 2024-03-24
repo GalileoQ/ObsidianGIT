@@ -121,7 +121,8 @@ interceptamos el error que se genera para poder ver el informe
 ![[Pasted image 20240323233241.png]]
 
 ### User-Agent
-
+hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la escuch
+![[Pasted image 20240323233539.png]]
 ### Servidor de python
 obtenemos una cookie
 ![[Pasted image 20240323232349.png]]
