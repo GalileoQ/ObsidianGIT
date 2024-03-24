@@ -135,3 +135,6 @@ obtenemos otra cookie para `is_admin`
 `usaremos esta nueva cookie para entrar al panel de dashboard`
 ![[Pasted image 20240324104631.png]]
 
+### Burpsuite
+interceptamos la petición y descrubrimos que el parametro de date es vulnerable a (XSS Command Inyection)
+![[Pasted image 20240324122125.png]]
