@@ -116,6 +116,7 @@ Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 `error`
 ![[Pasted image 20240323233006.png]]
 
+### BurpSuite
 
 ### Servidor de python
 obtenemos una cookie
