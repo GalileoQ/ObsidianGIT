@@ -107,7 +107,9 @@ Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 
 ![[Pasted image 20240323232500.png]]
 
-`for qu`
+`for questions`
+![[Pasted image 20240323232531.png]]
+
 `error`
 ![[Pasted image 20240323232319.png]]
 
