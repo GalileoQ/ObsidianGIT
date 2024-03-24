@@ -120,7 +120,7 @@ Nmap done: 1 IP address (1 host up) scanned in 120.36 seconds
 interceptamos el error que se genera para poder ver el informe
 ![[Pasted image 20240323233241.png]]
 
-
+### User-Agent
 
 ### Servidor de python
 obtenemos una cookie
