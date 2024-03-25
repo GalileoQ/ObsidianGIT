@@ -197,6 +197,7 @@ al analizar los recursos que hemos descargado conseguimos estos VAULT que parece
 ![[Pasted image 20240322230509.png]]
 
 ### Ansible_core
-
+con ansible2john vamos a extraer un hash que nos servira para poder desencriptar 
+![[Pasted image 20240325011111.png]]
 
 ![[Pasted image 20240325011038.png]]
