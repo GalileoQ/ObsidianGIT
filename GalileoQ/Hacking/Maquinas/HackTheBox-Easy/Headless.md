@@ -148,3 +148,5 @@ obtenemos una reverse shell
 ![[Pasted image 20240324233707.png]]
 
 ### Escalada de privilegios
+tenemos permisos sobre el binario `/usr/bin/syscheck` 
+![[Pasted image 20240325003211.png]]
