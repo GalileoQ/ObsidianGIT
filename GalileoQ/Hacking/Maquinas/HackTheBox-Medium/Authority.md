@@ -201,8 +201,9 @@ con ansible2john vamos a extraer un hash que nos servirá para poder desencripta
 ![[Pasted image 20240325011111.png]]
 
 `usando johntheripper podemos desencrptar los hashes que hemos conseguido`
+obtenemos la misma contraseña para los 3 vau
 ![[Pasted image 20240325011038.png]]
 
 ### ansible-vault decrypt
-con esta herramienta podemos desencrio
+con esta herramienta podemos desencriptar el vault pasandole como clave la contraseña que hemos conseguido anteriormente
 ![[Pasted image 20240325012035.png]]
