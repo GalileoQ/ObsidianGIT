@@ -154,5 +154,7 @@ tenemos permisos sobre el binario `/usr/bin/syscheck` este binario al ejecutarse
 `creamos el script initdb.sh`
 ![[Pasted image 20240325004043.png]]
 
-`otorgamos permisos de ejecucion, lo agregamos al path y ejecutamos el binario sys`
+`otorgamos permisos de ejecucion, lo agregamos al path y ejecutamos el binario syschech`
 ![[Pasted image 20240325004156.png]]
+
+### WE ARE ROOT
