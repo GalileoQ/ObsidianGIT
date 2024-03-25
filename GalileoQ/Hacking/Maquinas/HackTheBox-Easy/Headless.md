@@ -148,5 +148,5 @@ obtenemos una reverse shell
 ![[Pasted image 20240324233707.png]]
 
 ### Escalada de privilegios
-tenemos permisos sobre el binario `/usr/bin/syscheck` 
+tenemos permisos sobre el binario `/usr/bin/syscheck` este binario al ejecutarse llama a un script llamado `initdb.sh` podemos aprovechar esto para crear nuestro propio script `initdb.sh` que contenga una reverse shell y luego agregarlo al path para asi obtener una 
 ![[Pasted image 20240325003211.png]]
