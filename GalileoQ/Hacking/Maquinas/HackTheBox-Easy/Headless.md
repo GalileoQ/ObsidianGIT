@@ -143,3 +143,6 @@ interceptamos la petición y descubrimos que el parámetro de date es vulnerable
 aprovechamos para inyectar una shell pero debemos URL_Encodearla para que pueda ser ejecutada ya que los espacios no están siendo interpretados por el comando
 ![[Pasted image 20240324233635.png]]
 
+### netcat
+obtenemos una reverse shell
+![[Pasted image 20240324233707.png]]
