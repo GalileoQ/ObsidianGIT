@@ -196,3 +196,4 @@ con el comando `-c "recurse; prompt; mget * "` podemos descargar el recurso comp
 al analizar los recursos que hemos descargado conseguimos estos VAULT que parecen interesantes
 ![[Pasted image 20240322230509.png]]
 
+### Ansible_core
