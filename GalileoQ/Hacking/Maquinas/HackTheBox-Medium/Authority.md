@@ -197,3 +197,6 @@ al analizar los recursos que hemos descargado conseguimos estos VAULT que parece
 ![[Pasted image 20240322230509.png]]
 
 ### Ansible_core
+
+
+![[Pasted image 20240325011038.png]]
