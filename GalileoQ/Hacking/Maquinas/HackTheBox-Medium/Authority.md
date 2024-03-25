@@ -202,3 +202,7 @@ con ansible2john vamos a extraer un hash que nos servirá para poder desencripta
 
 `usando johntheripper podemos desencrptar los hashes que hemos conseguido`
 ![[Pasted image 20240325011038.png]]
+
+### ansible-vault decrypt
+con esta herramienta podemos desencrio
+![[Pasted image 20240325012035.png]]
