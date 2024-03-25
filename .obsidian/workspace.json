@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 203.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md"
               }
             }
           }
@@ -172,10 +172,12 @@
   },
   "active": "0ff4c22336269326",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+    "GalileoQ/Hacking/Escalada/Linux.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "Pasted image 20240324122338.png",
     "Pasted image 20240324122125.png",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "Pasted image 20240324104631.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "Pasted image 20240323234442.png",
@@ -185,7 +187,6 @@
     "Pasted image 20240323232531.png",
     "Pasted image 20240323232500.png",
     "Pasted image 20240323232349.png",
-    "Pasted image 20240323232319.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -209,7 +210,6 @@
     "GalileoQ/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
-    "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
     "GalileoQ/Hacking/Maquinas/TryHackMe",
