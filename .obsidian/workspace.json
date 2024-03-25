@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "da4954856c0c7630",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
+    "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
+    "GalileoQ/Hacking/Hacking Generico/Port Forwarding SSH.md",
+    "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
+    "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
     "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 111 - NFS.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
@@ -155,7 +160,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
-    "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
@@ -180,10 +184,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Template Pentesting Notes/Pentest.md",
     "Template Pentesting Notes/Tabla.md",
-    "GalileoQ/Windows/impacket.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
