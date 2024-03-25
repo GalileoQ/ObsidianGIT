@@ -200,5 +200,5 @@ al analizar los recursos que hemos descargado conseguimos estos VAULT que parece
 con ansible2john vamos a extraer un hash que nos servirá para poder desencriptar los vault
 ![[Pasted image 20240325011111.png]]
 
-`usando johntheripper podemos desencrptar los has`
+`usando johntheripper podemos desencrptar los hashes que hemos conseguido`
 ![[Pasted image 20240325011038.png]]
