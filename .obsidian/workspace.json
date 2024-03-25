@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "da4954856c0c7630",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
@@ -176,7 +177,6 @@
     "Pasted image 20240324122125.png",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240324104631.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "Pasted image 20240323234442.png",
     "Pasted image 20240323233539.png",
     "Pasted image 20240323233241.png",
