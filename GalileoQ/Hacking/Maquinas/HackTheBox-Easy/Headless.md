@@ -146,3 +146,5 @@ aprovechamos para inyectar una shell pero debemos URL_Encodearla para que pueda 
 ### netcat
 obtenemos una reverse shell
 ![[Pasted image 20240324233707.png]]
+
+### Escalada de privilegios
