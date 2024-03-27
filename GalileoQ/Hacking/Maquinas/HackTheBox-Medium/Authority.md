@@ -266,5 +266,5 @@ establecemos conexión con la maquina
 ![[Pasted image 20240326231005.png]]
 
 ### Escalada de privilegios
-
+parece que esta maquina tiene certificados pfx lo
 ![[Pasted image 20240326231424.png]]
