@@ -265,3 +265,6 @@ con crackmapexec podemos hacer una validación del usuario y la contraseña que 
 establecemos conexión con la maquina 
 ![[Pasted image 20240326231005.png]]
 
+### Escalada de privilegios
+
+![[Pasted image 20240326231424.png]]
