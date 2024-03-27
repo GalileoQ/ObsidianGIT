@@ -229,5 +229,6 @@ probamos todas las credenciales que hemos conseguido anteriormente y no obtenemo
 si pulsamos el botón `Cancel` nos lleva a una pestaña donde podemos descargar la configuración del servicio de ldap
 ![[Pasted image 20240326222740.png]]
 
-`PwmConfiru`
+`PwmConfiguration.xml`
+
 ![[Pasted image 20240326223648.png]]
