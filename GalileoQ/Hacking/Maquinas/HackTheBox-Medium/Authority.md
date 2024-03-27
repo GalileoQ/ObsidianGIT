@@ -235,7 +235,7 @@ editamos el archivo que hemos descargado `PwmConfiguration.xml` para hacer que s
 
 `ldap`
 cambiamos la ruta donde ldap se esta autenticando para redireccionarlo a nuestra maquina atacante. cambiamos tambien el puerto 636 por el 389 ya que este es el puerto por defecto que utiliza ldap para establecer conexión 
-
+![[Pasted image 20240326225613.png]]
 
 `Import Configuration`
 subimos el archivo con las modificaciones que hemos hecho para que el sistema guarde los cambios
