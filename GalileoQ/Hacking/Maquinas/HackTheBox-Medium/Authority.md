@@ -306,6 +306,7 @@ de esta manera nos conectamos al servidor de active Directory con las credencial
 ![[Pasted image 20240327012331.png]]
 
 `creamos un usuario y lo agregamos al grupo Administrator`
-de esta manera hemos c
+de esta manera hemos creado un nuevo usuario que pertenece al grupo Administrator por lo cual tenemos permisos elevados
 ![[Pasted image 20240327013600.png]]
 
+### WE ARE 
