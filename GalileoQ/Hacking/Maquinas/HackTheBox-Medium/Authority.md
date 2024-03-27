@@ -277,5 +277,6 @@ certipy-ad find -u 'svc_ldap' -p 'lDaP_1n_th3_cle4r!' -target authority.htb -tex
 ![[Pasted image 20240326233657.png]]
 
 `Enrollment Rights`
-aquí podemos ver que Domain Computers tiene permisos de `Enrollment Rights` lo que significa que tenemos permisos para agregar nuevas computadoras al DC(Domain Controller)
-![[Pasted image 20240326234326.png]]
+aquí podemos ver que Domain Computers tiene permisos de `Enrollment Rights` lo que significa que tenemos permisos para agregar nuevas equipos al DC(Domain Controller)
+![[Pasted image 20240326234741.png]]
+
