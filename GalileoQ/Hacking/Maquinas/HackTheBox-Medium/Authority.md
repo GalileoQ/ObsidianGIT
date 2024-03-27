@@ -222,5 +222,5 @@ probamos todas las credenciales que hemos conseguido anteriormente y no obtenemo
 `Configuration Manager Edit`
 ![[Pasted image 20240326221952.png]]
 
-``
+`obtenemos la`
 ![[Pasted image 20240326222203.png]]
