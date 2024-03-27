@@ -233,3 +233,6 @@ si pulsamos el botón `Cancel` nos lleva a una pestaña donde podemos descargar 
 editamos el archivo que hemos descargado `PwmConfiguration.xml` para hacer que se autentique con nuestra maquina atacante. 
 ![[Pasted image 20240326223648.png]]
 
+`ldap`
+cambiamos la ruta donde ldap se esta autenticando para redireccionarlo a nuestra maquina atacante. cambiamos tambi
+![[Pasted image 20240326224119.png]]
