@@ -264,3 +264,4 @@ con crackmapexec podemos hacer una validación del usuario y la contraseña que 
 ### evil-winrm
 establecemos conexión con la maquina 
 ![[Pasted image 20240326231005.png]]
+
