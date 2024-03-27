@@ -269,6 +269,6 @@ establecemos conexión con la maquina
 tenemos el directorio de Certs. esta maquina podría tener algunos certificados que sean vulnerable 
 ![[Pasted image 20240326231424.png]]
 
-### 
-
+### certipy-ad
+con esta herramienta podemos obtener información de posibles certificados vulnerables que se encuentran dentro del 
 ![[Pasted image 20240326233657.png]]
