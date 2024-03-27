@@ -219,3 +219,5 @@ con esta herramienta podemos desencriptar el vault con la contraseña que hemos 
 probamos todas las credenciales que hemos conseguido anteriormente y no obtenemos acceso
 ![[Pasted image 20240326221827.png]]
 
+`Configuration Manager`
+![[Pasted image 20240326221952.png]]
