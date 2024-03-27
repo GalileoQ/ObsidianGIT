@@ -277,5 +277,5 @@ certipy-ad find -u 'svc_ldap' -p 'lDaP_1n_th3_cle4r!' -target authority.htb -tex
 ![[Pasted image 20240326233657.png]]
 
 `Enrollment Rights`
-
+aquí podemos ver que tenemos los permisos de `Enrollment Rights`l
 ![[Pasted image 20240326234326.png]]
