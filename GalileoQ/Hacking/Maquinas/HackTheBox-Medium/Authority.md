@@ -222,5 +222,6 @@ probamos todas las credenciales que hemos conseguido anteriormente y no obtenemo
 `Configuration Manager Edit`
 ![[Pasted image 20240326221952.png]]
 
-`podemos ver la ruta donde se autentical ldap sim embargo`
+`podemos ver la ruta donde se autentical ldap sim embargo no podemos establecer una conexion por este medio.`
 ![[Pasted image 20240326222203.png]]
+
