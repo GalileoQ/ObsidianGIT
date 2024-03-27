@@ -270,7 +270,7 @@ tenemos el directorio de Certs. esta maquina podría tener algunos certificados 
 ![[Pasted image 20240326231424.png]]
 
 ### certipy-ad
-con esta herramienta podemos obtener información de posibles certificados vulnerables que se encuentran dentro de la maquina victima
+con esta herramienta podemos obtener información de posibles certificados vulnerables que se encuentran dentro de la maquina victima tambien podemos ver el `Template Name: `
 ```python
 certipy-ad find -u 'svc_ldap' -p 'lDaP_1n_th3_cle4r!' -target authority.htb -text -stdout -vulnerable
 ```
