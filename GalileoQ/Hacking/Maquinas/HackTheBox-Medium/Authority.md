@@ -257,3 +257,6 @@ sudo responder -I tun0
 obtenemos el usuario y la contraseña del servicio ldap
 ![[Pasted image 20240326225911.png]]
 
+### crackmapexec 
+con crackmapexec podemos
+![[Pasted image 20240326230659.png]]
