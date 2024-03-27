@@ -226,5 +226,6 @@ probamos todas las credenciales que hemos conseguido anteriormente y no obtenemo
 ![[Pasted image 20240326222203.png]]
 
 `Download Configuration`
-si pulsamos el botón `Cancel` nos lleva a una pestaña donde podemos descargar la configuracion 
+si pulsamos el botón `Cancel` nos lleva a una pestaña donde podemos descargar la configuración del servicio de ldap
 ![[Pasted image 20240326222740.png]]
+
