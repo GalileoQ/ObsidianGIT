@@ -246,7 +246,11 @@ aqui podemos ver como ahora por defecto ldap esta apuntando a nuestra maquina de
 ![[Pasted image 20240326225853.png]]
 
 ### responder 
-usaremos `responder` para estar a la escucha y poder capturar el hash
+usaremos `responder` para estar a la escucha y poder capturar el hash de autenticacion
+```python
+sudo responder -I tun0
+# de es
+```
 ![[Pasted image 20240326225247.png]]
 
 
