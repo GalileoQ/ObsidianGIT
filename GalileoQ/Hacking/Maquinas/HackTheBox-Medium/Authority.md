@@ -232,3 +232,4 @@ si pulsamos el botón `Cancel` nos lleva a una pestaña donde podemos descargar 
 `PwmConfiguration.xml`
 editamos el archivo que hemos descargado `PwmConfiguration.xml` para hacer que se autentique con nuestra maquina atacante. 
 ![[Pasted image 20240326223648.png]]
+
