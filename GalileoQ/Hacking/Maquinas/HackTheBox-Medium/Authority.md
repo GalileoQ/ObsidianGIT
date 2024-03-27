@@ -306,5 +306,6 @@ de esta manera nos conectamos al servidor de active Directory con las credencial
 ![[Pasted image 20240327012331.png]]
 
 `creamos un usuario y lo agregamos al grupo Administrator`
+de esta manera hemos c
 ![[Pasted image 20240327013600.png]]
 
