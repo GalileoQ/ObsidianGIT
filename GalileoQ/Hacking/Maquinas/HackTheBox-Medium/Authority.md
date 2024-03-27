@@ -266,5 +266,6 @@ establecemos conexión con la maquina
 ![[Pasted image 20240326231005.png]]
 
 ### Escalada de privilegios
-tenemos el directorio de Certs. pod
+tenemos el directorio de Certs. esta maquina podría tener algunos certificados que sean vulnerable 
 ![[Pasted image 20240326231424.png]]
+
