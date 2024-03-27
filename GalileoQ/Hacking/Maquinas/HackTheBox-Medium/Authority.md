@@ -225,3 +225,6 @@ probamos todas las credenciales que hemos conseguido anteriormente y no obtenemo
 `podemos ver la ruta donde se autentical ldap sim embargo no podemos establecer una conexion por este medio.`
 ![[Pasted image 20240326222203.png]]
 
+`Download Configuration`
+si pulsamos el boton de calcel
+![[Pasted image 20240326222740.png]]
