@@ -249,7 +249,7 @@ aqui podemos ver como ahora por defecto ldap esta apuntando a nuestra maquina de
 usaremos `responder` para estar a la escucha y poder capturar el hash de autenticacion
 ```python
 sudo responder -I tun0
-# de es
+# de esta manera establecemos una escucha con la herramienta responder. con el parametro "-I" para indicarle nuestra direccion ip que en este caso seria la interfaz de red tun0
 ```
 ![[Pasted image 20240326225247.png]]
 
