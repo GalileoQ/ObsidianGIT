@@ -208,3 +208,7 @@ obtenemos la misma contraseña para los 3 vault
 con esta herramienta podemos desencriptar el vault con la contraseña que hemos conseguido anteriormente
 ![[Pasted image 20240325012035.png]]
 
+### Enumeración del puerto 8443 (https)
+
+![[Pasted image 20240326221352.png]]
+
