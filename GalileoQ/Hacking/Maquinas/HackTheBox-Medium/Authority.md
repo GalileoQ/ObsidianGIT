@@ -245,3 +245,6 @@ subimos el archivo con las modificaciones que hemos hecho para que el sistema gu
 aqui podemos ver como ahora por defecto ldap esta apuntando a nuestra maquina de atacante por el puerto:389
 ![[Pasted image 20240326224857.png]]
 
+### responder 
+usaremos `responder` para intentar capturar un hash de autenticacion 
+![[Pasted image 20240326225247.png]]
