@@ -241,5 +241,7 @@ cambiamos la ruta donde ldap se esta autenticando para redireccionarlo a nuestra
 subimos el archivo con las modificaciones que hemos hecho para que el sistema guarde los cambios
 ![[Pasted image 20240326224647.png]]
 
-``
+`LDAP URLs`
+aqui podemos ver como ahora por defecto ldap esta apuntando a nuestra maquina de atacante por el puerto:389
 ![[Pasted image 20240326224857.png]]
+
