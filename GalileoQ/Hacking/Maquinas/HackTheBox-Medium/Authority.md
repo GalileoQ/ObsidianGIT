@@ -302,5 +302,5 @@ certipy-ad req -username gamuke$ -password 'gamuke123' -ca AUTHORITY-CA -dc-ip 1
 ![[Pasted image 20240327011111.png]]
 
 ### -ldap-shell
-de esta maner
+de esta manera nos conectamos al servidor de active Directory con las credenciales en formato pfx que hemos conseguido 
 ![[Pasted image 20240327012331.png]]
