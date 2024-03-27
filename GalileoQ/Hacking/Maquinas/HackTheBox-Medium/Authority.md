@@ -246,7 +246,7 @@ aqui podemos ver como ahora por defecto ldap esta apuntando a nuestra maquina de
 ![[Pasted image 20240326225853.png]]
 
 ### responder 
-usaremos `responder` para intentar capturar un hash de autenticación 
+usaremos `responder` para estar a la escucha y poder capturar el hash
 ![[Pasted image 20240326225247.png]]
 
 
