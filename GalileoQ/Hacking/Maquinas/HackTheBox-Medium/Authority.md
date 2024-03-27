@@ -253,5 +253,6 @@ sudo responder -I tun0
 ```
 ![[Pasted image 20240326225247.png]]
 
+`responder hash`
 
 ![[Pasted image 20240326225911.png]]
