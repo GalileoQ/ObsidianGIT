@@ -212,3 +212,5 @@ con esta herramienta podemos desencriptar el vault con la contraseña que hemos 
 
 ![[Pasted image 20240326221352.png]]
 
+`Accept the Risk and Contine`
+![[Pasted image 20240326221437.png]]
