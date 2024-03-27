@@ -269,3 +269,6 @@ establecemos conexión con la maquina
 tenemos el directorio de Certs. esta maquina podría tener algunos certificados que sean vulnerable 
 ![[Pasted image 20240326231424.png]]
 
+### 
+
+![[Pasted image 20240326233657.png]]
