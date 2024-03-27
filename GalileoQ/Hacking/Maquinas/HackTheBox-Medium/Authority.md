@@ -254,6 +254,6 @@ sudo responder -I tun0
 ![[Pasted image 20240326225247.png]]
 
 `responder hash`
-obtenemos el usuario y la contraseña del usuario ldap
+obtenemos el usuario y la contraseña del servicio ldap
 ![[Pasted image 20240326225911.png]]
 
