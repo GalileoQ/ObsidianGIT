@@ -261,3 +261,6 @@ obtenemos el usuario y la contraseña del servicio ldap
 con crackmapexec podemos hacer una validación del usuario y la contraseña que hemos obtenido tanto para smb como para evil-winrm.
 ![[Pasted image 20240326230659.png]]
 
+### evil-winrm
+establecemos una conexión con he
+![[Pasted image 20240326230908.png]]
