@@ -139,5 +139,5 @@ usando `mssqlclient` de la suite de impacket podemos establecer conexión en la 
 ![[Pasted image 20240328221851.png]]
 
 ### responder 
-vamos a iniciar el responder para intentar obtener un hash. 
+vamos a iniciar el responder para intentar obtener un hash. si trabamos de listar los director
 ![[Pasted image 20240328222914.png]]
