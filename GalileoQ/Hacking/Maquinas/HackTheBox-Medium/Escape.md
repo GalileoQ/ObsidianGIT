@@ -203,5 +203,8 @@ certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@seq
 ```
 ![[Pasted image 20240329163011.png]]
 
-`Ahora que tenemos un certificado para el administrador, podemos usar certipy una vez más para obtener un Ticket Granting Ticket (TGT) y extraer el hash NT para este usuario. Dado que este paso requiere cierta interacción con Kerberos, necesitamos sincronizar nuestro reloj con la hora de la máquina remota antes de poder continuar.`
+`Ahora que tenemos un certificado de administrador, podemos usar certipy para obtener un Ticket Granting Ticket (TGT) y extraer el hash NTLMv2 para este usuario. Dado que este paso requiere cierta interacción con Kerberos, necesitamos sincronizar nuestro reloj con la hora de la máquina remota antes de poder continuar.`
+```python
+sudo ntpdate -u dc.sequel.htb # con est
+```
 ![[Pasted image 20240329163703.png]]
