@@ -165,5 +165,5 @@ obtenemos conexión
 ### Lateral Movement
 
 `ERRORLOG.BAK`
-parece que el usuario 
-![[Pasted image 20240328234606.png]]
+parece que el usuario ryam cometio el error de 
+![[Pasted image 20240328234727.png]]
