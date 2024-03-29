@@ -178,3 +178,5 @@ parece que el usuario ryam cometió el error de poner su contraseña en el pará
 validamos las credenciales que hemos conseguido
 ![[Pasted image 20240328235716.png]]
 
+### Lateral Movement (Usuario )
+![[Pasted image 20240328235837.png]]
