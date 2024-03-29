@@ -220,6 +220,7 @@ obtenemos conexión con el usuario administrator
 ### WE ARE ROOT
 
 ### SOLUCIÓN ALTERNATIVA
+
 ### TST
 
 ![[Pasted image 20240329171828.png]]
