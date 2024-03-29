@@ -209,8 +209,7 @@ sudo ntpdate -u dc.sequel.htb # con este comando sincronizamos nuestro reloj con
 
 certipy auth -pfx administrator.pfx # con este comando generamos el certificado 
 ```
-de este manera obtenemos un hash del usuario administrador el cual podemos usar para la autenticación
-`a52f78e4c751e5f5e17e1e9f3e58f4ee`
 
+de este manera obtenemos un hash del usuario administrador el cual podemos usar para la autenticación
 ![[Pasted image 20240329165217.png]]
 
