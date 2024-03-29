@@ -126,3 +126,7 @@ smbmap nos permite ver los permisos que tenemos sobre los archivos compartidos
 encontramos un directorio llamado public donde tenemos permisos de lectura y dentro tenemos un archivo pdf que podemos descargar 
 ![[Pasted image 20240328214912.png]]
 
+`download`
+descargamos el archivo pdf que se esta compartiendo
+![[Pasted image 20240328220045.png]]
+
