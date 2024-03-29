@@ -197,7 +197,7 @@ esto nos permite identificar las plantillas vulnerables. esta vulnerabilidad se 
 
 ### certipy-ad
 
-Con este comando vamos a generar una solicitud de certificado para el usuario "ryan.cooper@sequel.htb", utilizando la contraseña "NuclearMosquito3", con el objetivo de inscribir un certificado con el UPN "administrator@sequel.htb", y utilizando una plantilla de certificado llamada "UserAuthentication". Todo esto se realiza dentro de un entorno de Active Directory, y la CA utilizada para firmar el certificado es "sequel-dc-ca".
+Con este comando vamos a generar una solicitud de certificado para el usuario "ryan.cooper", con el objetivo de inscribir un certificado con el UPN "administrator@sequel.htb", y utilizando una plantilla de certificado llamada "UserAuthentication". Todo esto se realiza dentro de un entorno de Active Directory, y la CA utilizada para firmar el certificado es "sequel-dc-ca".
 ```python
 certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@sequel.htb -target sequel.htb -ca sequel-dc-ca -template UserAuthentication
 ```
