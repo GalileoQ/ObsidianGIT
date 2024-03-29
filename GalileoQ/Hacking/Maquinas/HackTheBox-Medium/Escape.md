@@ -163,3 +163,4 @@ obtenemos conexión
 ![[Pasted image 20240328232054.png]]
 
 ### Lateral Movement
+
