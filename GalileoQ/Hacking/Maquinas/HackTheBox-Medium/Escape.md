@@ -95,6 +95,8 @@ Nmap done: 1 IP address (1 host up) scanned in 140.86 seconds
 ```
 
 ### Enumeración del puerto 53 (DOMAIN)
-
+`dig` conseguimos una cookie que podría ser interesante
 ![[Pasted image 20240328204907.png]]
 
+`dnsenum`
+![[Pasted image 20240328205655.png]]
