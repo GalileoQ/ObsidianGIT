@@ -159,5 +159,5 @@ validamos las credenciales por smb y por evil-winrm
 ![[Pasted image 20240328231824.png]]
 
 ### Evil-winrm
-obtenemos conexi
+obtenemos conexión
 ![[Pasted image 20240328232054.png]]
