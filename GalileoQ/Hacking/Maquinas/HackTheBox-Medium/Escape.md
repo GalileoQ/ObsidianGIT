@@ -131,9 +131,9 @@ descargamos el archivo pdf que se esta compartiendo
 ![[Pasted image 20240328220045.png]]
 
 `open pdf`
-el archivo pdf que conseguimos nos da informacion de varios usuarios y de como conectarnos a la base de datos
+el archivo pdf que conseguimos nos da información de varios usuarios y de como conectarnos a la base de datos
 ![[Pasted image 20240328220348.png]]
 
-### 
+### impacket-mssqlclient
 
 ![[Pasted image 20240328221851.png]]
