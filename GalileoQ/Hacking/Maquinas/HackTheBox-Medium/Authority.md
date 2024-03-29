@@ -299,7 +299,7 @@ certipy-ad req -username gamuke$ -password 'gamuke123' -ca AUTHORITY-CA -dc-ip 1
 
 # NOTA: si tienes problemas con el reloj ejecutar> sudo ntpdate "IP-DC"
 
-# ❯ timedatectl set-ntp 0 -------------> desactivar la sincronizacion de la maquina virtual con tu host
+ ❯ timedatectl set-ntp 0 -------------> desactivar la sincronizacion de la maquina virtual con tu host
     
 # ❯ sudo ntpdate 10.10.10.10 --------------------> sincronizar la maquina con el DC
 ```
