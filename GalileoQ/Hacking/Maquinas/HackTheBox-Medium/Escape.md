@@ -164,6 +164,8 @@ obtenemos conexión
 
 ### Lateral Movement
 
+tenemos un usuario llamado Ryan.Cooper probablemente debemos hacer movimiento lateral para poder cambiar de usuario
+![[Pasted image 20240328235037.png]]
 
 `ERRORLOG.BAK` tenemos un archivo donde se guardan logs del sistema
 ![[Pasted image 20240328234834.png]]
