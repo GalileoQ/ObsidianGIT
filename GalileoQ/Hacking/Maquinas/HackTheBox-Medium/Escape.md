@@ -213,3 +213,7 @@ certipy auth -pfx administrator.pfx # con este comando generamos el certificado
 de este manera obtenemos un hash del usuario administrador el cual podemos usar para la autenticación
 ![[Pasted image 20240329165217.png]]
 
+### evil-winrm
+obtenemos conexión con el usuario administrator
+![[Pasted image 20240329170655.png]]
+
