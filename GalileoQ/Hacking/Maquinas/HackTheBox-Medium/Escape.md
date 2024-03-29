@@ -103,5 +103,5 @@ podemos ver lo que parece la ipv6 de la maquina
 ![[Pasted image 20240328205655.png]]
 
 `Enumerating srv records`
-tenemos un reconocimiento completo de kerbero
+tenemos un reconocimiento completo de kerberos y ldap lo que me hace pensar que podriamos intentar obtener un TGT  
 ![[Pasted image 20240328205742.png]]
