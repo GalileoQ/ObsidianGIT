@@ -99,4 +99,8 @@ Nmap done: 1 IP address (1 host up) scanned in 140.86 seconds
 ![[Pasted image 20240328204907.png]]
 
 `dnsenum`
+podemos ver lo que parece la ipv6 de la maquina
 ![[Pasted image 20240328205655.png]]
+
+`Enumerating srv `
+![[Pasted image 20240328205742.png]]
