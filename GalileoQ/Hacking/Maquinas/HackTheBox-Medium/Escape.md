@@ -203,3 +203,5 @@ certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@seq
 ```
 ![[Pasted image 20240329163011.png]]
 
+
+![[Pasted image 20240329163703.png]]
