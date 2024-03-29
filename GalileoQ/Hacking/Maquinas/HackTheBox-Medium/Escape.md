@@ -161,3 +161,5 @@ validamos las credenciales por smb y por evil-winrm
 ### Evil-winrm
 obtenemos conexión
 ![[Pasted image 20240328232054.png]]
+
+### Lateral Movement
