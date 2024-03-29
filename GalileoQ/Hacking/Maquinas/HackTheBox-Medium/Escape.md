@@ -182,3 +182,5 @@ validamos las credenciales que hemos conseguido
 logramos cambiar de usuario exitosamente. ahora solo nos queda escalar privilegios
 ![[Pasted image 20240328235837.png]]
 
+### Certify
+en este punto podemos utilizar la herramienta certify para intentar buscar algun certificado vulnerable y de esta manera poder escalar privilegips
