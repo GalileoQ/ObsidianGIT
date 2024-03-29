@@ -151,4 +151,6 @@ apuntamos a un recurso que no existe en nuestra maquina atacante por lo cual est
 ![[Pasted image 20240328224406.png]]
 
 `john`
-usaremos 
+usaremos john para poder desencriptar este hash
+![[Pasted image 20240328231411.png]]
+
