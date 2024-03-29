@@ -164,6 +164,7 @@ obtenemos conexión
 
 ### Lateral Movement
 
+![[Pasted image 20240328234834.png]]
 `ERRORLOG.BAK`
-parece que el usuario ryam cometio el error de 
+parece que el usuario ryam cometió el error de poner su contraseña en el parámetro de usuario y esto ha quedado guardad en el archivo de logs
 ![[Pasted image 20240328234727.png]]
