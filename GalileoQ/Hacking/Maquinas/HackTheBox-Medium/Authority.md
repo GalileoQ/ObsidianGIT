@@ -299,7 +299,7 @@ certipy-ad req -username gamuke$ -password 'gamuke123' -ca AUTHORITY-CA -dc-ip 1
 
 # NOTA: si tienes problemas con el reloj ejecutar> sudo ntpdate "IP-DC"
 
- ❯ sudo service virtualbox-guest-utils stop
+ ❯ sudo service virtualbox-guest-utils stop # este comando detiene el servicio 
  
  ❯ timedatectl set-ntp 0    # -------------> desactivar la sincronizacion de la maquina virtual con tu host
     
