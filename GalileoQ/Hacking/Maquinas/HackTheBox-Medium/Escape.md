@@ -164,3 +164,6 @@ obtenemos conexión
 
 ### Lateral Movement
 
+`ERRORLOG.BAK`
+parece que el usuario 
+![[Pasted image 20240328234606.png]]
