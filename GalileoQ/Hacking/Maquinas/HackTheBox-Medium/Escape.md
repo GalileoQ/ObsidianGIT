@@ -163,7 +163,9 @@ obtenemos conexión
 ![[Pasted image 20240328232054.png]]
 
 ### Lateral Movement
-`ERRORLOG.BAK` 
+
+
+`ERRORLOG.BAK` tenemos un archivo donde se guardan logs del sistema
 ![[Pasted image 20240328234834.png]]
 
 `ERRORLOG.BAK`
