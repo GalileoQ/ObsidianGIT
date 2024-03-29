@@ -130,3 +130,6 @@ encontramos un directorio llamado public donde tenemos permisos de lectura y den
 descargamos el archivo pdf que se esta compartiendo
 ![[Pasted image 20240328220045.png]]
 
+`open pdf`
+el archivo pdf 
+![[Pasted image 20240328220348.png]]
