@@ -106,3 +106,6 @@ podemos ver lo que parece la ipv6 de la maquina
 tenemos un reconocimiento completo de kerberos y ldap lo que me hace pensar que podríamos intentar obtener un TGT mas adelante 
 ![[Pasted image 20240328205742.png]]
 
+### Enumeración del puerto 88 (Kerberos)
+
+![[Pasted image 20240328210931.png]]
