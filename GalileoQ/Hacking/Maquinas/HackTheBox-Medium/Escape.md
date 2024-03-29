@@ -158,3 +158,6 @@ usaremos john para poder desencriptar este hash
 validamos las credenciales por smb y por evil-winrm
 ![[Pasted image 20240328231824.png]]
 
+### Evil-winrm
+obtenemos conexi
+![[Pasted image 20240328232054.png]]
