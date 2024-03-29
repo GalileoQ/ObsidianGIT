@@ -109,3 +109,4 @@ tenemos un reconocimiento completo de kerberos y ldap lo que me hace pensar que 
 ### Enumeración del puerto 88 (Kerberos)
 
 ![[Pasted image 20240328210931.png]]
+
