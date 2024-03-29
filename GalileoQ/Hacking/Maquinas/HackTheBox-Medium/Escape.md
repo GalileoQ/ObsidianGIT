@@ -123,5 +123,6 @@ smbmap nos permite ver los permisos que tenemos sobre los archivos compartidos
 ![[Pasted image 20240328214546.png]]
 
 ### smbmap
-encontramos un directorio llamado py
+encontramos un directorio llamado public donde tenemos permisos de lectura y dentro tenemos un archivo pdf que podemos descargar 
 ![[Pasted image 20240328214912.png]]
+
