@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7b65b9294f4bd5",
+        "id": "87c25ebf8df213c4",
         "type": "tabs",
         "children": [
           {
-            "id": "da4954856c0c7630",
+            "id": "47052161692eaf1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feb6dff26ed88ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
               }
             }
           }
@@ -158,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "da4954856c0c7630",
+  "active": "47052161692eaf1b",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "Pasted image 20240327013600.png",
     "Pasted image 20240327012331.png",
     "Pasted image 20240327011111.png",
@@ -173,7 +163,6 @@
     "Pasted image 20240326233657.png",
     "Pasted image 20240326231424.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
@@ -195,7 +184,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
