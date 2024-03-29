@@ -173,3 +173,8 @@ tenemos un usuario llamado Ryan.Cooper probablemente debemos hacer movimiento la
 `ERRORLOG.BAK`
 parece que el usuario ryam cometió el error de poner su contraseña en el parámetro de usuario y esto ha quedado guardad en el archivo de logs
 ![[Pasted image 20240328234727.png]]
+
+### crackmapexec
+validamos las credenciales que hemos conseguido
+![[Pasted image 20240328235716.png]]
+
