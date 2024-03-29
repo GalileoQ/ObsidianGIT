@@ -115,5 +115,8 @@ no obtenemos mucha información sobre el ldap
 ![[Pasted image 20240328214121.png]]
 
 ### Enumeración del puerto 445 (SBM)
-tenemos 
+tenemos archivos compartidos 
 ![[Pasted image 20240328214416.png]]
+
+`smbmap`
+smbmap nos permi
