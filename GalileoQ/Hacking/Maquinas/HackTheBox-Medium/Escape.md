@@ -220,6 +220,10 @@ obtenemos conexión con el usuario administrator
 ### WE ARE ROOT
 
 ### SOLUCIÓN ALTERNATIVA
+vamos a solicitar el SID de algún usuario en la maquina para ello usaremos
+```python
+
+```
 
 ### TST
 
