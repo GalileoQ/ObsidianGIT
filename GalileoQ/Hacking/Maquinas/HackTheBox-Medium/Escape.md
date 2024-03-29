@@ -190,3 +190,6 @@ en este punto podemos utilizar la herramienta certify para intentar buscar algú
 ![[Pasted image 20240329155457.png]]
 `podemos ver un Certificate Authorities`
 ![[Pasted image 20240329155617.png]]
+
+`.\Certify.exe find Vulnerable`
+![[Pasted image 20240329160548.png]]
