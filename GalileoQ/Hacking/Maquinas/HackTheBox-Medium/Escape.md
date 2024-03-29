@@ -217,3 +217,4 @@ de este manera obtenemos un hash del usuario administrador el cual podemos usar 
 obtenemos conexión con el usuario administrator
 ![[Pasted image 20240329170655.png]]
 
+### TG
