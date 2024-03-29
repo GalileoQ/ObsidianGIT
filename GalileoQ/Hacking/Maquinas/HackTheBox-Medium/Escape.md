@@ -154,3 +154,7 @@ apuntamos a un recurso que no existe en nuestra maquina atacante por lo cual est
 usaremos john para poder desencriptar este hash
 ![[Pasted image 20240328231411.png]]
 
+### crackmapexec
+validamos las credenciales por smb y por evil-winrm
+![[Pasted image 20240328231824.png]]
+
