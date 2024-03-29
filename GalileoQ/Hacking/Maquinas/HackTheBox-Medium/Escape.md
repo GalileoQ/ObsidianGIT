@@ -226,8 +226,9 @@ Get-LocalUser -Name $env:USERNAME | Select sid
 ```
 ![[Pasted image 20240329181413.png]]
 
-`Usamos el `
+`Usamos el SID que hemos conceguido para obtener un NTLM hash`
 ![[Pasted image 20240329181459.png]]
+
 
 
 
