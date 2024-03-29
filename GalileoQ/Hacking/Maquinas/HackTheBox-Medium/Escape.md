@@ -192,5 +192,5 @@ en este punto podemos utilizar la herramienta certify para intentar buscar algú
 ![[Pasted image 20240329155617.png]]
 
 `.\Certify.exe find /vulnerable`
-esto nos permite identificar las plantillas vulnerables
+esto nos permite identificar las plantillas vulnerables. esta vulnerabilidad se puede explora
 ![[Pasted image 20240329160548.png]]
