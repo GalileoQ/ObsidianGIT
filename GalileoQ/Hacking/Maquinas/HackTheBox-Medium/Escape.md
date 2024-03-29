@@ -186,3 +186,5 @@ logramos cambiar de usuario exitosamente. ahora solo nos queda escalar privilegi
 en este punto podemos utilizar la herramienta certify para intentar buscar algún certificado vulnerable y de esta manera poder escalar privilegios descargaremos la herramienta desde esta ubicación [Certify](https://github.com/ademkanat/Certify.git) 
 ![[Pasted image 20240329155240.png]]
 
+`
+![[Pasted image 20240329155457.png]]
