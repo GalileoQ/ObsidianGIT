@@ -102,5 +102,6 @@ Nmap done: 1 IP address (1 host up) scanned in 140.86 seconds
 podemos ver lo que parece la ipv6 de la maquina
 ![[Pasted image 20240328205655.png]]
 
-`Enumerating srv `
+`Enumerating srv records`
+tenemos un reconocimiento completo de kerbero
 ![[Pasted image 20240328205742.png]]
