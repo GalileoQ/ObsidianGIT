@@ -119,4 +119,6 @@ tenemos archivos compartidos
 ![[Pasted image 20240328214416.png]]
 
 `smbmap`
-smbmap nos permi
+smbmap nos permite ver los permisos que tenemos sobre los archivos compartidos
+![[Pasted image 20240328214546.png]]
+
