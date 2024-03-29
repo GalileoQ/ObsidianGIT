@@ -222,8 +222,15 @@ obtenemos conexión con el usuario administrator
 ### SOLUCIÓN ALTERNATIVA
 vamos a solicitar el SID de algún usuario en la maquina para ello usaremos
 ```python
-
+Get-LocalUser -Name $env:USERNAME | Select sid
 ```
+![[Pasted image 20240329181413.png]]
+
+`Usamos el `
+![[Pasted image 20240329181459.png]]
+
+
+
 
 ### TST
 
