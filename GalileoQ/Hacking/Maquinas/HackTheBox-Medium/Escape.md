@@ -111,5 +111,9 @@ tenemos un reconocimiento completo de kerberos y ldap lo que me hace pensar que 
 ![[Pasted image 20240328210931.png]]
 
 ### Enumeración del puerto 389 (ldap)
-podemos enumerar 
+no obtenemos mucha información sobre el ldap
 ![[Pasted image 20240328214121.png]]
+
+### Enumeración del puerto 445 (SBM)
+tenemos 
+![[Pasted image 20240328214416.png]]
