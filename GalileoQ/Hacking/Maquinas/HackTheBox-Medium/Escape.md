@@ -242,3 +242,5 @@ nonexistent/DC.SEQUEL.HTB Administrator
 
 ![[Pasted image 20240329171828.png]]
 
+
+![[Pasted image 20240330013744.png]]
