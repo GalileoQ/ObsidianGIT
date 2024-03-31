@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "87c25ebf8df213c4",
+        "id": "acd59ea10d8a3edb",
         "type": "tabs",
         "children": [
           {
-            "id": "47052161692eaf1b",
+            "id": "e4748b61fbf6db73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "382cdc45f9875b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,14 +138,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "47052161692eaf1b",
+  "active": "e4748b61fbf6db73",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
     "Pasted image 20240330013744.png",
     "Pasted image 20240329181459.png",
     "Pasted image 20240329181413.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240329171828.png",
     "Pasted image 20240329170655.png",
     "Pasted image 20240329165217.png",
