@@ -1,10 +1,16 @@
 #medium #Linux 
 ### Ping
 ```python
+ping -c 1 10.10.11.248
+PING 10.10.11.248 (10.10.11.248) 56(84) bytes of data.
+64 bytes from 10.10.11.248: icmp_seq=1 ttl=63 time=150 ms
 
+--- 10.10.11.248 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 150.024/150.024/150.024/0.000 ms
 ```
 
-### TTL 
+### TTL 63=Linux
 
 ### nmap
 ```python
@@ -37,3 +43,4 @@ Service Info: Host: nagios.monitored.htb; OS: Linux; CPE: cpe:/o:linux:linux_ker
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Mar 30 20:11:23 2024 -- 1 IP address (1 host up) scanned in 40.13 seconds
 ```
+
