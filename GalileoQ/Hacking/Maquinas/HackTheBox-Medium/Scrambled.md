@@ -130,4 +130,6 @@ tenemos una nota que dice que todas las autenticaciones serán a través de kerb
 ![[Pasted image 20240401183535.png]]
 
 `Suporte tecnico` 
+Al pulsar en la opción Contactar con el soporte informático podremos encontrar una captura de pantalla que revela un posible
+nombre de usuario.
 ![[Pasted image 20240401183808.png]]
