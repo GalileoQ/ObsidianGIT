@@ -126,6 +126,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-no obtenemos mucha información
-![[Pasted image 20240401183149.png]]
+tenemos una nota que dice que todas las autenticaciones serán a traves de 
+![[Pasted image 20240401183535.png]]
 
