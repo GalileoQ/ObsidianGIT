@@ -145,3 +145,7 @@ kerbrute -users creds -domain scrm.local -dc-ip 10.10.11.168 # este comando nos 
 podemos autenticarnos con el usuario. 
 ![[Pasted image 20240401193509.png]]
 
+
+![[Pasted image 20240401194104.png]]
+
+![[Pasted image 20240401194017.png]]
