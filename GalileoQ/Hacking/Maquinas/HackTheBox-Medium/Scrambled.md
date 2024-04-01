@@ -135,4 +135,7 @@ nombre de usuario.
 ![[Pasted image 20240401183808.png]]
 
 ### Kerbrute 
-vamos a validar si el usuario existe a nivel de domi
+vamos a validar si el usuario existe a nivel de dominio usando `kerbrute`
+```python
+
+```
