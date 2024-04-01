@@ -126,7 +126,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-tenemos una nota que dice que todas las autenticaciones serán a través de kerberos 
+tenemos una nota que dice que todas las autenticaciones serán a través de kerberos debido a que han deshabilitado la autenticación NTLM
 ![[Pasted image 20240401183535.png]]
 
 `Suporte tecnico` 
