@@ -137,5 +137,5 @@ nombre de usuario.
 ### Kerbrute 
 vamos a validar si el usuario existe a nivel de dominio usando `kerbrute`
 ```python
-
+kerbrute -users creds -domain scrm.local -dc-ip 10.10.11.168 # este comando nos permite enumerar lo
 ```
