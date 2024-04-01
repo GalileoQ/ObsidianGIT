@@ -141,3 +141,6 @@ kerbrute -users creds -domain scrm.local -dc-ip 10.10.11.168 # este comando nos 
 ```
 ![[Pasted image 20240401192906.png]]
 
+### impacket-smbclient
+podemos autenticarnos con
+![[Pasted image 20240401193509.png]]
