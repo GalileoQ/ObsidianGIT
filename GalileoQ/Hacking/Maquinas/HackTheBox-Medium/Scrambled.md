@@ -10,7 +10,8 @@ PING 10.10.11.168 (10.10.11.168) 56(84) bytes of data.
 rtt min/avg/max/mdev = 155.962/155.962/155.962/0.000 ms
 ```
 
-### TTL 127=Windo
+### TTL 127=Windows
+
 ### nmap
 ```python
 PORT      STATE SERVICE       VERSION
@@ -124,3 +125,4 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Mon Apr  1 18:20:59 2024 -- 1 IP address (1 host up) scanned in 242.46 seconds
 ```
 
+### Enumeración del puerto 80 (http)
