@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "acd59ea10d8a3edb",
+        "id": "b793827e3f0d2333",
         "type": "tabs",
         "children": [
           {
-            "id": "e4748b61fbf6db73",
+            "id": "a27d0f99744143c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e4748b61fbf6db73",
+  "active": "a27d0f99744143c2",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
@@ -175,7 +184,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
