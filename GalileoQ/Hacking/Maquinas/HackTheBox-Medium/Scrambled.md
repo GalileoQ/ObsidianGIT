@@ -134,3 +134,5 @@ Al pulsar en la opción Contactar con el soporte informático podremos encontrar
 nombre de usuario.
 ![[Pasted image 20240401183808.png]]
 
+### Kerbrute 
+vamos a validar si el usuario existe a nivel de domi
