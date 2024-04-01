@@ -145,7 +145,11 @@ kerbrute -users creds -domain scrm.local -dc-ip 10.10.11.168 # este comando nos 
 podemos autenticarnos con el usuario. 
 ![[Pasted image 20240401193509.png]]
 
-
+`PDF`
+encontramos un archivo PDF que podría ser valioso
 ![[Pasted image 20240401194104.png]]
 
+`PDF`
+El archivo PDF nos da una pista de que una base de datos SQL contiene algunas credenciales valiosas y está restringida solo a administradores. También menciona Kerberos. La información anterior nos da una pista para analizar los ataques
+basados en Kerberos contra el servicio SQL
 ![[Pasted image 20240401194017.png]]
