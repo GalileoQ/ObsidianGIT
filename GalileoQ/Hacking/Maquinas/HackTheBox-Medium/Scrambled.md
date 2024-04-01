@@ -129,3 +129,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 tenemos una nota que dice que todas las autenticaciones serán a través de kerberos 
 ![[Pasted image 20240401183535.png]]
 
+`Suporte tecnico` 
+![[Pasted image 20240401183808.png]]
