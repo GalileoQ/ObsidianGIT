@@ -157,6 +157,7 @@ El archivo PDF nos da una pista sobre una base de datos SQL que contiene credenc
 usaremos kerbrute para intentar validar las credenciales del usuario y usaremos el mismo nombre para la contraseña, de esta manera conseguimos un `TGT(Tickect Granting Tickect)` del usuario
 ![[Pasted image 20240401204535.png]]
 
-`impacket-GetUserSPNs` con impacket no podemos conseguir un `TGT(Tickect Granting Tickect)` debido a que la autenticación NTLM esta desactivada. 
+### impacket-GetUserSPNs 
+con impacket no podemos conseguir un `TGT(Tickect Granting Tickect)` debido a que la autenticación NTLM esta desactivada. 
 ![[Pasted image 20240401204858.png]]
 
