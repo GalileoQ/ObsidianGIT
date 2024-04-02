@@ -243,3 +243,7 @@ vamos a copiar el binario de netcat al directorio de trabajo
 ### rlwrap
 obtenemos acceso.
 ![[Pasted image 20240402003357.png]]
+
+### Escalada De Privilegios
+
+![[Pasted image 20240402003931.png]]
