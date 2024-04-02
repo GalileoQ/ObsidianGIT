@@ -171,3 +171,6 @@ podemos conseguir en internet como resolver el problema de la autenticación de 
 `editamos el escript`
 ![[Pasted image 20240401212242.png]]
 
+### 
+
+![[Pasted image 20240401213827.png]]
