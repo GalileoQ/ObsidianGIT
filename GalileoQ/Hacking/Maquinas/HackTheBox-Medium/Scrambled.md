@@ -161,5 +161,8 @@ usaremos kerbrute para intentar validar las credenciales del usuario y usaremos 
 con impacket no podemos conseguir un `TGT(Tickect Granting Tickect)` debido a que la autenticación NTLM esta desactivada. 
 ![[Pasted image 20240401204858.png]]
 
-`si forzamos a que el ataque sea por kerberos (-k) sigue dan`
+`si forzamos a que el ataque sea por kerberos (-k) continuamos con el error`
 ![[Pasted image 20240401210220.png]]
+
+``
+![[Pasted image 20240401210344.png]]
