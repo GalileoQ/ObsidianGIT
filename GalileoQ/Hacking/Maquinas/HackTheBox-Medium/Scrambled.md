@@ -177,3 +177,4 @@ de esta manera podemos conseguir escapar el problema de la autenticación NTLM
 impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -k -dc-host dc1.scrm.local
 ```
 ![[Pasted image 20240401213827.png]]
+
