@@ -209,6 +209,6 @@ impacket-ticketer -spn MSSQLSvc/dc1.scrm.local -domain-sid S-1-5-21-2743207045-1
 
 
 
-### 
+### impacket-mssqlclient
 
 ![[Pasted image 20240401232539.png]]
