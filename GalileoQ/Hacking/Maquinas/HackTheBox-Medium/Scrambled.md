@@ -179,6 +179,10 @@ impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -k -dc-host dc1.scrm.local
 obtenemos un usuario `sqlsvc` esto parece ser la propia cuenta del propio servicio `mssql` 
 ![[Pasted image 20240401213827.png]]
 
+### impacket-GetUserSPNs - request
+de esta manera podemos solicitar un NTMLv2 que es un hash del usuario
+![[Pasted image 20240401215201.png]]
+
 ### john
 
 ![[Pasted image 20240401215129.png]]
