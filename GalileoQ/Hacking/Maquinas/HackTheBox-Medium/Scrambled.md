@@ -198,6 +198,13 @@ vamos a obtener el domain-sid
 `Domain-SID`
 ![[Pasted image 20240401224251.png]]
 
+### impacket-tiketer
+de esta maner
+![[Pasted image 20240401232926.png]]
+
+
+
+
 ### 
 
 ![[Pasted image 20240401232539.png]]
