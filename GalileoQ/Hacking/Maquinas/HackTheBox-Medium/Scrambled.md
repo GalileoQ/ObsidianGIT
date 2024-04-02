@@ -217,6 +217,7 @@ obtenemos acceso a la base la cual podemos enumerar
 enumerando la base de datos podemos obtener información sobre un usuario.
 ![[Pasted image 20240401234423.png]]
 
-### 
-con crackmapexec podemos validar las credenciales que hemos conseguido. las cuales son validas para enumerar el servicio SMB y GTTP
+### crackmapexec
+con crackmapexec podemos validar las credenciales que hemos conseguido. las cuales son validas para enumerar el servicio SMB y HTTP
 ![[Pasted image 20240401235307.png]]
+
