@@ -247,3 +247,7 @@ obtenemos acceso.
 ### Escalada De Privilegios
 tenemos privilegios sobre el servicio `SeImpersonatePrivilege` 
 ![[Pasted image 20240402003931.png]]
+
+### JuicyPotatoNG.exe
+
+![[Pasted image 20240402005618.png]]
