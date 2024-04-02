@@ -154,6 +154,6 @@ El archivo PDF nos da una pista sobre una base de datos SQL que contiene credenc
 ![[Pasted image 20240401194017.png]]
 
 ### Kerbrute
-usaremos kerbrute para intentar validar las credenciales del usuario y usaremos el mismo nombre para la contraseña
+usaremos kerbrute para intentar validar las credenciales del usuario y usaremos el mismo nombre para la contraseña, de esta manera conseguimos un TGT del usuario
 ![[Pasted image 20240401204535.png]]
 
