@@ -214,5 +214,5 @@ obtenemos acceso a la base la cual podemos enumerar
 ![[Pasted image 20240401232539.png]]
 
 ### DataBases
-
+enumerando la base de dato
 ![[Pasted image 20240401234423.png]]
