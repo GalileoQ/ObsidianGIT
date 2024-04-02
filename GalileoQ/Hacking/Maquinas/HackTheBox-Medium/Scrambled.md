@@ -199,7 +199,7 @@ vamos a obtener el domain-sid
 ![[Pasted image 20240401224251.png]]
 
 ### impacket-tiketer
-de esta maner
+de esta manera realizamos un `SILVER TICKET ATTACK` para obtener un `TGS (TICKET GRANTING TICKET` del usuario
 ![[Pasted image 20240401232926.png]]
 
 
