@@ -198,3 +198,6 @@ vamos a obtener el domain-sid
 `Domain-SID`
 ![[Pasted image 20240401224251.png]]
 
+### 
+
+![[Pasted image 20240401232539.png]]
