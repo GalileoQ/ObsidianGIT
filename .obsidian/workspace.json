@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "790ab04e0f26ea0c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "Pasted image 20240401204535.png",
     "Pasted image 20240401194104.png",
@@ -171,7 +172,6 @@
     "Pasted image 20240401183535.png",
     "Pasted image 20240401183149.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
     "Pasted image 20240330013744.png",
     "Pasted image 20240329181459.png",
