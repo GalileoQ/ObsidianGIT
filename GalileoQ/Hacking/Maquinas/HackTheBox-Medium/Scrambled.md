@@ -223,9 +223,9 @@ con crackmapexec podemos validar las credenciales que hemos conseguido. las cual
 
 ### Configuración Database
 ```python
-1. `SP_CONFIGURE "show advanced options", 1 # Este comando habilita la visualización de opciones avanzadas de configuración en el SQL Server. Al establecer el valor en `1`, se activan las opciones avanzadas de configuración. Esto es necesario para cambiar configuraciones específicas del servidor.
+1. SP_CONFIGURE "show advanced options", 1 # Este comando habilita la visualización de opciones avanzadas de configuración en el SQL Server. Al establecer el valor en 1, se activan las opciones avanzadas de configuración. Esto es necesario para cambiar configuraciones específicas del servidor.
 
-2. `RECONFIGURE`
+2. RECONFIGURE # Este comando se utiliza para aplicar cambios en la configuración del servidor después de modificar las opciones. Después de cambiar una configuración con `SP_CONFIGURE`, es necesario ejecutar `RECONFIGURE` para que los cambios surtan efecto.
 
 3. `SP_CONFIGURE "xp_cmdshell", 1`
 
