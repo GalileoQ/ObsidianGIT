@@ -168,3 +168,6 @@ con impacket no podemos conseguir un `TGT(Tickect Granting Tickect)` debido a qu
 podemos conseguir en internet como resolver el problema de la autenticación de la siguiente manera
 ![[Pasted image 20240401210344.png]]
 
+`editamos el escript`
+![[Pasted image 20240401212242.png]]
+
