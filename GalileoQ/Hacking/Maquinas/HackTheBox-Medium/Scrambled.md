@@ -233,3 +233,6 @@ con crackmapexec podemos validar las credenciales que hemos conseguido. las cual
 ```
 ![[Pasted image 20240402000525.png]]
 
+### netcat
+vamos a copiar el binario de netcat al directorio de trabajo 
+![[Pasted image 20240402002216.png]]
