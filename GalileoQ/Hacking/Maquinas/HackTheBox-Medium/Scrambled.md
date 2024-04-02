@@ -191,3 +191,6 @@ usamos john para crackear el hash
 obtenemos un `TGT` para el usuario `sqlsvc`
 ![[Pasted image 20240401221128.png]]
 
+### impacket-getPac 
+vamos a obtener el domain-sid 
+![[Pasted image 20240401224209.png]]
