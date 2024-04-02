@@ -240,3 +240,6 @@ vamos a copiar el binario de netcat al directorio de trabajo
 `Python3 -m http.server 80`
 ![[Pasted image 20240402003310.png]]
 
+### rlwrap
+obtenemos acceso a la maquina 
+![[Pasted image 20240402003357.png]]
