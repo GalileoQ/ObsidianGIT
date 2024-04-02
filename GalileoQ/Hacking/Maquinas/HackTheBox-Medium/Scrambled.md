@@ -232,3 +232,4 @@ con crackmapexec podemos validar las credenciales que hemos conseguido. las cual
 4. `xp_cmdshell "whoami"` # Este comando utiliza `xp_cmdshell` para ejecutar el comando `whoami` del sistema operativo. En este caso, devuelve el nombre del usuario actual del sistema operativo bajo el cual se está ejecutando el proceso de SQL Server.
 ```
 ![[Pasted image 20240402000525.png]]
+
