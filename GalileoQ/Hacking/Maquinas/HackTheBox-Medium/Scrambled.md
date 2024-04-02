@@ -221,3 +221,6 @@ enumerando la base de datos podemos obtener información sobre un usuario.
 con crackmapexec podemos validar las credenciales que hemos conseguido. las cuales son validas para enumerar el servicio SMB y HTTP
 ![[Pasted image 20240401235307.png]]
 
+### 
+
+![[Pasted image 20240402000525.png]]
