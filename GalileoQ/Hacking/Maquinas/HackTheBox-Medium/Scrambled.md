@@ -153,3 +153,7 @@ encontramos un archivo PDF que podría ser valioso
 El archivo PDF nos da una pista sobre una base de datos SQL que contiene credenciales valiosas y está restringida solo para administradores. También menciona Kerberos. nos da una pista para analizar los ataques basados en Kerberos contra el servicio SQL
 ![[Pasted image 20240401194017.png]]
 
+### Kerbrute
+usaremos kerbrute para intentar validar las credenciales del usuario y usaremos el mismo nombre para la contraseña
+![[Pasted image 20240401204535.png]]
+
