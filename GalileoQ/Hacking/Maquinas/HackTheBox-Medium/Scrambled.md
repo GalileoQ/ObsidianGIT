@@ -245,5 +245,5 @@ obtenemos acceso.
 ![[Pasted image 20240402003357.png]]
 
 ### Escalada De Privilegios
-
+tenemos privilegios sobre el servicio `SeImpersonatePrivilege` 
 ![[Pasted image 20240402003931.png]]
