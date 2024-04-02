@@ -188,5 +188,6 @@ usamos john para crackear el hash
 ![[Pasted image 20240401215129.png]]
 
 ### Kerbrute
-obtenemos un `TGT` para el usuario `s`
+obtenemos un `TGT` para el usuario `sqlsvc`
 ![[Pasted image 20240401221128.png]]
+
