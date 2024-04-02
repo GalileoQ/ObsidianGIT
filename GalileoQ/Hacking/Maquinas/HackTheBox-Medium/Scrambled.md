@@ -165,5 +165,6 @@ con impacket no podemos conseguir un `TGT(Tickect Granting Tickect)` debido a qu
 ![[Pasted image 20240401210220.png]]
 
 `error -k options`
-podemos conseguir en internet como resolver el problema de la autenticación
+podemos conseguir en internet como resolver el problema de la autenticación de la siguiente manera
 ![[Pasted image 20240401210344.png]]
+
