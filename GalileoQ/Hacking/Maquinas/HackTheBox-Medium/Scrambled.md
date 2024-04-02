@@ -210,5 +210,5 @@ impacket-ticketer -spn MSSQLSvc/dc1.scrm.local -domain-sid S-1-5-21-2743207045-1
 
 
 ### impacket-mssqlclient
-
+obtenemos acceso a la base 
 ![[Pasted image 20240401232539.png]]
