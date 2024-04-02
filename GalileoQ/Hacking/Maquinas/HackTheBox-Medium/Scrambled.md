@@ -184,5 +184,6 @@ de esta manera podemos solicitar un NTMLv2 que es un hash del usuario
 ![[Pasted image 20240401215201.png]]
 
 ### john
-
+usamos john para crackear el hash
 ![[Pasted image 20240401215129.png]]
+
