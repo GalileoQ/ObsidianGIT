@@ -227,8 +227,8 @@ con crackmapexec podemos validar las credenciales que hemos conseguido. las cual
 
 2. RECONFIGURE # Este comando se utiliza para aplicar cambios en la configuración del servidor después de modificar las opciones. Después de cambiar una configuración con `SP_CONFIGURE`, es necesario ejecutar `RECONFIGURE` para que los cambios surtan efecto.
 
-3. `SP_CONFIGURE "xp_cmdshell", 1`
+3. `SP_CONFIGURE "xp_cmdshell", 1` # Este comando habilita el comando `xp_cmdshell` en SQL Server. `xp_cmdshell` es una función extendida de SQL Server que permite ejecutar comandos del sistema operativo desde dentro de una consulta SQL.
 
-4. `xp_cmdshell "whoami"`
+4. `xp_cmdshell "whoami"` # Este comando utiliza `xp_cmdshell` para ejecutar el comando `whoami` del sistema operativo. En este caso, devuelve el nombre del usuario actual del sistema operativo bajo el cual se está ejecutando el proceso de SQL Server.
 ```
 ![[Pasted image 20240402000525.png]]
