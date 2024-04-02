@@ -238,4 +238,5 @@ vamos a copiar el binario de netcat al directorio de trabajo
 ![[Pasted image 20240402002216.png]]
 
 `Python3 -m http.server 80`
+![[Pasted image 20240402003310.png]]
 
