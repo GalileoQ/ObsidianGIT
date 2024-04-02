@@ -194,3 +194,7 @@ obtenemos un `TGT` para el usuario `sqlsvc`
 ### impacket-getPac 
 vamos a obtener el domain-sid 
 ![[Pasted image 20240401224209.png]]
+
+`Domain-SID`
+![[Pasted image 20240401224251.png]]
+
