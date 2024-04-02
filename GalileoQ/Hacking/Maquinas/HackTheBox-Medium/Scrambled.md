@@ -249,5 +249,5 @@ tenemos privilegios sobre el servicio `SeImpersonatePrivilege`
 ![[Pasted image 20240402003931.png]]
 
 ### JuicyPotatoNG.exe
-
+JuicyPotatoNG.exe es una herramienta utilizada en la explotación de sistemas Windows que aprovecha una característica del sistema operativo conocida como "Token Impersonation" para escalar privilegios. Este concepto se basa en la capacidad de un proceso para hacerse pasar por otro, utilizando los tokens de seguridad del sistema operativo.
 ![[Pasted image 20240402005618.png]]
