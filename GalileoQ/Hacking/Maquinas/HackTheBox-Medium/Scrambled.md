@@ -179,3 +179,6 @@ impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -k -dc-host dc1.scrm.local
 obtenemos un usuario `sqlsvc` esto parece ser la propia cuenta del propio servicio `mssql` 
 ![[Pasted image 20240401213827.png]]
 
+### john
+
+![[Pasted image 20240401215129.png]]
