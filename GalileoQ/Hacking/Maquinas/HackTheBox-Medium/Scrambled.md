@@ -241,5 +241,5 @@ vamos a copiar el binario de netcat al directorio de trabajo
 ![[Pasted image 20240402003310.png]]
 
 ### rlwrap
-obtenemos acceso a la maquina 
+obtenemos acceso.
 ![[Pasted image 20240402003357.png]]
