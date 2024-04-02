@@ -176,6 +176,6 @@ de esta manera podemos conseguir escapar el problema de la autenticación NTLM
 ```python
 impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -k -dc-host dc1.scrm.local
 ```
-obtenemos un usuario sql
+obtenemos un usuario `sqlsvc` esto parece ser la propia cuenta del propio servicio `mssql` 
 ![[Pasted image 20240401213827.png]]
 
