@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hashca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md"
               }
             }
           }
@@ -148,6 +149,13 @@
   },
   "active": "a27d0f99744143c2",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+    "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "imagenes/Pasted image 20240402005618.png",
     "imagenes/Pasted image 20240402003931.png",
     "imagenes/Pasted image 20240402003357.png",
@@ -158,14 +166,10 @@
     "imagenes/Pasted image 20240402000525.png",
     "imagenes/Pasted image 20240401235307.png",
     "imagenes/Pasted image 20240401234423.png",
-    "imagenes/Pasted image 20240401232926.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
@@ -181,9 +185,6 @@
     "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
     "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 111 - NFS.md",
-    "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
-    "GalileoQ/Hacking/Hacking Puertos/Puerto 445 - SMB.md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
