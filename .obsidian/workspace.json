@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e645ca19b221ee41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "790ab04e0f26ea0c",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,19 +169,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a27d0f99744143c2",
+  "active": "e645ca19b221ee41",
   "lastOpenFiles": [
-    "Pasted image 20240402010411.png",
-    "Pasted image 20240402005618.png",
-    "Pasted image 20240402003931.png",
-    "Pasted image 20240402003357.png",
-    "Pasted image 20240402003310.png",
-    "Pasted image 20240402002544.png",
-    "Pasted image 20240402002216.png",
-    "Pasted image 20240402000732.png",
-    "Pasted image 20240402000525.png",
-    "Pasted image 20240401235307.png",
-    "Pasted image 20240401234423.png",
+    "imagenes/Pasted image 20240402005618.png",
+    "imagenes/Pasted image 20240402003931.png",
+    "imagenes/Pasted image 20240402003357.png",
+    "imagenes/Pasted image 20240402003310.png",
+    "imagenes/Pasted image 20240402002544.png",
+    "imagenes/Pasted image 20240402002216.png",
+    "imagenes/Pasted image 20240402000732.png",
+    "imagenes/Pasted image 20240402000525.png",
+    "imagenes/Pasted image 20240401235307.png",
+    "imagenes/Pasted image 20240401234423.png",
+    "imagenes/Pasted image 20240401232926.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
