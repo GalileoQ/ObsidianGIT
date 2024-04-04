@@ -301,5 +301,6 @@ vamos a levantar un servidor con chisel por el puerto 1133
 ```
 ![[Pasted image 20240404180732.png]]
 
-
+`maquina atacante`
+obtenemos una session#1 por lo cual estamos haciendo un `Port-forwarding` 
 ![[Pasted image 20240404181342.png]]
