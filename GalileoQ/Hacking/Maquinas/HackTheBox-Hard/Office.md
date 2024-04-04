@@ -198,6 +198,8 @@ hashcat -m 19900 hash /usr/share/wordlists/rockyou.txt
 tenemos al joomla
 ![[Pasted image 20240404130117.png]]
 
-
-
+subimos un archivo que contenga un 
 ![[Pasted image 20240404132235.png]]
+
+
+![[Pasted image 20240404133138.png]]
