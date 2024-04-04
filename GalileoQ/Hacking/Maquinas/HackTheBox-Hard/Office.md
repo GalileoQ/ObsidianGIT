@@ -165,5 +165,5 @@ descargamos el recurso compartido
 ![[Pasted image 20240404114218.png]]
 
 ### Wireshack
-abrimos el archivo .pcap que hemos ob
+abrimos el archivo .pcap que hemos obtenido y vamos buscar alguna conexión donde podamos extraer información \
 ![[Pasted image 20240404114623.png]]
