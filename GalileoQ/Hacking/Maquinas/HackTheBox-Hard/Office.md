@@ -141,3 +141,6 @@ $ python/python3 joomla.py
 este exploit aprovecha una vulnerabilidad en joomlab lo cual permite leer la base de datos y obtener las credenciales del usuario root
 ![[Pasted image 20240403235809.png]]
 
+`credenciales`
+las credenciales que hemos conseguido no son validas para ingresar al CMS
+![[Pasted image 20240404000232.png]]
