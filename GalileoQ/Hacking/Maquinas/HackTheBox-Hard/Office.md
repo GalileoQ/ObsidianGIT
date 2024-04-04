@@ -314,5 +314,4 @@ esta es una pagina para hacer la aplicación de un curriculun para un trabajo.
 ![[Pasted image 20240404181920.png]]
 
 
-`msfcenom`
-![[Pasted image 20240404183552.png]]
+![[Pasted image 20240404184548.png]]
