@@ -279,3 +279,9 @@ meterpreter > run post/windows/manage/run_as_psh USER=tstark PASS=playboy69 EXE=
 con las credenciales podemos hacer el cambio para una cmd del usuario en cuestion
 ![[Pasted image 20240404163052.png]]
 
+### netstat
+con este comando podemos ver y filtrar los puerto por TCP 
+```python
+netstat -an | findstr /C:"TCP"
+```
+![[Pasted image 20240404164542.png]]
