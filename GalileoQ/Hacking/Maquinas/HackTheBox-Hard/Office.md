@@ -102,3 +102,7 @@ probamos con dnsenum pero tampoco podemos enumerar nada
 ### Enumeración del puerto 80 (http)
 
 ![[Pasted image 20240403222016.png]]
+
+### Fuzzing con ffuz
+obtenemos un montón de directorios 
+![[Pasted image 20240403231621.png]]
