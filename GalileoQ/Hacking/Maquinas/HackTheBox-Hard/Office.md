@@ -119,3 +119,6 @@ encontramos un subdirectorio dentro de administrator llamado manifests. vamos a 
 ![[Pasted image 20240403234220.png]]
 
 `http://office.htb/administrator/manifests/files/joomla.xml`
+enumerando los archivos llegamos a esta ruta donde conseguimos un archivo joomla.xml que nos muestra la versión del CMS
+![[Pasted image 20240403234348.png]]
+
