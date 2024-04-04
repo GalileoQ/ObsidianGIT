@@ -306,5 +306,9 @@ obtenemos una session#1 por lo cual estamos haciendo un `Port-forwarding` envian
 ![[Pasted image 20240404181342.png]]
 
 ### Enumeración del puerto 8083 de la maquina victima (Port-forwarding)
-obtenemos acceso a una pagina web diferente que esta corriendo en local. vemos que hay un apartado para  
+obtenemos acceso a una pagina web diferente que esta corriendo en local. vemos que hay un apartado para enviar aplicaciones 
 ![[Pasted image 20240404181835.png]]
+
+`Job Application Submission`
+
+![[Pasted image 20240404181920.png]]
