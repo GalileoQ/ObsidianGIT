@@ -144,3 +144,4 @@ este exploit aprovecha una vulnerabilidad en joomlab lo cual permite leer la bas
 `credenciales`
 las credenciales que hemos conseguido no son validas para ingresar al CMS
 ![[Pasted image 20240404000232.png]]
+
