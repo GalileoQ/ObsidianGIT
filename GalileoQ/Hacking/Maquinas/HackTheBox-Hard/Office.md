@@ -310,5 +310,5 @@ obtenemos acceso a una pagina web diferente que esta corriendo en local. vemos q
 ![[Pasted image 20240404181835.png]]
 
 `Job Application Submission`
-
+esta es una pagina para hacer la aplicación de un curriculum para un trabajo. 
 ![[Pasted image 20240404181920.png]]
