@@ -92,8 +92,12 @@ tenemos el nombre del dominio y el DNS así que lo agregaremos al host
 ![[Pasted image 20240403221531.png]]
 
 ### Enumeración del puerto 53 (Domain)
-podemos ver una cookie que podriamos guardar
+podemos ver una cookie que podríamos guardar
 ![[Pasted image 20240403222134.png]]
+
+`dnsenum`
+probamos con dnsenum pero tampoco podemos enumerar nada
+![[Pasted image 20240403223945.png]]
 
 ### Enumeración del puerto 80 (http)
 
