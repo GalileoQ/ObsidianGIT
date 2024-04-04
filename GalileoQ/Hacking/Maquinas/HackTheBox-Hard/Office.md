@@ -87,4 +87,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 142.64 seconds
 ```
 
+### Dominio
+tenemos el nombre del dominio y el DNS así que lo agregaremos al host
+![[Pasted image 20240403221531.png]]
+
+
 ### Enumeración del puerto 53 (Domain)
