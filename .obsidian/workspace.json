@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/John The Ripper.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "a27d0f99744143c2",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
-    "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "imagenes/Pasted image 20240402005618.png",
