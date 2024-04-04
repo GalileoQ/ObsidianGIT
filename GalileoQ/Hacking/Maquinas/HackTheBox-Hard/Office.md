@@ -104,5 +104,7 @@ probamos con dnsenum pero tampoco podemos enumerar nada
 ![[Pasted image 20240403222016.png]]
 
 ### Fuzzing con ffuz
-obtenemos un montón de directorios 
-![[Pasted image 20240403231858.png]]]]
+obtenemos un montón de directorios. administrator parece interesante
+![[Pasted image 20240403231931.png]]
+
+`administrator`
