@@ -10,6 +10,8 @@ PING 10.10.11.3 (10.10.11.3) 56(84) bytes of data.
 rtt min/avg/max/mdev = 153.009/153.009/153.009/0.000 ms
 ```
 
+### TTL 127 = Windows
+
 ### nmap
 ```python
 PORT      STATE SERVICE       VERSION
