@@ -239,6 +239,7 @@ con este código podemos crear un php donde se pueden subir archivos
 vamos a bajarnos este repositorio el cual contiene una shell interactiva que podemos verla desde la web https://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
 
-subimos la shell
+subimos la shell de p0wny
 ![[Pasted image 20240404133431.png]]
 
+![[Pasted image 20240404143029.png]]
