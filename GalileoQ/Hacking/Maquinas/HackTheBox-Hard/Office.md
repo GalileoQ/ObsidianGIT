@@ -269,5 +269,5 @@ vamos a crear un nuevo proceso con una cmd y migramos hacia ese proceso
 ![[Pasted image 20240404144501.png]]
 
 ### Runas
-
+vamos a utilizar runas para poder invocar una nueva shell con las credenciales de otro usuario []
 ![[Pasted image 20240404145243.png]]
