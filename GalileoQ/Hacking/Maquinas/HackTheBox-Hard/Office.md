@@ -111,3 +111,9 @@ obtenemos un montón de directorios. administrator parece interesante
 obtenemos el panel de login pero no tenemos credenciales validas 
 ![[Pasted image 20240403232007.png]]
 
+`manifests`
+![[Pasted image 20240403234159.png]]
+
+`manifests`
+encontramos un subdirectorio dentro de ad
+![[Pasted image 20240403234220.png]]
