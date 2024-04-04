@@ -122,8 +122,8 @@ encontramos un subdirectorio dentro de administrator llamado manifests. vamos a 
 enumerando los archivos llegamos a esta ruta donde conseguimos un archivo joomla.xml que nos muestra la versión del CMS
 ![[Pasted image 20240403234348.png]]
 
-### Vulnerabilidad 
-
+### Vulnerabilidad CVE-2023-23752 joomla
+Es un bypass de autenticación que resulta en una fuga de información en los servidores Joomla!.
 ![[Pasted image 20240403235334.png]]
 
 
