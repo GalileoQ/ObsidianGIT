@@ -93,6 +93,7 @@ tenemos el nombre del dominio y el DNS así que lo agregaremos al host
 
 ### Enumeración del puerto 53 (Domain)
 
+![[Pasted image 20240403222134.png]]
 
 ### Enumeración del puerto 80 (http)
 
