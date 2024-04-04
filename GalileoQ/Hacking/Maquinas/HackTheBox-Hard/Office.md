@@ -247,4 +247,9 @@ de esta manera invocamos la shell interactiva que acabamos de subir y desde aqu√
 ![[Pasted image 20240404143029.png]]
 
 ### msfvenom
-vamos a crear un payload para windows que nos permita obtener una meterpreter reversse 
+vamos a crear un payload para windows que nos permita obtener una meterpreter reverse shell
+
+
+`curl IP`
+
+![[Pasted image 20240404143654.png]]
