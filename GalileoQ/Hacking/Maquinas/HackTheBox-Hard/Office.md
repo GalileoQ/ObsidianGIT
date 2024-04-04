@@ -264,3 +264,7 @@ aqui hacemos un curl a la ip para subir la shell que acabamos de crear
 estaremos a la escucha en el meterpreter utilizando multi/handler y con los parametros
 ![[Pasted image 20240404144206.png]]
 
+`migrate`
+vamos a crear un nuevo proceso con una cmd y migramos hacia ese proceso
+![[Pasted image 20240404144501.png]]
+
