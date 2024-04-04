@@ -151,4 +151,8 @@ vamos a enumerar usuarios utilizando `kerbrute` de esta manera obtenemos una lis
 
 ### crackmapexec
 validamos todos los usuarios con la contraseña que hemos conseguido anterior mente y encontramos que uno de los usuarios tiene permisos para leer los recursos compartidos
+```python
+crackmapexec smb 10.10.11.3 -u usuario.txt -p 'H0lOgrams4reTakIng0Ver754!' --shares
+```
 ![[Pasted image 20240404112750.png]]
+
