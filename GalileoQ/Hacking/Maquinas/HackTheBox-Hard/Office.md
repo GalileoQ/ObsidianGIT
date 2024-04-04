@@ -126,6 +126,13 @@ enumerando los archivos llegamos a esta ruta donde conseguimos un archivo joomla
 Es un bypass de autenticación que resulta en una fuga de información en los servidores Joomla!.
 ![[Pasted image 20240403235334.png]]
 
+`descarga del repositorio`
+```python
+$ git clone https://github.com/Pari-Malam/CVE-2023-23752
+$ cd CVE-2023-23752
+$ pip/pip3 install -r requirements.txt
+$ python/python3 joomla.py
+```
 
 `pip install`
 ![[Pasted image 20240403235224.png]]
