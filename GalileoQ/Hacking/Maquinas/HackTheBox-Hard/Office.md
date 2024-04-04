@@ -248,7 +248,10 @@ de esta manera invocamos la shell interactiva que acabamos de subir y desde aqu√
 
 ### msfvenom
 vamos a crear un payload para windows que nos permita obtener una meterpreter reverse shell
+```python
 
+```
+![[Pasted image 20240404143935.png]]
 
 `curl IP`
 
