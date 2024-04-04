@@ -146,6 +146,9 @@ las credenciales que hemos conseguido no son validas para ingresar al CMS
 ![[Pasted image 20240404000232.png]]
 
 ### kerbrute
-vamos a enumerar usuarios utilizando kerbrute
+vamos a enumerar usuarios utilizando `kerbrute` de esta manera obtenemos una lista de usuario que podemos validar
 ![[Pasted image 20240404110458.png]]
 
+### crackmapexec
+validamos todos los usuarios con la contraseña que hemos conseguido anterior mente y 
+![[Pasted image 20240404112750.png]]
