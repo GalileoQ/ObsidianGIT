@@ -286,3 +286,4 @@ netstat -an | findstr /C:"TCP"
 ```
 ![[Pasted image 20240404164542.png]]
 
+### Portforwarding 
