@@ -280,8 +280,9 @@ con las credenciales podemos hacer el cambio para una cmd del usuario en cuestio
 ![[Pasted image 20240404163052.png]]
 
 ### netstat
-con este comando podemos ver y filtrar los puerto por TCP 
+con este comando podemos ver los puertos que están a la escucha y filtrar los puerto por TCP 
 ```python
 netstat -an | findstr /C:"TCP"
 ```
 ![[Pasted image 20240404164542.png]]
+
