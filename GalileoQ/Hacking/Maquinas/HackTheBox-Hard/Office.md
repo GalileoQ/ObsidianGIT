@@ -292,3 +292,4 @@ vamos a levantar un servidor con chisel por el puerto 1133
 
 `maquina victima`
 ![[Pasted image 20240404173840.png]]
+
