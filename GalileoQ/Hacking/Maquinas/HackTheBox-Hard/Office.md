@@ -161,5 +161,6 @@ obtenemos lectura para un recurso compartido llamado SOC Analysis
 ![[Pasted image 20240404113839.png]]
 
 `--download`
-descargamos 
+descargamos el recurso compartido
 ![[Pasted image 20240404114218.png]]
+
