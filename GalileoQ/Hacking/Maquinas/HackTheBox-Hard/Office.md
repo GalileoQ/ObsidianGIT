@@ -115,5 +115,7 @@ obtenemos el panel de login pero no tenemos credenciales validas
 ![[Pasted image 20240403234159.png]]
 
 `manifests`
-encontramos un subdirectorio dentro de ad
+encontramos un subdirectorio dentro de administrator llamado manifests. vamos a enumerar
 ![[Pasted image 20240403234220.png]]
+
+`http://office.htb/administrator/manifests/files/joomla.xml`
