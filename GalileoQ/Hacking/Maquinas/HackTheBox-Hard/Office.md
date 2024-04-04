@@ -263,3 +263,4 @@ aqui hacemos un curl a la ip para subir la shell que acabamos de crear
 ### meterpreter 
 estaremos a la escucha en el meterpreter utilizando multi/handler y con los parametros
 ![[Pasted image 20240404144206.png]]
+
