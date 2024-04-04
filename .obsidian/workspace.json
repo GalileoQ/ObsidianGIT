@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50a78fd53b0d9652",
+  "active": "452d0c64f08bbd34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "Pasted image 20240403232007.png",
     "Pasted image 20240403231931.png",
