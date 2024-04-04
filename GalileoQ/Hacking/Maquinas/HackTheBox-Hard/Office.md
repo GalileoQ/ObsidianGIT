@@ -271,3 +271,4 @@ vamos a crear un nuevo proceso con una cmd y migramos hacia ese proceso
 ### Runas
 vamos a utilizar runas para poder invocar una nueva shell con las credenciales de otro usuario [Runas](![[Pasted image 20240404145459.png]]) creamos un servidor con `python3` y lo subimos a la maquina victima 
 ![[Pasted image 20240404145243.png]]
+
