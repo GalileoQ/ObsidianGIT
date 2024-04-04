@@ -167,3 +167,7 @@ descargamos el recurso compartido
 ### Wireshack
 abrimos el archivo .pcap que hemos obtenido y vamos buscar alguna conexión donde podamos extraer información \
 ![[Pasted image 20240404114623.png]]
+
+### cipher
+vamos a filtrar por kerberos y 
+![[Pasted image 20240404121121.png]]
