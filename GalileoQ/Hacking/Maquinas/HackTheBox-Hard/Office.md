@@ -108,3 +108,5 @@ obtenemos un montón de directorios. administrator parece interesante
 ![[Pasted image 20240403231931.png]]
 
 `administrator`
+podemos ver un CMS joomla. 
+![[Pasted image 20240403232007.png]]
