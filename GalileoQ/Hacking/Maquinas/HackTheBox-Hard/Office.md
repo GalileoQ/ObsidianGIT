@@ -177,5 +177,5 @@ haciendo una recopilación de datos podemos obtener los parámetros suficientes 
 ![[Pasted image 20240404122307.png]]
 
 ### ejemplos de hash
-el ejemplo 19900 pertenece a `autentication `
+el ejemplo 19900 pertenece a `autenticacion de kerberos 18` la misma que nos indica el wireshark asi usaremos este enemplo para crear nuestro hash con los datos que hemos o
 ![[Pasted image 20240404122442.png]]
