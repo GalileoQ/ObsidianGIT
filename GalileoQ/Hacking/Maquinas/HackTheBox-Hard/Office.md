@@ -157,5 +157,6 @@ crackmapexec smb 10.10.11.3 -u usuario.txt -p 'H0lOgrams4reTakIng0Ver754!' --sha
 ![[Pasted image 20240404112750.png]]
 
 ### smbmap
-obtenemos 
+obtenemos lectura para un recurso compartido llamado SOC Analysis
 ![[Pasted image 20240404113839.png]]
+
