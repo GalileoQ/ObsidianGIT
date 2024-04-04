@@ -138,5 +138,5 @@ $ python/python3 joomla.py
 ![[Pasted image 20240403235224.png]]
 
 ### joomla.py
-
+este exploit aprovehca una vulner
 ![[Pasted image 20240403235809.png]]
