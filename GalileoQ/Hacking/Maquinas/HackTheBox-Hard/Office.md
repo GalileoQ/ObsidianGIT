@@ -138,5 +138,6 @@ $ python/python3 joomla.py
 ![[Pasted image 20240403235224.png]]
 
 ### joomla.py
-este exploit aprovehca una vulner
+este exploit aprovecha una vulnerabilidad en joomlab lo cual permite leer la base de datos y obtener las credenciales del usuario root
 ![[Pasted image 20240403235809.png]]
+
