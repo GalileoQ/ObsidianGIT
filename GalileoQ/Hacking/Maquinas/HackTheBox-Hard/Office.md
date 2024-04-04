@@ -198,6 +198,7 @@ hashcat -m 19900 hash /usr/share/wordlists/rockyou.txt
 tenemos al joomla
 ![[Pasted image 20240404130117.png]]
 
+`administrator/template`
 `subimos un archivo que contenga un uploader para poder verlo desde la web`
 ```python
 <?php
@@ -228,7 +229,6 @@ if( $_POST['_upl'] == "Upload" ) {
 }
 ?>
 ```
-
 ![[Pasted image 20240404132235.png]]
 
 `git clone`
