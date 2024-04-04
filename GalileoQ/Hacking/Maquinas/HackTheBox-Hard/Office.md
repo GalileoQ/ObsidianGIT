@@ -124,6 +124,7 @@ enumerando los archivos llegamos a esta ruta donde conseguimos un archivo joomla
 
 ### Vulnerabilidad 
 
+![[Pasted image 20240403235334.png]]
 
 
 `pip install`
