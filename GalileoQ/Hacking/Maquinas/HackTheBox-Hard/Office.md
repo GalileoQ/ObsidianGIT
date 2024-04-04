@@ -136,3 +136,5 @@ $ python/python3 joomla.py
 
 `pip install`
 ![[Pasted image 20240403235224.png]]
+
+### sxploit 
