@@ -232,7 +232,7 @@ if( $_POST['_upl'] == "Upload" ) {
 ![[Pasted image 20240404132235.png]]
 
 `git clone`
-vamos a copiarnos este repositorio donde tenemos una shel https://github.com/flozz/p0wny-shell
+con este codigo podemos crear un php donde se pueden subir ashttps://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
 
 subimos la shell
