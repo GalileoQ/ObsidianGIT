@@ -160,3 +160,6 @@ crackmapexec smb 10.10.11.3 -u usuario.txt -p 'H0lOgrams4reTakIng0Ver754!' --sha
 obtenemos lectura para un recurso compartido llamado SOC Analysis
 ![[Pasted image 20240404113839.png]]
 
+`--download`
+descargamos 
+![[Pasted image 20240404114218.png]]
