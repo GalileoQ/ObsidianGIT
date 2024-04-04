@@ -188,3 +188,4 @@ reemplazando todos los parámetros del ejemplo por los que hemos obtenido creamo
 iniciamos `hashcat` 
 ![[Pasted image 20240404123310.png]]
 
+![[Pasted image 20240404124233.png]]
