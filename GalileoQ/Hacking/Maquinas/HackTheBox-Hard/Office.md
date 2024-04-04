@@ -176,3 +176,6 @@ vamos a filtrar por kerberos y analizamos cada una de las conexiones en este cas
 haciendo una recopilación de datos podemos obtener los parámetros suficientes para armar nuestro hash de kerberos 
 ![[Pasted image 20240404122307.png]]
 
+### ejemplos de hash
+el ejemplo 19900 pertenece a `autentication `
+![[Pasted image 20240404122442.png]]
