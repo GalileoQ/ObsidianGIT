@@ -268,3 +268,6 @@ estaremos a la escucha en el meterpreter utilizando multi/handler y con los para
 vamos a crear un nuevo proceso con una cmd y migramos hacia ese proceso
 ![[Pasted image 20240404144501.png]]
 
+### Runas
+
+![[Pasted image 20240404145243.png]]
