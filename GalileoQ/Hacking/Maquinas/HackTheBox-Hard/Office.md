@@ -231,8 +231,12 @@ if( $_POST['_upl'] == "Upload" ) {
 ```
 ![[Pasted image 20240404132235.png]]
 
+`uploader`
+con este código podemos crear un php donde se pueden subir archivos 
+![[Pasted image 20240404142806.png]]
+
 `git clone`
-con este codigo podemos crear un php donde se pueden subir ashttps://github.com/flozz/p0wny-shell
+vamos a bajarnos este repositoriohttps://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
 
 subimos la shell
