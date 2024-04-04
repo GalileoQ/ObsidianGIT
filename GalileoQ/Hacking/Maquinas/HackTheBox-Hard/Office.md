@@ -205,3 +205,5 @@ tenemos al joomla
 vamos a copiarnos este repositorio donde tenemos una shel https://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
 
+subimos la shell
+![[Pasted image 20240404133431.png]]
