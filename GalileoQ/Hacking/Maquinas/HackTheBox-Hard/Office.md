@@ -195,5 +195,6 @@ hashcat -m 19900 hash /usr/share/wordlists/rockyou.txt
 ![[Pasted image 20240404124233.png]]
 
 ### joomla
-tenemos al joomla 
+tenemos al joomla
 ![[Pasted image 20240404130117.png]]
+
