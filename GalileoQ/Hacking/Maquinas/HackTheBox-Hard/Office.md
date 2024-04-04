@@ -201,5 +201,7 @@ tenemos al joomla
 `subimos un archivo que contenga un uploader para poder verlo desde la web`
 ![[Pasted image 20240404132235.png]]
 
-
+`git clone`
+vamos a copiarnos este repositorio donde tenemos una shel https://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
+
