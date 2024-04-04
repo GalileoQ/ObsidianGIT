@@ -150,5 +150,5 @@ vamos a enumerar usuarios utilizando `kerbrute` de esta manera obtenemos una lis
 ![[Pasted image 20240404110458.png]]
 
 ### crackmapexec
-validamos todos los usuarios con la contraseña que hemos conseguido anterior mente y 
+validamos todos los usuarios con la contraseña que hemos conseguido anterior mente y encontramos que uno de los usuarios tiene permisos para leer los recursos compartidos
 ![[Pasted image 20240404112750.png]]
