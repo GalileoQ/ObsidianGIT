@@ -184,8 +184,7 @@ el ejemplo 19900 pertenece a `autenticacion de kerberos 18` la misma que nos ind
 reemplazando todos los parámetros del ejemplo por los que hemos obtenido creamos el hash completo para luego decodearlo
 ![[Pasted image 20240404123125.png]]
 
-![[Pasted image 20240404123755.png]]
-
 ### hashcat 
 iniciamos `hashcat` 
 ![[Pasted image 20240404123310.png]]
+
