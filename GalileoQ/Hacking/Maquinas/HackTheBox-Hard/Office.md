@@ -273,5 +273,6 @@ vamos a utilizar runas para poder invocar una nueva shell con las credenciales d
 ![[Pasted image 20240404145243.png]]
 
 ### reverse-sehll
-vamos a usar la reverse shell que hemos generado anteriormente 
+vamos a usar la reverse shell que hemos generado anteriormente para usarla con el script de runas y poder enviarnos una reverse shell con otro usuario
 ![[Pasted image 20240404155108.png]]
+
