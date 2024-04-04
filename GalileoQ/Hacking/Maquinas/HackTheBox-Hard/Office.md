@@ -105,4 +105,4 @@ probamos con dnsenum pero tampoco podemos enumerar nada
 
 ### Fuzzing con ffuz
 obtenemos un montón de directorios 
-![[Pasted image 20240403231621.png]]
+![[Pasted image 20240403231858.png]]]]
