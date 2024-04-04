@@ -169,5 +169,5 @@ abrimos el archivo .pcap que hemos obtenido y vamos buscar alguna conexión dond
 ![[Pasted image 20240404114623.png]]
 
 ### cipher
-vamos a filtrar por kerberos y 
+vamos a filtrar por kerberos y analizamos cada una de las conexiones en este caso podemos ver el cipher de una de las conexiones y tambien en etype (18) este es elwireshark
 ![[Pasted image 20240404121121.png]]
