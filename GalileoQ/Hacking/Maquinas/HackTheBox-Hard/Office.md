@@ -286,7 +286,7 @@ netstat -an | findstr /C:"TCP"
 ```
 ![[Pasted image 20240404164542.png]]
 
-### Portforwarding 
+### Port-forwarding 
 vamos a levantar un servidor con chisel por el puerto 1133
 ![[Pasted image 20240404173728.png]]
 
@@ -300,3 +300,6 @@ vamos a levantar un servidor con chisel por el puerto 1133
 # Este comando establece un túnel con Chisel desde la máquina cliente (maquina Windows victima) hacia el servidor Chisel (Maquina atacante linux) en la dirección IP `10.10.14.207` y el puerto `1133`. y configura una redirección para el puerto `8083`, redirigiendo el tráfico del cliente chisel al puerto `8083` del servidor chisel. 
 ```
 ![[Pasted image 20240404180732.png]]
+
+
+![[Pasted image 20240404181342.png]]
