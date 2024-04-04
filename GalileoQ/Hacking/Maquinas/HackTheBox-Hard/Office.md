@@ -305,5 +305,6 @@ vamos a levantar un servidor con chisel por el puerto 1133
 obtenemos una session#1 por lo cual estamos haciendo un `Port-forwarding` enviando el puerto 8083 de la maquina victima hacia el puerto 8083 de la maquina atacante 
 ![[Pasted image 20240404181342.png]]
 
-### Enumeración del puerto 8083 de la maquina victima 
+### Enumeración del puerto 8083 de la maquina victima (Port-forwarding)
+obtenemos acceso a una pagina web diferente que esta corriendo en local. 
 ![[Pasted image 20240404181644.png]]
