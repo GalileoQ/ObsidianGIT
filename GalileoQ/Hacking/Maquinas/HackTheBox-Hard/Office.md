@@ -172,3 +172,7 @@ abrimos el archivo .pcap que hemos obtenido y vamos buscar alguna conexión dond
 vamos a filtrar por kerberos y analizamos cada una de las conexiones en este caso podemos ver el cipher de una de las conexiones y tambien en etype (18) este es el tipo de has que wireshark nos indica y finalmente el nombre `tstark`
 ![[Pasted image 20240404121922.png]]
 
+### datos
+haciendo una recopilación de datos podemos obtener los parámetros suficientes para armar nuestro hash de kerberos 
+![[Pasted image 20240404122307.png]]
+
