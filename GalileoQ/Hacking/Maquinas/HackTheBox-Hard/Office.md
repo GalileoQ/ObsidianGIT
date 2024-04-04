@@ -243,5 +243,6 @@ vamos a bajarnos este repositorio el cual contiene una shell interactiva que pod
 ![[Pasted image 20240404133431.png]]
 
 `cambiamos la ruta de error.php por la de shell.php`
-de esta manera invocamos la shell interactiva que acabamos de subir y desde
+de esta manera invocamos la shell interactiva que acabamos de subir y desde aquí tenemos ejecución de comandos
 ![[Pasted image 20240404143029.png]]
+
