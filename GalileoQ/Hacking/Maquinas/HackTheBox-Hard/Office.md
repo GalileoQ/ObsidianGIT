@@ -187,5 +187,9 @@ reemplazando todos los parámetros del ejemplo por los que hemos obtenido creamo
 ### hashcat 
 iniciamos `hashcat` 
 ![[Pasted image 20240404123310.png]]
+
 `recuerda probar diferentes diccionarios`
+```python
+hashcat -m 19900 hash /usr/share/wordlists/rockyou.txt
+```
 ![[Pasted image 20240404124233.png]]
