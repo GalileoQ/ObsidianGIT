@@ -236,8 +236,9 @@ con este código podemos crear un php donde se pueden subir archivos
 ![[Pasted image 20240404142806.png]]
 
 `git clone`
-vamos a bajarnos este repositoriohttps://github.com/flozz/p0wny-shell
+vamos a bajarnos este repositorio el cual contiene una shell interactiva que podemos verla desde la web https://github.com/flozz/p0wny-shell
 ![[Pasted image 20240404133138.png]]
 
 subimos la shell
 ![[Pasted image 20240404133431.png]]
+
