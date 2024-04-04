@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "a27d0f99744143c2",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Red.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
