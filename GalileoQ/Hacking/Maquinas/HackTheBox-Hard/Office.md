@@ -287,3 +287,8 @@ netstat -an | findstr /C:"TCP"
 ![[Pasted image 20240404164542.png]]
 
 ### Portforwarding 
+vamos a levantar un servidor
+![[Pasted image 20240404173728.png]]
+
+`maquina victima`
+![[Pasted image 20240404173643.png]]
