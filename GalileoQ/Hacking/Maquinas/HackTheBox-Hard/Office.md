@@ -287,8 +287,8 @@ netstat -an | findstr /C:"TCP"
 ![[Pasted image 20240404164542.png]]
 
 ### Portforwarding 
-vamos a levantar un servidor
+vamos a levantar un servidor con chisel por el puerto 1133
 ![[Pasted image 20240404173728.png]]
 
 `maquina victima`
-![[Pasted image 20240404173643.png]]
+![[Pasted image 20240404173840.png]]
