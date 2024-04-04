@@ -122,3 +122,9 @@ encontramos un subdirectorio dentro de administrator llamado manifests. vamos a 
 enumerando los archivos llegamos a esta ruta donde conseguimos un archivo joomla.xml que nos muestra la versión del CMS
 ![[Pasted image 20240403234348.png]]
 
+### Vulnerabilidad 
+
+
+
+`pip install`
+![[Pasted image 20240403235224.png]]
