@@ -246,3 +246,5 @@ vamos a bajarnos este repositorio el cual contiene una shell interactiva que pod
 de esta manera invocamos la shell interactiva que acabamos de subir y desde aquí tenemos ejecución de comandos
 ![[Pasted image 20240404143029.png]]
 
+### msfvenom
+vamos a crear un payload para windows que nos permita obtener una meterpreter reversse 
