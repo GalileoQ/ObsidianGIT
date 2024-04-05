@@ -314,13 +314,13 @@ esta es una pagina para hacer la aplicación de un curriculun para un trabajo.
 ![[Pasted image 20240404181920.png]]
 
 ### msfvenom
-creamos una shell de nuevo
+creamos una nueva shell 
 ![[Pasted image 20240404201149.png]]
 
-suimos la shell 
+`suimos la shell` 
 ![[Pasted image 20240404201339.png]]
 
-
+### archivo otd
 
 ![[Pasted image 20240404201649.png]]
 
