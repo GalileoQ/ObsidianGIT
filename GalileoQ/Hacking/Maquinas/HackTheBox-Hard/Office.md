@@ -370,3 +370,5 @@ dpapi::cred /in:C:\Users\PPotts\AppData\Roaming\Microsoft\credentials\84F1CAEEBF
 `gpo abuse`
 ![[Pasted image 20240404221254.png]]
 
+
+![[Pasted image 20240404221749.png]]
