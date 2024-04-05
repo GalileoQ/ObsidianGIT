@@ -313,5 +313,13 @@ obtenemos acceso a una pagina web diferente que esta corriendo en local. vemos q
 esta es una pagina para hacer la aplicación de un curriculun para un trabajo. 
 ![[Pasted image 20240404181920.png]]
 
+### msfvenom
+creamos una shell de nuevo
+![[Pasted image 20240404201149.png]]
+
+
+
+
+
 
 ![[Pasted image 20240404184548.png]]
