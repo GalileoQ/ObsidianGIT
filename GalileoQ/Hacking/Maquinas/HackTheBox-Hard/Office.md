@@ -337,3 +337,8 @@ estaremos a la escucha
 
 
 `sharphound`
+![[Pasted image 20240404205133.png]]
+
+
+`vaultcmd /listcreds:"Windows Credentials" /all`
+![[Pasted image 20240404205049.png]]
