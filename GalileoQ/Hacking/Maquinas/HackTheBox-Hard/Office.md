@@ -322,4 +322,22 @@ suimos la shell
 
 
 
+![[Pasted image 20240404201649.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![[Pasted image 20240404184548.png]]
