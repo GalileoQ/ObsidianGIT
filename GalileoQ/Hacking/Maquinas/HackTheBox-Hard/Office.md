@@ -317,8 +317,8 @@ esta es una pagina para hacer la aplicación de un curriculun para un trabajo.
 creamos una shell de nuevo
 ![[Pasted image 20240404201149.png]]
 
-
-
+suimos la shell 
+![[Pasted image 20240404201339.png]]
 
 
 
