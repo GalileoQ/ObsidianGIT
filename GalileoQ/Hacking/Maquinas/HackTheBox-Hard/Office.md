@@ -352,3 +352,7 @@ estaremos a la escucha
 
 `dpapi::cred /in:"%appdata%\Microsoft\Credentials\NOMBREDECREDENCIAL"`
 ![[Pasted image 20240404213301.png]]
+
+`sacamos todas los hash`
+![[Pasted image 20240404213454.png]]
+
