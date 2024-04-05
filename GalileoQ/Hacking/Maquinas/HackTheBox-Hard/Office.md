@@ -342,3 +342,8 @@ estaremos a la escucha
 
 `vaultcmd /listcreds:"Windows Credentials" /all`
 ![[Pasted image 20240404205049.png]]
+
+### mimikatz
+
+![[Pasted image 20240404212729.png]]
+
