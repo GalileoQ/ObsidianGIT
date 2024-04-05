@@ -324,7 +324,8 @@ suimos la shell
 
 ![[Pasted image 20240404201649.png]]
 
-### meter
+### meterpreter
+![[Pasted image 20240404201941.png]]
 
 
 
