@@ -332,15 +332,6 @@ estaremos a la escucha
 ![[Pasted image 20240404202444.png]]
 
 
-`whoami pr`
-
-
-
-
-
-
-
-
-
-
+`whoami /priv`
+![[Pasted image 20240404202656.png]]
 
