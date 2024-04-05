@@ -328,10 +328,11 @@ En resumen, este comando generará un archivo ODT llamado "file.odt" que, si se 
 estaremos a la escucha 
 ![[Pasted image 20240404201941.png]]
 
-tenemos conexión
+`tenemos conexión`
 ![[Pasted image 20240404202444.png]]
 
 
+`whoami pr`
 
 
 
