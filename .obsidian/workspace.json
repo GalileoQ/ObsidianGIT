@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2e1d4d1f401f2c7",
+  "active": "50a78fd53b0d9652",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "Pasted image 20240404202656.png",
     "Pasted image 20240404202444.png",
@@ -173,7 +174,6 @@
     "Pasted image 20240404183552.png",
     "Pasted image 20240404181920.png",
     "Pasted image 20240404181835.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
