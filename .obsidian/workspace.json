@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md"
               }
             }
           }
@@ -160,8 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50a78fd53b0d9652",
+  "active": "452d0c64f08bbd34",
   "lastOpenFiles": [
+    "Pasted image 20240404221254.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "Pasted image 20240404215908.png",
     "Pasted image 20240404213942.png",
@@ -172,7 +173,6 @@
     "Pasted image 20240404205133.png",
     "Pasted image 20240404205049.png",
     "Pasted image 20240404203628.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "Pasted image 20240404202656.png",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
