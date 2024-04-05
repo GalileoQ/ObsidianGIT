@@ -335,3 +335,5 @@ estaremos a la escucha
 `whoami /priv`
 ![[Pasted image 20240404202656.png]]
 
+
+`sharphound`
