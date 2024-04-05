@@ -321,7 +321,7 @@ creamos una nueva shell
 ![[Pasted image 20240404201339.png]]
 
 ### archivo otd
-
+En resumen, este comando generará un archivo ODT llamado "file.odt" que, si se abre en una versión vulnerable de LibreOffice en una máquina Windows, intentará ejecutar el archivo `shell-otd.exe` ubicado en `C:\Users\Public\`. Sin embargo, ten en cuenta que para que esto funcione, el archivo ODT generado debe explotar una vulnerabilidad específica en LibreOffice que permita la ejecución de comandos arbitrarios.
 ![[Pasted image 20240404201649.png]]
 
 ### meterpreter
