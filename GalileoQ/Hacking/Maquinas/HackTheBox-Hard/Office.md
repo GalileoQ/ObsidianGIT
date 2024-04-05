@@ -366,3 +366,4 @@ dpapi::cred /in:C:\Users\PPotts\AppData\Roaming\Microsoft\credentials\84F1CAEEBF
 
 ### evil-winrm
 ![[Pasted image 20240404215908.png]]
+
