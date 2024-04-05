@@ -378,3 +378,5 @@ dpapi::cred /in:C:\Users\PPotts\AppData\Roaming\Microsoft\credentials\84F1CAEEBF
 
 ![[Pasted image 20240404223332.png]]
 
+
+![[Pasted image 20240404225246.png]]
