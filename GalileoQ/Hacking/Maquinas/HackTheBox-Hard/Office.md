@@ -356,3 +356,6 @@ estaremos a la escucha
 `sacamos todas los hash`
 ![[Pasted image 20240404213454.png]]
 
+`obtenemos el SID`
+![[Pasted image 20240404213942.png]]
+
