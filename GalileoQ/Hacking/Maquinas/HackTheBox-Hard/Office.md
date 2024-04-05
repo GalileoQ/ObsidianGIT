@@ -347,3 +347,5 @@ estaremos a la escucha
 
 ![[Pasted image 20240404212729.png]]
 
+`vamos a ver las credenciales`
+![[Pasted image 20240404212901.png]]
