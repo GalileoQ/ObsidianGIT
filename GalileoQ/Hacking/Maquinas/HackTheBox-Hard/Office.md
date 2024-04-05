@@ -325,8 +325,11 @@ En resumen, este comando generará un archivo ODT llamado "file.odt" que, si se 
 ![[Pasted image 20240404201649.png]]
 
 ### meterpreter
+estaremos a la escucha 
 ![[Pasted image 20240404201941.png]]
 
+tenemos conexión
+![[Pasted image 20240404202444.png]]
 
 
 
@@ -340,5 +343,3 @@ En resumen, este comando generará un archivo ODT llamado "file.odt" que, si se 
 
 
 
-
-![[Pasted image 20240404184548.png]]
