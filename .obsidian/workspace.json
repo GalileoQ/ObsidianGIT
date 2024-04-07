@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50a78fd53b0d9652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rlwra",
+                "query": "runas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md"
               }
             }
           }
@@ -160,10 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50a78fd53b0d9652",
+  "active": "452d0c64f08bbd34",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240404225246.png",
     "Pasted image 20240404223332.png",
     "Pasted image 20240404222037.png",
@@ -175,8 +164,6 @@
     "Pasted image 20240404213301.png",
     "Pasted image 20240404212901.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
