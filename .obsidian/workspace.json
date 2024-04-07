@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agregar",
+                "query": "rlwra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md"
               }
             }
           }
@@ -159,21 +160,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "452d0c64f08bbd34",
+  "active": "50a78fd53b0d9652",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "Pasted image 20240404225246.png",
     "Pasted image 20240404223332.png",
     "Pasted image 20240404222037.png",
     "Pasted image 20240404221749.png",
     "Pasted image 20240404221254.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "Pasted image 20240404215908.png",
     "Pasted image 20240404213942.png",
     "Pasted image 20240404213454.png",
     "Pasted image 20240404213301.png",
     "Pasted image 20240404212901.png",
-    "Pasted image 20240404212729.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
