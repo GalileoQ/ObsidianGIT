@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "452d0c64f08bbd34",
+  "active": "d2001b1df3cb46aa",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
