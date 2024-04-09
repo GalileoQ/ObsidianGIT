@@ -52,6 +52,9 @@ vamos a realizar una petición y la interceptamos con burpsuite
 ![[Pasted image 20240408225150.png]]
 
 `Service`
-tenemos 3 service que se estan enviando al servidor. vamos a intentar validarlos
-`<img+src='http://10.10.14.27/test.png'>` 
+tenemos 3 service que se estan enviando al servidor. vamos a intentar validarlos enviando una petición a un servidor que tendremos a la escucha
+```python
+<img+src='http://10.10.14.27/test.png'>
+```
+
 ![[Pasted image 20240408231842.png]]
