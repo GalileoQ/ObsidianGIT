@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c499afded6346bac",
+  "active": "7f070a1d16920032",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409003615.png",
@@ -193,7 +193,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Monitored.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",

