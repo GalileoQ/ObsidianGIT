@@ -140,8 +140,8 @@ tenemos conexión via ssh
 con un poco de pensamiento lateral podemos leer la root sin escalar privilegios
 ![[Pasted image 20240409011222.png]]
 
-con este comando vamos a agregar el archivo `root.txt` como un attachment al archivo pdf que ya existe en 
+con este comando vamos a agregar el archivo `root.txt` como un attachment al archivo pdf que ya existe en la maquina y luego lo descargamos para analizarlo en local
 ![[Pasted image 20240409011943.png]]
 
-
+### pdf
 ![[Pasted image 20240409014202.png]]
