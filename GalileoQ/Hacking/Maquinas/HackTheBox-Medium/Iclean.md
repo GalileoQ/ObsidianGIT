@@ -95,5 +95,5 @@ realizamos una prueba y es posible ver el resultado dentro del nombre de archivo
 ![[Pasted image 20240409001851.png]]
 
 `Burpsuite`
-interceptamos la petición con burpsuite y podemos confirmar que se esta ejecutando correctamente
-![[Pasted image 20240409001810.png]]
+interceptamos la petición con burpsuite y podemos confirmar que se esta ejecutando correctamente el resultado de {{7 * 7}}
+![[Pasted image 20240409002315.png]]
