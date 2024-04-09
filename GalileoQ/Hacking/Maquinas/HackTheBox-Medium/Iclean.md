@@ -148,7 +148,7 @@ de esta manera podemos extraer los archivos que se han agregado al pdf y efectiv
 ![[Pasted image 20240409014202.png]]
 
 ### id_rsa
-aplicando la misma metodologia 
+aplicando la misma metodología podemos agregar como attachment la id_rsa del usuario root al archivo pdf para luego extraerla
 ![[Pasted image 20240409020633.png]]
 
 ### Escalada
