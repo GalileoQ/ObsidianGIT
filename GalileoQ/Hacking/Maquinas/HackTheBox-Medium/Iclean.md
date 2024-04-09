@@ -75,9 +75,14 @@ vamos a usar este payload para capturar la cookie de session.
 agregamos la cookie en el `cookie-editor`
 ![[cookie.png]]
 
-
+### dashboad
+# 0255314324
+![[Pasted image 20240408235954.png]]
 
 
 
 
 ![[Pasted image 20240408235845.png]]
+
+
+![[Pasted image 20240408235903.png]]
