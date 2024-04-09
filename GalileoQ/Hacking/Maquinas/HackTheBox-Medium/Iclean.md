@@ -125,3 +125,7 @@ podemos listar la base de datos
 listando la tabla de usuarios podemos listar credenciales en texto plano
 ![[Pasted image 20240409010333.png]]
 
+### Crackstation
+tenemos la contraseña de consuela
+![[Pasted image 20240409010748.png]]
+
