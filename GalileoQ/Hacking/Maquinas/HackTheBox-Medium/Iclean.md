@@ -118,5 +118,8 @@ podemos ver las credenciales de usuario
 ![[Pasted image 20240409005450.png]]
 
 ### mysql
-
+podemos listar la base de datos
 ![[Pasted image 20240409010111.png]]
+
+### 
+![[Pasted image 20240409010333.png]]
