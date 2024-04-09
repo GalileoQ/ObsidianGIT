@@ -41,4 +41,5 @@ Nmap done: 1 IP address (1 host up) scanned in 24.78 seconds
 ![[Pasted image 20240408224608.png]]
 
 ### Fuzzing con ffuz
+el dominio `/quote` no esta en los directorios de la pagina  
 ![[Pasted image 20240408224309.png]]
