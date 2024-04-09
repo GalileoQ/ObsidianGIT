@@ -59,5 +59,6 @@ tenemos 3 service que se estan enviando al servidor. vamos a intentar validarlos
 ![[Pasted image 20240408231842.png]]
 
 ### Python3 server
-obtenemos la petición que hemos realizado por lo cual podemos decir que esta web es vulnerable a XSS
+obtenemos la petición que hemos realizado por lo cual podemos decir que esta web es vulnerable a `XSS`
 ![[Pasted image 20240408232124.png]]
+
