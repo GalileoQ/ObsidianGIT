@@ -83,5 +83,8 @@ agregamos la cookie en el `cookie-editor`
 ![[Pasted image 20240408235845.png]]
 
 `codigo ID 0255314324`
-obtenemos un 
+obtenemos un ID Invoice 
 ![[Pasted image 20240408235903.png]]
+
+
+![[Pasted image 20240409000254.png]]
