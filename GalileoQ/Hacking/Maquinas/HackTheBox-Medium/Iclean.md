@@ -105,4 +105,6 @@ usando estos parametros podemos hacer un bypass del servicio que esta corriendo 
 ```
 ![[Pasted image 20240409003615.png]]
 
-### R
+### reverse shell
+usamos una reverse shell u la URL encodeamos 
+![[Pasted image 20240409004321.png]]
