@@ -137,8 +137,11 @@ tenemos conexión via ssh
 ![[Pasted image 20240409010946.png]]
 
 ### Escalada de privilegios
-
+con un poco de pensamiento lateral podemos leer la root sin escalar privilegios
 ![[Pasted image 20240409011222.png]]
 
+con este comando vamos a agregar el archivo `root.txt` co
 ![[Pasted image 20240409011943.png]]
 
+
+![[Pasted image 20240409014202.png]]
