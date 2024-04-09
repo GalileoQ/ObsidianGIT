@@ -71,3 +71,6 @@ vamos a usar este payload para capturar la cookie de session.
 
 `cookie`
 ![[Pasted image 20240408234800.png]]
+
+agregamos la cookie al
+![[cookie.png]]
