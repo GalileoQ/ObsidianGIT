@@ -117,3 +117,6 @@ estaremos a la escucha con Netcat por el puerto que hemos especificado y obtenem
 podemos ver las credenciales de usuario
 ![[Pasted image 20240409005450.png]]
 
+### mysql
+
+![[Pasted image 20240409010111.png]]
