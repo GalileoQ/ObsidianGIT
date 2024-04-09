@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -159,13 +160,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f070a1d16920032",
+  "active": "c499afded6346bac",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Shell/OneLiners.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409004434.png",
     "Pasted image 20240409004321.png",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409003615.png",
     "Pasted image 20240409002315.png",
     "Pasted image 20240409001851.png",
@@ -174,7 +175,6 @@
     "Pasted image 20240408235954.png",
     "Pasted image 20240408235903.png",
     "Pasted image 20240408235845.png",
-    "cookie.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
