@@ -46,3 +46,7 @@ el dominio `/quote` no esta en los directorios de la pagina asi que vamos a inve
 
 `quote`
 ![[Pasted image 20240408224935.png]]
+
+### BurpSuite
+vamos a realizar una petición y la interceptamos con burpsuite
+![[Pasted image 20240408225150.png]]
