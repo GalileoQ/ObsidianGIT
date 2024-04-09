@@ -129,3 +129,6 @@ listando la tabla de usuarios podemos listar credenciales en texto plano
 tenemos la contraseña de consuela
 ![[Pasted image 20240409010748.png]]
 
+### ssh
+tenemos conexión via ssh
+![[Pasted image 20240409010946.png]]
