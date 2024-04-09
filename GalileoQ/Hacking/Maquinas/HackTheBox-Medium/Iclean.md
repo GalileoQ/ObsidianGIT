@@ -144,5 +144,7 @@ con este comando vamos a agregar el archivo `root.txt` como un attachment al arc
 ![[Pasted image 20240409011943.png]]
 
 ### pdfdetach 
-de esta manera podemos extraer los archivos que se han agregado al pdf 
+de esta manera podemos extraer los archivos que se han agregado al pdf y efectivamente tenemos la root
 ![[Pasted image 20240409014202.png]]
+
+### WE ARE ROOT
