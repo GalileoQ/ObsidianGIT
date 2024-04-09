@@ -152,5 +152,5 @@ aplicando la misma metodología podemos agregar como attachment la id_rsa del us
 ![[Pasted image 20240409020633.png]]
 
 ### Escalada
-![[Pasted image 20240409020834.png]]
+![[Pasted image 20240409021017.png]]
 ### WE ARE ROOT
