@@ -143,5 +143,6 @@ con un poco de pensamiento lateral podemos leer la root sin escalar privilegios
 con este comando vamos a agregar el archivo `root.txt` como un attachment al archivo pdf que ya existe en la maquina y luego lo descargamos para analizarlo en local
 ![[Pasted image 20240409011943.png]]
 
-### pdf
+### pdfdetach 
+de esta manera podemos extraer los archivos que se han agregado al pdf 
 ![[Pasted image 20240409014202.png]]
