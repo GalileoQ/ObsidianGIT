@@ -51,4 +51,7 @@ el dominio `/quote` no esta en los directorios de la pagina asi que vamos a inve
 vamos a realizar una petición y la interceptamos con burpsuite
 ![[Pasted image 20240408225150.png]]
 
-img+src='http://10.10.14.11/seven.png'
+`Service`
+tenemis 
+<img+src='http://10.10.14.27/test.png'>
+![[Pasted image 20240408231842.png]]
