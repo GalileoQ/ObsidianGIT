@@ -86,5 +86,7 @@ agregamos la cookie en el `cookie-editor`
 obtenemos un ID Invoice 
 ![[Pasted image 20240408235903.png]]
 
-
+`Generator QR`
+ingresamos el ID que hemos obtenido anteriormente
 ![[Pasted image 20240409000254.png]]
+
