@@ -135,3 +135,7 @@ tenemos la contraseña de consuela
 ### ssh
 tenemos conexión via ssh
 ![[Pasted image 20240409010946.png]]
+
+### Escalada de privilegios
+
+![[Pasted image 20240409011222.png]]
