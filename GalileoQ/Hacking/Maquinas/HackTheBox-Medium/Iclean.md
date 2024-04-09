@@ -113,6 +113,9 @@ usamos una reverse shell u la URL encodeamos
 estaremos a la escucha con Netcat por el puerto que hemos especificado y obtenemos la shell
 ![[Pasted image 20240409004434.png]]
 
+`www-data`
+
+![[Pasted image 20240409011025.png]]
 ### database
 podemos ver las credenciales de usuario
 ![[Pasted image 20240409005450.png]]
