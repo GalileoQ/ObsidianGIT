@@ -147,7 +147,9 @@ con este comando vamos a agregar el archivo `root.txt` como un attachment al arc
 de esta manera podemos extraer los archivos que se han agregado al pdf y efectivamente tenemos la root
 ![[Pasted image 20240409014202.png]]
 
-
+### id_rsa
+aplicando la misma metodologia 
+![[Pasted image 20240409020633.png]]
 
 ### Escalada
 ![[Pasted image 20240409020530.png]]
