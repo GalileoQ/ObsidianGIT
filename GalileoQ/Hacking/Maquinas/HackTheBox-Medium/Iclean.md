@@ -114,5 +114,6 @@ estaremos a la escucha con Netcat por el puerto que hemos especificado y obtenem
 ![[Pasted image 20240409004434.png]]
 
 ### database
-podemos ver las credenciales de un 
+podemos ver las credenciales de usuario
 ![[Pasted image 20240409005450.png]]
+
