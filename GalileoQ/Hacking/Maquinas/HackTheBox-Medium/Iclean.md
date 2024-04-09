@@ -90,7 +90,8 @@ obtenemos un ID Invoice
 ingresamos el ID que hemos obtenido anteriormente
 ![[Pasted image 20240409000254.png]]
 
-### SSTI 
+### SSTI (Server-Side Template Injection)
+
 ![[Pasted image 20240409001851.png]]
 
 
