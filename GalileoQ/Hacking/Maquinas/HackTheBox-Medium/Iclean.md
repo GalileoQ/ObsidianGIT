@@ -91,7 +91,7 @@ ingresamos el ID que hemos obtenido anteriormente
 ![[Pasted image 20240409000254.png]]
 
 ### SSTI (Server-Side Template Injection)
-vamos a realizar una prueba para determinar si es
+realizamos una prueba y es posible ver el resultado dentro del nombre de archivo generado para el código QR. Eso confirma que se está produciendo SSTI
 ![[Pasted image 20240409001851.png]]
 
 
