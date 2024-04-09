@@ -62,3 +62,4 @@ tenemos 3 service que se estan enviando al servidor. vamos a intentar validarlos
 obtenemos la petición que hemos realizado por lo cual podemos decir que esta web es vulnerable a `XSS`
 ![[Pasted image 20240408232124.png]]
 
+### Cookie
