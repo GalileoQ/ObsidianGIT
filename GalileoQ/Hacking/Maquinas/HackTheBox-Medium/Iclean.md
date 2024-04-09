@@ -121,5 +121,7 @@ podemos ver las credenciales de usuario
 podemos listar la base de datos
 ![[Pasted image 20240409010111.png]]
 
-### 
+`mysql`
+listando la tabla de usuarios podemos listar credenciales en texto plano
 ![[Pasted image 20240409010333.png]]
+
