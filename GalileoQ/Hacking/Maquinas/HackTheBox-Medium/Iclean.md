@@ -139,3 +139,6 @@ tenemos conexión via ssh
 ### Escalada de privilegios
 
 ![[Pasted image 20240409011222.png]]
+
+![[Pasted image 20240409011943.png]]
+
