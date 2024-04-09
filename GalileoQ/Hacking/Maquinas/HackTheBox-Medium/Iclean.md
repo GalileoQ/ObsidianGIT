@@ -108,3 +108,7 @@ usando estos parametros podemos hacer un bypass del servicio que esta corriendo 
 ### reverse shell
 usamos una reverse shell u la URL encodeamos 
 ![[Pasted image 20240409004321.png]]
+
+### netcat 
+estaremos a la escucha con netcat por el puerto que hemos espeficifaco y ubtenemos la shell
+![[Pasted image 20240409004434.png]
