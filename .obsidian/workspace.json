@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md"
               }
             }
           }
@@ -159,13 +161,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f070a1d16920032",
+  "active": "c499afded6346bac",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409010111.png",
     "Pasted image 20240409005450.png",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409004434.png",
     "Pasted image 20240409004321.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
@@ -175,7 +177,6 @@
     "Pasted image 20240409001810.png",
     "Pasted image 20240409000254.png",
     "Pasted image 20240408235954.png",
-    "Pasted image 20240408235903.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
