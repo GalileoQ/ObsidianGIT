@@ -94,8 +94,6 @@ ingresamos el ID que hemos obtenido anteriormente
 realizamos una prueba y es posible ver el resultado dentro del nombre de archivo generado para el código QR. Eso confirma que se está produciendo SSTI
 ![[Pasted image 20240409001851.png]]
 
-
-
 `Burpsuite`
-interceptamos la petición con burpsuite
+interceptamos la petición con burpsuite y podemos confirmar que se esta ejecutando correctamente
 ![[Pasted image 20240409001810.png]]
