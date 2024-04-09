@@ -36,6 +36,8 @@ Nmap done: 1 IP address (1 host up) scanned in 24.78 seconds
 
 ### Enumeración del puerto 80 (http)
 
+![[Pasted image 20240408224546.png]]
 
+![[Pasted image 20240408224608.png]]
 ### Fuzzing con ffuz
 ![[Pasted image 20240408224309.png]]
