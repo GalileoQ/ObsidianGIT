@@ -76,12 +76,10 @@ agregamos la cookie en el `cookie-editor`
 ![[cookie.png]]
 
 ### dashboad
-# 0255314324
+
 ![[Pasted image 20240408235954.png]]
 
-
-
-
+`Generate Invoice`
 ![[Pasted image 20240408235845.png]]
 
 
