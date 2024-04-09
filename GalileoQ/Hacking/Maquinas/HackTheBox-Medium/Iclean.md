@@ -91,7 +91,7 @@ ingresamos el ID que hemos obtenido anteriormente
 ![[Pasted image 20240409000254.png]]
 
 ### SSTI (Server-Side Template Injection)
-
+vamos a realizar una prueba para determinar si es
 ![[Pasted image 20240409001851.png]]
 
 
