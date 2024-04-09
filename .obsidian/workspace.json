@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e973a2eeb7ad3849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md"
               }
             }
           }
@@ -160,10 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e973a2eeb7ad3849",
+  "active": "00943fcf06ea5df9",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409021017.png",
     "Pasted image 20240409020834.png",
