@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md"
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "a0e6932808bc94a9",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
@@ -161,7 +162,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "Template Pentesting Notes/Pentest.md",
     "Pasted image 20240409020530.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
