@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "025652d4c2368b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,12 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "025652d4c2368b2f",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240412115907.png",
     "Pasted image 20240412115733.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Template Pentesting Notes/Pentest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
