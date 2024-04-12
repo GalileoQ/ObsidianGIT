@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "numeración del puerto 53",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
               }
             }
           }
@@ -160,12 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "01e89317b9a4b524",
+  "active": "025652d4c2368b2f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "Pasted image 20240412115907.png",
     "Pasted image 20240412115733.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "Template Pentesting Notes/Pentest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
@@ -196,7 +196,6 @@
     "imagenes/Pasted image 20240409011222.png",
     "imagenes/Pasted image 20240409011025.png",
     "imagenes/Pasted image 20240409010946.png",
-    "imagenes/Pasted image 20240409010748.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
