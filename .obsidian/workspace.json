@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ldap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md"
               }
             }
           }
@@ -162,8 +163,9 @@
   },
   "active": "a4db21159a4d9bc6",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "Pasted image 20240412122450.png",
@@ -174,7 +176,6 @@
     "Template Pentesting Notes/Pentest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
