@@ -111,5 +111,6 @@ Nmap done: 1 IP address (1 host up) scanned in 129.81 seconds
 ### Enumeración del puerto 53 (Domain)
 `dig`
 ![[Pasted image 20240412115907.png]]
-`dnsrecon`
+
+`dnsrecon -d hospital.htb -a -n 10.10.11.241`
 ![[Pasted image 20240412115733.png]]
