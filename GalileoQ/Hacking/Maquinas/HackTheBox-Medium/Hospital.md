@@ -120,5 +120,5 @@ por el momento solo tenemos un usuario valido. administrator
 ![[Pasted image 20240412122215.png]]
 
 ### impacket-GetNPUsers  
-parece que el usuario administrator no 
+parece que el usuario administrator no tiene `UF_DONT_REQUIRE_PREAUTH`
 ![[Pasted image 20240412122450.png]]
