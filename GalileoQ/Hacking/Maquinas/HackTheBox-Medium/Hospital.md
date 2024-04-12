@@ -123,3 +123,5 @@ por el momento solo tenemos un usuario valido. administrator
 intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` por lo cual no podremos obtener un `TGT`
 ![[Pasted image 20240412122450.png]]
 
+### Enumeración del puerto 8080 (http)
+
