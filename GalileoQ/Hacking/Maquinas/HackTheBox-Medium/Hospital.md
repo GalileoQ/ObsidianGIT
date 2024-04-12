@@ -119,3 +119,6 @@ Nmap done: 1 IP address (1 host up) scanned in 129.81 seconds
 por el momento solo tenemos un usuario valido. administrator
 ![[Pasted image 20240412122215.png]]
 
+### impacket-GetNPUsers  
+parece que el usuario administrator no 
+![[Pasted image 20240412122450.png]]
