@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "puerto 53",
+                "query": "D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md"
               }
             }
           }
@@ -161,8 +161,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c1be7afbe33367bb",
+  "active": "e2e1d4d1f401f2c7",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
+    "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
@@ -196,9 +199,6 @@
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
