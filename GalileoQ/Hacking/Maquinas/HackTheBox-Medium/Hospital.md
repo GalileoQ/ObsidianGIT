@@ -125,3 +125,4 @@ intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` p
 
 ### Enumeración del puerto 8080 (http)
 
+![[Pasted image 20240412124252.png]]
