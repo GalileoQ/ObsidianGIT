@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1be7afbe33367bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "puerto 53",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md"
+                "file": "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md"
               }
             }
           }
@@ -147,11 +161,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a0e6932808bc94a9",
+  "active": "c1be7afbe33367bb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "Template Pentesting Notes/Pentest.md",
     "Pasted image 20240409020530.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
@@ -183,9 +200,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
-    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
-    "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
-    "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",

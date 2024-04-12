@@ -10,7 +10,7 @@ PING 10.10.11.241 (10.10.11.241) 56(84) bytes of data.
 rtt min/avg/max/mdev = 77.090/77.090/77.090/0.000 ms
 ```
 
-### TTL 127= W
+### TTL 127= Windows 
 
 ### nmap
 ```python
