@@ -11,8 +11,12 @@
             "id": "05771559faecf546",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Template Pentesting Notes/Pentest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "Template Pentesting Notes/Pentest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "Template Pentesting Notes/Pentest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md"
+                "file": "Template Pentesting Notes/Pentest.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "05771559faecf546",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
