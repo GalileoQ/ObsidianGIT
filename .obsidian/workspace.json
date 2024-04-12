@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1be7afbe33367bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "D",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md"
               }
             }
           }
@@ -163,6 +150,11 @@
   },
   "active": "e2e1d4d1f401f2c7",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
     "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
@@ -181,7 +173,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "Pasted image 20240409021017.png",
     "Pasted image 20240409020834.png",
     "Pasted image 20240409020633.png",
@@ -195,10 +186,6 @@
     "GalileoQ/Hacking/Escalada/Linux.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Brute-It.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
