@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d8057ea70d9f54",
+        "id": "478f99d5d3464379",
         "type": "tabs",
         "children": [
           {
-            "id": "c169e06797e7b18b",
+            "id": "a0e6932808bc94a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template Pentesting Notes/Pentest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template Pentesting Notes/Pentest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template Pentesting Notes/Pentest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Template Pentesting Notes/Pentest.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c169e06797e7b18b",
+  "active": "a0e6932808bc94a9",
   "lastOpenFiles": [
+    "Template Pentesting Notes/Pentest.md",
     "Pasted image 20240409020530.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
