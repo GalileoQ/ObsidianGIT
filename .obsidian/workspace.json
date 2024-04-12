@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "140164ac71daacd0",
+  "active": "01e89317b9a4b524",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "Pasted image 20240412115907.png",
@@ -188,7 +188,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Pasted image 20240409021017.png",
     "Pasted image 20240409020834.png",
     "Pasted image 20240409020633.png",

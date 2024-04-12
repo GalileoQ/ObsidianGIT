@@ -114,3 +114,5 @@ Nmap done: 1 IP address (1 host up) scanned in 129.81 seconds
 
 `dnsrecon -d hospital.htb -a -n 10.10.11.241`
 ![[Pasted image 20240412115733.png]]
+
+### Enumeración del puerto 88 (Kerberos)
