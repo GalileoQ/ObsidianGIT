@@ -124,5 +124,8 @@ intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` p
 ![[Pasted image 20240412122450.png]]
 
 ### Enumeración del puerto 8080 (http)
+despues de intentar un usuario inxist
+![[Pasted image 20240412124323.png]]
+
 
 ![[Pasted image 20240412124252.png]]
