@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "478f99d5d3464379",
+        "id": "1348463bd9c15e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e6932808bc94a9",
+            "id": "05771559faecf546",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Windows/impacket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Windows/impacket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
+                "file": "GalileoQ/Hacking/Windows/impacket.md"
               }
             }
           }
@@ -147,8 +143,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a0e6932808bc94a9",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
@@ -184,7 +181,6 @@
     "imagenes/Pasted image 20240409010333.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
