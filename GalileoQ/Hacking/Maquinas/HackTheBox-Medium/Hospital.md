@@ -130,3 +130,6 @@ después de intentar un usuario inexistente nos envía a una pagina para crear u
 
 ![[Pasted image 20240412124252.png]]
 
+`iniciamos session`
+encontramos una web que nos permite subir archivos
+![[Pasted image 20240412230042.png]]
