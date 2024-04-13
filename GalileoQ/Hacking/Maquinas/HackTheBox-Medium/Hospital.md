@@ -171,3 +171,6 @@ le damos permisos de ejecución y lo ejecutamos
 podemos leer el archivo shadow
 ![[Pasted image 20240413000004.png]]
 
+en el directorio home tenemos al usuario `drwilliams` asi que primero apuntaremos al hash de este usuario
+``
+![[Pasted image 20240413000617.png]]
