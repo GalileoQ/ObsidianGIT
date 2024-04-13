@@ -167,3 +167,7 @@ en la maquina victima descargamos el exploit
 le damos permisos de ejecución y lo ejecutamos 
 ![[Pasted image 20240412235708.png]]
 
+### /etc/shadow
+podemos leer el archivo shadow
+![[Pasted image 20240413000004.png]]
+
