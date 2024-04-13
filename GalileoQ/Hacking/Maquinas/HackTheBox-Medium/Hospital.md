@@ -158,7 +158,9 @@ hacemos un git clone para descargar el repo y tenemos el exploit
 ![[Pasted image 20240412234845.png]]
 
 ### servirdor en python
+creamos un servidor para poder compartir el exploit
+![[Pasted image 20240412235524.png]]
 
-
-
+en la maquina victima descargamos el exploit
 ![[Pasted image 20240412235434.png]]
+
