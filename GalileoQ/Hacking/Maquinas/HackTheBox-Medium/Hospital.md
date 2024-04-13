@@ -182,3 +182,6 @@ obtenemos la contraseña
 usaremos las credenciales en la web
 ![[Pasted image 20240413000941.png]]
 
+### mail 
+tenemos un mail que nos da como pista que 
+![[Pasted image 20240413001057.png]]
