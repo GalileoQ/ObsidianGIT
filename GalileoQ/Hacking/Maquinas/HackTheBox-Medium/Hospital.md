@@ -151,5 +151,5 @@ de esta manera obtenemos una shell que nos permite interactuar de manera mas fac
 obtenemos conexión y somos el usuario www-data
 ![[Pasted image 20240412233811.png]]
 
-obtenemos la versión del sistema el cual es `ubuntu 23.04` i
+obtenemos la versión del sistema el cual es `ubuntu 23.04` investigando en internet conseguimos un exploit para la versión 23.04 que nos permite escalar privilegios 
 ![[Pasted image 20240412234226.png]]
