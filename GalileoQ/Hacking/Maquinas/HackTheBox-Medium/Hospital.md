@@ -206,3 +206,6 @@ una ves estamos dentro de la maquina podemos ejecutar el script `ghostscript.bat
 ### rpcclient
 utilizando las credenciales de `drbronw` podemos enumerar y ver que la información del usuario administrator se esta compartiendo 
 ![[Pasted image 20240413005848.png]]
+
+### xampp
+![[Pasted image 20240413010836.png]]
