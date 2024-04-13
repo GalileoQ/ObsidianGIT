@@ -164,3 +164,5 @@ creamos un servidor para poder compartir el exploit
 en la maquina victima descargamos el exploit
 ![[Pasted image 20240412235434.png]]
 
+le damos permisos de ejecusi
+![[Pasted image 20240412235708.png]]
