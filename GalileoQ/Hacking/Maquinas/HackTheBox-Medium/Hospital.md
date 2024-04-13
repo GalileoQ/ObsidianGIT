@@ -208,5 +208,9 @@ utilizando las credenciales de `drbronw` podemos enumerar y ver que la informaci
 ![[Pasted image 20240413005848.png]]
 
 ### xampp
-dado el caso tenemos acceso al directorio xampp por lo cual vamos a recuperar el github antes usando para subirlo aqui y de esta man
+dado el caso tenemos acceso al directorio xampp por lo cual vamos a recuperar el github antes usando para subirlo aqui y de esta manera poder llamarlo desde la web principal 
 ![[Pasted image 20240413010836.png]]
+
+### nt authority-system
+
+![[Pasted image 20240413011010.png]]
