@@ -204,5 +204,5 @@ una ves estamos dentro de la maquina podemos ejecutar el script `ghostscript.bat
 ![[Pasted image 20240413005446.png]]
 
 ### rpcclient
-utilizando las credenciales de `drbronw` podemos enumerar y ver que la información del usuario administrator se esta compartienndo
+utilizando las credenciales de `drbronw` podemos enumerar y ver que la información del usuario administrator se esta compartiendo 
 ![[Pasted image 20240413005848.png]]
