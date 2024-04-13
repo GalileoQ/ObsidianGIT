@@ -212,5 +212,5 @@ dado el caso tenemos acceso al directorio xampp por lo cual vamos a recuperar el
 ![[Pasted image 20240413010836.png]]
 
 ### nt authority-system
-
+de esta manera obtenemos acceso como nt authority - system. si quieres obtener una shell mas estable puedes repetir los pasos anteriores 
 ![[Pasted image 20240413011010.png]]
