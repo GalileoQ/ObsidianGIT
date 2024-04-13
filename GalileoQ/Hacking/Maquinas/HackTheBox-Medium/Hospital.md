@@ -157,3 +157,8 @@ obtenemos la versión del sistema el cual es `ubuntu 23.04` investigando en inte
 hacemos un git clone para descargar el repo y tenemos el exploit
 ![[Pasted image 20240412234845.png]]
 
+### servirdor en python
+
+
+
+![[Pasted image 20240412235434.png]]
