@@ -178,4 +178,7 @@ en el directorio home tenemos al usuario `drwilliams` asi que primero apuntaremo
 obtenemos la contraseña
 ![[Pasted image 20240413000720.png]]
 
-### 
+### Puerto 80 https 
+usaremos las credenciales en la web
+![[Pasted image 20240413000941.png]]
+
