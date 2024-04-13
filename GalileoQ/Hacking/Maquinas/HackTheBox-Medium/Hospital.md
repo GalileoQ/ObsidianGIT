@@ -172,5 +172,8 @@ podemos leer el archivo shadow
 ![[Pasted image 20240413000004.png]]
 
 en el directorio home tenemos al usuario `drwilliams` asi que primero apuntaremos al hash de este usuario
-``
+`hashcat -a 0 -m 1800 hash /usr/share/wordlists/rockyou.txt`
 ![[Pasted image 20240413000617.png]]
+
+obtenemos la contraseña
+![[Pasted image 20240413000720.png]]
