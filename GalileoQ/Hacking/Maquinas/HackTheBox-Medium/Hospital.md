@@ -135,5 +135,7 @@ encontramos una web que nos permite subir archivos en este caso imagenes
 ![[Pasted image 20240412231100.png]]
 
 
+![[Pasted image 20240412232553.png]]
+
 
 ![[Pasted image 20240412232205.png]]
