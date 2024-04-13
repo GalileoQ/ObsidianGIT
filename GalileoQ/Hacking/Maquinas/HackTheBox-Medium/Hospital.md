@@ -184,5 +184,6 @@ usaremos las credenciales en la web
 
 ### mail 
 Inició sesión en el sitio web es exitoso. Después de examinar el correo de la bandeja de entrada, parece que solo acepta el formato de archivo .esp.
+después de buscar en internet encontramos un exploit [github](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection.git) 
 ![[Pasted image 20240413001057.png]]
 
