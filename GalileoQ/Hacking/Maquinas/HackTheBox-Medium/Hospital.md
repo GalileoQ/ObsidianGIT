@@ -183,5 +183,6 @@ usaremos las credenciales en la web
 ![[Pasted image 20240413000941.png]]
 
 ### mail 
-Inició sesión en el sitio web es exitoso. Después de examinar el correo de la bandeja de entrada, parece aceptar únicamente el formato de archivo .esp.
+Inició sesión en el sitio web es exitoso. Después de examinar el correo de la bandeja de entrada, parece que solo acepta el formato de archivo .esp.
 ![[Pasted image 20240413001057.png]]
+
