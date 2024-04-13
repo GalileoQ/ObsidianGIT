@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "a4db21159a4d9bc6",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240413011010.png",
     "Pasted image 20240413010836.png",
