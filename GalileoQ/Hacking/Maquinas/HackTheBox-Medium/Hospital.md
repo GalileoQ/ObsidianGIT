@@ -154,5 +154,6 @@ obtenemos conexión y somos el usuario www-data
 obtenemos la versión del sistema el cual es `ubuntu 23.04` investigando en internet conseguimos un exploit para la versión 23.04 que nos permite escalar privilegios usaremos este repo [github](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629.git)  
 ![[Pasted image 20240412234226.png]]
 
-
+hacemos un git clone para descargar el repo y tenemos el exploit
 ![[Pasted image 20240412234845.png]]
+
