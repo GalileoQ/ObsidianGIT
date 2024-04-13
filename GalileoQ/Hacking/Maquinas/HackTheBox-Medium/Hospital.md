@@ -178,3 +178,4 @@ en el directorio home tenemos al usuario `drwilliams` asi que primero apuntaremo
 obtenemos la contraseña
 ![[Pasted image 20240413000720.png]]
 
+### 
