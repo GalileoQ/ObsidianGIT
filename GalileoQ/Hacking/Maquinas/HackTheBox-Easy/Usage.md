@@ -47,4 +47,4 @@ si intentamos cambiar la contraseña podemos notar que nos da como resultado una
 ![[Pasted image 20240415165125.png]]
 
 ### sqlmap
-despues de hacer un monton de pruebas hemos descubierto que el parametro mail es vulnerable a sqli
+después de hacer un montón de pruebas hemos descubierto que el parámetro mail es vulnerable a sqli
