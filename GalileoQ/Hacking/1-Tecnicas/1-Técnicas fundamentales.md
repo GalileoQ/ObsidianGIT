@@ -204,7 +204,9 @@ echo -n "caracteres" | wc -c
 
 ### Listar conexiones de red
 ```python
-lsof -i # lsof -i:port
+lsof -i
+
+lsof -i:port
 ```
 
 ### Eternal blue
