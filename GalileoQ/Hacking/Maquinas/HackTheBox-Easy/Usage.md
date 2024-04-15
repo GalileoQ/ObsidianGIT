@@ -43,5 +43,6 @@ Nmap done: 1 IP address (1 host up) scanned in 28.51 seconds
 podemos registrarnos en la pagina web pero no tenemos mucha información
 ![[Pasted image 20240415165024.png]]
 
-si intentamos cambiar la contraseña podemos notar que nos da como resultado una notificación donde podemos ver nuestro correo 
+si intentamos cambiar la contraseña podemos notar que nos da como resultado una notificación donde podemos ver nuestro correo
 ![[Pasted image 20240415165125.png]]
+
