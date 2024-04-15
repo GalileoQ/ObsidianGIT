@@ -46,3 +46,5 @@ podemos registrarnos en la pagina web pero no tenemos mucha información
 si intentamos cambiar la contraseña podemos notar que nos da como resultado una notificación donde podemos ver nuestro correo
 ![[Pasted image 20240415165125.png]]
 
+### sqlmap
+despues de hacer un monton de pruebas hemos descubierto que el parametro mail es vulnerable a sqli
