@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d62064c2a4a57686",
+  "active": "d2001b1df3cb46aa",
   "lastOpenFiles": [
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
