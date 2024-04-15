@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "073415faa997e763",
+        "id": "a3d9ec3140dc6a15",
         "type": "tabs",
         "children": [
           {
-            "id": "060d784299a8c00c",
+            "id": "d62064c2a4a57686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuzzing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -148,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "060d784299a8c00c",
+  "active": "d62064c2a4a57686",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
@@ -185,7 +185,6 @@
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
     "GalileoQ/Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",

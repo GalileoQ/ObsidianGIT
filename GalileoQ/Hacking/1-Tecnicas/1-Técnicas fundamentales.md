@@ -207,3 +207,7 @@ echo -n "caracteres" | wc -c
 lsof -i # lsof -i:port
 ```
 
+### Eternal blue
+```python
+nmap 
+```
