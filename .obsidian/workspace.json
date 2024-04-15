@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00f6402b7a747024",
+  "active": "495fc1ca31cf8f4d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "Pasted image 20240415165125.png",
     "Pasted image 20240415165024.png",
