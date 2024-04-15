@@ -209,5 +209,5 @@ lsof -i # lsof -i:port
 
 ### Eternal blue
 ```python
-nmap 
+nmap -p445 --script smb-vuln-ms17-010 IP
 ```
