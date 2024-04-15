@@ -182,7 +182,7 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ### numero de caracteres
 
 ```python
-echo -n "caracteres" | wc -c
+	echo -n "caracteres" | wc -c
 ```
 
 ### Capabilitis 
@@ -204,9 +204,9 @@ echo -n "caracteres" | wc -c
 
 ### Listar conexiones de red
 ```python
-lsof -i
-
-lsof -i:port
+	lsof -i
+	
+	lsof -i:port
 ```
 
 ### Eternal blue
