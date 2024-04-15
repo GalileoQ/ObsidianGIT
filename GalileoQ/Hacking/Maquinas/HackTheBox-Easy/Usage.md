@@ -36,4 +36,5 @@ Nmap done: 1 IP address (1 host up) scanned in 28.51 seconds
 ```
 
 
-### Enumeracion del puerto 80 (http)
+### Enumeración del puerto 80 (http)
+

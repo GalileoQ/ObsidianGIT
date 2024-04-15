@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d9ec3140dc6a15",
+        "id": "f5431faba4232640",
         "type": "tabs",
         "children": [
           {
-            "id": "d62064c2a4a57686",
+            "id": "495fc1ca31cf8f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d2001b1df3cb46aa",
+  "active": "495fc1ca31cf8f4d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
@@ -163,7 +164,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
-    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240413011010.png",
