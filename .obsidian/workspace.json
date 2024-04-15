@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fuzzing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md"
               }
             }
           }
@@ -149,6 +150,7 @@
   },
   "active": "060d784299a8c00c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
@@ -184,7 +186,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
