@@ -50,3 +50,6 @@ si intentamos cambiar la contraseña podemos notar que nos da como resultado una
 después de hacer un montón de pruebas hemos descubierto que el parámetro mail es vulnerable a sqli blind por lo que vamos a comprobarla con 
 
 ![[Pasted image 20240415193303.png]]
+
+
+![[Pasted image 20240415201751.png]]
