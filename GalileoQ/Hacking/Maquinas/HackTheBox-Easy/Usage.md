@@ -66,3 +66,6 @@ con este comando logramos ver que el párametro `email` es vulnerable a `SQLI-ba
 ![[Pasted image 20240418104412.png]]
 
 ![[Pasted image 20240418105600.png]]
+
+
+![[Pasted image 20240418125408.png]]
