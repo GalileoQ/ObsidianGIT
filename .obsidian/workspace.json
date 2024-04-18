@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5431faba4232640",
+        "id": "a80b321a59a02407",
         "type": "tabs",
         "children": [
           {
-            "id": "495fc1ca31cf8f4d",
+            "id": "4205b47d358072f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f6402b7a747024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,15 +139,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "495fc1ca31cf8f4d",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
-    "Pasted image 20240415201751.png",
-    "Pasted image 20240415193303.png",
+    "imagenes/Pasted image 20240415193303.png",
+    "imagenes/Pasted image 20240415165125.png",
+    "imagenes/Pasted image 20240415165024.png",
+    "imagenes/Pasted image 20240415164823.png",
+    "imagenes/Pasted image 20240413011010.png",
+    "imagenes/Pasted image 20240413010836.png",
+    "imagenes/Pasted image 20240413005848.png",
+    "imagenes/Pasted image 20240413005446.png",
+    "imagenes/Pasted image 20240413004557.png",
+    "imagenes/Pasted image 20240413001057.png",
+    "imagenes/Pasted image 20240413000941.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
-    "Pasted image 20240415165125.png",
-    "Pasted image 20240415165024.png",
-    "Pasted image 20240415164823.png",
     "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
@@ -184,12 +170,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "Pasted image 20240413011010.png",
-    "Pasted image 20240413010836.png",
-    "Pasted image 20240413005848.png",
-    "Pasted image 20240413005446.png",
-    "Pasted image 20240413004557.png",
-    "Pasted image 20240413001057.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Template Pentesting Notes/Pentest.md",
