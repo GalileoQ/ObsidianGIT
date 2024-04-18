@@ -77,3 +77,5 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 ```
 ![[Pasted image 20240418131443.png]]
 
+![[Pasted image 20240418131505.png]]
+
