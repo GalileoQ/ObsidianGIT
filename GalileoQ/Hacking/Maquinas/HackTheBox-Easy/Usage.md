@@ -64,7 +64,7 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch
 ```
 ![[Pasted image 20240418105600.png]]
 
-`obtenemos el nombre de`
+`obtenemos el nombre de la base de datos y el nombre de las tablas`
 ![[Pasted image 20240418125501.png]]
 
 ### sqlmap 
