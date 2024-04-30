@@ -46,6 +46,8 @@ por el momento no vemos nada interesante. vamos a enumerar el puerto 8000
 parece no poder encontrar el dominio. podemos hacer fuzzing para investigar mas a fondo
 ![[Pasted image 20240430105130.png]]
 
-### Fuzzing con ffuzz
-no encontramos gran cosa en la enumeracion de direcctorios asi que vamos a enumerar subdominios
+### Fuzzing con ffuzz (Directorios)
+no encontramos gran cosa en la enumeración de directorios así que vamos a enumerar subdominios 
 ![[Pasted image 20240430105327.png]]
+
+### Fuzzing con wfuzz
