@@ -58,7 +58,9 @@ tenemos un subdominio algo interesante.
 ![[Pasted image 20240430112604.png]]
 
 ### Exploit-DB
-conseguimos una CVE para esta versión que nos permite realizar un R
+conseguimos una CVE para esta versión que nos permite realizar un RCE
 ![[Pasted image 20240430112728.png]]
 
+### ejecutamos el exploit
+obtenemos un Username y una Passwo
 ![[Pasted image 20240430112300.png]]
