@@ -65,3 +65,5 @@ conseguimos una CVE para esta versión que nos permite realizar un RCE
 obtenemos un Username y una Password. además también obtenemos el token de session
 ![[Pasted image 20240430112300.png]]
 
+### obtenemos acceso a la pagina
+![[Pasted image 20240430113141.png]]
