@@ -50,7 +50,9 @@ parece no poder encontrar el dominio. podemos hacer fuzzing para investigar mas 
 no encontramos gran cosa en la enumeración de directorios así que vamos a enumerar subdominios 
 ![[Pasted image 20240430105327.png]]
 
-### Fuzzing con wfuzz
+### Fuzzing con wfuzz (subtominios)
+tenemos un subdominio algo interesante. 
+![[Pasted image 20240430112533.png]]
 
 
 
