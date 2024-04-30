@@ -47,4 +47,5 @@ parece no poder encontrar el dominio. podemos hacer fuzzing para investigar mas 
 ![[Pasted image 20240430105130.png]]
 
 ### Fuzzing con ffuzz
-
+no encontramos gran cosa en la enumeracion de direcctorios asi que vamos a enumerar subdominios
+![[Pasted image 20240430105327.png]]
