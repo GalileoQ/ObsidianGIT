@@ -54,7 +54,8 @@ no encontramos gran cosa en la enumeración de directorios así que vamos a enum
 tenemos un subdominio algo interesante. 
 ![[Pasted image 20240430112533.png]]
 
-
+`este subdominio nos lleva a una pagina de login en el cual podemos ver la versión del CMS`
+![[Pasted image 20240430112604.png]]
 
 
 ![[Pasted image 20240430112300.png]]
