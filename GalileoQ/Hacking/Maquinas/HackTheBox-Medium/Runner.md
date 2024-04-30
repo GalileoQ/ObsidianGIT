@@ -66,4 +66,6 @@ obtenemos un Username y una Password. además también obtenemos el token de ses
 ![[Pasted image 20240430112300.png]]
 
 ### obtenemos acceso a la pagina
+ahora solo debemos conseguir la manera de obtener una reverse shell
 ![[Pasted image 20240430113141.png]]
+
