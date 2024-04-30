@@ -39,5 +39,8 @@ Nmap done: 1 IP address (1 host up) scanned in 32.30 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-
+por el momento no vemos nada interesante. vamos a enumerar el puerto 8000
 ![[Pasted image 20240430104302.png]]
+
+### Enumeración del puerto 8000 (http)
+
