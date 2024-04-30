@@ -43,5 +43,8 @@ por el momento no vemos nada interesante. vamos a enumerar el puerto 8000
 ![[Pasted image 20240430104302.png]]
 
 ### Enumeración del puerto 8000 (http)
-parece no poder encontrar el dominio. podemos hacer fuzzing para inver
+parece no poder encontrar el dominio. podemos hacer fuzzing para investigar mas a fondo
 ![[Pasted image 20240430105130.png]]
+
+### Fuzzing con ffuzz
+
