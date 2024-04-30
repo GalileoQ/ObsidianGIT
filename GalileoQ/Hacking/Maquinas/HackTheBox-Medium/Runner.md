@@ -57,5 +57,8 @@ tenemos un subdominio algo interesante.
 `este subdominio nos lleva a una pagina de login en el cual podemos ver la versión del CMS`
 ![[Pasted image 20240430112604.png]]
 
+### Exploit-DB
+conseguimos una CVE para esta versión que nos permite realizar un R
+![[Pasted image 20240430112728.png]]
 
 ![[Pasted image 20240430112300.png]]
