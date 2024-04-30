@@ -51,3 +51,8 @@ no encontramos gran cosa en la enumeración de directorios así que vamos a enum
 ![[Pasted image 20240430105327.png]]
 
 ### Fuzzing con wfuzz
+
+
+
+
+![[Pasted image 20240430112300.png]]
