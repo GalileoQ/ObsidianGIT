@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
+                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240430104302.png",
     "Pasted image 20240430105327.png",
     "Pasted image 20240430112533.png",
