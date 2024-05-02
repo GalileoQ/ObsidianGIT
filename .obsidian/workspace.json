@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
+    "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240430104302.png",
@@ -181,7 +183,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "Template Pentesting Notes/Pentest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
