@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "telnet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md"
               }
             }
           }
@@ -163,6 +162,8 @@
   },
   "active": "ac46ef89b0c6274c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Nota.md",
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
@@ -197,8 +198,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
-    "Template Pentesting Notes/Pentest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
