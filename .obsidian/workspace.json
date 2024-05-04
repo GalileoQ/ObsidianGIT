@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac46ef89b0c6274c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "telnet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md"
               }
             }
           }
@@ -147,10 +161,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afa07b6164bd8da3",
+  "active": "ac46ef89b0c6274c",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
