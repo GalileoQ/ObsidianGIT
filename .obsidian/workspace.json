@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac46ef89b0c6274c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md"
               }
             }
           }
@@ -160,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac46ef89b0c6274c",
+  "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
@@ -186,7 +174,6 @@
     "Pasted image 20240418131443.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
