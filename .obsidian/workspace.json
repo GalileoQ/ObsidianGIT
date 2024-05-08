@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usuarios",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
+    "Pasted image 20240507222633.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
@@ -184,8 +185,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "Pasted image 20240430112604.png",
     "Pasted image 20240430112300.png",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
