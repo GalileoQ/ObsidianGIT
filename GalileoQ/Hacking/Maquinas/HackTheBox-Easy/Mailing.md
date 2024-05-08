@@ -88,3 +88,6 @@ tenemos un botón para descargar instrucciones asi que esto puede ser interesant
 despues de investigar un poco he descubierto que esta pagina usa hmailserver el cual es vulnerable a un `LFI` 
 ![[Pasted image 20240507212620.png]]
 
+### hmailserver
+apuntando al archivo de configuración de hmail puedo descargar el archivo de configuración completo en el cual he obtenido credenciales 
+![[Pasted image 20240507212845.png]]
