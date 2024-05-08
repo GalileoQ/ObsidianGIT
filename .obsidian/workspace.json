@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md"
               }
             }
           }
@@ -150,6 +150,11 @@
   },
   "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
@@ -170,7 +175,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Pasted image 20240430104302.png",
     "Pasted image 20240430105327.png",
@@ -182,10 +186,6 @@
     "Pasted image 20240430112300.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
