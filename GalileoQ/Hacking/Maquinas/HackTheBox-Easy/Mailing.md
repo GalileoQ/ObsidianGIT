@@ -81,7 +81,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80
+tenemos un botón para descargar instrucciones asi que esto puede ser interesante 
+![[Pasted image 20240507212653.png]]
 
-
-### CVE LFI
+### CVE = LFI
+despues de 
 ![[Pasted image 20240507212620.png]]
