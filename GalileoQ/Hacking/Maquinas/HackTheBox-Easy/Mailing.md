@@ -80,3 +80,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Sat May  4 15:11:47 2024 -- 1 IP address (1 host up) scanned in 145.93 seconds
 ```
 
+### Enumeración del puerto 80
+
+
+### CVE LFI
+![[Pasted image 20240507212620.png]]
