@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "usuarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
               }
             }
           }
@@ -149,13 +150,19 @@
   },
   "active": "afa07b6164bd8da3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "Pasted image 20240507212845.png",
     "Pasted image 20240507212653.png",
     "Pasted image 20240507212620.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
@@ -173,18 +180,12 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "Pasted image 20240430112604.png",
     "Pasted image 20240430112300.png",
-    "Pasted image 20240430105130.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Anthem.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
