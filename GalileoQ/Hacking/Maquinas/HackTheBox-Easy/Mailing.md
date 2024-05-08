@@ -85,5 +85,6 @@ tenemos un botón para descargar instrucciones asi que esto puede ser interesant
 ![[Pasted image 20240507212653.png]]
 
 ### CVE = LFI
-despues de 
+despues de investigar un poco he descubierto que esta pagina usa hmailserver el cual es vulnerable a un `LFI` 
 ![[Pasted image 20240507212620.png]]
+
