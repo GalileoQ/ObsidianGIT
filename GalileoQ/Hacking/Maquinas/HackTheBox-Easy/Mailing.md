@@ -126,3 +126,6 @@ después de buscar un poco en internet encontré esta `CVE`
 una ves descargado el exploit debemos verificar el estado del usuario maya
 ![[Pasted image 20240509184419.png]]
 
+### Usaremos un servidor de intermediario para poder enviarnos los archivos 
+
+![[Pasted image 20240509184626.png]]
