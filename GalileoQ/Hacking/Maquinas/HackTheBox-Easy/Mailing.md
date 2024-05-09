@@ -130,6 +130,8 @@ una ves descargado el exploit debemos verificar el estado del usuario maya
 
 ![[Pasted image 20240509184626.png]]
 
-### Una vez tenemos el exploit podemos dumpear la sam
+### Usando ```
+crackmapexec smb
+``` podemos dumpear la sam
 
 ![[Pasted image 20240509184733.png]]
