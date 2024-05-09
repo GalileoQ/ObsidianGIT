@@ -93,5 +93,9 @@ apuntando al archivo de configuración de hmailserver puedo descargar el archivo
 ![[Pasted image 20240507212845.png]]
 
 ### Validando usuarios y contraseñas
-
+no tenemos exito. 
 ![[Pasted image 20240507222633.png]]
+
+### Responder
+despues de investigar un poco hemos encontrad
+![[Pasted image 20240509175100.png]]
