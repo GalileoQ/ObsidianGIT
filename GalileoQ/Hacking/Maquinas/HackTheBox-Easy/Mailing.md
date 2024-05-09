@@ -115,5 +115,6 @@ logramos obtener conexión con la maquina haciendo uso de las credenciales que h
 ![[Pasted image 20240509181251.png]]
 
 ### Escalada de privilegios
-tenemos un montón de privilegios que podrian ayudarnos a elev
+tenemos un montón de privilegios que podrían ayudarnos a elevar privilegios
 ![[Pasted image 20240509181906.png]]
+
