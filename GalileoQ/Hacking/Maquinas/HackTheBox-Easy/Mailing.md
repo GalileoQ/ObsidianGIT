@@ -129,3 +129,7 @@ una ves descargado el exploit debemos verificar el estado del usuario maya
 ### Usaremos un servidor de intermediario para poder enviarnos los archivos 
 
 ![[Pasted image 20240509184626.png]]
+
+### Una vez tenemos el exploit podemos dumpear la sam
+
+![[Pasted image 20240509184733.png]]
