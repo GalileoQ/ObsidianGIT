@@ -122,6 +122,7 @@ tenemos un montón de privilegios que podrían ayudarnos a elevar privilegios
 después de buscar un poco en internet encontré esta `CVE` 
 ![[Pasted image 20240509183033.png]]
 
-### vamos a agregar 
-
+### descargamos el exploit que hemos creado
+una ves descargado el exploit debemos verificar el estado del usuario maya
 ![[Pasted image 20240509184419.png]]
+
