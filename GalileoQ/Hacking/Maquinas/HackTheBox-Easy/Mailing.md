@@ -98,7 +98,7 @@ no tenemos exito.
 
 
 ### telnet
-con estas credenciales vamos a intentar una 
+con estas credenciales vamos a intentar una conexión vía telnet al p 
 ![[Pasted image 20240509175454.png]]
 ### Responder
 despues de investigar un poco hemos encontrado el usuario administrator el cual nos permite ejecutar el siguiente `POC`
