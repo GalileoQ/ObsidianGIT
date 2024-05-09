@@ -134,3 +134,6 @@ una ves descargado el exploit debemos verificar el estado del usuario maya
 
 ![[Pasted image 20240509184733.png]]
 
+### impacket-wmiexec
+con esta herramienta de impacket podemos establecer una conexión via localadmin 
+![[Pasted image 20240509190417.png]]
