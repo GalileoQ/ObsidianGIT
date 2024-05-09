@@ -105,3 +105,4 @@ con estas credenciales vamos a intentar una conexión vía telnet al puerto 110
 despues de investigar un poco hemos encontrado el usuario administrator el cual nos permite ejecutar el siguiente `POC`
 `Esta CVE nos permite enviar un correo electronico y con el responder vamos a estar a la escucha para poder obtener un hash NTLMv2 el cual podemos crackear`
 ![[Pasted image 20240509175100.png]]
+
