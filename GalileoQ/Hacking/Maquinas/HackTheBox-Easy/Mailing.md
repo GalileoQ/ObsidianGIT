@@ -118,3 +118,6 @@ logramos obtener conexión con la maquina haciendo uso de las credenciales que h
 tenemos un montón de privilegios que podrían ayudarnos a elevar privilegios
 ![[Pasted image 20240509181906.png]]
 
+### 
+después de buscar un poco en internet encontré esta CVE
+![[Pasted image 20240509183033.png]]
