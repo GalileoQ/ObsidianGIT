@@ -106,3 +106,4 @@ despues de investigar un poco hemos encontrado el usuario administrator el cual 
 `Esta CVE nos permite enviar un correo electronico y con el responder vamos a estar a la escucha para poder obtener un hash NTLMv2 el cual podemos crackear`
 ![[Pasted image 20240509175100.png]]
 
+`crackeamos el hash NTLMv2 `
