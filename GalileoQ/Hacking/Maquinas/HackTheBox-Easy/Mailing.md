@@ -109,3 +109,6 @@ despues de investigar un poco hemos encontrado el usuario administrator el cual 
 `crackeamos el hash NTLMv2 con john`
 obtenemos la contraseña en texto claro de maya
 ![[Pasted image 20240509180343.png]]
+
+### estableciendo conexión
+
