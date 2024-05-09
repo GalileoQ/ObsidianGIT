@@ -97,5 +97,6 @@ no tenemos exito.
 ![[Pasted image 20240507222633.png]]
 
 ### Responder
-despues de investigar un poco hemos encontrado el usuario administrator el cual nos permite ejecutar el siguiente `POC` 
+despues de investigar un poco hemos encontrado el usuario administrator el cual nos permite ejecutar el siguiente `POC`
+`Esta CVE nos permite enviar un correo electronico `
 ![[Pasted image 20240509175100.png]]
