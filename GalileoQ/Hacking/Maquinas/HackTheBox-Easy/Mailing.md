@@ -122,5 +122,6 @@ tenemos un montón de privilegios que podrían ayudarnos a elevar privilegios
 después de buscar un poco en internet encontré esta `CVE` 
 ![[Pasted image 20240509183033.png]]
 
+### 
 
 ![[Pasted image 20240509184303.png]]
