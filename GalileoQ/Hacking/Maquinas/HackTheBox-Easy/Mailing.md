@@ -114,3 +114,4 @@ obtenemos la contraseña en texto claro de maya
 logramos obtener conexión con la maquina haciendo uso de las credenciales que hemos conseguido antes
 ![[Pasted image 20240509181251.png]]
 
+### Escalada De
