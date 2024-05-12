@@ -78,6 +78,9 @@ Nmap done: 1 IP address (1 host up) scanned in 169.46 seconds
 verificamos la información que hemos obtenido anteriormente sobre el nombre del dominio 
 ![[Pasted image 20240512164502.png]]
 
+### dnsrecon
+dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
+![[Pasted image 20240512164739.png]]
 
 ### Enumeración del puerto 80 (http)
 
