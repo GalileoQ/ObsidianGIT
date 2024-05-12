@@ -88,6 +88,8 @@ dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 `ldap._tcp: Estos registros SRV indican la ubicación de los servidores LDAP (Protocolo Ligero de Acceso a Directorios) en el dominio. LDAP se utiliza para acceder y mantener información de directorios distribuidos. Podrías utilizar esta información para realizar consultas LDAP y recuperar información sobre objetos de Active Directory.
 
 `kpasswd._udp y _kpasswd._tcp: Estos registros SRV indican la ubicación del servicio de cambio de contraseña de Kerberos. Podrías usar esta información para cambiar contraseñas en el dominio si tienes los permisos adecuados.
+
+###### aprovecg
 ![[Pasted image 20240512164846.png]]
 ### Enumeración del puerto 80 (http)
 
