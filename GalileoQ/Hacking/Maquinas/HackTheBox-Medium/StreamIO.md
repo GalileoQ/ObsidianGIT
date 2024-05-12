@@ -89,7 +89,7 @@ dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 
 `kpasswd._udp y _kpasswd._tcp: Estos registros SRV indican la ubicación del servicio de cambio de contraseña de Kerberos. Podrías usar esta información para cambiar contraseñas en el dominio si tienes los permisos adecuados.
 
-###### aprovecg
+###### aprovechando estos registros de kerberos vamos a intentar enumerar usuarios
 ![[Pasted image 20240512164846.png]]
 ### Enumeración del puerto 80 (http)
 
