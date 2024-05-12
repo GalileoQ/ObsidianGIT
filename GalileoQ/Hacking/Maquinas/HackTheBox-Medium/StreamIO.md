@@ -82,12 +82,12 @@ verificamos la información que hemos obtenido anteriormente sobre el nombre del
 dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 ![[Pasted image 20240512164739.png]]
 `kerberos._tcp: Estos registros SRV indican la ubicación de los servicios de Kerberos en el dominio. Kerberos es un protocolo de autenticación seguro ampliamente utilizado en sistemas informáticos. Con esta información, podrías intentar autenticarte en el dominio utilizando Kerberos y acceder a recursos protegidos por él.
-    
-2. **_gc._tcp: Estos registros SRV indican la ubicación de los controladores de dominio global (Global Catalog) en el dominio. El Global Catalog almacena información sobre todos los objetos en el bosque de Active Directory. Podrías usar esta información para acceder al catálogo global y recuperar información sobre objetos de Active Directory.
-    
-3. **_ldap._tcp**: Estos registros SRV indican la ubicación de los servidores LDAP (Protocolo Ligero de Acceso a Directorios) en el dominio. LDAP se utiliza para acceder y mantener información de directorios distribuidos. Podrías utilizar esta información para realizar consultas LDAP y recuperar información sobre objetos de Active Directory.
-    
-4. **_kpasswd._udp y _kpasswd._tcp**: Estos registros SRV indican la ubicación del servicio de cambio de contraseña de Kerberos. Podrías usar esta información para cambiar contraseñas en el dominio si tienes los permisos adecuados.
+
+`gc._tcp: Estos registros SRV indican la ubicación de los controladores de dominio global (Global Catalog) en el dominio. El Global Catalog almacena información sobre todos los objetos en el bosque de Active Directory. Podrías usar esta información para acceder al catálogo global y recuperar información sobre objetos de Active Directory.
+
+`ldap._tcp: Estos registros SRV indican la ubicación de los servidores LDAP (Protocolo Ligero de Acceso a Directorios) en el dominio. LDAP se utiliza para acceder y mantener información de directorios distribuidos. Podrías utilizar esta información para realizar consultas LDAP y recuperar información sobre objetos de Active Directory.
+
+`kpasswd._udp y _kpasswd._tcp: Estos registros SRV indican la ubicación del servicio de cambio de contraseña de Kerberos. Podrías usar esta información para cambiar contraseñas en el dominio si tienes los permisos adecuados.
 ![[Pasted image 20240512164846.png]]
 ### Enumeración del puerto 80 (http)
 
