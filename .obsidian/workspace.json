@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bc0cb917b710d34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "puer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,12 +153,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afa07b6164bd8da3",
+  "active": "e2e1d4d1f401f2c7",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240512164212.png",
     "Pasted image 20240512164118.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240509190417.png",
     "Pasted image 20240509184733.png",
     "Pasted image 20240509184626.png",
@@ -161,7 +167,6 @@
     "Pasted image 20240509183033.png",
     "Pasted image 20240509181906.png",
     "Pasted image 20240509181251.png",
-    "Pasted image 20240509180343.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",

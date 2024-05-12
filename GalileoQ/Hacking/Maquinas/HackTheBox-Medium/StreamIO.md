@@ -74,6 +74,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 169.46 seconds
 ```
 
+### Enumeración del puerto 53 (Domain)
 
 
 ### Enumeración del puerto 80 (http)
