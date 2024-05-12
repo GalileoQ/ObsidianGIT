@@ -81,7 +81,7 @@ verificamos la información que hemos obtenido anteriormente sobre el nombre del
 ### dnsrecon
 dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 ![[Pasted image 20240512164739.png]]
-
+![[Pasted image 20240512164846.png]]
 ### Enumeración del puerto 80 (http)
 
 ![[Pasted image 20240512164212.png]]
