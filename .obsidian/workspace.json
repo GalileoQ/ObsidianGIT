@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Enumeración del puerto 53",
+                "query": "kerbrute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+                "file": "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md"
               }
             }
           }
@@ -160,12 +161,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afa07b6164bd8da3",
+  "active": "0bc0cb917b710d34",
   "lastOpenFiles": [
-    "Pasted image 20240512164846.png",
-    "Pasted image 20240512164739.png",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+    "Pasted image 20240512164846.png",
+    "Pasted image 20240512164739.png",
     "Pasted image 20240512164502.png",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
@@ -177,7 +180,6 @@
     "Pasted image 20240509184626.png",
     "Pasted image 20240509184419.png",
     "Pasted image 20240509184303.png",
-    "Pasted image 20240509183033.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",
@@ -197,7 +199,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
