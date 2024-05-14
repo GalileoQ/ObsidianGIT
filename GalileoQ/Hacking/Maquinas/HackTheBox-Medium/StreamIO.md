@@ -146,4 +146,7 @@ ahora intentaremos iniciar sesión con la cuenta que hemos creado
 tenemos un login failed parece que tampoco podemos acceder por este camino
 ![[Pasted image 20240514133939.png]]
 
-### Enumeración del puerto 80 (https) 
+### Enumeración del puerto 80 (https) segundo dominio
+vamos a comenzar con la enumeración del segundo dominio 
+![[Pasted image 20240514134458.png]]
+
