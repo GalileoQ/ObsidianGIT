@@ -143,5 +143,6 @@ ahora intentaremos iniciar sesión con la cuenta que hemos creado
 ![[Pasted image 20240514133829.png]]
 
 `login`
-tenemos un login faill
+tenemos un login failed parece que tampoco podemos acceder por este camino
 ![[Pasted image 20240514133939.png]]
+
