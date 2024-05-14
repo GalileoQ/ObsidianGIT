@@ -179,7 +179,9 @@ con este payload hemos identificado la versión de la base de datos
 en este caso vamos a usar la biblia de los payload [PayloadAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/) aqui podemos conseguir un monton de payloads diferentes para cada base de datos
 ![[Pasted image 20240514144629.png]]
 
-`MSSQLI ` 
+`MSSQLI DB_NAME` 
 recordemos que podemos interactuar bajo la posición numero 2 y 3 en este caso yo usare la numero 2 para inyectar la query que usaremos para enumerar el nombre de la base de datos. de esta manera logramos enumerar correctamente la base de datos
 ![[Pasted image 20240514144652.png]]
 
+###### haciendo uso del mismo repo vamos a utilizar una nueva query para
+![[Pasted image 20240514145156.png]]
