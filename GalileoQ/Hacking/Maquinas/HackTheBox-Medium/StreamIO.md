@@ -123,7 +123,13 @@ despues de aplicar fuzzing puedo llegar a enumerar varios subdominios
 
 ### Enumeración de rutas .php
 al enumerar archivos .php tambien encontramos varias rutas bastante interesantes
-```
+```python
+	https://streamio.htb/register.php
+	
+	https://streamio.htb/login.php
 ```
 ![[Pasted image 20240514133058.png]]
+
+`register`
+![[Pasted image 20240514133354.png]]
 
