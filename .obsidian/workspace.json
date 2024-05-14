@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md"
               }
             }
           }
@@ -173,8 +172,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d0b67624b296a3f",
+  "active": "be72f78080d08bb5",
   "lastOpenFiles": [
+    "Pasted image 20240514183554.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -209,8 +210,6 @@
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",

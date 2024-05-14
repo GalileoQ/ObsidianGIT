@@ -83,4 +83,6 @@ obtenemos una reverse shell en Powareshell
 ![[Pasted image 20240514173930.png]]
 
 ### Escalada de Privilegio
+despues de indagar un poco hemos encontrado una base de datos que vamos a descargar
+![[Pasted image 20240514183554.png]]
 
