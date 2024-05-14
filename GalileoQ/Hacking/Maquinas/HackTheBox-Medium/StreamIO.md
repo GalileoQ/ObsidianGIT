@@ -121,3 +121,6 @@ después de esperar unos minutos no he recibido nada así que por el momento des
 despues de aplicar fuzzing puedo llegar a enumerar varios subdominios
 ![[Pasted image 20240514132853.png]]
 
+### Enumeración de rutas .php
+al enumerar archivos .php tambien encontramos 
+![[Pasted image 20240514133058.png]]
