@@ -157,5 +157,6 @@ parece que este panel trabaja igual que los anteriores. me permite agregar un nu
 al aplicar fuzzing el nuevo dominio hemos descubierto una nueva ruta `search` 
 ![[Pasted image 20240514135630.png]]
 
-``
+`watch.streamio.htb/search.php`
+hemos conseguido otro panel el cual parece ser el encargado de administrar las búsquedas de las peliculas  
 ![[Pasted image 20240514135740.png]]
