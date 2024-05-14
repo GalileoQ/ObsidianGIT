@@ -86,3 +86,4 @@ obtenemos una reverse shell en Powareshell
 despues de indagar un poco hemos encontrado una base de datos que vamos a descargar
 ![[Pasted image 20240514183554.png]]
 
+### sqli
