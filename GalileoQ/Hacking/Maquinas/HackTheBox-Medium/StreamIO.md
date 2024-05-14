@@ -160,3 +160,4 @@ al aplicar fuzzing el nuevo dominio hemos descubierto una nueva ruta `search`
 `watch.streamio.htb/search.php`
 hemos conseguido otro panel el cual parece ser el encargado de administrar las búsquedas de las peliculas  
 ![[Pasted image 20240514135740.png]]
+
