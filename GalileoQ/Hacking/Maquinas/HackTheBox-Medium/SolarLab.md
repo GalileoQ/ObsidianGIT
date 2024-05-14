@@ -56,5 +56,8 @@ al abrir el archivo obtenemos credenciales de usuarios y contraseñas
 ![[Pasted image 20240514153425.png]]
 
 ### Crackmapexec
-creamos un archivo que contenga los usuarios y uno que contenga las contrase
+creamos un archivo que contenga los usuarios y uno que contenga las contraseñas y validamos usuarios. 
 ![[Pasted image 20240514155158.png]]
+
+### Enumeración del puerto 80 (http) Port:6791
+![[Pasted image 20240514155310.png]]
