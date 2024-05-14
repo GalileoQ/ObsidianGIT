@@ -175,3 +175,6 @@ con este payload hemos identificado la versión de la base de datos
 ```
 ![[Pasted image 20240514140242.png]]
 
+### MSSQL Injection
+en este caso vamos a usar la biblia de los payload 
+![[Pasted image 20240514140914.png]]
