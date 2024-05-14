@@ -79,5 +79,5 @@ después de hacer un montón de pruebas hemos encontrado una CVE que funciona. s
 interceptamos la petición con burpsuite y usando este comando y cambiando el `touch /tmp/exploited` por una reverse shell de powareshell en base64 logramos establecer una conexión
 ![[Pasted image 20240514174437.png]]
 ### Estaremos a la escucha
-obtenemos una reverse shell en P
+obtenemos una reverse shell en Powareshell 
 ![[Pasted image 20240514173930.png]]
