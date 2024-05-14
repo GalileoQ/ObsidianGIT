@@ -117,3 +117,7 @@ de esta manera podemos intentar recibir una petición vía `GET` para saber si p
 después de esperar unos minutos no he recibido nada así que por el momento descartamos esta ruta
 ![[Pasted image 20240514131724.png]]
 
+### Fuzzing con wfuzz
+despues de aplicar fuzzing puedo llegar a enumerar varios subdominios
+![[Pasted image 20240514132853.png]]
+
