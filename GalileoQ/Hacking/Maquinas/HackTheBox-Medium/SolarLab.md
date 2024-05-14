@@ -71,9 +71,8 @@ con las credenciales que hemos conseguido logramos tener acceso a la pagina de l
 ### CVE 2023-33733
 después de hacer un montón de pruebas hemos encontrado una CVE que funciona. solo debemos hacer un git clone del repo e instalar los requirements para poder ejecutar esta prueba
 ![[Pasted image 20240514174512.png]]
-
 ### Burpsuite
-usando este comando y cambiando el 
+usando este comando y cambiando el `touch /tmp/exploited` por una reverse shell de powareshell en base64 logramos establecer una conexión
 ![[Pasted image 20240514174437.png]]
 ### Estaremos a la escucha
 obtenemos una reverse shell
