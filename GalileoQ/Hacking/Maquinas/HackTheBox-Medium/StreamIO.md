@@ -139,5 +139,9 @@ hemos registrado la cuenta con exito
 ![[Pasted image 20240514133652.png]]
 
 `login`
-ahora intentaremos iniciar sesion con la cuenta que hemos creado
+ahora intentaremos iniciar sesión con la cuenta que hemos creado
 ![[Pasted image 20240514133829.png]]
+
+`login`
+tenemos un login faill
+![[Pasted image 20240514133939.png]]
