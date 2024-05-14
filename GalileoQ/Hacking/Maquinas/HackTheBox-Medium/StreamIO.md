@@ -154,3 +154,5 @@ parece que este panel trabaja igual que los anteriores. me permite agregar un nu
 ![[Pasted image 20240514135313.png]]
 
 ### Fuzzing con wfuzz
+al aplicar fuzzing el nuevo domini
+![[Pasted image 20240514135630.png]]
