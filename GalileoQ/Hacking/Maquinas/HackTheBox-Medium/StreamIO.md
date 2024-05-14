@@ -99,5 +99,9 @@ dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 el dominio que hemos encontrado esta corriendo por `https` la cual nos lleva a la siguiente pagina donde podemos ver el apartado de contacto
 ![[Pasted image 20240512164118.png]]
 
+### Enumeración de usuarios 
+en el apartado de `about` tenemos tres usuarios que podemos intentar validar
+![[Pasted image 20240514130745.png]]
+
 ### Prueba de 
 ![[Pasted image 20240514130608.png]]
