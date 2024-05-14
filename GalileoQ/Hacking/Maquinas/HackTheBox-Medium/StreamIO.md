@@ -106,5 +106,9 @@ en el apartado de `about` tenemos tres usuarios que podemos intentar validar
 ### Kerbrute
 no tenemos exito en la enumeración de usuarios
 ![[Pasted image 20240514131051.png]]
-### Prueba de 
+### Prueba de "XXS"
 ![[Pasted image 20240514130608.png]]
+
+`XXS`
+de esta manera podemos intentar recibir una peticion via `GET` 
+![[Pasted image 20240514131520.png]]
