@@ -113,3 +113,6 @@ no tenemos exito en la enumeración de usuarios
 de esta manera podemos intentar recibir una petición vía `GET` para saber si podríamos posteriormente realizar un `SSRF` 
 ![[Pasted image 20240514131520.png]]
 
+`python server`
+despues de esperar unos minutos no he recibido nada asi que por el momento descartamos esta 
+![[Pasted image 20240514131724.png]]
