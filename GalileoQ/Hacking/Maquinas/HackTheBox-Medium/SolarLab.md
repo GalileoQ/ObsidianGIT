@@ -53,5 +53,6 @@ Nmap done: 1 IP address (1 host up) scanned in 124.66 seconds
 
 
 ### SMB
-logramos establecer una coneccion por `SMB` y en el recurso compartido Documents obtenemos un archivo llamado `details`
+logramos establecer una coneccion por `SMB` y en el recurso compartido Documents obtenemos un archivo llamado `details-file.xlsx`
 ![[Pasted image 20240514152944.png]]
+
