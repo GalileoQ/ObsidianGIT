@@ -162,12 +162,12 @@ hemos conseguido otro panel el cual parece ser el encargado de administrar las b
 ![[Pasted image 20240514135740.png]]
 
 ### SQLI
-después de hacer un montón de pruebas hemos descubierto que la pagina web esta conectada a una base de datos que es vulnerable para `SQLI`
+después de hacer un montón de pruebas hemos descubierto que la pagina web esta conectada a una base de datos que es vulnerable para `SQLI` con este payl
 ![[Pasted image 20240514140105.png]]
 
 `MSQL` 
-con este payload hemos identificado la version de la base de datos
+con este payload hemos identificado la versión de la base de datos
 ```python
-	
+	10' union select 1,@@version,3,4,5,6--
 ```
 ![[Pasted image 20240514140242.png]]
