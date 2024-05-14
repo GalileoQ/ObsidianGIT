@@ -64,5 +64,10 @@ tenemos un login y un montón de usuarios y contraseñas que podemos usar para i
 `Nota: tenemos que hacer una pequeña lista de usuarios en la cual agregamos la inicial del segundo nombre de los usuarios al inicio y al final del nombre. esto nos ha resultado en que el usuario blaker realmente es blakern`
 ![[Pasted image 20240514155310.png]]
 
+### ReportHub
+con las credenciales que hemos conseguido logramos tener acceso a la pagina de login
+![[Pasted image 20240514161941.png]]
+
+### CVE 2023-33733
 
 ![[Pasted image 20240514161739.png]]
