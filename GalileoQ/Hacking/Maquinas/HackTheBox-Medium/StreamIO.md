@@ -114,5 +114,6 @@ de esta manera podemos intentar recibir una petición vía `GET` para saber si p
 ![[Pasted image 20240514131520.png]]
 
 `python server`
-despues de esperar unos minutos no he recibido nada asi que por el momento descartamos esta 
+despues de esperar unos minutos no he recibido nada asi que por el momento descartamos esta ruta
 ![[Pasted image 20240514131724.png]]
+
