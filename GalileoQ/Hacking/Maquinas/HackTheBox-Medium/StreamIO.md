@@ -149,4 +149,6 @@ tenemos un login failed parece que tampoco podemos acceder por este camino
 ### Enumeración del puerto 80 (https) segundo dominio
 vamos a comenzar con la enumeración del segundo dominio 
 ![[Pasted image 20240514134458.png]]
-
+`prueba`
+parece que este panel trabaja igual que los a
+![[Pasted image 20240514135313.png]]
