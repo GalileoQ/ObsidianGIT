@@ -154,5 +154,8 @@ parece que este panel trabaja igual que los anteriores. me permite agregar un nu
 ![[Pasted image 20240514135313.png]]
 
 ### Fuzzing con wfuzz
-al aplicar fuzzing el nuevo domini
+al aplicar fuzzing el nuevo dominio hemos descubierto una nueva ruta `search` 
 ![[Pasted image 20240514135630.png]]
+
+``
+![[Pasted image 20240514135740.png]]
