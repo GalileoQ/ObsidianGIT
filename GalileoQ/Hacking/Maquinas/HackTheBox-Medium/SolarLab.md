@@ -51,3 +51,6 @@ Nmap done: 1 IP address (1 host up) scanned in 124.66 seconds
 logramos establecer una coneccion por `SMB` y en el recurso compartido Documents obtenemos un archivo llamado `details-file.xlsx`
 ![[Pasted image 20240514152944.png]]
 
+`libreoffice`
+al abrir el archivo obtenemos credenciales de usuarios y contraseñas 
+![[Pasted image 20240514153425.png]]
