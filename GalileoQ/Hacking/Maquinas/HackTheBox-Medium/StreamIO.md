@@ -162,5 +162,7 @@ hemos conseguido otro panel el cual parece ser el encargado de administrar las b
 ![[Pasted image 20240514135740.png]]
 
 ### SQLI
-despues de hacer un monton de pruebas hemos descubierto que la pagina web esta conectada a una base de datos que es vulnerable para `SQLI
+después de hacer un montón de pruebas hemos descubierto que la pagina web esta conectada a una base de datos que es vulnerable para `SQLI`
 ![[Pasted image 20240514140105.png]]
+
+![[Pasted image 20240514140242.png]]
