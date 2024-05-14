@@ -165,4 +165,9 @@ hemos conseguido otro panel el cual parece ser el encargado de administrar las b
 después de hacer un montón de pruebas hemos descubierto que la pagina web esta conectada a una base de datos que es vulnerable para `SQLI`
 ![[Pasted image 20240514140105.png]]
 
+`MSQL` 
+con este payload hemos identificado la version de la base de datos
+```python
+	
+```
 ![[Pasted image 20240514140242.png]]
