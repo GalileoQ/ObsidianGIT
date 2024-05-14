@@ -177,5 +177,7 @@ con este payload hemos identificado la versión de la base de datos
 
 ### MSSQL Injection
 en este caso vamos a usar la biblia de los payload [PayloadAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/) aqui podemos conseguir un monton de payloads diferentes para cada base de datos
-![[Pasted image 20240514140914.png]]
+![[Pasted image 20240514144629.png]]
 
+`MSSQLI` 
+![[Pasted image 20240514144652.png]]
