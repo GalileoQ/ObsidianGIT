@@ -81,3 +81,6 @@ interceptamos la petición con burpsuite y usando este comando y cambiando el `t
 ### Estaremos a la escucha
 obtenemos una reverse shell en Powareshell 
 ![[Pasted image 20240514173930.png]]
+
+### Escalada de Privilegio
+
