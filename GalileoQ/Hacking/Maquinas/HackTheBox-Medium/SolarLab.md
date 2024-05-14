@@ -61,7 +61,7 @@ creamos un archivo que contenga los usuarios y uno que contenga las contraseñas
 
 ### Enumeración del puerto 80 (http) Port:6791
 tenemos un login y un montón de usuarios y contraseñas que podemos usar para intentar iniciar sesión
-`Nota: tenemos que hacer una pequeña lista de usuarios en la cual agregamos la inicial del segundo`
+`Nota: tenemos que hacer una pequeña lista de usuarios en la cual agregamos la inicial del segundo nombre de los usuarios al inicio y al final del nombre. esto nos ha resultado en que el usuario blaker realmente es blakern`
 ![[Pasted image 20240514155310.png]]
 
 
