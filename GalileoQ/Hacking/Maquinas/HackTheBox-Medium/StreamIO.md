@@ -131,5 +131,6 @@ al enumerar archivos .php tambien encontramos varias rutas bastante interesantes
 ![[Pasted image 20240514133058.png]]
 
 `register`
-![[Pasted image 20240514133354.png]]
+podemos intentar registrarnos en la pagina
+![[Pasted image 20240514133630.png]]
 
