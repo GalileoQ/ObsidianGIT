@@ -72,5 +72,6 @@ con las credenciales que hemos conseguido logramos tener acceso a la pagina de l
 después de hacer un montón de pruebas hemos encontrado una CVE que funciona. solo debemos hacer un git clone del repo e instalar los requirements para poder ejecutar esta prueba
 ![[Pasted image 20240514161739.png]]
 
-###
+### Estaremos a la escucha
+obtenemos una reverse shell
 ![[Pasted image 20240514173930.png]]
