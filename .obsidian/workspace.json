@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerbrute",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md"
               }
             }
           }
@@ -160,20 +160,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afa07b6164bd8da3",
+  "active": "0bc0cb917b710d34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240514131724.png",
     "Pasted image 20240514131520.png",
     "Pasted image 20240514131051.png",
     "Pasted image 20240514130745.png",
     "Pasted image 20240514130608.png",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240512164846.png",
     "Pasted image 20240512164739.png",
     "Pasted image 20240512164502.png",
@@ -182,7 +182,6 @@
     "Pasted image 20240512164212.png",
     "Pasted image 20240512164118.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
-    "Pasted image 20240509190417.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",
