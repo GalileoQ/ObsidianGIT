@@ -134,3 +134,7 @@ al enumerar archivos .php tambien encontramos varias rutas bastante interesantes
 podemos intentar registrarnos en la pagina
 ![[Pasted image 20240514133630.png]]
 
+`register`
+hemos registrado la cuenta con exito
+![[Pasted image 20240514133652.png]]
+
