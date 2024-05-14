@@ -60,4 +60,6 @@ creamos un archivo que contenga los usuarios y uno que contenga las contraseñas
 ![[Pasted image 20240514155158.png]]
 
 ### Enumeración del puerto 80 (http) Port:6791
+tenemos un login y un montón de usuarios y contraseñas que podemos usar para intentar iniciar sesión 
 ![[Pasted image 20240514155310.png]]
+
