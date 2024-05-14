@@ -55,3 +55,6 @@ logramos establecer una coneccion por `SMB` y en el recurso compartido Documents
 al abrir el archivo obtenemos credenciales de usuarios y contraseñas 
 ![[Pasted image 20240514153425.png]]
 
+### Crackmapexec
+creamos un archivo que contenga los usuarios y uno que contenga las contrase
+![[Pasted image 20240514155158.png]]
