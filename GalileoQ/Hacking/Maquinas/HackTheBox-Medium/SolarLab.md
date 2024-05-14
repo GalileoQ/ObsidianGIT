@@ -69,5 +69,6 @@ con las credenciales que hemos conseguido logramos tener acceso a la pagina de l
 ![[Pasted image 20240514161941.png]]
 
 ### CVE 2023-33733
-después de hacer un montón de pruebas hemos encontrado una CVE que funciona. solo debemos hacer un 
+después de hacer un montón de pruebas hemos encontrado una CVE que funciona. solo debemos hacer un git clone del repo e instalar los requirements para poder ejecutar esta prueba
 ![[Pasted image 20240514161739.png]]
+
