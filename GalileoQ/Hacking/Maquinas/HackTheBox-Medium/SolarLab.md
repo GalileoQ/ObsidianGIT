@@ -48,3 +48,8 @@ Nmap done: 1 IP address (1 host up) scanned in 124.66 seconds
 ![[Pasted image 20240514151758.png]]
 
 ### Fuzzing con wfuzz
+
+
+
+
+### 
