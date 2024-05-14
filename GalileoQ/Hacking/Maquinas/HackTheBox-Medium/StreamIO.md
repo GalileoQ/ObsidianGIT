@@ -180,4 +180,5 @@ en este caso vamos a usar la biblia de los payload [PayloadAllTheThings](https:/
 ![[Pasted image 20240514144629.png]]
 
 `MSSQLI` 
+recordemos que podemos interactuar bajo la pisicion 
 ![[Pasted image 20240514144652.png]]
