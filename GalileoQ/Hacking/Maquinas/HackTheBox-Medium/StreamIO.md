@@ -95,7 +95,6 @@ dnsrecon nos muestra mucha mas información la cual podría llegar a ser util
 
 ![[Pasted image 20240512164212.png]]
 
-### Enumeración de usuari
 ### Enumeración del puerto 80 (https)
 el dominio que hemos encontrado esta corriendo por `https` la cual nos lleva a la siguiente pagina donde podemos ver el apartado de contacto
 ![[Pasted image 20240512164118.png]]
