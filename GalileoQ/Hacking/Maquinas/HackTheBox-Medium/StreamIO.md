@@ -103,5 +103,8 @@ el dominio que hemos encontrado esta corriendo por `https` la cual nos lleva a l
 en el apartado de `about` tenemos tres usuarios que podemos intentar validar
 ![[Pasted image 20240514130745.png]]
 
+### Kerbrute
+no tenemos exito en la enumeración de usuarios
+![[Pasted image 20240514131051.png]]
 ### Prueba de 
 ![[Pasted image 20240514130608.png]]
