@@ -150,5 +150,7 @@ tenemos un login failed parece que tampoco podemos acceder por este camino
 vamos a comenzar con la enumeración del segundo dominio 
 ![[Pasted image 20240514134458.png]]
 `prueba`
-parece que este panel trabaja igual que los a
+parece que este panel trabaja igual que los anteriores. me permite agregar un nuevo usuario pero puedo llamarlo desde ninguna parte. 
 ![[Pasted image 20240514135313.png]]
+
+### Fuzzing con wfuzz
