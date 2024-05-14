@@ -123,5 +123,7 @@ despues de aplicar fuzzing puedo llegar a enumerar varios subdominios
 
 ### Enumeración de rutas .php
 al enumerar archivos .php tambien encontramos varias rutas bastante interesantes
+```
+```
 ![[Pasted image 20240514133058.png]]
 
