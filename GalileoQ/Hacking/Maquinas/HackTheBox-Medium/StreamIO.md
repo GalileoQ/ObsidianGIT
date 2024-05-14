@@ -110,5 +110,6 @@ no tenemos exito en la enumeración de usuarios
 ![[Pasted image 20240514130608.png]]
 
 `XXS`
-de esta manera podemos intentar recibir una peticion via `GET` 
+de esta manera podemos intentar recibir una petición vía `GET` para saber si podríamos posteriormente realizar un `SSRF` 
 ![[Pasted image 20240514131520.png]]
+
