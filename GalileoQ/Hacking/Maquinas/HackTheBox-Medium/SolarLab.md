@@ -139,4 +139,6 @@ creamos un payload que nos permita conectarnos a la maquina y con un servidor en
 `descargamos el payload en la maquina victima`
 ![[Pasted image 20240514212432.png]]
 
-### /multi/
+### /multi/handler
+
+![[Pasted image 20240514212756.png]]
