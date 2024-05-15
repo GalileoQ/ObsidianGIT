@@ -90,3 +90,8 @@ despues de indagar un poco hemos encontrado una base de datos que vamos a descar
 obtenemos la base de datos con usuarios y contraseñas
 ![[Pasted image 20240514183743.png]]
 
+### Port-Forwarding
+vamos a crear un servidor con chisel en nuestra maquina atacante
+![[Pasted image 20240514201741.png]]
+
+`Maquina vi`
