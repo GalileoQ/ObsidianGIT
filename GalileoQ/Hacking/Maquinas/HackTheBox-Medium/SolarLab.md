@@ -110,9 +110,13 @@ obteniendo acceso a la pagina web que esta corriendo en el puerto 9090 de la maq
 ![[Pasted image 20240514203149.png]]
 
 ### msfconsole
-
+usaremos este exploit para establecer una conexión 
 ![[Pasted image 20240514210305.png]]
 
-obtenemos conexión
+`seteamos la configuraxión`
+
+![[Pasted image 20240514210358.png]]
+
+`obtenemos conexión`
 
 ![[Pasted image 20240514210216.png]]
