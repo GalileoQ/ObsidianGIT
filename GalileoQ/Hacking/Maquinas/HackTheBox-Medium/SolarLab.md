@@ -149,7 +149,7 @@ en la maquina victima podemos correr el comando de runas para invocar una revers
 ```
 ![[Pasted image 20240514214404.png]]
 
+`Recibimos conexión en el multi/handler`
 
 ![[Pasted image 20240514214353.png]]
 
-![[Pasted image 20240514214337.png]]
