@@ -120,3 +120,4 @@ usaremos este exploit para establecer una conexión
 `obtenemos conexión`
 
 ![[Pasted image 20240514210216.png]]
+
