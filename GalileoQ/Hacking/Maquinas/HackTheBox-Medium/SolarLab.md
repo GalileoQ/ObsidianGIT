@@ -102,3 +102,7 @@ de esta manera hemos redireccionado toda la información que esta pasando por el
 obteniendo acceso a la pagina web que esta corriendo en el puerto 9090 de la maquina victima
 ![[Pasted image 20240514201923.png]]
 
+### CVE 2023-32315
+
+![[Pasted image 20240514203052.png]]
+
