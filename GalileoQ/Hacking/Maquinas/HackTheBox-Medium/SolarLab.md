@@ -136,5 +136,6 @@ de esta manera utilizando la clave encriptada de administrador y la salt podemos
 creamos un payload que nos permita conectarnos a la maquina y con un servidor en python lo compartimos con la maquina victima
 ![[Pasted image 20240514212320.png]]
 
-`descargamos el payl`
+`descargamos el payload en la maquina victima`
 ![[Pasted image 20240514212432.png]]
+
