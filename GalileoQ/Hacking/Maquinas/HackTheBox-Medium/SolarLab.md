@@ -122,4 +122,5 @@ usaremos este exploit para establecer una conexión
 ![[Pasted image 20240514210216.png]]
 
 ### openfire.script
+parece que es un scr
 ![[Pasted image 20240514210650.png]]
