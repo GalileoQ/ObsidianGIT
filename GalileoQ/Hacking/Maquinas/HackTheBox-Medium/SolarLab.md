@@ -109,3 +109,6 @@ obteniendo acceso a la pagina web que esta corriendo en el puerto 9090 de la maq
 ###### obtenemos acceso con las credenciales que hemos generado
 ![[Pasted image 20240514203149.png]]
 
+obtenemos conexión
+
+![[Pasted image 20240514210216.png]]
