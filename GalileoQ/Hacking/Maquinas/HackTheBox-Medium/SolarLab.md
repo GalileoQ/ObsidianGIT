@@ -95,5 +95,9 @@ vamos a crear un servidor con chisel en nuestra maquina atacante
 ![[Pasted image 20240514201741.png]]
 
 `Maquina victima`
-de esta manera hemos redireccionado toda la información que esta pasando por el puerto 9090 y 9091
+de esta manera hemos redireccionado toda la información que esta pasando por el puerto 9090 y 9091 al 127.0.0.1:8081
 ![[Pasted image 20240514201801.png]]
+
+### Port-Forwarding 
+obteniendo la 
+![[Pasted image 20240514201923.png]]
