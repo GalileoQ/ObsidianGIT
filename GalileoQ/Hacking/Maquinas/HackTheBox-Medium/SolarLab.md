@@ -99,5 +99,5 @@ de esta manera hemos redireccionado toda la información que esta pasando por el
 ![[Pasted image 20240514201801.png]]
 
 ### Port-Forwarding 
-obteniendo la 
+obteniendo acceso a la pagina web que esta corriendo en el puerto 9090 de la maquina 
 ![[Pasted image 20240514201923.png]]
