@@ -142,3 +142,8 @@ creamos un payload que nos permita conectarnos a la maquina y con un servidor en
 ### /multi/handler
 
 ![[Pasted image 20240514212756.png]]
+
+
+
+![[Pasted image 20240514214337.png]]
+.\RunasCs.exe Administrator ThisPasswordShouldDo!@ root.exe
