@@ -122,5 +122,9 @@ usaremos este exploit para establecer una conexión
 ![[Pasted image 20240514210216.png]]
 
 ### openfire.script
-parece que es un scr
+parece que es un script que guarda la configuración de la pagina web
 ![[Pasted image 20240514210650.png]]
+
+`passwords`
+![[Pasted image 20240514211003.png]]
+
