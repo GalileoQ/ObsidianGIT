@@ -128,3 +128,4 @@ parece que es un script que guarda la configuración de la pagina web
 `passwords`
 ![[Pasted image 20240514211003.png]]
 
+### 
