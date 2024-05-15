@@ -94,4 +94,6 @@ obtenemos la base de datos con usuarios y contraseñas
 vamos a crear un servidor con chisel en nuestra maquina atacante
 ![[Pasted image 20240514201741.png]]
 
-`Maquina vi`
+`Maquina victima`
+de esta manera hemos redireccionado toda la información que esta pasando por el puerto 9090 y 9091
+![[Pasted image 20240514201801.png]]
