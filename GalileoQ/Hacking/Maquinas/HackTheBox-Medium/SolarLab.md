@@ -153,3 +153,4 @@ en la maquina victima podemos correr el comando de runas para invocar una revers
 
 ![[Pasted image 20240514214353.png]]
 
+### WE ARE ROOT
