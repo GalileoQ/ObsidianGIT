@@ -133,6 +133,8 @@ de esta manera utilizando la clave encriptada de administrador y la salt podemos
 ![[Pasted image 20240514211647.png]]
 
 ### msfvenom
-creamos un payload que nos permita conectarnos a la maquina y con u
-
+creamos un payload que nos permita conectarnos a la maquina y con un servidor en python lo compartimos con la maquina victima
 ![[Pasted image 20240514212320.png]]
+
+`descargamos el payl`
+![[Pasted image 20240514212432.png]]
