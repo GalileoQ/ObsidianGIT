@@ -260,3 +260,7 @@ https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=in
 ```
 ![[Pasted image 20240519165332.png]]
 
+`index.php`
+haciendo el rpoceso inverso podemos decodear el codigo y guardarlo en un archivo llamado index.php
+![[Pasted image 20240519165559.png]]
+
