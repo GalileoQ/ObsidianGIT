@@ -273,7 +273,7 @@ tenemos otra base de datos llamada streamio_backup la cual seria muy interesante
 ![[Pasted image 20240519170752.png]]
 
 ### Enumeración de usuario
-
+en la enumeración del usuario podemos notar que estamos a nivel de base de datos como el usuario db_user pero al momento de ejecutar el `LFI` estamos como 
 ```python
 10' union select 1,user_name(),3,4,5,6-- -
 ```
