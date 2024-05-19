@@ -238,3 +238,6 @@ una vez logeados podemos ir al directorio `/admin` que hemos conseguido anterior
 ![[Pasted image 20240519155010.png]]
 `staff management`
 ![[Pasted image 20240519155041.png]]
+`Movue management`
+![[Pasted image 20240519155108.png]]
+###### al investigar cada uno de 
