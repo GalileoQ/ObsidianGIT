@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -159,13 +160,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4c9141de4a8053f",
+  "active": "b2ebf7641d16282a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240519144123.png",
     "Pasted image 20240519143936.png",
     "Pasted image 20240519143339.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240519142414.png",
     "Pasted image 20240519141705.png",
     "Pasted image 20240519140505.png",
@@ -175,7 +176,6 @@
     "Pasted image 20240514214353.png",
     "Pasted image 20240514214337.png",
     "Pasted image 20240514212756.png",
-    "Pasted image 20240514212432.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",

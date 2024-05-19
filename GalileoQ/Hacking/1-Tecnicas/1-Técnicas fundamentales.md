@@ -190,6 +190,8 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 cat data_users.txt | grep ':' | tr -d ' ' 
 
 # este comando lo que hace es limpiar el archivo para que silo muestre las lineas que contengan : y tambien elimina los espacios en blanco
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ```
 
 ### Capabilitis 
