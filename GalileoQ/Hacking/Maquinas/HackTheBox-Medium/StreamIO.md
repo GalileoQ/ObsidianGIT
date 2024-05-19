@@ -216,4 +216,6 @@ después de limpiar el archivo que hemos creado con los usuarios podemos usar Jo
 ![[Pasted image 20240519143339.png]]
 
 ### hash-identifier 
+de esta panera podemos identificar el tipo de hash que tenemos para poder pasarlo por John en este caso el tipo de hash es MD5
 ![[Pasted image 20240519143936.png]]
+
