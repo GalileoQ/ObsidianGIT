@@ -272,3 +272,9 @@ tenemos un usuario y una contraseña. una buena idea seria enumerar el resto de 
 tenemos otra base de datos llamada streamio_backup la cual seria muy interesante
 ![[Pasted image 20240519170752.png]]
 
+### Enumeración de usuario
+
+```python
+10' union select 1,user_name(),3,4,5,6-- -
+```
+![[Pasted image 20240519171128.png]]
