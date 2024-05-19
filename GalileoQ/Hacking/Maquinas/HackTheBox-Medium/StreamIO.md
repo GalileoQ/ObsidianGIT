@@ -212,3 +212,5 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ![[Pasted image 20240519142414.png]]
 
 ### john
+después de limpiar el archivo que hemos creado con los usuarios podemos usar john para desencriptar las contraseñas
+![[Pasted image 20240519143339.png]]
