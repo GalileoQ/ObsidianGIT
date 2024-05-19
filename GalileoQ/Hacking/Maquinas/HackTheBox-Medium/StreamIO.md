@@ -212,6 +212,6 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ![[Pasted image 20240519142414.png]]
 
 ### john
-después de limpiar el archivo que hemos creado con los usuarios podemos usar John para desencriptar las contraseñas en este caso debemos investigar el tipo de hash para poder especificarlo a John  
+después de limpiar el archivo que hemos creado con los usuarios podemos usar John para desencriptar las contraseñas en este caso John detecta multiples tipos de hashes asi qu
 ![[Pasted image 20240519143339.png]]
 
