@@ -232,5 +232,5 @@ una ves tenemos las credenciales de los usuarios que hemos obtenido de la base d
 ![[Pasted image 20240519154407.png]]
 
 ### admin panel
-una vez logeados podemos ir al 
+una vez logeados podemos ir al directorio `/admin` que hemos conseguido anteriormente ha
 ![[Pasted image 20240519154823.png]]
