@@ -224,5 +224,5 @@ de esta manera logramos identificar de manera correcta los hashes que hemos cons
 ![[Pasted image 20240519144123.png]]
 
 ### crackmapexec
-tratamos de validar usuarios con cra
+tratamos de validar usuarios con crackmapexec pero no tenemos éxito 
 ![[Pasted image 20240519145732.png]]
