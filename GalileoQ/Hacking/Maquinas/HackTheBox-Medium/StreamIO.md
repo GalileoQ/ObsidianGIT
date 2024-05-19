@@ -205,3 +205,4 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ```
 ![[Pasted image 20240519141705.png]]
 
+`ahora vamos a listar username y password para ello usaremos la`
