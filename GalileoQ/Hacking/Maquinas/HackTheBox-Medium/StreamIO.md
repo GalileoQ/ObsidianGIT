@@ -223,3 +223,4 @@ de esta panera podemos identificar el tipo de hash que tenemos para poder pasarl
 de esta manera logramos identificar de manera correcta los hashes que hemos conseguido y descifrar las contraseñas
 ![[Pasted image 20240519144123.png]]
 
+### crackmapexec
