@@ -232,5 +232,9 @@ una ves tenemos las credenciales de los usuarios que hemos obtenido de la base d
 ![[Pasted image 20240519154407.png]]
 
 ### admin panel
-una vez logeados podemos ir al directorio `/admin` que hemos conseguido anteriormente ha
+una vez logeados podemos ir al directorio `/admin` que hemos conseguido anteriormente haciendo fuzzing
 ![[Pasted image 20240519154823.png]]
+`User management`
+![[Pasted image 20240519155010.png]]
+`staff management`
+![[Pasted image 20240519155041.png]]
