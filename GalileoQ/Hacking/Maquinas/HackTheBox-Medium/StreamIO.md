@@ -228,5 +228,5 @@ tratamos de validar usuarios con crackmapexec pero no tenemos éxito
 ![[Pasted image 20240519145732.png]]
 
 ### hydra
-una ves tenemos las credencial
+una ves tenemos las credenciales de los usuarios que hemos obtenido de la base de datos podemos realizar un ataque de fuerza bruta sobre el panel de `login.php` 
 ![[Pasted image 20240519154407.png]]
