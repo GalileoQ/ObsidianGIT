@@ -249,3 +249,4 @@ una vez logeados podemos ir al directorio `/admin` que hemos conseguido anterior
 el debug me indica que es una opción solo para desarrolladores 
 ![[Pasted image 20240519163513.png]]
 
+### LFI (Local File Inclutions)
