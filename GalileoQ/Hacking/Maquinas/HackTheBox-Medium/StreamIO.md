@@ -268,3 +268,5 @@ haciendo el rpoceso inverso podemos decodear el codigo y guardarlo en un archivo
 tenemos un usuario y una contraseña. una buena idea seria enumerar el resto de las bases de datos ya que al parecer aqui estamos operando como admin.
 ![[Pasted image 20240519170134.png]]
 
+### Enumeración de la base de datos
+![[Pasted image 20240519170752.png]]
