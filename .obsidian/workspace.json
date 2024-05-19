@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "689315228a87c25d",
+        "id": "13446c550c0dfca9",
         "type": "tabs",
         "children": [
           {
-            "id": "be72f78080d08bb5",
+            "id": "c4c9141de4a8053f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "335b6ad09c6343f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d0b67624b296a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
               }
             }
           }
@@ -171,8 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be72f78080d08bb5",
+  "active": "c4c9141de4a8053f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "Pasted image 20240514214404.png",
     "Pasted image 20240514214353.png",
     "Pasted image 20240514214337.png",
@@ -183,13 +162,9 @@
     "Pasted image 20240514211003.png",
     "Pasted image 20240514210650.png",
     "Pasted image 20240514210358.png",
-    "Pasted image 20240514210305.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
