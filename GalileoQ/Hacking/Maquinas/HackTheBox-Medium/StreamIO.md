@@ -231,3 +231,6 @@ tratamos de validar usuarios con crackmapexec pero no tenemos éxito
 una ves tenemos las credenciales de los usuarios que hemos obtenido de la base de datos podemos realizar un ataque de fuerza bruta sobre el panel de `login.php` 
 ![[Pasted image 20240519154407.png]]
 
+### admin panel
+una vez logeados podemos ir al 
+![[Pasted image 20240519154823.png]]
