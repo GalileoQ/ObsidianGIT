@@ -249,4 +249,6 @@ una vez logeados podemos ir al directorio `/admin` que hemos conseguido anterior
 el debug me indica que es una opción solo para desarrolladores 
 ![[Pasted image 20240519163513.png]]
 
-### LFI (Local File Inclutions)
+### LFI (Local File Inclusión)
+haciendo pruebas en el apartado de debug hemos podido listar el archivo /etc/hosts de la maquina Windows 
+![[Pasted image 20240519165103.png]]
