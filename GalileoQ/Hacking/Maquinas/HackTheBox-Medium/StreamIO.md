@@ -269,4 +269,6 @@ tenemos un usuario y una contraseña. una buena idea seria enumerar el resto de 
 ![[Pasted image 20240519170134.png]]
 
 ### Enumeración de la base de datos
+tenemos otra base de datos llamada streamio_backup la cual seria muy interesante
 ![[Pasted image 20240519170752.png]]
+
