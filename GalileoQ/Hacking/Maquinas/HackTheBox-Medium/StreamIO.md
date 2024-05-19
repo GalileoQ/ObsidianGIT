@@ -227,3 +227,6 @@ de esta manera logramos identificar de manera correcta los hashes que hemos cons
 tratamos de validar usuarios con crackmapexec pero no tenemos éxito 
 ![[Pasted image 20240519145732.png]]
 
+### hydra
+una ves tenemos las credencial
+![[Pasted image 20240519154407.png]]
