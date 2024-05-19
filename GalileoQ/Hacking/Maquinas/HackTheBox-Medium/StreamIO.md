@@ -220,5 +220,6 @@ de esta panera podemos identificar el tipo de hash que tenemos para poder pasarl
 ![[Pasted image 20240519143936.png]]
 
 ### John
-de esta manera logramos ifentificar de manera correcta los hashes que hemos conseguido 
+de esta manera logramos identificar de manera correcta los hashes que hemos conseguido y descifrar las contraseñas
 ![[Pasted image 20240519144123.png]]
+
