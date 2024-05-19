@@ -242,4 +242,5 @@ una vez logeados podemos ir al directorio `/admin` que hemos conseguido anterior
 ![[Pasted image 20240519155108.png]]
 ###### al investigar cada uno de todas las ventanas me llama la atención que la URL contiene una interrogante =
 
-### Fuzzing con wfuzz
+### 
+![[Pasted image 20240519163513.png]]
