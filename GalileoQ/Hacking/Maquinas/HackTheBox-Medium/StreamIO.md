@@ -254,7 +254,9 @@ haciendo pruebas en el apartado de debug hemos podido listar el archivo /etc/hos
 ![[Pasted image 20240519165103.png]]
 
 `LFI`
+haciendo uso de los gruappers podemos ver todo el codigo del recurso index.php en base64
 ```python
-
+https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=index.php
 ```
 ![[Pasted image 20240519165332.png]]
+
