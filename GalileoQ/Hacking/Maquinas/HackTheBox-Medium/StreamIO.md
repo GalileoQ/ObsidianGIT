@@ -252,3 +252,4 @@ el debug me indica que es una opción solo para desarrolladores
 ### LFI (Local File Inclusión)
 haciendo pruebas en el apartado de debug hemos podido listar el archivo /etc/hosts de la maquina Windows 
 ![[Pasted image 20240519165103.png]]
+
