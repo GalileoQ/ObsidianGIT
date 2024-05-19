@@ -189,7 +189,7 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 ```python
 cat data_users.txt | grep ':' | tr -d ' ' 
 
-# este c
+# este comando lo que hace es limpiar el archivo para que silo muestre las lineas que contengan : y tambien elimina los espacios en blanco
 ```
 
 ### Capabilitis 
