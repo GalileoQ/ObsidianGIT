@@ -211,3 +211,4 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ```
 ![[Pasted image 20240519142414.png]]
 
+### john
