@@ -187,7 +187,9 @@ scp -r ''USER@IP:/ruta/* . * ruta donde queremos copiar(.)''
 
 ### Grep
 ```python
-cat data_users.txt | grep ':'
+cat data_users.txt | grep ':' | tr -d ' ' 
+
+# este c
 ```
 
 ### Capabilitis 
