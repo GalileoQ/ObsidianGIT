@@ -265,5 +265,6 @@ haciendo el rpoceso inverso podemos decodear el codigo y guardarlo en un archivo
 ![[Pasted image 20240519165559.png]]
 
 ### index.php
-tenemos un usuario y una contraseña. una buena idea seria enu
+tenemos un usuario y una contraseña. una buena idea seria enumerar el resto de las bases de datos ya que al parecer aqui estamos operando como admin.
 ![[Pasted image 20240519170134.png]]
+
