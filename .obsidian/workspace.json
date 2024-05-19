@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "19e4ae1f8fb3908d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
               }
             }
           }
@@ -172,12 +159,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "19e4ae1f8fb3908d",
+  "active": "c4c9141de4a8053f",
   "lastOpenFiles": [
-    "Pasted image 20240519151218.png",
-    "Sin título.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "Sin título.md",
+    "Pasted image 20240519151218.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240519145732.png",
     "Pasted image 20240519144123.png",
     "Pasted image 20240519143936.png",
@@ -189,7 +176,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "Pasted image 20240514214404.png",
     "Pasted image 20240514214353.png",
-    "Pasted image 20240514214337.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
