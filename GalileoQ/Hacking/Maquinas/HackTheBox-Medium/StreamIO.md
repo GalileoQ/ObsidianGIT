@@ -301,6 +301,8 @@ https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=ma
 ![[Pasted image 20240520162516.png]]
 
 ### eval
-al final del código vemos una función que esta programada usando `eval` buscando en internet ya sabemos que este parámetro es vulnerable. básicamente esta función nos dice que si detecta que si el POST es distinto de índex tiene que hacer un `eval` esto parece que podríamos usarlo para realizar un `RFI` 
+al final del código vemos una función que esta programada usando `eval` buscando en internet ya sabemos que este parámetro es vulnerable. básicamente esta función nos dice que si detecta que si el POST es distinto de índex tiene que hacer un `eval` esto parece que podríamos usarlo para realizar un `RCE`  
 ![[Pasted image 20240520162951.png]]
 
+### POC (prueba de concepto)
+vamos a realizar una prueba para asegurarnos que esta funcion es vulnerable y que podemos usarla para explotar 
