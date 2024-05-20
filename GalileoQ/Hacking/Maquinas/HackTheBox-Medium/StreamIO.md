@@ -372,3 +372,7 @@ PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamio_b
 ### John
 con john hemos conseguido las credenciales de otro usuario así que podemos validarla con crackmapexec
 ![[Pasted image 20240520180625.png]]
+
+### Crackmapexec
+de esta manera podemos verificar las credenciales 
+![[Pasted image 20240520181054.png]]
