@@ -290,5 +290,8 @@ wfuzz -c --hh=1712 --hc=404,403 -u 'https://streamio.htb/admin/?debug=FUZZ.php' 
 ![[Pasted image 20240520162235.png]]
 
 ### master.php
-utilizando gruappers nuevamente vamos a intentar capturar todo el codigo de este parametro llamado ``master.php 
+utilizando gruappers nuevamente vamos a intentar capturar todo el codigo de este parametro llamado `master.php` en base 64 y luego lo vamos a decodear para poder leer el codigo
+``
+![[Pasted image 20240520162715.png]]
+
 ![[Pasted image 20240520162516.png]]
