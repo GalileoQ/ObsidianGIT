@@ -399,3 +399,9 @@ cd C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.default-rel
 usando el repositorio de la herramienta firepwd podremos obtener las credenciales
 ![[Pasted image 20240520183455.png]]
 
+`download`
+```python
+download C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.default-release\key4.db key4.db
+```
+![[Pasted image 20240520184026.png]]
+
