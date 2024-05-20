@@ -297,5 +297,6 @@ https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=ma
 
 ![[Pasted image 20240520162715.png]]
 
-`haremos el proceso inverso reconvi`
+`haremos el proceso inverso reconvirtiendo el codigo en base64 de la siguente manera`
 ![[Pasted image 20240520162516.png]]
+
