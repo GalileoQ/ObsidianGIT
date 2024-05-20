@@ -388,3 +388,6 @@ enumerando los permisos que tenemos en el sistema no vemos nada relativamente in
 `enumerando otros usuarios encontramos al usuario martin que es un usuario administrador`
 ![[Pasted image 20240520181952.png]]
 
+### Firefox
+navegando en el sistema hemos logrado conseguir archivos importantes que nos pueden llevar a comprometer mas usuario
+![[Pasted image 20240520183026.png]]
