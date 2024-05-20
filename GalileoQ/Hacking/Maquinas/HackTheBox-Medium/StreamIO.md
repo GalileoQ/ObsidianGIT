@@ -360,3 +360,7 @@ estaremos a la escucha por el puerto 9001 enviamos nuevamente la petición y de 
 de esta manera podemos asegurarnos que podemos ver las bases así que usaremos las credenciales que hemos conseguido de admin para intentar establecer una conexión
 ![[Pasted image 20240520174449.png]]
 
+`ahora vamos a listar las bases de datos usando es`
+```python
+PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamip_backup -Q "SELECT name FROM master..sysdatabases;"
+```
