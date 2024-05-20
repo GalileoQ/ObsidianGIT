@@ -283,4 +283,4 @@ en la enumeración del usuario podemos notar que estamos a nivel de base de dato
 ![[Pasted image 20240519171128.png]]
 
 ### Fuzzing con wffuz
-debido a la enumeración anterior en la que hemos conseguido un parámetro llamado `debug` y tambien 
+debido a la enumeración anterior en la que hemos conseguido un parámetro llamado `debug` y también teniendo en cuenta que tenemos un `LFI` en el cual hemos llegado a enumerar index.php he querido enumerar nuevamente pero solo archivos .php
