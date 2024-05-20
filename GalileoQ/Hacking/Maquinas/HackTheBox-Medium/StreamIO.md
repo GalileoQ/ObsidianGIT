@@ -413,4 +413,5 @@ nuevamente obtenemos una lista de usuarios y contraseñas
 validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuario pero lamentablemente no podemos hacer nada con este usuario
 ![[Pasted image 20240520185223.png]]
 
-### BloodHound
+### SharpHound
+![[Pasted image 20240520191640.png]]
