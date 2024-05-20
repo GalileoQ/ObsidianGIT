@@ -368,3 +368,7 @@ PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamio_b
 
 `usando la misma metodologia y los payloads de payloadallthethings podemos llegar a listar la base de datos streamio_backup en la cual nos encontramos una columna users que tambien podemos listar`
 ![[Pasted image 20240520175629.png]]
+
+### John
+con john hemos conseguido las credenciales de otro usuario así que podemos validarla con crackmapexec
+![[Pasted image 20240520180625.png]]
