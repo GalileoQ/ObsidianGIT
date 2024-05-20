@@ -381,3 +381,4 @@ de esta manera podemos verificar las credenciales y asegurarnos de que el usuari
 hemos completado un movimiento lateral hacia el usuario nikk37 
 ![[Pasted image 20240520181316.png]]
 
+### Escalada de privilegios
