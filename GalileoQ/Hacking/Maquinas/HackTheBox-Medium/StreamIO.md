@@ -378,5 +378,6 @@ de esta manera podemos verificar las credenciales y asegurarnos de que el usuari
 ![[Pasted image 20240520181054.png]]
 
 ### User Pivoting
-hemos completa
+hemos completado un movimiento lateral hacia el usuario nikk37 
 ![[Pasted image 20240520181316.png]]
+
