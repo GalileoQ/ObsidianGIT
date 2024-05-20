@@ -328,6 +328,6 @@ al cambiar el método de la petición también cambiara la dirección a donde se
 podemos ver que nuestro servidor ha recibido una petición por `GET` con un código de estado 200 lo que nos indica que ha sido exitoso
 ![[Pasted image 20240520171845.png]]
 
-### Explotacion
-
+### Explotación
+usando el binario de `nc.exe` 
 ![[Pasted image 20240520172126.png]]
