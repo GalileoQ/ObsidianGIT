@@ -366,5 +366,5 @@ PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamio_b
 ```
 ![[Pasted image 20240520175139.png]]
 
-`usando la misma metodologia de`
+`usando la misma metodologia y los payloads de payloadallthethings podemos llegar a listar la base de datos streamio_backup en la cual nos encontramos una column`
 ![[Pasted image 20240520175629.png]]
