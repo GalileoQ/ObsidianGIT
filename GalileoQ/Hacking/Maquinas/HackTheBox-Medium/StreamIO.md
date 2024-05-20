@@ -300,3 +300,5 @@ https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=ma
 `haremos el proceso inverso reconvirtiendo el codigo en base64 de la siguente manera`
 ![[Pasted image 20240520162516.png]]
 
+### eval
+![[Pasted image 20240520162951.png]]
