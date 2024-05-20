@@ -301,4 +301,6 @@ https://streamio.htb/admin/?debug=php://filter/convert.base64-encode/resource=ma
 ![[Pasted image 20240520162516.png]]
 
 ### eval
+al final del código vemos una función que esta programada usando `eval` 
 ![[Pasted image 20240520162951.png]]
+
