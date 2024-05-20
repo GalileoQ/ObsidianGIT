@@ -308,3 +308,6 @@ al final del código vemos una función que esta programada usando `eval` buscan
 vamos a realizar una prueba para asegurarnos que esta función es vulnerable. lo primero que haremos es crear un archivo con una sintax que nos ejecute un comando
 ![[Pasted image 20240520165424.png]]
 
+`server`
+despues vamos a montar un servidor con python para poder 
+![[Pasted image 20240520165601.png]]
