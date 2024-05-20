@@ -321,5 +321,5 @@ enviamos todo al apartado de repeater para poder hacer las pruebas. haciendo cli
 ![[Pasted image 20240520170659.png]]
 
 `Metodo POST`
-al cambiar el método de la petición tambien cambiara la direccion a donde se va a realizar. asegurate de mantener la direccion apuntando al lugar correcto en este caso `/admin/?debug=master.php` 
+al cambiar el método de la petición tambien cambiara la direccion a donde se va a realizar. asegurate de mantener la direccion apuntando al lugar correcto en este caso `/admin/?debug=master.php` en la parte inferior del método POST nos va a indicar que `debug=`
 ![[Pasted image 20240520171144.png]]
