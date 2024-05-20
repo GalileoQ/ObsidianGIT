@@ -405,3 +405,6 @@ download C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.defau
 ```
 ![[Pasted image 20240520184026.png]]
 
+`una ves descargado los dos archivos usaremos la herramienta firepwd para poder leer las conexiónes`
+nuevamente obtenemos una lista de ususarios y contraseñas 
+![[Pasted image 20240520184417.png]]
