@@ -357,3 +357,6 @@ estaremos a la escucha por el puerto 9001 enviamos nuevamente la petición y de 
 ![[Pasted image 20240520173809.png]]
 
 ### sqlcmd -?
+de esta manera podemos asegurarnos que podemos ver las bases así que usaremos las credenciales que hemos conseguido de admin para intentar establecer una conexión
+![[Pasted image 20240520174449.png]]
+
