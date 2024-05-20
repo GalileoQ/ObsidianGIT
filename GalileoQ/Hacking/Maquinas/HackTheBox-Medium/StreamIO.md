@@ -313,3 +313,5 @@ despues vamos a montar un servidor con python para poder compartir este archivo
 ![[Pasted image 20240520165601.png]]
 
 `BurpSUite`
+vamos a interceptar la peticion con burpsuite
+![[Pasted image 20240520170517.png]]
