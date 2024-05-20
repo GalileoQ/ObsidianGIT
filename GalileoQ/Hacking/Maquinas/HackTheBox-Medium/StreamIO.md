@@ -305,4 +305,6 @@ al final del código vemos una función que esta programada usando `eval` buscan
 ![[Pasted image 20240520162951.png]]
 
 ### POC (prueba de concepto)
-vamos a realizar una prueba para asegurarnos que esta funcion es vulnerable y que podemos usarla para explotar 
+vamos a realizar una prueba para asegurarnos que esta función es vulnerable. lo primero que haremos es crear un archivo con una sintax que nos ejecute un comando
+![[Pasted image 20240520165424.png]]
+
