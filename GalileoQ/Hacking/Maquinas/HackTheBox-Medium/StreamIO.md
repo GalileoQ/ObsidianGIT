@@ -395,3 +395,6 @@ cd C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.default-rel
 ```
 ![[Pasted image 20240520183026.png]]
 
+### Firepwd
+usando el repositorio de la herramienta f
+![[Pasted image 20240520183455.png]]
