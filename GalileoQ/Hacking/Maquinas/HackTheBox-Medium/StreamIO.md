@@ -283,4 +283,9 @@ en la enumeración del usuario podemos notar que estamos a nivel de base de dato
 ![[Pasted image 20240519171128.png]]
 
 ### Fuzzing con wffuz
-debido a la enumeración anterior en la que hemos conseguido un parámetro llamado `debug` y también teniendo en cuenta que tenemos un `LFI` en el cual hemos llegado a enumerar index.php he querido enumerar nuevamente pero solo archivos .php
+debido a la enumeración anterior en la que hemos conseguido un parámetro llamado `debug` y también teniendo en cuenta que tenemos un `LFI` en el cual hemos llegado a enumerar index.php he querido enumerar nuevamente pero solo archivos .php lo que me ha llevado a encontrar un parametro llamado `master`
+```python
+wfuzz -c --hh=1712 --hc=404,403 -u 'https://streamio.htb/admin/?debug=FUZZ.php' -H 'Cookie: PHPSESSID=lu5f27meebv1gqpvg08u7hkiu2' -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt
+```
+![[Pasted image 20240520162235.png]]
+
