@@ -385,3 +385,6 @@ hemos completado un movimiento lateral hacia el usuario nikk37
 enumerando los permisos que tenemos en el sistema no vemos nada relativamente interesante
 ![[Pasted image 20240520181826.png]]
 
+`enumerando otros usuarios encontramos al usuario martin que es un usuario administrador`
+![[Pasted image 20240520181952.png]]
+
