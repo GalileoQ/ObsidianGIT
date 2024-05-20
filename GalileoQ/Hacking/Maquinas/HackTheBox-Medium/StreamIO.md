@@ -315,3 +315,7 @@ despues vamos a montar un servidor con python para poder compartir este archivo
 `BurpSUite`
 vamos a interceptar la peticion con burpsuite
 ![[Pasted image 20240520170517.png]]
+
+`repeater`
+enviamos todo al apartado de re
+![[Pasted image 20240520170659.png]]
