@@ -329,5 +329,6 @@ podemos ver que nuestro servidor ha recibido una petición por `GET` con un cód
 ![[Pasted image 20240520171845.png]]
 
 ### Explotación
-usando el binario de `nc.exe` vamos a usarlo para subirlo a la maquina victima usando un c que nos permita subirlo
+usando el binario de `nc.exe` vamos a usarlo para subirlo a la maquina victima usando un comando que nos permita subirlo
 ![[Pasted image 20240520172126.png]]
+
