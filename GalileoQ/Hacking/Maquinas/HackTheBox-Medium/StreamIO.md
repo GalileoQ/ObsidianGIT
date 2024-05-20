@@ -374,5 +374,6 @@ con john hemos conseguido las credenciales de otro usuario así que podemos vali
 ![[Pasted image 20240520180625.png]]
 
 ### Crackmapexec
-de esta manera podemos verificar las credenciales 
+de esta manera podemos verificar las credenciales y asegurarnos de que el usuario existe. que tiene permisos de lectura para recursos compartidos y que puede establecer conexión mediante evilwinrm
 ![[Pasted image 20240520181054.png]]
+
