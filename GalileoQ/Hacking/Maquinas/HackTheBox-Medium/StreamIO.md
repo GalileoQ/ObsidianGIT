@@ -289,3 +289,5 @@ wfuzz -c --hh=1712 --hc=404,403 -u 'https://streamio.htb/admin/?debug=FUZZ.php' 
 ```
 ![[Pasted image 20240520162235.png]]
 
+
+![[Pasted image 20240520162516.png]]
