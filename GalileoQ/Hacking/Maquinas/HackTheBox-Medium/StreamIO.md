@@ -389,5 +389,9 @@ enumerando los permisos que tenemos en el sistema no vemos nada relativamente in
 ![[Pasted image 20240520181952.png]]
 
 ### Firefox
-navegando en el sistema hemos logrado conseguir archivos importantes que nos pueden llevar a comprometer mas usuario
+navegando en el sistema hemos logrado conseguir archivos importantes que nos pueden llevar a comprometer mas usuarios capturando credenciales en firefox
+```python
+cd C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.default-release
+```
 ![[Pasted image 20240520183026.png]]
+
