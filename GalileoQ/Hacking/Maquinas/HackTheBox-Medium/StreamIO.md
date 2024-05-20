@@ -282,3 +282,5 @@ en la enumeración del usuario podemos notar que estamos a nivel de base de dato
 ```
 ![[Pasted image 20240519171128.png]]
 
+### Fuzzing con wffuz
+debido a la enumeración anterior
