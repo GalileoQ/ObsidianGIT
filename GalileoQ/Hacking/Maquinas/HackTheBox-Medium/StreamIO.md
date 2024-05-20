@@ -362,5 +362,6 @@ de esta manera podemos asegurarnos que podemos ver las bases así que usaremos l
 
 `ahora vamos a listar las bases de datos usando este comando`
 ```python
-PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamip_backup -Q "SELECT name FROM master..sysdatabases;"
+PS C:\Users> sqlcmd -U db_admin -P 'B1@hx31234567890' -S localhost -d streamio_backup -Q "SELECT name FROM master..sysdatabases;"
 ```
+![[Pasted image 20240520175139.png]]
