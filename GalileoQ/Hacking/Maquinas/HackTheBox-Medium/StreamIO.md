@@ -415,3 +415,4 @@ validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuar
 
 ### SharpHound
 ![[Pasted image 20240520191640.png]]
+
