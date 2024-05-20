@@ -408,3 +408,8 @@ download C:\Users\nikk37\AppData\Roaming\mozilla\Firefox\Profiles\br53rxeg.defau
 `una ves descargado los dos archivos usaremos la herramienta firepwd para poder leer las conexiónes`
 nuevamente obtenemos una lista de usuarios y contraseñas 
 ![[Pasted image 20240520184417.png]]
+
+### crackmapexec
+validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuario
+![[Pasted image 20240520185223.png]]
+
