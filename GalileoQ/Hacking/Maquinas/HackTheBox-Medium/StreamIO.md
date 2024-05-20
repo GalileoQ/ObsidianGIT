@@ -312,3 +312,4 @@ vamos a realizar una prueba para asegurarnos que esta función es vulnerable. lo
 despues vamos a montar un servidor con python para poder compartir este archivo
 ![[Pasted image 20240520165601.png]]
 
+`BurpSUite`
