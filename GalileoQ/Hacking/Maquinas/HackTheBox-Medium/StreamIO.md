@@ -320,3 +320,6 @@ vamos a interceptar la peticion con burpsuite
 enviamos todo al apartado de repeater para poder hacer las pruebas. haciendo click derecho vamos a cambiar la petición haciendo click en la opción `Change request method` 
 ![[Pasted image 20240520170659.png]]
 
+`Metodo POST`
+al cambiar el método de la petición tambien cambiara la
+![[Pasted image 20240520171144.png]]
