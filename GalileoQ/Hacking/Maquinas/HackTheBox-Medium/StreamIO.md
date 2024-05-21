@@ -419,3 +419,5 @@ validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuar
 `ahora solo debemos importar el modulo de sharphound y tambien invocar la recolección de archivos`
 ![[Pasted image 20240521142207.png]]
 
+`luego`
+![[Pasted image 20240521142407.png]]
