@@ -448,3 +448,6 @@ después de descargar el powerlview.ps1 y de invocar los elementos podemos defin
 `hay varias maneras de ejecutar estos comandos. yo elegi esta manera para asi poder agregar al usuario JDgodd al grupo Core Staff`
 ![[Pasted image 20240521183245.png]]
 
+### bloodyAD
+
+![[Pasted image 20240521183828.png]]
