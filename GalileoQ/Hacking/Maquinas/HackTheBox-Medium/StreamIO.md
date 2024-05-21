@@ -425,5 +425,6 @@ Nota:# Asegurate de descargar el archivo.zip desde la ruta completa (PATH) ya qu
 ```
 ![[Pasted image 20240521142407.png]]
 
-`Empezamos la recolección de los archivos para nuestro diagrama de `
+`Empezamos la recolección de los archivos para nuestro diagrama de BloodHound`
 ![[Pasted image 20240521165624.png]]
+
