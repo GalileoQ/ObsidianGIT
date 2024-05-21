@@ -421,5 +421,7 @@ validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuar
 
 `luego de importar el modulo e iniciar la invocación para recolectar la informacion solo nos queda descargarnos el archivo.zip que se ha creado`
 ```python
+Nota:# Asegurate de descargar el archivo.zip desde la ruta completa (PATH) ya que de lo contrario puede dar problemas
 ```
 ![[Pasted image 20240521142407.png]]
+
