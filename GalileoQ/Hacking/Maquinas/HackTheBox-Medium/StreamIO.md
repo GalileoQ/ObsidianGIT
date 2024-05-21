@@ -455,6 +455,8 @@ usaremos la herramienta `bloodyAD` para poder enumerar el permiso de `Re`
 `una ves que tenemos todo solo debemos ejecutar el siguiente comando para poder dumpear las contraseñas`
 ![[Pasted image 20240521184649.png]]
 
+### ldapsearch opcion nuermo @
+![[Pasted image 20240521191557.png]]
 ### Crackmapexec 
 validamos las credenciales para asegurarnos que sean validas
 ![[Pasted image 20240521184851.png]]
