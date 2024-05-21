@@ -433,10 +433,11 @@ después de recopilar toda la información necesaria para los gráficos y subirl
 ![[Pasted image 20240521174907.png]]
 
 ### Powerview.ps1
-después de descargar el powerlview.ps1 y de invocar los elementos podemos definir estos comandos 
+después de descargar el powerlview.ps1 y de invocar los elementos podemos definir estos comandos los cuales nos van a ayudar a impersonar al usuario jdgodd
 ```python
 	$pass = ConvertTo-SecureString 'JDg0dd1s@d0p3cr3@t0r' -AsPlainText -Force
 	
 	System.Management.Automation.PSCredential('streamio.htb\JDgodd', $pass)
 ```
 ![[Pasted image 20240521181642.png]]
+
