@@ -449,5 +449,5 @@ después de descargar el powerlview.ps1 y de invocar los elementos podemos defin
 ![[Pasted image 20240521183245.png]]
 
 ### bloodyAD
-
+usaremos la herramienta `bloodyAD` para poder enumerar el permiso de `Re`
 ![[Pasted image 20240521183828.png]]
