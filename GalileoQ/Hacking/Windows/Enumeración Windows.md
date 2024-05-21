@@ -58,6 +58,7 @@ netstat -ano
 
 ```python
 #CMD
+cmd /c dir /r /s C:\root.txt
 
 where /r c:\ file.txt
 
