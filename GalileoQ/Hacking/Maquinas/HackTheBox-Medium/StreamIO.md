@@ -429,5 +429,6 @@ Nota:# Asegurate de descargar el archivo.zip desde la ruta completa (PATH) ya qu
 ![[Pasted image 20240521165624.png]]
 
 ### BloodHound
-despues de recopular toda la informacion necesaria para los graficos y subirla a bloodhound debemos marcar como `owned` todos los usuarios que tengamos 
+después de recopilar toda la información necesaria para los gráficos y subirla a bloodhound debemos marcar como `owned` todos los usuarios que tengamos comprometidos 
 ![[Pasted image 20240521174907.png]]
+
