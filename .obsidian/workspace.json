@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blood",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
               }
             }
           }
@@ -160,8 +160,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4c9141de4a8053f",
+  "active": "fc69d82b7e3aec93",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/2 - Ataque Samba Relay.md",
+    "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240521185012.png",
     "Pasted image 20240521184851.png",
     "Pasted image 20240521184649.png",
@@ -170,13 +179,10 @@
     "Pasted image 20240521182403.png",
     "Pasted image 20240521181642.png",
     "Pasted image 20240521174907.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240521165624.png",
     "Pasted image 20240521142407.png",
-    "Pasted image 20240521142207.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -185,10 +191,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
@@ -196,8 +198,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
-    "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
