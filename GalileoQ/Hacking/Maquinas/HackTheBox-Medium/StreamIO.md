@@ -419,5 +419,7 @@ validando los nuevos usuarios que hemos conseguido hemos obtenido un nuevo usuar
 `ahora solo debemos importar el modulo de sharphound y tambien invocar la recolección de archivos`
 ![[Pasted image 20240521142207.png]]
 
-`luego`
+`luego de importar el modulo e iniciar la invocación para recolectar la informacion solo nos queda descargarnos el archivo.zip que se ha creado`
+```python
+```
 ![[Pasted image 20240521142407.png]]
