@@ -428,3 +428,6 @@ Nota:# Asegurate de descargar el archivo.zip desde la ruta completa (PATH) ya qu
 `Empezamos la recolección de los archivos para nuestro diagrama de BloodHound`
 ![[Pasted image 20240521165624.png]]
 
+### BloodHound
+cuando tenemos 
+![[Pasted image 20240521174907.png]]
