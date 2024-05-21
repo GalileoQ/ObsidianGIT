@@ -441,3 +441,7 @@ después de descargar el powerlview.ps1 y de invocar los elementos podemos defin
 ```
 ![[Pasted image 20240521181642.png]]
 
+
+`ahora vamos a intentar agregar al usuario al grupo Core Staff`
+![[Pasted image 20240521182403.png]]
+
