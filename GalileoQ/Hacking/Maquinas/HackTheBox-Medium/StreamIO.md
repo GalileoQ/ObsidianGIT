@@ -433,5 +433,5 @@ después de recopilar toda la información necesaria para los gráficos y subirl
 ![[Pasted image 20240521174907.png]]
 
 ### Powerview.ps1
-
+después de descargar el powerlview.ps1 y de invocar 
 ![[Pasted image 20240521181642.png]]
