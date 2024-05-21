@@ -458,3 +458,7 @@ usaremos la herramienta `bloodyAD` para poder enumerar el permiso de `Re`
 ### Crackmapexec 
 validamos las credenciales para asegurarnos que sean validas
 ![[Pasted image 20240521184851.png]]
+
+### Administrator
+hemos obtenido acceso como administrador a la maquina
+![[Pasted image 20240521185012.png]]
