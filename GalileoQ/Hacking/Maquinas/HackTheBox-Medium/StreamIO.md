@@ -462,3 +462,5 @@ validamos las credenciales para asegurarnos que sean validas
 ### Administrator
 hemos obtenido acceso como administrador a la maquina
 ![[Pasted image 20240521185012.png]]
+
+### WE ARE ROOT
