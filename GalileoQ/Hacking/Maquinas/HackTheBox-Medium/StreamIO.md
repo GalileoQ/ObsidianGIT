@@ -455,8 +455,12 @@ usaremos la herramienta `bloodyAD` para poder enumerar el permiso de `Re`
 `una ves que tenemos todo solo debemos ejecutar el siguiente comando para poder dumpear las contraseñas`
 ![[Pasted image 20240521184649.png]]
 
-### ldapsearch opcion nuermo @
+### ldapsearch opcion numero 2
+```python
+ldapsearch -x -H ldap://10.10.11.158 -D "Streamio\JDgodd" -w 'JDg0dd1s@d0p3cr3@t0r' -b "dc=streamio,dc=htb" "(ms-MCS-Admpwd=*)" ms-MC
+```
 ![[Pasted image 20240521191557.png]]
+
 ### Crackmapexec 
 validamos las credenciales para asegurarnos que sean validas
 ![[Pasted image 20240521184851.png]]
