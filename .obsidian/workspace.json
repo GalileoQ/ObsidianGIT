@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "fc69d82b7e3aec93",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240521165624.png",
@@ -195,7 +196,6 @@
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Blog.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
