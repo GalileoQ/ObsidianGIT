@@ -451,3 +451,7 @@ después de descargar el powerlview.ps1 y de invocar los elementos podemos defin
 ### bloodyAD
 usaremos la herramienta `bloodyAD` para poder enumerar el permiso de `Re`
 ![[Pasted image 20240521183828.png]]
+
+`una ves que tenemos todo solo debemos ejecutar el siguiente comando para poder dumpear las contraseñas`
+![[Pasted image 20240521184649.png]]
+
