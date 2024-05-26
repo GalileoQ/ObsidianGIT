@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13446c550c0dfca9",
+        "id": "f442c70dbd814a82",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c9141de4a8053f",
+            "id": "288f1ec789a7813e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc69d82b7e3aec93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md"
               }
             }
           }
@@ -159,8 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4c9141de4a8053f",
+  "active": "288f1ec789a7813e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "imagenes/Pasted image 20240520172934.png",
     "imagenes/Pasted image 20240520172126.png",
     "imagenes/Pasted image 20240520171845.png",
@@ -171,10 +162,7 @@
     "imagenes/Pasted image 20240520165424.png",
     "imagenes/Pasted image 20240520162951.png",
     "imagenes/Pasted image 20240520162715.png",
-    "imagenes/Pasted image 20240520162516.png",
     "Sin título.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/5 - Impacket-secretdumps.md",
