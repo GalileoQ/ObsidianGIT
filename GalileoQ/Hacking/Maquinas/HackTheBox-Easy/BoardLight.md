@@ -46,6 +46,9 @@ al enumerar subdominios podemos encontrar uno
 ![[Pasted image 20240526155349.png]]
 
 `Login`
-tenemos un panel de login al que intentaremos acc
+tenemos un panel de login al que intentaremos acceder buscando las credenciales por defecto 
 ![[Pasted image 20240526155447.png]]
+
+`credenciales por defecto`
+![[Pasted image 20240526155556.png]]
 
