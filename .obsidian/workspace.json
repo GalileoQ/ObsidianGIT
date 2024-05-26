@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   },
   "active": "288f1ec789a7813e",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sin título.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "imagenes/Pasted image 20240520172934.png",
