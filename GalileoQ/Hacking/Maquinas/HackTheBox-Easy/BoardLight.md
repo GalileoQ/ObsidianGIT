@@ -36,3 +36,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 ### Enumeración del Puerto 80 (http)
 
 ![[Pasted image 20240525223335.png]]
+
+`Tenemos `
+![[Pasted image 20240525223730.png]]
