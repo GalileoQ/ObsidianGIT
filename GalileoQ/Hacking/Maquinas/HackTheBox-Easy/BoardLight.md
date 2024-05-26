@@ -40,3 +40,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 `Tenemos un panel request que podriamos intentar explotar`
 
 ![[Pasted image 20240525223730.png]]
+
+### Enumeración con wfuzz
+al enumerar subdominios
+![[Pasted image 20240526155349.png]]
