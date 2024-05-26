@@ -37,5 +37,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ![[Pasted image 20240525223335.png]]
 
-`Tenemos `
+`Tenemos un panel request que podriamos intentar explotar`
+
 ![[Pasted image 20240525223730.png]]
