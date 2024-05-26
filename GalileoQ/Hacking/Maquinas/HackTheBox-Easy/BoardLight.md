@@ -42,5 +42,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 ![[Pasted image 20240525223730.png]]
 
 ### Enumeración con wfuzz
-al enumerar subdominios
+al enumerar subdominios podemos encontrar uno
 ![[Pasted image 20240526155349.png]]
+
+`Login`
+tenemos un panel de login al que intentaremos acc
+![[Pasted image 20240526155447.png]]
+
