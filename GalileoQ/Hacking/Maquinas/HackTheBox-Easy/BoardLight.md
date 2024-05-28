@@ -53,13 +53,9 @@ tenemos un panel de login al que intentaremos acceder buscando las credenciales 
 ![[Pasted image 20240526155556.png]]
 
 ### CVE-2023-30253
-tenemos una cve que nos permite conectar una revers
+tenemos una cve que nos permite conectar una reverse shell a nuestra maquina
 ![[Pasted image 20240528104710.png]]
 
-
-
-
-
-
-
+`Reverse shell`
+ejecutando este exploits podemos obtener una conexión 
 ![[Pasted image 20240528104539.png]]
