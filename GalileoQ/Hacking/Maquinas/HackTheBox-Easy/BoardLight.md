@@ -68,5 +68,6 @@ actualmente somos www-data. y tenemos otro usuario asi que debemos hacer un movi
 ![[Pasted image 20240528115553.png]]
 
 ### ssh
-probamos las credenciales para el usuario 
+probamos las credenciales para el usuario larissa via ssh
 ![[Pasted image 20240528121525.png]]
+
