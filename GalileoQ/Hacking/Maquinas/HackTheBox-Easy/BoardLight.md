@@ -60,6 +60,10 @@ tenemos una cve que nos permite conectar una reverse shell a nuestra maquina
 ejecutando este exploits podemos obtener una conexión 
 ![[Pasted image 20240528104539.png]]
 
+### User Pivoting
+actualmente somos www-data. y tenemos otro usuario asi que debemos hacer un m
+![[Pasted image 20240528115819.png]]
+
 
 `el sub dominio crm pertenece a una base de datos asi que mirando la configuracion del archivo podemos ver un par de credenciales`
 ![[Pasted image 20240528115553.png]]
