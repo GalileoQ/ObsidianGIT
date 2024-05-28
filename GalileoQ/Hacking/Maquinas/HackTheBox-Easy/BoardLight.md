@@ -46,13 +46,15 @@ al enumerar subdominios podemos encontrar uno
 ![[Pasted image 20240526155349.png]]
 
 `Login`
-tenemos un panel de login al que intentaremos acceder buscando las credenciales por defecto 
+tenemos un panel de login al que intentaremos acceder buscando las credenciales por defecto y podemos ver la versión de la web
 ![[Pasted image 20240526155447.png]]
 
 `credenciales por defecto`
 ![[Pasted image 20240526155556.png]]
 
-
+### CVE-2023-30253
+tenemos una cve que nos permite conectar una revers
+![[Pasted image 20240528104710.png]]
 
 
 
