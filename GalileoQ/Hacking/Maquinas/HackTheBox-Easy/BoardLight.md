@@ -67,3 +67,6 @@ actualmente somos www-data. y tenemos otro usuario asi que debemos hacer un movi
 `el sub dominio crm pertenece a una base de datos asi que mirando la configuracion del archivo podemos ver un par de credenciales`
 ![[Pasted image 20240528115553.png]]
 
+### ssh
+probamos las credenciales para el usuario 
+![[Pasted image 20240528121525.png]]
