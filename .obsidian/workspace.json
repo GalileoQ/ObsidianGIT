@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md"
               }
             }
           }
@@ -173,11 +172,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a3b101568cd46ced",
+  "active": "288f1ec789a7813e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/6 - PKEXEC - Escalada de Privilegios.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
     "Pasted image 20240528121525.png",
