@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e03a2cde89e8e713",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,8 +176,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7ae9af95daef667b",
+  "active": "e03a2cde89e8e713",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
     "Pasted image 20240528115819.png",
     "Pasted image 20240528115553.png",
