@@ -71,3 +71,6 @@ actualmente somos www-data. y tenemos otro usuario asi que debemos hacer un movi
 probamos las credenciales para el usuario larissa via ssh
 ![[Pasted image 20240528121525.png]]
 
+### Escalada de privilegios
+`# Enlightenment v0.25.3 - Privilege escalation`
+![[Pasted image 20240528153047.png]]
