@@ -72,5 +72,7 @@ probamos las credenciales para el usuario larissa via ssh
 ![[Pasted image 20240528121525.png]]
 
 ### Escalada de privilegios
-`Enlightenment v0.25.3 - Privilege escalation` despues de horas intentando la manera de escalar privilegios he conseguido una vulnerabilidad en el archivo SUID `Enlightenment` la cual 
+`Enlightenment v0.25.3 - Privilege escalation` despues de horas intentando la manera de escalar privilegios he conseguido una vulnerabilidad en el archivo SUID `Enlightenment` la cual nos permite escalar privilegios
 ![[Pasted image 20240528153047.png]]
+
+### WE ARE ROOT
