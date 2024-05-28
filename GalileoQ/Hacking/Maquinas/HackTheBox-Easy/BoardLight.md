@@ -52,3 +52,12 @@ tenemos un panel de login al que intentaremos acceder buscando las credenciales 
 `credenciales por defecto`
 ![[Pasted image 20240526155556.png]]
 
+
+
+
+
+
+
+
+
+![[Pasted image 20240528104539.png]]
