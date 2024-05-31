@@ -11,8 +11,12 @@
             "id": "6906b714165c0c8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
+              }
             }
           }
         ],
@@ -139,8 +147,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6906b714165c0c8b",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
+    "GalileoQ/Hacking/Hacking Puertos/Puerto 111 - NFS.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "imagenes/Pasted image 20240528121525.png",
@@ -175,7 +185,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
