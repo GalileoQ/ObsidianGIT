@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f442c70dbd814a82",
+        "id": "39e4ddc2963d9728",
         "type": "tabs",
         "children": [
           {
-            "id": "288f1ec789a7813e",
+            "id": "6906b714165c0c8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b101568cd46ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ae9af95daef667b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,8 +139,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a3b101568cd46ced",
+  "active": "6906b714165c0c8b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "imagenes/Pasted image 20240528121525.png",
     "imagenes/Pasted image 20240528115819.png",
     "imagenes/Pasted image 20240528115553.png",
@@ -184,12 +153,9 @@
     "imagenes/Pasted image 20240526155349.png",
     "imagenes/Pasted image 20240525223730.png",
     "imagenes/Pasted image 20240525223335.png",
-    "imagenes/Pasted image 20240528153047.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/6 - PKEXEC - Escalada de Privilegios.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
