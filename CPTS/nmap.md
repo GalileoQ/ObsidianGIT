@@ -51,3 +51,9 @@
 |`-T <0-5>`|Especifica la plantilla de sincronización específica.|
 ```
 
+### nmap comandos
+```python
+sudo nmap -sSU -p 53 --script dns-nsid 10.129.142.139
+
+
+```
