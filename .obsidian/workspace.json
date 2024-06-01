@@ -11,8 +11,12 @@
             "id": "c968088201c4c41f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPTS/nmap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPTS/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPTS/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPTS/nmap.md"
+              }
             }
           }
         ],
@@ -141,6 +149,9 @@
   },
   "active": "c968088201c4c41f",
   "lastOpenFiles": [
+    "CPTS/nmap.md",
+    "CPTS",
+    "GalileoQ/Sin título",
     "GITHUB/1 cabecera.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
@@ -176,7 +187,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
@@ -185,8 +195,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy",
     "GalileoQ/Hacking/Shell",
-    "GalileoQ/Hacking/Scripts",
-    "GalileoQ/Hacking/Maquinas",
     "Sin título.canvas"
   ]
 }

@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "livePreview": true,
   "propertiesInDocument": "visible",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }

@@ -14,4 +14,4 @@ Y ahora levantamos un servidor web con Python para comprobar si recibimos conexi
 ![[Pasted image 20230216220811.png]]
 Hacemos una petición HTTP desde la IP del teléfono y vemos que en tcpdump nos notifica de este tráfico:
 ![[Pasted image 20230216221004.png]]
-También podemos guardar tráfico de red en un determinado fichero .cap con tcpdump [[Nmap#GUARDAR TRÁFICO DE NMAP EN FICHERO .CAP CON TCPDUMP]]
+También podemos guardar tráfico de red en un determinado fichero .cap con tcpdump [[GalileoQ/Hacking/Hacking Generico/Nmap/Nmap#GUARDAR TRÁFICO DE NMAP EN FICHERO .CAP CON TCPDUMP]]
