@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1581eb29bf6b747e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "CPTS/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "CPTS/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
+                "file": "CPTS/nmap.md"
               }
             }
           }
@@ -160,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1581eb29bf6b747e",
+  "active": "c968088201c4c41f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "CPTS/nmap.md",
     "CPTS",
     "GalileoQ/Sin título",
@@ -199,7 +187,6 @@
     "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna-Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",

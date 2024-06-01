@@ -3,7 +3,7 @@
 |---|---|
 |`10.10.10.0/24`|Rango de red objetivo.|
 |`-sn`|Desactiva el escaneo de puertos.|
-|`-sT`
+|`-sT`|Escanear Puertos TCP.|
 |`-Pn`|Deshabilita las solicitudes de eco ICMP|
 |`-n`|Desactiva la resolución DNS.|
 |`-PE`|Realiza el escaneo de ping mediante solicitudes de eco ICMP contra el objetivo.|
