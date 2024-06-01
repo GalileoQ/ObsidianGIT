@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1581eb29bf6b747e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPTS/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPTS/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPTS/nmap.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +152,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c968088201c4c41f",
+  "active": "1581eb29bf6b747e",
   "lastOpenFiles": [
     "CPTS/nmap.md",
     "CPTS",
