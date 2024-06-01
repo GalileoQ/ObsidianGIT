@@ -50,3 +50,4 @@
 |`--min-rate 300`|Establece el número de paquetes que se enviarán simultáneamente.|
 |`-T <0-5>`|Especifica la plantilla de sincronización específica.|
 ```
+
