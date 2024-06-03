@@ -123,5 +123,5 @@ for file in $(ls *pdf); do echo $file; done | grep -v users | while read filenam
 con este iterador podemos leer y hacer un pdftotext para cada archivo pdf que tenemos
 ![[Pasted image 20240603140449.png]]
 
-
+`solo nos fal`
 ![[Pasted image 20240603140834.png]]
