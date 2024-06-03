@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerberos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +149,7 @@
   },
   "active": "14651f97f8357a88",
   "lastOpenFiles": [
+    "Pasted image 20240603115218.png",
     "Pasted image 20240603114141.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
@@ -180,7 +180,6 @@
     "imagenes/Pasted image 20240528104539.png",
     "imagenes/Pasted image 20240526155556.png",
     "imagenes/Pasted image 20240526155447.png",
-    "imagenes/Pasted image 20240526155349.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",

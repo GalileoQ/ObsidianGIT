@@ -97,3 +97,6 @@ dado que los documentos pdf están guardados de manera predeterminada con el añ
 ```python
 for a in {2020..2022}; do for m in {1..12}; do for d in {1..31}; do echo "http://10.10.10.248/documents/$a-$m-$d-upload.pdf"; done; done; done | xargs -n 1 -P 20 wget
 ```
+hemos descargado varios documentos pdf que ahora podemos analizar para obtener mas usuarios
+![[Pasted image 20240603115218.png]]
+
