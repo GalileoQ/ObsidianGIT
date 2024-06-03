@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "14651f97f8357a88",
+  "active": "28bf6f78d88ce84d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603120831.png",
     "Pasted image 20240603115931.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603115218.png",
     "Pasted image 20240603114141.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
@@ -191,7 +192,6 @@
     "imagenes/Pasted image 20240528115819.png",
     "imagenes/Pasted image 20240528115553.png",
     "imagenes/Pasted image 20240528104710.png",
-    "imagenes/Pasted image 20240528104539.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
