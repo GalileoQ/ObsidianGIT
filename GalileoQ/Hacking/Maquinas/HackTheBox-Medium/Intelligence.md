@@ -161,3 +161,6 @@ usando estos comando podemos enumerar los grupos y usando el `rid` podemos enume
 ```
 ![[Pasted image 20240603172218.png]]
 
+### ldapdomaindump
+
+![[Pasted image 20240603173748.png]]
