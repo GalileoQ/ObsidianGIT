@@ -113,5 +113,6 @@ intentamos realizar un `ASREPRoast` pero actualmente no podemos debido a que lo 
 ![[Pasted image 20240603134605.png]]
 
 ### pdftotext
-esta herramienta nos permite convertir los archivos pdf a texto pero debido a que carece de un metodo que nos permita realizarlo a todos los archivos a la ves va
+esta herramienta nos permite convertir los archivos pdf a texto pero debido a que carece de un metodo que nos permita realizarlo a todos los archivos a la ves vamos a aplicar un iterador de nuevo
 ![[Pasted image 20240603135434.png]]
+
