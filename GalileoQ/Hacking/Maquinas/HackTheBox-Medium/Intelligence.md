@@ -151,8 +151,13 @@ de esta manera podemos enumerar los usuarios del dominio para asegurarnos de ten
 ### rid
 usando estos comando podemos enumerar los grupos y usando el `rid` podemos enumerar los usuarios pertenecientes a esos grupos en este caso administrador
 ```python
-querygroupmem 0x200
-
-
+	>enumdomusers
+	
+	>enumdomgroups
+	
+	>querygroupmem 0x200
+	
+	>queryuser 0x1f4
 ```
 ![[Pasted image 20240603172218.png]]
+
