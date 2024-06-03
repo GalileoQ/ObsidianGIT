@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "c968088201c4c41f",
   "lastOpenFiles": [
-    "CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+    "CPTS/nmap.md",
     "CPTS",
     "GalileoQ/Sin título",
     "GITHUB/1 cabecera.md",
