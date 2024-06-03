@@ -149,5 +149,10 @@ de esta manera podemos enumerar los usuarios del dominio para asegurarnos de ten
 ![[Pasted image 20240603171755.png]]
 
 ### rid
+usando estos comando podemos enumerar los grupos y usando el `rid` podemos enumerar los usuarios pertenecientes a esos grupos en este caso administrador
+```python
+querygroupmem 0x200
 
+
+```
 ![[Pasted image 20240603172218.png]]
