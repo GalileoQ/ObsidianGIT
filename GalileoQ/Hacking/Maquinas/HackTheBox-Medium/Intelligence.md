@@ -138,5 +138,6 @@ hemos conseguido un usuario valido  así que vamos a realizar pruebas
 ![[Pasted image 20240603164054.png]]
 
 ### impacket-smbclient
-ahora podemos enumerar los recursos compartidos de tiffany donde encontramos un archivo llamado downdetector.p
+ahora podemos enumerar los recursos compartidos de tiffany donde encontramos un archivo llamado `downdetector.ps1` 
 ![[Pasted image 20240603171039.png]]
+
