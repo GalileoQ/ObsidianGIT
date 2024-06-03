@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impacket-G",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md"
               }
             }
           }
@@ -162,10 +163,10 @@
   },
   "active": "28bf6f78d88ce84d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603120831.png",
     "Pasted image 20240603115931.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "Pasted image 20240603115218.png",
     "Pasted image 20240603114141.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
