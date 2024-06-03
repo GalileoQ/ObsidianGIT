@@ -168,3 +168,6 @@ con esta herramienta podemos dumpear todo el dominio el cual nos crea los archiv
 ### servidor web
 ahora si abrimos un servidor web navegamos a la url podemos ver todos los archivos que hemos conseguido dumpeando el ldap pero de una manera mas organizada 
 ![[Pasted image 20240603175728.png]]
+
+`domain_users_by_groups.htlm`
+![[Pasted image 20240603175859.png]]
