@@ -111,3 +111,7 @@ utilizando kerbrute podemos hacer una validación de usuarios con la lista de us
 ### impacket-GetNPUsers 
 intentamos realizar un `ASREPRoast` pero actualmente no podemos debido a que lo usuarios no cuentan con la autenticación de kerberos 
 ![[Pasted image 20240603134605.png]]
+
+### pdftotext
+
+![[Pasted image 20240603135434.png]]
