@@ -147,3 +147,7 @@ de esta manera podemos enumerar los usuarios del dominio para asegurarnos de ten
 
 `enumerando gropos`
 ![[Pasted image 20240603171755.png]]
+
+### rid
+
+![[Pasted image 20240603172218.png]]
