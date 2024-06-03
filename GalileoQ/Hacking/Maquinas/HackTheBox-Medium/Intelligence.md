@@ -105,5 +105,6 @@ de esta manera hacemos un exiftool para todos los documentos pdf y con el comand
 ![[Pasted image 20240603115931.png]]
 
 ### Kerbrute
-utilizando kerbrute podemos hacer  
+utilizando kerbrute podemos hacer una validación de usuarios con la lista de usuarios que hemos conseguido 
 ![[Pasted image 20240603120831.png]]
+
