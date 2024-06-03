@@ -141,3 +141,6 @@ hemos conseguido un usuario valido  así que vamos a realizar pruebas
 ahora podemos enumerar los recursos compartidos de tiffany donde encontramos un archivo llamado `downdetector.ps1` 
 ![[Pasted image 20240603171039.png]]
 
+### rpcclient 
+de esta manera podemos enumerar los usua
+![[Pasted image 20240603171422.png]]
