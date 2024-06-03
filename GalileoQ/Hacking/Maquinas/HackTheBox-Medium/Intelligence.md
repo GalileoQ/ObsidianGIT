@@ -165,3 +165,6 @@ usando estos comando podemos enumerar los grupos y usando el `rid` podemos enume
 con esta herramienta podemos dumpear todo el dominio el cual nos crea los archivos para poder analizarlos montando un servicio de apache
 ![[Pasted image 20240603173748.png]]
 
+### servidor web
+ahora si abrimos un servidor web navegamos a la url podemos ver todos los archivos que hemos conseguido dumpeando el ldap pero de una manera mas organizada 
+![[Pasted image 20240603175728.png]]
