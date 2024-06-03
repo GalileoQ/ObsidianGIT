@@ -138,3 +138,4 @@ una ves descargado el exploit debemos verificar el estado del usuario maya
 con esta herramienta de impacket podemos establecer una conexión vía localadmin en la maquina victima. sin embargo la suite de impacket ya esta desactualizada por lo cual tuve que descargar la herramienta por separado y todo me fue de lujo
 ![[Pasted image 20240509190417.png]]
 
+### WE ARE ROOT
