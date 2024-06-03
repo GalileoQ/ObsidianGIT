@@ -93,7 +93,7 @@ con esta herramienta podemos ver los metadatos de los documentos pdf donde podem
 ![[Pasted image 20240603114141.png]]
 
 ### Iterador for
-dado que los documentos pdf estan guardados de manera predeterminada con 
+dado que los documentos pdf estan guardados de manera predeterminada con el año mes y dia podemos crear un iterador for para que recorra una lista desde el año 2020 hasta el 2022 con todos los dias y los meses de manera que
 ```python
 for a in {2020..2022}; do for m in {1..12}; do for d in {1..31}; do echo "http://10.10.10.248/documents/$a-$m-$d-upload.pdf"; done; done; done | xargs -n 1 -P 20 wget
 ```
