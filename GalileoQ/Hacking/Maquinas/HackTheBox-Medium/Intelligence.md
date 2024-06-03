@@ -129,3 +129,6 @@ con este iterador podemos leer y hacer un pdftotext para cada archivo pdf que te
 `una vez que encontrado el documento nos muestra la contraseña que se ha ingresado por default a cada usuario`
 ![[Pasted image 20240603162936.png]]
 
+`otra forma de ver el documento`
+basicamente 
+![[Pasted image 20240603163205.png]]
