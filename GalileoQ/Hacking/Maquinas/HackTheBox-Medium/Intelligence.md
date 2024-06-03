@@ -89,4 +89,5 @@ en el apartado de contacto podemos ver un boton para descargar documentos PDF
 ![[Pasted image 20240603112212.png]]
 
 ### exiftool 
+con esta herramienta podemos ver los metadatos de los documentos pdf donde podemos encontrar usuarios. me llama la atención en formato en el que están guardados estos documentos pdf
 ![[Pasted image 20240603114141.png]]
