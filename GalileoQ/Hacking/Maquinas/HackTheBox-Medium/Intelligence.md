@@ -162,6 +162,6 @@ usando estos comando podemos enumerar los grupos y usando el `rid` podemos enume
 ![[Pasted image 20240603172218.png]]
 
 ### ldapdomaindump
-con esta herramienta podemos dumpear todo el dominio el cual nos crea los archivos para poder analizarlos
+con esta herramienta podemos dumpear todo el dominio el cual nos crea los archivos para poder analizarlos montando un servicio de apache
 ![[Pasted image 20240603173748.png]]
 
