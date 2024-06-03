@@ -134,5 +134,6 @@ básicamente nos están indicando que la contraseña por default del usuario es 
 ![[Pasted image 20240603163205.png]]
 
 ### crackmapexec 
-hemos conseguido un 
+hemos conseguido un usuario valido  así que vamos a realizar pruebas
 ![[Pasted image 20240603164054.png]]
+
