@@ -142,5 +142,6 @@ ahora podemos enumerar los recursos compartidos de tiffany donde encontramos un 
 ![[Pasted image 20240603171039.png]]
 
 ### rpcclient 
-de esta manera podemos enumerar los usua
+de esta manera podemos enumerar los usuarios del dominio para asegurarnos de tenerlos todos
 ![[Pasted image 20240603171422.png]]
+
