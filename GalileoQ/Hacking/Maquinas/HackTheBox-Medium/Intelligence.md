@@ -92,3 +92,8 @@ en el apartado de contacto podemos ver un boton para descargar documentos PDF
 con esta herramienta podemos ver los metadatos de los documentos pdf donde podemos encontrar usuarios. me llama la atención en formato en el que están guardados estos documentos pdf
 ![[Pasted image 20240603114141.png]]
 
+### Iterador for
+dado que los documentos pdf estan guardados de manera predeterminada con 
+```python
+for a in {2020..2022}; do for m in {1..12}; do for d in {1..31}; do echo "http://10.10.10.248/documents/$a-$m-$d-upload.pdf"; done; done; done | xargs -n 1 -P 20 wget
+```
