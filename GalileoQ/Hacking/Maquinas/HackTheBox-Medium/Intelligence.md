@@ -171,3 +171,4 @@ ahora si abrimos un servidor web navegamos a la url podemos ver todos los archiv
 
 `domain_users_by_groups.htlm`
 ![[Pasted image 20240603175859.png]]
+
