@@ -100,3 +100,6 @@ for a in {2020..2022}; do for m in {1..12}; do for d in {1..31}; do echo "http:/
 hemos descargado varios documentos pdf que ahora podemos analizar para obtener mas usuarios
 ![[Pasted image 20240603115218.png]]
 
+`Obtenemos todos los usuarios`
+de esta manera hacemos un exiftool p
+![[Pasted image 20240603115931.png]]
