@@ -137,3 +137,6 @@ básicamente nos están indicando que la contraseña por default del usuario es 
 hemos conseguido un usuario valido  así que vamos a realizar pruebas
 ![[Pasted image 20240603164054.png]]
 
+### impacket-smbclient
+ahora podemos enumerar los recursos compartidos de tiffany donde encontramos un archivo llamado downdetector.p
+![[Pasted image 20240603171039.png]]
