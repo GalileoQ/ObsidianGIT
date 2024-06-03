@@ -130,5 +130,5 @@ con este iterador podemos leer y hacer un pdftotext para cada archivo pdf que te
 ![[Pasted image 20240603162936.png]]
 
 `otra forma de ver el documento`
-basicamente 
+básicamente nos estan indicando que la contraseña por default del usuario es `NewIntelligenceCorpUser9876` asi que porbaremos esto con los usuarios que ya tenemos 
 ![[Pasted image 20240603163205.png]]
