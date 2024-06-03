@@ -118,7 +118,8 @@ esta herramienta nos permite convertir los archivos pdf a texto pero debido a qu
 
 ### Iterador
 ```python
-
+for file in $(ls *pdf); do echo $file; done | grep -v users | while read filename; do pdftotext $filename; done
 ```
-
+con este iterador podemos leer y hacer un pdftotext para cada archivo pdf que tenemos
 ![[Pasted image 20240603140449.png]]
+
