@@ -87,3 +87,6 @@ de manera inicial no vemos ninguna información que pueda ser útil en la pagina
 `Contacto`
 en el apartado de contacto podemos ver un boton para descargar documentos PDF
 ![[Pasted image 20240603112212.png]]
+
+### exiftool 
+![[Pasted image 20240603114141.png]]
