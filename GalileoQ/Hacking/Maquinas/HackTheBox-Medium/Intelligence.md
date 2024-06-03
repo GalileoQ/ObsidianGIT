@@ -123,5 +123,9 @@ for file in $(ls *pdf); do echo $file; done | grep -v users | while read filenam
 con este iterador podemos leer y hacer un pdftotext para cada archivo pdf que tenemos
 ![[Pasted image 20240603140449.png]]
 
-`solo nos fal`
+`solo nos falta leer al documento que contenga algo de logica`
 ![[Pasted image 20240603140834.png]]
+
+`una vez que encontrado el documento nos muestra la contraseña que se ha ingresado por default a cada usuario`
+![[Pasted image 20240603162936.png]]
+
