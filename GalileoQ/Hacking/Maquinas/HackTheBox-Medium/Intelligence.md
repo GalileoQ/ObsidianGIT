@@ -104,3 +104,6 @@ hemos descargado varios documentos pdf que ahora podemos analizar para obtener m
 de esta manera hacemos un exiftool para todos los documentos pdf y con el comando `grep` nos quedamos con la linea `Creator` y luego con el comando `awk` imprimimos la segunda linea solo donde destan los nombres de usuarios
 ![[Pasted image 20240603115931.png]]
 
+### Kerbrute
+utilizando kerbrute podemos hacer  
+![[Pasted image 20240603120831.png]]
