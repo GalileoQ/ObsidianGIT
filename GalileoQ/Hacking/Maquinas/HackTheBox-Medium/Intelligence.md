@@ -82,5 +82,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-de 
+de manera inicial no vemos ninguna información que pueda ser útil en la pagina web
 ![[Pasted image 20240603112104.png]]
+
+![[Pasted image 20240603112212.png]]
