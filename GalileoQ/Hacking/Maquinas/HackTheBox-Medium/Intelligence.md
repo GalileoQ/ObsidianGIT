@@ -109,5 +109,5 @@ utilizando kerbrute podemos hacer una validación de usuarios con la lista de us
 ![[Pasted image 20240603120831.png]]
 
 ### impacket-GetNPUsers 
-
+intentamos realizar un `ASREPRoast` pero los usuarios no tienen activada la
 ![[Pasted image 20240603134605.png]]
