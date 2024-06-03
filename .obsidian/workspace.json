@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impacket-G",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,14 +161,14 @@
   },
   "active": "14651f97f8357a88",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603162936.png",
     "Pasted image 20240603140834.png",
     "Pasted image 20240603140449.png",
     "Pasted image 20240603135434.png",
     "Pasted image 20240603134605.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603120831.png",
     "Pasted image 20240603115931.png",
     "Pasted image 20240603115218.png",
@@ -183,7 +182,6 @@
     "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "Pasted image 20240603112212.png",
-    "Pasted image 20240603112104.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "CPTS/nmap.md",
     "CPTS",
