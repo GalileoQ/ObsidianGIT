@@ -233,3 +233,4 @@ en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPasswo
 `hacemos un git clone del repo e instalamos los requeriments`
 ![[Pasted image 20240604160217.png]]
 
+`gMSA`
