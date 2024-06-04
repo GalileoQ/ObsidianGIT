@@ -81,3 +81,6 @@ de esta manera logramos conseguir las credenciales que estaban en la base de dat
 `en el apartado de administrador podemos subir un archivo.jpg que vamos a utilizar para meter una reverse shell oculta`
 ![[Pasted image 20240603230506.png]]
 
+`Burpsuite`
+interceptam
+![[Pasted image 20240603230913.png]]
