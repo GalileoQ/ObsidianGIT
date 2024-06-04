@@ -78,5 +78,6 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 
 ### web
 de esta manera logramos conseguir las credenciales que estaban en la base de datos vulnerando el parámetro mal para obtener acceso a la pagina web
-`en el apartado de administrador podemos subir un ar`
+`en el apartado de administrador podemos subir un archivo.jpg que vamos a utilizar para meter una reverse shell oculta`
 ![[Pasted image 20240603230506.png]]
+
