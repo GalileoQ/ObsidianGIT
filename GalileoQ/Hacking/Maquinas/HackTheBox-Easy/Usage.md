@@ -85,3 +85,5 @@ de esta manera logramos conseguir las credenciales que estaban en la base de dat
 interceptamos y cambiamos la extensión del archivo para agregar .php de la manera que se muestra en la imagen
 ![[Pasted image 20240603230913.png]]
 
+`a la derecha podemos ver que nos da un estatus 302 lo que significa que esta haciendo una redireccion. simplemente seguimos la redireccion y listo`
+![[Pasted image 20240603231243.png]]
