@@ -184,3 +184,6 @@ utilizando smbmap podemos hacer una enumeración mas amplia de los recursos comp
 vamos a analizar el escipt que hemos encontrado. básicamente esto es una tarea que se ejecuta cada 5 minutos 
 ![[Pasted image 20240604145823.png]]
 
+### krbrelayx
+
+[https://github.com/dirkjanm/krbrelayx](r)
