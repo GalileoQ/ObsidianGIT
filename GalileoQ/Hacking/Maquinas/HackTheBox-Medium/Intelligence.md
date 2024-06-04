@@ -266,5 +266,9 @@ este comando sincroniza nuestra manquina con el DC
 de esta manera podemos obtener un `Service Tikect` de kerberos que en este caso lo ha creado bajo el nombre de `export KRB5CCNAME=Administrator@WWW_dc.intelligence.htb@INTELLIGENCE.HTB.ccache` 
 ![[Pasted image 20240604164810.png]]
 
-`ahora vamos igualar la variable `
+`ahora vamos igualar la variable KRB5CCNAME al archivo que hemos creado`
+>export KRB5CCNAME=Administrator@WWW_dc.intelligence.htb@INTELLIGENCE.HTB.ccache
+
+### wminexec 
+finalmente vamos a conectarnos
 ![[Pasted image 20240604174119.png]]
