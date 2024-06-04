@@ -88,5 +88,9 @@ interceptamos y cambiamos la extensión del archivo para agregar .php de la mane
 `a la derecha podemos ver que nos da un estatus 302 lo que significa que esta haciendo una redireccion. simplemente seguimos la redireccion y listo`
 ![[Pasted image 20240603231243.png]]
 
-`haciendo Fuzzing podemos descubrir que existe el directorio /uploads/images/`
+`haciendo Fuzzing podemos descubrir que existe el directorio /uploads/images/ y aqui dentro se encuentra nuestro archivo que al llamarlo nos entabla una reverse shell. para ello debemos estar a la escucha`
 ![[Pasted image 20240603231416.png]]
+
+### rshell
+aqui 
+![[Pasted image 20240603231542.png]]
