@@ -224,5 +224,5 @@ esta herramienta nos permite recolectar información de la maquina sin estar den
 ![[Pasted image 20240604154410.png]]
 
 ### BloodHound
-en este punto podemos detectar el que usuario Ted tiene permisos de leer 
+en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPassword` lo que nos permite dumpear la contraseña del `SVC_INT@INTELLIGENCE>HTB`
 ![[Pasted image 20240604155523.png]]
