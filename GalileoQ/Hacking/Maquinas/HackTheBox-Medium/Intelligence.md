@@ -260,5 +260,7 @@ este comando detiene la la sincronizacion autimatica del virtual box
 >sudo service virtualbox-gues-utils stop
 
 este comando sincroniza nuestra manquina con el DC
->sudo ntpdate -u 
+>sudo ntpdate -u
+
+
 ![[Pasted image 20240604164810.png]]
