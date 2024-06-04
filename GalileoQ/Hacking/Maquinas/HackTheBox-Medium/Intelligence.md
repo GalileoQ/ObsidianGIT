@@ -173,3 +173,6 @@ ahora si abrimos un servidor web navegamos a la url podemos ver todos los archiv
 no veo a ningún usuario con la capacidad de `remote managemnet user` lo que ningún usuario nos va a permitir conectarnos 
 ![[Pasted image 20240603175859.png]]
 
+### Enumeración con smbmap
+utilizando smbmap podemos hacer una enumeración mas amplia de los recursos compartidos para intentar leer los directorios a los que anteriormente no podiamos llega
+![[Pasted image 20240604141243.png]]
