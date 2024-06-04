@@ -95,3 +95,6 @@ interceptamos y cambiamos la extensión del archivo para agregar .php de la mane
 aqui obtenemos una reverse shell como el usuario dash
 ![[Pasted image 20240603231542.png]]
 
+### User Pivoting
+
+![[Pasted image 20240603232224.png]]
