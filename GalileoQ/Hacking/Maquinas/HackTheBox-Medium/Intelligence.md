@@ -223,3 +223,6 @@ usando crackmapexec podemos validar la contraseña pero como no nos dice `pwned`
 esta herramienta nos permite recolectar información de la maquina sin estar dentro para poder ver nuestro camino a seguir con dirección al `DC`
 ![[Pasted image 20240604154410.png]]
 
+### BloodHound
+
+![[Pasted image 20240604155523.png]]
