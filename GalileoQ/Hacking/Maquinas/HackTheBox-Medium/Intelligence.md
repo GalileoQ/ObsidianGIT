@@ -229,4 +229,4 @@ en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPasswo
 
 ### gMSADumper
 
-[https://github.com/micahvandeusen/gMSADumper.git].() 
+[gM](https://github.com/micahvandeusen/gMSADumper.git)
