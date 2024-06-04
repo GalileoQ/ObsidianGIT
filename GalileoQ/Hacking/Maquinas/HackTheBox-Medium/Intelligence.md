@@ -243,5 +243,10 @@ con esta herramienta vamos a enumerar los usuarios e identificar sobre quien pod
 ![[Pasted image 20240604161022.png]]
 
 `full-data` 
-con este comando podemos identificar so
+con este comando podemos identificar sobre quien tenemos permisos
 ![[Pasted image 20240604161316.png]]
+
+`msd-allowedtodelegateto`
+aquí nos identifica sobre quien tenemos los permisos 
+![[Pasted image 20240604161451.png]]
+
