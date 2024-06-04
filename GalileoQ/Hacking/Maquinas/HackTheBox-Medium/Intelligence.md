@@ -226,3 +226,7 @@ esta herramienta nos permite recolectar información de la maquina sin estar den
 ### BloodHound
 en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPassword` lo que nos permite dumpear la contraseña del `SVC_INT@INTELLIGENCE>HTB` 
 ![[Pasted image 20240604155523.png]]
+
+### gMSADumper
+
+[https://github.com/micahvandeusen/gMSADumper.git].() 
