@@ -258,5 +258,7 @@ con toda la información que hemos recopilado ahora vamos a impersonal al usuari
 ### Sincronización con el DC
 este comando detiene la la sincronizacion autimatica del virtual box
 >sudo service virtualbox-gues-utils stop
->sudo n
+
+este comando sincroniza nuestra manquina con el DC
+>sudo ntpdate -u 
 ![[Pasted image 20240604164810.png]]
