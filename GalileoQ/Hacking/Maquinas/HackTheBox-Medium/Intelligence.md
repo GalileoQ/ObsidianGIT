@@ -270,5 +270,5 @@ de esta manera podemos obtener un `Service Tikect` de kerberos que en este caso 
 >export KRB5CCNAME=Administrator@WWW_dc.intelligence.htb@INTELLIGENCE.HTB.ccache
 
 ### wmiexec 
-finalmente vamos a conectarnos usando la herramienta de 
+finalmente vamos a conectarnos usando wmiexec dado que esta herramienta nos permite conectarnos aunque el usuario no pertenezca al grupo `Remote Ma`
 ![[Pasted image 20240604174119.png]]
