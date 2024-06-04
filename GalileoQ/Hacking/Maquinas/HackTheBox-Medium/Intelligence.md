@@ -186,4 +186,4 @@ vamos a analizar el escipt que hemos encontrado. básicamente esto es una tarea 
 
 ### krbrelayx
 
-[https://github.com/dirkjanm/krbrelayx](r)
+vamos a usar el repositorio [krbrelayx](https://github.com/dirkjanm/krbrelayx) para tener acceso a una herramienta llamada dnstoolpy 
