@@ -186,4 +186,13 @@ vamos a analizar el escipt que hemos encontrado. básicamente esto es una tarea 
 
 ### krbrelayx
 
-vamos a usar el repositorio [krbrelayx](https://github.com/dirkjanm/krbrelayx) para tener acceso a una herramienta llamada dnstoolpy 
+vamos a usar el repositorio [krbrelayx](https://github.com/dirkjanm/krbrelayx) para tener acceso a una herramienta llamada dnstoolpy
+```python
+python3 dnstool.py
+usage: dnstool.py [-h] [-u USERNAME] [-p PASSWORD] [--forest] [--legacy] [--zone ZONE] [--print-zones] [--tcp] [-k] [-port port] [-force-ssl] [-dc-ip ip address]
+                  [-dns-ip ip address] [-aesKey hex key] [-r TARGETRECORD] [-a {add,modify,query,remove,resurrect,ldapdelete}] [-t {A}] [-d RECORDDATA] [--allow-multiple]
+                  [--ttl TTL]
+                  HOSTNAME
+dnstool.py: error: the following arguments are required: HOSTNAME
+```
+usando las opciones usaremos el parametro `-r` 
