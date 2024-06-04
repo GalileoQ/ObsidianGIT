@@ -181,5 +181,5 @@ utilizando smbmap podemos hacer una enumeración mas amplia de los recursos comp
 ![[Pasted image 20240604141527.png]]
 
 ### script en powareshell
-vamos a analizar el escipt que hemos encontrado 
+vamos a analizar el escipt que hemos encontrado. básicamente esto es una tarea que se ejecuta cada 5 minutos 
 ![[Pasted image 20240604145823.png]]
