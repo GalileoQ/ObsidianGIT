@@ -122,4 +122,4 @@ usando este script podemos explicar esta Wildcard para obtener el root.txt de la
 en el apartado de WARNING: No more file podemos leer la flag
 ![[Pasted image 20240603234023.png]]
 
-### WE A
+### WE ARE ROOT

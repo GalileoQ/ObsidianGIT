@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bccaf7fd92c57ea0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -157,9 +149,9 @@
   },
   "active": "1b3ea15752fbc590",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "Pasted image 20240603234123.png",
     "Pasted image 20240603234023.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "Pasted image 20240603232435.png",
     "Pasted image 20240603232224.png",
     "Pasted image 20240603231542.png",
@@ -171,7 +163,6 @@
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "Pasted image 20240603175859.png",
-    "Pasted image 20240603175728.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
