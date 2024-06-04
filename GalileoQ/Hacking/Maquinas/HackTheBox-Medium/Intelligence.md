@@ -174,5 +174,6 @@ no veo a ningún usuario con la capacidad de `remote managemnet user` lo que nin
 ![[Pasted image 20240603175859.png]]
 
 ### Enumeración con smbmap
-utilizando smbmap podemos hacer una enumeración mas amplia de los recursos compartidos para intentar leer los directorios a los que anteriormente no podiamos llega
+utilizando smbmap podemos hacer una enumeración mas amplia de los recursos compartidos para intentar leer los directorios a los que anteriormente no podíamos llegar
 ![[Pasted image 20240604141243.png]]
+
