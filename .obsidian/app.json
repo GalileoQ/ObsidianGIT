@@ -1,11 +1,12 @@
 {
   "showUnsupportedFiles": true,
   "readableLineLength": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "livePreview": true,
   "propertiesInDocument": "visible",
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "imagenes"
+  "attachmentFolderPath": "imagenes",
+  "foldHeading": false
 }
