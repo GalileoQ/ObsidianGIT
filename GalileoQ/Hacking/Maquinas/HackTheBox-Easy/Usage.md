@@ -116,5 +116,10 @@ usando este script podemos explicar esta Wildcard para obtener el root.txt de la
 	
 	>ln -s -r /root/root.txt root.txt
 	
+	>sudo /usr/bin/usage_management #Opcion 1 (Project Backup)
+	
 ```
+en el apartado de WARNING: No more file podemos leer la flag
 ![[Pasted image 20240603234023.png]]
+
+### WE A
