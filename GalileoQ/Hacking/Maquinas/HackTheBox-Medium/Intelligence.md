@@ -217,5 +217,5 @@ usando john podemos crakear la contraseña
 
 ### crackmapexec
 usando crackmapexec podemos validar la contraseña pero como no nos dice `pwned` quiere decir que este usuario no pertenece al grupo `Remote Management Users`
-![[Pasted image 20240604153755.png]]
+![[Pasted image 20240604153945.png]]
 
