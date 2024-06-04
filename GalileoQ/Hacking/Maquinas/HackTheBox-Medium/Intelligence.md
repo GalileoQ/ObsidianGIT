@@ -242,5 +242,6 @@ con esta herramienta vamos a enumerar los usuarios e identificar sobre quien pod
 
 ![[Pasted image 20240604161022.png]]
 
-
+`full-data` 
+con este comando podemos identificar so
 ![[Pasted image 20240604161316.png]]
