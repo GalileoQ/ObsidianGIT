@@ -255,3 +255,6 @@ con toda la información que hemos recopilado ahora vamos a impersonal al usuari
 `este error se debe a que nuestro reloj no esta sincronizado con el reloj de la maquina`
 ![[Pasted image 20240604162441.png]]
 
+### Sincronización con el DC
+
+![[Pasted image 20240604164810.png]]
