@@ -99,3 +99,7 @@ aqui obtenemos una reverse shell como el usuario dash
 hemos conseguido un usuario llamado xander y también un archivo oculto dentro del directorio de dash que hemos logrado leer y contiene unas credenciales
 ![[Pasted image 20240603232224.png]]
 
+### ssh
+usamos el protocolo ssh para conectarnos como el usuario xander
+![[Pasted image 20240603232435.png]]
+
