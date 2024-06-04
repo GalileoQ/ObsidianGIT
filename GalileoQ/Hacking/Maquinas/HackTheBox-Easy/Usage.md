@@ -82,5 +82,6 @@ de esta manera logramos conseguir las credenciales que estaban en la base de dat
 ![[Pasted image 20240603230506.png]]
 
 `Burpsuite`
-interceptam
+interceptamos y cambiamos la extensión del archivo para agregar .php de la manera que se muestra en la imagen
 ![[Pasted image 20240603230913.png]]
+
