@@ -6,5 +6,6 @@
   "propertiesInDocument": "visible",
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "imagenes"
 }
