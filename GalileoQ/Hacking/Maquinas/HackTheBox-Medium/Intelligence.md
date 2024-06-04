@@ -251,5 +251,7 @@ aquí nos identifica sobre quien tenemos los permisos
 ![[Pasted image 20240604161451.png]]
 
 ### impacket-getST
-con toda la informacion que hemos recopilado ahora vamos a impersonal al usuario Administrator
+con toda la información que hemos recopilado ahora vamos a impersonal al usuario Administrator
+`este error se debe a que nuestro reloj no esta sincronizado con el reloj de la maquina`
 ![[Pasted image 20240604162441.png]]
+
