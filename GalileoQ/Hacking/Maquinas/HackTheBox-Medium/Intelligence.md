@@ -219,3 +219,6 @@ usando john podemos crakear la contraseña
 usando crackmapexec podemos validar la contraseña pero como no nos dice `pwned` quiere decir que este usuario no pertenece al grupo `Remote Management Users`
 ![[Pasted image 20240604153945.png]]
 
+### Bloodhound-python
+esta herramienta nos permite recole
+![[Pasted image 20240604154410.png]]
