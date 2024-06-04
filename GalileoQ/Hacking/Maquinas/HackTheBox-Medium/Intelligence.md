@@ -211,3 +211,10 @@ de esta manera hemos capturado un hash NTLMv2 del usuario Ted.Grave
 
 ![[Pasted image 20240604152813.png]]
 
+`John`
+usando john podemos crakear la contraseña
+![[Pasted image 20240604153720.png]]
+
+### crackmapexec
+usando crackmapexec podemos validar la contraseña pero como no n
+![[Pasted image 20240604153755.png]]
