@@ -256,6 +256,7 @@ con toda la información que hemos recopilado ahora vamos a impersonal al usuari
 ![[Pasted image 20240604162441.png]]
 
 ### Sincronización con el DC
-usando el comando
->sudo service virtualbox-gues
+este comando detiene la la sincronizacion autimatica del virtual box
+>sudo service virtualbox-gues-utils stop
+>sudo n
 ![[Pasted image 20240604164810.png]]
