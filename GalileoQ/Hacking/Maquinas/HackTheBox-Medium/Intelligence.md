@@ -195,4 +195,5 @@ usage: dnstool.py [-h] [-u USERNAME] [-p PASSWORD] [--forest] [--legacy] [--zone
                   HOSTNAME
 dnstool.py: error: the following arguments are required: HOSTNAME
 ```
-> opcione usaremos el parámetro `-r` para 
+> parámetro `-r` para el TARGETRECORD #
+> parametro `-a` para añadir un nuevo TARGETRECORD
