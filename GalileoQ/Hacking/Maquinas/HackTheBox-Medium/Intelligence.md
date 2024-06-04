@@ -203,3 +203,5 @@ hemos logrado enviar la conexión así que vamos a envenenar el trafico con el r
 ![[Pasted image 20240604152159.png]]
 
 ### responder
+vamos a estar envenenando el trafico con el responder y tendremos 
+![[Pasted image 20240604152414.png]]
