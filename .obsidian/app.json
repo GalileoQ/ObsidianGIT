@@ -1,9 +1,10 @@
 {
   "showUnsupportedFiles": true,
   "readableLineLength": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "livePreview": true,
   "propertiesInDocument": "visible",
   "rightToLeft": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
