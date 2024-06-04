@@ -203,5 +203,6 @@ hemos logrado enviar la conexión así que vamos a envenenar el trafico con el r
 ![[Pasted image 20240604152159.png]]
 
 ### responder
-vamos a estar esnifando el trafico con el responder y lanzamos al dnsrecon. ahora solo nos falta esperar 5 minutos para ver la autenticacion
+vamos a estar esnifando el trafico con el responder y lanzamos al dnsrecon. ahora solo nos falta esperar 5 minutos para ver la autenticación y poder obtener un hash NTLMv4
 ![[Pasted image 20240604152414.png]]
+
