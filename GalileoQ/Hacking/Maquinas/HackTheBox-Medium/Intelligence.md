@@ -238,5 +238,5 @@ de esta manera podemos obtener el hash del usuario `svc_int`
 ![[Pasted image 20240604160437.png]]
 
 ### pywerview
-c
+con esta herramienta vamos a enumerar los usuarios e identificar sobre quien podemos realizar el ataque
 ![[Pasted image 20240604161022.png]]
