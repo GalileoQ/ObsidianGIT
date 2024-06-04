@@ -170,6 +170,6 @@ ahora si abrimos un servidor web navegamos a la url podemos ver todos los archiv
 ![[Pasted image 20240603175728.png]]
 
 `domain_users_by_groups.htlm`
-no veo a ningun usuario con la capacidad de remote managem
+no veo a ningún usuario con la capacidad de `remote managemnet user` lo que ningún usuario nos va a permitir conectarnos 
 ![[Pasted image 20240603175859.png]]
 
