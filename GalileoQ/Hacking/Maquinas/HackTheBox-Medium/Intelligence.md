@@ -233,4 +233,7 @@ en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPasswo
 `hacemos un git clone del repo e instalamos los requeriments`
 ![[Pasted image 20240604160217.png]]
 
-`gMSA`
+`gMSADumper`
+de esta manera podemos obtener el hash del usuario `svc_int` 
+![[Pasted image 20240604160437.png]]
+
