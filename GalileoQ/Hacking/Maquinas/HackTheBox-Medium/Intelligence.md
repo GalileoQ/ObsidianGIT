@@ -269,6 +269,6 @@ de esta manera podemos obtener un `Service Tikect` de kerberos que en este caso 
 `ahora vamos igualar la variable KRB5CCNAME al archivo que hemos creado`
 >export KRB5CCNAME=Administrator@WWW_dc.intelligence.htb@INTELLIGENCE.HTB.ccache
 
-### wminexec 
-finalmente vamos a conectarnos
+### wmiexec 
+finalmente vamos a conectarnos usando la herramienta de 
 ![[Pasted image 20240604174119.png]]
