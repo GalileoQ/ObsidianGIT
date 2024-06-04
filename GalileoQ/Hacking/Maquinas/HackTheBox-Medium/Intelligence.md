@@ -230,5 +230,6 @@ en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPasswo
 ### gMSADumper
 
 [gMSADumper](https://github.com/micahvandeusen/gMSADumper.git) con esta herramienta podremos aprovechar esta vulnerabilidad y dumpear la password del usuario
-`hacemos un git clone d`
+`hacemos un git clone del repo e instalamos los requeriments`
 ![[Pasted image 20240604160217.png]]
+
