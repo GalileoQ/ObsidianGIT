@@ -263,6 +263,8 @@ este comando sincroniza nuestra manquina con el DC
 >sudo ntpdate -u
 
 ### impacket-getST
-de esta manera podemos obtener un `Service Tikect` de kerberos
+de esta manera podemos obtener un `Service Tikect` de kerberos que en este caso lo ha creado bajo el nombre de 
 ![[Pasted image 20240604164810.png]]
 
+
+![[Pasted image 20240604174119.png]]
