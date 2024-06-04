@@ -177,5 +177,6 @@ no veo a ningún usuario con la capacidad de `remote managemnet user` lo que nin
 utilizando smbmap podemos hacer una enumeración mas amplia de los recursos compartidos para intentar leer los directorios a los que anteriormente no podíamos llegar
 ![[Pasted image 20240604141243.png]]
 
-``
+`descargamos la user.txt`
 ![[Pasted image 20240604141527.png]]
+
