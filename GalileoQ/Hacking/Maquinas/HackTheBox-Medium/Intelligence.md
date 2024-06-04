@@ -262,5 +262,6 @@ este comando detiene la la sincronizacion autimatica del virtual box
 este comando sincroniza nuestra manquina con el DC
 >sudo ntpdate -u
 
+### impacket-getST
 
 ![[Pasted image 20240604164810.png]]
