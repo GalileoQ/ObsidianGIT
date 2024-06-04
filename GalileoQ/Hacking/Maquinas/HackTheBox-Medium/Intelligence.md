@@ -197,4 +197,3 @@ dnstool.py: error: the following arguments are required: HOSTNAME
 ```
 > parámetro `-r` para el TARGETRECORD # recordemos que debe empezar por `web`
 > parámetro `-a` para añadir un nuevo dnsrecon 
-> 
