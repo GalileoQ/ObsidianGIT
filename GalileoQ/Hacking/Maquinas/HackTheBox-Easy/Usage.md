@@ -77,4 +77,6 @@ sqlmap -r request.txt --level 5 --risk 3 -p email --batch -D usage_blog -T admin
 ![[Pasted image 20240418131505.png]]
 
 ### web
-de esta manera logramos conseguir las credenciales que estaban en la base de datos vulnerando el
+de esta manera logramos conseguir las credenciales que estaban en la base de datos vulnerando el parámetro mal para obtener acceso a la pagina web
+``
+![[Pasted image 20240603230506.png]]
