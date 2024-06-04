@@ -250,3 +250,5 @@ con este comando podemos identificar sobre quien tenemos permisos
 aquí nos identifica sobre quien tenemos los permisos 
 ![[Pasted image 20240604161451.png]]
 
+`con toda la informacion que hemos recopilado ahora vamos a impersonar al usuario `
+![[Pasted image 20240604162441.png]]
