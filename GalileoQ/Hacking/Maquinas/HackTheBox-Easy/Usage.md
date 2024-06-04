@@ -104,8 +104,9 @@ usamos el protocolo ssh para conectarnos como el usuario xander
 ![[Pasted image 20240603232435.png]]
 
 ### sudo -l
-tenemos permisos de sudo para un binario llamado `/usr/bin/usage_management` el cual tiene 3 opciones y podemos ver que la ruta donde se esta ejecutando estas o
+tenemos permisos de sudo para un binario llamado `/usr/bin/usage_management` el cual tiene 3 opciones y podemos ver que la ruta donde se esta ejecutando estas opciones es `/var/www/html`
 ![[Pasted image 20240603234123.png]]
 
-
+`Wildcard`
+usando este script podemos explicar esta Wildcard para obtener 
 ![[Pasted image 20240603234023.png]]
