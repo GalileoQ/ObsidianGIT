@@ -103,4 +103,8 @@ hemos conseguido un usuario llamado xander y también un archivo oculto dentro d
 usamos el protocolo ssh para conectarnos como el usuario xander
 ![[Pasted image 20240603232435.png]]
 
+### sudo -l
+
+![[Pasted image 20240603234123.png]]
+
 ![[Pasted image 20240603234023.png]]
