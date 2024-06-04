@@ -180,3 +180,6 @@ utilizando smbmap podemos hacer una enumeración mas amplia de los recursos comp
 `descargamos la user.txt`
 ![[Pasted image 20240604141527.png]]
 
+### script en powareshell
+
+![[Pasted image 20240604145823.png]]
