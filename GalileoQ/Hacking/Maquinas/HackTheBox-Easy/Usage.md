@@ -104,7 +104,8 @@ usamos el protocolo ssh para conectarnos como el usuario xander
 ![[Pasted image 20240603232435.png]]
 
 ### sudo -l
-
+tenemos permisos de sudo para un binario llamado `/usr/bin/usage_management` el cual tiene 3 opciones y podemos ver que la ruta donde se esta ejecutando estas o
 ![[Pasted image 20240603234123.png]]
+
 
 ![[Pasted image 20240603234023.png]]
