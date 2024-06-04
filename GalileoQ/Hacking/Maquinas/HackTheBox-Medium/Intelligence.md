@@ -195,4 +195,4 @@ usage: dnstool.py [-h] [-u USERNAME] [-p PASSWORD] [--forest] [--legacy] [--zone
                   HOSTNAME
 dnstool.py: error: the following arguments are required: HOSTNAME
 ```
-usando las opciones usaremos el parametro `-r` 
+> opcione usaremos el parámetro `-r` para 
