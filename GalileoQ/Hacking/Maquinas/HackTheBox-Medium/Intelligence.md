@@ -237,3 +237,6 @@ en este punto podemos detectar el que usuario Ted tiene permisos `ReedGMSAPasswo
 de esta manera podemos obtener el hash del usuario `svc_int` 
 ![[Pasted image 20240604160437.png]]
 
+### pywerview
+c
+![[Pasted image 20240604161022.png]]
