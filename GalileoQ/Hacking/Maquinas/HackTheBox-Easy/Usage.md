@@ -92,5 +92,6 @@ interceptamos y cambiamos la extensión del archivo para agregar .php de la mane
 ![[Pasted image 20240603231416.png]]
 
 ### rshell
-aqui 
+aqui obtenemos una reverse shell como el usuario dash
 ![[Pasted image 20240603231542.png]]
+
