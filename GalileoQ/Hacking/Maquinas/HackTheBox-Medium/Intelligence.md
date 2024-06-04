@@ -195,5 +195,9 @@ usage: dnstool.py [-h] [-u USERNAME] [-p PASSWORD] [--forest] [--legacy] [--zone
                   HOSTNAME
 dnstool.py: error: the following arguments are required: HOSTNAME
 ```
+
 > parámetro `-r` para el TARGETRECORD # recordemos que debe empezar por `web`
 > parámetro `-a` para añadir un nuevo dnsrecon 
+
+hemos logrado enviar la conexión asi que vamos a 
+![[Pasted image 20240604152159.png]]
