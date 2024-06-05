@@ -11,3 +11,11 @@ Reenvío dinámico de puertos con túnel SSH y SOCKS
 ssh -L 1234:localhost:3306 -L 8080:localhost:80 ubuntu@10.129.202.64
 ```
 
+#### Enumeración del destino de Windows a través de Proxychains
+
+Reenvío dinámico de puertos con túnel SSH y SOCKS
+
+```python
+proxychains nmap -v -Pn -sT 172.16.5.19
+```
+
