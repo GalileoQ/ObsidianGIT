@@ -19,3 +19,10 @@ Reenvío dinámico de puertos con túnel SSH y SOCKS
 proxychains nmap -v -Pn -sT 172.16.5.19
 ```
 
+#### Usando xfreerdp con Proxychains
+
+Reenvío dinámico de puertos con túnel SSH y SOCKS
+
+```python
+proxychains xfreerdp /v:172.16.5.19 /u:victor /p:pass@123
+```
