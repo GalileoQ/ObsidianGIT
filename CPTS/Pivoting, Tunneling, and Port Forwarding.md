@@ -405,5 +405,5 @@ powareshell
 
 ```python
 cmd
-for /l %i in (1,1,254) do @ping -n 1 -w 300 172.16.5.%i > nul && echo 172.16.5.%i is up || echo 172.16.5.%i is down
+for /l %i in (1,1,30) do @ping -n 1 -w 300 172.16.6.%i > nul && echo 172.16.6.%i is up || echo 172.16.5.%i is down
 ```
