@@ -18,9 +18,9 @@ Reenvío dinámico de puertos con túnel SSH y SOCKS
 
 ```python
 G41i130Q@htb[/htb]$ ssh -D 9050 ubuntu@10.129.202.64
-```
-``
 
+	# nota: de esta manera podemos enviar todo el trafico de la maquina  
+```
 
 #### Enumeración del destino de Windows a través de Proxychains
 
