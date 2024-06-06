@@ -394,7 +394,13 @@ Después de configurar el `portproxy`En nuestro host pivot basado en Windows, in
 creamos el archivo y luego con la herramienta pypykatz podemos verlo
 ![[Pasted image 20240606145302.png]]
 
-### barrido de ip en powareshell
+### barrido de ip en powareshell y cmd
 ```python
+powareshell
 1..254 | % {"172.16.6.$($_): $(Test-Connection -count 1 -comp 172.15.6.$($_) -quiet)"}
+```
+
+```python
+cmd
+for /l %i in (1,1,254) do @ping -n 1 -w 300 172.16.5.%i > nul && echo 172.16.5.%i is up || echo 172.16.5.%i is down
 ```
