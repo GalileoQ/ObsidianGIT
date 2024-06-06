@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "8bc150a902ac5c0c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
@@ -184,7 +185,6 @@
     "imagenes/Pasted image 20240604155523.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
