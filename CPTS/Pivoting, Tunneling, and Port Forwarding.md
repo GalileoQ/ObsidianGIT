@@ -388,5 +388,8 @@ Después de configurar el `portproxy`En nuestro host pivot basado en Windows, in
 | `regsvr32.exe SocksOverRDP-Plugin.dll`                                                                                                                                                                             | Comando basado en Windows utilizado para registrar SocksOverRDP-PLugin.dll.                                                                                                                                                                                                                           |
 | `netstat -antb \|findstr 1080`                                                                                                                                                                                     | Comando basado en Windows utilizado para enumerar las conexiones de red TCP que escuchan en el puerto 1080.                                                                                                                                                                                           |
 
-### creando un dump file a partir de un proceso de 
+### creando un dump file a partir de un proceso del administrador de tareas
+
+creamos el archivo y luego con la herramienta pypykatz podemos verlo
 ![[Pasted image 20240606145302.png]]
+
