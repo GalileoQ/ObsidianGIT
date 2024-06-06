@@ -37,6 +37,9 @@ Reenvío dinámico de puertos con túnel SSH y SOCKS
 
 ```python
 proxychains xfreerdp /v:172.16.5.19 /u:victor /p:pass@123
+
+
+proxychains xfreerdp /v:172.16.5.35 /u:user /p:'Plain Human work!' /cert:ignore +drive:smbfolder,/home/kali
 ```
 
 #### Configuración del proxy SOCKS de MSF
