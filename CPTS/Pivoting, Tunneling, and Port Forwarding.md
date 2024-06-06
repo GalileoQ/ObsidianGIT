@@ -22,6 +22,7 @@ G41i130Q@htb[/htb]$ ssh -D 9050 ubuntu@10.129.202.64
 	# nota: de esta manera podemos enviar todo el trafico de la maquina numero 3 (maquina final) hacia nuestra maquina por el puerto 9050 que esta configurado usando el proxychains
 ```
 
+
 #### Enumeración del destino de Windows a través de Proxychains
 
 Reenvío dinámico de puertos con túnel SSH y SOCKS
@@ -393,3 +394,7 @@ Después de configurar el `portproxy`En nuestro host pivot basado en Windows, in
 creamos el archivo y luego con la herramienta pypykatz podemos verlo
 ![[Pasted image 20240606145302.png]]
 
+### barrido de ip en powareshell
+```python
+1..254 | % {"172.16.6.$($_): $(Test-Connection -count 1 -comp 172.15.6.$($_) -quiet)"}
+```
