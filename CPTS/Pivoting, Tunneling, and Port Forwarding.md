@@ -12,6 +12,16 @@ Reenvío dinámico de puertos con túnel SSH y SOCKS
 ssh -L 1234:localhost:3306 -L 8080:localhost:80 ubuntu@10.129.202.64
 ```
 
+#### Habilitación del reenvío dinámico de puertos con SSH
+
+Reenvío dinámico de puertos con túnel SSH y SOCKS
+
+```python
+G41i130Q@htb[/htb]$ ssh -D 9050 ubuntu@10.129.202.64
+```
+``
+
+
 #### Enumeración del destino de Windows a través de Proxychains
 
 Reenvío dinámico de puertos con túnel SSH y SOCKS
