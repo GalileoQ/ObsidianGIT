@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
+                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8bc150a902ac5c0c",
+  "active": "a0470253cdcb50de",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "imagenes/Pasted image 20240606145302.png",
