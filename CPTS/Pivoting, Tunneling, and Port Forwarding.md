@@ -288,3 +288,28 @@ Microsoft Windows [Version 10.0.17763.1637]
 C:\>
 ```
 
+# Reenvío de puertos con Windows Netsh
+
+#### Usando Netsh.exe para reenviar puertos
+
+Reenvío de puertos con Windows Netsh
+
+```python
+C:\Windows\system32> netsh.exe interface portproxy add v4tov4 listenport=8080 listenaddress=10.129.15.150 connectport=3389 connectaddress=172.16.5.25
+```
+
+#### Verificación de reenvío de puerto
+
+Reenvío de puertos con Windows Netsh
+
+```python
+C:\Windows\system32> netsh.exe interface portproxy show v4tov4
+
+Listen on ipv4:             Connect to ipv4:
+
+Address         Port        Address         Port
+--------------- ----------  --------------- ----------
+10.129.42.198   8080        172.16.5.25     3389
+```
+
+Después de configurar el `portproxy`En nuestro host pivot basado en Windows, intentaremos conectarnos al puerto 8080 de este host desde nuestro host de ataque usando xfreerdp. Una vez que se envía una solicitud desde nuestro host de ataque, el host de Windows enrutará nuestro tráfico de acuerdo con la configuración del proxy configurada por netsh.exe.
