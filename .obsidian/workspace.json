@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPTS/Pivoting, Tunneling, and Port Forwarding.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "a0470253cdcb50de",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
+    "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "imagenes/Pasted image 20240605151052.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "imagenes/Pasted image 20240604174119.png",
@@ -167,7 +168,6 @@
     "imagenes/Pasted image 20240604160437.png",
     "imagenes/Pasted image 20240604160217.png",
     "imagenes/Pasted image 20240604155523.png",
-    "imagenes/Pasted image 20240604154410.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
