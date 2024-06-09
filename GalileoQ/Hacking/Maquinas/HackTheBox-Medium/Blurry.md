@@ -1,10 +1,16 @@
 #medium #tecnicas #windows #fuzzing 
 ### Ping
 ```python
+ping -c 1 10.10.11.19
+PING 10.10.11.19 (10.10.11.19) 56(84) bytes of data.
+64 bytes from 10.10.11.19: icmp_seq=1 ttl=63 time=152 ms
 
+--- 10.10.11.19 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 152.472/152.472/152.472/0.000 ms
 ```
 
-### TTL
+### TTL 63 = Linux
 
 ### nmap
 ```python
