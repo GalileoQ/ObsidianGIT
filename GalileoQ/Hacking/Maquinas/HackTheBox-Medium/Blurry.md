@@ -40,4 +40,5 @@ tenemos una web que nos permite iniciar sesión con un usuario aleatorio. en est
 ![[Pasted image 20240609155324.png]]
 
 `admin`
-
+después de iniciar sesión podemos identificar un proceso que se esta ejecutando
+![[Pasted image 20240609155509.png]]
