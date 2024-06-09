@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "a0470253cdcb50de",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
@@ -197,8 +199,6 @@
     "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 111 - NFS.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Gallery.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
