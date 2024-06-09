@@ -49,5 +49,6 @@ después de hacer clic en el proceso podemos ver el file path de un archivo en l
 
 ### Fuzzing con wfuzz
 
-vamos a enumerar subdomi
+enumerando subdominios podemos encontrar efectivamente el subdominio donde se encuentra el archivo que hemos visto anteriormente y tenemos uno mas llamado `chat` 
 ![[Pasted image 20240609155815.png]]
+
