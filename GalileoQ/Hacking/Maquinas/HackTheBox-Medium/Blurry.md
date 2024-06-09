@@ -47,3 +47,7 @@ después de iniciar sesión podemos identificar un proceso que se esta ejecutand
 después de hacer clic en el proceso podemos ver el file path de un archivo en la web. se encuentra en otro subdominio así que vamos a enumerar
 ![[Pasted image 20240609155706.png]]
 
+### Fuzzing con wfuzz
+
+vamos a enumerar subdomi
+![[Pasted image 20240609155815.png]]
