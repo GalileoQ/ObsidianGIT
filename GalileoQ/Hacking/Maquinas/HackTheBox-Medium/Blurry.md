@@ -44,5 +44,6 @@ después de iniciar sesión podemos identificar un proceso que se esta ejecutand
 ![[Pasted image 20240609155509.png]]
 
 `experiments`
-despues de hacer clic en el proceso podemos ver 
-![[Pasted image 20240609155605.png]]
+después de hacer clic en el proceso podemos ver el file path de un archivo en la web. se encuentra en otro subdominio así que vamos a enumerar
+![[Pasted image 20240609155706.png]]
+
