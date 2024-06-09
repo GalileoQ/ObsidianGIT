@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91cc95f0c729cadc",
+  "active": "a0470253cdcb50de",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
@@ -199,7 +199,6 @@
     "GITHUB/1 cabecera.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
     "GalileoQ/Hacking/Hacking Puertos/Puerto 111 - NFS.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
