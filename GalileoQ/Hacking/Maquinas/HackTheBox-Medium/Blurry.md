@@ -36,5 +36,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ### Enumeración del puerto 80 (http)
 
-tenemos una web que nos permite iniciar sessión con un usuario aleatorio. en este caso usamos admin
+tenemos una web que nos permite iniciar sesión con un usuario aleatorio. en este caso usamos admin
 ![[Pasted image 20240609155324.png]]
+
+`admin`
+
