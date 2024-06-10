@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "146f8d762181e284",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "91cc95f0c729cadc",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a0470253cdcb50de",
+  "active": "146f8d762181e284",
   "lastOpenFiles": [
     "imagenes/Pasted image 20240609155815.png",
     "imagenes/Pasted image 20240609155706.png",
