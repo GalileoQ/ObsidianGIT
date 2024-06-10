@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65b1de464ddf67fb",
+        "id": "4da23b607a09da57",
         "type": "tabs",
         "children": [
           {
-            "id": "05f7b31517983d6c",
+            "id": "3ac3e91ec5eb0c09",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,8 +139,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "3ac3e91ec5eb0c09",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "MAQUINA BRAINPAN (Buffer Overflow).md",
@@ -159,7 +160,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
