@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:\"GalileoQ/Hacking/Windows/Hacking Active Directory\"  ",
+      "query": "tag:#ActiveDirectory  ",
       "color": {
         "a": 1,
-        "rgb": 986278
+        "rgb": 11657298
       }
     }
   ],
