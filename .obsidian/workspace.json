@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d08df35b4026191",
+        "id": "4dc38bda2174f4d8",
         "type": "tabs",
         "children": [
           {
-            "id": "a0470253cdcb50de",
+            "id": "15b5d047f297b6bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "146f8d762181e284",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "91cc95f0c729cadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,8 +139,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "146f8d762181e284",
+  "active": "15b5d047f297b6bf",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "imagenes/Pasted image 20240609155815.png",
     "imagenes/Pasted image 20240609155706.png",
     "imagenes/Pasted image 20240609155605.png",
@@ -182,7 +153,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
@@ -198,13 +168,11 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
-    "imagenes/Pasted image 20240604162441.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "CPTS",
     "GalileoQ/Sin título",
