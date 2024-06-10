@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc38bda2174f4d8",
+        "id": "65b1de464ddf67fb",
         "type": "tabs",
         "children": [
           {
-            "id": "15b5d047f297b6bf",
+            "id": "05f7b31517983d6c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ActiveDirectory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,8 +140,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "15b5d047f297b6bf",
+  "active": "05f7b31517983d6c",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
+    "MAQUINA BRAINPAN (Buffer Overflow).md",
+    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "imagenes/Pasted image 20240609155815.png",
@@ -168,7 +173,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
@@ -176,8 +180,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "CPTS",
     "GalileoQ/Sin título",
-    "GITHUB/1 cabecera.md",
-    "GalileoQ/Hacking/Hacking Puertos/Puerto 161 - SNMP.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
