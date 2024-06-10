@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md"
+              }
             }
           }
         ],
@@ -151,7 +156,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ac3e91ec5eb0c09",
+  "active": "52a1cd68b703f1aa",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
