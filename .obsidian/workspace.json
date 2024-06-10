@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4163c9a8d0bd4928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ]
       }
