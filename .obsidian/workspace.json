@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,10 +151,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4163c9a8d0bd4928",
+  "active": "3ac3e91ec5eb0c09",
   "lastOpenFiles": [
-    "MAQUINA BRAINPAN (Buffer Overflow).md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
+    "MAQUINA BRAINPAN (Buffer Overflow).md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
