@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,13 +18,27 @@
       "query": "tag:#ActiveDirectory  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 336276
+      }
+    },
+    {
+      "query": "tag:#medium  ",
+      "color": {
+        "a": 1,
+        "rgb": 11378964
+      }
+    },
+    {
+      "query": "tag:#Easy  ",
+      "color": {
+        "a": 1,
+        "rgb": 556296
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.6,
+  "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.17664359861592,
   "lineSizeMultiplier": 0.990138408304498,
   "collapse-forces": false,
@@ -32,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 350,
-  "scale": 0.02152871844243027,
+  "scale": 0.021528718442430265,
   "close": false
 }
