@@ -25,7 +25,7 @@
       "query": "tag:#medium  ",
       "color": {
         "a": 1,
-        "rgb": 11378964
+        "rgb": 15073280
       }
     },
     {
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1.36314878892734,
   "lineSizeMultiplier": 1.32923875432526,
   "collapse-forces": false,
-  "centerStrength": 0.209591474245115,
+  "centerStrength": 0.302768166089965,
   "repelStrength": 7.74422735346359,
-  "linkStrength": 0,
+  "linkStrength": 0.569204152249135,
   "linkDistance": 500,
-  "scale": 0.035738165181834654,
+  "scale": 0.2713866918495568,
   "close": false
 }
