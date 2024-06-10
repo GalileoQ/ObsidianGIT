@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4da23b607a09da57",
+        "id": "36a87780cd12d4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac3e91ec5eb0c09",
+            "id": "4a69676cada48b2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+              }
             }
           }
         ],
@@ -139,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ac3e91ec5eb0c09",
+  "active": "4a69676cada48b2f",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "MAQUINA BRAINPAN (Buffer Overflow).md",
