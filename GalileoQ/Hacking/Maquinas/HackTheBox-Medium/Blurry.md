@@ -60,3 +60,6 @@ podemos obtener las credenciales de una api lo cual es bueno.
 al abrir `clearml-ini` vamos a ingresar las credenciales de la api que creamos esto nos creara un archivo `clearml.config` en el home 
 ![[Pasted image 20240611125038.png]]
 
+### exploit
+en esta web nos muestra un ejemplo de como aprovechar la vulnerabilidad para subir un archivo y poder tener ejecucion de coman
+![[Pasted image 20240611125301.png]]
