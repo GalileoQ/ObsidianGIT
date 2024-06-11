@@ -1,0 +1,1 @@
+Para conectar la máquina 4 con la máquina kali, primero tenemos que conseguir visibilidad desde el kali con chisel y luego enviarnos la reverse shell con socat, por tanto para ello ejecutamos el chisel en la máquina 3:
