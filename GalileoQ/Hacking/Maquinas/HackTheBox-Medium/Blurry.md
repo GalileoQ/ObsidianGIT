@@ -55,3 +55,7 @@ enumerando subdominios podemos encontrar efectivamente el subdominio donde se en
 ### Api
 podemos obtener las credenciales de una api lo cual es bueno.
 ![[Pasted image 20240611122420.png]]
+
+### clearml-ini
+al abrir `clearml-ini` vamos a ingre
+![[Pasted image 20240611124925.png]]
