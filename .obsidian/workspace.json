@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e08265121da0755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -172,8 +160,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5e08265121da0755",
+  "active": "b3308a7842eaa398",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "imagenes/Pasted image 20240611141132.png",
@@ -186,7 +175,6 @@
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "MAQUINA BRAINPAN (Buffer Overflow).md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
