@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4a69676cada48b2f",
+  "active": "b3308a7842eaa398",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "imagenes/Pasted image 20240611141132.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "imagenes/Pasted image 20240611125901.png",
     "imagenes/Pasted image 20240611125301.png",
     "imagenes/Pasted image 20240611125038.png",
@@ -182,7 +183,6 @@
     "imagenes/Pasted image 20240609155706.png",
     "imagenes/Pasted image 20240609155605.png",
     "imagenes/Pasted image 20240609155509.png",
-    "imagenes/Pasted image 20240609155425.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
