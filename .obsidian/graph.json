@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 556296
       }
+    },
+    {
+      "query": "path:imagenes  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.423875432525952,
   "linkDistance": 500,
-  "scale": 0.02152871844243027,
+  "scale": 0.021528718442430265,
   "close": false
 }
