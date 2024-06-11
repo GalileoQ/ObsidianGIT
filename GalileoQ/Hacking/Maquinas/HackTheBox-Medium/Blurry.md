@@ -101,7 +101,7 @@ ahora solo debemos ejecutar el exploit y estaremos a la escucha para obtener la 
 tenemos permisos sobre el binario `/usr/bin/evaluate_model /models/*.pth` así que podemos usarlo para explotar una escalada de privilegios
 ![[Pasted image 20240611141132.png]]
 
-`este script esta llamdo a otro script llamado /modules/evaluate_model.py`
+`este script esta llamdo a otro script llamado /modules/evaluate_model.py haciendo uso de la funcion /models/*.pth esto nos va a permitir modificar el archivo para poder escalar privilegios`
 ![[Pasted image 20240611154349.png]]
 
 
