@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83236976b5eeb375",
+        "id": "435ddfc6e2964340",
         "type": "tabs",
         "children": [
           {
-            "id": "9bda1bfd1b986f8d",
+            "id": "345c1ed6d73c43c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9bda1bfd1b986f8d",
+  "active": "345c1ed6d73c43c9",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
     "CPTS/nmap.md",
@@ -190,11 +184,9 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/md.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/md.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
     "Sin título.canvas"
   ]
 }
