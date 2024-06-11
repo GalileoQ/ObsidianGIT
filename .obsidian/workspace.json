@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fa1ce5aa530ed2ec",
+        "id": "4195aaf26c8e6f11",
         "type": "tabs",
         "children": [
           {
-            "id": "35c7965b28306a58",
+            "id": "420bc358aa2c5bdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,8 +139,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "420bc358aa2c5bdd",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/md.md",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Img/2023-10-11_17-53.png",
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Img",
     "imagenes/8d21f55a52542c98c66532a16a4fade0.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/md.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png",
@@ -157,8 +156,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 6.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 5.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 4.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 4 1.png",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 3.png",
     "Img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231122102046.png.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20230717190710.png.md",
@@ -185,12 +182,10 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "CPTS",
     "GalileoQ/Sin título",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium",
-    "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "Sin título.canvas"
   ]
 }
