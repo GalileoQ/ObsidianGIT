@@ -104,5 +104,7 @@ tenemos permisos sobre el binario `/usr/bin/evaluate_model /models/*.pth` así q
 `este script esta llamdo a otro script llamado /modules/evaluate_model.py haciendo uso de la funcion /models/*.pth esto nos va a permitir modificar el archivo para poder escalar privilegios`
 ![[Pasted image 20240611154349.png]]
 
-
+`eliminamos el archivo existente y creamos uno nuevo que contenga una bash y como el archivo se esta ejecutando como root pues obtenemos una root shell`
 ![[Pasted image 20240611152721.png]]
+
+### WR ARE ROOT
