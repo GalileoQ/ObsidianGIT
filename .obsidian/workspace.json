@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "df54f28ad893cd62",
+        "id": "77f461a4460a7baa",
         "type": "tabs",
         "children": [
           {
-            "id": "d218ad868556e0c3",
+            "id": "73e67f664cce692d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,20 +139,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d218ad868556e0c3",
+  "active": "73e67f664cce692d",
   "lastOpenFiles": [
-    "Img/wrsfgwsergrsedghdrfg.png",
-    "Img/Untitled.png",
-    "Img/Untitled 10.png",
-    "Img/Untitled 7.png",
-    "Img/Untitled 6.png",
-    "Img/Untitled 5.png",
-    "Img/Untitled 4.png",
-    "Img/Untitled 4 1.png",
-    "Img/Untitled 3.png",
-    "Img/Untitled 3 1.png",
-    "Img/Untitled 2.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/wrsfgwsergrsedghdrfg.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 10.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 7.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 6.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 5.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 4.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 4 1.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 3.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Untitled 3 1.png",
     "Img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231122102046.png.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20230717190710.png.md",
