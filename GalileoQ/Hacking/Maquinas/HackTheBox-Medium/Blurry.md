@@ -101,3 +101,5 @@ ahora solo debemos ejecutar el exploit y estaremos a la escucha para obtener la 
 tenemos permisos sobre el binario `/usr/bin/evaluate_model /models/*.pth` así que podemos usarlo para explotar una escalada de privilegios
 ![[Pasted image 20240611141132.png]]
 
+
+![[Pasted image 20240611152721.png]]
