@@ -6,7 +6,7 @@
   "propertiesInDocument": "visible",
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "attachmentFolderPath": "./img",
   "foldHeading": false
 }
