@@ -57,5 +57,6 @@ podemos obtener las credenciales de una api lo cual es bueno.
 ![[Pasted image 20240611122420.png]]
 
 ### clearml-ini
-al abrir `clearml-ini` vamos a ingre
-![[Pasted image 20240611124925.png]]
+al abrir `clearml-ini` vamos a ingresar las credenciales de la api que creamos esto nos creara un archivo ``
+![[Pasted image 20240611125038.png]]
+
