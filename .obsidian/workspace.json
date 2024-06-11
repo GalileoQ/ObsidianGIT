@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4195aaf26c8e6f11",
+        "id": "be360d753af629f6",
         "type": "tabs",
         "children": [
           {
-            "id": "420bc358aa2c5bdd",
+            "id": "28f0c44fd8ca7adf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,8 +139,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "420bc358aa2c5bdd",
+  "active": "28f0c44fd8ca7adf",
   "lastOpenFiles": [
+    "CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
@@ -183,7 +184,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "MAQUINA BRAINPAN (Buffer Overflow).md",
     "CPTS",
     "GalileoQ/Sin título",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
