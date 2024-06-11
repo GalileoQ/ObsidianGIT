@@ -91,5 +91,6 @@ task.upload_artifact(name="ddd_artifact",
 task.execute_remotely(queue_name='default')
 ```
 
-##
+### shell
+ahora solo debemos ejecutar el exploit y estaremos a la escucha para obtener la reverse shell. se subirá una nueva tarea al proyecto y l
 ![[Pasted image 20240611125901.png]]
