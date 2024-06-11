@@ -80,7 +80,7 @@ task = Task.init(project_name="Black Swan",
                  task_type=Task.TaskTypes.data_processing,
                  output_uri=True)
 
-task.upload_artifact(name="gamuke_artifact",
+task.upload_artifact(name="ddd_artifact",
                      artifact_object=command,
                      retries=2,
                      wait_on_upload=True)
@@ -88,5 +88,5 @@ task.upload_artifact(name="gamuke_artifact",
 task.execute_remotely(queue_name='default')
 ```
 
-usaremos este ejemplo para crear nuestro propio exploit para poder cargar un archivo a la maquina llamado `ddd-task` 
+usaremos este ejemplo para crear nuestro propio exploit para poder cargar un archivo a la maquina llamado `ddd-task` con la rever
 ![[Pasted image 20240611125301.png]]
