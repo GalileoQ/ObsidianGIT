@@ -11,8 +11,12 @@
             "id": "0cb5926956241deb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md"
               }
             }
           }
@@ -145,6 +149,8 @@
   },
   "active": "0cb5926956241deb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
     "imagenes/wrsfgwsergrsedghdrfg.png",
     "imagenes/Untitled.png",
     "imagenes/Untitled 7.png",
@@ -155,7 +161,6 @@
     "imagenes/Untitled 4 1.png",
     "imagenes/Untitled 2.png",
     "imagenes/Untitled 3 1.png",
-    "imagenes/Untitled 2 3.png",
     "imagenes/Pasted image 20231122102046.png.md",
     "imagenes/Pasted image 20230717190710.png.md",
     "imagenes/Pasted image 20230130113623.png.md",
@@ -181,7 +186,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
-    "CPTS/nmap.md",
     "CPTS",
     "GalileoQ/Sin título",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
