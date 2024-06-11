@@ -93,5 +93,6 @@ task.execute_remotely(queue_name='default')
 
 ### shell
 ahora solo debemos ejecutar el exploit y estaremos a la escucha para obtener la reverse shell. se subirá una nueva tarea al proyecto y luego de eso debemos esperar que se complete. 
-`Nota# si no obtenemos la shell podemos usar ```clearml-agent execute --id``` pasandole el id de nuestra tarea para que se ejecute. y luego solo debemos esperar un rato 
+`Nota# si no obtenemos la shell podemos usar ```clearml-agent execute --id``` pasandole el id de nuestra tarea para que se ejecute. y luego solo debemos esperar un rato para que este proceso se complete` 
 ![[Pasted image 20240611125901.png]]
+
