@@ -11,8 +11,12 @@
             "id": "0cb5926956241deb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md"
+              }
             }
           }
         ],
@@ -141,19 +149,22 @@
   },
   "active": "0cb5926956241deb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200912.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200830.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200807.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200758.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200746.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200738.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200714.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200709.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200648.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200638.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20221231200629.png",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img",
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/md.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Img/Pasted image 20240611180837.png",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
-    "imagenes/wrsfgwsergrsedghdrfg.png",
-    "imagenes/Untitled.png",
-    "imagenes/Untitled 7.png",
-    "imagenes/Untitled 5.png",
-    "imagenes/Untitled 6.png",
-    "imagenes/Untitled 4.png",
-    "imagenes/Untitled 3.png",
-    "imagenes/Untitled 4 1.png",
-    "imagenes/Untitled 2.png",
     "imagenes/Pasted image 20231122102046.png.md",
     "imagenes/Pasted image 20230717190710.png.md",
     "imagenes/Pasted image 20230130113623.png.md",
@@ -177,7 +188,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
-    "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "CPTS",
     "GalileoQ/Sin título",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
@@ -185,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/Nueva carpeta",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy",
-    "GalileoQ/Hacking/Maquinas/TryHackMe",
     "Sin título.canvas"
   ]
 }
