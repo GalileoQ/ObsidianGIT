@@ -87,4 +87,6 @@ task.upload_artifact(name="gamuke_artifact",
 
 task.execute_remotely(queue_name='default')
 ```
+
+usaremos este ejemplo para crear nuestro propio exploit para poder cargar un archivo a la maquina llamado `ddd-task` 
 ![[Pasted image 20240611125301.png]]
