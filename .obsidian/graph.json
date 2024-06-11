@@ -6,43 +6,7 @@
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:imagenes ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#ActiveDirectory  ",
-      "color": {
-        "a": 1,
-        "rgb": 336276
-      }
-    },
-    {
-      "query": "tag:#medium  ",
-      "color": {
-        "a": 1,
-        "rgb": 15073280
-      }
-    },
-    {
-      "query": "tag:#Easy  ",
-      "color": {
-        "a": 1,
-        "rgb": 556296
-      }
-    },
-    {
-      "query": "path:imagenes  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
