@@ -53,5 +53,5 @@ enumerando subdominios podemos encontrar efectivamente el subdominio donde se en
 ![[Pasted image 20240609155815.png]]
 
 ### Api
-podemos obtener las credenciales de
+podemos obtener las credenciales de una api lo cual es bueno.
 ![[Pasted image 20240611122420.png]]
