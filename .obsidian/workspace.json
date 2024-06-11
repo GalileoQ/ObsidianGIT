@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36a87780cd12d4cb",
+        "id": "26f12072459eb9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a69676cada48b2f",
+            "id": "b1d82e1e0bc86082",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,10 +139,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4a69676cada48b2f",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "imagenes/Pasted image 20240611154349.png",
     "imagenes/Pasted image 20240611154335.png",
     "imagenes/Pasted image 20240611152721.png",
