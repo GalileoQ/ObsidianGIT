@@ -11300,3 +11300,517 @@
 
 ![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231222112955.png]]
 
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231222113028.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231222113233.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231222113415.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231223122258.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224111803.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224111840.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224111920.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224112223.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113124.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113159.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113324.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113559.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113653.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113853.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224113921.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224114143.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224114301.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224114421.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224114452.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224114526.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224230723.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224231141.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224231317.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231224231410.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225111959.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112058.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112213.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112445.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112654.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112820.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225112926.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225113117.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225114847.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225114925.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231225114936.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229113216.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229113412.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229114418.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229114808.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229114903.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229114940.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229115246.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229115313.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229120309.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229120341.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229120624.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229120832.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229121337.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229121620.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229121649.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229121656.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122345.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122539.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122601.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122614.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122914.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229122953.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123042.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123123.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123148.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123614.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123809.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123821.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229123830.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20231229124010.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185009.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185139.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185249.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185251.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185317.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185332.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185442.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185536.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101185958.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190014.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190402.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190533.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190609.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190633.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190853.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101190947.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191303.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191332.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191517.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191647.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191835.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101191939.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101192033.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101192048.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101192114.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101192140.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240101192455.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104541.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104609.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104631.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104658.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104816.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104856.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104928.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102104950.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105124.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105304.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105316.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105358.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105423.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105518.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105542.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105703.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102105919.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102110051.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102125813.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102125845.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102125910.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102125929.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240102125948.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105095700.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105095842.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105100034.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105100328.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105100356.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105102500.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105102735.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105102855.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105102939.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103053.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103114.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103211.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103230.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103333.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103902.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105103942.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105104040.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105104859.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105104912.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105006.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105026.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105108.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105219.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105321.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105105416.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105111122.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105111152.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112339.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112413.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112700.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112817.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112928.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240105112939.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106114818.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106131915.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106132000.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106132420.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106132913.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106133114.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106133342.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106133706.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106134008.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106135230.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106135321.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106140658.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106141104.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106141327.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106222122.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106222624.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106224146.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106231746.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240106232230.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107003240.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107152631.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107152951.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107153117.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107153331.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107153733.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107153856.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107153930.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107193154.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107193324.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107193509.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107194759.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107201848.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107201948.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107202038.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240107202428.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240108215937.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240108221622.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240108221731.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240108225217.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240108225711.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240109092229.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240109093001.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110113102.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110113141.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110113246.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110113538.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110113603.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114021.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114052.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114100.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114125.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114405.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114436.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114504.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114516.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110114802.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110115006.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110153004.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110153023.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110153039.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110174447.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110175151.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110175916.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110181722.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110183844.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110184451.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110184616.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110185219.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110185504.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110185746.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110190048.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110190330.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110190620.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110192841.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110202942.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110203643.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110203913.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110204224.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240110204249.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114124.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114203.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114344.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114447.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114541.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114623.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112114919.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112115003.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112115028.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112115051.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112120514.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112120555.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112205004.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112205902.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112210033.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112210533.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112211850.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112212006.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112212241.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112220052.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112222715.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112223302.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112223801.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112224808.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112230108.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112230528.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112231008.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240112231326.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240113203037.png]]
+
+![[GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Img/Pasted image 20240113203227.png]]
+
