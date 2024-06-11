@@ -11,7 +11,7 @@
             "id": "0cb5926956241deb",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -143,7 +143,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "0cb5926956241deb",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
