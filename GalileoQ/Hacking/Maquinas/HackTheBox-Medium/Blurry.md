@@ -96,3 +96,6 @@ ahora solo debemos ejecutar el exploit y estaremos a la escucha para obtener la 
 `Nota# si no obtenemos la shell podemos usar ```clearml-agent execute --id``` pasandole el id de nuestra tarea para que se ejecute. y luego solo debemos esperar un rato para que este proceso se complete` 
 ![[Pasted image 20240611125901.png]]
 
+### Escalada De privilegios
+
+![[Pasted image 20240611141132.png]]
