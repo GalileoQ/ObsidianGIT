@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "752334af0b264bf9",
+        "id": "fa1ce5aa530ed2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "974dbc70fbad73dd",
+            "id": "35c7965b28306a58",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -145,8 +143,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "974dbc70fbad73dd",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "imagenes/8d21f55a52542c98c66532a16a4fade0.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/md.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img/8d21f55a52542c98c66532a16a4fade0.png",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Img",
