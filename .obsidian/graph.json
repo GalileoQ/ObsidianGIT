@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "file:",
+  "search": "file:Blurry",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.423875432525952,
   "linkDistance": 500,
-  "scale": 0.021528718442430265,
+  "scale": 0.45050811767578075,
   "close": false
 }
