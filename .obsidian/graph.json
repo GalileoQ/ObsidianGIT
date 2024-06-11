@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:Blurry",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.423875432525952,
   "linkDistance": 500,
-  "scale": 0.45050811767578075,
+  "scale": 0.021528718442430244,
   "close": false
 }
