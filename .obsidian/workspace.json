@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be360d753af629f6",
+        "id": "df02e2e757cf6196",
         "type": "tabs",
         "children": [
           {
-            "id": "28f0c44fd8ca7adf",
+            "id": "4cd40c79087a7758",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,8 +139,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "28f0c44fd8ca7adf",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ",
+    "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+    "GITHUB/path imagen.md",
     "CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
@@ -181,9 +184,6 @@
     "imagenes/Pasted image 20230124204752.png.md",
     "imagenes",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
-    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "CPTS",
     "GalileoQ/Sin título",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Hard",
