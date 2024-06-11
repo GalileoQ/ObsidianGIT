@@ -11,12 +11,8 @@
             "id": "c42a5ab99e6693c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPTS/md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPTS/md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPTS/md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPTS/md.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "50cbbe83ed3dc2e4",
+  "active": "c42a5ab99e6693c1",
   "lastOpenFiles": [
+    "CPTS/nmap.md",
+    "CPTS/md.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
@@ -159,10 +153,8 @@
     "CPTS/img/Pasted image 20231222111745.png",
     "CPTS/img/Pasted image 20231222111729.png",
     "CPTS/img/Pasted image 20231222111550.png",
-    "CPTS/img/Pasted image 20231222111447.png",
     "CPTS/img/Pasted image 20231122102046.png.md",
     "CPTS/img",
-    "CPTS/md.md",
     "img/Pasted image 20230717190710.png.md",
     "img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i/img",
@@ -184,7 +176,6 @@
     "GalileoQ/Hacking",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GITHUB/path imagen.md",
-    "CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
