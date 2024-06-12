@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Oopsie.md",
@@ -190,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/im",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/mdd.md",
-    "Pasted image 20230130113623.png 1.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box",
     "GalileoQ/Hacking/Maquinas",
