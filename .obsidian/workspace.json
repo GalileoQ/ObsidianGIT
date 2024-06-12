@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/7 - Escalada de Privilegios Binario SUID env.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/6 - PKEXEC - Escalada de Privilegios.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/3 - YML Deserialization.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
@@ -172,9 +175,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Simple CTF.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/ROOTME.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
