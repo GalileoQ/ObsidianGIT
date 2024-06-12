@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Fowsniff CTF.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Easy Peasy.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/ColddBox-Easy.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
