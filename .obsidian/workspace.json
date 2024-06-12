@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/14 - Escalada de Privilegios con VIM.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Umbrella(PENDIENTE).md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Overpass 3 - Hosting.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Kitty.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Dogcat.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
