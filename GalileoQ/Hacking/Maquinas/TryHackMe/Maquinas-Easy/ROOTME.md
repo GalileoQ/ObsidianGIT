@@ -33,4 +33,4 @@ Lo compartimos con la máquina víctima:
 Y lo ejecutamos para convertirnos en root:
 ![[Pasted image 20230401015812.png]]
 ![[Pasted image 20230401015823.png]]
-[[Escalada de Privilegios con Python]]
+### WE ARE ROOT
