@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Oopsie.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
@@ -190,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/mdd.md",
     "Pasted image 20230130113623.png 1.md",
     "Pasted image 20230124210255.png 1.md",
-    "Pasted image 20230124204752.png 1.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box",
     "GalileoQ/Hacking/Maquinas",
