@@ -1,4 +1,4 @@
-d#Linux #medium #tecnicas 
+#Linux #medium #tecnicas 
 ### Ping
 ```python
 ping -c 1 10.10.11.12
