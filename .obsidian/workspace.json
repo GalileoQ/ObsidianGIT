@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
@@ -185,7 +186,6 @@
     "CPTS/img/Pasted image 20231222111550.png",
     "CPTS/img/Pasted image 20231122102046.png.md",
     "CPTS/img",
-    "img/Pasted image 20230717190710.png.md",
     "img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i/img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/img",
