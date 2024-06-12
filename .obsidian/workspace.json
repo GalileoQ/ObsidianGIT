@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/12 - Buscar archivos de los que somos Propietarios y Tengamos Permisos.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/11 - Escalada de Privilegios con Páginas Man.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/9 - Escalar Privilegios Revisando las Variable de Entorno.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/7 - Escalada de Privilegios Binario SUID env.md",
@@ -172,9 +175,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Anonymous.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/0Day.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Year of the Rabbit.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Wgel-CTF.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
