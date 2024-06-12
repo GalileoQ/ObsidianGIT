@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43e7ee986c512dac",
+        "id": "45648c957c7f7904",
         "type": "tabs",
         "children": [
           {
-            "id": "74afe7155806af30",
+            "id": "1ffc1779b695f383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "74afe7155806af30",
+  "active": "1ffc1779b695f383",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
@@ -174,7 +167,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
