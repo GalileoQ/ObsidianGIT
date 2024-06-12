@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md"
+                "file": "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/TomGhost.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Source.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/SmagGrotto.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Simple CTF.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BrooklynNiveNive.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Bounty Hacker.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/BAsic Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Archangel.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
