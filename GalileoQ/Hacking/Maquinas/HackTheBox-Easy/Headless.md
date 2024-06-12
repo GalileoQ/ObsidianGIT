@@ -1,4 +1,4 @@
-#Linux #Easy 
+#Linux #Easy #fuzzing 
 ### Ping
 ```python
 ping -c 1 10.10.11.8

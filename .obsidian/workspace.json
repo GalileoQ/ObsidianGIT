@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4cd27556e90bc34",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Devvortex-Incompleta.md",
@@ -194,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas",
     "GalileoQ/Hacking",
     "CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GITHUB/path imagen.md",
     "Sin título.canvas"
   ]
 }
