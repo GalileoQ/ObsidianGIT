@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
@@ -194,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
-    "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "Sin título.canvas"
   ]
 }
