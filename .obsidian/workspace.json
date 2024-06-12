@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Instalar BSPWM.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada/Linux.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/Relevant.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/VulnNet-Active.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Mustacchio.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Mr. Robot.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Lian-Yu.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/LAZY ADMIN.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/Ignite.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
