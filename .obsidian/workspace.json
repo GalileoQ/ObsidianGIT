@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md"
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/5 - Obtener Información del Sistema - systeminfo.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/4 - Enumeración de Grupos y Usuarios.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
-    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
