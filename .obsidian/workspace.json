@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45648c957c7f7904",
+        "id": "b688ec5526ca7d59",
         "type": "tabs",
         "children": [
           {
-            "id": "1ffc1779b695f383",
+            "id": "1899416a0423ec09",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md"
+              }
             }
           }
         ],
@@ -139,8 +143,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1ffc1779b695f383",
+  "active": "50cbbe83ed3dc2e4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+    "GalileoQ/Hacking/Entorno/Instalar bat.md",
+    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Hacking/1-Tecnicas/Nota.md",
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/WifineticTwo.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
@@ -157,16 +171,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Timelapse.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sauna.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Sau.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Return.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Perfection.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Oopsie.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Keeper.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Headless.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
