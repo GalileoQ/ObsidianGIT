@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "7d38ba899c00f70c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/9 - Escalar Privilegios Revisando las Variable de Entorno.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/7 - Escalada de Privilegios Binario SUID env.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
