@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
+    "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/9 - Escalar Privilegios Revisando las Variable de Entorno.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/7 - Escalada de Privilegios Binario SUID env.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/6 - PKEXEC - Escalada de Privilegios.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
