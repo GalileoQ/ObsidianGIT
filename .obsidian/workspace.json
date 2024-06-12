@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
     "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
     "CPTS/nmap.md",
