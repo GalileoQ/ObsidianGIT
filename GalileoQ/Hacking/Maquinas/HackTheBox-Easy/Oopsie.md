@@ -1,5 +1,5 @@
 ### nmap
-#Linux
+#Linux #fuzzing #StartingPoint
 ```python
 sudo nmap -sCV 10.129.137.184
 [sudo] password for parrot: 
