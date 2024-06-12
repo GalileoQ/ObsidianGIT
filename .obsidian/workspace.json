@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/StreamIO.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "74afe7155806af30",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Devvortex-Incompleta.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
