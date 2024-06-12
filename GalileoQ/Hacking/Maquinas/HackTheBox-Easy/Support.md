@@ -1,4 +1,4 @@
-#windows #Easy #ActiveDirectory #
+#windows #Easy #ActiveDirectory 
 ### Ping
 ```python
 ping -c 1 10.10.11.174
