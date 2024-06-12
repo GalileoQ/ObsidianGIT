@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Pov.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "85f0ca81dc9d0798",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
