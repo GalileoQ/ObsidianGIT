@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Crafty.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Bizness.md",
@@ -176,7 +177,6 @@
     "img/Pasted image 20230717190710.png.md",
     "img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i/img",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/img",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/im",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i",
