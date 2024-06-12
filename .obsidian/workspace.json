@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md"
+                "file": "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Analytics.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f4cd27556e90bc34",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Blurry.md",
@@ -194,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/HackTheBox-Medium/Escape.md",
     "GalileoQ/Hacking/Windows/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Mediun/md.md",
-    "GalileoQ/Hacking/Maquinas/TryHackMe/Maquinas-Easy/md.md",
     "Sin título.canvas"
   ]
 }
