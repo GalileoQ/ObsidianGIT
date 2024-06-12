@@ -13,8 +13,6 @@
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-![[webatlanta.png | 900]]
-
 Directamente en la web vemos esto: ``http://10.10.228.16/index.php?page=home.html``
 ## Local File Inclusion
 
