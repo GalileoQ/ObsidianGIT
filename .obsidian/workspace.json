@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Nikto.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
     "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
     "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
-    "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
