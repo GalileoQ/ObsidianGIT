@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 3 - Exploiting NoSQL injection to extract data.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
@@ -172,9 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Magento.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
