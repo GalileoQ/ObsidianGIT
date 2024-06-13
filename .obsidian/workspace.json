@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo Explotación de SAMBA.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo evil-winrm.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo Dumpeo de Hashes Metasploit.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 3 - Exploiting NoSQL injection to extract data.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 2 - Exploiting NoSQL operator injection to bypass authentication.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
