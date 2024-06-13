@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Sublist3r.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Dirsearch.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Hacking Generico/Wrapper - Ejecución Remota de Comandos en LFI.md",
-    "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
