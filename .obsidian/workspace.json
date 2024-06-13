@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
     "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
     "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
     "GalileoQ/Hacking/Hacking Generico/Port Forwarding SSH.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/Evasión/1 - Evasión Básica.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
