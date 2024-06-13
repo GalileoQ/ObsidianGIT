@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2672667166801a",
+        "id": "9a326265a58eefd6",
         "type": "tabs",
         "children": [
           {
-            "id": "131ad53bef37c97a",
+            "id": "a61d3474fa6e2bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "131ad53bef37c97a",
+  "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
