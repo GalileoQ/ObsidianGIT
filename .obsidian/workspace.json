@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Detectar Equipos Conectados en mi red Privada con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/6 - Hydra - Ataque de Fuerza Bruta TomCat.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Dirsearch.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
