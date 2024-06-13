@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hydra/1 - Hydra - Ataque de Fuerza Bruta FTP.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 4 - Blind OS command injection with out-of-band interaction.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/SQL Injection/1 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/SSTI (Server-Site Template Injection).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/SSLSCAN - Analizar Certificado SSL en webs HTTPS.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
