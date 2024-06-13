@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/FCRACKZIP - Cracking de Ficheros ZIP.md",
+    "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
     "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
     "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/14 - Escalada de Privilegios con VIM.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
