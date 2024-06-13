@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md"
               }
             }
           }
