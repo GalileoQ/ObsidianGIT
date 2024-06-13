@@ -26,7 +26,7 @@ Accedemos a este /test.php:
 Y nos encontramos con un local file inclusion donde el parámetro view parece ser vulnerable:
 ![[Pasted image 20230624111028.png]]
 Si intentamos hacer un local file inclusion vemos que no tenemos permisos, por lo que hay algo que nos lo impide:
-![[Pasted image 20230624112354.png]]
+
 Por tanto tenemos que recurrir a los wrapper [[Wrapper - Ejecución Remota de Comandos en LFI]] en este repositorio de payloads all the things:
 ```bash
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/README.md
