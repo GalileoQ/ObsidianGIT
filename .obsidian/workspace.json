@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "131ad53bef37c97a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Hacking Generico/Crear Diccionarios con Crunch y Cupp.md",
     "GalileoQ/Hacking/Hacking Generico/Cambiar Dirección MAC con Macchanger.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/14 - Escalada de Privilegios con VIM.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/12 - Buscar archivos de los que somos Propietarios y Tengamos Permisos.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
