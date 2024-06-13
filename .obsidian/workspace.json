@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Fuzzing con BurpSuite.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Vulnerabilidad Heartbleed.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/SSTI (Server-Site Template Injection).md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Port Forwarding SSH.md",
     "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
-    "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
-    "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
