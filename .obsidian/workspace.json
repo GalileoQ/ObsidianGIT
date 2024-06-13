@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
