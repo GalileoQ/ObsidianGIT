@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Fuzzing con BurpSuite.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
@@ -174,7 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
     "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
     "GalileoQ/Hacking/Hacking Generico/Port Forwarding SSH.md",
-    "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
