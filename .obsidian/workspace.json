@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "a61d3474fa6e2bbc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Nikto.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Local File Inclussion (LFI).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Magento.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
@@ -173,8 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Hacking Generico/Crear Diccionarios con Crunch y Cupp.md",
-    "GalileoQ/Hacking/Hacking Generico/Cambiar Dirección MAC con Macchanger.md",
-    "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
     "CPTS/img/Pasted image 20231222113028.png",
     "CPTS/img/Pasted image 20231222112955.png",
     "CPTS/img/Pasted image 20231222112932.png",
