@@ -69,5 +69,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-analizamos e
+analizamos el sitio web que no parece tener nada mas que un simple imagen
 ![[Pasted image 20240617153736.png]]
+
+`Codigo Fuente`
+
+![[Pasted image 20240617153840.png]]
