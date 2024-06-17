@@ -116,5 +116,7 @@ el `wappalyzer` nos indica que estamos ante un `wordPress 5.2.2` también logram
 ![[Pasted image 20240617163139.png]]
 
 ### etc/hosts
-mirando el codigo fuente nos damos cuenta que la web esta tirando del domin
+mirando el código fuente nos damos cuenta que la web esta tirando del dominio `synfonos.local` así que debemos agregar esto a nuestro hosts
 ![[Pasted image 20240617163418.png]]
+
+`etc/hosts`
