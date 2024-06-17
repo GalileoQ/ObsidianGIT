@@ -96,3 +96,9 @@ usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos e
 establecemos una conexión con `smbmap` a los recursos compartidos con las credenciales que hemos conseguido y ahora tenemos lectura sobre un recurso llamado helios/
 ![[Pasted image 20240617161332.png]]
 
+`helios`
+dentro del directorios de helios encontramos dos archivos que podemos descargar usando el siguiente comando 
+```
+```python
+
+![[Pasted image 20240617162359.png]]
