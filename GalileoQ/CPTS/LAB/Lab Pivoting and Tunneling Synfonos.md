@@ -153,5 +153,9 @@ obtenemos dos plugins que parecen ser vulnerables
 ![[Pasted image 20240617165639.png]]
 
 ### searchsploit
-encontramos tres exploits para este plugin asi que vamos a ejecutarlos para tratar de obtener acceso 
+encontramos tres exploits para este plugin así que vamos a ejecutarlos para tratar de obtener acceso 
 ![[Pasted image 20240617170025.png]]
+
+`searchsploit -x php/webapps/40290.txt`
+
+![[Pasted image 20240617170237.png]]
