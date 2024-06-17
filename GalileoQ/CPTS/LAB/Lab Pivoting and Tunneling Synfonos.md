@@ -80,3 +80,6 @@ en el código fuente no encontramos nada interesante
 al realizar una enumeración de los recursos compartidos encontramos que tenemos permios de lectura sobre el recurso compartido `anonymous`
 ![[Pasted image 20240617154042.png]]
 
+### smbclient
+utilizaremos la herramienta `smbclient` para 
+![[Pasted image 20240617155753.png]]
