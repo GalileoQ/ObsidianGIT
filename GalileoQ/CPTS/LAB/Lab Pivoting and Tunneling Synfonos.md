@@ -92,3 +92,6 @@ este archivo contiene una nota de la cual podemos extraer 3 passwords y también
 usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos el usuarios `helios` 
 ![[Pasted image 20240617160709.png]]
 
+### smbmap
+establecemos una conexión con `smbmap` a los recursos compartidos con las credenciales que hemos 
+![[Pasted image 20240617161332.png]]
