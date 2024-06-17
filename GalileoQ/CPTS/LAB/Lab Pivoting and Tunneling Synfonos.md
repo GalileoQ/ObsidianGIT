@@ -12,6 +12,7 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 
 ![[Pasted image 20240617144232.png]]
 
+### MAQUINA SYNFONOS 
 ### nmap
 
 ```python
