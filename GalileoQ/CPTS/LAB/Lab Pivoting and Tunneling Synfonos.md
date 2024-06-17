@@ -128,5 +128,11 @@ recargamos la pagina y podemos ver efectivamente como se esta cargando correctam
 ![[Pasted image 20240617163729.png]]
 
 ### hacktricks
-en la pagina de [hacktricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/wordpress) podemos obtener información de como enumerar plugins  
+en la pagina de [hacktricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/wordpress) podemos obtener información de como enumerar plugins con el siguiente comando
+
+```python
+curl -s -X GET https://wordpress.org/support/article/pages/ | grep -E 'wp-content/themes' | sed -E 's,href=|src=,THIIIIS,g' | awk -F "THIIIIS" '{print $2}' | cut -d "'" -f2
+
+```
+
 ![[Pasted image 20240617163950.png]]
