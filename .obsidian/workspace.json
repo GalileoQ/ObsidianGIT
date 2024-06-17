@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "286715ec0c9a611e",
+  "active": "657120dbb62b6b35",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617144232.png",
