@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md"
+                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "5b1cec208fe9cf05",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
+    "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
     "GalileoQ/CPTS/nmap.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616145631.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240615181751.png",
@@ -197,7 +199,6 @@
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
