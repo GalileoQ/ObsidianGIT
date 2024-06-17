@@ -84,5 +84,6 @@ al realizar una enumeración de los recursos compartidos encontramos que tenemos
 utilizaremos la herramienta `smbclient` para iniciar una conexión con una `NULL-SESSION` en el recurso compartido y descargamos el archivo con `get`
 ![[Pasted image 20240617155753.png]]
 
-`arrention.txt`
+`attention.txt`
+este archivo contiene una nota de la cual podemos extraer 3 passwords y tambien un usuario asi que vamos a guardar esta info
 ![[Pasted image 20240617160155.png]]
