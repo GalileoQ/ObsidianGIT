@@ -1,1 +1,0 @@
-en este laboratorios vamos a realizar pruebas de pivoting entre 3 
