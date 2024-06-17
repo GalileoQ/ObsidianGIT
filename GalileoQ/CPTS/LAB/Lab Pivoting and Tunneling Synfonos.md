@@ -144,5 +144,10 @@ con este comando logramos enumerar los plugins
 > curl -H 'Cache-Control: no-cache, no-store' -L -ik -s https://wordpress.org/support/article/pages/ | grep -E 'wp-content/plugins/' | sed -E 's,href=|src=,THIIIIS,g' | awk -F "THIIIIS" '{print $2}' | cut -d "'" -f2
 ```
 
-y con este comando vamos a limpiar el ouput pa
+y con este comando vamos a limpiar el ouput para verlo de una mejor manera
+```python
+> ❯ curl -s -X GET http://symfonos.local/h3l105/ | grep -E 'wp-content/themes' | sed -E 's,href=|src=,THIIIIS,g' | awk -F "THIIIIS" '{print $2}' | cut -d "'" -f2 | cut -d "/" -f 7 | sort -u
+```
+
 ![[Pasted image 20240617164955.png]]
+
