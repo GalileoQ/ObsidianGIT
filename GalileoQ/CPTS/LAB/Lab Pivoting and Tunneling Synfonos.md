@@ -170,3 +170,5 @@ debido a que podemos ver `log/` en el directorio `/var/mail/helios` podemos inte
 ![[Pasted image 20240617171417.png]]
 ![[Pasted image 20240617171433.png]]
 
+### telnet 
+
