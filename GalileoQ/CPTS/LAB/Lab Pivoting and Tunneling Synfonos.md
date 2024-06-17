@@ -6,6 +6,8 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 	ifconfig
 
 	sudo apr-scan -I eth0 --localnet
+
+	netdiscover -i eth0 -r ip
 ```
 
 ![[Pasted image 20240617144232.png]]
