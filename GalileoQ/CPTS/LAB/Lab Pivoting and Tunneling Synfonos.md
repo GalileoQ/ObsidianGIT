@@ -149,5 +149,6 @@ y con este comando vamos a limpiar el ouput para verlo de una mejor manera
 ❯ curl -H 'Cache-Control: no-cache, no-store' -L -ik -s http://symfonos.local/h3l105/ | grep -E 'wp-content/plugins/' | sed -E 's,href=|src=,THIIIIS,g' | awk -F "THIIIIS" '{print $2}' | cut -d "'" -f2 | cut -d "/" -f 7 | sort -u
 ```
 
+obtenemos dos plugins que parecen ser vulnerables asi
 ![[Pasted image 20240617165639.png]]
 
