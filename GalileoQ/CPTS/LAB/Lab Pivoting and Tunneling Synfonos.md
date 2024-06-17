@@ -76,3 +76,6 @@ analizamos el sitio web que no parece tener nada mas que un simple imagen
 en el código fuente no encontramos nada interesante 
 ![[Pasted image 20240617153840.png]]
 
+### Enumeración del puerto 445 (smb)
+
+![[Pasted image 20240617154042.png]]
