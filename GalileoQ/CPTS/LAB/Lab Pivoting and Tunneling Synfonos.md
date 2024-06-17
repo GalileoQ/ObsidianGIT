@@ -164,3 +164,4 @@ al parecer este plugin es vulnerable a un `LFI (Local File Inclusion)` lo que no
 realizamos una petición a la ruta que nos indica la vulnerabilidad pasando el parámetro `/etc/passwd` logramos leer el archivo por lo que se ha ejecutado con exito el `LFI`
 
 ![[Pasted image 20240617170644.png]]
+
