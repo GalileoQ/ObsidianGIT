@@ -112,5 +112,6 @@ al leer los archivos el `research.txt` parece no ser nada importante. `todo.txt`
 ![[Pasted image 20240617162726.png]]
 
 ### Enumeración web
-el logramos ver el dominio a donde nos estamos dirigiendo sin embargo no esta cargando correctamente
+el `wappalyzer` nos indica que estamos ante un `wordPress 5.2.2` también logramos ver el dominio a donde nos estamos dirigiendo sin embargo no esta cargando correctamente
 ![[Pasted image 20240617163139.png]]
+
