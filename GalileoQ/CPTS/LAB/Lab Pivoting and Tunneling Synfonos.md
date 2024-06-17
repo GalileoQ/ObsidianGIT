@@ -120,3 +120,5 @@ mirando el código fuente nos damos cuenta que la web esta tirando del dominio `
 ![[Pasted image 20240617163418.png]]
 
 `etc/hosts`
+agregamos la 
+![[Pasted image 20240617163631.png]]
