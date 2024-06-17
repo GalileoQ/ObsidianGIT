@@ -81,5 +81,5 @@ al realizar una enumeración de los recursos compartidos encontramos que tenemos
 ![[Pasted image 20240617154042.png]]
 
 ### smbclient
-utilizaremos la herramienta `smbclient` para 
+utilizaremos la herramienta `smbclient` para iniciar una conexión con una `NULL-SESSION` en el directorio 
 ![[Pasted image 20240617155753.png]]
