@@ -160,3 +160,4 @@ encontramos tres exploits para este plugin así que vamos a ejecutarlos para tra
 al parecer este plugin es vulnerable a un `LFI (Local File Inclusion)` lo que nos va a permitir leer archivos dentro de la maquina
 ![[Pasted image 20240617170237.png]]
 
+### LFI (Local File )
