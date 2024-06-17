@@ -85,5 +85,6 @@ utilizaremos la herramienta `smbclient` para iniciar una conexión con una `NULL
 ![[Pasted image 20240617155753.png]]
 
 `attention.txt`
-este archivo contiene una nota de la cual podemos extraer 3 passwords y tambien un usuario asi que vamos a guardar esta info
+este archivo contiene una nota de la cual podemos extraer 3 passwords y también un usuario así que vamos a guardar esta información en nuestra maquina 
 ![[Pasted image 20240617160155.png]]
+
