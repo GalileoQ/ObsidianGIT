@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "981bbe0316f5dbdf",
+            "id": "286715ec0c9a611e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
+                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
+                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md"
+                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md"
               }
             }
           }
@@ -158,12 +159,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "657120dbb62b6b35",
+  "active": "286715ec0c9a611e",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
+    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617144232.png",
     "GalileoQ/CPTS/LAB/Img",
-    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
@@ -197,7 +198,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616151233.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616150554.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616150216.png",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
