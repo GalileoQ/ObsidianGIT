@@ -88,6 +88,6 @@ utilizaremos la herramienta `smbclient` para iniciar una conexión con una `NULL
 este archivo contiene una nota de la cual podemos extraer 3 passwords y también un usuario así que vamos a guardar esta información en nuestra maquina 
 ![[Pasted image 20240617160155.png]]
 
-### crackmapexec 
-
+### crackmapexec
+usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos 
 ![[Pasted image 20240617160709.png]]
