@@ -84,3 +84,5 @@ al realizar una enumeración de los recursos compartidos encontramos que tenemos
 utilizaremos la herramienta `smbclient` para iniciar una conexión con una `NULL-SESSION` en el recurso compartido y descargamos el archivo con `get`
 ![[Pasted image 20240617155753.png]]
 
+`arrention.txt`
+![[Pasted image 20240617160155.png]]
