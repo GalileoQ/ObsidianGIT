@@ -108,5 +108,6 @@ dentro del directorios de helios encontramos dos archivos que podemos descargar 
 ![[Pasted image 20240617162359.png]]
 
 `cat`
-al leer los archivos el `research.txt` parece no ser nada importante. `todo.txt` parece ser una serie
+al leer los archivos el `research.txt` parece no ser nada importante. `todo.txt` parece ser una serie de tareas para trabajar sobre el dominio de `/h3l105` asi que vamos a ver a donde nos lleva este dominio
 ![[Pasted image 20240617162726.png]]
+
