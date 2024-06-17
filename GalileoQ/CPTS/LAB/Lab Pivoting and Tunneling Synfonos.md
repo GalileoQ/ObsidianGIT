@@ -166,6 +166,7 @@ realizamos una petición a la ruta que nos indica la vulnerabilidad pasando el p
 ![[Pasted image 20240617170644.png]]
 
 ### Log mail poisoning 
-debido a que podemos ver `log/` en el directorio `/var/mail/h3l105` podemos intentar acceder 
+debido a que podemos ver `log/` en el directorio `/var/mail/helios` podemos intentar acceder a los mail para intentar envenenar alguno y de esta manera conseguir un `RCE (Remote Code Execusion)`
 ![[Pasted image 20240617171417.png]]
 ![[Pasted image 20240617171433.png]]
+
