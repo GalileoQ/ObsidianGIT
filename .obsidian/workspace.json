@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0be008b2068871b9",
+        "id": "0f05cb4f718f8de8",
         "type": "tabs",
         "children": [
           {
-            "id": "8475cf786be353aa",
+            "id": "657120dbb62b6b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b1cec208fe9cf05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting Synfonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting Synfonos.md"
               }
             }
           }
@@ -159,8 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5b1cec208fe9cf05",
+  "active": "657120dbb62b6b35",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting Synfonos.md",
+    "GalileoQ/CPTS/LAB",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
+    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
     "GalileoQ/CPTS/nmap.md",
@@ -168,7 +162,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240615181751.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240615182059.png",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616170350.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616165916.png",
@@ -192,13 +185,8 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616150216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
-    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
-    "GalileoQ/Hacking/Windows/Windows Tools.md",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
@@ -206,7 +194,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion",
     "GalileoQ/Hacking/Windows/Active-Directory",
     "GalileoQ/Hacking/Windows",
-    "GalileoQ/Hacking/Shell",
     "Sin título.canvas"
   ]
 }
