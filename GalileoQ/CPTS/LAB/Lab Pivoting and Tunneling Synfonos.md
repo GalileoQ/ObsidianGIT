@@ -127,3 +127,6 @@ agregamos la ruta en nuestro archivo
 recargamos la pagina y podemos ver efectivamente como se esta cargando correctamente
 ![[Pasted image 20240617163729.png]]
 
+### hacktricks
+en la pagina de []()
+![[Pasted image 20240617163950.png]]
