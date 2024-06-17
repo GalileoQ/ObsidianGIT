@@ -4,7 +4,7 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 
 ```python
 	ifconfig
-	fping -a -g ip/24 2>
+	fping -a -g ip/24 2>dev/null
 ```
 
 ![[Pasted image 20240617144232.png]]
