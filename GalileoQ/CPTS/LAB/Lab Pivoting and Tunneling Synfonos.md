@@ -77,5 +77,5 @@ en el código fuente no encontramos nada interesante
 ![[Pasted image 20240617153840.png]]
 
 ### Enumeración del puerto 445 (smb)
-al realizar una enumeración de los recursos compartidos encontramos que temos per
+al realizar una enumeración de los recursos compartidos encontramos que tenemos permios de lectura sobre el recurso compartido
 ![[Pasted image 20240617154042.png]]
