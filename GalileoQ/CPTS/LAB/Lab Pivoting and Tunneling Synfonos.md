@@ -4,7 +4,8 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 
 ```python
 	ifconfig
-	fping -a -g ip/24 2>dev/null
+
+	sudo apr-scan -I eth0 --localnet
 ```
 
 ![[Pasted image 20240617144232.png]]
