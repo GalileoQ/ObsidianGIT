@@ -141,7 +141,8 @@ en la pagina de [hacktricks](https://book.hacktricks.xyz/network-services-pentes
 con este comando logramos enumerar los plugins
 
 ```python
-
+> curl -H 'Cache-Control: no-cache, no-store' -L -ik -s https://wordpress.org/support/article/pages/ | grep -E 'wp-content/plugins/' | sed -E 's,href=|src=,THIIIIS,g' | awk -F "THIIIIS" '{print $2}' | cut -d "'" -f2
 ```
 
+y con este comando vamos a 
 ![[Pasted image 20240617164955.png]]
