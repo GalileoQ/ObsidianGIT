@@ -73,5 +73,6 @@ analizamos el sitio web que no parece tener nada mas que un simple imagen
 ![[Pasted image 20240617153736.png]]
 
 `Codigo Fuente`
-
+en el código fuente no encontramos nada interesante 
 ![[Pasted image 20240617153840.png]]
+
