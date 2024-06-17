@@ -137,3 +137,4 @@ en la pagina de [hacktricks](https://book.hacktricks.xyz/network-services-pentes
 
 ![[Pasted image 20240617163950.png]]
 
+### Enumeración de plugins 
