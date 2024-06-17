@@ -120,5 +120,9 @@ mirando el código fuente nos damos cuenta que la web esta tirando del dominio `
 ![[Pasted image 20240617163418.png]]
 
 `etc/hosts`
-agregamos la 
+agregamos la ruta en nuestro archivo
 ![[Pasted image 20240617163631.png]]
+
+### web
+recargamos la pagina y 
+![[Pasted image 20240617163729.png]]
