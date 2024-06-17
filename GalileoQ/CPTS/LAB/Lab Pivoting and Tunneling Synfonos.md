@@ -93,5 +93,6 @@ usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos e
 ![[Pasted image 20240617160709.png]]
 
 ### smbmap
-establecemos una conexión con `smbmap` a los recursos compartidos con las credenciales que hemos 
+establecemos una conexión con `smbmap` a los recursos compartidos con las credenciales que hemos conseguido y ahora tenemos lectura
 ![[Pasted image 20240617161332.png]]
+
