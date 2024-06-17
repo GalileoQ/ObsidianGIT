@@ -124,5 +124,6 @@ agregamos la ruta en nuestro archivo
 ![[Pasted image 20240617163631.png]]
 
 ### web
-recargamos la pagina y 
+recargamos la pagina y podemos ver efectivamente como se esta cargando correctamente
 ![[Pasted image 20240617163729.png]]
+
