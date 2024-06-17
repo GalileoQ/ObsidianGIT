@@ -166,6 +166,6 @@ realizamos una petición a la ruta que nos indica la vulnerabilidad pasando el p
 ![[Pasted image 20240617170644.png]]
 
 ### Log mail poisoning 
-debido a que podemos ver `log `
+debido a que podemos ver `log/mail`
 ![[Pasted image 20240617171417.png]]
 ![[Pasted image 20240617171433.png]]
