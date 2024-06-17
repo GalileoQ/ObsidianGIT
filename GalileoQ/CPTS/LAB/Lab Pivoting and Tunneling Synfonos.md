@@ -89,5 +89,6 @@ este archivo contiene una nota de la cual podemos extraer 3 passwords y también
 ![[Pasted image 20240617160155.png]]
 
 ### crackmapexec
-usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos 
+usamos `crackmapexec` para enumerar usuarios validos en el sistema y obtuvimos el usuarios `helios` 
 ![[Pasted image 20240617160709.png]]
+
