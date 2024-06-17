@@ -1,3 +1,4 @@
+#ActiveDirectory #windows 
 ### impacket-GetNPUsers:
 Descripción: Extrae tickets TGT (Ticket Granting Ticket) sin necesidad de autenticación de contraseña, utilizando el protocolo Kerberos.
 ```python

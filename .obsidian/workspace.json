@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "8ff6ca813f1c5553",
+    "id": "6ac6e99c7e5982b3",
     "type": "split",
     "children": [
       {
-        "id": "9a326265a58eefd6",
+        "id": "0be008b2068871b9",
         "type": "tabs",
         "children": [
           {
-            "id": "a61d3474fa6e2bbc",
+            "id": "8475cf786be353aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b1cec208fe9cf05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d294f47b5805b9be",
+    "id": "8c17d803e17ad6fc",
     "type": "split",
     "children": [
       {
-        "id": "006fb8467d7d5a18",
+        "id": "a6d4f4c0e734bb73",
         "type": "tabs",
         "children": [
           {
-            "id": "50cbbe83ed3dc2e4",
+            "id": "c4f20df599aa0871",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +56,13 @@
             }
           },
           {
-            "id": "e2e1d4d1f401f2c7",
+            "id": "750ef1e04e26a3bf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "ec211addc42d5b39",
+            "id": "efeff55b7ded0cb5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 211.5
   },
   "right": {
-    "id": "7d38ba899c00f70c",
+    "id": "fc92316312d56026",
     "type": "split",
     "children": [
       {
-        "id": "91ba2647446fbe9d",
+        "id": "9c67a9577fdf9398",
         "type": "tabs",
         "children": [
           {
-            "id": "cefe2e4d9ebc8027",
+            "id": "06caecd7a2f23ccb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "b6dd21edc50e30b5",
+            "id": "5e3fa319cc9b278c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c24861f2b0b9c2a",
+            "id": "23af3d51064364b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +133,16 @@
             }
           },
           {
-            "id": "d2001b1df3cb46aa",
+            "id": "db11cbea16453535",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,62 +151,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a61d3474fa6e2bbc",
+  "active": "5b1cec208fe9cf05",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Msfvenom.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo Explotación de SAMBA.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo evil-winrm.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo Dumpeo de Hashes Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Módulo de Metasploit para Hacer Fuzzing Web.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Keylogger con Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Iniciar Sesión con Credenciales SMB con psexec en Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Fuerza Bruta SSH y FTP Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Explotar winrm en Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Escanear Puertos con Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Detectar Equipos Conectados en mi red Privada con Metasploit.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/6 - Hydra - Ataque de Fuerza Bruta TomCat.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/4 - Hydra - Ataque Fuerza Bruta Protocolo RDP - Puerto 3389.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/1 - Hydra - Ataque de Fuerza Bruta FTP.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 4 - Blind OS command injection with out-of-band interaction.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/SQL Injection/1 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/NoSQL Injection/Laboratorio 3 - Exploiting NoSQL injection to extract data.md",
-    "CPTS/img/Pasted image 20231222113028.png",
-    "CPTS/img/Pasted image 20231222112955.png",
-    "CPTS/img/Pasted image 20231222112932.png",
-    "CPTS/img/Pasted image 20231222112818.png",
-    "CPTS/img/Pasted image 20231222112759.png",
-    "CPTS/img/Pasted image 20231222112441.png",
-    "CPTS/img/Pasted image 20231222111821.png",
-    "CPTS/img/Pasted image 20231222111745.png",
-    "CPTS/img/Pasted image 20231222111729.png",
-    "CPTS/img/Pasted image 20231222111550.png",
-    "CPTS/img",
-    "img",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i/img",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/img",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/im",
-    "GalileoQ/Hacking/Maquinas/HackTheBox-Easy/i",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box",
-    "GalileoQ/Hacking/Maquinas",
-    "GalileoQ/Hacking",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616170350.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616165916.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616165138.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616162402.png",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
+    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616151233.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616150554.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616150216.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616145959.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616145842.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240616145730.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
+    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/CPTS/Img",
+    "GalileoQ/CPTS/nmap.md",
+    "GalileoQ/CPTS",
+    "GalileoQ/Hacking/Windows/Windows Tools.md",
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/Img",
+    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img",
+    "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Img",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion",
+    "GalileoQ/Hacking/Windows/Active-Directory",
+    "GalileoQ/Hacking/Windows",
+    "GalileoQ/Hacking/Shell",
     "Sin título.canvas"
   ]
 }

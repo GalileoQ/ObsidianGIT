@@ -1,12 +1,15 @@
 {
-  "showUnsupportedFiles": true,
-  "readableLineLength": false,
-  "showLineNumber": false,
-  "livePreview": true,
-  "propertiesInDocument": "visible",
+  "attachmentFolderPath": "./Img",
   "rightToLeft": false,
-  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "smartIndentList": true,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "strictLineBreaks": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "./img",
-  "foldHeading": false
+  "livePreview": true,
+  "readableLineLength": false
 }

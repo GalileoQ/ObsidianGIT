@@ -19,4 +19,8 @@ bash setup.sh
 ```
 
 **Al final nos pedirá reiniciar el kali con el comando Y para aceptar y esperamos el reinicio. Ahora solo nos queda seleccionar la sesión bspwm desde la esquina superior derecha en el icono de las 4 lineas seleccionamos Bspwm y listo. nos quedara de la siguiente manera**
-![[2023-10-07_13-39.png]]![[overview2.png]]![[overview3.png]]
+![[Pasted image 20240612155133.png]]
+
+![[Pasted image 20240612155136.png]]
+
+![[Pasted image 20240612155153.png]]

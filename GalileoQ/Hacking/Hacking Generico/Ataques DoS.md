@@ -1,6 +1,6 @@
 Para hacer un ataque DoS, podemos utilizar una herramienta que se llama hping3, para paralizar un servidor mandando muchos paquetes TCP:
 
-![[Pasted image 20221217103616.png]]
+![[Pasted image 20240612162926.png]]
 
 --icmp: método de ataque
 --rand-soure: Para saltarnos el firewall y que se generen IP aleatorias, para no ser detectados.
@@ -9,13 +9,13 @@ Para hacer un ataque DoS, podemos utilizar una herramienta que se llama hping3, 
 
 Y ahora la red estará saturada:
 
-![[Pasted image 20221217103630.png]]
+![[Pasted image 20240612162932.png]]
 
 También podemos hacerlo así sobre un puerto en concreto:
 
-![[Pasted image 20221217103639.png]]
+![[Pasted image 20240612162936.png]]
 
 Y la máquina se bloquea:
 
-![[Pasted image 20221217103647.png]]
+![[Pasted image 20240612162940.png]]
 
