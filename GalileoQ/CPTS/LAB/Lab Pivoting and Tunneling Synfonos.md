@@ -69,4 +69,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-
+analizamos e
+![[Pasted image 20240617153736.png]]
