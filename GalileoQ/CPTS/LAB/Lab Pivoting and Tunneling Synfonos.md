@@ -98,7 +98,12 @@ establecemos una conexión con `smbmap` a los recursos compartidos con las crede
 
 `helios`
 dentro del directorios de helios encontramos dos archivos que podemos descargar usando el siguiente comando 
-```
+
 ```python
+	❯ smbmap -H 10.0.2.15 -u helios -p qwerty --download helios/research.txt
+
+	❯ smbmap -H 10.0.2.15 -u helios -p qwerty --download helios/todo.txt
+```
 
 ![[Pasted image 20240617162359.png]]
+
