@@ -203,3 +203,7 @@ agregamos el operador `&cmd=id` para hacer una prueba y efectivamente tenemos ej
 ### reverse shell
 
 ![[Pasted image 20240617205629.png]]
+
+### Escalada de privilegios
+
+![[Pasted image 20240617211120.png]]
