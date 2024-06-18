@@ -198,3 +198,8 @@ aqui podemos ver como el usuario `gleoq@test.com` ha enviado un correo a `helios
 `id`
 agregamos el operador `&cmd=id` para hacer una prueba y efectivamente tenemos ejecución de comandos
 ![[Pasted image 20240617204332.png]]
+
+
+### reverse shell
+
+![[Pasted image 20240617205629.png]]
