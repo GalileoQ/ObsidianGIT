@@ -237,5 +237,7 @@ enviamos el binario de chisel a la maquina victima usando el siguiente comando
 ```python
 scp chisel root@ip:/dev/shm
 ```
-`Nota: este comando es posible ya que hemos logrado persistencia en la maquian victima enviando nuestra authorized_kys para lograr una conexi;on`
+`Nota: este comando es posible ya que hemos logrado persistencia en la maquian victima enviando nuestra authorized_kys para lograr una conexión via ssh. de lo contrario podemos montar un servidor en python y descargarlo con un wget`
+
 ![[Pasted image 20240618171950.png]]
+
