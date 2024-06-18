@@ -171,7 +171,7 @@ debido a que podemos ver `log/` en el directorio `/var/mail/helios` podemos inte
 ![[Pasted image 20240617171433.png]]
 
 ### telnet 
-
+si enviamos un mail usando telnet luego haciendo un curl
 ```python
 telnet 10.0.2.15 25
 Trying 10.0.2.15...
@@ -191,3 +191,4 @@ DATA
 
 ```
 
+![[Pasted image 20240617203318.png]]
