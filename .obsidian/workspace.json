@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh-",
+                "query": "ssh keyge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md"
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md"
               }
             }
           }
@@ -160,8 +160,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "534cf175f8109887",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Overpass1.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
@@ -194,11 +200,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
-    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
-    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
