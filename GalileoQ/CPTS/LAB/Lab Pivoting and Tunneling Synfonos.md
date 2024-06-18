@@ -178,7 +178,7 @@ Trying 10.0.2.15...
 Connected to 10.0.2.15.
 Escape character is '^]'.
 220 symfonos.localdomain ESMTP Postfix (Debian/GNU)
-MAIL FROM:gleoq
+MAIL FROM:gleoq@test.com
 250 2.1.0 Ok
 RCPT TO:helios@symfonos.localdomain
 250 2.1.5 Ok
