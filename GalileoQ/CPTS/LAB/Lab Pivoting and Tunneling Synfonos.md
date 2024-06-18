@@ -250,3 +250,8 @@ iniciamos un servidor en chisel escuchando por el puerto 8000
 
 ![[Pasted image 20240618172810.png]]
 
+### proxychains
+```python
+nano /etc/proxychains4.co
+```
+![[Pasted image 20240618173459.png]]
