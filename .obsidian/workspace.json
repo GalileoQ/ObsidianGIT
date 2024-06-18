@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "534cf175f8109887",
+            "id": "e8938010b78e9beb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +151,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "e8938010b78e9beb",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Overpass1.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617212602.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211311.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211120.png",
