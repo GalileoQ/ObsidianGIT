@@ -242,5 +242,11 @@ scp chisel root@ip:/dev/shm
 ![[Pasted image 20240618171950.png]]
 
 ### Tunneling And Pivoting
-iniciamos un servidor en chisel escuchando por el puerto 8
+iniciamos un servidor en chisel escuchando por el puerto 8000
+
+```python
+./chisel server --reverse -p 8000
+```
+
 ![[Pasted image 20240618172810.png]]
+
