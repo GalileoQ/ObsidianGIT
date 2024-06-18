@@ -276,8 +276,9 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 64 bytes from 10.2.2.1: icmp_seq=1 ttl=255 time=1.28 ms ||||| LOOPBACK
 64 bytes from 10.2.2.2: icmp_seq=1 ttl=128 time=2.35 ms ||||| BROADCAST
 64 bytes from 10.2.2.3: icmp_seq=1 ttl=255 time=0.283 ms||||| GET-WEY
-64 bytes from 10.2.2.6: icmp_seq=1 ttl=64 time=0.013 ms Synfonos-1 ip:1
-64 bytes from 10.2.2.7: icmp_seq=1 ttl=64 time=0.413 ms Synfono
+64 bytes from 10.2.2.6: icmp_seq=1 ttl=64 time=0.013 ms Symfonos-1 ip:1
+64 bytes from 10.2.2.7: icmp_seq=1 ttl=64 time=0.413 ms Symfonos-1 ip:2
 ```
 
 ![[Pasted image 20240618175115.png]]
+
