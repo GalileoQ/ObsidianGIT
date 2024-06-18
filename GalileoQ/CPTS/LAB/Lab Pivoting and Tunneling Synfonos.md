@@ -270,5 +270,10 @@ Symfonos-1 ip2:10.2.2.6
 	for i in {1..256} ;do (ping -c 1 10.2.2.$i | grep "bytes from" &) ;done
 ```
 
-lanzamos este bucle en e
+lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que estén activas en este segundo rango de `ips` 
+
+```python
+
+```
+
 ![[Pasted image 20240618175115.png]]
