@@ -192,4 +192,5 @@ DATA
 
 ```
 
+aqui podemos ver como el usuario `gleoq` ha enviado un correo a ``
 ![[Pasted image 20240617203318.png]]
