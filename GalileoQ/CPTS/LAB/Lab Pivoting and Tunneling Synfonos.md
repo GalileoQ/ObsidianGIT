@@ -231,3 +231,6 @@ El "path hijacking" (secuestro de rutas) es una técnica que explota la vulnerab
 
 ![[Pasted image 20240617212602.png]]
 
+### chisel
+
+![[Pasted image 20240618171950.png]]
