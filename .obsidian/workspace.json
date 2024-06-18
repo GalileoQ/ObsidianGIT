@@ -23,8 +23,12 @@
             "id": "534cf175f8109887",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PATH",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+              }
             }
           }
         ]
@@ -153,6 +162,7 @@
   },
   "active": "534cf175f8109887",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211311.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211120.png",
@@ -160,7 +170,6 @@
     "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617205629.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617204332.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617203318.png",
