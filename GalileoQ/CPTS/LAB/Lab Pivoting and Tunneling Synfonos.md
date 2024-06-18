@@ -205,5 +205,5 @@ agregamos el operador `&cmd=id` para hacer una prueba y efectivamente tenemos ej
 ![[Pasted image 20240617205629.png]]
 
 ### Escalada de privilegios
-
+el binario `/opt/statuscheck` 
 ![[Pasted image 20240617211120.png]]
