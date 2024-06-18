@@ -251,7 +251,9 @@ iniciamos un servidor en chisel escuchando por el puerto 8000
 ![[Pasted image 20240618172810.png]]
 
 ### proxychains
+nos aseguramos que el archivo de configuración del proxychains tenga habilitada la opción `dynam`
 ```python
-nano /etc/proxychains4.co
+nano /etc/proxychains4.conf
 ```
+
 ![[Pasted image 20240618173459.png]]
