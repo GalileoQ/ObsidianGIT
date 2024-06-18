@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PATH",
+                "query": "ssh-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "534cf175f8109887",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617212602.png",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211311.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211120.png",
     "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
