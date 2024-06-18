@@ -260,7 +260,7 @@ nano /etc/proxychains4.conf
 ![[Pasted image 20240618173459.png]]
 
 ### Reconocimiento de la segunda red
-con
+con un bucle for vamos hacer un reconocimiento de todas las ips que esten activas en el segundo segmento de red
 ```python
 	for i in {1..256} ;do (ping -c 1 10.2.2.$i | grep "bytes from" &) ;done
 ```
