@@ -273,7 +273,11 @@ Symfonos-1 ip2:10.2.2.6
 lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que estén activas en este segundo rango de `ips` 
 
 ```python
-
+64 bytes from 10.2.2.1: icmp_seq=1 ttl=255 time=1.28 ms ||||| LOOPBACK
+64 bytes from 10.2.2.2: icmp_seq=1 ttl=128 time=2.35 ms ||||| BROADCAST
+64 bytes from 10.2.2.3: icmp_seq=1 ttl=255 time=0.283 ms||||
+64 bytes from 10.2.2.6: icmp_seq=1 ttl=64 time=0.013 ms
+64 bytes from 10.2.2.7: icmp_seq=1 ttl=64 time=0.413 ms
 ```
 
 ![[Pasted image 20240618175115.png]]
