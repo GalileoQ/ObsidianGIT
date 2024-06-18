@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "534cf175f8109887",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "286715ec0c9a611e",
+  "active": "534cf175f8109887",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211311.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617211120.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -155,7 +161,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617205629.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617204332.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617203318.png",
@@ -165,7 +170,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617170644.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617170237.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240617170025.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240617165639.png",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
