@@ -241,3 +241,6 @@ scp chisel root@ip:/dev/shm
 
 ![[Pasted image 20240618171950.png]]
 
+### Tunneling And Pivoting
+iniciamos un servidor en chisel escuchando por el puerto 8
+![[Pasted image 20240618172810.png]]
