@@ -213,7 +213,7 @@ vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta hac
 ![[Pasted image 20240617211311.png]]
 
 ### Path hijacking
-El "path hijacking" (secuestro de rutas) es una técnica que explota la vulnerabilidad en la secuencia de búsqueda de archivos de un sistema operativo o aplicación para ejecutar código malicioso. Este ataque se basa en la manipulación de la forma en que los sistemas y las aplicaciones localizan y cargan archivos ejecutables, bibliotecas, o scripts, redirigiendo el flujo de ejecución hacia un archivo malicioso en lugar del archivo legítimo
+El "path hijacking" (secuestro de rutas) es una técnica que explota la vulnerabilidad en la secuencia de búsqueda de archivos de un sistema operativo para ejecutar código malicioso. Este ataque se basa en la manipulación de la forma en que los sistemas y las aplicaciones localizan y cargan archivos ejecutables, bibliotecas, o scripts, redirigiendo el flujo de ejecución hacia un archivo malicioso en lugar del archivo legítimo
 
 ```python
 > echo "chmod u+s /bin/bash" > curl (creamos un archivo llamado curl el cual comtiene comandos para cambiar los permisos de la bash)
@@ -229,3 +229,4 @@ El "path hijacking" (secuestro de rutas) es una técnica que explota la vulnerab
 ```
 
 ![[Pasted image 20240617212602.png]]
+
