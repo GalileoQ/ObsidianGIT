@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Linux",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 355.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -138,7 +139,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
