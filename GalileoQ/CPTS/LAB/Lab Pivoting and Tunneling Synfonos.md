@@ -171,7 +171,8 @@ debido a que podemos ver `log/` en el directorio `/var/mail/helios` podemos inte
 ![[Pasted image 20240617171433.png]]
 
 ### telnet 
-si enviamos un mail usando telnet luego haciendo un curl
+si enviamos un mail usando telnet luego haciendo un `curl` al directorio `/var/mail/helios` podemos ver esa peticion. pero el codigo que enviamos no se esta mostrando por lo que parece que se esta interpretando
+
 ```python
 telnet 10.0.2.15 25
 Trying 10.0.2.15...
