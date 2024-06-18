@@ -3,5 +3,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#095827",
+  "theme": "obsidian"
 }
