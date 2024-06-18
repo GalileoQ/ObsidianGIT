@@ -232,5 +232,10 @@ El "path hijacking" (secuestro de rutas) es una técnica que explota la vulnerab
 ![[Pasted image 20240617212602.png]]
 
 ### chisel
+enviamos el binario de chisel a la maquina victima usando el siguiente comando
+
+```python
+scp chisel root
+```
 
 ![[Pasted image 20240618171950.png]]
