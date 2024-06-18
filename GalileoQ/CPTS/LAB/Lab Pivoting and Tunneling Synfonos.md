@@ -209,5 +209,6 @@ el binario `/opt/statuscheck` es muy raro así que vamos a mirarlo
 ![[Pasted image 20240617211120.png]]
 
 `/opt/statuscheck` 
-vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta haciendo desde la ruta relativa. esto es muy peligroso ya que es vulnerable a `path HIJAking`
+vemos que el archivo esta haciendo un llamado al comando `curl` pero lo esta haciendo desde la ruta relativa. esto es muy peligroso ya que es vulnerable a `PATH HIJACKING`
 ![[Pasted image 20240617211311.png]]
+
