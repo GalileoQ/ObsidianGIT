@@ -456,3 +456,6 @@ con un servidor en python nos compartimos el binario de `socat` con la maquina `
 `Descargamos el binario`
 ![[Pasted image 20240619160126.png]]
 
+### Pivoting And Tunneling
+
+
