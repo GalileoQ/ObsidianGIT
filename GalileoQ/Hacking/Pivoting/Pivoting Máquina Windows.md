@@ -1,3 +1,4 @@
+#pivoting 
 Vamos a tener el siguiente mapa de red con estas máquinas:
 ![[Pasted image 20240615202948.png]]
 

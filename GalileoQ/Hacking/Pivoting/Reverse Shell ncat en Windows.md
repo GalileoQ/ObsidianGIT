@@ -1,3 +1,4 @@
+#pivoting 
 En windows, en vez de usar socat podemos usar ncat para permitir el tráfico de una reverse shell por parte de una máquina 3 pasando por una máquina windows intermedia. Por ejemplo, desde el Kali nos ponemos a la escucha:
 ![[Pasted image 20240615203300.png]]
 

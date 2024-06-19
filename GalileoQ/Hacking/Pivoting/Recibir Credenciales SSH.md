@@ -1,3 +1,4 @@
+#pivoting 
 Una vez que seamos usuarios root de una máquina, podemos recibir credenciales de ssh de todos los usuarios que entren por SSH; y el proceso será el siguiente:
 
 - PASO 1 - Crear un script llamado no.sh con el siguiente código, que si lo ejecutamos permanecerá a la escucha esperando para recibir credenciales del usuario:

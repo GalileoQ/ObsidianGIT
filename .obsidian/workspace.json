@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1eb0e5735316bc0",
+        "id": "78476b9891bd8478",
         "type": "tabs",
         "children": [
           {
-            "id": "24c7b935b6d45e94",
+            "id": "f28edb1f7c4f41d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Pivoting Manual.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24c7b935b6d45e94",
+  "active": "f28edb1f7c4f41d2",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/Socat.md",
+    "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
+    "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con máquina Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
@@ -183,11 +188,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
     "GalileoQ/Template",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
