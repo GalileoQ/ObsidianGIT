@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7420bc6e9cf0fc6",
+        "id": "590edf1bdc3ee3a4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9df52ba2617ec6",
+            "id": "ecbb50115b8f3423",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb9df52ba2617ec6",
+  "active": "ecbb50115b8f3423",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240618172810.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619174131.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619174020.png",
