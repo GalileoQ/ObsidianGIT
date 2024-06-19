@@ -309,11 +309,11 @@ copiamos el binario de nmap a nuestro directorio actual y luego lo compartimos c
 de esta manera obtenemos el binario de nmap en la maquina victima
 ![[Pasted image 20240618204545.png]]
 
-### nmap
+### nmap scan synfonos-2
 con el binario de nmap ejecutado desde la maquina victima(symfonos-1) confirmamos que estos son los puertos abiertos en la maquina
 ![[Pasted image 20240618205554.png]]
 
-### Proxychains
+### Proxychains scan synfonos-2
 ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo de nmap usando proxychains para obtener los servicios y las versiones que están corriendo en estos puertos
 
 ```python
