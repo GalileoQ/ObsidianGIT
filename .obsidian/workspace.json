@@ -23,8 +23,12 @@
             "id": "21db80e1b163f3be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Template/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Template/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Template/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Template/Sin título.md"
+              }
             }
           }
         ]
@@ -153,6 +161,8 @@
   },
   "active": "21db80e1b163f3be",
   "lastOpenFiles": [
+    "GalileoQ/Template/Sin título.md",
+    "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
@@ -178,7 +188,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220545.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220252.png",
@@ -198,7 +207,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion",
-    "GalileoQ/Hacking/Windows/Active-Directory",
     "Sin título.canvas"
   ]
 }
