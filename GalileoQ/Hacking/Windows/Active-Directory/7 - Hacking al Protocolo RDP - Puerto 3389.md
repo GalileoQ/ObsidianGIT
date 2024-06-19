@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Por lo general, el protocolo RDP corre sobre el puerto 3389, pero es posible que corra por otro puerto, por lo que podemos asegurarnos de que un puerto es el RDP con metasploit:
 ![[Pasted image 20240615211957.png]]
 

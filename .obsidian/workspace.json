@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md"
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ee6df42ab411eb35",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
@@ -182,10 +184,8 @@
     "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
