@@ -427,3 +427,10 @@ hemos logrado traernos el puerto 8080 de la maquina symfonos-2 el cual esta corr
 hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 ![[Pasted image 20240619151518.png]]
 
+### Vulnerabilidades
+
+| CVE-XXXX-XXXXX                   | Nombre de la vulnerabilidad | Nivel |
+| -------------------------------- | --------------------------- | ----- |
+| CVE###### [2018-20434](https://n |                             |       |
+|                                  |                             |       |
+|                                  |                             |       |
