@@ -457,5 +457,6 @@ con un servidor en python nos compartimos el binario de `socat` con la maquina `
 ![[Pasted image 20240619160126.png]]
 
 ### Pivoting And Tunneling
-ahora en nuestra pantalla de `Pivoting And Tunneling` vamos a entab
+ahora en nuestra pantalla de `Pivoting And Tunneling` vamos crear el túnel por donde vamos a recibir la información para luego redireccionarlo 
 ![[Pasted image 20240619162613.png]]
+
