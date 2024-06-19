@@ -13,7 +13,7 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 
 ![[Pasted image 20240617144232.png]]
 
-### MAQUINA SYNFONOS 1 - 10.0.2.15
+# MAQUINA SYNFONOS 1 - 10.0.2.5
 
 ### nmap
 
@@ -324,3 +324,4 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 
 # Maquina Symfonos-2
 
+![[Pasted image 20240618210645.png]]
