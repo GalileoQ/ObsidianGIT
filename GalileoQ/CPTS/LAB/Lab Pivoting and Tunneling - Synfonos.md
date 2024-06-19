@@ -478,6 +478,7 @@ debemos ejecutar esta instrucción para lograr obtener unas bash con privilegios
 
 ### Root
 explotando este binario logramos conseguir una bash con privilegios elevados
+#Nota: hacemos una copia de nuestra `authorized_keys` en la maquina `symfonos-`
 ![[Pasted image 20240619174131.png]]
 
 
