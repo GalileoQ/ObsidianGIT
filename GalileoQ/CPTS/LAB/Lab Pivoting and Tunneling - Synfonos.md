@@ -404,9 +404,11 @@ primero que nada vamos a echar un vistazo a la web que esta corriendo en el puer
 en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel para traernos el puerto 80 de la maquina symgonos-2 de manera local en nuestro puerto 8090
 
 ```python
-
+	❯ proxychains ssh aeolus@10.2.2.7 -L 8090:localhost:80
 ```
 
 ![[Pasted image 20240619132508.png]]
 
+### web symfonos-2
+tenemos una web parecida a la symfonos-1 
 ![[Pasted image 20240619132257.png]]
