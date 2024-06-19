@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1635abd492552445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md"
               }
             }
           }
@@ -146,16 +159,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3818bce16d2cc3c4",
+  "active": "1635abd492552445",
   "lastOpenFiles": [
+    "GalileoQ/Template/Pentesting.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
