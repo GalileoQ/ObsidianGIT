@@ -461,4 +461,5 @@ ahora en nuestra pantalla de `Pivoting And Tunneling` vamos crear el túnel por 
 ![[Pasted image 20240619162613.png]]
 
 ### Ejecución de LibreNMS 1.46 - 'addhost' Remote Code Execution'
+ahora buscamos el dispositivo que hemos agregado y vamos a ejecutarlo. revisando el sploit 
 ![[Pasted image 20240619162907.png]]
