@@ -350,7 +350,7 @@ en esta parte vemos que el recurso compartidos de `anonymous` se esta ejecutando
 ![[Pasted image 20240618213211.png]]
 
 ### Searchsploit
-
+esta es la vulnerabilidad que vimos anteriormente que nos permite copiar archivos así que vamos a ver que nos dice
 ```python
 ❯ searchsploit -x linux/remote/36742.txt
 ```
