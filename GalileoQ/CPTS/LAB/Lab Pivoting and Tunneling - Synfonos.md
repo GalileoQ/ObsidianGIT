@@ -378,3 +378,4 @@ ahora nos conectamos al recurso compartido donde tenemos permisos de lectura y p
 efectivamente aquí tenemos el archivo `shadow` de la maquina symfonos-2
 ![[Pasted image 20240618215530.png]]
 
+### hashcat
