@@ -374,3 +374,7 @@ site cpto /home/aeolus/share/shadow.bak
 ahora nos conectamos al recurso compartido donde tenemos permisos de lectura y podemos ver el archivo así que lo descargamos para leerlo en nuestra maquina
 ![[Pasted image 20240618215312.png]]
 
+`shadow.bak`
+efectivamente aquí tenemos el archivo `shadow` de la maquina symfonos-2
+![[Pasted image 20240618215530.png]]
+
