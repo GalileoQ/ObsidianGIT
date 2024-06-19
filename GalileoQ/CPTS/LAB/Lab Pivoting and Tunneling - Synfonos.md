@@ -420,3 +420,5 @@ en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo túnel pa
 hemos logrado traernos el puerto 8080 de la maquina symfonos-2 el cual esta corriendo de manera local. a nuestra maquina atacante de manera local en el puerto 8181
 ![[Pasted image 20240619142317.png]]
 
+
+![[Pasted image 20240619151518.png]]
