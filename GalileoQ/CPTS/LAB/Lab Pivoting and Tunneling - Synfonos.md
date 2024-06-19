@@ -443,5 +443,5 @@ aquí vamos a crear un dispositivo y llenamos los campos
 `Add Divice`
 la variable `payload` la pegamos en `community` y la opción `Force add` debe estar activa.
 
-#Nota: es importante entender que para enviarnos una reverse shell a nuestra maquina atacante pero no tenemos conexión directa desde symfonos-2 a nuestra maquina atacante. por lo tanto tenemos que enviar esta shell directamente a la maquina mas cercana entre la symfonos-2 y la maquina atacante, en este caso seria la maquina symfonos-1 donde estaremos a la escucha por el puerto `1221` y luego dirigir ese trafico a la maquina atacante por el puerto `9001` 
+#Nota: es importante entender que para enviarnos una `reverse shell` a nuestra maquina `atacante` pero no tenemos conexión directa desde `symfonos-2` a nuestra maquina atacante. por lo tanto tenemos que enviar esta shell directamente a la maquina mas cercana entre la symfonos-2 y la maquina atacante, en este caso seria la maquina symfonos-1 donde estaremos a la escucha por el puerto `1221` y luego dirigir ese trafico a la maquina atacante por el puerto `9001` 
 ![[Pasted image 20240619154619.png]]
