@@ -322,3 +322,5 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 
 ![[Pasted image 20240618205838.png]]
 
+# Maquina Symfonos-2
+
