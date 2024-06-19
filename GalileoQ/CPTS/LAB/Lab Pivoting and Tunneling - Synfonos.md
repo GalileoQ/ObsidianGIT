@@ -417,6 +417,6 @@ en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo túnel pa
 ![[Pasted image 20240619142027.png]]
 
 ### web Symfonos-2 (Port 8080)
-hemos logrado traernos el puerto 8080 de la maquina symfonos 
+hemos logrado traernos el puerto 8080 de la maquina symfonos-2 el cual esta corriendo
 ![[Pasted image 20240619142317.png]]
 
