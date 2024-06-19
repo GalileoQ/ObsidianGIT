@@ -400,4 +400,6 @@ enumerando el sistemas hemos conseguido una segunda red así que una ves consiga
 primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
 ![[Pasted image 20240619130754.png]]
 
-### Enumeración web Symfonos
+### Enumeración web Symfonos-2 (Port 80)
+
+![[Pasted image 20240619132257.png]]
