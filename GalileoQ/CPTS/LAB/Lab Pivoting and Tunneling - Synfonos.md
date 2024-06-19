@@ -343,6 +343,8 @@ logramos descargar un archivo llamado `log.txt` para analizarlo en nuestra maqui
 `log.txt`
 en la primera linea podemos ver que el usuario `root` ha echo un `cat` sobre la ruta `/etc/shadow` y luego ha hecho una especie de copia de seguridad en la ruta `/var/backups/shadow.bak` 
 ![[Pasted image 20240618212903.png]]
+
 `path`
-en esta parte vemos que el recurso compartidos de `anonymous` se esta ejecutando bajo la ruta `/home/aelous/share` aqui
+en esta parte vemos que el recurso compartidos de `anonymous` se esta ejecutando bajo la ruta `/home/aelous/share` aquí podemos obtener un posible usuario `aelous` 
+`aqui se me ocurre que si el s`
 ![[Pasted image 20240618213211.png]]
