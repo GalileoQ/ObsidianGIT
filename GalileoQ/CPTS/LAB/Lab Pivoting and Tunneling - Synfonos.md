@@ -314,7 +314,11 @@ con el binario de nmap ejecutado desde la maquina victima(symfonos-1) confirmamo
 ![[Pasted image 20240618205554.png]]
 
 ### Proxychains
-ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
+ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo de nmap usando proxychains para obtener los servicios y las versiones que están corriendo en estos puertos
+
 ```python
 	sudo proxychains nmap -sT -p 21,22,80,139,445 -sCV -Pn -n --min-rate 5000 10.2.2.7
 ```
+
+![[Pasted image 20240618205838.png]]
+
