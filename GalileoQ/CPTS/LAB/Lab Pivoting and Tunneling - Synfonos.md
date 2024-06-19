@@ -469,7 +469,10 @@ logramos obtener conexión a la maquina `symfonos-2 pero como el usuario cronus`
 ![[Pasted image 20240619163334.png]]
 
 ### Escalada de privilegios Symfonos-2
-en este caso tenemos permisos root para ejecutar el binario `/usr/bin/mysql/` 
+en este caso tenemos permisos root para ejecutar el binario `/usr/bin/mysql/` vamos aprovechar esto para escalar privilegios
 ![[Pasted image 20240619164428.png]]
+
+### GTFObins
+
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
