@@ -23,26 +23,12 @@
             "id": "4cd40370aecad56a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ae75d068d04d0f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md"
               }
             }
           }
@@ -170,14 +154,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65ae75d068d04d0f",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 17.27.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 17.27.54.excalidraw.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162907.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162613.png",
@@ -207,9 +194,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
     "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/SMBmap.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/SMBclient.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Rpcclient y Enum4linux.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
