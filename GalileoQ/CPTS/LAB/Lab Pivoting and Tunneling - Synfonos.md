@@ -383,5 +383,6 @@ copiamos las claves de los usuarios `aeolus y cronus` en un archivo llamado cred
 ![[Pasted image 20240618220252.png]]
 
 `Status`
-obtenemos la clave del usuarios `aelous` y es
+obtenemos la clave del usuarios `aelous` ahora podemos usar estas credenciales para conectarnos por `ssh`
 ![[Pasted image 20240618220545.png]]
+
