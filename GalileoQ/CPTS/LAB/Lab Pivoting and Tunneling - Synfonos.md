@@ -369,3 +369,6 @@ site cpto /home/aeolus/share/shadow.bak
 ```
 
 ![[Pasted image 20240618215019.png]]
+
+
+![[Pasted image 20240618215312.png]]
