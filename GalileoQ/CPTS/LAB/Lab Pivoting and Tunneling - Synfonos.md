@@ -315,6 +315,7 @@ de esta manera obtenemos el binario de nmap en la maquina victima
 con el binario de nmap ejecutado desde la maquina victima(symfonos-1) confirmamos que estos son los puertos abiertos en la maquina
 ![[Pasted image 20240618205554.png]]
 
+# Maquina Symfonos-2
 ### Proxychains scan synfonos-2
 ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo de nmap usando proxychains para obtener los servicios y las versiones que están corriendo en estos puertos
 
@@ -323,8 +324,6 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 ```
 
 ![[Pasted image 20240618205838.png]]
-
-# Maquina Symfonos-2
 
 `searchsploit ftp 1.3.5`
 encontramos una vulnerabilidad para esta versión de ftp que nos permite copiar archivos. 
