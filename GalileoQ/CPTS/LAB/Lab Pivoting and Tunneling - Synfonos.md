@@ -464,3 +464,5 @@ ahora en nuestra pantalla de `Pivoting And Tunneling` vamos crear el túnel por 
 ahora buscamos el dispositivo que hemos agregado y vamos a ejecutarlo. revisando el `exploit` vemos que hacen un llamado del dispositivo bajo la variable `capture` la cual vemos si vamos al meno engranaje `> capture > SNMP > Run` 
 ![[Pasted image 20240619162907.png]]
 
+### conexión Symfonos 
+![[Pasted image 20240619163334.png]]
