@@ -441,5 +441,5 @@ esta vulnerabilidad crea un nuevo dispositivo y luego lo registra de en la web p
 aquí vamos a crear un dispositivo y llenamos los campos
 ![[Pasted image 20240619153907.png]]
 `Add Divice`
-
+la variable `payload` la pegamos en `community` 
 ![[Pasted image 20240619154619.png]]
