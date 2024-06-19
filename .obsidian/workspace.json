@@ -11,8 +11,12 @@
             "id": "1f6e4f75b8bb8104",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Template/Pentesting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Template/Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Template/Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md"
+                "file": "GalileoQ/Template/Pentesting.md"
               }
             }
           }
@@ -140,7 +146,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "1f6e4f75b8bb8104",
   "lastOpenFiles": [
     "GalileoQ/Template/Pentesting.md",
     "Sin título.md",
