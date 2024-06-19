@@ -370,5 +370,6 @@ site cpto /home/aeolus/share/shadow.bak
 
 ![[Pasted image 20240618215019.png]]
 
-
+`proxychains smbclient`
+ahora nos conectamos al recurso compartido donde tenemos permisos de lectura y podemos ver el archivo así que lo descargamos para leerlo en nuestra maquina
 ![[Pasted image 20240618215312.png]]
