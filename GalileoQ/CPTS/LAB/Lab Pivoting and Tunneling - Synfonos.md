@@ -460,3 +460,5 @@ con un servidor en python nos compartimos el binario de `socat` con la maquina `
 ahora en nuestra pantalla de `Pivoting And Tunneling` vamos crear el túnel por donde vamos a recibir la información para luego redireccionarlo 
 ![[Pasted image 20240619162613.png]]
 
+### Ejecución de LibreNMS 1.46 - 'addhost' Remote Code Execution'
+![[Pasted image 20240619162907.png]]
