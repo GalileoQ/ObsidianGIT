@@ -329,10 +329,11 @@ encontramos una vulnerabilidad para esta versión de ftp que nos permite copiar 
 ![[Pasted image 20240618211709.png]]
 
 `proxychains ftp`
-intentamos obtener una conexión como `anonymous` pero parece que no esta co
+intentamos obtener una conexión como `anonymous` pero parece que no esta configurado por default así que por ahora no podemos hacer mucho por aqui. seguiremos enumerando
 ![[Pasted image 20240618211905.png]]
 
-usando `proxychains smbmap` realizamos una enumeración de los recursos compartidos y vemos que tenemos permisos de lectura sobre el recurso compartido de `Anonymous`
+`proxychains smbmap` 
+realizamos una enumeración de los recursos compartidos y vemos que tenemos permisos de lectura sobre el recurso compartido de `Anonymous`
 ![[Pasted image 20240618210839.png]]
 
 `proxychains smbclient`
