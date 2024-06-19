@@ -341,5 +341,5 @@ logramos descargar un archivo llamado `log.txt` para analizarlo en nuestra maqui
 ![[Pasted image 20240618211207.png]]
 
 `log.txt`
-en la primera linea 
+en la primera linea podemos ver que el usuario `root` ha echo un `cat` sobre la ruta ``
 ![[Pasted image 20240618212903.png]]
