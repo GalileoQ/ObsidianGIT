@@ -387,5 +387,6 @@ obtenemos la clave del usuarios `aelous` ahora podemos usar estas credenciales p
 ![[Pasted image 20240618220545.png]]
 
 ### proxychains ssh
-nos conectamos a la maquina symfonos
+nos conectamos a la maquina symfonos-2 vía ssh usando como intermedio a proxychains
 ![[Pasted image 20240618221228.png]]
+
