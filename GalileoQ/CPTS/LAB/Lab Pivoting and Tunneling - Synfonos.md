@@ -325,7 +325,7 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 # Maquina Symfonos-2
 
 `searchsploit ftp 1.3.5`
-encontramos una vulnerabilidad para esta version de 
+encontramos una vulnerabilidad para esta versión de ftp que nos permite copiar archivos. 
 ![[Pasted image 20240618211709.png]]
 
 usando `proxychains smbmap` realizamos una enumeración de los recursos compartidos y vemos que tenemos permisos de lectura sobre el recurso compartido de `Anonymous`
