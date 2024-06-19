@@ -401,7 +401,12 @@ primero que nada vamos a echar un vistazo a la web que esta corriendo en el puer
 ![[Pasted image 20240619130754.png]]
 
 ### Enumeración web Symfonos-2 (Port 80)
-en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel 
+en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel para traernos el puerto 80 de la maquina symgonos-2 de manera local en nuestro puerto 8090
+
+```python
+
+```
+
 ![[Pasted image 20240619132508.png]]
 
 ![[Pasted image 20240619132257.png]]
