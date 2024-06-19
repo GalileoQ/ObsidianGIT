@@ -245,10 +245,12 @@ scp chisel root@ip:/dev/shm
 iniciamos un servidor en chisel escuchando por el puerto 8000
 
 ```python
-./chisel server --reverse -p 8000
+	./chisel server --reverse -p 8000
+
+	./chisel client 10.0.2.4:8000 R:socks
 ```
 
-![[Pasted image 20240618172810.png]]
+![[Pasted image 20240619124748.png]]
 
 ### proxychains
 nos aseguramos que el archivo de configuración del proxychains tenga habilitada la opción `dynamic_chain` que la vamos a necesitar mas adelanta
