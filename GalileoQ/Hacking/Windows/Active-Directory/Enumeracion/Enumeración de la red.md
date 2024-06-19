@@ -1,4 +1,4 @@
-#
+#ActiveDirectory 
 ### Conocer adaptadores de red y las IPs
 ![[Pasted image 20240615205318.png]]
 

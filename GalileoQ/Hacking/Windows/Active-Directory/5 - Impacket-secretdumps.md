@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Esta herramienta sirve para dumpear los hashes de todos los usuarios del dominio utilizando las credenciales de un usuario y contraseña que tengan el permiso para ello:
 ![[Pasted image 20240615211749.png]]
 

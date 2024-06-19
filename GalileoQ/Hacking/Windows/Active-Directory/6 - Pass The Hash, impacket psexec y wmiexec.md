@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Se trata de robar una credencial de usuario en forma de hash; y luego sin descifrar, la reutiliza para engañar a un sistema de autenticación para que cree una nueva sesión autenticada en la misma red. Es decir, se trata de una técnica que nos permite loguearnos con un usuario simplemente proporcionando su hash; y para ello podemos usar psexec.
 ![[Pasted image 20240615211827.png]]
 

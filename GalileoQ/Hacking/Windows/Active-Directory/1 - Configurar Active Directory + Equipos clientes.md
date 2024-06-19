@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Vamos a configurar un entorno de active directory donde habrá un domain controller y otro equipo windows vinculado al dominio. Por tanto lo primero será tener instalado un Windows Server:
 
 ![[Pasted image 20240615211005.png]]

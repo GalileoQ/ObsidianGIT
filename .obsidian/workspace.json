@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md"
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "ee6df42ab411eb35",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
@@ -178,14 +186,6 @@
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
-    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
-    "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
-    "GalileoQ/CPTS/nmap.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
     "GalileoQ/Hacking/Windows/Active-Directory/Img",

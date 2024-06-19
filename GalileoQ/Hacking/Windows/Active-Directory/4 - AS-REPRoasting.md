@@ -1,3 +1,4 @@
+#ActiveDirectory 
 Es una técnica que consiste en encontrar usuarios que no requieren pre-autenticación de Kerberos. Lo cual significa que cualquiera puede enviar una petición AS_REQ en nombre de uno de esos usuarios y recibir un mensaje AS_REP correcto. Esta respuesta contiene un pedazo del mensaje cifrado con la clave del usuario, que se obtiene de su contraseña. Para ello podemos usar una herramienta que se llama GetNPUsers.py usándola de la siguiente forma:
 
 Por ejemplo podríamos encontrar este tipo de usuarios utilizando [[Kerbrute]]

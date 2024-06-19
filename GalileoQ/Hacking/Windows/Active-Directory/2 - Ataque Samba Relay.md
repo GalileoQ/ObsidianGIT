@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Para hacer este ataque, tenemos que tener el DC y la máquina cliente conectadas y bien configuradas dentro del dominio; por tanto una vez hecho esto vamos a abrir el Kali Linux y nos ubicamos a la ubicación de una herramienta que se llama responder:
 ![[Pasted image 20240615211405.png]]
 

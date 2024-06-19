@@ -1,3 +1,4 @@
+#ActiveDirectory 
 ### DEFINICIÓN PROTOCOLO KERBEROS
 
 Kerberos es un protocolo de autenticación que se utiliza en sistemas Windows para proporcionar seguridad en la autenticación de usuarios y servicios. Cuando un usuario se autentica en un sistema Windows, se solicita un ticket de servicio para el servicio al que está intentando acceder. Este ticket de servicio contiene una clave secreta que se utiliza para cifrar las comunicaciones entre el usuario y el servicio.
