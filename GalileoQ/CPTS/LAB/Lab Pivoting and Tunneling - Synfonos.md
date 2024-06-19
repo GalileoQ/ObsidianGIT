@@ -428,7 +428,7 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 ![[Pasted image 20240619151518.png]]
 
 ### Vulnerabilidades
-esta vulnerabilidad crea un nuevo dispositivo y luego lo registra de en la web para posteriormente llamarlo
+esta vulnerabilidad crea un nuevo dispositivo y luego lo registra de en la web para posteriormente llamarlo. en esca caso ejecutaremos esto de 
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                     | Tipo    | Nivel | Link                                                  |
 | -------------- | ----------------------------------------------- | ------- | ----- | ----------------------------------------------------- |
