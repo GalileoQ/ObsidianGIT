@@ -357,3 +357,10 @@ esta es la vulnerabilidad que vimos anteriormente que nos permite copiar archivo
 básicamente esta vulnerabilidad nos indica que podemos hacer `site cpfr /etc/passwd (la ruta que queremos copiar)` y después `site cpto /tmp/passwd.copy (ruta donde queremos hacer la copia)`
 ![[Pasted image 20240618214236.png]]
 
+`proxychains telnet`
+realizamos la copia efectiva del archivo al directorio donde tenemos permisos de lectura
+
+```python
+
+```
+![[Pasted image 20240618215019.png]]
