@@ -349,3 +349,10 @@ en esta parte vemos que el recurso compartidos de `anonymous` se esta ejecutando
 `aqui se me ocurre que si el usuario root esta haciendo una copia del /etc/shadow en esta dirección > /var/backups/shadow.bak y el servicio ftp es vulnerable a copias de archivos entonces nosotros podriamos traernos el archivo /var/backups a la dirección de /home/aelous/share y luego nos conectamos al recurso anonymous donde tenemos leptura y de esta manera podriamos ver el archivo` 
 ![[Pasted image 20240618213211.png]]
 
+### Searchsploit
+
+```python
+❯ searchsploit -x linux/remote/36742.txt
+```
+
+![[Pasted image 20240618214236.png]]
