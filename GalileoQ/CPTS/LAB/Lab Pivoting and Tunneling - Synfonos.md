@@ -416,5 +416,6 @@ primero que nada vamos a echar un vistazo a la web que esta corriendo en el puer
 en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo túnel para traernos el puerto 8080 de la maquina symgonos-2 de manera local en nuestro puerto 8181 
 ![[Pasted image 20240619142027.png]]
 
-### web Symfonos-2 (P)
+### web Symfonos-2 (Port 8080)
 ![[Pasted image 20240619142317.png]]
+
