@@ -386,3 +386,6 @@ copiamos las claves de los usuarios `aeolus y cronus` en un archivo llamado cred
 obtenemos la clave del usuarios `aelous` ahora podemos usar estas credenciales para conectarnos por `ssh`
 ![[Pasted image 20240618220545.png]]
 
+### proxychains ssh
+nos conectamos a la maquina symfonos
+![[Pasted image 20240618221228.png]]
