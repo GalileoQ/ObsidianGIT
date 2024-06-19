@@ -429,8 +429,8 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX                   | Nombre de la vulnerabilidad | Nivel |
-| -------------------------------- | --------------------------- | ----- |
-| CVE###### [2018-20434](https://n |                             |       |
-|                                  |                             |       |
-|                                  |                             |       |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                     | Nivel |
+| -------------- | ----------------------------------------------- | ----- |
+| CVE-2018-20434 | LibreNMS 1.46 - 'addhost' Remote Code Execution |       |
+|                |                                                 |       |
+|                |                                                 |       |
