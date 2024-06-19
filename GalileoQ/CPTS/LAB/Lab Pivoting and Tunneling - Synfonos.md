@@ -390,16 +390,6 @@ obtenemos la clave del usuarios `aelous` ahora podemos usar estas credenciales p
 ### proxychains ssh
 nos conectamos a la maquina symfonos-2 vía ssh usando como intermedio a proxychains
 ![[Pasted image 20240618221228.png]]
-
-### ip a
-enumerando el sistemas hemos conseguido una segunda red así que una ves consigamos escalar privilegios en este maquina debemos enumerar esta red 
-![[Pasted image 20240619125654.png]]
-
-
-### Enumeración de puertos internos
-primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
-![[Pasted image 20240619130754.png]]
-
 ### Enumeración web Symfonos-2 (Port 80)
 en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel para traernos el puerto 80 de la maquina symgonos-2 de manera local en nuestro puerto 8090
 
@@ -414,5 +404,14 @@ tenemos una web parecida a la symfonos-1 de momento no tenemos nada importante
 ![[Pasted image 20240619132257.png]]
 
 ### Fuzzing Symfonos-2
-
+despúes de hacer fuzzing no tenemos nada en esta web así que seguimos enumerando
 ![[Pasted image 20240619134251.png]]
+
+### ip a
+enumerando el sistemas hemos conseguido una segunda red así que una ves consigamos escalar privilegios en este maquina debemos enumerar esta red 
+![[Pasted image 20240619125654.png]]
+
+
+### Enumeración de puertos internos
+primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
+![[Pasted image 20240619130754.png]]
