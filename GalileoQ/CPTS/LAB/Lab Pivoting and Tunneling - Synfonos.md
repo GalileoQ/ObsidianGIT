@@ -326,3 +326,7 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 usando `proxychains smbmap` realizamos una enumeración de los recursos compartidos y vemos que tenemos permisos de lectura sobre el recurso compartido de `Anonymous`
 ![[Pasted image 20240618210839.png]]
 
+`proxychains smbclient`
+logramos descargar un archivo llamado `log.txt` para analizarlo en nuestra maquina
+![[Pasted image 20240618211207.png]]
+
