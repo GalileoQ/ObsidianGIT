@@ -410,5 +410,6 @@ en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel par
 ![[Pasted image 20240619132508.png]]
 
 ### web symfonos-2
-tenemos una web parecida a la symfonos-1 
+tenemos una web parecida a la symfonos-1 de momento no tenemos nada importante
 ![[Pasted image 20240619132257.png]]
+
