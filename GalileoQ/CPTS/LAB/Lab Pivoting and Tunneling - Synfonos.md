@@ -304,3 +304,8 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 
 copiamos el binario de nmap a nuestro directorio actual y luego lo compartimos con un servidor de Python
 ![[Pasted image 20240618204241.png]]
+
+`symfonos-1`
+de esta manera obtenemos el binario de nmap en la maquina victima
+![[Pasted image 20240618204545.png]]
+
