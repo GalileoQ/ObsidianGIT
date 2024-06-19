@@ -25,22 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7f4ceed3e8dc902",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md"
+              }
             }
           }
         ]
@@ -163,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7f4ceed3e8dc902",
+  "active": "fe89edb89ada91d2",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
