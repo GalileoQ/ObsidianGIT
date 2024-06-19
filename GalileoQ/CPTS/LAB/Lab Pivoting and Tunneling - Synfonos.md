@@ -302,5 +302,5 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 	python3 -m http.server 80
 ```
 
-copiam
+copiamos el binario de nmap a nuestro directorio actual y luego lo compartimos con un servidor de Python
 ![[Pasted image 20240618204241.png]]
