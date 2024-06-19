@@ -467,3 +467,6 @@ ahora buscamos el dispositivo que hemos agregado y vamos a ejecutarlo. revisando
 ### conexión Symfonos-2 > Symfonos-1 > Maquina atacante (Attack)
 logramos obtener conexión a la maquina `symfonos-2 pero como el usuario cronus`
 ![[Pasted image 20240619163334.png]]
+
+### Escalada de privilegios Symfonos-2
+
