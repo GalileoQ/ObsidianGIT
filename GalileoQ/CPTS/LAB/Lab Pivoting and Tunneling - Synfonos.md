@@ -421,5 +421,9 @@ hemos logrado traernos el puerto 8080 de la maquina symfonos-2 el cual esta corr
 ![[Pasted image 20240619142317.png]]
 
 ### LibreNMS
+
+![[Pasted image 20240619151707.png]]
+
 hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 ![[Pasted image 20240619151518.png]]
+
