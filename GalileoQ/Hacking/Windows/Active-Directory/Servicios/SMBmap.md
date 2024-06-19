@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Smbmap es una herramienta de línea de comandos que se utiliza para enumerar y explorar recursos compartidos en una red SMB.
 ### Enumerar recursos compartidos en un servidor SMB
 

@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Podemos también hacer ataques de fuerza bruta con Hydra al protocolo SMB:
 ```bash
 hydra -P user.txt -L passwords.txt smb://192.168.0.30

@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Entramos en un entorno windows y consultamos nuestra IP:
 ![[Pasted image 20240615205956.png]]
 

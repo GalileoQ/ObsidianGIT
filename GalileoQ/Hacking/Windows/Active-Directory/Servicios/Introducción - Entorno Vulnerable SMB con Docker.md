@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 SMB es un protocolo de red para compartir recursos por la red. Por tanto vamos a desplegar un contenedor de docker con este protocolo que tenga vulnerabilidades:
 ![[Pasted image 20240615210255.png]]
 

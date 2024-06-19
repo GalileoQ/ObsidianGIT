@@ -1,3 +1,5 @@
+#ActiveDirectory 
+
 Smbclient es un cliente de línea de comandos para el protocolo de intercambio de archivos de red Server Message Block (SMB). Este protocolo se utiliza comúnmente para compartir archivos e impresoras entre dispositivos en una red local.
 
 Smbclient permite a los usuarios conectarse a servidores SMB y acceder a recursos compartidos como si estuvieran en una unidad local de su computadora. Con smbclient, los usuarios pueden explorar recursos compartidos, descargar y cargar archivos, crear y eliminar directorios, y realizar otras operaciones de archivos a través de la red.
