@@ -428,6 +428,7 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 ![[Pasted image 20240619151518.png]]
 
 ### Vulnerabilidades
+esta
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                     | Tipo    | Nivel | Link                                                  |
 | -------------- | ----------------------------------------------- | ------- | ----- | ----------------------------------------------------- |
@@ -435,3 +436,6 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 |                |                                                 |         |       |                                                       |
 |                |                                                 |         |       |                                                       |
 
+
+`Add Divice`
+![[Pasted image 20240619153907.png]]
