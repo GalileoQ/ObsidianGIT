@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
+                "file": "GalileoQ/Hacking/Windows/Windows Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
+                "file": "GalileoQ/Hacking/Windows/Windows Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
+                "file": "GalileoQ/Hacking/Windows/Windows Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md"
+                "file": "GalileoQ/Hacking/Windows/Windows Tools.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "ee6df42ab411eb35",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
@@ -162,9 +168,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
@@ -181,9 +184,6 @@
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Overpass1.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
