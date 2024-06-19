@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Template/Pentesting.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dba988d49185dee9",
+  "active": "5e582a0d40be5e1e",
   "lastOpenFiles": [
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619151707.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619151518.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619142317.png",
