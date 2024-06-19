@@ -20,11 +20,13 @@
             }
           },
           {
-            "id": "4cd40370aecad56a",
+            "id": "ca0661964409ed55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Pivoting.excalidraw"
+              }
             }
           }
         ],
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md"
+                "file": "Excalidraw/Pivoting.excalidraw"
               }
             }
           }
@@ -154,14 +158,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "ca0661964409ed55",
   "lastOpenFiles": [
+    "Excalidraw/Pivoting.svg",
+    "Excalidraw/Pivoting.excalidraw",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.27.55.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.27.54.excalidraw.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
@@ -174,7 +180,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619154619.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619153907.png",
     "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619151707.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "Sin título.md",
@@ -193,7 +198,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
@@ -201,7 +205,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Img",
     "Sin título.canvas"
   ]
 }
