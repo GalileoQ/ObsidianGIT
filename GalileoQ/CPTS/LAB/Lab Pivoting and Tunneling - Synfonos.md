@@ -404,7 +404,7 @@ tenemos una web parecida a la symfonos-1 de momento no tenemos nada importante
 ![[Pasted image 20240619132257.png]]
 
 ### Fuzzing Symfonos-2
-despúes de hacer fuzzing no tenemos nada en esta web así que seguimos enumerando
+después de hacer Fuzzing no tenemos nada en esta web así que seguimos enumerando
 ![[Pasted image 20240619134251.png]]
 
 ### ip a
