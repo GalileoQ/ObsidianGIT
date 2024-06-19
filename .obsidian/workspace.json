@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Template/Pentesting.md"
               }
             }
           }
@@ -158,11 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dba988d49185dee9",
+  "active": "e206c15078405227",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619134251.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619134251.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619132508.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619132257.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619130754.png",
@@ -196,7 +197,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220545.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220252.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618215530.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240618215312.png",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
