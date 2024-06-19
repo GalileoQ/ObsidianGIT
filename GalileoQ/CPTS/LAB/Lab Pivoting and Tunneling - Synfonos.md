@@ -471,3 +471,4 @@ logramos obtener conexión a la maquina `symfonos-2 pero como el usuario cronus`
 ### Escalada de privilegios Symfonos-2
 
 ![[Pasted image 20240619164428.png]]
+
