@@ -453,3 +453,6 @@ la variable `payload` la pegamos en `community` y la opción `Force add` debe es
 con un servidor en python nos compartimos el binario de `socat` con la maquina `symfonos-1`
 ![[Pasted image 20240619160023.png]]
 
+`Descargamos el binario`
+![[Pasted image 20240619160126.png]]
+
