@@ -477,7 +477,7 @@ debemos ejecutar esta instrucción para lograr obtener unas bash con privilegios
 ![[Pasted image 20240619174020.png]]
 
 ### Root
-explotando este binario logramos cons
+explotando este binario logramos conseguir una bash con privilegios elevados
 ![[Pasted image 20240619174131.png]]
 
 
