@@ -340,3 +340,6 @@ realizamos una enumeración de los recursos compartidos y vemos que tenemos perm
 logramos descargar un archivo llamado `log.txt` para analizarlo en nuestra maquina
 ![[Pasted image 20240618211207.png]]
 
+`log.txt`
+en la primera linea 
+![[Pasted image 20240618212903.png]]
