@@ -396,3 +396,7 @@ nos conectamos a la maquina symfonos-2 vía ssh usando como intermedio a proxych
 enumerando el sistemas hemos conseguido una segunda red así que una ves consigamos escalar privilegios en este maquina debemos enumerar esta red 
 ![[Pasted image 20240619125654.png]]
 
+
+### Enumeración de puertos internos
+
+![[Pasted image 20240619130754.png]]
