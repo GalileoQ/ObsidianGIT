@@ -287,7 +287,7 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 ```python
 sudo proxychains nmap -sT -Pn -p 1-1000 -T5 -v -n 10.2.2.7
 
-#Nota: hacemos un escaneo basico del top
+#Nota: hacemos un escaneo basico del top 1000 de los puertos comunes debido a que proxychains no es capas de manejar todo el volumen de los puertos. e
 ```
 
 ![[Pasted image 20240618203733.png]]
