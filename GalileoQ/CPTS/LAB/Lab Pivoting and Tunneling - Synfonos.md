@@ -297,7 +297,10 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 ```python
 	which nmap
 
+	cp /usr/bin/nmap .
 
+	python3 -m http.server 80
 ```
 
+copiam
 ![[Pasted image 20240618204241.png]]
