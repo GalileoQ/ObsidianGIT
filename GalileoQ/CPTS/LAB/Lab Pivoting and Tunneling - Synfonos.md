@@ -328,6 +328,10 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 encontramos una vulnerabilidad para esta versión de ftp que nos permite copiar archivos. 
 ![[Pasted image 20240618211709.png]]
 
+`proxychains ftp`
+intentamos obtener una conexión como `anonymous` pero parece que no esta co
+![[Pasted image 20240618211905.png]]
+
 usando `proxychains smbmap` realizamos una enumeración de los recursos compartidos y vemos que tenemos permisos de lectura sobre el recurso compartido de `Anonymous`
 ![[Pasted image 20240618210839.png]]
 
