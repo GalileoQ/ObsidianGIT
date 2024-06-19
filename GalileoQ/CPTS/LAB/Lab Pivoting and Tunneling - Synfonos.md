@@ -457,5 +457,5 @@ con un servidor en python nos compartimos el binario de `socat` con la maquina `
 ![[Pasted image 20240619160126.png]]
 
 ### Pivoting And Tunneling
-
-
+ahora en nuestra pantalla de `Pivoting And Tunneling` vamos a entab
+![[Pasted image 20240619162613.png]]
