@@ -408,7 +408,7 @@ tenemos una web parecida a la symfonos-1 de momento no tenemos nada importante
 después de hacer Fuzzing no tenemos nada en esta web así que seguimos vamos a seguir enumerando para intentar obtener acceso privilegiado a la maquina
 ![[Pasted image 20240619134251.png]]
 
-### ip a
 ### Enumeración de puertos internos
 primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
 ![[Pasted image 20240619130754.png]]
+
