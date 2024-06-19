@@ -283,3 +283,5 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 ![[Pasted image 20240618175115.png]]
 
 ### Escaneo de red symfonos-1 segmento de red 2
+
+![[Pasted image 20240618203733.png]]
