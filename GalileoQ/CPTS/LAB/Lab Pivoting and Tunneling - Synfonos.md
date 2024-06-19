@@ -346,5 +346,5 @@ en la primera linea podemos ver que el usuario `root` ha echo un `cat` sobre la 
 
 `path`
 en esta parte vemos que el recurso compartidos de `anonymous` se esta ejecutando bajo la ruta `/home/aelous/share` aquí podemos obtener un posible usuario `aelous` 
-`aqui se me ocurre que si el usuario root esta haciendo una copia del /etc/shadow en esta dirección > /var/backups/shadow.bak ` 
+`aqui se me ocurre que si el usuario root esta haciendo una copia del /etc/shadow en esta dirección > /var/backups/shadow.bak y el servicio ftp es vulnerable a ` 
 ![[Pasted image 20240618213211.png]]
