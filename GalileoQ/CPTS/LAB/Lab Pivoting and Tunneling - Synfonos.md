@@ -443,5 +443,5 @@ aquí vamos a crear un dispositivo y llenamos los campos
 `Add Divice`
 la variable `payload` la pegamos en `community` y la opción `Force add` debe estar activa.
 
-#Nota: es importante entender que para enviarnos una reverse shell a nuestra maquina atacante pero no tenemos conexion directa desde symfonos-2 a nuestra maquina atacante. 
+#Nota: es importante entender que para enviarnos una reverse shell a nuestra maquina atacante pero no tenemos conexión directa desde symfonos-2 a nuestra maquina atacante. por lo tanto tenemos que enviar esta shell directamente a la maquina mas cercana entre la symfonos
 ![[Pasted image 20240619154619.png]]
