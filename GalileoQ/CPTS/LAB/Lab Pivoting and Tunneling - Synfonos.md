@@ -434,3 +434,4 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 | CVE-2018-20434 | LibreNMS 1.46 - 'addhost' Remote Code Execution | webapps | 9.8   | [LibreNMS](https://www.exploit-db.com/exploits/47044) |
 |                |                                                 |         |       |                                                       |
 |                |                                                 |         |       |                                                       |
+
