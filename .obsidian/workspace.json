@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef115c24ac743de",
+        "id": "c81f8085fbbd05e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ee6df42ab411eb35",
+            "id": "b9d056618beb9a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe89edb89ada91d2",
+            "id": "21db80e1b163f3be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +151,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fe89edb89ada91d2",
+  "active": "21db80e1b163f3be",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
-    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
@@ -186,7 +179,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
-    "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220545.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220252.png",
