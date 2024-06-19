@@ -381,3 +381,7 @@ efectivamente aquí tenemos el archivo `shadow` de la maquina symfonos-2
 ### hashcat
 copiamos las claves de los usuarios `aeolus y cronus` en un archivo llamado creds.tx y lo vamos a descifrar con hashcat
 ![[Pasted image 20240618220252.png]]
+
+`Status`
+obtenemos la clave del usuarios `aelous` y es
+![[Pasted image 20240618220545.png]]
