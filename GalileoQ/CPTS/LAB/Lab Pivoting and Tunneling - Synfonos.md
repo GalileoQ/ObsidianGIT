@@ -309,3 +309,7 @@ copiamos el binario de nmap a nuestro directorio actual y luego lo compartimos c
 de esta manera obtenemos el binario de nmap en la maquina victima
 ![[Pasted image 20240618204545.png]]
 
+### nmap
+con el binario de nmap ejecutado desde la maquina victima(symfonos-1) confirmamos que estos son los puertos abiertos en la maquina
+![[Pasted image 20240618205554.png]]
+
