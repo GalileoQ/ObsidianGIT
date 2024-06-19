@@ -401,5 +401,7 @@ primero que nada vamos a echar un vistazo a la web que esta corriendo en el puer
 ![[Pasted image 20240619130754.png]]
 
 ### Enumeración web Symfonos-2 (Port 80)
+en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel 
+![[Pasted image 20240619132508.png]]
 
 ![[Pasted image 20240619132257.png]]
