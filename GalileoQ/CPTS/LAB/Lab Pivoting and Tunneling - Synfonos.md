@@ -412,3 +412,6 @@ después de hacer Fuzzing no tenemos nada en esta web así que seguimos vamos a 
 primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
 ![[Pasted image 20240619130754.png]]
 
+### Enumeración web Symfonos-2 (Port 8080)
+ahora vamos
+![[Pasted image 20240619142027.png]]
