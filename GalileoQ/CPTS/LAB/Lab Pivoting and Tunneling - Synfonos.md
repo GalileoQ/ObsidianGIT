@@ -473,7 +473,13 @@ en este caso tenemos permisos root para ejecutar el binario `/usr/bin/mysql/` va
 ![[Pasted image 20240619164428.png]]
 
 ### GTFObins
-debemos ejecutar esta instrucción para lograr obtener unas bash 
+debemos ejecutar esta instrucción para lograr obtener unas bash con privilegios
 ![[Pasted image 20240619174020.png]]
+
+### Root
+explotando este binario logramos cons
+![[Pasted image 20240619174131.png]]
+
+
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
