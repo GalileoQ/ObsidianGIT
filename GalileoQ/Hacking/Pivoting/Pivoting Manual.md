@@ -1,3 +1,4 @@
+#
 Esta es la estructura de red que vamos a intentar replicar:
 ![[Pasted image 20240615202743.png]]
 

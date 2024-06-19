@@ -1,3 +1,4 @@
+#pivoting 
 Tendremos el siguiente escenario:
 ![[Pasted image 20240615202048.png]]
 

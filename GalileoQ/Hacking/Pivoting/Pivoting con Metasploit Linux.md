@@ -1,3 +1,4 @@
+#pivoting 
 ### CONFIGURACIÓN LABORATORIO
 Lo primero será ir a la parte de herramientas y Administrador de red: 
 ![[Pasted image 20240615202507.png]]
