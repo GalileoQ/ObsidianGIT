@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c81f8085fbbd05e3",
+        "id": "7c6ddc8c9843ef7f",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d056618beb9a64",
+            "id": "1dd373a8871243b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21db80e1b163f3be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md"
               }
             }
           }
@@ -159,11 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "21db80e1b163f3be",
+  "active": "1dd373a8871243b0",
   "lastOpenFiles": [
-    "GalileoQ/Template/Sin título.md",
-    "GalileoQ/Template",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Penting.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Template/Pentesting.md",
+    "GalileoQ/Template",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
@@ -187,7 +175,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Enumerar y Monturas de SMB.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220545.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220252.png",
