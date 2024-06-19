@@ -409,9 +409,9 @@ después de hacer Fuzzing no tenemos nada en esta web así que seguimos vamos a 
 ![[Pasted image 20240619134251.png]]
 
 ### Enumeración de puertos internos
-primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 80
+primero que nada vamos a echar un vistazo a la web que esta corriendo en el puerto 808
 ![[Pasted image 20240619130754.png]]
 
 ### Enumeración web Symfonos-2 (Port 8080)
-ahora vamos
+en nuestra pantalla de `Pivoting And Tunneling` vamos a crear un nuevo tunel para traernos el puerto 80 de la maquina symgonos-2 de manera local en nuestro puerto 8090 
 ![[Pasted image 20240619142027.png]]
