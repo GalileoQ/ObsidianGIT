@@ -323,5 +323,6 @@ ahora que estamos seguro de todos los puertos podemos realizar un nuevo escaneo 
 ![[Pasted image 20240618205838.png]]
 
 # Maquina Symfonos-2
+usando `proxychains smbmap` realizamos una enumeración de los recursos compartidos
+![[Pasted image 20240618210839.png]]
 
-![[Pasted image 20240618210645.png]]
