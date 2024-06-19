@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1796968dd0e99646",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "4cd40370aecad56a",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md"
               }
             }
           }
@@ -155,14 +166,17 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dba988d49185dee9",
+  "active": "1796968dd0e99646",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
+    "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162907.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162613.png",
@@ -173,7 +187,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619153907.png",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619151707.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619151518.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "Sin título.md",
@@ -205,7 +218,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Img",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion",
     "Sin título.canvas"
   ]
 }
