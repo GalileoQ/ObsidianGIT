@@ -292,3 +292,12 @@ lanzamos este bucle en el segundo segmento (ip2) para reconocer las `ips` que es
 
 ![[Pasted image 20240618203733.png]]
 
+### Transferencia de archivos
+
+```python
+	which nmap
+
+
+```
+
+![[Pasted image 20240618204241.png]]
