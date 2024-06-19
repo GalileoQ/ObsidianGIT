@@ -393,5 +393,6 @@ nos conectamos a la maquina symfonos-2 vía ssh usando como intermedio a proxych
 ![[Pasted image 20240618221228.png]]
 
 ### ip a
-enumerando el sistemas hemos conseguido una segunda red así que una ves consigamos escalar privilegios en este maquina debemos anumer
+enumerando el sistemas hemos conseguido una segunda red así que una ves consigamos escalar privilegios en este maquina debemos enumerar esta red 
 ![[Pasted image 20240619125654.png]]
+
