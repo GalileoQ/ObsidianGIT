@@ -404,7 +404,7 @@ tenemos una web parecida a la symfonos-1 de momento no tenemos nada importante
 ![[Pasted image 20240619132257.png]]
 
 ### Fuzzing Symfonos-2
-después de hacer Fuzzing no tenemos nada en esta web así que seguimos enumerando
+después de hacer Fuzzing no tenemos nada en esta web así que seguimos vamos a seguir enumerando para intentar obtener acceso privilegiado a la maq
 ![[Pasted image 20240619134251.png]]
 
 ### ip a
