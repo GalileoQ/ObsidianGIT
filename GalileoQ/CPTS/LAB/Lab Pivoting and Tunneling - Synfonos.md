@@ -428,7 +428,7 @@ hemos reutilizado las credenciales que de `aeolus` y obtenemos acceso a la web
 ![[Pasted image 20240619151518.png]]
 
 ### Vulnerabilidades
-esta
+esta vulnerabilidad crea un nuevo dispositivo y luego lo registra de en la web para posteriormente llamarlo
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                     | Tipo    | Nivel | Link                                                  |
 | -------------- | ----------------------------------------------- | ------- | ----- | ----------------------------------------------------- |
@@ -438,4 +438,5 @@ esta
 
 
 `Add Divice`
+
 ![[Pasted image 20240619153907.png]]
