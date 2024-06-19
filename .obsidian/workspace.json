@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ee6df42ab411eb35",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618221228.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220545.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618220252.png",
@@ -158,10 +160,8 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618214236.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618213211.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618212903.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240618211905.png",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Overpass1.md",
