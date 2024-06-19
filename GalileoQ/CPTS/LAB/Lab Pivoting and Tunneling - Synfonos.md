@@ -354,5 +354,5 @@ esta es la vulnerabilidad que vimos anteriormente que nos permite copiar archivo
 ```python
 ❯ searchsploit -x linux/remote/36742.txt
 ```
-básicamente esta vul
+básicamente esta vulnerabilidad nos indica que podemos hacer `site cpfr /etc/passwd (la ruta que queremos copiar) y despues `
 ![[Pasted image 20240618214236.png]]
