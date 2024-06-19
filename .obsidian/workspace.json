@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "Excalidraw/Pivoting.excalidraw"
               }
             }
           }
@@ -157,10 +158,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dba988d49185dee9",
+  "active": "ca0661964409ed55",
   "lastOpenFiles": [
-    "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
+    "Excalidraw/Pivoting.excalidraw",
     "Excalidraw/Pivoting.svg",
     "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.27.55.excalidraw.md",
