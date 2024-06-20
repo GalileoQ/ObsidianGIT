@@ -51,7 +51,7 @@ no encontramos gran cosa en la enumeración de directorios así que vamos a enum
 ![[Pasted image 20240612122933.png]]
 
 `health`
-este dominio nos estraga un ``
+este dominio nos estraga un `ok`
 ![[Pasted image 20240619203434.png]]
 ### Fuzzing con wfuzz (subtominios)
 tenemos un subdominio algo interesante. 
