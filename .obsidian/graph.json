@@ -6,7 +6,22 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#ActiveDirectory  ",
+      "color": {
+        "a": 1,
+        "rgb": 467428
+      }
+    },
+    {
+      "query": "tag:#hard  ",
+      "color": {
+        "a": 1,
+        "rgb": 15861511
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.8,
@@ -17,6 +32,6 @@
   "repelStrength": 10.4844290657439,
   "linkStrength": 0.472318339100346,
   "linkDistance": 272,
-  "scale": 0.09392927902847009,
+  "scale": 0.06699744995282444,
   "close": false
 }
