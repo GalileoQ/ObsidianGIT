@@ -46,7 +46,14 @@
       "query": "tag:#pivoting  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 6423556
+      }
+    },
+    {
+      "query": "path:GalileoQ/Hacki ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
