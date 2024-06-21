@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8be5cca533e931a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1594b2af8e5e402e",
+  "active": "8be5cca533e931a7",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
@@ -162,7 +168,6 @@
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
