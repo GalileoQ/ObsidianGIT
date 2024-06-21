@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "file:Img",
+      "query": "path:GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img  ",
       "color": {
         "a": 1,
         "rgb": 583529
