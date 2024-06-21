@@ -53,7 +53,7 @@
       "query": "path:GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img  ",
       "color": {
         "a": 1,
-        "rgb": 583529
+        "rgb": 15963883
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10.4844290657439,
   "linkStrength": 0.472318339100346,
   "linkDistance": 272,
-  "scale": 0.06699744995282451,
+  "scale": 0.09392927902847024,
   "close": false
 }

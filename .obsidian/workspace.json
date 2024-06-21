@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00350c426de905cc",
+        "id": "489590ba83c64e18",
         "type": "tabs",
         "children": [
           {
-            "id": "ee83ee0b3495edbf",
+            "id": "2a832bae71c807df",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee83ee0b3495edbf",
+  "active": "2a832bae71c807df",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
