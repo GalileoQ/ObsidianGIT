@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a832bae71c807df",
+            "id": "384222ef29b9796c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a832bae71c807df",
+  "active": "384222ef29b9796c",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
