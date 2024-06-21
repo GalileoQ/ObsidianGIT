@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "file": "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Chisel.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
               }
             }
           }
@@ -160,9 +159,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f0b8dcf44ebaf6a",
+  "active": "d7c406cfc82babdd",
   "lastOpenFiles": [
+    "Encontrar.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/Socat.md",
     "[[Socat]].md",
     "[[MAQUINA.md",
@@ -170,7 +172,6 @@
     "Lab.md",
     "[[Lab.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
@@ -181,7 +182,6 @@
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con máquina Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
-    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
@@ -193,7 +193,6 @@
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw/Pivoting.svg",
     "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 17.27.55.excalidraw.md",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
