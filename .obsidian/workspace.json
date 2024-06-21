@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa0f1982f90f67f",
+        "id": "40ac500171f1dd22",
         "type": "tabs",
         "children": [
           {
-            "id": "d970d35391172240",
+            "id": "485cb372ed9ee3cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d970d35391172240",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
     "GalileoQ/CPTS/nmap.md",
@@ -181,7 +174,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162907.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162613.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619160126.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619160023.png",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
