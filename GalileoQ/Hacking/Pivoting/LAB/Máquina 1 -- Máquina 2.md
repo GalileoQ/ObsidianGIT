@@ -1,3 +1,4 @@
+[[Lab Pivoting and Tunneling - Synfonos]]
 En la máquina 2, lo que debemos hacer es enviar el tráfico de esta máquina a la de atacante, y para ello usaremos chisel:
 ![[Pasted image 20240615204122.png]]
 

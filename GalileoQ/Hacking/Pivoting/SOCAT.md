@@ -1,3 +1,4 @@
+[[Lab Pivoting and Tunneling - Synfonos]]
 #pivoting 
 Dentro de la máquina Ubuntu intermedia, debemos ejecutar este comando para obtener una reverse shell de la máquina objetivo final hacia la máquina kali atacante, por lo que en primer lugar nos ponemos en escucha con netcat desde la máquina Kali:
 ![[Pasted image 20240615203355.png]]
