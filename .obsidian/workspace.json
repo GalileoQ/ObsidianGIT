@@ -11,8 +11,12 @@
             "id": "30ab1a098af6d297",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md"
+              }
             }
           }
         ]
@@ -141,8 +149,8 @@
   },
   "active": "30ab1a098af6d297",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
