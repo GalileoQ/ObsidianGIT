@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5f43e063b561205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -149,6 +161,7 @@
   },
   "active": "227cb7d8107155cd",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
@@ -163,7 +176,6 @@
     "GalileoQ/Hacking/Pivoting/Pivoting con máquina Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
