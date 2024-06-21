@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b296642191d5c5",
+        "id": "6c8b73d6de6f33c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c406cfc82babdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f0b8dcf44ebaf6a",
+            "id": "e78e6252de6482c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,13 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7c406cfc82babdd",
+  "active": "e78e6252de6482c1",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Socat.md",
+    "Encontrar.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Socat.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
-    "Encontrar.md",
     "[Encontrar.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
     "[[Socat]].md",
