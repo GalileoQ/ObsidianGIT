@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49657dd4a30b3a6b",
+        "id": "e8b296642191d5c5",
         "type": "tabs",
         "children": [
           {
-            "id": "39a55c355d8c4612",
+            "id": "d7c406cfc82babdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39a55c355d8c4612",
+  "active": "d7c406cfc82babdd",
   "lastOpenFiles": [
-    "[[MAQUINA.md",
+    "GalileoQ/Hacking/Pivoting/Socat.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "[[Socat]].md",
+    "[[MAQUINA.md",
     "[[Chisel]].md",
     "Lab.md",
     "[[Lab.md",
@@ -161,7 +163,6 @@
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
-    "GalileoQ/Hacking/Pivoting/Socat.md",
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
@@ -180,7 +181,6 @@
     "Excalidraw/Pivoting.svg",
     "Excalidraw/Drawing 2024-06-19 17.28.05.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 17.27.54.excalidraw.md",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
