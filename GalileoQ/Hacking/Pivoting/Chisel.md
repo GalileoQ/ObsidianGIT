@@ -1,4 +1,4 @@
-[[Lab Pivoting and Tunneling - Synfonos]]
+[[Lab Pivoting and Tunneling - Synfonos#MAQUINA SYNFONOS 1 - 10.0.2.5]]
 #pivoting 
 Chisel es una herramienta de pivoting compatible tanto con máquinas Windows como Linux. Nos permite de forma muy cómoda prácticamente obtener las mismas funciones que SSH (en el aspecto de Port Forwarding).
 
