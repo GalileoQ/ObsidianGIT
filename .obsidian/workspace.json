@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "227cb7d8107155cd",
+  "active": "b5f43e063b561205",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
