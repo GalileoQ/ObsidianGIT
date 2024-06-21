@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,21 +159,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f0b8dcf44ebaf6a",
+  "active": "d7c406cfc82babdd",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Pivoting/Socat.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "Encontrar.md",
     "[Encontrar.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
-    "GalileoQ/Hacking/Pivoting/Socat.md",
     "[[Socat]].md",
     "[[MAQUINA.md",
     "[[Chisel]].md",
     "Lab.md",
     "[[Lab.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
