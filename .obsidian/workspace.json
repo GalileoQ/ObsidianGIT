@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5498e8169809d7",
+        "id": "e9686bd0c6b9f2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "227cb7d8107155cd",
+            "id": "ac5d6accbbde4d26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f43e063b561205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5f43e063b561205",
+  "active": "ac5d6accbbde4d26",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
@@ -173,7 +153,6 @@
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con máquina Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
