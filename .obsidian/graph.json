@@ -50,10 +50,10 @@
       }
     },
     {
-      "query": "path:GalileoQ/Hacki ",
+      "query": "file:Img",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 583529
       }
     }
   ],
