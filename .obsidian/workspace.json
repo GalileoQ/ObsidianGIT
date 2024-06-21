@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f0b8dcf44ebaf6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Pivoting/Chisel.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7c406cfc82babdd",
+  "active": "9f0b8dcf44ebaf6a",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/Socat.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/Socat.md",
     "[[Socat]].md",
     "[[MAQUINA.md",
     "[[Chisel]].md",
