@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c13417aef643ae",
+        "id": "0e59231965ea502b",
         "type": "tabs",
         "children": [
           {
-            "id": "9c107c21aae8b6d4",
+            "id": "416ad294d209dcf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c107c21aae8b6d4",
+  "active": "416ad294d209dcf8",
   "lastOpenFiles": [
-    "Lab.md",
+    "[[Lab.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Lab.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
@@ -180,7 +181,6 @@
     "Excalidraw/Drawing 2024-06-19 17.27.54.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.27.36.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 17.22.32.excalidraw.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
