@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9686bd0c6b9f2c5",
+        "id": "b8c13417aef643ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5d6accbbde4d26",
+            "id": "9c107c21aae8b6d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+              }
             }
           }
         ]
@@ -139,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5d6accbbde4d26",
+  "active": "9c107c21aae8b6d4",
   "lastOpenFiles": [
+    "Lab.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
@@ -178,7 +187,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162907.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162613.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619160126.png",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
