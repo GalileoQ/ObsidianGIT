@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 15861511
       }
+    },
+    {
+      "query": "tag:#fuzzing  ",
+      "color": {
+        "a": 1,
+        "rgb": 6227175
+      }
+    },
+    {
+      "query": "tag:",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +46,6 @@
   "repelStrength": 10.4844290657439,
   "linkStrength": 0.472318339100346,
   "linkDistance": 272,
-  "scale": 0.06699744995282444,
+  "scale": 0.0939292790284701,
   "close": false
 }
