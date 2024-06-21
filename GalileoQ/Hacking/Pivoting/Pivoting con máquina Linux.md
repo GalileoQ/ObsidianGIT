@@ -1,3 +1,4 @@
+[[Lab Pivoting and Tunneling - Synfonos]]
 #pivoting 
 Usaremos la máquina friendly 1 intermedia y la máquina basic de vulnyx máquina final:
 ![[Pasted image 20240615202221.png]]

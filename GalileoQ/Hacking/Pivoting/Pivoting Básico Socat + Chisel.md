@@ -1,3 +1,4 @@
+[[Lab Pivoting and Tunneling - Synfonos]]
 #pivoting 
 Tendremos el siguiente escenario:
 ![[Pasted image 20240615202048.png]]
