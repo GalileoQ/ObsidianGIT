@@ -646,7 +646,7 @@ seguimos enumerando y conseguimos otra ruta llamada `research`
 ![[Pasted image 20240622185358.png]]
 
 `research`
-aquí nos cuentan una historia bastante interesante. sim embargo esto parece ser un `rabbi`
+aquí nos cuentan una historia bastante interesante. sim embargo esto parece ser un `rabbit hole` 
 ![[Pasted image 20240622185607.png]]
 
 ```python
@@ -699,5 +699,6 @@ nos dice que el directorio es `Forbidden` quiere decir que es prohibido. pensand
 ![[Pasted image 20240622190203.png]]
 
 `underworld`
-parece que existe algún comando o software ejecutándose aquí
+parece que existe algún comando o software ejecutándose aquí. si recargamos la pagina podemos ver que se esta actualizando
 ![[Pasted image 20240622190406.png]]
+
