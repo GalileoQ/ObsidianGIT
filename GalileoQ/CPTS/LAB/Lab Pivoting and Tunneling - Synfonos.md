@@ -546,3 +546,5 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
+
+### Maquina Symfonos-3
