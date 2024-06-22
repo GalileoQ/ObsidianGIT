@@ -608,3 +608,6 @@ primero que nada debemos configurar un `proxy` en el navegador para que el trafi
 de esta manera logramos tener conexión con `Symfonos-3` para enumerar la pagina web
 ![[Pasted image 20240622175113.png]]
 
+`Codigo fuente`
+
+![[Pasted image 20240622175304.png]]
