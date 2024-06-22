@@ -702,3 +702,5 @@ nos dice que el directorio es `Forbidden` quiere decir que es prohibido. pensand
 parece que existe algún comando o software ejecutándose aquí. si recargamos la pagina podemos ver que se esta actualizando
 ![[Pasted image 20240622190406.png]]
 
+### Vulnerabilidad cgi-bin
+
