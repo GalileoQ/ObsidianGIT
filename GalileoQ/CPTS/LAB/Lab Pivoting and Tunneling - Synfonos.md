@@ -724,7 +724,9 @@ nmap 10.2.1.31 -p 80 --script=http-shellshock --script-args uri=/cgi-bin/admin.c
 
 ahora solo debemos modificar un poco nuestro escaneo para que funcione en nuestra maquina
 ```python
-*Escaneo personalizado*
+	*Escaneo personalizado*
+
+sudo proxychains nmap -sT -p 80 -Pn --script=http-shellshock --script-args uri=/cgi-bin/underworld --max-retries=10 --host-timeout=30m 10.3.2.6
 ```
 
 ![[Pasted image 20240622193935.png]]
