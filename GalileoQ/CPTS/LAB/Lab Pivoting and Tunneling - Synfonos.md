@@ -497,7 +497,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 *Maquina Symfonos 1*
 ./socat TCP-LISTN:1331,fork TCP:10.2.2.7:9876
 
-*socat abre un puerto TCP en este caso le ind*
+*socat abre un puerto TCP en este caso le indicamos el 1331 y le decimos que toda la informacion que llegue a ese puerto sea redireccionada a la ip 10.2.2.7 en el puerto 9876* 
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
