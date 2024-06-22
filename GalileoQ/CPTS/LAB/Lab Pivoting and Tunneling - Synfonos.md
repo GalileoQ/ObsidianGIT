@@ -732,3 +732,5 @@ sudo proxychains nmap -sT -p 80 -Pn --script=http-shellshock --script-args uri=/
 efectivamente los `scripts` de nmap nos indican que la maquina es vulnerable a esta `CVE`
 ![[Pasted image 20240622194303.png]]
 
+
+![[Pasted image 20240622194632.png]]
