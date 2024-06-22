@@ -716,7 +716,9 @@ en la web nos indican que existe un script de nmap capaz de identificar esta vul
 ![[Pasted image 20240622191752.png]]
 
 ```python
+	*Test*
 
 nmap 10.2.1.31 -p 80 --script=http-shellshock --script-args uri=/cgi-bin/admin.cgi
 
 ```
+
