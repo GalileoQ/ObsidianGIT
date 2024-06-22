@@ -486,6 +486,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 # CONEXIÓN
 
 ```python
+*Maquina Atacante*
 > ./chisel server --reverse -p 8000
 
 > ./chisel client 10.0.2.4:8000 R:socks
