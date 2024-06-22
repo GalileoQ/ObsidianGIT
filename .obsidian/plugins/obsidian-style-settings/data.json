@@ -1,5 +1,6 @@
 {
   "shiba-theme-settings@@h3-font": "Righteous",
   "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
-  "shiba-theme-settings@@shiba-accent-colors": "accent-green"
+  "shiba-theme-settings@@shiba-accent-colors": "accent-green",
+  "shiba-theme-settings@@shib-callout-select": "shib-callout-style-4"
 }
