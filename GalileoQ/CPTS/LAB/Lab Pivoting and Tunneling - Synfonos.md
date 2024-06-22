@@ -625,7 +625,11 @@ gobuster dir -u http://10.3.2.6/ -w /usr/share/seclists/Discovery/Web-Content/ra
 vamos al dominio `/gate` y podemos ver otra imagen que esta en este dominio
 ![[Pasted image 20240622182657.png]]
 
+`gobuster`
+seguimos enumerando pero esta vez bajo el dominio de `gate`
+![[Pasted image 20240622184438.png]]
 
 `cyberus`
 encontramos otra imagen en el dominio `cyberus`
 ![[Pasted image 20240622184358.png]]
+
