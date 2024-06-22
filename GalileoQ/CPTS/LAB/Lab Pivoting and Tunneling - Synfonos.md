@@ -712,5 +712,11 @@ haciendo una búsqueda en internet sobre [cgi-bin/](https://book.hacktricks.xyz/
 |                |                             |      |       |                                                                                                                                |
 
 `Test`
-en la web nos indican que existe un script de nmap capaz de identificar esta vulnerabilidad y decirnos si es efectivamente vulnerable asi qjue
+en la web nos indican que existe un script de nmap capaz de identificar esta vulnerabilidad y decirnos si es efectivamente vulnerable así que vamos a probarlo
 ![[Pasted image 20240622191752.png]]
+
+```python
+
+nmap 10.2.1.31 -p 80 --script=http-shellshock --script-args uri=/cgi-bin/admin.cgi
+
+```
