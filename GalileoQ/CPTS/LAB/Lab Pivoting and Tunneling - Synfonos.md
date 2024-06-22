@@ -548,7 +548,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
 
-### Maquina Symfonos-3
+# Maquina Symfonos-3
 en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo túnel de socat en el puerto `3131` para que redirija el trafico hacia la `Maquina Attack` por el puerto `8000` 
 ![[Pasted image 20240622164436.png]]
 
@@ -578,3 +578,6 @@ realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 ```
 
 ![[Pasted image 20240622171654.png]]
+
+### Escaneo de nmap 
+![[Pasted image 20240622172824.png]]
