@@ -553,5 +553,5 @@ en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo túnel de so
 ![[Pasted image 20240622164436.png]]
 
 ### chisel 2
-una vez tengamos creado el tunel de `socat` vamos a conectarnos con chisel al tunel de `socat` para que eso
+una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al túnel de `socat` para la conexión sea redirigida hacia `Maquina Attack en el puerto 8000` con 
 ![[Pasted image 20240622165133.png]]
