@@ -556,3 +556,6 @@ en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo túnel de so
 una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al túnel de `socat` para la conexión sea redirigida hacia `Maquina Attack en el puerto 8000` con `chisel` nos conectamos a l`Maquina Symfonos-1 IP 10.2.2.6:3131` ya que esta es la interfaz que tiene visibilidad con `Symfonos-1` y le decimos que queremos una conexión de tipo `R:8888:socks` para que la conexión vaya por el puerto `8888`. de esta manera vemos en nuestro servidor de `chisel una nueva conexión proxy que viaja por el puerto 8888` 
 ![[Pasted image 20240622165133.png]]
 
+### Barrido de ip
+
+![[Pasted image 20240622171617.png]]
