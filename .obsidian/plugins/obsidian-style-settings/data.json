@@ -1,9 +1,1 @@
-{
-  "shiba-theme-settings@@h3-font": "Righteous",
-  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
-  "shiba-theme-settings@@shiba-accent-colors": "accent-green",
-  "shiba-theme-settings@@shib-callout-select": "shib-callout-style-1",
-  "shiba-theme-settings@@shib-callout-color-toggle": true,
-  "shiba-theme-settings@@shib-callout-toggle": true,
-  "shiba-theme-settings@@blockquote-style": "blockquote-style-quotation-mark"
-}
+{}
