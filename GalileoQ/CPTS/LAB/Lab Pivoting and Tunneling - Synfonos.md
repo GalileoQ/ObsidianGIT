@@ -507,7 +507,8 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 # EJEMPLO
 
 ```python
-*Enviar archivos desde maquina Symfonos-2 > Maquina Attack*
+
+	*Enviar archivos desde maquina Symfonos-1 > Maquina Attack*
 
 > tener establecido el canal de chisel servidor - cliente
 
@@ -537,7 +538,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 
 	*abrimos un puerto en la maquina Symfonos-1 (1441) y vamos a enviar todo lo que llegue a ese puerto hacia el servidor de Python*
 
-	
+	python3 -m http.server 9999
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
