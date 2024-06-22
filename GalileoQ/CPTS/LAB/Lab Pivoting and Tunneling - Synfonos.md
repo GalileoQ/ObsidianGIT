@@ -598,4 +598,5 @@ PORT   STATE SERVICE VERSION
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-![[Pasted image 20240622172824.png]]
+![[Pasted image 20240622173854.png]]
+
