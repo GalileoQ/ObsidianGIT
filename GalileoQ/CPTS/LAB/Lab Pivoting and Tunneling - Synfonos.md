@@ -509,7 +509,12 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 ```python
 *Enviar archivos desde maquina Symfonos-2 > Maquina Attack*
 
+> tener establecido el canal de chisel servidor - cliente
 
+	*Maquina Attack*
+	./chisel server --reverse -p 8000
+	
+	
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
