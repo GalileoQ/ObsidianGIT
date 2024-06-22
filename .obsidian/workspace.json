@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "socat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b83829ea40284bc1",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
