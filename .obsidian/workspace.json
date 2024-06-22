@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85cf082922019c28",
+        "id": "9914f0741142de0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc8d4ba92e92f28",
+            "id": "b83829ea40284bc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99eaf10ddad46ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Pivoting.excalidraw"
               }
             }
           }
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "Excalidraw/Pivoting.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "Excalidraw/Pivoting.excalidraw"
               }
             }
           }
@@ -159,10 +145,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "b83829ea40284bc1",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Excalidraw/Pivoting.excalidraw",
+    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
@@ -187,12 +174,10 @@
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting con máquina Linux.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618172810.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619174131.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619174020.png",
-    "Excalidraw/Pivoting.excalidraw",
     "Excalidraw/Pivoting.svg",
     "Excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619164428.png",
