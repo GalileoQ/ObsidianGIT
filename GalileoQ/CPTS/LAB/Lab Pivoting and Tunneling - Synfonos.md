@@ -732,5 +732,6 @@ sudo proxychains nmap -sT -p 80 -Pn --script=http-shellshock --script-args uri=/
 efectivamente los `scripts` de nmap nos indican que la maquina es vulnerable a esta `CVE`
 ![[Pasted image 20240622194303.png]]
 
-
+`Test curl`
+vamos a seguir realizando las pruebas para identificar cual de las vulnerabilidades se estan efectuando. para esto en la web nos indican unos comandos que podemos usar para 
 ![[Pasted image 20240622194632.png]]
