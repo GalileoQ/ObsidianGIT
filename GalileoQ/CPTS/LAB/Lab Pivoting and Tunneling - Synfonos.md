@@ -579,5 +579,6 @@ realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 
 ![[Pasted image 20240622171654.png]]
 
-### Escaneo de nmap 
+### proxychains nmap 
+realizamos un escaneo de nmap usando proxychains para que la conexion viaje por el tuel
 ![[Pasted image 20240622172824.png]]
