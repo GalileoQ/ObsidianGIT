@@ -642,5 +642,5 @@ podemos ver otra imagen mas sobre el dominio `gate/cerberus/tartarus/`
 ![[Pasted image 20240622184648.png]]
 
 `gobuster`
-
+seguimos enumerando y conseguimos otr
 ![[Pasted image 20240622185358.png]]
