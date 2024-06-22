@@ -642,5 +642,9 @@ podemos ver otra imagen mas sobre el dominio `gate/cerberus/tartarus/`
 ![[Pasted image 20240622184648.png]]
 
 `gobuster`
-seguimos enumerando y conseguimos otr
+seguimos enumerando y conseguimos otra ruta llamada `research`
 ![[Pasted image 20240622185358.png]]
+
+`research`
+aquí nos cuentan una historia entre varios dioses y 
+![[Pasted image 20240622185607.png]]
