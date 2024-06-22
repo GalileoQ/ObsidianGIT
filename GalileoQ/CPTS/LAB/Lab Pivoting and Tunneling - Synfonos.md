@@ -699,4 +699,5 @@ nos dice que el directorio es `Forbidden` quiere decir que es prohibido. pensand
 ![[Pasted image 20240622190203.png]]
 
 `underworld`
+parece que existe algun comando o software e
 ![[Pasted image 20240622190406.png]]
