@@ -733,5 +733,9 @@ efectivamente los `scripts` de nmap nos indican que la maquina es vulnerable a e
 ![[Pasted image 20240622194303.png]]
 
 `Test curl`
-vamos a seguir realizando las pruebas para identificar cual de las vulnerabilidades se estan efectuando. para esto en la web nos indican unos comandos que podemos usar para 
+vamos a seguir realizando las pruebas para identificar cual de las vulnerabilidades se están efectuando. para esto en la web nos indican unos comandos que podemos usar para determinar esto
+
 ![[Pasted image 20240622194632.png]]
+
+```pyth
+```
