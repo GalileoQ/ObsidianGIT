@@ -3,5 +3,7 @@
   "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
   "shiba-theme-settings@@shiba-accent-style": true,
   "shiba-theme-settings@@shiba-accent-colors": "accent-green",
-  "shiba-theme-settings@@shiba-italic-colors": "shib-italic-red"
+  "shiba-theme-settings@@shiba-italic-colors": "shib-italic-red",
+  "shiba-theme-settings@@h1-font": "Satoshi",
+  "shiba-theme-settings@@shib-h1-color-custom": "shib-h1-green"
 }
