@@ -565,8 +565,8 @@ realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 64 bytes from 10.3.2.1: icmp_seq=1 ttl=255 time=0.765 ms ||||| LOOPBACK
 64 bytes from 10.3.2.2: icmp_seq=1 ttl=128 time=0.720 ms ||||| BROADCAST
 64 bytes from 10.3.2.3: icmp_seq=1 ttl=255 time=0.212 ms ||||| GET-WEY
-64 bytes from 10.3.2.6: icmp_seq=1 ttl=64 time=0.229 ms
-64 bytes from 10.3.2.7: icmp_seq=1 ttl=64 time=0.013 ms
+64 bytes from 10.3.2.6: icmp_seq=1 ttl=64 time=0.229 ms  ||||| Maquina Symfonos-3
+64 bytes from 10.3.2.7: icmp_seq=1 ttl=64 time=0.013 ms  ||||| Maquina Symfonos-2
 ```
 
 ![[Pasted image 20240622171654.png]]
