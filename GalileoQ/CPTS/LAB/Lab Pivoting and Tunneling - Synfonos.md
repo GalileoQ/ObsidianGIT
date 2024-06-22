@@ -690,3 +690,6 @@ Sin embargo, todo esto cambió en algún momento y, según escritores posteriore
  Los prados de asfódelos. No sabemos mucho sobre Asphodel Meadows; podría haber sido un reino de absoluta neutralidad, pero sí sabemos que es allí donde Odiseo se encuentra con la sombra de Aquiles en La Odisea de Homero. No te aflijas en absoluto por tu muerte, Aquiles, le dice Odiseo, señalando al gran héroe que él es
 ```
 
+`gobuster`
+hemos cambiado el diccionario debido a que no hemos encontrado mas nada y volvemos a enumerar. en este caso el directorio `/cgi`
+![[Pasted image 20240622185924.png]]
