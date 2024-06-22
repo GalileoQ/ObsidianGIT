@@ -601,5 +601,9 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ![[Pasted image 20240622173854.png]]
 
 ### Enumeración Puerto 80 (Symfonos-3)
-primero que nada debemos configurar un `proxy` en el navegador para que el trafico viaje por el puerto `8888`
+primero que nada debemos configurar un `proxy` en el navegador para que el trafico viaje por el puerto `8888` usamos `foxyproxy`
 ![[Pasted image 20240622174949.png]]
+
+### web
+de esta mannera logramos tene
+![[Pasted image 20240622175113.png]]
