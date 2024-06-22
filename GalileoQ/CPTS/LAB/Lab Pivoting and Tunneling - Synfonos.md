@@ -507,9 +507,9 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 # EJEMPLO
 
 ```python
-
-	*Enviar archivos desde maquina Symfonos-1 > Maquina Attack*
-
+----------------------------------------------------------------------------------------------------------------------------------------
+	*Enviar archivos desde maquina Symfonos-2 > Maquina Attack | Maquina Attack > Symfonos-2*
+---------------------------------------------------------------------------------------------------------------------------------------
 > tener establecido el canal de chisel servidor - cliente
 
 	*Maquina Attack*
