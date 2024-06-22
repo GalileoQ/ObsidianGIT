@@ -553,5 +553,5 @@ en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo túnel de so
 ![[Pasted image 20240622164436.png]]
 
 ### chisel 2
-una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al túnel de `socat` para la conexión sea redirigida hacia `Maquina Attack en el puerto 8000` con `chisel` nos conectamos a l`Maquina Symfonos10.2.2.6:3131`
+una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al túnel de `socat` para la conexión sea redirigida hacia `Maquina Attack en el puerto 8000` con `chisel` nos conectamos a l`Maquina Symfonos-1 IP 10.2.2.6:3131` ya que esta es la interfaz que tiene visibilidad con `Symfonos-1` 
 ![[Pasted image 20240622165133.png]]
