@@ -703,4 +703,10 @@ parece que existe algún comando o software ejecutándose aquí. si recargamos l
 ![[Pasted image 20240622190406.png]]
 
 ### Vulnerabilidad cgi-bin
+haciendo una búsqueda en internet sobre `cgi-bin` hemos encontrado informaci;io
 
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
+| -------------- | --------------------------- | ---- | ----- | ---- |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
