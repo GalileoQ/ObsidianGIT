@@ -507,6 +507,9 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 # EJEMPLO
 
 ```python
+*Enviar archivos desde maquina Symfonos-2 > Maquina Attack*
+
 
 ```
+
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
