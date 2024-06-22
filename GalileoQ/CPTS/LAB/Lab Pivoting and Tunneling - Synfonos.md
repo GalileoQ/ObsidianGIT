@@ -520,7 +520,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	./chisel client 10.0.2.4:8000 R:socks
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-	``
+	
 	*Servidor Python: el servidor debe estar a la escucha en el mismo puerto donde se hace la conexion con socat*
 	python3 -m http.server 6666
 
