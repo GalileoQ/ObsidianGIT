@@ -497,7 +497,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 *Maquina Symfonos 1*
 ./socat TCP-LISTN:1331,fork TCP:10.2.2.7:9876
 
-
+*socat abre un puerto TCP en este caso le ind*
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
