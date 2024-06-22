@@ -552,5 +552,6 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo túnel de socat en el puerto `3131` para que redirija el trafico hacia la `Maquina Attack` por el puerto `8000` 
 ![[Pasted image 20240622164436.png]]
 
-
+### chisel 2
+una vez tengamos creado el tunel de `socat` vamos a conectarnos con chisel al tunel de `socat` para que eso
 ![[Pasted image 20240622165133.png]]
