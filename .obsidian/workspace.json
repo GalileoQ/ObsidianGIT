@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxych",
+                "query": "socat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,11 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cc8d4ba92e92f28",
+  "active": "99eaf10ddad46ce3",
   "lastOpenFiles": [
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
