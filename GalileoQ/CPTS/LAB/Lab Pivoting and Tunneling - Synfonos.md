@@ -691,5 +691,6 @@ Sin embargo, todo esto cambió en algún momento y, según escritores posteriore
 ```
 
 `gobuster`
-hemos cambiado el diccionario debido a que no hemos encontrado mas nada y volvemos a enumerar. en este caso el directorio `/cgi`
+hemos cambiado el diccionario debido a que no hemos encontrado mas nada y volvemos a enumerar. en este caso el directorio `/cgi-bin/` se ve muy interesante
 ![[Pasted image 20240622185924.png]]
+
