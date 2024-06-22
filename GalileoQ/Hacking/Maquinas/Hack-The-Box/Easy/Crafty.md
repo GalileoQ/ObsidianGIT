@@ -10,7 +10,7 @@ PING 10.10.11.249 (10.10.11.249) 56(84) bytes of data.
 rtt min/avg/max/mdev = 235.207/235.207/235.207/0.000 ms
 ```
 
-### TTL 127= Wondows
+### TTL 127= Windows
 ### nmap
 ```python
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-02-10 22:17 EST

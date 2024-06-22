@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "7e2115bed82dc1bc",
   "lastOpenFiles": [
-    "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
