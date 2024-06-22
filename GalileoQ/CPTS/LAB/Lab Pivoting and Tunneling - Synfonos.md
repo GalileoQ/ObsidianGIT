@@ -492,6 +492,7 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 *Maquina Symfonos1*
 > ./chisel client 10.0.2.4:8000 R:socks
 
+*Tunneling*
 > ./socat TCP-LISTN:1221,fork TCP:10.0.2.4:9001
 
 #Nota: para hacerlo de manera inversa, es decir. hacer una peticion a la symfonos-2 pasando por la maquina symfonos 1 debemos configurar otro tunel de socat de la siguiente manera:
