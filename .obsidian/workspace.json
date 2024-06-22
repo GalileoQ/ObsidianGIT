@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb3be84c80bea24",
+        "id": "2057bc9b0314f372",
         "type": "tabs",
         "children": [
           {
-            "id": "92134db81a80e50c",
+            "id": "9c6b5d3cdf76ba5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92134db81a80e50c",
+  "active": "9c6b5d3cdf76ba5e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618210645.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
@@ -186,7 +179,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619163334.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162907.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619162613.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619160126.png",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
