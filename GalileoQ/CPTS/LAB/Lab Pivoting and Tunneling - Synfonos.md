@@ -581,4 +581,21 @@ realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 
 ### proxychains nmap 
 realizamos un escaneo de nmap usando `proxychains` para que la conexión viaje por el túnel que hemos creado y podemos identificar los puertos abiertos
+###### nmap 
+```python
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     ProFTPD 1.3.5b
+22/tcp open  ssh     OpenSSH 7.4p1 Debian 10+deb9u6 (protocol 2.0)
+| ssh-hostkey: 
+|   2048 cd:64:72:76:80:51:7b:a8:c7:fd:b2:66:fa:b6:98:0c (RSA)
+|   256 74:e5:9a:5a:4c:16:90:ca:d8:f7:c7:78:e7:5a:86:81 (ECDSA)
+|_  256 3c:e4:0b:b9:db:bf:01:8a:b7:9c:42:bc:cb:1e:41:6b (ED25519)
+80/tcp open  http    Apache httpd 2.4.25 ((Debian))
+|_http-server-header: Apache/2.4.25 (Debian)
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+```
+
 ![[Pasted image 20240622172824.png]]
