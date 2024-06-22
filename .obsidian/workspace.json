@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e913473d03dd9a20",
+  "active": "ce5ad2761ae5c50c",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171654.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png",
