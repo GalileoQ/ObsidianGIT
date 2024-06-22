@@ -612,3 +612,10 @@ de esta manera logramos tener conexión con `Symfonos-3` para enumerar la pagina
 la nota hace alguna referencia a `bust` se me ocurre que quizás deberíamos usar `gobuster` para intentar descubrir subdominios
 ![[Pasted image 20240622175304.png]]
 
+### Fuzzing con gobuster
+con este comando podemos realizar Fuzzing  
+```python
+gobuster dir -u http://10.3.2.6/ -w /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt -t 20 --proxy socks5://127.0.0.1:8888
+```
+
+![[Pasted image 20240622182352.png]]
