@@ -633,3 +633,7 @@ seguimos enumerando pero esta vez bajo el dominio de `gate`
 encontramos otra imagen en el dominio `cyberus`
 ![[Pasted image 20240622184358.png]]
 
+`gobuster`
+seguimos enumerando y encontramos otro dominio
+![[Pasted image 20240622184613.png]]
+
