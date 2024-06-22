@@ -646,5 +646,47 @@ seguimos enumerando y conseguimos otra ruta llamada `research`
 ![[Pasted image 20240622185358.png]]
 
 `research`
-aquí nos cuentan una historia entre varios dioses y 
+aquí nos cuentan una historia bastante interesante
 ![[Pasted image 20240622185607.png]]
+
+```python
+	*Historia En Español*
+Escondido en lo profundo de las entrañas de la tierra y gobernado por el dios Hades y su esposa Perséfone, el inframundo era el reino de los muertos en la mitología griega, el lugar sin sol al que iban las almas de los que morían después de la muerte. Regado por las corrientes de cinco ríos (Estigia, Aqueronte, Cocito, Flegetonte y Leteo), el Inframundo estaba dividido en al menos cuatro regiones: el Tártaro (reservado para los peores transgresores), los Campos Elíseos (donde sólo habitaban los hombres más excelentes). habitaban), los Campos de Luto (para aquellos que fueron heridos por el amor) y los Prados de Asfódelos (para las almas de la mayoría de la gente común y corriente).
+
+La geografía del inframundo
+Gran parte de lo que sabemos sobre cómo los antiguos griegos y romanos imaginaron el inframundo lo conocemos gracias a la Odisea de Homero y la Eneida de Virgilio. Sin embargo, incluso estas dos visiones son algo contradictorias, por lo que, en ocasiones, tenemos que recurrir a suposiciones para reconstruir el inframundo griego en su totalidad.
+
+Entradas
+Según Homero, el inframundo estaba situado más allá del río Océano, que rodea la Tierra, en el extremo occidental del mundo. Sin embargo, algunos otros autores nos informan que había bastantes lugares dentro del mundo conocido que podían usarse como portales para ingresar al reino de los muertos:
+
+ Una caverna cerca de la antigua ciudad de Tenarus. Situada en la punta del promontorio medio del Peloponeso (conocido entonces como Cabo Tanaerum, y hoy llamado Cabo Matapan), la cueva existe hasta el día de hoy; Fue a través de esta cueva que Heracles arrastró a Cerbero fuera del Hades y Orfeo intentó traer a Eurídice de regreso al mundo de los vivos.
+
+ El lago Alcioniano sin fondo en Lerna. Custodiado por la temible Hidra, el Lago Alcioniano supuestamente fue utilizado por Dioniso para ingresar al Inframundo y buscar a su madre Sémele; algunos incluso dicen que Hades secuestró a Perséfone en sus inmediaciones.
+
+ El volcánico lago Averno. Ubicado en el sur de Italia, cerca de la ciudad de Nápoles, Averno se usaba a veces como sinónimo del inframundo en la época romana; Es a través de una cueva encontrada cerca de este lago que Eneas desciende al inframundo en la Eneida de Virgilio.
+
+ríos
+Según todos los relatos, el Inframundo era un lugar frío y sombrío, regado por las corrientes de cinco ríos infernales:
+
+ La Estigia. Dando vueltas al Inframundo siete veces, Styx era el río del odio y de los juramentos inquebrantables; A menudo se representa a los dioses haciendo votos junto a sus aguas.
+
+ El Aqueronte. El río de pena y dolor, negro y profundo.
+
+ El Cocito. El río de lamentos y lamentos.
+
+ El Flegetonte. El río de fuego, que posiblemente conduzca a las profundidades del Tártaro.
+
+ El Leteo. El río del olvido y del olvido, del que las almas muertas están obligadas a beber para olvidar su vida terrena en preparación a una posible reencarnación.
+
+Estructura
+Inicialmente, parece que los antiguos griegos creían que todas las almas, por ejemplares o deshonrosas que hubieran sido sus vidas terrenales, acababan en el mismo lugar después de la muerte. Y para la mayoría de ellos, el Inframundo no podía haber sido un lugar particularmente agradable: era más bien como vivir la misma pesadilla sombría una y otra vez, luchando por respirar en un mundo habitado por sombras, desprovisto de esperanza, mal iluminado y desolado. . Y así es como a veces los autores antiguos describen el inframundo: nada más que un reino triste donde se suponía que los muertos se desvanecerían lentamente en la nada o, como aprendemos del Mito de Er de Platón, se prepararían para una reencarnación de regreso a la tierra.
+
+Sin embargo, todo esto cambió en algún momento y, según escritores posteriores, el Inframundo se dividió en al menos cuatro regiones diferentes:
+
+ Tártaro. En La Ilíada, Zeus afirma que el Tártaro está "tan debajo del Hades como el cielo está sobre la tierra y que es el golfo más profundo bajo la tierra, cuyas puertas son de hierro y el umbral de bronce". Originalmente el calabozo de los rebeldes contra el orden divino (los cíclopes y los hecatónquiros durante el reinado de Cronos, y los titanes una vez que Zeus llegó al poder), el Tártaro terminó albergando a los peores perpetradores, destinados aquí a soportar eternamente castigos acordes a sus necesidades. crímenes terrenales. Algunos de los habitantes más famosos del Tártaro fueron Sísifo, Tántalo, Ixión y Ticio.
+
+ Los campos del luto. Como leemos en la Eneida, los Campos del Luto están reservados para las almas de aquellos a quienes el amor despiadado consumió; aquí vagan por senderos invisibles o en la oscuridad de un oscuro bosque de arrayanes: ni siquiera en la muerte han olvidado sus penas de antaño. Curiosamente, casi todos los habitantes del campo mencionados por Virgilio son mujeres: Fedra, Procris, Pasifae, Evadne, Laodamia y, por supuesto, Dido.
+
+ Los prados de asfódelos. No sabemos mucho sobre Asphodel Meadows; podría haber sido un reino de absoluta neutralidad, pero sí sabemos que es allí donde Odiseo se encuentra con la sombra de Aquiles en La Odisea de Homero. No te aflijas en absoluto por tu muerte, Aquiles, le dice Odiseo, señalando al gran héroe que él es
+```
+
