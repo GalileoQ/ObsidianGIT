@@ -557,5 +557,10 @@ una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al t
 ![[Pasted image 20240622165133.png]]
 
 ### Barrido de ip
+realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 
-![[Pasted image 20240622171617.png]]
+``
+
+
+
+![[Pasted image 20240622171654.png]]
