@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "socat",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99eaf10ddad46ce3",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
