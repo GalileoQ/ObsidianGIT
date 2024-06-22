@@ -503,4 +503,10 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 *socat abre un puerto TCP en este caso le indicamos el 1331 y le decimos que toda la informacion que llegue a ese puerto sea redireccionada a la ip 10.2.2.7 en el puerto 9876* 
 ```
 
+
+# EJEMPLO
+
+```python
+
+```
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
