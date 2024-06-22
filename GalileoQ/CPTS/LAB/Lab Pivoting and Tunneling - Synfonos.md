@@ -711,3 +711,6 @@ haciendo una búsqueda en internet sobre [cgi-bin/](https://book.hacktricks.xyz/
 | CVE-2012-2311  | CGI - RCE                   | web  | 8     | [CGI](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi#old-php--cgi-rce-cve-2012-1823-cve-2012-2311) |
 |                |                             |      |       |                                                                                                                                |
 
+`Test`
+en la web nos indican que existe un script de nmap capaz de identificar esta vulnerabilidad y decirnos si es efectivamente vulnerable asi qjue
+![[Pasted image 20240622191752.png]]
