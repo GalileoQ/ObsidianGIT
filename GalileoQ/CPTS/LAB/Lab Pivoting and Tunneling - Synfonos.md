@@ -622,5 +622,6 @@ gobuster dir -u http://10.3.2.6/ -w /usr/share/seclists/Discovery/Web-Content/ra
 ![[Pasted image 20240622182352.png]]
 
 `/gate`
-vamos al dominio `/gate` y podemos ver otra imagen que esta en este doi
+vamos al dominio `/gate` y podemos ver otra imagen que esta en este dominio
 ![[Pasted image 20240622182657.png]]
+
