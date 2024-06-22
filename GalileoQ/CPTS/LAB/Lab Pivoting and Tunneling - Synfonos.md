@@ -573,7 +573,7 @@ realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 	Interfaz de red 2: 10.3.2.7
 
 	*Maquina Symfonos-3*
-	 
+	IP: 10.3.2.6 
 
 ```
 
