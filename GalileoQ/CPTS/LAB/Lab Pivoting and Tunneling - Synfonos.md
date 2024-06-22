@@ -548,3 +548,5 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
 
 ### Maquina Symfonos-3
+en nuestra pantalla de `Tunneling And Ports` vamos a crear un nuevo tunel de socat en el puerto 3131
+![[Pasted image 20240622164436.png]]
