@@ -703,7 +703,7 @@ parece que existe algún comando o software ejecutándose aquí. si recargamos l
 ![[Pasted image 20240622190406.png]]
 
 ### Vulnerabilidad cgi-bin
-haciendo una búsqueda en internet sobre `cgi-bin` hemos encontrado informaci;io
+haciendo una búsqueda en internet sobre[cgi-bin/](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi) hemos encontrado información sobre esta vulnerabilidad que podría ayudarnos a explotarla.
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
