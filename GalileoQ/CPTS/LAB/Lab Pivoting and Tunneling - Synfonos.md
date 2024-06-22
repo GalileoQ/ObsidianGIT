@@ -640,3 +640,7 @@ seguimos enumerando y encontramos otro dominio
 `tartarus`
 podemos ver otra imagen mas sobre el dominio `gate/cerberus/tartarus/` 
 ![[Pasted image 20240622184648.png]]
+
+`gobuster`
+
+![[Pasted image 20240622185358.png]]
