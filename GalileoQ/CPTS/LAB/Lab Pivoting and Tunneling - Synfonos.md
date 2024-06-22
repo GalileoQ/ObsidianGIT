@@ -694,3 +694,6 @@ Sin embargo, todo esto cambió en algún momento y, según escritores posteriore
 hemos cambiado el diccionario debido a que no hemos encontrado mas nada y volvemos a enumerar. en este caso el directorio `/cgi-bin/` se ve muy interesante
 ![[Pasted image 20240622185924.png]]
 
+`cgi-bin/`
+nos dice que el 
+![[Pasted image 20240622190203.png]]
