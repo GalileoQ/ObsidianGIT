@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c6b5d3cdf76ba5e",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618210645.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
