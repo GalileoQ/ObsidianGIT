@@ -1,4 +1,6 @@
 {
   "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
-  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark"
+  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shiba-accent-colors": "accent-green"
 }
