@@ -695,6 +695,8 @@ hemos cambiado el diccionario debido a que no hemos encontrado mas nada y volvem
 ![[Pasted image 20240622185924.png]]
 
 `cgi-bin/`
-nos dice que el directorio es `Forbidden` quiere decir que es prohibido. pensando un poco me llama la atención la nota que hemos encontrado antes
+nos dice que el directorio es `Forbidden` quiere decir que es prohibido. pensando un poco me llama la atención la nota que hemos encontrado antes asi que vamos a apuntar hacia esa ruta `underworld`
 ![[Pasted image 20240622190203.png]]
 
+`underworld`
+![[Pasted image 20240622190406.png]]
