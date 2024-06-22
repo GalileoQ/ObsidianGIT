@@ -707,7 +707,7 @@ haciendo una búsqueda en internet sobre [cgi-bin/](https://book.hacktricks.xyz/
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2012-1823  |                             |      |       |      |
+| CVE-2012-1823  | CGI - RCE                   | web  |       |      |
 | CVE-2012-2311  |                             |      |       |      |
 |                |                             |      |       |      |
 
