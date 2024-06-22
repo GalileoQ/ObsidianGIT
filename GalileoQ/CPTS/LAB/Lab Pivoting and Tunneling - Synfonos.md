@@ -605,5 +605,6 @@ primero que nada debemos configurar un `proxy` en el navegador para que el trafi
 ![[Pasted image 20240622174949.png]]
 
 ### web
-de esta mannera logramos tene
+de esta manera logramos tener conexión con `Symfonos-3` para enumerar la pagina web
 ![[Pasted image 20240622175113.png]]
+
