@@ -637,3 +637,6 @@ encontramos otra imagen en el dominio `cyberus`
 seguimos enumerando y encontramos otro dominio
 ![[Pasted image 20240622184613.png]]
 
+`tartarus`
+podemos ver otra imagen mas sobre el dominio `gate/cerberus/tartarus/` 
+![[Pasted image 20240622184648.png]]
