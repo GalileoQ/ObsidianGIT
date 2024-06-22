@@ -512,8 +512,9 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 > tener establecido el canal de chisel servidor - cliente
 
 	*Maquina Attack*
-	./chisel server --reverse -p 8000
-	
+	./chisel server --reverse -p 8000	
+
+	*Maquina Symfonos-1*
 	
 ```
 
