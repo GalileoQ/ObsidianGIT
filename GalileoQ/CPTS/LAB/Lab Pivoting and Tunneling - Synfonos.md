@@ -705,10 +705,9 @@ parece que existe algún comando o software ejecutándose aquí. si recargamos l
 ### Vulnerabilidad cgi-bin
 haciendo una búsqueda en internet sobre [cgi-bin/](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi) hemos encontrado información sobre esta vulnerabilidad que podría ayudarnos a explotarla.
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2012-1823  | CGI - RCE                   | web  |       |      |
-| CVE-2012-2311  |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link                                                                                                                           |
+| -------------- | --------------------------- | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------ |
+| CVE-2012-1823  | CGI - RCE                   | web  | 9     | [CGI](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi#old-php--cgi-rce-cve-2012-1823-cve-2012-2311) |
+| CVE-2012-2311  | CGI - RCE                   | web  | 8     | [CGI](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/cgi#old-php--cgi-rce-cve-2012-1823-cve-2012-2311) |
+|                |                             |      |       |                                                                                                                                |
 
-## Old PHP + CGI = RCE (CVE-2012-1823, CVE-2012-2311)
