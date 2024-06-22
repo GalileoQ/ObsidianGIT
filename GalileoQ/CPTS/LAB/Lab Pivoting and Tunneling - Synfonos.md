@@ -722,3 +722,9 @@ nmap 10.2.1.31 -p 80 --script=http-shellshock --script-args uri=/cgi-bin/admin.c
 
 ```
 
+ahora solo debemos modificar un poco nuestro escaneo para que funcione en nuestra maquina
+```python
+*Escaneo personalizado*
+```
+
+![[Pasted image 20240622193935.png]]
