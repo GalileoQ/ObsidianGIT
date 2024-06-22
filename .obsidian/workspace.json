@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15c8b5c0f49eff90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md"
               }
             }
           }
@@ -147,10 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce5ad2761ae5c50c",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
@@ -176,7 +191,6 @@
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240619203434.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618172810.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240619174131.png",
