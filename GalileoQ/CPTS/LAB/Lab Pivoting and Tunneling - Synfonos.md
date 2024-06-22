@@ -729,4 +729,6 @@ ahora solo debemos modificar un poco nuestro escaneo para que funcione en nuestr
 sudo proxychains nmap -sT -p 80 -Pn --script=http-shellshock --script-args uri=/cgi-bin/underworld --max-retries=10 --host-timeout=30m 10.3.2.6
 ```
 
+efectivamente los `scripts` de nmap nos indican que la maquina es vulnerable a esta `CVE`
 ![[Pasted image 20240622193935.png]]
+
