@@ -559,8 +559,14 @@ una vez tengamos creado el túnel de `socat` vamos a conectarnos con chisel al t
 ### Barrido de ip
 realizamos el barrido de red para identificar la ip de `Maquina Symfonos-3`
 
-``
+```python
+> for i in {1..256} ;do (ping -c 1 10.3.2.$i | grep "bytes from" &) ;done
 
-
+64 bytes from 10.3.2.1: icmp_seq=1 ttl=255 time=0.765 ms 
+64 bytes from 10.3.2.2: icmp_seq=1 ttl=128 time=0.720 ms
+64 bytes from 10.3.2.3: icmp_seq=1 ttl=255 time=0.212 ms
+64 bytes from 10.3.2.6: icmp_seq=1 ttl=64 time=0.229 ms
+64 bytes from 10.3.2.7: icmp_seq=1 ttl=64 time=0.013 ms
+```
 
 ![[Pasted image 20240622171654.png]]
