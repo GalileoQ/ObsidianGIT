@@ -6,8 +6,8 @@
   "shiba-theme-settings@@shiba-italic-colors": "shib-italic-red",
   "shiba-theme-settings@@h1-font": "Satoshi",
   "shiba-theme-settings@@shib-h1-color-custom": "shib-h1-green",
-  "shiba-theme-settings@@h3-font": "Fredoka One",
   "shiba-theme-settings@@shib-h3-color-custom": "shib-h3-cyan",
   "shiba-theme-settings@@shiba-alt-tab-style": "shib-floating-animated-tab-toggle",
-  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass"
+  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass",
+  "shiba-theme-settings@@h3-font": "Anton"
 }
