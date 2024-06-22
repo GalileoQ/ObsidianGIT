@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99eaf10ddad46ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proxych",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,12 +163,13 @@
   "active": "9cc8d4ba92e92f28",
   "lastOpenFiles": [
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618210645.png",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "Encontrar.md",
     "GalileoQ/Hacking/Pivoting/Socat.md",
@@ -169,7 +183,6 @@
     "[[Lab.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
