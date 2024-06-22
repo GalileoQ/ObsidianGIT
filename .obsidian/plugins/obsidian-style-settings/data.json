@@ -7,5 +7,6 @@
   "shiba-theme-settings@@h1-font": "Satoshi",
   "shiba-theme-settings@@shib-h1-color-custom": "shib-h1-green",
   "shiba-theme-settings@@h3-font": "Satoshi",
-  "shiba-theme-settings@@shib-h3-color-custom": "shib-h3-cyan"
+  "shiba-theme-settings@@shib-h3-color-custom": "shib-h3-cyan",
+  "shiba-theme-settings@@shiba-alt-tab-style": "shib-floating-animated-tab-toggle"
 }
