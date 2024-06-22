@@ -613,7 +613,8 @@ la nota hace alguna referencia a `bust` se me ocurre que quizás deberíamos usa
 ![[Pasted image 20240622175304.png]]
 
 ### Fuzzing con gobuster
-con este comando podemos realizar Fuzzing a la web pasando el trafico por el `proxy` usando la conexión `socks5://` 
+con este comando podemos realizar Fuzzing a la web pasando el trafico por el `proxy` usando la conexión `socks5://127.0.0.1:8888` 
+
 ```python
 gobuster dir -u http://10.3.2.6/ -w /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt -t 20 --proxy socks5://127.0.0.1:8888
 ```
