@@ -1,13 +1,3 @@
 {
-  "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
-  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
-  "shiba-theme-settings@@shiba-accent-style": true,
-  "shiba-theme-settings@@shiba-accent-colors": "accent-green",
-  "shiba-theme-settings@@shiba-italic-colors": "shib-italic-red",
-  "shiba-theme-settings@@h1-font": "Satoshi",
-  "shiba-theme-settings@@shib-h1-color-custom": "shib-h1-green",
-  "shiba-theme-settings@@shib-h3-color-custom": "shib-h3-cyan",
-  "shiba-theme-settings@@shiba-alt-tab-style": "shib-floating-animated-tab-toggle",
-  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass",
-  "shiba-theme-settings@@h3-font": "Anton"
+  "shiba-theme-settings@@h1-font": "Syne"
 }
