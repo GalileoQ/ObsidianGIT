@@ -611,3 +611,4 @@ de esta manera logramos tener conexión con `Symfonos-3` para enumerar la pagina
 `Codigo fuente`
 la nota hace alguna referencia a `bust` se me ocurre que quizás deberíamos usar `gobuster` para intentar descubrir subdominios
 ![[Pasted image 20240622175304.png]]
+
