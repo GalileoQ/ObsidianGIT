@@ -838,5 +838,5 @@ El comando `ls -lsaht /opt` proporciona una lista detallada y ordenada por fecha
 ![[Pasted image 20240622211229.png]]
 
 `/opt/ftpclient`
-haciendo un cat 
+haciendo un `cat` al script `ftpclient.py` nos damos cuenta que es el script que esta generando la conexión ftp que intercepta 
 ![[Pasted image 20240622211512.png]]
