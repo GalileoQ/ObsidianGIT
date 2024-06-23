@@ -757,6 +757,7 @@ curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bi
 
 ```
 
-ahora lo que podemos 
+ahora lo que podemos hacer es probar si tenemos ejecución de comandos en esta parte de la petición
 ![[Pasted image 20240622195528.png]]
 
+`Maqu`
