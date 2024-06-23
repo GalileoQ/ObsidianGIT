@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03fff094a5cd9cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce5ad2761ae5c50c",
+  "active": "03fff094a5cd9cff",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622202427.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622202239.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622201412.png",
@@ -160,8 +174,6 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622191752.png",
     "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622190406.png",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw/Drawing 2024-06-22 11.02.35.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
