@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
               }
             }
           }
@@ -160,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03fff094a5cd9cff",
+  "active": "ce5ad2761ae5c50c",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622204717.png",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622202427.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622202239.png",
@@ -197,7 +198,6 @@
     "[Encontrar.md",
     "[[Socat]].md",
     "[[MAQUINA.md",
-    "[[Chisel]].md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",

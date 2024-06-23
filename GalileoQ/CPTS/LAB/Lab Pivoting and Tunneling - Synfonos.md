@@ -778,7 +778,7 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 
 ```
 
-![[Pasted image 20240622201412.png]]
+![[Pasted image 20240622204717.png]]
 
 `Paso-2 - Maquina Symfonos 2`
 ```python
