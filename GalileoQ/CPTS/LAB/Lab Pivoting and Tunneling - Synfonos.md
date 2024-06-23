@@ -766,3 +766,4 @@ desde nuestra maquina lanzamos el comando haciendo un `curl` hacia la dirección
 `Maquina Symfonos-2`
 con un servidor en la maquina `symfonos-2` podemos verificar que al hacer la petición obtenemos un `200 ok` 
 ![[Pasted image 20240622200445.png]]
+
