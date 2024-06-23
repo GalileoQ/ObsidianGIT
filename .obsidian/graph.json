@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ActiveDirectory  ",
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.36314878892734,
   "lineSizeMultiplier": 0.600173010380623,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.506920415224914,
   "repelStrength": 20,
   "linkStrength": 0.472318339100346,
   "linkDistance": 272,
-  "scale": 0.0078125,
+  "scale": 0.04231590268975918,
   "close": false
 }
