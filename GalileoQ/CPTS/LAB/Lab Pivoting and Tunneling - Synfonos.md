@@ -833,7 +833,8 @@ con el comando `tcpdump -i lo` vamos a capturar y analizar el tráfico de red qu
 después de capturas las credenciales del usuario hades hemos logrado cambiar de usuario el cual explotaremos para intentar escalar privilegios
 ![[Pasted image 20240622210959.png]]
 
-### ls -lsaht
+### Escalada de privilegios
+###### ls -lsaht
 El comando `ls -lsaht /opt` proporciona una lista detallada y ordenada por fecha de modificación de todos los archivos y directorios en una ruta especificada. aqui podemos ver que tenemos un directorio
 ![[Pasted image 20240622211229.png]]
 
@@ -863,3 +864,4 @@ de esta manera logramos ser root
 ![[Pasted image 20240622213815.png]]
 
 ### WE ARE ROOT
+### LAB COMPLETE
