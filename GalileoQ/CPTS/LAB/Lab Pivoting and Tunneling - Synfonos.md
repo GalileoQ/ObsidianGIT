@@ -789,3 +789,10 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 
 ![[Pasted image 20240622202239.png]]
 
+`Paso-3 Maquina Attack`
+
+```python
+crea
+```
+
+![[Pasted image 20240622202427.png]]
