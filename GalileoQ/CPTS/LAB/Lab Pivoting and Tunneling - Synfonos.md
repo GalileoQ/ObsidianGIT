@@ -822,5 +822,6 @@ el comando id nos da información sobre el grupo `pcap` del cual somos miembros 
 ![[Pasted image 20240622205653.png]]
 
 ### tcpdump
-con el comando `tcpdump -D`
+con el comando `tcpdump -D` vamos a listar todas las interfaces de red disponibles en el sistema que `tcpdump` puede utilizar para capturar tráfico de red debido a que pertenecemos al grupo `pcap`
 ![[Pasted image 20240622210047.png]]
+
