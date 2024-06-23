@@ -760,9 +760,9 @@ curl -H 'User-Agent: () { :; }; /bin/bash -c "sleep 5"' http://10.11.2.12/cgi-bi
 ahora lo que podemos hacer es probar si tenemos ejecución de comandos en esta parte de la petición
 ![[Pasted image 20240622195528.png]]
 
-`Maquina Symfonos-2`
-con un servidor en la maquina `symfonos-2` podemos verificar que al hacer una petición obtenemos un `200 ok` 
-![[Pasted image 20240622200445.png]]
-
-desde nuestra maquina lanzamos el comando haciendo un `curl` hacia la dirección IP de la `Symfonos-2` que tiene conexión con la `symfonos-3` en este caso es la `IP: 10.3.`
+desde nuestra maquina lanzamos el comando haciendo un `curl` hacia la dirección IP de la `Symfonos-2` que tiene conexión con la `symfonos-3` en este caso es la `IP: 10.3.2.7:90` y apuntamos al puerto que tendremos a la escucha en el servidor de python en la maquina `Symfonos-2`
 ![[Pasted image 20240622200426.png]]
+
+`Maquina Symfonos-2`
+con un servidor en la maquina `symfonos-2` podemos verificar que al hacer la petición obtenemos un `200 ok` 
+![[Pasted image 20240622200445.png]]
