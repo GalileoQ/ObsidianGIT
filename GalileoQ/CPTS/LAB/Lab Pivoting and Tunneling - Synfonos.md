@@ -768,4 +768,7 @@ con un servidor en la maquina `symfonos-2` podemos verificar que al hacer la pet
 ![[Pasted image 20240622200445.png]]
 
 ### Reverse shell tunneling
-ahora debemos solo debemos enviarnos una 
+ahora debemos solo debemos enviarnos una shell a nuestra maquina de atacante. para poder realizar esto vamos a montar un tunel con socat en la maquina `Symfonos-1` 
+`Maquina Symfonos-2`
+con un servidor en la maquina `symfonos-2` podemos verificar que al hacer una petición obtenemos un `200 ok` 
+![[Pasted image 20240622200445.png]]
