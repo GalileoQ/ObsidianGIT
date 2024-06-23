@@ -837,3 +837,6 @@ después de capturas las credenciales del usuario hades hemos logrado cambiar de
 El comando `ls -lsaht /opt` proporciona una lista detallada y ordenada por fecha de modificación de todos los archivos y directorios en una ruta especificada. aqui podemos ver que tenemos un directorio
 ![[Pasted image 20240622211229.png]]
 
+`/opt/ftpclient`
+haciendo un cat 
+![[Pasted image 20240622211512.png]]
