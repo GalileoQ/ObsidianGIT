@@ -825,3 +825,6 @@ el comando id nos da información sobre el grupo `pcap` del cual somos miembros 
 con el comando `tcpdump -D` vamos a listar todas las interfaces de red disponibles en el sistema que `tcpdump` puede utilizar para capturar tráfico de red debido a que pertenecemos al grupo `pcap`
 ![[Pasted image 20240622210047.png]]
 
+`tcpdump -i lo`
+con el comando `tcpdump -i lo` se utiliza para capturar y analizar el tráfico de red que pasa a través de la interfaz de loopback (lo). La interfaz de loopback es una interfaz virtual utilizada principalmente para las comunicaciones dentro del propio sistema
+![[Pasted image 20240622210437.png]]
