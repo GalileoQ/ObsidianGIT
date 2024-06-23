@@ -784,10 +784,10 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 ```python
 crear un tunel con socat por el cual nuestra peticion viajara desde la maquina Symfonos-2 hacia la Symfonos-1
 
-./socat TCP-LISTEN:3333,fork TCP:10.3.2.7:6060
+./socat TCP-LISTEN:3464,fork TCP:10.3.2.6:3232
 ```
 
-![[Pasted image 20240622202239.png]]
+![[Pasted image 20240622204749.png]]
 
 `Paso-3 Maquina Attack`
 
@@ -799,3 +799,4 @@ python3 -m http.server 6060
 
 ![[Pasted image 20240622202427.png]]
 
+`Paso-3 `
