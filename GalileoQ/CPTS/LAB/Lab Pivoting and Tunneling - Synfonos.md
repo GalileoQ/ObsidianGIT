@@ -792,7 +792,9 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 `Paso-3 Maquina Attack`
 
 ```python
-crea
+crear un servidor en python para estar a la escucha, este servidor debe estar en el mismo puerto que estamos usando el socat para redirigir el trafico
+
+python3 -m http.server 6060
 ```
 
 ![[Pasted image 20240622202427.png]]
