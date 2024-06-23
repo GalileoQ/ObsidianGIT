@@ -821,3 +821,6 @@ nos aseguramos que no existen mas interfaz de red por lo cual ya no tenemos mas 
 el comando id nos da información sobre el grupo `pcap` del cual somos miembros así que podemos sniffar el trafico de la maquina para ver que podemos conseguir 
 ![[Pasted image 20240622205653.png]]
 
+### tcpdump
+con el comando `tcpdump -D`
+![[Pasted image 20240622210047.png]]
