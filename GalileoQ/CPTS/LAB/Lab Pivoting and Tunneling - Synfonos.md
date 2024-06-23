@@ -799,4 +799,10 @@ python3 -m http.server 6060
 
 ![[Pasted image 20240622202427.png]]
 
-`Paso-3 `
+`Paso-4 Symfonos-3`
+
+```python
+
+```
+
+![[Pasted image 20240622204920.png]]
