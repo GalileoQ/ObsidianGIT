@@ -764,5 +764,5 @@ ahora lo que podemos hacer es probar si tenemos ejecución de comandos en esta p
 con un servidor en la maquina `symfonos-2` podemos verificar que al hacer una petición obtenemos un `200 ok` 
 ![[Pasted image 20240622200445.png]]
 
-desde nuestra maquina lanzamos el comando haciendo un `curl` hacia la dirección IP de la Symfonos-2
+desde nuestra maquina lanzamos el comando haciendo un `curl` hacia la dirección IP de la `Symfonos-2` que tiene conexión con la `symfonos-3` en este caso es la `IP: 10.3.`
 ![[Pasted image 20240622200426.png]]
