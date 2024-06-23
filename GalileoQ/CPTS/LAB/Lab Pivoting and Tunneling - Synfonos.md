@@ -863,6 +863,7 @@ si hacemos un `cat` del archivo podemos ver que hemos agregado la linea para cam
 de esta manera logramos ser root
 ![[Pasted image 20240622213815.png]]
 
-![[Pasted image 20240622214031.png]]
 ### WE ARE ROOT
 ### LAB COMPLETE
+![[Pasted image 20240622214031.png]]
+
