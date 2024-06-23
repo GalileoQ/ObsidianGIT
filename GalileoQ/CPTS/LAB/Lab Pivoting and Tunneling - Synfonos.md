@@ -814,5 +814,9 @@ efectivamente. la conexión ha viajado desde  `Symfonos-3` > `Symfonos-2` > `Sym
 ![[Pasted image 20240622205127.png]]
 
 `ip a`
-nos aseguramos que no existen mas interfaz de red por lo cual ya no tenemos mas maquinas para pivotar asi que nos queda solo escalar privilegios
+nos aseguramos que no existen mas interfaz de red por lo cual ya no tenemos mas maquinas para pivotar así que nos queda solo escalar privilegios 
 ![[Pasted image 20240622205522.png]]
+
+`id`
+el comando id nos da informacion sobre el grupo pcap del cual somos miembros asi que podemos sniffar el traficco
+![[Pasted image 20240622205653.png]]
