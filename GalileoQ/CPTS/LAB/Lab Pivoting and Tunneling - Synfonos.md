@@ -782,5 +782,7 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 
 `Paso-2 - Maquina Symfonos 2`
 ```python
+crear un tunel con socat por el cual nuestra peticion viajara desde la maquina Symfonos-2 hacia la Symfonos-1
 
+./socat TCP-LISTEN:3333,fork TCP:10.3.2.7:6060
 ```
