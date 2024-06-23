@@ -844,3 +844,4 @@ haciendo un `cat` al script `ftpclient.py` nos damos cuenta que es el script que
 `ftplib`
 revisando la librería nos damos cuenta que tenemos permisos de escritura
 ![[Pasted image 20240622212156.png]]
+
