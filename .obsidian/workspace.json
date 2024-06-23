@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e4f5c41127e68e4d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4f5c41127e68e4d",
+  "active": "1da1e300de815a30",
   "lastOpenFiles": [
+    "Excalidraw/Pivoting.excalidraw",
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622172824.png",
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622214738.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622214600.png",
@@ -165,11 +153,8 @@
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622213510.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622212156.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622211512.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622211229.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240622210959.png",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Template/Pentesting.md",
-    "Excalidraw/Pivoting.excalidraw",
     "Excalidraw/Drawing 2024-06-22 11.02.35.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Pivoting/Socat.md",
