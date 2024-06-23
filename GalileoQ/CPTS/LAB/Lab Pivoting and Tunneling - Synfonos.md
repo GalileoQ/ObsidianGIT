@@ -830,5 +830,6 @@ con el comando `tcpdump -i lo` vamos a capturar y analizar el tráfico de red qu
 ![[Pasted image 20240622210437.png]]
 
 ### Movimiento lateral (User Pivoting)
-despues de capturas las credenciales del usuario hades hemos logrado cambiar de usuario el cual explotaremos para intentar escalar pri
+después de capturas las credenciales del usuario hades hemos logrado cambiar de usuario el cual explotaremos para intentar escalar privilegios
 ![[Pasted image 20240622210959.png]]
+
