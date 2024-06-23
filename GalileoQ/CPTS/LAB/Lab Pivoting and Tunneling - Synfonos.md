@@ -786,3 +786,6 @@ crear un tunel con socat por el cual nuestra peticion viajara desde la maquina S
 
 ./socat TCP-LISTEN:3333,fork TCP:10.3.2.7:6060
 ```
+
+![[Pasted image 20240622202239.png]]
+
