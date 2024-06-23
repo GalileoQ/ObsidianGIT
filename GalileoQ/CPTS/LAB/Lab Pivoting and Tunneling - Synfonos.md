@@ -826,5 +826,6 @@ con el comando `tcpdump -D` vamos a listar todas las interfaces de red disponibl
 ![[Pasted image 20240622210047.png]]
 
 `tcpdump -i lo`
-con el comando `tcpdump -i lo` vamos a capturar y analizar el tráfico de red que pasa a través de la interfaz de loopback (lo). La interfaz de loopback es una interfaz virtual utilizada principalmente para las comunicaciones internas del sistema. en este caso podemos ver que se estan ejecutando unas conexiónes 
+con el comando `tcpdump -i lo` vamos a capturar y analizar el tráfico de red que pasa a través de la interfaz de loopback (lo). La interfaz de loopback es una interfaz virtual utilizada principalmente para las comunicaciones internas del sistema. en este caso podemos ver que se están ejecutando unas conexiones hacia el servicio `FTP` y podemos ver las credenciales en texto claro
 ![[Pasted image 20240622210437.png]]
+
