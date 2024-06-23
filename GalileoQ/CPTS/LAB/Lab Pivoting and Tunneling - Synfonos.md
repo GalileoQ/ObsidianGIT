@@ -818,5 +818,6 @@ nos aseguramos que no existen mas interfaz de red por lo cual ya no tenemos mas 
 ![[Pasted image 20240622205522.png]]
 
 `id`
-el comando id nos da informacion sobre el grupo pcap del cual somos miembros asi que podemos sniffar el traficco
+el comando id nos da información sobre el grupo `pcap` del cual somos miembros así que podemos sniffar el trafico de la maquina para ver que podemos conseguir 
 ![[Pasted image 20240622205653.png]]
+
