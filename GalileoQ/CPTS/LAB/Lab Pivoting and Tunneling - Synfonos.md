@@ -761,3 +761,8 @@ ahora lo que podemos hacer es probar si tenemos ejecución de comandos en esta p
 ![[Pasted image 20240622195528.png]]
 
 `Maquina Symfonos-2`
+
+
+
+
+![[Pasted image 20240622200426.png]]
