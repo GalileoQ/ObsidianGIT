@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "7d8616b3bd2ef74f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622172824.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622171617.png",
