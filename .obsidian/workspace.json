@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transforma",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md"
               }
             }
           }
@@ -159,6 +158,7 @@
   },
   "active": "7d8616b3bd2ef74f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
@@ -195,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
