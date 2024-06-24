@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transforma",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md"
               }
             }
           }
@@ -158,6 +159,9 @@
   },
   "active": "7d8616b3bd2ef74f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Windows Tools.md",
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "Excalidraw/Pivoting.excalidraw",
@@ -192,9 +196,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
-    "Encontrar.md",
-    "[Encontrar.md",
-    "[[Socat]].md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
