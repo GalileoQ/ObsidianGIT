@@ -129,5 +129,8 @@ creamos un volumen que este asociado a el dispositivo principal en la raíz del 
 ![[Pasted image 20240627184401.png]]
 
 ``volumens
-ya tenemos el volumen creado asi que solo nos falta 
+ya tenemos el volumen creado así que solo nos falta crear un contenedor. 
 ![[Pasted image 20240627184421.png]]
+
+`Con`
+![[Pasted image 20240627184540.png]]
