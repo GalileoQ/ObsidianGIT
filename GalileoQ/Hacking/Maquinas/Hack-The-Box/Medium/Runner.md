@@ -138,4 +138,7 @@ ahora crearemos el contenedor haciendo clic en `Containers >> Add container`
 
 `container`
 en la primera parte solo debemos colocar el nombre del container en este caso se llamara `pwny`
-![[Pasted image 20240627184645.png]]
+![[Pasted image 20240627184843.png]]
+
+`Imagenes`
+![[Pasted image 20240627184809.png]]
