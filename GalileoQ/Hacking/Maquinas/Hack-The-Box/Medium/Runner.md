@@ -141,5 +141,8 @@ en la primera parte debemos colocar el nombre del container en este caso se llam
 ![[Pasted image 20240627184843.png]]
 
 `Imagenes`
-aqui podemos hacer clic en la imagen y copiar el id completo de la imagen sha256:ca.........................................`
+aquí podemos hacer clic en la imagen y copiar el id completo de la imagen `sha256:ca.........................................`
 ![[Pasted image 20240627184809.png]]
+
+`Advanced`
+![[Pasted image 20240627185134.png]]
