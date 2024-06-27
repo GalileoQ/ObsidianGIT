@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "7d8616b3bd2ef74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d8616b3bd2ef74f",
+  "active": "1da1e300de815a30",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627185753.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627185649.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627185437.png",
@@ -168,10 +152,8 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184540.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184421.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184401.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184335.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
