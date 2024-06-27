@@ -121,5 +121,6 @@ tenemos la versión del CMS
 ![[Pasted image 20240627172903.png]]
 
 `volumens`
-hacemos clic en el contenedor primary
+hacemos clic en el contenedor `primary` luego vamos a `volumes` y luego vamos a `Add volume`
 ![[Pasted image 20240627183840.png]]
+
