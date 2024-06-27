@@ -79,3 +79,8 @@ podemos encontrar 2 usuarios (John y Matthew)
 `Backup`
 también podemos ver un apartado para iniciar una copia de seguridad. podemos descargarlo y analizarla en local
 ![[Pasted image 20240627140457.png]]
+
+`backup`
+tenemos un archivo users que contiene 2 hash
+![[Pasted image 20240627142921.png]]
+
