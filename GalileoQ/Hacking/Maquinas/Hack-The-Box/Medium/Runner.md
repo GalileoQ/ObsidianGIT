@@ -126,5 +126,8 @@ hacemos clic en el contenedor `primary` luego vamos a `volumes` y luego vamos a 
 
 `volumes`
 creamos un volumen que este asociado a el dispositivo principal en la raíz del sistema. se debe ver de esta forma
-!
+![[Pasted image 20240627184401.png]]
 
+``volumens
+ya tenemos el volumen creado asi que solo nos falta 
+![[Pasted image 20240627184421.png]]
