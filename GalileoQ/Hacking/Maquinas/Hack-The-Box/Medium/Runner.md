@@ -157,5 +157,5 @@ una ves tenemos creado el contenedor solo debemos ir a la parte de `console` par
 ![[Pasted image 20240627185649.png]]
 
 `root`
-indicamos el usuario `root` y le damos a conec
+indicamos el usuario `root` y le damos a conectar.
 ![[Pasted image 20240627185753.png]]
