@@ -117,5 +117,6 @@ podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en
 ![[Pasted image 20240627171108.png]]
 
 `portainer.io`
+tenemos la versión del CMS
 ![[Pasted image 20240627172903.png]]
 
