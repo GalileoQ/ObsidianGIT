@@ -124,3 +124,6 @@ tenemos la versión del CMS
 hacemos clic en el contenedor `primary` luego vamos a `volumes` y luego vamos a `Add volume`
 ![[Pasted image 20240627183840.png]]
 
+`volumes`
+creamos un volumen que este asociado a el dispositivo principal en la raíz del sistema
+![[Pasted image 20240627184146.png]]
