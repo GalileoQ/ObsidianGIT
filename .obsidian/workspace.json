@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "168e7f12a856b8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md"
               }
             }
           }
@@ -160,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "168e7f12a856b8d6",
+  "active": "d78d8270edab3915",
   "lastOpenFiles": [
+    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627185753.png",
@@ -186,7 +174,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Template/Pentesting.md",
     "Excalidraw/Drawing 2024-06-22 11.02.35.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Pivoting/Socat.md",
