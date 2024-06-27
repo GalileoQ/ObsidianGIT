@@ -136,3 +136,6 @@ ya tenemos el volumen creado así que solo nos falta crear un contenedor.
 ahora crearemos el contenedor haciendo clic en `Containers >> Add container`
 ![[Pasted image 20240627184540.png]]
 
+`container`
+en la primera parte solo debemos colocar el nombre del container en este caso se llamara `pwny`
+![[Pasted image 20240627184645.png]]
