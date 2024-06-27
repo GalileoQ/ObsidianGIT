@@ -61,7 +61,7 @@ tenemos un subdominio algo interesante.
 ![[Pasted image 20240612122944.png]]
 
 ### Exploit-DB
-conseguimos una CVE para esta versión que nos permite realizar un RCE
+conseguimos una CVE para esta versión que crea un nuevo token y un usuario administrador para usted y todo lo que necesita es la URL de interés.
 ![[Pasted image 20240612122949.png]]
 
 ### ejecutamos el exploit
