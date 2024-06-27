@@ -137,7 +137,7 @@ ahora crearemos el contenedor haciendo clic en `Containers >> Add container`
 ![[Pasted image 20240627184540.png]]
 
 `container`
-en la primera parte solo debemos colocar el nombre del container en este caso se llamara `pwny`
+en la primera parte debemos colocar el nombre del container en este caso se llamara `pwny` y en la imagen debemos indicarle una imagen que en este caso sera la imagen de `Ubuntu:lates` `(Siguiente imagen)`
 ![[Pasted image 20240627184843.png]]
 
 `Imagenes`
