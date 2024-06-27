@@ -77,5 +77,5 @@ podemos encontrar 2 usuarios (John y Matthew)
 ![[Pasted image 20240627140241.png]]
 
 `Backup`
-tambien podemos ver
+también podemos ver un apartado para iniciar una copia de seguridad. podemos descargarlo y analizarla en local
 ![[Pasted image 20240627140457.png]]
