@@ -132,5 +132,7 @@ creamos un volumen que este asociado a el dispositivo principal en la raíz del 
 ya tenemos el volumen creado así que solo nos falta crear un contenedor. 
 ![[Pasted image 20240627184421.png]]
 
-`Con`
+`Container`
+ahora crearemos el contenedor haciendo clic en `Containers >> Add container`
 ![[Pasted image 20240627184540.png]]
+
