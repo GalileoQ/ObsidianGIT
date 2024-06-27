@@ -120,6 +120,8 @@ podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en
 tenemos la versión del CMS
 ![[Pasted image 20240627172903.png]]
 
+### Escalada de privilegios
+
 `volumens`
 hacemos clic en el contenedor `primary` luego vamos a `volumes` y luego vamos a `Add volume`
 ![[Pasted image 20240627183840.png]]
@@ -159,3 +161,5 @@ una ves tenemos creado el contenedor solo debemos ir a la parte de `console` par
 `root`
 indicamos el usuario `root` y le damos a conectar.
 ![[Pasted image 20240627185753.png]]
+
+### WE ARE ROOT
