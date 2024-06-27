@@ -102,5 +102,10 @@ podemos observar que se están ejecutando los puertos `8111-9493-9000-5005`
 ![[Pasted image 20240627170133.png]]
 
 ### ssh port forwarding
+vamos a traernos el puerto `9000` de la maquina victima al puerto `9000` de la maquina atacante para poder verlo en local usando ssh
+
+```python
+
+```
 
 ![[Pasted image 20240627170637.png]]
