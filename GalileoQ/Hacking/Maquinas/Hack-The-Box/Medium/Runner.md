@@ -93,3 +93,9 @@ iniciamos sesión con alguno de los usuarios que conseguimos anteriormente t obt
 ![[Pasted image 20240627165041.png]]
 
 ### Enumeración de puertos internos
+podemos observar que se estan ejecutando los puertos `8111,949`
+```python
+	ss -tunlp | grep '127.0.0.1' --color=auto
+```
+
+![[Pasted image 20240627170133.png]]
