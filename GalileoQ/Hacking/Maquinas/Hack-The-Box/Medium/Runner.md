@@ -153,5 +153,9 @@ finalmente especificamos el volumen y la ruta para montar y le damos a `Deploy t
 ![[Pasted image 20240627185437.png]]
 
 `console`
-una ves tenemos creado el contenedor solo debemos ir a la parte de `console` para
+una ves tenemos creado el contenedor solo debemos ir a la parte de `console` para poder iniciar sesión 
 ![[Pasted image 20240627185649.png]]
+
+`root`
+indicamos el usuario `root` y le damos a conec
+![[Pasted image 20240627185753.png]]
