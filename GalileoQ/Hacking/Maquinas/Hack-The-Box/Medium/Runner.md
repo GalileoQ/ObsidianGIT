@@ -72,3 +72,6 @@ obtenemos un Username y una Password. además también obtenemos el token de ses
 ahora solo debemos conseguir la manera de obtener una reverse shell
 ![[Pasted image 20240612123002.png]]
 
+`User Management`
+podemos encontrar 2 usuarios (John y Matthew)
+![[Pasted image 20240627140241.png]]
