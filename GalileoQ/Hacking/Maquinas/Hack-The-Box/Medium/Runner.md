@@ -110,5 +110,6 @@ vamos a traernos el puerto `9000` de la maquina victima al puerto `9000` de la m
 
 ![[Pasted image 20240627170637.png]]
 
-
+### web forwarding
+podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en este caso es un `http` con una `CMS portainer.` 
 ![[Pasted image 20240627171108.png]]
