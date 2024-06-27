@@ -144,5 +144,7 @@ en la primera parte debemos colocar el nombre del container en este caso se llam
 aquí podemos hacer clic en la imagen y copiar el id completo de la imagen `sha256:ca.........................................`
 ![[Pasted image 20240627184809.png]]
 
-`Advanced`
+`Advanced container settings` 
+aquí solo vamos a indicar que queremos tener una consola `interactive & TTY`
 ![[Pasted image 20240627185134.png]]
+
