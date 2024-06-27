@@ -91,3 +91,5 @@ también conseguimos un id_rsa
 `ssh`
 iniciamos sesión con alguno de los usuarios que conseguimos anteriormente t obtenemos acceso
 ![[Pasted image 20240627165041.png]]
+
+### Enumeración de puertos internos
