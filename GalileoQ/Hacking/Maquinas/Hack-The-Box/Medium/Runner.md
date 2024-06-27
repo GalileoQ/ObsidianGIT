@@ -149,5 +149,6 @@ aquí solo vamos a indicar que queremos tener una consola `interactive & TTY`
 ![[Pasted image 20240627185134.png]]
 
 `Volumes`
-finalmente especificamos el volumen y la ruta para montar y le damos a `Deploy `
+finalmente especificamos el volumen y la ruta para montar y le damos a `Deploy the container`
 ![[Pasted image 20240627185437.png]]
+
