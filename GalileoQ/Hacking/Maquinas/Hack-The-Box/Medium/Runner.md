@@ -84,3 +84,5 @@ también podemos ver un apartado para iniciar una copia de seguridad. podemos de
 tenemos un archivo users que contiene 2 hash
 ![[Pasted image 20240627142921.png]]
 
+`ssh`
+![[Pasted image 20240627165041.png]]
