@@ -116,5 +116,6 @@ podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en
 `#Nota:podemos ingresar a la web usando las credenciales que Matthew las cuales consegimos despues de desifrar el hash`
 ![[Pasted image 20240627171108.png]]
 
-`portainer`
+`portainer.io`
 ![[Pasted image 20240627172903.png]]
+
