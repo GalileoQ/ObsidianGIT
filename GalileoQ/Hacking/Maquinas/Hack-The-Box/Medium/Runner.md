@@ -113,7 +113,7 @@ vamos a traernos el puerto `9000` de la maquina victima al puerto `9000` de la m
 ### web forwarding
 podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en este caso es un `http` con una `CMS portainer.io` 
 
-`#Nota:podemos ingresar a la web usando las credenciales que Matthew las cuales consegimos despues de desifrar el hash`
+`#Nota:podemos ingresar a la web usando las credenciales que Matthew las cuales consegimos despues de desifrar el hash | Matthew:piper123`
 ![[Pasted image 20240627171108.png]]
 
 `portainer.io`
