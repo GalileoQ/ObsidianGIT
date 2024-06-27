@@ -152,3 +152,6 @@ aquí solo vamos a indicar que queremos tener una consola `interactive & TTY`
 finalmente especificamos el volumen y la ruta para montar y le damos a `Deploy the container`
 ![[Pasted image 20240627185437.png]]
 
+`console`
+una ves tenemos creado el contenedor solo debemos ir a la parte de `console` para
+![[Pasted image 20240627185649.png]]
