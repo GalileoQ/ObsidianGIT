@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "7d8616b3bd2ef74f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
@@ -193,8 +195,6 @@
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
