@@ -120,3 +120,6 @@ podemos obtener acceso al servicio que esta corriendo en el puerto `9000` que en
 tenemos la versión del CMS
 ![[Pasted image 20240627172903.png]]
 
+`volumens`
+hacemos clic en el contenedor primary
+![[Pasted image 20240627183840.png]]
