@@ -76,3 +76,6 @@ ahora solo debemos conseguir la manera de obtener una reverse shell
 podemos encontrar 2 usuarios (John y Matthew)
 ![[Pasted image 20240627140241.png]]
 
+`Backup`
+tambien podemos ver
+![[Pasted image 20240627140457.png]]
