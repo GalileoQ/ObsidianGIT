@@ -89,4 +89,5 @@ también conseguimos un id_rsa
 ![[Pasted image 20240627165145.png]]
 
 `ssh`
+iniciamos sesión con alguno de los usuarios que conseguimos anteriormente t obtenemos acceso
 ![[Pasted image 20240627165041.png]]
