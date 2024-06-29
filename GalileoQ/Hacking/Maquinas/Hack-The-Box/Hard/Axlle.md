@@ -150,7 +150,7 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 ![[Pasted image 20240629120522.png]]
 
 `ejecutamos el exploit `
-#Nota: la shell debe estar subida en el dire
+#Nota: la shell debe estar subida en el directorio `c:\programdata\` no en `Temp` como se muestra en la imagen
 ![[Pasted image 20240629120649.png]]
 
 ### meterpreter
