@@ -125,8 +125,11 @@ return 0;
 
 ### Enviamos el XLL a accounts@axlle.htb vía SMTP
 
+```python
 
+```
 
+![[Pasted image 20240629113053.png]]
 
 
 
