@@ -147,6 +147,10 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 
 ### msfconsole
 
+![[Pasted image 20240629120522.png]]
+
+`ejecutamos el exploit `
+
 
 
 
