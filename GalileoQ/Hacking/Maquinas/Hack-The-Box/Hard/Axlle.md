@@ -87,7 +87,8 @@ Nmap done: 1 IP address (1 host up) scanned in 129.59 seconds
 parece que no podemos ver nada explotable en la web. así que vamos a seguir enumerando
 ![[Pasted image 20240627192751.png]]
 
-
+aqui podemos ver
+![[Pasted image 20240629111401.png]]
 
 ### Vulnerabilidades
 
