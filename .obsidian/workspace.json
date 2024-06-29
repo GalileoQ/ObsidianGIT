@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "9356f18e3ef7ebe6",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
@@ -187,7 +188,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "Excalidraw/Drawing 2024-06-22 11.02.35.excalidraw.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
