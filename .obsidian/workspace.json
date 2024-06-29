@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md"
               }
             }
           }
@@ -173,15 +173,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "cc8628a8b6133975",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629132729.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629124118.png",
