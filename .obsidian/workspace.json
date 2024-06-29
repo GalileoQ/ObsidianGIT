@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md"
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "9356f18e3ef7ebe6",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
@@ -187,7 +188,6 @@
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Excalidraw/Drawing 2024-06-22 11.02.35.excalidraw.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
