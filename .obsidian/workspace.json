@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood",
+                "query": "bloo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03a6a333cc3291b5",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
