@@ -131,7 +131,8 @@ swaks --to "accounts@axlle.htb" --from "gleoq@axlle.htb" --header "Subject: Open
 
 ![[Pasted image 20240629113053.png]]
 
-
+type C:\"Program Files (x86)"\hMailServer\Data\axlle.htb\dallon.matrix\2F\{2F7523BD-628F-4359-913E-
+A873FCC59D0F}.eml
 
 
 
