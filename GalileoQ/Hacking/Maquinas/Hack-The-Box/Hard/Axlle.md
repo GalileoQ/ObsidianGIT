@@ -117,7 +117,11 @@ return 0;
 >	x86_64-w64-mingw32-gcc -shared -o exploit.dll exploit.c -Wl,--output-def,exploit.def -lurlmon
 ```
 
+### cambiamos la extension del script
 
+```python
+	mv exploit.dll exploit.xll
+```
 
 
 
