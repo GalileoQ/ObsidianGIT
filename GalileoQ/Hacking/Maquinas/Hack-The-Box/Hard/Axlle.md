@@ -142,10 +142,8 @@ A873FCC59D0F}.eml
 ![[Pasted image 20240629114836.png]]
 
 ### Reverse shell
-creamos un `exploit con msfvenom` 
-
-
-
+creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un servidor python
+![[Pasted image 20240629115953.png]]
 
 
 
