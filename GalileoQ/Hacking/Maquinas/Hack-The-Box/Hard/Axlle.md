@@ -150,8 +150,11 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 ![[Pasted image 20240629120522.png]]
 
 `ejecutamos el exploit `
+![[Pasted image 20240629120649.png]]
 
+### meterpreter
 
+![[Pasted image 20240629120715.png]]
 
 
 
