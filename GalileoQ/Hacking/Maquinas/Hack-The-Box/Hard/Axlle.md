@@ -153,10 +153,8 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 ![[Pasted image 20240629120649.png]]
 
 ### meterpreter
-$lnk = $objShell.CreateShortcut("C:\Windows\Temp\Notepad.url")
 
-$lnk.TargetPath = "C:\Windows\Tempshell.exe"
-![[Pasted image 20240629120715.png]]
+
 
 
 
