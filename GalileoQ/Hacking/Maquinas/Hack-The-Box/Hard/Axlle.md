@@ -154,7 +154,7 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 ![[Pasted image 20240629120649.png]]
 
 ### shortcut C:\inetpub\testing\
-
+vamos a crear un shortcut en el directorio `C:\inetpub\testing\` 
 
 
 
