@@ -145,6 +145,8 @@ A873FCC59D0F}.eml
 creamos un `exploit con msfvenom` y lo compartimos con la maquina victima con un servidor python
 ![[Pasted image 20240629115953.png]]
 
+### msfconsole
+
 
 
 
