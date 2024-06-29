@@ -167,8 +167,8 @@ $lnk.Save()
 ![[Pasted image 20240629122907.png]]
 
 ### meterpreter
-
-
+después de crear el shortcut solo debemos esperar para obtener la reverse shell
+![[Pasted image 20240629122940.png]]
 
 
 
