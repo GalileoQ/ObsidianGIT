@@ -123,7 +123,7 @@ return 0;
 >	mv exploit.dll exploit.xll
 ```
 
-### Enviamos el XLL to accounts@axlle.htb via SMTP
+### Enviamos el XLL a accounts@axlle.htb vía SMTP
 
 
 
