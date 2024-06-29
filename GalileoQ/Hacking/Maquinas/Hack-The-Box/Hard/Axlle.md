@@ -91,7 +91,7 @@ parece que podemos hacer algún tipo de petición al correo `acconunts@axlle.htb
 ![[Pasted image 20240629111401.png]]
 
 ### DLL Hijacking
-con este script en python vamos a intentar hacer una petición DLL
+con este script en C vamos a intentar hacer una petición DLL
 ```python
 #include <windows.h>
 #include <urlmon.h>
