@@ -141,7 +141,8 @@ A873FCC59D0F}.eml
 
 ![[Pasted image 20240629114836.png]]
 
-
+### Reverse shell
+vamos a crear un exploit con ``
 
 
 
