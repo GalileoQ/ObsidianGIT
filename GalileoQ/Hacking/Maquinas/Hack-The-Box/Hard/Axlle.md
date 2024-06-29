@@ -132,7 +132,7 @@ swaks --to "accounts@axlle.htb" --from "gleoq@axlle.htb" --header "Subject: Open
 ![[Pasted image 20240629113053.png]]
 
 ### Enumeración del sistema
-abajo a la derecha podemos observar la terminal. 
+abajo a la derecha podemos observar la terminal. de la maquina victima. he conseguido un archivo `xml` con información importante 
 ![[Pasted image 20240629114836.png]]
 
 
