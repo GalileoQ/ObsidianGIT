@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md"
+              }
             }
           }
         ]
@@ -144,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "b6ad2873d81da918",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629132729.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
@@ -183,7 +188,6 @@
     "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
