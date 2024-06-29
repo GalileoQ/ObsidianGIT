@@ -111,7 +111,10 @@ return 0;
 ### Compilamos el  dll con mingw-w64
 
 ```python
-x86_64-w64-mingw32-gcc -shared -o exploit.dll exploit.c -Wl,--output-def,exploit.def -lurlmon
+>	sudo apt install mingw-w64
+
+
+>	x86_64-w64-mingw32-gcc -shared -o exploit.dll exploit.c -Wl,--output-def,exploit.def -lurlmon
 ```
 
 
