@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "7e0c0be95a703f2d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
@@ -163,7 +165,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629143532.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629132729.png",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -185,7 +186,6 @@
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw",
     "GalileoQ/Template",
