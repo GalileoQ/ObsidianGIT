@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+                "file": "GalileoQ/Template/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+                "file": "GalileoQ/Template/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+                "file": "GalileoQ/Template/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md"
+                "file": "GalileoQ/Template/Sin título.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e0c0be95a703f2d",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+    "GalileoQ/Template/Sin título.md",
+    "Sin título.canvas",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
@@ -176,7 +179,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120649.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120522.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "Sin título.canvas",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
@@ -184,8 +186,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/Hacking Generico/Metasploit/Enumeración de Windows con Meterpreter.md",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw",
     "GalileoQ/Template",
