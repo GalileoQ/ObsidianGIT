@@ -11,8 +11,12 @@
             "id": "b8ba5184dda8f7c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/capturas.md"
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md"
               }
             }
           }
@@ -141,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "b8ba5184dda8f7c4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+    "GalileoQ/Hacking/Entorno/Instalar bat.md",
+    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Template/capturas.md",
     "GalileoQ/Template/Img/Pasted image 20240701113429.png",
     "GalileoQ/Template/Img",
@@ -166,7 +177,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629132729.png",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629124118.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122940.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122907.png",
@@ -177,9 +187,6 @@
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw",
     "GalileoQ/Template",
