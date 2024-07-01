@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Template/capturas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Template/capturas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Template/capturas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md"
+                "file": "GalileoQ/Template/capturas.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "7e0c0be95a703f2d",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
-    "GalileoQ/Template/Sin título.md",
+    "GalileoQ/Template/capturas.md",
     "Sin título.canvas",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
