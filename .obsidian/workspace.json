@@ -11,8 +11,12 @@
             "id": "e731c05eddd9acb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md"
               }
             }
           }
@@ -143,13 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "e731c05eddd9acb8",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+    "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
+    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
+    "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
+    "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Template/capturas.md",
     "GalileoQ/Template/Img/Pasted image 20240701113429.png",
@@ -167,12 +178,8 @@
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629143740.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629143532.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629132729.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629124118.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122940.png",
@@ -180,9 +187,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122013.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120649.png",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw",
     "GalileoQ/Template",
