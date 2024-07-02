@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48155b3eddde7277",
+        "id": "f17968d5ea585012",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ba5184dda8f7c4",
+            "id": "e731c05eddd9acb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
               }
             }
           }
@@ -147,8 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8ba5184dda8f7c4",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
@@ -186,7 +183,6 @@
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "Excalidraw/Pivoting.excalidraw",
     "Excalidraw",
     "GalileoQ/Template",
