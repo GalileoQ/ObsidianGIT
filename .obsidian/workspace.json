@@ -11,8 +11,12 @@
             "id": "3b9bb53585f66a4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md"
+              }
             }
           }
         ]
@@ -141,11 +149,13 @@
   },
   "active": "3b9bb53585f66a4a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Instalar bat.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "Sin título.canvas",
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
-    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
-    "GalileoQ/Hacking/Entorno/Instalar bat.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
@@ -153,8 +163,6 @@
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Template/capturas.md",
     "GalileoQ/Template/Img/Pasted image 20240701113429.png",
