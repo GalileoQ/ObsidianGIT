@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c64c2eb759a4db12",
+        "id": "d14bac85149839b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3b9bb53585f66a4a",
+            "id": "168797a6c3ace651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9bb53585f66a4a",
+  "active": "168797a6c3ace651",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "Sin título.canvas",
-    "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
