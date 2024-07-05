@@ -130,6 +130,7 @@ conseguí el subdominio de `admin` así que lo vamos a agregar el archivo `hosts
 después de intentar un montón de cosas aquí no tenemos aun un vector claro
 ![[Pasted image 20240704230403.png]]
 
+Archivos DLL interesantes del marco Blazor
 
 Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Después de un tiempo probando sttufs, decidí descargar algunas
 DLL para probar la ingeniería inversa. Realmente lo intento con muchos archivos DLL, pero como es un artículo, mostraré solo el que
