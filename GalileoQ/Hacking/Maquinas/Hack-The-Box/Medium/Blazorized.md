@@ -199,12 +199,11 @@ cuando ya tenemos el token que hemos generado simplemente vamos a `Storage > Loc
 podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este es un objetivo de `AD`, por lo que, por supuesto, están usando `MSSQLSERVER` esto significa que podemos intentar ejecutar `xp_cmdshell` y obtener nuestro primer shell.
 ![[Pasted image 20240705134002.png]]
 
-
-
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX            | Nombre de la vulnerabilidad                                                 | Tipo | Nivel | Link                                                                                                                                 |
-| ------------------------- | --------------------------------------------------------------------------- | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **CVE-2015-3295**         | Through Markdown Formatted Content Vulnerability in the markdown-it library | XXS  | 5.7   | [Link](https://sca.analysiscenter.veracode.com/vulnerability-database/security/cross-site-scripting-xss-through/javascript/sid-1590) |
-| **Payloads All The Things | MSSQL Injection                                                             |      |       | [Link](https://swisskyrepo.github.io/PayloadsAllTheThings/SQL%20Injection/MSSQL%20Injection/)                                        |
-|                           |                                                                             |      |       |                                                                                                                                      |
+| CVE-XXXX-XXXXX              | Nombre de la vulnerabilidad                                                 | Tipo | Nivel | Link                                                                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------- | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **CVE-2015-3295**           | Through Markdown Formatted Content Vulnerability in the markdown-it library | XXS  | 5.7   | [Link](https://sca.analysiscenter.veracode.com/vulnerability-database/security/cross-site-scripting-xss-through/javascript/sid-1590) |
+| **Payloads All The Things** | MSSQL Injection                                                             |      |       | [Link](https://swisskyrepo.github.io/PayloadsAllTheThings/SQL%20Injection/MSSQL%20Injection/)                                        |
+|                             |                                                                             |      |       |                                                                                                                                      |
+
