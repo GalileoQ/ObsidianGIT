@@ -203,8 +203,8 @@ podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este e
 
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX    | Nombre de la vulnerabilidad                                                                              | Tipo | Nivel | Link |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ---- | ----- | ---- |
+| **CVE-2015-3295** | # Cross-site Scripting (XSS) Through Markdown Formatted Content Vulnerability in the markdown-it library |      |       |      |
+|                   |                                                                                                          |      |       |      |
+|                   |                                                                                                          |      |       |      |
