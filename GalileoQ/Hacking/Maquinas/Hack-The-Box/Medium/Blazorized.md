@@ -228,3 +228,6 @@ por el momento no parece tener algún permiso que podamos explotar así que segu
 vamos a cargar estas dos herramientas para poder enumerar el sistema y luego enviarnos esa información a nuestra maquina
 ![[Pasted image 20240705145749.png]]
 
+`Sharphound`
+ejecutamos el sharphound para obtener el grafi
+![[Pasted image 20240705152513.png]]
