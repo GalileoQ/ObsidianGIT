@@ -147,6 +147,8 @@ con esta información podremos crear nuestro propio token para acceder como Admi
 ![[Pasted image 20240705003826.png]]
 
 
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
