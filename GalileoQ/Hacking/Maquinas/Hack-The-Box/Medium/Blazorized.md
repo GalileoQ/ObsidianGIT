@@ -134,7 +134,8 @@ después de intentar un montón de cosas aquí no tenemos aun un vector claro
 Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Después de un tiempo probando sttuf, decidí descargar algunas DLL para probar ingeniería inversa. 
 ![[Pasted image 20240704231037.png]]
 
-`Descargué Blazorized.Helpers.dll desde` [aqui](http://blazorized.htb/_framework/Blazorized.Helpers.dll)
+`Descargué Blazorized.Helpers.dll desde` [aqui](http://blazorized.htb/_framework/Blazorized.Helpers.dll) 
+
 ![[Pasted image 20240704234037.png]]
 
 
