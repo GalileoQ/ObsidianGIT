@@ -118,7 +118,7 @@ al intentar enumerar la web en busca de subdominios podemos ver que al hacer cli
 agregamos estas rutas a nuestro archivo `hosts` para poder enumerarlas
 ![[Pasted image 20240704225228.png]]
 
-
+### XSS en blazoridez
 
 
 
