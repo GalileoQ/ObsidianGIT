@@ -126,6 +126,9 @@ otra cosa que conseguí fue una `CVE` [XXS](https://book.hacktricks.xyz/pentesti
 conseguí el subdominio de `admin` así que lo vamos a agregar el archivo `hosts` para seguir enumerando
 ![[Pasted image 20240704230120.png]]
 
+### Enumeración del puerto 80 (http)
+
+![[Pasted image 20240704230403.png]]
 
 
 
