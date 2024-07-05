@@ -114,7 +114,16 @@ en la enumeración web podemos ver blazorized
 al intentar enumerar la web en busca de subdominios podemos ver que al hacer clic en `Check for Updates` podemos ver que esta haciendo referencia a una `api` determinada
 ![[Pasted image 20240704225000.png]]
 
-`/etc/h`
+`/etc/hosts`
+agregamos estas rutas a nuestro archivo `hosts` para poder enumerarlas
+![[Pasted image 20240704225228.png]]
+
+
+
+
+
+
+
 ### Fuzzing con wfuf
 
 
