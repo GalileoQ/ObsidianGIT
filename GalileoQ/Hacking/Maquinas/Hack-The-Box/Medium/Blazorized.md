@@ -191,7 +191,9 @@ if __name__ == "__main__":
 `token`
 ![[Pasted image 20240705123825.png]]
 
+### the super admin panel
 
+![[Pasted image 20240705133401.png]]
 
 
 
