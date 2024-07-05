@@ -189,6 +189,13 @@ if __name__ == "__main__":
 ```
 
 `token`
+
+
+
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
