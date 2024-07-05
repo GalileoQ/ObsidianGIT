@@ -147,7 +147,7 @@ con esta información podremos crear nuestro propio token para acceder como Admi
 ![[Pasted image 20240705003826.png]]
 
 ### script
-con este script usando la sintax que hemos obtenido del anali
+con este script usando la sintax que hemos obtenido del análisis de los DLL podemos generar un nuevo token
 ```python
 import jwt
 import datetime
@@ -188,7 +188,7 @@ if __name__ == "__main__":
 
 ```
 
-
+`token`
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
