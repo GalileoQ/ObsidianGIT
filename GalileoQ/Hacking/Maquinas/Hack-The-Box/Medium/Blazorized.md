@@ -142,7 +142,7 @@ para este paso vamos a necesitar una maquina Windows ya que la herramienta dnSpy
 ![[Pasted image 20240705003628.png]]
 
 `Token`
-con esta información ppodremos crear nuestro propio token para acceder como Administrador en blazorized. Puedes usar jwt.io, o en mi caso hice un script en Python:
+con esta información podremos crear nuestro propio token para acceder como Administrador en blazorized. Puedes usar jwt.io, o en mi caso hice un script en Python:
 ![[Pasted image 20240705003707.png]]
 ![[Pasted image 20240705003826.png]]
 
