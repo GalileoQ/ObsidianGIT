@@ -217,5 +217,6 @@ aprovecharemos `SQLI` para ejecutar nuestro payload
 ![[Pasted image 20240705144840.png]]
 
 `shell`
-
+obtenemos una conexión como el usuario `nu_1055`
 ![[Pasted image 20240705145114.png]]
+
