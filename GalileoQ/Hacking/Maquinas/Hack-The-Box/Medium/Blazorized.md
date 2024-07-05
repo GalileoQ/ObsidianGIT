@@ -207,3 +207,4 @@ podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este e
 | **Payloads All The Things** | MSSQL Injection                                                             |      |       | [Link](https://swisskyrepo.github.io/PayloadsAllTheThings/SQL%20Injection/MSSQL%20Injection/)                                        |
 |                             |                                                                             |      |       |                                                                                                                                      |
 
+### SQLI 
