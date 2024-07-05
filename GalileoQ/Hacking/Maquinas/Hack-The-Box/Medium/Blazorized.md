@@ -111,9 +111,15 @@ en la enumeración web podemos ver blazorized
 ![[Pasted image 20240704224625.png]]
 
 `api`
-al intentar enumerar
+al intentar enumerar la web en busca de subdominios podemos ver que al hacer clic en `Check for Updates` podemos ver que esta haciendo referencia a una `api` determinada
 ![[Pasted image 20240704225000.png]]
+
 ### Fuzzing con wfuf
+
+
+
+
+
 
 ### Vulnerabilidades
 
