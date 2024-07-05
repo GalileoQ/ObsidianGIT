@@ -119,7 +119,7 @@ agregamos estas rutas a nuestro archivo `hosts` para poder enumerarlas
 ![[Pasted image 20240704225228.png]]
 
 ### XSS en blazorized
-otra cosa que conseguí fue una `CVE` [XXS](https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting/xss-in-markdown) he intentado esto pero 
+otra cosa que conseguí fue una `CVE` [XXS](https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting/xss-in-markdown) he intentado esto pero no he podido conseguir mucha cosa. esperaba obtener una cookie o algo pero por el momento no tenemos nada
 ![[Pasted image 20240704225640.png]]
 
 
