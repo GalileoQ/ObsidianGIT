@@ -192,7 +192,7 @@ if __name__ == "__main__":
 ![[Pasted image 20240705123825.png]]
 
 ### the super admin panel
-
+cuando ya tenemos el token que hemos generado simplementa vamos a `Storage > Local Storage` 
 ![[Pasted image 20240705133401.png]]
 
 
