@@ -220,3 +220,8 @@ aprovecharemos `SQLI` para ejecutar nuestro payload
 obtenemos una conexión como el usuario `nu_1055`
 ![[Pasted image 20240705145114.png]]
 
+### Enumeración del sistema
+por el moment
+![[Pasted image 20240705145815.png]]
+
+![[Pasted image 20240705145749.png]]
