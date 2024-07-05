@@ -131,9 +131,8 @@ después de intentar un montón de cosas aquí no tenemos aun un vector claro
 ![[Pasted image 20240704230403.png]]
 
 `Archivos DLL interesantes del marco Blazor`
-Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Después de un tiempo probando sttufs, decidí descargar algunas
-DLL para probar ingeniería inversa. 
-
+Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Después de un tiempo probando sttuf, decidí descargar algunas DLL para probar ingeniería inversa. 
+![[Pasted image 20240704231037.png]]
 
 
 ### Vulnerabilidades
