@@ -224,5 +224,7 @@ obtenemos una conexión como el usuario `nu_1055`
 por el momento no parece tener algún permiso que podamos explotar así que seguiremos enumerando 
 ![[Pasted image 20240705145815.png]]
 
-`Sharphound - `
+`Sharphound - PSUpload`
+vamos a cargar estas dos herramientas para poder enumerar el sistema y luego enviarnos esa información a nuestra maquina
 ![[Pasted image 20240705145749.png]]
+
