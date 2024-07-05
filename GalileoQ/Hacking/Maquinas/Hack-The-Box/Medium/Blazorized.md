@@ -192,7 +192,7 @@ if __name__ == "__main__":
 ![[Pasted image 20240705123825.png]]
 
 ### the super admin panel
-cuando ya tenemos el token que hemos generado simplemente vamos a `Storage > Local Storage` en la key el valor debe ser `jwt` y el value 
+cuando ya tenemos el token que hemos generado simplemente vamos a `Storage > Local Storage` en la key el valor debe ser `jwt` y el `value` el valor del token 
 ![[Pasted image 20240705133401.png]]
 
 
