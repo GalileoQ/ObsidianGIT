@@ -138,8 +138,8 @@ Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Des
 ![[Pasted image 20240704234037.png]]
 
 ### dnSpy
-para este paso vamos a necesitar una maquina windows ya que la herramienta dnspy es para window
-
+para este paso vamos a necesitar una maquina Windows ya que la herramienta dnSpy es para Windows. sin embargo existen maneras de usarla en Kali. puedes investigar esta opción
+![[Pasted image 20240705003628.png]]
 
 
 
