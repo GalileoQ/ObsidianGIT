@@ -135,10 +135,10 @@ Una cosa interesante de este sitio web fue la gran cantidad de archivos DLL. Des
 ![[Pasted image 20240704231037.png]]
 
 `Descargué Blazorized.Helpers.dll desde` [aqui](http://blazorized.htb/_framework/Blazorized.Helpers.dll) 
-
 ![[Pasted image 20240704234037.png]]
 
-
+### dnSpy
+para este paso vamos a necesitar una maquina windows ya que la herramienta dnspy es para window
 
 
 
