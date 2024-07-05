@@ -107,8 +107,10 @@ Nmap done: 1 IP address (1 host up) scanned in 85.66 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-en la enumeración web podemos ver una web 
+en la enumeración web podemos ver blazorized
 ![[Pasted image 20240704224625.png]]
+
+### Fuzzing con wff
 
 ### Vulnerabilidades
 
