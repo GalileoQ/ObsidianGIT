@@ -110,6 +110,9 @@ Nmap done: 1 IP address (1 host up) scanned in 85.66 seconds
 en la enumeración web podemos ver blazorized
 ![[Pasted image 20240704224625.png]]
 
+`api`
+al intentar enumerar
+![[Pasted image 20240704225000.png]]
 ### Fuzzing con wfuf
 
 ### Vulnerabilidades
