@@ -142,6 +142,8 @@ para este paso vamos a necesitar una maquina Windows ya que la herramienta dnSpy
 ![[Pasted image 20240705003628.png]]
 
 
+![[Pasted image 20240705003707.png]]
+
 
 
 ### Vulnerabilidades
