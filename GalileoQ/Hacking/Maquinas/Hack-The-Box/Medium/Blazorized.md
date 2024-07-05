@@ -122,10 +122,9 @@ agregamos estas rutas a nuestro archivo `hosts` para poder enumerarlas
 otra cosa que conseguí fue una `CVE` [XXS](https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting/xss-in-markdown) he intentado esto pero no he podido conseguir mucha cosa. esperaba obtener una cookie o algo pero por el momento no tenemos nada
 ![[Pasted image 20240704225640.png]]
 
-
-
-### Fuzzing con wfuf
-
+### Fuzzing con wfuzz
+conseguí el subdominio de `admin` así que lo vamos a agregar el archivo `hosts` para seguir enumerando
+![[Pasted image 20240704230120.png]]
 
 
 
