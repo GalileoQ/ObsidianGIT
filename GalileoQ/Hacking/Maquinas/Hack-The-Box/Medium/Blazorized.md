@@ -229,5 +229,5 @@ vamos a cargar estas dos herramientas para poder enumerar el sistema y luego env
 ![[Pasted image 20240705145749.png]]
 
 `Sharphound`
-ejecutamos el sharphound para obtener el grafi
+ejecutamos el sharphound.exe para obtener el grafico del AD
 ![[Pasted image 20240705152513.png]]
