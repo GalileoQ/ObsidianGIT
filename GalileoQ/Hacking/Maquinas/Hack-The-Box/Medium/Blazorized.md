@@ -110,7 +110,7 @@ Nmap done: 1 IP address (1 host up) scanned in 85.66 seconds
 en la enumeración web podemos ver blazorized
 ![[Pasted image 20240704224625.png]]
 
-### Fuzzing con wff
+### Fuzzing con wfuf
 
 ### Vulnerabilidades
 
