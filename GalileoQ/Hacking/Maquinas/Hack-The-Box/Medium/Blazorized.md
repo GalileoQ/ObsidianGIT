@@ -146,7 +146,7 @@ con esta información podremos crear nuestro propio token para acceder como Admi
 ![[Pasted image 20240705003707.png]]
 ![[Pasted image 20240705003826.png]]
 
-
+### s
 
 
 ### Vulnerabilidades
