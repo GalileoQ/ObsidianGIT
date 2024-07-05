@@ -195,7 +195,9 @@ if __name__ == "__main__":
 cuando ya tenemos el token que hemos generado simplemente vamos a `Storage > Local Storage` en la key el valor debe ser `jwt` y el `value` el valor del token 
 ![[Pasted image 20240705133401.png]]
 
-
+`SQLI`
+podemos encontrar `XSS` y `SQLi`  panel de administración, y sabemos que este es un objetivo de AD, por lo que, por supuesto, están usando MSSQLSERVER, esto significa que podemos intentar ejecutar xp_cmdshell y obtener nuestro primer shell.
+![[Pasted image 20240705134002.png]]
 
 
 
