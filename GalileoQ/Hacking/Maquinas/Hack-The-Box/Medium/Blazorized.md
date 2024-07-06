@@ -236,3 +236,6 @@ ejecutamos el sharphound.exe para obtener el grafico del AD
 estaremos a la escucha con un servidor de python para poder capturar esta petición
 ![[Pasted image 20240705231325.png]]
 
+### Import-Module
+ahora usando el script PSUpload vamos a enviar el archivo 
+![[Pasted image 20240705231437.png]]
