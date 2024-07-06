@@ -232,6 +232,7 @@ vamos a cargar estas dos herramientas para poder enumerar el sistema y luego env
 ejecutamos el sharphound.exe para obtener el grafico del AD
 ![[Pasted image 20240705152513.png]]
 
-### 
-
+### python3 -m uploadserver
+estaremos a la escucha con un servidor de python para poder capturar esta petición
 ![[Pasted image 20240705231325.png]]
+
