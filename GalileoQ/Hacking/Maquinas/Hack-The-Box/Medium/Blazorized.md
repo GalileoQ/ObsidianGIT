@@ -231,3 +231,7 @@ vamos a cargar estas dos herramientas para poder enumerar el sistema y luego env
 `Sharphound`
 ejecutamos el sharphound.exe para obtener el grafico del AD
 ![[Pasted image 20240705152513.png]]
+
+### 
+
+![[Pasted image 20240705231325.png]]
