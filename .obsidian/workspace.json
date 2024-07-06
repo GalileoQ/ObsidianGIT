@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neo4",
+                "query": "IEX",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "990aa12f8e9394ab",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240705231437.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240705231325.png",
@@ -194,7 +195,6 @@
     "GalileoQ/Template/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
