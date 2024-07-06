@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990aa12f8e9394ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IEX",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md"
               }
             }
           }
@@ -161,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "990aa12f8e9394ab",
+  "active": "9bf4d294b298cfc0",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
