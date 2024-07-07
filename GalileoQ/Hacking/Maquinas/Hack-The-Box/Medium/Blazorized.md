@@ -241,5 +241,5 @@ ahora usando el script PSUpload vamos a enviar el archivo que necesitamos al ser
 ![[Pasted image 20240705231437.png]]
 
 ### BloodHound
-podemos ver que el usuario que hemos comprometido esta relacionado con otro usuario y directamente con el dominio
+podemos ver que el usuario que hemos comprometido esta relacionado con el usuario `RSA_4810` usuario y directamente con el dominio
 ![[Pasted image 20240707004741.png]]
