@@ -272,3 +272,4 @@ usamos las credenciales que hemos obtenido con el usuario y vamos a ingresar con
 
 ### acceso a SSA_6010
 nuestro último objetivo es obtener acceso al usuario `SSA_6010` para esto usaremos nuevamente PowerView.ps1
+![[Pasted image 20240707011706.png]]
