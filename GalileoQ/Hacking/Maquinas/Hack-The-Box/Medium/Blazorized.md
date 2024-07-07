@@ -350,3 +350,5 @@ Supplemental Credentials:
 Random Value : 36ff197ab8f852956e4dcbbe85e38e17
 ```
 
+### Acceso Administrador
+
