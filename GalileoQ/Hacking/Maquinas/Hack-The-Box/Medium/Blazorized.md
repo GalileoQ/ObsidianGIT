@@ -240,3 +240,5 @@ estaremos a la escucha con un servidor de python para poder capturar esta petici
 ahora usando el script PSUpload vamos a enviar el archivo que necesitamos al servidor que tenemos en escucha para poder analizarlo en local
 ![[Pasted image 20240705231437.png]]
 
+
+![[Pasted image 20240707004741.png]]
