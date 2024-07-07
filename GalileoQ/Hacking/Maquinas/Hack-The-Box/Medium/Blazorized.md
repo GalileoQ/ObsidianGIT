@@ -302,4 +302,6 @@ almacenarse en subcarpetas de la carpeta Netlogon [Info](https://learn.microsoft
 \
 Así que necesitamos descubrir cómo usar el mismo archivo bat, pero hay un problema. no tenemos suficientes permisos
 
-$outputFile = "C:\Windows\SYSVOL\sysvol\blazorized.htb\SCRIPTS\A32FF3AEAA23\AADE1BA2A3E3\E2B11C13F2BB\EC3110AA1C2B
+```python
+
+```
