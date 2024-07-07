@@ -264,3 +264,5 @@ de esta manera podemos obtener un hash NTLM de kerberos que intentaremos descifr
 
 ### jhon
 vamos a descifrar el hash con John para ver si podemos obtener una contraseña en texto plano
+![[Pasted image 20240707010527.png]]
+
