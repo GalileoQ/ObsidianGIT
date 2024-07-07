@@ -286,5 +286,6 @@ Lo interesante aquí es el scriptpath, y necesitamos descubrir cómo leer ese ar
 vamos a enumerar los recursos compartidos para identificar lo que hay en la ruta.
 ![[Pasted image 20240707013331.png]]
 
-
+aquí tenemos un archivo `0033D22D1ABE.bat` 
 ![[Pasted image 20240707013510.png]]
+
