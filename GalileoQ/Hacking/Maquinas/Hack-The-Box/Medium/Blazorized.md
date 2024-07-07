@@ -290,5 +290,10 @@ aquí tenemos un archivo `2C0A3DFE2030.bat` y lo descargamos con un `get`
 ![[Pasted image 20240707014111.png]]
 
 `cat`
+después de mucha investigación y lectura de la documentación de Microsoft, podemos cambiar ScriptPath
+
+```python
+Set-DomainObject -Identity SSA_6010 -Set @{ScriptPath='C:\Windows\tasks\script.bat'}
+```
 
 ![[Pasted image 20240707014207.png]]
