@@ -262,4 +262,5 @@ $User | Get-DomainSPNTicket | fl
 de esta manera podemos obtener un hash NTLM de kerberos que intentaremos descifrar con John the Ripper
 ![[Pasted image 20240707005833.png]]
 
-### desc
+### jhon
+vamos a descifrar el hash con John para ver si podemos obtener una contraseña en texto plano
