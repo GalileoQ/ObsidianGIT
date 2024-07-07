@@ -279,6 +279,6 @@ Import-Module .\PowerView.ps1
 Get-DomainObject -Identity SSA_6010
 ```
 
-Lo interesante aqui es el scriptpath, y necesitamos descubrir cómo leer ese archivo, por supuesto que podemos verificarlo
+Lo interesante aquí es el scriptpath, y necesitamos descubrir cómo leer ese archivo,
 ![[Pasted image 20240707011706.png]]
 
