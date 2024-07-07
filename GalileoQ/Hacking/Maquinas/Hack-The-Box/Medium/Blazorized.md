@@ -296,4 +296,6 @@ después de mucha investigación y lectura de la documentación de Microsoft, po
 Set-DomainObject -Identity SSA_6010 -Set @{ScriptPath='C:\Windows\tasks\script.bat'}
 ```
 
+Los scripts de inicio de sesión locales deben almacenarse en una carpeta compartida que utilice el nombre compartido de Netlogon o
+almacenarse en subcarpetas de la carpeta Netlogon [Info](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/assign-logon-script-profile-local-user)
 ![[Pasted image 20240707014207.png]]
