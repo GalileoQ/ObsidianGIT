@@ -300,3 +300,4 @@ Los scripts de inicio de sesión locales deben almacenarse en una carpeta compar
 almacenarse en subcarpetas de la carpeta Netlogon [Info](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/assign-logon-script-profile-local-user)
 ![[Pasted image 20240707014207.png]]
 \
+Así que necesitamos descubrir cómo usar el mismo archivo bat, pero hay un problema. no tenemos suficientes permisos
