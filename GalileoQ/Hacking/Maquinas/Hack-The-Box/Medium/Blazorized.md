@@ -283,5 +283,8 @@ Lo interesante aquí es el scriptpath, y necesitamos descubrir cómo leer ese ar
 ![[Pasted image 20240707011706.png]]
 
 ### smbclient
-vamos a enumerar los recursos compartido
+vamos a enumerar los recursos compartidos para identificar lo que hay en la ruta.
 ![[Pasted image 20240707013331.png]]
+
+
+![[Pasted image 20240707013510.png]]
