@@ -270,4 +270,5 @@ vamos a descifrar el hash con John para ver si podemos obtener una contraseña e
 usamos las credenciales que hemos obtenido con el usuario y vamos a ingresar con la herramienta `evil-winrm`
 ![[Pasted image 20240707010748.png]]
 
-Bien, nuestro último objetivo es obtener acceso a SSA_6010, por lo que necesitamos hacer una enumeración de AD, para esto usaré
+### acceso a SSA_6010
+nuestro último objetivo es obtener acceso al usuario `SSA_6010` por lo que necesitamos hacer una enumeración de AD, para esto usaré
