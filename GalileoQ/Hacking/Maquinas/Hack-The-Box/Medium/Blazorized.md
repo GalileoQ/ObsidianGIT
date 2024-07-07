@@ -267,4 +267,6 @@ vamos a descifrar el hash con John para ver si podemos obtener una contraseña e
 ![[Pasted image 20240707010527.png]]
 
 ### Accediendo como RSA_4810
-usamos las credenciales que hemos obtenido con el usuari
+usamos las credenciales que hemos obtenido con el usuario y vamos a ingresar con la herramienta `evil-winrm`
+![[Pasted image 20240707010748.png]]
+
