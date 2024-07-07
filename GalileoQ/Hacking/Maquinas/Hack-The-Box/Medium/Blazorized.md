@@ -287,5 +287,5 @@ vamos a enumerar los recursos compartidos para identificar lo que hay en la ruta
 ![[Pasted image 20240707013331.png]]
 
 aquí tenemos un archivo `0033D22D1ABE.bat` y lo descargamos con un `get`
-![[Pasted image 20240707013510.png]]
+![[Pasted image 20240707014111.png]]
 
