@@ -259,5 +259,6 @@ $User = Get-DomainUser 'RSA_4810'
 $User | Get-DomainSPNTicket | fl
 ```
 
-de esta manera podemos obtener un hash NTLM de kerberos que intentaremos decifrar con john the ri
+de esta manera podemos obtener un hash NTLM de kerberos que intentaremos descifrar con John the Ripper
 ![[Pasted image 20240707005833.png]]
+
