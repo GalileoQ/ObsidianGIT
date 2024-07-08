@@ -1,4 +1,4 @@
-[[Lab Pivoting and Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling - Synfonos]]
 #pivoting 
 # Con Autoroute y Módulo arp_scanner en Windows
 Estamos dentro de la máquina intermedia:

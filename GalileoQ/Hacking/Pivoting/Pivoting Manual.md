@@ -1,4 +1,4 @@
-[[Lab Pivoting and Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling - Synfonos]]
 #pivoting 
 Esta es la estructura de red que vamos a intentar replicar:
 ![[Pasted image 20240615202743.png]]

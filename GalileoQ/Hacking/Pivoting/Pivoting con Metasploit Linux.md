@@ -1,4 +1,4 @@
-[[Lab Pivoting and Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling - Synfonos]]
 #pivoting 
 ### CONFIGURACIÓN LABORATORIO
 Lo primero será ir a la parte de herramientas y Administrador de red: 
