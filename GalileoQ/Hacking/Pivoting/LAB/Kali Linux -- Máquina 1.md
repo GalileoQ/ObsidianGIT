@@ -1,4 +1,4 @@
-[[Lab Pivoting, Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3]]
 Desde la máquina Kali nos conectamos por ssh a la máquina 1 ya que tenemos conectividad:
 ![[Pasted image 20240615204048.png]]
 

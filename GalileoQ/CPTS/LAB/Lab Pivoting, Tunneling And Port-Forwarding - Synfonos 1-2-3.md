@@ -1,4 +1,4 @@
-[[Lab Pivoting, Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3]]
 #pivoting #Linux #tecnicas
 en este laboratorios vamos a realizar pruebas de pivoting y Tunneling entre 3 maquinas synfonos (1,2,3) 
 

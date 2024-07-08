@@ -1,4 +1,4 @@
-[[Lab Pivoting, Tunneling - Synfonos]]
+[[Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3]]
 #pivoting 
 Una vez que seamos usuarios root de una máquina, podemos recibir credenciales de ssh de todos los usuarios que entren por SSH; y el proceso será el siguiente:
 
