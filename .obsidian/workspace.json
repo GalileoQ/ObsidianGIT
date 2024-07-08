@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "9bf4d294b298cfc0",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707020641.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707014207.png",
