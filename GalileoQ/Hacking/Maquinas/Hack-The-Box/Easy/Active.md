@@ -57,6 +57,7 @@ Nmap done: 1 IP address (1 host up) scanned in 93.29 seconds
 
 ### crackmapexec
 enumeramos el sistema para ver a que nos estamos enfrentando. en este caso es un DC (Domain Controller) con el nombre active.htb
+<img src="![[Pasted image 20240611200347.png]]">
 ![[Pasted image 20240611200347.png]]
 ### smbmap
 `smbclient` para enumerar los archivos compartidos. esto lo podemos confirmar con `smbmap` en este caso nos reporta los permisos que tenemos sobre los archivos compartidos  
