@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7febd163fa27800",
+        "id": "4a06afb8138412c8",
         "type": "tabs",
         "children": [
           {
-            "id": "75cb09bef39a19ce",
+            "id": "e1484cbf4ebc1fe9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75cb09bef39a19ce",
+  "active": "e1484cbf4ebc1fe9",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
