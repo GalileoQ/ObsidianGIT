@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6b620f6724d028",
+        "id": "d3ef92175efed16d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb75ed222acf1c17",
+            "id": "035efc16e838772d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb75ed222acf1c17",
+  "active": "035efc16e838772d",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
