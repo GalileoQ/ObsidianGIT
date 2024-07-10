@@ -58,6 +58,4 @@ sudo nmap -sSU -p 53 --script dns-nsid 10.129.142.139 | # enumerando version del
 
 ```
 
-### HOLA...
-
-<img src="https://raw.githubusercontent.com/GalileoQ/ObsidianGIT/main/GalileoQ/CPTS/LAB/Img/Pasted%20image%2020240617144232.png ">
+### HOLA
