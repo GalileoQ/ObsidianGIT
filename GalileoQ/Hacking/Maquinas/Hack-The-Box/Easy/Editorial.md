@@ -110,3 +110,4 @@ sudo /usr/bin/python3 /opt/internal_apps/clone_changes/clone_prod_change.py "ext
 
 ![[Pasted image 20240616170350.png]]
 
+### WE ARE ROOT

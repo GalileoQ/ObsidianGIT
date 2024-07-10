@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c32ac705cb3df590",
+        "id": "27bf46d968357f79",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf4d294b298cfc0",
+            "id": "a5c3da565a01dd49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3.md",
+                "file": "GalileoQ/CPTS/nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3.md",
+                "file": "GalileoQ/CPTS/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3.md",
+                "file": "GalileoQ/CPTS/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3.md"
+                "file": "GalileoQ/CPTS/nmap.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bf4d294b298cfc0",
+  "active": "a5c3da565a01dd49",
   "lastOpenFiles": [
-    "Excalidraw/Pivoting.excalidraw",
-    "GalileoQ/CPTS/LAB/Lab Pivoting, Tunneling And Port-Forwarding - Synfonos 1-2-3.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+    "GalileoQ/CPTS/LAB.zip",
+    "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
@@ -193,7 +195,6 @@
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS",
-    "GalileoQ/Hacking/Windows/Active-Directory/Img",
-    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img"
+    "GalileoQ/Hacking/Windows/Active-Directory/Img"
   ]
 }
