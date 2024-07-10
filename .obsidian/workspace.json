@@ -11,7 +11,7 @@
             "id": "035efc16e838772d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "035efc16e838772d",
   "lastOpenFiles": [
+    "Sin título.canvas",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
@@ -172,14 +173,12 @@
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "Sin título.canvas",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
-    "GalileoQ/Template/capturas.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
