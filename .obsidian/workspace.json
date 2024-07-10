@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42faf04e693f0c1c",
+        "id": "b52ceb4b4b3680ad",
         "type": "tabs",
         "children": [
           {
-            "id": "d02f57b4e077f169",
+            "id": "b3c8a9e617fb6388",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "26e9ae5043fcc10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -151,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d02f57b4e077f169",
+  "active": "b3c8a9e617fb6388",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
