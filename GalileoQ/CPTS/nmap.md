@@ -58,4 +58,3 @@ sudo nmap -sSU -p 53 --script dns-nsid 10.129.142.139 | # enumerando version del
 
 ```
 
-### HOLA
