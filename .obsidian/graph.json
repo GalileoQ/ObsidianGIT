@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 6423556
       }
+    },
+    {
+      "query": "tag:#nmap  ",
+      "color": {
+        "a": 1,
+        "rgb": 8065936
+      }
     }
   ],
   "collapse-display": false,
@@ -55,11 +62,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 2.04134948096886,
   "lineSizeMultiplier": 0.600173010380623,
-  "collapse-forces": true,
-  "centerStrength": 0.506920415224914,
+  "collapse-forces": false,
+  "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 0.472318339100346,
   "linkDistance": 272,
-  "scale": 0.0423159026897593,
-  "close": true
+  "scale": 0.021528718442430372,
+  "close": false
 }
