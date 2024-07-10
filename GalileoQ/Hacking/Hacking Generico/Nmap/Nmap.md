@@ -1,3 +1,4 @@
+#nmap #Linux #tecnicas 
 **ESCANEOS BÁSICOS CON NMAP**
 Si queremos hacer un escaneo básico de los puertos de una máquina podemos hacerlo de esta forma:
 ![[Pasted image 20240613011731.png]]
