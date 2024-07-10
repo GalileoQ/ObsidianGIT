@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9a81ac1b3289b1",
+        "id": "42faf04e693f0c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "2efe4186e939d4a9",
+            "id": "d02f57b4e077f169",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2efe4186e939d4a9",
+  "active": "d02f57b4e077f169",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Template/Img.md",
     "GalileoQ/CPTS/nmap.md",
@@ -188,7 +181,6 @@
     "GalileoQ/Template/capturas.md",
     "GalileoQ/Template/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
