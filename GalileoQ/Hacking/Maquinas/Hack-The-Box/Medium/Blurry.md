@@ -56,7 +56,7 @@ enumerando subdominios podemos encontrar efectivamente el subdominio donde se en
 podemos obtener las credenciales de una api lo cual es bueno.
 ![[Pasted image 20240612120049.png]]
 
-### clearml-ini --user-agent 
+### clearml-ini
 al abrir `clearml-ini` vamos a ingresar las credenciales de la api que creamos esto nos creara un archivo `clearml.config` en el home 
 ![[Pasted image 20240612120135.png]]
 
