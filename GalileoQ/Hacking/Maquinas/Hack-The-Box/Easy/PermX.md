@@ -85,3 +85,5 @@ enumerando el sistema podemos encontrar otro usuario y establecer la conexión v
 tenemos permisos de super usuario para el binario `/opt/acl.sh` este archivo puede ser vulnerable ya que esta haciendo un llamado a `/etc/sudoers`
 ![[Pasted image 20240712161909.png]]
 
+### Explotación del binario /opt/
+![[Pasted image 20240712162102.png]]
