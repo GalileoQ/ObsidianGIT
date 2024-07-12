@@ -78,4 +78,6 @@ usando las credenciales que hemos conseguido no hemos podido establecer conexió
 ![[Pasted image 20240712152044.png]]
 
 `mtz`
-enumerando el sistema podemos encontrar otro usuario
+enumerando el sistema podemos encontrar otro usuario y establecer la conexión vía ssh
+![[Pasted image 20240712152253.png]]
+
