@@ -11,8 +11,12 @@
             "id": "54e7528c0ab2d9bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-07-11.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   },
   "active": "54e7528c0ab2d9bb",
   "lastOpenFiles": [
+    "Img/21daf6eae37e7278a90a98166ea4f3b3.webp",
+    "Img",
     "2024-07-11.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
@@ -179,14 +189,12 @@
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Kali Linux -- Máquina 1.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
     "GalileoQ/CPTS/LAB/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Img",
-    "GalileoQ/CPTS",
-    "GalileoQ/Hacking/Windows/Active-Directory/Img"
+    "GalileoQ/CPTS"
   ]
 }
