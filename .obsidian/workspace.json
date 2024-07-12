@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "2024-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "2024-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "2024-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-11.md"
+                "file": "2024-07-12.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "54e7528c0ab2d9bb",
   "lastOpenFiles": [
+    "2024-07-12.md",
     "Img/21daf6eae37e7278a90a98166ea4f3b3.webp",
     "Img",
     "2024-07-11.md",
@@ -175,7 +176,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707011706.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707010748.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707010527.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707005833.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
