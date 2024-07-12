@@ -117,7 +117,7 @@ aquí dumpeamos todo el proyecto para poder ejecutarlo
 ![[Pasted image 20240712175952.png]]
 
 `app.py`
-al leer el codigo del `scritp.py` puedo le 
+al leer el codigo del `scritp.py` puedo ver una linea que usa el `render_template_string` lo que me hace pensar que existe una vuln
 ![[Pasted image 20240712180855.png]]
 
 
