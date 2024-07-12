@@ -94,7 +94,7 @@ mtz@permx:~$ > sudo /opt/acl.sh mtz rwx /home/mtz/sudoers
 
 mtz@permx:~$ > nano sudoers 
 
-Nota: aqui abrimos el enlace simbolico que hemos c
+Nota: aqui abrimos el enlace simbolico que hemos cre
 
 mtz@permx:~$ > sudo su
  
