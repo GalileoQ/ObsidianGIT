@@ -95,6 +95,7 @@ aqui nos solicita una configuración para el servidor SMTP que recibirá alertas
 ![[Pasted image 20240712173218.png]]
 
 
+![[Pasted image 20240712173809.png]]
 
 
 
