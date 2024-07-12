@@ -47,14 +47,14 @@ encontramos un subdominio `lms` que me llama la atención
 hemos conseguido un LMS llamado chamilo así que intentaremos buscar alguna vulnerabilidad 
 ![[Pasted image 20240712140800.png]]
 
-
-[RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
-![[Pasted image 20240712140505.png]]
-
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
+| CVE-2023-4220  |                             |      |       |      |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
-|                |                             |      |       |      |
+
+[RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
+![[Pasted image 20240712140505.png]]
+
