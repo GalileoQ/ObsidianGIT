@@ -83,7 +83,7 @@ Nmap done: 1 IP address (1 host up) scanned in 37.88 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-
+parece que aqui podemos crear una nueva alerta asi que vamos hacerlo para ver
 ![[Pasted image 20240712172822.png]]
 
 ### Vulnerabilidades
