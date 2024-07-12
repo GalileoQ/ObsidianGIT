@@ -77,3 +77,5 @@ actualmente somos el usuario `www-data` y enumerando el sistema podemos consegui
 usando las credenciales que hemos conseguido no hemos podido establecer conexión vía ssh ya que el usuario o la contraseña son incorrecta
 ![[Pasted image 20240712152044.png]]
 
+`mtz`
+enumerando el sistema podemos encontrar otro usuario
