@@ -39,9 +39,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 no parece haber mucho en la web asi que vamos a seguir enumerando
 ![[Pasted image 20240712135330.png]]
 
-
-
-
+### Fuzzing con ffuf
+encontramos un subdominio `lms` que me 
+![[Pasted image 20240712135420.png]]
 
 
 ### Vulnerabilidades
