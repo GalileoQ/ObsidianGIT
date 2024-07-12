@@ -73,3 +73,6 @@ estaremos a la escucha en el puerto que hemos especificado y navegamos hasta la 
 actualmente somos el usuario `www-data` y enumerando el sistema podemos conseguir un archivo que contiene credenciales
 ![[Pasted image 20240712151512.png]]
 
+`chamilo`
+usando las credencia
+![[Pasted image 20240712152044.png]]
