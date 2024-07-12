@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-12.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-12.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-12.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-12.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "54e7528c0ab2d9bb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "2024-07-12.md",
     "Img/21daf6eae37e7278a90a98166ea4f3b3.webp",
     "Img",
@@ -188,7 +189,6 @@
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Pivoting/Chisel.md",
-    "GalileoQ/Hacking/Pivoting/LAB/Máquina 1 -- Máquina 2.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
