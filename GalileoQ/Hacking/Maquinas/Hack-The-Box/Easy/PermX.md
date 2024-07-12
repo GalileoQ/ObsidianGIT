@@ -48,7 +48,7 @@ hemos conseguido un LMS llamado chamilo así que intentaremos buscar alguna vuln
 ![[Pasted image 20240712140800.png]]
 
 
-
+[RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
 ![[Pasted image 20240712140505.png]]
 
 ### Vulnerabilidades
