@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb9f60880be7680e",
+        "id": "e831b10e40f6c571",
         "type": "tabs",
         "children": [
           {
-            "id": "54e7528c0ab2d9bb",
+            "id": "b5f7cef5ae171a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32016324232cb30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "316816def9b43e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,25 +139,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54e7528c0ab2d9bb",
+  "active": "b5f7cef5ae171a94",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712162102.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712161909.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712152253.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712152044.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712151512.png",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712141735.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712140800.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712140505.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712135420.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712135330.png",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "2024-07-12.md",
-    "Img/21daf6eae37e7278a90a98166ea4f3b3.webp",
     "Img",
     "2024-07-11.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",

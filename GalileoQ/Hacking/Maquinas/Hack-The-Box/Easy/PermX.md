@@ -103,3 +103,5 @@ y finalmente ponemos la contraseña del usuario mtz para tener una shell como ro
 ```
 
 ![[Pasted image 20240712162102.png]]
+
+### WE ARE ROOT
