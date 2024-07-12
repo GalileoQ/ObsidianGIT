@@ -113,7 +113,7 @@ instalamos la herramienta para poder dumpear todo el proyecto
 ![[Pasted image 20240712175412.png]]
 
 `dump_new`
-aqui dumpeamos todo
+aquí dumpeamos todo el proyecto para poder ejecutarlo
 ![[Pasted image 20240712175952.png]]
 
 
