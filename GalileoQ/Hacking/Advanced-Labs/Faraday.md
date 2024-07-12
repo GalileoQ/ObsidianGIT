@@ -116,6 +116,10 @@ instalamos la herramienta para poder dumpear todo el proyecto
 aquí dumpeamos todo el proyecto para poder ejecutarlo
 ![[Pasted image 20240712175952.png]]
 
+`app.py`
+al leer el codigo del `scritp.py` puedo le 
+![[Pasted image 20240712180855.png]]
+
 
 
 
