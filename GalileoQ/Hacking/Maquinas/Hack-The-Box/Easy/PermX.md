@@ -81,3 +81,6 @@ usando las credenciales que hemos conseguido no hemos podido establecer conexió
 enumerando el sistema podemos encontrar otro usuario y establecer la conexión vía ssh
 ![[Pasted image 20240712152253.png]]
 
+### Escalada de privilegios
+tenemos permisos de super usua
+![[Pasted image 20240712161909.png]]
