@@ -74,5 +74,6 @@ actualmente somos el usuario `www-data` y enumerando el sistema podemos consegui
 ![[Pasted image 20240712151512.png]]
 
 `chamilo`
-usando las credencia
+usando las credenciales que hemos conseguido no hemos podido establecer conexión vía ssh ya que el usuario o la contraseña son incorrecta
 ![[Pasted image 20240712152044.png]]
+
