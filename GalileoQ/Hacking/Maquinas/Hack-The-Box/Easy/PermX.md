@@ -45,6 +45,11 @@ encontramos un subdominio `lms` que me llama la atención
 
 [RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
 
+
+
+
+![[Pasted image 20240712140505.png]]
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
