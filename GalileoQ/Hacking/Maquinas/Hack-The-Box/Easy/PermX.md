@@ -44,7 +44,9 @@ encontramos un subdominio `lms` que me llama la atención
 ![[Pasted image 20240712135420.png]]
 
 [RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
-
+`Chamilo lms`
+hemos conseguido un LMS llamado chamilo así que intentaremos buscar alguna vulneravilidad 
+![[Pasted image 20240712140800.png]]
 
 
 
