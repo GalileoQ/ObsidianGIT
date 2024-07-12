@@ -91,8 +91,9 @@ creamos la cuenta y luego podemos iniciar sesión
 ![[Pasted image 20240712172959.png]]
 
 `Alert system`
-Se nos solicita una configuración para el servidor SMTP que recibirá alertas del sistema; Configuramos nuestro host con el puerto 25
+aqui nos solicita una configuración para el servidor SMTP que recibirá alertas del sistema; Configuramos nuestro host con el puerto 25
 ![[Pasted image 20240712173218.png]]
+
 
 
 
