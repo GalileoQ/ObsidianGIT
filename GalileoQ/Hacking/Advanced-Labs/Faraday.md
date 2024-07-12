@@ -109,9 +109,12 @@ Vemos que existe el directorio “.git”, por lo que hay un proyecto Git abiert
 ![[Pasted image 20240712175020.png]]
 
 ### git-dumper
-
+instalamos la herramienta para poder dumpear todo el proyecto 
 ![[Pasted image 20240712175412.png]]
 
+`dump_new`
+aqui dumpeamos todo
+![[Pasted image 20240712175952.png]]
 
 
 
