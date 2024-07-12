@@ -98,7 +98,8 @@ Nota: aqui abrimos el enlace simbolico que hemos creado y al final de todo agreg
 mtz    ALL=(ALL:ALL) ALL
 
 mtz@permx:~$ > sudo su
- 
+
+y finalmente ponemos la contraseña del usuario mtz para tener una shell como root
 ```
 
 ![[Pasted image 20240712162102.png]]
