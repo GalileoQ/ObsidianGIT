@@ -66,7 +66,6 @@ de esta forma vamos a cargar un archivo malicioso en este caso llamado shell.php
 
 ### Shell
 estaremos a la escucha en el puerto que hemos especificado y navegamos hasta la ruta donde se ha subido el archivo
-
-http://lms.permx.htb/main/inc/lib/javascript/bigupload/files/shell.php
-
+`http://lms.permx.htb/main/inc/lib/javascript/bigupload/files/shell.php`
 ![[Pasted image 20240712141735.png]]
+
