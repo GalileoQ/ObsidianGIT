@@ -97,9 +97,11 @@ aqui nos solicita una configuración para el servidor SMTP que recibirá alertas
 seleccionamos un nombre para el servidor. en este caso lo dejo por defecto y le damos en `Send`
 ![[Pasted image 20240712174048.png]]
 
-
+agregamos los datos que queremos para la alerta en este caso usare solo `test`
 ![[Pasted image 20240712174121.png]]
 
+`flag`
+despues de enviar la alerta la recibimos en nuestro servidor de python en donde podemos ber la primera 
 ![[Pasted image 20240712173809.png]]
 
 
