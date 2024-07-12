@@ -94,12 +94,16 @@ creamos la cuenta y luego podemos iniciar sesión
 aqui nos solicita una configuración para el servidor SMTP que recibirá alertas del sistema; Configuramos nuestro host con el puerto 25
 ![[Pasted image 20240712173218.png]]
 
+seleccionamos un nombre para el servidor. en este caso lo dejo por defecto y le damos en `Send`
 ![[Pasted image 20240712174048.png]]
+
+
+![[Pasted image 20240712174121.png]]
 
 ![[Pasted image 20240712173809.png]]
 
 
-![[Pasted image 20240712174121.png]]
+
 
 
 
