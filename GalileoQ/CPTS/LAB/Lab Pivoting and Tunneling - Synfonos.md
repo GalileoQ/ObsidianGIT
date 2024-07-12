@@ -12,7 +12,7 @@ primero vamos a identificar nuestra interfaz de red para saber en que segmento e
 	netdiscover -i eth0 -r ip
 ```
 
-![[Pasted image 20240617144232.png]]
+https://github.com/GalileoQ/ObsidianGIT/blob/main/GalileoQ/CPTS/Img/Pasted image 20240617144232.png
 
 # MAQUINA SYNFONOS 1 - 10.0.2.5
 
