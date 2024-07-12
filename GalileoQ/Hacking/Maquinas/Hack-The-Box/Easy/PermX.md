@@ -94,7 +94,8 @@ mtz@permx:~$ > sudo /opt/acl.sh mtz rwx /home/mtz/sudoers
 
 mtz@permx:~$ > nano sudoers 
 
-Nota: aqui abrimos el enlace simbolico que hemos cre
+Nota: aqui abrimos el enlace simbolico que hemos creado y al final de todo agregamos la linea:
+mtz    ALL=(ALL:ALL) ALL
 
 mtz@permx:~$ > sudo su
  
