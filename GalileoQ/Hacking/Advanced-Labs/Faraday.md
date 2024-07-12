@@ -117,7 +117,7 @@ aquí dumpeamos todo el proyecto para poder ejecutarlo
 ![[Pasted image 20240712175952.png]]
 
 `app.py`
-al leer el código del `scritp.py` puedo ver una linea que usa el `render_template_string` lo que me hace pensar que existe una vulnerabilidad así que vamos a mirarlo 
+al leer el código del `scritp.py` puedo ver una linea que usa el `render_template_string` lo que me hace pensar que existe una vulnerabilidad así que vamos a mirarlo [SSTI](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection?source=post_page-----889ef6888d79--------------------------------)
 ![[Pasted image 20240712180855.png]]
 
 
