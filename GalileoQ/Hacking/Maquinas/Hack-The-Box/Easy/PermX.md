@@ -69,3 +69,6 @@ estaremos a la escucha en el puerto que hemos especificado y navegamos hasta la 
 `http://lms.permx.htb/main/inc/lib/javascript/bigupload/files/shell.php`
 ![[Pasted image 20240712141735.png]]
 
+### User Pivoting
+actualmente somos el usuario `www-data` y enumerando el sistema podemos conseguir un archivo que 
+![[Pasted image 20240712151512.png]]
