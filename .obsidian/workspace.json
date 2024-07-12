@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32016324232cb30e",
+  "active": "54e7528c0ab2d9bb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "2024-07-12.md",
@@ -201,7 +201,6 @@
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
-    "GalileoQ/Hacking/Pivoting/Chisel.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",

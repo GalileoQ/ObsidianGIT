@@ -20,7 +20,8 @@ rtt min/avg/max/mdev = 155.524/155.524/155.524/0.000 ms
 
 ```
 
-### Enumeración 
+### Enumeración del puerto 80 (http)
+
 
 
 ### Vulnerabilidades
