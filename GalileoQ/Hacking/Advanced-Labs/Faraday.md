@@ -83,11 +83,11 @@ Nmap done: 1 IP address (1 host up) scanned in 37.88 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-parece que aqui podemos crear una nueva alerta asi que vamos hacerlo para ver que podemos conseguir
+parece que aqui podemos crear una cuenta para iniciar sesión 
 ![[Pasted image 20240712172822.png]]
 
 `Alert system`
-
+creamos la cuenta y luego podemos iniciar ses
 ![[Pasted image 20240712172959.png]]
 ### Vulnerabilidades
 
