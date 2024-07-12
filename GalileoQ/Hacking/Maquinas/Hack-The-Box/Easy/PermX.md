@@ -65,5 +65,5 @@ de esta forma vamos a cargar un archivo malicioso en este caso llamado shell.php
 ![[Pasted image 20240712140505.png]]
 
 ### Shell
-estaremos a la escucha en el puerto que hemos especificado y ha
+estaremos a la escucha en el puerto que hemos especificado y haremos un llamado del archivo
 ![[Pasted image 20240712141735.png]]
