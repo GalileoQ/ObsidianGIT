@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md"
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
               }
             }
           }
@@ -171,13 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54e7528c0ab2d9bb",
+  "active": "316816def9b43e3e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Shell/OneLiners.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712141735.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712140800.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712140505.png",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712135420.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240712135330.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
@@ -203,7 +204,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707020641.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707014207.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707014111.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707013510.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
