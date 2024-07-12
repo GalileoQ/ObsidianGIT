@@ -101,8 +101,9 @@ agregamos los datos que queremos para la alerta en este caso usare solo `test`
 ![[Pasted image 20240712174121.png]]
 
 `flag`
-despues de enviar la alerta la recibimos en nuestro servidor de python en donde podemos ber la primera 
+después de enviar la alerta la recibimos en nuestro servidor de python en donde podemos ber la primera flag
 ![[Pasted image 20240712173809.png]]
+
 
 
 
