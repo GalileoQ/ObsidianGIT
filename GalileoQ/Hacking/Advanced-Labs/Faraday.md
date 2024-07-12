@@ -105,8 +105,10 @@ después de enviar la alerta la recibimos en nuestro servidor de python en donde
 ![[Pasted image 20240712173809.png]]
 
 ### dirsearch
-Vemos que existe el directorio “.git”, por lo que hay un proyecto Git abierto. Usando git-dumper, podemos volcar todos los archivos de un proyecto ".git".
-![[Pasted image 20240712174845.png]]
+Vemos que existe el directorio “.git”, por lo que hay un proyecto Git abierto. Usando `git-dumper` podemos volcar todos los archivos de un proyecto ".git".
+![[Pasted image 20240712175020.png]]
+
+
 
 
 
