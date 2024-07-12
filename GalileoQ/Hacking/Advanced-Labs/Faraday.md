@@ -1,4 +1,4 @@
-
+#Advanced-Labs 
 
 ### Ping
 
@@ -11,8 +11,6 @@ PING 10.13.37.14 (10.13.37.14) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 166.552/166.552/166.552/0.000 ms
 ```
-
-### TTL = 
 
 ### nmap
 
