@@ -40,9 +40,10 @@ no parece haber mucho en la web asi que vamos a seguir enumerando
 ![[Pasted image 20240712135330.png]]
 
 ### Fuzzing con ffuf
-encontramos un subdominio `lms` que me llama la atencion
+encontramos un subdominio `lms` que me llama la atención
 ![[Pasted image 20240712135420.png]]
 
+[RCE](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git) 
 
 ### Vulnerabilidades
 
