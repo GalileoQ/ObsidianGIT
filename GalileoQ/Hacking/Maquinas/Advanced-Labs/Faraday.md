@@ -205,7 +205,7 @@ una ves identificado el usuario y la contraseña iniciamos sesión vía ssh
 ![[Pasted image 20240713113715.png]]
 
 ### idafree84_linux.run
-vamos a descargar la herramienta `ida` desde [IDAFREE](https://hex-rays.com/ida-free/#download). necesitamos i
+vamos a descargar la herramienta `ida` desde [IDAFREE](https://hex-rays.com/ida-free/#download). necesitamos instalar algunas herramientas y luego lo instalamos
 
 ```python
 sudo apt install libx11-dev libxext-dev libxtst-dev
