@@ -171,6 +171,9 @@ obtenemos los hash de los usuarios de la base de datos y ahora podemos intentar 
 vamos a crear un script en python que sea capaz de analizar estos hashes ya que han sido creados con una librería especifica. para ello necesitamos instalar esta librería y asegurarnos que este corriendo la `versión 2.2.2` ya que las nuevas versiones no funciona 
 
 ```python
+python3 -m pip install werkzeug==2.2.2 #Nota: esta es la version que necesitamos instalar ya que las versiones actualizadas no funcionan
+
+
 
 ```
 
