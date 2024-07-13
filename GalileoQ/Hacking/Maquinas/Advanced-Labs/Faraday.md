@@ -229,4 +229,6 @@ después de horas de investigación conseguimos una función que esta insertando
 haciendo un poco de reversing al archivo que hemos encontrado podemos ver que parece tener algunas palabras sin embargo aun no podemos leerlo
 ![[Pasted image 20240713155036.png]]
 
-###
+### ghidra
+utilizando una segunda herramienta hemos identificado el código que esta encargado de la verificación del input y podemos ver cuales son los archivos 
+![[Pasted image 20240713172954.png]]
