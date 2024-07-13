@@ -144,5 +144,5 @@ al ejecutar la ruta anterior nos lleva directamente al área de reporte y aquí 
 ![[Pasted image 20240712184542.png]]
 
 ### databases.db
-
+necesitamos leer este archivo de base de datos pero para hacerlo de mejor manera lo vamos a 
 ![[Pasted image 20240712203948.png]]
