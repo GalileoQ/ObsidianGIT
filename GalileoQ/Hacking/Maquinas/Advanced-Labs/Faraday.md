@@ -312,5 +312,6 @@ obtenemos una shell como root
 ![[Pasted image 20240713185808.png]]
 
 ### solo nos falta enumerar el puerto 8888
-haciendo uso de las credenciales que hemos encontrados 
+haciendo uso de las credenciales que hemos encontrados podemos enumerar este puerto
 ![[Pasted image 20240713185922.png]]
+
