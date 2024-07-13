@@ -315,3 +315,4 @@ obtenemos una shell como root
 haciendo uso de las credenciales que hemos encontrados podemos enumerar este puerto
 ![[Pasted image 20240713185922.png]]
 
+### nos falta una flag asi que debemos volver a la she
