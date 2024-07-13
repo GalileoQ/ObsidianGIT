@@ -220,3 +220,7 @@ cd /path/to/ida
 ```
 
 ![[Pasted image 20240713120200.png]]
+
+`Funcion main`
+después de horas de investigación 
+![[Pasted image 20240713154026.png]]
