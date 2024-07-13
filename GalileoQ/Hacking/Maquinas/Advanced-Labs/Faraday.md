@@ -261,6 +261,6 @@ for combination in product(characters, repeat=5):
         break
 ```
 
-de esta manera logramos
+de esta manera logramos aplicar el mismo principio del binario inicial para que pueda crear flag
 ![[Pasted image 20240713183248.png]]
 
