@@ -321,5 +321,5 @@ Después de investigar un poco sobre el rootkit Reptile, encontré una manera de
 ![[Pasted image 20240713190403.png]]
 
 ### chkrookit.txt
-Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos. []()
+Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos. [reptile](https://github.com/f0rb1dd3n/Reptile/wiki/Local-Usage?source=post_page-----889ef6888d79--------------------------------#hide-files-directories-and-kernel-module) 
 ![[Pasted image 20240713191139.png]]
