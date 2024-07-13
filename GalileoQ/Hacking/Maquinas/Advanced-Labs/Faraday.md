@@ -233,3 +233,6 @@ haciendo un poco de reversing al archivo que hemos encontrado podemos ver que pa
 utilizando una segunda herramienta hemos identificado el código que esta encargado de la verificación del input y podemos ver cuales son hexadecimales que se están usando
 ![[Pasted image 20240713172954.png]]
 
+`flag`
+hemos logrado sanitisar 
+![[Pasted image 20240713182216.png]]
