@@ -315,11 +315,16 @@ obtenemos una shell como root
 haciendo uso de las credenciales que hemos encontrados podemos enumerar este puerto
 ![[Pasted image 20240713185922.png]]
 
-### nos falta una flag así que debemos volver a la shell root
+### chkrootkit.txt
 Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos.
 
 ![[Pasted image 20240713190403.png]]
 
 ### chkrookit.txt
 Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos. [reptile](https://github.com/f0rb1dd3n/Reptile/wiki/Local-Usage?source=post_page-----889ef6888d79--------------------------------#hide-files-directories-and-kernel-module) 
+
+```python
+
+```
+
 ![[Pasted image 20240713191139.png]]
