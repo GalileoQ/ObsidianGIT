@@ -201,5 +201,6 @@ haciendo esto podemos encontrar 5 contraseñas las cuales no sabemos a cuales us
 ![[Pasted image 20240713113338.png]]
 
 ### ssh
-una ves identificado el usuario y la contrase
+una ves identificado el usuario y la contraseña iniciamos sesión vía ssh
 ![[Pasted image 20240713113715.png]]
+
