@@ -270,4 +270,7 @@ Antes de que podamos buscar más credenciales, podemos intentar usar la combinac
 ![[Pasted image 20240713183601.png]]
 
 
-encontramos varios logs realizados con “sqlmap” al archivo /update.php.
+`encontramos varios logs realizados con “sqlmap” al archivo /update.php.`
+Algunas líneas siguen un patrón, por ejemplo, “))>110”, seguidas de algo y un número decimal; lo que haremos será tomar esas líneas, decodificarlas en URL y convertir cada uno de los decimales en un texto legible con “chr”
+![[Pasted image 20240713184051.png]]
+
