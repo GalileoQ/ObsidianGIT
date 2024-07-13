@@ -236,3 +236,28 @@ utilizando una segunda herramienta hemos identificado el código que esta encarg
 `flag`
 hemos logrado limpiar muchísimo el output sin embargo parece que aun tenemos un problemas mas que solucionar ya que la flag parece estar al revés 
 ![[Pasted image 20240713182216.png]]
+
+
+### script python
+vamos a crear un script en python 
+```python
+#!/usr/bin/python3  
+from itertools import product  
+import struct, string  
+  
+flag = "FARADAY{d0ubl3_@nd_f1o@t_"  
+  
+characters = string.ascii_lowercase + string.punctuation  
+  
+for combination in product(characters, repeat=5):  
+    chars = "".join(combination).encode()  
+    value = b"_" + chars[:2] + b"}" + chars[2:] + b"@"  
+    result = 1665002837.488342 / struct.unpack("d", value)[0]  
+  
+    if abs(result - 4088116.817143337) <= 0.0000001192092895507812:    
+        value = chars[:2] + b"@" + chars[2:] + b"}"  
+        print(flag + value.decode())  
+        break
+```
+
+![[Pasted image 20240713182925.png]]
