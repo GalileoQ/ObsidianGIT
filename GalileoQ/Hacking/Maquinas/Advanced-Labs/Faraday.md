@@ -173,7 +173,27 @@ vamos a crear un script en python que sea capaz de analizar estos hashes ya que 
 ```python
 python3 -m pip install werkzeug==2.2.2 #Nota: esta es la version que necesitamos instalar ya que las versiones actualizadas no funcionan
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
+#!/usr/bin/python3  
+from werkzeug.security import check_password_hash  
+  
+  
+hashes = open("NombreDelHash", "r")  
+  
+for hash in hashes:  
+    hash = hash.strip()  
+    user = hash.split(":")[0]  
+    hash = hash.split(":")[1]  
+  
+    with open("rockyou.txt", "r", errors="ignore") as file:    
+        for line in file:  
+            password = line.strip()  
+            if check_password_hash(hash, password):  
+                print(f"Password found: {password}")  
+                break  
+else:  
+    print("Password not found in the given wordlist.")
 
 ```
 
