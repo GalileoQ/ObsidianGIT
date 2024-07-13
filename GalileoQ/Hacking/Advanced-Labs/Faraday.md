@@ -166,3 +166,4 @@ aquí debemos hacer el inverso para regresar los datos al formato `.db`  usando 
 `vamos a seleccionar la table de user_model`
 obtenemos los hash de los usuarios de la base de datos y ahora podemos intentar decodear
 ![[Pasted image 20240713002639.png]]
+
