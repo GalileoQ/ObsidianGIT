@@ -239,7 +239,8 @@ hemos logrado limpiar muchísimo el output sin embargo parece que aun tenemos un
 
 
 ### script python
-vamos a crear un script en python este script busca una combinación de 5 caracteres de la cadena `characters` tal que, al procesarse como un número flotante, nos de el resultado. esto lo hemos diseñado usando el mismo codigo que hemos extraido haciendo reversing
+vamos a crear un script en python este script busca una combinación de 5 caracteres de la cadena `characters` tal que, al procesarse como un número flotante, nos de el resultado. esto lo hemos diseñado usando el mismo código que hemos extraído haciendo reversing
+
 ```python
 #!/usr/bin/python3  
 from itertools import product  
@@ -260,4 +261,6 @@ for combination in product(characters, repeat=5):
         break
 ```
 
-![[Pasted image 20240713182925.png]]
+de esta manera logramos
+![[Pasted image 20240713183248.png]]
+
