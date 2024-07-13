@@ -144,7 +144,7 @@ al ejecutar la ruta anterior nos lleva directamente al área de reporte y aquí 
 ![[Pasted image 20240712184542.png]]
 
 ### databases.db
-necesitamos leer este archivo de base de datos pero para hacerlo de mejor manera lo vamos a encodear en base64 usando este comando
+necesitamos leer este archivo de base de datos para hacerlo de mejor manera lo vamos a encodear en base64 usando este comando y lo copiamos para enviarlo a nuestra maquina
 
 ```python
 base64 -w0 database.db
@@ -153,5 +153,5 @@ base64 -w0 database.db
 ![[Pasted image 20240712203948.png]]
 
 `ssqlite3`
-copiamos 
+aqui debemos hacer el inverso para poner  
 ![[Pasted image 20240712204304.png]]
