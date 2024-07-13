@@ -204,3 +204,4 @@ haciendo esto podemos encontrar 5 contraseñas las cuales no sabemos a cuales us
 una ves identificado el usuario y la contraseña iniciamos sesión vía ssh
 ![[Pasted image 20240713113715.png]]
 
+### idafree84_linux.run
