@@ -295,5 +295,6 @@ with open("/var/log/apache2/access.log") as file:
 ![[Pasted image 20240713184843.png]]
 
 ### Escalada de privilegios
-buscando binarios hemos conseguido el binario `pkexec` con la experiencia que ya tenemos sabemos muy bien que este binario es potencialmente vulnerable asi que vamos a intentar explotarlo para escalar privilegios
+buscando binarios hemos conseguido el binario `pkexec` con la experiencia que ya tenemos sabemos muy bien que este binario es potencialmente vulnerable así que vamos a intentar explotarlo para escalar privilegios
 ![[Pasted image 20240713184937.png]]
+
