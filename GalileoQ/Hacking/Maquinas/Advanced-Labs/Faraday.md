@@ -225,3 +225,6 @@ cd /path/to/ida
 después de horas de investigación conseguimos una función que esta insertando algun código relacionado con la palabra flag. vamos a copiar este codigo hexadecimal y lo guardamos en nuestra maquina
 ![[Pasted image 20240713154026.png]]
 
+### Reversing
+haciendo un poco de reversin
+![[Pasted image 20240713155036.png]]
