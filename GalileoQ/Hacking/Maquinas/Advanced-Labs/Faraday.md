@@ -274,3 +274,6 @@ Antes de que podamos buscar más credenciales, podemos intentar usar la combinac
 Algunas líneas siguen un patrón, por ejemplo, “))>110”, seguidas de algo y un número decimal; lo que haremos será tomar esas líneas, decodificarlas en URL y convertir cada uno de los decimales en un texto legible con “chr”
 ![[Pasted image 20240713184051.png]]
 
+### script log.py
+a expresión regular `"\)\)!=(\d+)"`está buscando el patrón `")!=<dígitos>"`. Si este patrón se encuentra en la línea, extrae la parte numérica que sigue a "!=", la convierte en un número entero e imprime el carácter ASCII correspondiente usando `chr(decimal)`.
+![[Pasted image 20240713184428.png]]
