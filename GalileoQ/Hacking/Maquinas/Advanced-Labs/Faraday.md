@@ -230,5 +230,6 @@ haciendo un poco de reversing al archivo que hemos encontrado podemos ver que pa
 ![[Pasted image 20240713155036.png]]
 
 ### ghidra
-utilizando una segunda herramienta hemos identificado el código que esta encargado de la verificación del input y podemos ver cuales son los archivos 
+utilizando una segunda herramienta hemos identificado el código que esta encargado de la verificación del input y podemos ver cuales son hexadecimales que se están usando
 ![[Pasted image 20240713172954.png]]
+
