@@ -315,4 +315,5 @@ obtenemos una shell como root
 haciendo uso de las credenciales que hemos encontrados podemos enumerar este puerto
 ![[Pasted image 20240713185922.png]]
 
-### nos falta una flag asi que debemos volver a la she
+### nos falta una flag así que debemos volver a la shell root
+Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos.
