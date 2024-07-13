@@ -222,5 +222,5 @@ cd /path/to/ida
 ![[Pasted image 20240713120200.png]]
 
 `Funcion main`
-después de horas de investigación conseguimos una función que esta insertando algo codigo relacionado con la palabra flag
+después de horas de investigación conseguimos una función que esta insertando algo código relacionado con la palabra flag
 ![[Pasted image 20240713154026.png]]
