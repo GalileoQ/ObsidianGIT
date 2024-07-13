@@ -200,3 +200,6 @@ else:
 haciendo esto podemos encontrar 5 contraseñas las cuales no sabemos a cuales usuarios pertenecen. pero es cuestión de hacer un par de pruebas para identificar los correctos
 ![[Pasted image 20240713113338.png]]
 
+### ssh
+una ves identificado el usuario y la contrase
+![[Pasted image 20240713113715.png]]
