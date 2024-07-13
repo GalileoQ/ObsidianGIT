@@ -269,3 +269,5 @@ Antes de que podamos buscar más credenciales, podemos intentar usar la combinac
 
 ![[Pasted image 20240713183601.png]]
 
+
+encontramos varios logs realizados con “sqlmap” al archivo /update.php.
