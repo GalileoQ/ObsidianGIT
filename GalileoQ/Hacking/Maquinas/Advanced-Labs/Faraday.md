@@ -205,3 +205,6 @@ una ves identificado el usuario y la contraseña iniciamos sesión vía ssh
 ![[Pasted image 20240713113715.png]]
 
 ### idafree84_linux.run
+vamos a descargar la herramienta `ida` desde []()
+
+![[Pasted image 20240713120200.png]]
