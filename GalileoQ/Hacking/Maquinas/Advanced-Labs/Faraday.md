@@ -292,5 +292,8 @@ with open("/var/log/apache2/access.log") as file:
             print(chr(decimal), end="")
 ```
 
-![[Pasted image 20240713184428.png]]
+![[Pasted image 20240713184843.png]]
 
+### Escalada 
+
+![[Pasted image 20240713184937.png]]
