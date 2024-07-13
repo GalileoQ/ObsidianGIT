@@ -168,7 +168,7 @@ obtenemos los hash de los usuarios de la base de datos y ahora podemos intentar 
 ![[Pasted image 20240713002639.png]]
 
 ### script python
-vamos a crear un script en python que sea capaz de analizar estos hashes ya que han sido creados con una librería especifica. para ello necesita
+vamos a crear un script en python que sea capaz de analizar estos hashes ya que han sido creados con una librería especifica. para ello necesitamos instalar esta librería y asegurarnos que este corriendo la `versión 2.2.2` ya que las nuevas versiones no funciona 
 
 ```python
 
