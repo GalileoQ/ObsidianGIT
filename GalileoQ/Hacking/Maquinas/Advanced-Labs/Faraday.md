@@ -319,3 +319,7 @@ haciendo uso de las credenciales que hemos encontrados podemos enumerar este pue
 Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos.
 
 ![[Pasted image 20240713190403.png]]
+
+
+
+![[Pasted image 20240713191139.png]]
