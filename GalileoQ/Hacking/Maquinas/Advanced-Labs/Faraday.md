@@ -275,5 +275,22 @@ Algunas líneas siguen un patrón, por ejemplo, “))>110”, seguidas de algo y
 ![[Pasted image 20240713184051.png]]
 
 ### script log.py
-a expresión regular `"\)\)!=(\d+)"`está buscando el patrón `")!=<dígitos>"`. Si este patrón se encuentra en la línea, extrae la parte numérica que sigue a "!=", la convierte en un número entero e imprime el carácter ASCII correspondiente usando `chr(decimal)`.
+a expresión regular `"\)\)!=(\d+)"`está buscando el patrón `")!=<dígitos>"`. Si este patrón se encuentra en la línea, extrae la parte numérica que sigue a `"!="`, la convierte en un número entero e imprime el carácter ASCII correspondiente usando `chr(decimal)`.
+
+```python
+#!/usr/bin/python3  
+import re, urllib.parse  
+  
+with open("/var/log/apache2/access.log") as file:    
+    for line in file:  
+        line = urllib.parse.unquote(line)  
+        if not "update.php" in line:  
+            continue  
+        regex = re.search("\)\)!=(\d+)", line)  
+        if regex:  
+            decimal = int(regex.group(1))  
+            print(chr(decimal), end="")
+```
+
 ![[Pasted image 20240713184428.png]]
+
