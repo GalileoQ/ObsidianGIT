@@ -153,5 +153,10 @@ base64 -w0 database.db
 ![[Pasted image 20240712203948.png]]
 
 `ssqlite3`
-aqui debemos hacer el inverso para poner  
+aquí debemos hacer el inverso para regresar los datos al formato `.db`  usando el siguiente comando  
+
+```python
+
+```
+
 ![[Pasted image 20240712204304.png]]
