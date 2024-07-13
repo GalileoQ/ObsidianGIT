@@ -265,6 +265,7 @@ de esta manera logramos aplicar el mismo principio del binario inicial para que 
 ![[Pasted image 20240713183248.png]]
 
 ### ssh
-Antes de que podamos buscar más credenciales, podemos intentar usar la combinación de usuario:contraseña “admin” que encontramos anteriormente (administrador:ihatepasta).
+Antes de que podamos buscar más credenciales, podemos intentar usar la combinación de usuario:contraseña que encontramos anteriormente por ejemplo (administrador:ihatepasta).
 
 ![[Pasted image 20240713183601.png]]
+
