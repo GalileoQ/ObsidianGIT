@@ -156,7 +156,15 @@ base64 -w0 database.db
 aquí debemos hacer el inverso para regresar los datos al formato `.db`  usando el siguiente comando  
 
 ```python
+❯ base64 -d new-db.txt > database.db
 
+❯ sqlite3 database.db
+
+SQLite version 3.46.0 2024-05-23 13:25:27
+Enter ".help" for usage hints.
+sqlite> .tables
+message_model  smtp_config    user_model   
+sqlite> 
 ```
 
 ![[Pasted image 20240712204304.png]]
