@@ -152,3 +152,6 @@ base64 -w0 database.db
 
 ![[Pasted image 20240712203948.png]]
 
+`ssqlite3`
+copiamos 
+![[Pasted image 20240712204304.png]]
