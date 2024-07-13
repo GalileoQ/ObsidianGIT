@@ -324,6 +324,20 @@ Después de investigar un poco sobre el rootkit Reptile, encontré una manera de
 Después de investigar un poco sobre el rootkit Reptile, encontré una manera de mostrar archivos. [reptile](https://github.com/f0rb1dd3n/Reptile/wiki/Local-Usage?source=post_page-----889ef6888d79--------------------------------#hide-files-directories-and-kernel-module) 
 
 ```python
+# /reptileRoberto/reptileRoberto_cmd show    
+Success!  
+#
+
+# ls  
+access.log  chkrootkit.txt  exploitme  flag.txt  snap  web  
+
+# ls /  
+bin  boot  cdrom  dev  etc  home  lib  lib32  lib64  libx32  lost+found  media  mnt  opt  proc  reptileRoberto  root  run  sbin  snap  srv  sys  tmp  usr  var  
+
+# ls /reptileRoberto  
+reptileRoberto  reptileRoberto_cmd  reptileRoberto_flag.txt  reptileRoberto_rc  reptileRoberto_shell  reptileRoberto_start  
+
+# cat /reptileRoberto/reptileRoberto_flag.txt  
 
 ```
 
