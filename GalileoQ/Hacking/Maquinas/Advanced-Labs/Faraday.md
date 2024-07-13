@@ -167,6 +167,11 @@ aquí debemos hacer el inverso para regresar los datos al formato `.db`  usando 
 obtenemos los hash de los usuarios de la base de datos y ahora podemos intentar decodear
 ![[Pasted image 20240713002639.png]]
 
-###
+### script python
+vamos a crear un script en python que sea capaz de analizar estos hashes ya que han sido creados con una librería especifica. para ello necesita
+
+```python
+
+```
 
 ![[Pasted image 20240713112828.png]]
