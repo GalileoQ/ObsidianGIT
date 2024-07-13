@@ -234,5 +234,5 @@ utilizando una segunda herramienta hemos identificado el código que esta encarg
 ![[Pasted image 20240713172954.png]]
 
 `flag`
-hemos logrado limpiar muchísimo el output sin embargo parece que aun tenemos un problemas mas que solucionar ya que la flag parece estar al revers 
+hemos logrado limpiar muchísimo el output sin embargo parece que aun tenemos un problemas mas que solucionar ya que la flag parece estar al revés 
 ![[Pasted image 20240713182216.png]]
