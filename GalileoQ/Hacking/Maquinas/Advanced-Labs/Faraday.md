@@ -197,4 +197,5 @@ else:
 
 ```
 
-![[Pasted image 20240713112828.png]]
+haciendo esto podemos encontrar 5 contraseñas las cuales no sabemos a cual usuarios pertenece
+![[Pasted image 20240713113338.png]]
