@@ -239,7 +239,7 @@ hemos logrado limpiar muchísimo el output sin embargo parece que aun tenemos un
 
 
 ### script python
-vamos a crear un script en python este script busca una combinación de 5 caracteres de la cadena `characters` tal que, al procesarse como un número de punto flotante de doble precisión, produzca un resultado muy específico.
+vamos a crear un script en python este script busca una combinación de 5 caracteres de la cadena `characters` tal que, al procesarse como un número flotante, nos de el resultado. esto lo hemos diseñado usando el mismo codigo que hemos extraido haciendo reversing
 ```python
 #!/usr/bin/python3  
 from itertools import product  
