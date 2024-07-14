@@ -143,6 +143,9 @@ vamos a intentar ingresar a otro mail y buscamos el del usuario admin
 descubrimos un correo enviado y tenemos un archivo.zip que vamos a descargar
 ![[Pasted image 20240714144626.png]]
 
+`flag`
+en los 
+![[Pasted image 20240714154645.png]]
 ### Deseralización de cookies
 viendo esto puedo pensar el realizar una Deseralización de las cookies del perfil. para ello necesitaremos una herramienta que se llama ysoserial que esta para Windows así que vamos a necesitar una maquina Windows para este paso
 ![[Pasted image 20240714145130.png]]
