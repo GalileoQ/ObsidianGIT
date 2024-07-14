@@ -72,8 +72,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 101.83 seconds
 ```
 
-### Enumeración del puerto 
-
+### Enumeración del puerto 80 (http)
+parece que tenemos muchas cosas aqui. debemos hacer una enumeracion mas a fundo de esta web
+![[Pasted image 20240714130314.png]]
 
 ### Vulnerabilidades
 
