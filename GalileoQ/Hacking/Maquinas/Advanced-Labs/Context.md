@@ -230,3 +230,5 @@ Si enviamos su contenido a un archivo.txt y después podemos hacer un cat para l
 ❯ cat out.txt | grep CONTEXT
 ```
 
+![[Pasted image 20240714161314.png]]
+
