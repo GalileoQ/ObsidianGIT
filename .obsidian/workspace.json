@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dnSp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md"
               }
             }
           }
@@ -162,6 +163,7 @@
   },
   "active": "7dca625ee831e597",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
@@ -196,7 +198,6 @@
     "GalileoQ/Template/Img.md",
     "GalileoQ/CPTS/nmap.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/CPTS/LAB.zip",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
