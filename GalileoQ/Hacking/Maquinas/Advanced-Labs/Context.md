@@ -77,7 +77,7 @@ El puerto `443/tcp` está abierto, y tiene corriendo el servicio `open ssl` es d
 parece que tenemos muchas cosas aquí. debemos hacer una enumeración mas a fundo de esta web
 ![[Pasted image 20240714130314.png]]
 
-si vamos al apartado de staff y analizamos el código fuente podemos encontrar la primera flag y también una dirección 
+si vamos al apartado de staff y analizamos el código fuente podemos encontrar la primera flag y también podemos ver unas credenciales
 ![[Pasted image 20240714130420.png]]
 
 
