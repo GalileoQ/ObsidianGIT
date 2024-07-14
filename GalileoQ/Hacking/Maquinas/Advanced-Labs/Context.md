@@ -123,6 +123,9 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 
 ![[Pasted image 20240714133355.png]]
 
+### Fuzzing con wfuzz
+haciendo fuzzing encontramos un directorio llamado 
+![[Pasted image 20240714133924.png]]
 
 
 
@@ -135,4 +138,4 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 | -------------- | --------------------------- | ---- | ----- | ---- |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
-|                |                             |      |       |      |
+|                |                             |      |       |
