@@ -85,8 +85,9 @@ aquí vamos a probar las credenciales que hemos conseguido
 ![[Pasted image 20240714132229.png]]
 
 ### SQLI
-después de logearnos podemos ver el apartado de management y lo primero que vemos es una especie de petición a una base de datos asi que probamos directamente una `SQLI` y obtenemos información del primer parametro  
+después de logearnos podemos ver el apartado de management y lo primero que vemos es una especie de petición a una base de datos asi que probamos directamente una `SQLI` y obtenemos información del primer parámetro `weapp`  
 ![[Pasted image 20240714132403.png]]
+
 
 
 
