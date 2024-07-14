@@ -143,6 +143,21 @@ vamos a intentar ingresar a otro mail y buscamos el del usuario admin
 descubrimos un correo enviado y tenemos un archivo.zip que vamos a descargar
 ![[Pasted image 20240714144626.png]]
 
+### Deseralización de cookie Profile
+
+![[Pasted image 20240714145130.png]]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Vulnerabilidades
