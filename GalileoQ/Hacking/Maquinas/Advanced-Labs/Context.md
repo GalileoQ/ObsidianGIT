@@ -85,7 +85,7 @@ aquí vamos a probar las credenciales que hemos conseguido
 ![[Pasted image 20240714132229.png]]
 
 ### SQLI
-
+después de logearnos podemos ver el apartado de management y lo primero que vemos es una especie de peticion  
 ![[Pasted image 20240714132403.png]]
 
 
