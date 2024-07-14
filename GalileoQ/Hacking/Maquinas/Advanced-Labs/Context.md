@@ -163,7 +163,8 @@ desde nuestra maquina Windows descargamos la herramienta [ysoserial](https://git
 
 ![[Pasted image 20240714150450.png]]
 
-
+### Cookie Profile
+en este punto solo debemos crear una nueva `cookie` llamada `profile` en 
 ![[Pasted image 20240714152851.png]]
 
 
