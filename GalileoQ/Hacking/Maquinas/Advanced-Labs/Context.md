@@ -156,6 +156,7 @@ desde nuestra maquina Windows descargamos la herramienta [ysoserial](https://git
 ![[Pasted image 20240714150450.png]]
 
 
+![[Pasted image 20240714152851.png]]
 
 
 
