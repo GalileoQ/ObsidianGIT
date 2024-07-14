@@ -176,8 +176,19 @@ tenemos algunos logs que se ven bastante interesantes sin embargo uno de ellos c
 ![[Pasted image 20240714155846.png]]
 
 ### sqsh
-
+usando la herramienta `sqsh` nos podemos conectar directamente a la base de datos para poder enumerarla
 ```python
+1> select * from openquery("web\clients", 'select name from master..sysdatabases');
+2> go
+
+master
+tempdb
+model
+msdb
+clients
+
+(5 rows affected)
+1>
 
 ```
 
