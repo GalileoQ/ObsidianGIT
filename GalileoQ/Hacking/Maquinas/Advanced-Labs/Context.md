@@ -80,6 +80,10 @@ parece que tenemos muchas cosas aquí. debemos hacer una enumeración mas a fund
 si vamos al apartado de staff y analizamos el código fuente podemos encontrar la primera flag y también podemos ver unas credenciales
 ![[Pasted image 20240714130420.png]]
 
+### admin
+aquí vamos a probar las credenciales que hemos conseguido 
+![[Pasted image 20240714132229.png]]
+
 ### SQLI
 ![[Pasted image 20240714132147.png]]
 
