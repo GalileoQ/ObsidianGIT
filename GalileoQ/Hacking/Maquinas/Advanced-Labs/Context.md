@@ -88,7 +88,15 @@ aquí vamos a probar las credenciales que hemos conseguido
 después de logearnos podemos ver el apartado de management y lo primero que vemos es una especie de petición a una base de datos asi que probamos directamente una `SQLI` y obtenemos información del primer parámetro `weapp`  
 ![[Pasted image 20240714132403.png]]
 
+### Enumeración de la base de datos
 
+```python
+```
+'+(select name from webapp..sysobjects where xtype = 'U' order by name offset 1 rows fetch next 1 rows only)+'
+``
+```
+
+![[Pasted image 20240714132734.png]]
 
 
 
