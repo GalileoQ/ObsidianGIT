@@ -167,7 +167,9 @@ desde nuestra maquina Windows descargamos la herramienta [ysoserial](https://git
 en este punto solo debemos crear una nueva `cookie` llamada `profile` y en el valor pondremos la data serializada que creamos con ysoserial. luego debemos ingresar a la pagina ir al apartado de `/admin` y debemos iniciar sesión. esto hará que la cookie que hemos creado se ejecute y nos devuelva una shell `en la ruta C:\Users\Public encontramos la siguiente flag`
 ![[Pasted image 20240714152851.png]]
 
-
+### Logs
+tenemos algunos logs que se ven bastante interesantes sin embargo
+![[Pasted image 20240714155655.png]]
 
 
 
