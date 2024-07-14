@@ -164,7 +164,7 @@ desde nuestra maquina Windows descargamos la herramienta [ysoserial](https://git
 ![[Pasted image 20240714150450.png]]
 
 ### Cookie Profile
-en este punto solo debemos crear una nueva `cookie` llamada `profile` en 
+en este punto solo debemos crear una nueva `cookie` llamada `profile` y en el valor pondremos la data serializada que creamos con ysoserial. luego debemos ingresar a la pagina ir al apartado de `/admin` y debemos iniciar sesión. esto hara que la
 ![[Pasted image 20240714152851.png]]
 
 
