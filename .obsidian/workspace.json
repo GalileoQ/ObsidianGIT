@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md"
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "dac305c20f38b867",
   "lastOpenFiles": [
-    "2024-07-14.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
+    "2024-07-14.md",
     "2024-07-13.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713191139.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713190403.png",
@@ -190,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
-    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
