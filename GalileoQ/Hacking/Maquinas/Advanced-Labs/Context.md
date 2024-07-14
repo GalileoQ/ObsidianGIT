@@ -135,7 +135,9 @@ en este directorio tenemos una web de `Outlook` en la cual obviamente vamos a pr
 haciendo uso de las credenciales que hemos conseguimos podemos hacer un inicio de sesión en Outlook
 ![[Pasted image 20240714134318.png]]
 
-
+### open another mail box
+vamos a intentar ingresar a otro mail y buscamos el del usuario admin
+![[Pasted image 20240714144522.png]]
 
 
 
