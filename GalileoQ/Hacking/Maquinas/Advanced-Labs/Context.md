@@ -219,3 +219,4 @@ queue_messages_2041058307
 
 ![[Pasted image 20240714160548.png]]
 
+tenemos un cred_details
