@@ -196,3 +196,11 @@ clients
 
 ![[Pasted image 20240714160138.png]]
 
+`Seguimos enumerando`
+
+```python
+select * from openquery("web\clients", 'select name from clients..sysobjects');
+```
+
+![[Pasted image 20240714160548.png]]
+

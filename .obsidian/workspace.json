@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +148,7 @@
   },
   "active": "dac305c20f38b867",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714160548.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714160138.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714155846.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714155655.png",
@@ -159,7 +159,6 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714144626.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714144522.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714134318.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714134042.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "2024-07-14.md",
