@@ -116,7 +116,8 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 
 ![[Pasted image 20240714133156.png]]
 
-
+`haciendo muchas p`
+![[Pasted image 20240714133355.png]]
 
 
 
