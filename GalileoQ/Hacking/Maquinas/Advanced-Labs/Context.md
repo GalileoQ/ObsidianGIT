@@ -178,6 +178,8 @@ tenemos algunos logs que se ven bastante interesantes sin embargo uno de ellos c
 ### sqsh
 usando la herramienta `sqsh` nos podemos conectar directamente a la base de datos para poder enumerarla
 ```python
+sqsh -S 10.13.37.12:1433 -U teignton\\karl.memaybe -P 'B6rQx_d&RVqvcv2A'
+
 1> select * from openquery("web\clients", 'select name from master..sysdatabases');
 2> go
 
@@ -193,3 +195,4 @@ clients
 ```
 
 ![[Pasted image 20240714160138.png]]
+
