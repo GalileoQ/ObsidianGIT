@@ -173,17 +173,5 @@ tenemos algunos logs que se ven bastante interesantes sin embargo uno de ellos c
 
 `Credenciales`
 
+![[Pasted image 20240714155846.png]]
 
-
-
-
-
-
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
