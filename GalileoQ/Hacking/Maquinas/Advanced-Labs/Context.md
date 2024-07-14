@@ -131,6 +131,10 @@ haciendo Fuzzing encontramos un directorio llamado owa
 en este directorio tenemos una web de `Outlook` en la cual obviamente vamos a probar las credenciales que hemos conseguido
 ![[Pasted image 20240714134042.png]]
 
+### Outlook
+haciendo uso de las credenciales que hemos conseguimos podemos hacer un inicio de sesión en Outlook
+![[Pasted image 20240714134318.png]]
+
 
 
 
