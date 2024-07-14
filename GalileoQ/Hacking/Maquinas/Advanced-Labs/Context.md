@@ -168,8 +168,10 @@ en este punto solo debemos crear una nueva `cookie` llamada `profile` y en el va
 ![[Pasted image 20240714152851.png]]
 
 ### Logs
-tenemos algunos logs que se ven bastante interesantes sin embargo
+tenemos algunos logs que se ven bastante interesantes sin embargo uno de ellos contiene credenciales en texto claro
 ![[Pasted image 20240714155655.png]]
+
+`Credenciales`
 
 
 
