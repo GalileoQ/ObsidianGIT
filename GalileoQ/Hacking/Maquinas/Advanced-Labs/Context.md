@@ -102,6 +102,8 @@ después de logearnos podemos ver el apartado de management y lo primero que vem
 en esta enumeración podemos ver que existe una tabla que se llama `users`
 ![[Pasted image 20240714132734.png]]
 
+`dumpeamos el campo users`
+![[Pasted image 20240714133051.png]]
 
 
 
