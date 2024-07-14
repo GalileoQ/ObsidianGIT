@@ -140,8 +140,9 @@ vamos a intentar ingresar a otro mail y buscamos el del usuario admin
 ![[Pasted image 20240714144522.png]]
 
 ### jay teignton
-descub
+descubrimos un correo enviado y tenemos un archivo.zip que vamos a descargar
 ![[Pasted image 20240714144626.png]]
+
 
 
 ### Vulnerabilidades
