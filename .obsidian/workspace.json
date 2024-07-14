@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mssql",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
               }
             }
           }
@@ -163,6 +162,7 @@
   },
   "active": "7dca625ee831e597",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714161314.png",
