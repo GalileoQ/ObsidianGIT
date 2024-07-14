@@ -86,6 +86,11 @@ aquí vamos a probar las credenciales que hemos conseguido
 
 ### SQLI
 después de logearnos podemos ver el apartado de management y lo primero que vemos es una especie de petición a una base de datos asi que probamos directamente una `SQLI` y obtenemos información del primer parámetro `weapp`  
+
+```python
+'+(select db_name())+'
+```
+
 ![[Pasted image 20240714132403.png]]
 
 ### Enumeración de la base de datos
@@ -96,6 +101,7 @@ después de logearnos podemos ver el apartado de management y lo primero que vem
 
 en esta enumeración podemos ver que existe una tabla que se llama `users`
 ![[Pasted image 20240714132734.png]]
+
 
 
 
