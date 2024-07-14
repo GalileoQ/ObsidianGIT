@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dac305c20f38b867",
+  "active": "06caecd7a2f23ccb",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714160548.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714160138.png",
