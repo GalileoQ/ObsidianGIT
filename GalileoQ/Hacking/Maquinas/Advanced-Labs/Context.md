@@ -85,7 +85,8 @@ aquí vamos a probar las credenciales que hemos conseguido
 ![[Pasted image 20240714132229.png]]
 
 ### SQLI
-![[Pasted image 20240714132147.png]]
+
+![[Pasted image 20240714132403.png]]
 
 
 
