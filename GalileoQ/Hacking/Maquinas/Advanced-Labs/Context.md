@@ -73,6 +73,7 @@ Nmap done: 1 IP address (1 host up) scanned in 101.83 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
+El puerto `443/tcp` está abierto, y tiene corriendo el servicio `open ssl` es decir que es una `web https`.
 parece que tenemos muchas cosas aquí. debemos hacer una enumeración mas a fundo de esta web
 ![[Pasted image 20240714130314.png]]
 
