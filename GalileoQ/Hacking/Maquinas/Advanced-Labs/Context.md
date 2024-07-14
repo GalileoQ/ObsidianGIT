@@ -105,7 +105,8 @@ en esta enumeración podemos ver que existe una tabla que se llama `users`
 `dumpeamos el campo users`
 ![[Pasted image 20240714133051.png]]
 
-
+`dumpeamos el campo password`
+![[Pasted image 20240714133156.png]]
 
 
 
