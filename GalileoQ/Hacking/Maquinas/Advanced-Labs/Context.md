@@ -175,3 +175,10 @@ tenemos algunos logs que se ven bastante interesantes sin embargo uno de ellos c
 
 ![[Pasted image 20240714155846.png]]
 
+### sqsh
+
+```python
+
+```
+
+![[Pasted image 20240714160138.png]]
