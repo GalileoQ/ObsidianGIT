@@ -128,8 +128,9 @@ haciendo Fuzzing encontramos un directorio llamado owa
 ![[Pasted image 20240714133924.png]]
 
 ### owa
-en este 
+en este directorio tenemos una web de `Outlook` en la cual obviamente vamos a probar las credenciales que hemos conseguido
 ![[Pasted image 20240714134042.png]]
+
 
 
 
