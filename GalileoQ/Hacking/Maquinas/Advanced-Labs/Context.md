@@ -139,6 +139,9 @@ haciendo uso de las credenciales que hemos conseguimos podemos hacer un inicio d
 vamos a intentar ingresar a otro mail y buscamos el del usuario admin
 ![[Pasted image 20240714144522.png]]
 
+### jay teignton
+descub
+![[Pasted image 20240714144626.png]]
 
 
 ### Vulnerabilidades
