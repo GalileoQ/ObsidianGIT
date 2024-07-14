@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8bfc91bdba9516f",
+        "id": "7d884e621de668da",
         "type": "tabs",
         "children": [
           {
-            "id": "5810716e6fe7052e",
+            "id": "dac305c20f38b867",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5810716e6fe7052e",
+  "active": "dac305c20f38b867",
   "lastOpenFiles": [
+    "2024-07-13.md",
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713191139.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713190403.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713185922.png",
@@ -159,9 +161,6 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713184843.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713184428.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713184051.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713183601.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
-    "2024-07-13.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",

@@ -334,7 +334,7 @@ access.log  chkrootkit.txt  exploitme  flag.txt  snap  web
 # ls /  
 bin  boot  cdrom  dev  etc  home  lib  lib32  lib64  libx32  lost+found  media  mnt  opt  proc  reptileRoberto  root  run  sbin  snap  srv  sys  tmp  usr  var  
 
-# ls /reptileRoberto  
+# cd /reptileRoberto  
 reptileRoberto  reptileRoberto_cmd  reptileRoberto_flag.txt  reptileRoberto_rc  reptileRoberto_shell  reptileRoberto_start  
 
 # cat /reptileRoberto/reptileRoberto_flag.txt  
@@ -342,3 +342,5 @@ reptileRoberto  reptileRoberto_cmd  reptileRoberto_flag.txt  reptileRoberto_rc  
 ```
 
 ![[Pasted image 20240713191139.png]]
+
+### WE ARE ROOT
