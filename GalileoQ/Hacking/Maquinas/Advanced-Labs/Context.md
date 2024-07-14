@@ -73,8 +73,11 @@ Nmap done: 1 IP address (1 host up) scanned in 101.83 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-parece que tenemos muchas cosas aqui. debemos hacer una enumeracion mas a fundo de esta web
+parece que tenemos muchas cosas aquí. debemos hacer una enumeración mas a fundo de esta web
 ![[Pasted image 20240714130314.png]]
+
+si vamos al apartado de staff y analizamos el codigo fuente podemos encontrar la primera flag
+![[Pasted image 20240714130420.png]]
 
 ### Vulnerabilidades
 
