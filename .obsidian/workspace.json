@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64bd69719d1bb1d6",
+        "id": "b1df387811e1ab31",
         "type": "tabs",
         "children": [
           {
-            "id": "c957b7c890298a62",
+            "id": "4e583f27dbd9d9f5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -139,8 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c957b7c890298a62",
+  "active": "4e583f27dbd9d9f5",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Hacking Generico/Wrapper - Ejecución Remota de Comandos en LFI.md",
     "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
     "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
@@ -164,9 +167,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
-    "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
-    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715164455.png",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707004710.png",
