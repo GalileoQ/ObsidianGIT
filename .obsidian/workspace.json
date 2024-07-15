@@ -14,17 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "fdafa3fb1bfd0f06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdafa3fb1bfd0f06",
+  "active": "bfffe34634da7995",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715164455.png",
     "Excalidraw/Pivoting.excalidraw",
