@@ -71,6 +71,9 @@ efectivamente conseguimos dos exploits relacionados con esta versión
 ![[Pasted image 20240715163624.png]]
 
 ### smbmap
-tenemos un archivo `tmp` con permisos de lectura
+tenemos un archivo `tmp` con permisos de lectura pero realmente no hay nada importante
 ![[Pasted image 20240715163824.png]]
 
+### msfconsole
+vamos a utilizar el exploit que conseguimos a 
+![[Pasted image 20240715164455.png]]
