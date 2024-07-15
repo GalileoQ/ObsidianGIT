@@ -274,3 +274,5 @@ vamos a crear un payload con msfvenon y un servidor de python para poder subirlo
 ### SharpGPOAbuse
 
 ![[Pasted image 20240714210819.png]]
+
+### WE ARE ROOT
