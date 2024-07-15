@@ -250,5 +250,5 @@ Dentro podemos ver `credenciales`
 ![[dnSpy2.png]]
 
 ### evil-winrm
-
+de esta manera obtenemos una conexión 
 ![[Pasted image 20240714204858.png]]
