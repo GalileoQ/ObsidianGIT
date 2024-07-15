@@ -25,7 +25,28 @@
       "query": "tag:#Easy  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 651269
+      }
+    },
+    {
+      "query": "tag:#fuzzing  ",
+      "color": {
+        "a": 1,
+        "rgb": 8602550
+      }
+    },
+    {
+      "query": "tag:#hard  ",
+      "color": {
+        "a": 1,
+        "rgb": 16427776
+      }
+    },
+    {
+      "query": "tag:#medium  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
