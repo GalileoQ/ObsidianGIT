@@ -246,4 +246,7 @@ cat dll | base64 -d > out
 
 ![[dnSpy1.png]]
 
+Dentro podemos ver `credenciales`
 ![[dnSpy2.png]]
+
+### 
