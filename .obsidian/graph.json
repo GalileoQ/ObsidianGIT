@@ -46,7 +46,28 @@
       "query": "tag:#medium  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16249720
+      }
+    },
+    {
+      "query": "tag:#nmap  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#pivoting  ",
+      "color": {
+        "a": 1,
+        "rgb": 16450564
+      }
+    },
+    {
+      "query": "tag:#windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
