@@ -67,8 +67,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 `el servidor ftp parece estar en una version antigua que podria ser vulnerable`
 ### Enumeración del puerto 21 (FTP)
-efectivamente conseguimos dos e
+efectivamente conseguimos dos exploits relacionados con esta versión 
 ![[Pasted image 20240715163624.png]]
+
 
 ### Vulnerabilidades
 
