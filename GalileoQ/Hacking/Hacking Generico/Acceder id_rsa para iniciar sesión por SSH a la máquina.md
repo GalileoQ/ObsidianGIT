@@ -1,3 +1,4 @@
+#tecnicas #nmap 
 Por tanto lo que podemos hacer es extraer la ssh e iniciar sesión para que se ejecute el script por parte de root y podamos recibir la conexión:
 ![[Pasted image 20240612162353.png]]
 

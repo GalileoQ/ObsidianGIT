@@ -1,3 +1,4 @@
+#nmap #tecnicas 
 ## DETECTAR EQUIPOS CONECTADOS A MI RED CON ARP-SCAN
 Para ello tenemos que ejecutar el siguiente comando pasándole la interfaz de red que estemos utilizando:
 ![[Pasted image 20240612161752.png]]
