@@ -70,11 +70,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 efectivamente conseguimos dos exploits relacionados con esta versión 
 ![[Pasted image 20240715163624.png]]
 
+### smbmap
 
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+![[Pasted image 20240715163824.png]]
