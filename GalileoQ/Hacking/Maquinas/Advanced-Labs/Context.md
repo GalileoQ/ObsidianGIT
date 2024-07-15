@@ -251,4 +251,5 @@ Dentro podemos ver `credenciales`
 
 ### evil-winrm
 de esta manera obtenemos una conexión 
-![[Pasted image 20240714204858.png]]
+![[Pasted image 20240714205120.png]]
+
