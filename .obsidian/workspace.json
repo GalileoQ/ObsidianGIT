@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md"
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "dac305c20f38b867",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715164455.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715163824.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715163624.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
     "2024-07-15.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714211412.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714210911.png",
@@ -163,7 +163,6 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714205120.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714204858.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/dnSpy2.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/dnSpy1.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Windows/impacket.md",
