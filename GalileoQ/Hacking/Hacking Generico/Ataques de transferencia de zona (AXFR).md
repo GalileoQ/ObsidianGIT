@@ -1,3 +1,4 @@
+#tecnicas #nmap 
 Los ataques de transferencia de zona, también conocidos como AXFR (siglas de "Authoritative eXtensible File Transfer Protocol") son un tipo de ataque dirigido a los servidores de nombres de dominio para obtener información sensible sobre los dominios de una organización.
 
 ----------------------------

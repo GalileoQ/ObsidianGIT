@@ -1,4 +1,5 @@
-#
+#tecnicas #nmap 
+
 Utilizaremos la web de DVWA de la máquina metasploitable 2:
 ![[Pasted image 20240612162419.png]]
 

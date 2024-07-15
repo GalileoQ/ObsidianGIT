@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c957b7c890298a62",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
+    "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
@@ -188,8 +190,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "Sin título.canvas",
     "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/Template/Img.md",
     "GalileoQ/CPTS/LAB.zip",
     "GalileoQ/Template/Img",
     "Excalidraw",

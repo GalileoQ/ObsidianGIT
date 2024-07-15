@@ -1,3 +1,4 @@
+#tecnicas #nmap 
 Un ataque de deserialización es una vulnerabilidad de seguridad que ocurre cuando una aplicación deserializa (convierte en objeto) datos provenientes de una fuente externa, como una solicitud de red o un archivo. Esta vulnerabilidad puede ser explotada por un atacante malintencionado para ejecutar código malicioso o manipular datos en la aplicación objetivo.
 
 -------------------
