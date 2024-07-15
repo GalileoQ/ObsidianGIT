@@ -1,11 +1,17 @@
-#Easy #nmap #tecnicas #
+#Easy #nmap #tecnicas #Linux 
 ### Ping
 
 ```python
+ping -c 1 10.10.10.3
+PING 10.10.10.3 (10.10.10.3) 56(84) bytes of data.
+64 bytes from 10.10.10.3: icmp_seq=1 ttl=63 time=153 ms
 
+--- 10.10.10.3 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 152.804/152.804/152.804/0.000 ms
 ```
 
-### TTL = 
+### TTL = 63 Linux
 
 ### nmap
 
@@ -59,6 +65,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Mon Jul 15 16:25:34 2024 -- 1 IP address (1 host up) scanned in 79.43 seconds
 ```
 
+`el serv`
 ### Enumeración 
 
 
