@@ -1,86 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#ActiveDirectory  ",
-      "color": {
-        "a": 1,
-        "rgb": 12528
-      }
-    },
-    {
-      "query": "tag:#Advanced-Labs  ",
-      "color": {
-        "a": 1,
-        "rgb": 8784619
-      }
-    },
-    {
-      "query": "tag:#Easy  ",
-      "color": {
-        "a": 1,
-        "rgb": 651269
-      }
-    },
-    {
-      "query": "tag:#fuzzing  ",
-      "color": {
-        "a": 1,
-        "rgb": 8602550
-      }
-    },
-    {
-      "query": "tag:#hard  ",
-      "color": {
-        "a": 1,
-        "rgb": 16427776
-      }
-    },
-    {
-      "query": "tag:#medium  ",
-      "color": {
-        "a": 1,
-        "rgb": 16249720
-      }
-    },
-    {
-      "query": "tag:#nmap  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#pivoting  ",
-      "color": {
-        "a": 1,
-        "rgb": 16450564
-      }
-    },
-    {
-      "query": "tag:#windows  ",
-      "color": {
-        "a": 1,
-        "rgb": 2755959
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10.0692041522491,
-  "linkStrength": 0.299307958477509,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.030182895067324248,
+  "scale": 0.32133638605035975,
   "close": false
 }
