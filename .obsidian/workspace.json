@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6011370c8192fa86",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png"
+              }
             }
           }
         ]
@@ -139,8 +154,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02c49f5db58ae563",
+  "active": "6011370c8192fa86",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713112828.png",
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713185648.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122013.png",
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619125654.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713184428.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240712174845.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622201412.png",
@@ -151,11 +170,7 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715163824.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715163624.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714211412.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714210911.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714210819.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714205426.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714205120.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Windows/impacket.md",
