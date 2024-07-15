@@ -1,4 +1,4 @@
-#tecnicas #Sn
+#tecnicas #Sniffing
 Vamos a utilizar la herramienta de bettercap:
 ![[Pasted image 20240612162946.png]]
 ## ARP Spoofing

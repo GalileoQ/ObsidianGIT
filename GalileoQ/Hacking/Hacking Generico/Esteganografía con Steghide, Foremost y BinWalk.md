@@ -1,3 +1,4 @@
+#tecnicas 
 La esteganografía sirve para ocultar información en algún archivo; y para ello vamos a utilizar una herramienta que se llama steghide, la cual podemos ejecutar el comando steghide --help para ver las distintas opciones que tiene:
 ![[Pasted image 20240612232138.png]]
 ### OCULTAR MENSAJE OCULTO EN IMAGEN CON STEGHIDE

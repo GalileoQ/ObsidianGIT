@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Exiftool - Extraer Ubicación de una Foto y sus Metadatos.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "c957b7c890298a62",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Esteganografía con Steghide, Foremost y BinWalk.md",
+    "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
+    "GalileoQ/Hacking/Hacking Generico/Crear Diccionarios con Crunch y Cupp.md",
+    "GalileoQ/Hacking/Hacking Generico/Cambiar Dirección MAC con Macchanger.md",
+    "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
+    "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
@@ -180,15 +186,9 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "2024-07-14.md",
     "2024-07-13.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
-    "2024-07-12.md",
     "Img",
-    "2024-07-11.md",
     "Sin título.canvas",
     "GalileoQ/CPTS/LAB.zip",
     "GalileoQ/Template/Img",

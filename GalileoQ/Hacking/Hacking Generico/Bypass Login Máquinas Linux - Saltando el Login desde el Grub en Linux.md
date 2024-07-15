@@ -1,3 +1,4 @@
+#tecnicas 
 El "**bypass**" del login mediante el GRUB implica acceder a un sistema Linux sin pasar por el proceso habitual de inicio de sesión. Esto se logra mediante la manipulación del cargador de arranque GRUB, que es responsable de iniciar el sistema operativo. Al realizar ciertos cambios en la configuración del GRUB, se puede ingresar directamente al sistema sin requerir credenciales de inicio de sesión, lo cual puede representar un riesgo de seguridad si no se protege adecuadamente.
 
 Podemos seguir el tutorial desde la siguiente web:

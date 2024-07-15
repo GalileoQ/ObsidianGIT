@@ -1,3 +1,4 @@
+#windows 
 La dirección MAC es un identificador único y permanente que se asigna a cada interfaz de red de un dispositivo. Es importante tener en cuenta que aunque la dirección MAC es única, se puede cambiar de forma temporal mediante software (como en este caso).
 
 Para cambiar la MAC de un dispositivo Linux tenemos una herramienta que se llama macchanger, por tanto su primer comando será este para saber cual es la MAC de mi equipo:

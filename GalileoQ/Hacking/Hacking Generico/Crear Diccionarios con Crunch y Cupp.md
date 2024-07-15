@@ -1,3 +1,4 @@
+#tecnicas 
 ### Utilizando Crunch
 Podemos crear un diccionario utilizando las palabras que creamos que se pueden utilizar en una contraseña; y crunch nos lo irá combinando de todas las formas posibles, lo del 3 y 6 es irrelevante, se puede poner cualquier número:
 ![[Pasted image 20240612232031.png]]

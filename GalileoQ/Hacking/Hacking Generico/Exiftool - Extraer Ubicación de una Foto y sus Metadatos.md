@@ -1,3 +1,4 @@
+#tecnicas 
 Con la herramienta exitfool podemos extraer muchos metadatos de una fotografía, por tanto para instalar esta herramienta ejecutamos el siguiente comando:
 
 ![[Pasted image 20240612232337.png]]
