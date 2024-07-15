@@ -266,7 +266,9 @@ Select-String CONTEXT WindowsService.exe
 en este caso tenemos el privilegio
 ![[Pasted image 20240714210911.png]]
 
-
+### msfvenom
+vamos a crear un payload con msfvenon y un servidor de python para poder 
+![[Pasted image 20240714211412.png]]
 
 ### SharpGPOAbuse
 
