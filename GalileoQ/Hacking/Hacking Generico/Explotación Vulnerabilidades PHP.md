@@ -1,3 +1,4 @@
+#tecnicas #Linux 
 Podemos intentar acceder al fichero de phpinfo.php para buscar información sobre la versión de php:
 ![[Pasted image 20240612232502.png]]
 

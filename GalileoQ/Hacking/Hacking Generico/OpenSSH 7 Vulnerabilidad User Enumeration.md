@@ -1,3 +1,4 @@
+#tecnicas 
 [[MAQUINA SOURCE (Servidor Webmin con SSL, exploit para atacar webmin y obtener ejecución remota de comandos)]]
 Si vemos que la versión de OpenSSH es igual o inerior a la 7.7, es vulnerable a poder enumerar usuarios válidos, por lo que podremos hacer un ataque de fuerza bruta para conocer qué usuarios existen por ssh en la siguiente máquina metasploitable que tiene una versión desactualizada de OpenSSH:
 ![[Pasted image 20240612233201.png]]

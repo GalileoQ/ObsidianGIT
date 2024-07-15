@@ -1,3 +1,4 @@
+#tecnicas 
 John the Ripper es una herramienta para recuperación de contraseñas. 
 
 ### EXTRAER CONTRASEÑA FICHERO ZIP

@@ -1,3 +1,4 @@
+#tecnicas 
 ## PREPARATIVOS
 Lo primero será cifrar una contraseña de prueba en el formato que queramos, por ejemplo en nuestro caso utilizaremos md5 en esta web:
 ```

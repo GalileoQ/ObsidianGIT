@@ -1,3 +1,4 @@
+#tecnicas 
 Lo primero será instalar aircrack-ng:
 ![[Pasted image 20240612232539.png]]
 

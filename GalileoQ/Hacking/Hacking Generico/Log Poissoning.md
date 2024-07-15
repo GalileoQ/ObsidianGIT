@@ -1,3 +1,4 @@
+#tecnicas 
 La máquina [[MAQUINA ARCHANGEL (Fuzzing, Local File Inclusion con wrappers, log poissoning y manipulación del PATH)]] tiene esta vulnerabilidad en esta ruta:
 ```python
 http://mafialive.thm/test.php?view=/var/www/html/development_testing/.././.././.././../././var/log/apache2/access.log

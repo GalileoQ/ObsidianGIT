@@ -1,3 +1,4 @@
+#tecnicas 
 Para practicar el port forwarding con ssh vamos a practicar sobre la máquina [[MAQUINA INTERNAL (wordpress wpscan, hydra http, portforwarding chisel y hacking jenkins en docker)]], donde tenemos las siguientes credenciales para acceder vía SSH:
 ```
 aubreanna:bubb13guM!@#123
