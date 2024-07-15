@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#ActiveDirectory  ",
@@ -25,7 +25,7 @@
       "query": "tag:#Linux  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 62826
       }
     },
     {
@@ -71,7 +71,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
