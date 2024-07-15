@@ -1,3 +1,4 @@
+#tecnicas 
 Con esta herramienta podremos capturar paquetes en red mediante una técnica conocida como sniffing. Por tanto, si queremos ver todo el tráfico que entra a través de una interfaz determinada, lo haríamos de esta forma:
 ![[Pasted image 20240612233651.png]]
 

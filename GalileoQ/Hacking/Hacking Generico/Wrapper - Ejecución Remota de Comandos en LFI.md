@@ -1,3 +1,5 @@
+#tecnicas 
+
 En el contexto del Local File Inclusion (LFI), un "wrapper" se refiere a un esquema o protocolo utilizado en PHP para acceder a diferentes tipos de recursos, como archivos locales. PHP proporciona una funcionalidad llamada "URL wrappers" que permite acceder a recursos a través de diferentes protocolos, similares a cómo se accede a los archivos a través del protocolo "file://" en las URL.
 
 Cuando se realiza una solicitud a una URL que contiene un parámetro vulnerable a LFI, es posible que un atacante intente manipular ese parámetro utilizando un wrapper específico para acceder a archivos locales en el servidor. El uso de diferentes wrappers puede permitir al atacante superar las restricciones de acceso y leer archivos que normalmente no deberían estar disponibles públicamente.

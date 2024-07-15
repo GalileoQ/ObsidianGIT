@@ -1,3 +1,4 @@
+#tecnicas 
 Para arrancar esta herramienta, escribimos setoolkit:
 ![[Pasted image 20240612233607.png]]
 

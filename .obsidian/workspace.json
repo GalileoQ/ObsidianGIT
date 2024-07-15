@@ -11,12 +11,8 @@
             "id": "c957b7c890298a62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +141,11 @@
   },
   "active": "c957b7c890298a62",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Wrapper - Ejecución Remota de Comandos en LFI.md",
+    "GalileoQ/Hacking/Hacking Generico/TCPDUMP.md",
+    "GalileoQ/Hacking/Hacking Generico/SET - Social Engineering Toolkit - Ataques de Phising.md",
+    "GalileoQ/Hacking/Hacking Generico/Publicar Servidor en Tor.md",
+    "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
     "GalileoQ/Hacking/Hacking Generico/Port Forwarding SSH.md",
     "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
     "GalileoQ/Hacking/Hacking Generico/Log Poissoning.md",
@@ -170,8 +167,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715164455.png",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707004710.png",
@@ -183,9 +178,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714204858.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184146.png",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Sublist3r.md",
-    "2024-07-15.md",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
     "Img",

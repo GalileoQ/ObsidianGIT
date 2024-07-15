@@ -1,3 +1,4 @@
+#tecnicas 
 Para practicar esta vulnerabilidad, usaremos el siguiente laboratorio:
 ![[Pasted image 20240612233301.png]]
 Nos lo clonamos:

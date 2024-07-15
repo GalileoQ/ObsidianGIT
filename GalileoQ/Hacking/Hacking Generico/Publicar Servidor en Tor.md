@@ -1,3 +1,4 @@
+#tecnicas 
 El primer paso será levantar un servidor web, donde debemos descomprimir el fichero zip:
 ![[Pasted image 20240612233330.png]]
 
