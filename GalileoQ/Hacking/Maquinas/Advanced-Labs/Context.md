@@ -257,7 +257,8 @@ de esta manera obtenemos una conexión
 Podemos ver un archivo .exe que si vemos su contenido podemos encontrar la flag
 
 ```python
-
+Select-String CONTEXT WindowsService.exe
 ```
 
 ![[Pasted image 20240714205426.png]]
+
