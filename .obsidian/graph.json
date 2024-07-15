@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ActiveDirectory  ",
@@ -67,7 +67,7 @@
       "query": "tag:#windows  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 2755959
       }
     }
   ],
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 0.624567474048443,
+  "centerStrength": 0,
+  "repelStrength": 10.0692041522491,
+  "linkStrength": 0.299307958477509,
   "linkDistance": 250,
-  "scale": 0.11660891579457332,
+  "scale": 0.030182895067324248,
   "close": false
 }
