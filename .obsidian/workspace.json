@@ -11,11 +11,24 @@
             "id": "bfffe34634da7995",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c957b7c890298a62",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfffe34634da7995",
+  "active": "c957b7c890298a62",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
