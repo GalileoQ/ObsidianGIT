@@ -249,4 +249,6 @@ cat dll | base64 -d > out
 Dentro podemos ver `credenciales`
 ![[dnSpy2.png]]
 
-### 
+### evil-winrm
+
+![[Pasted image 20240714204858.png]]
