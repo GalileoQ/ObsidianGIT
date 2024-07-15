@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#ActiveDirectory  ",
@@ -76,7 +76,7 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.00709342560554,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
