@@ -16,36 +16,6 @@
             }
           },
           {
-            "id": "753bd4abb1bd118d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Img/Pasted image 20240618215031.png"
-              }
-            }
-          },
-          {
-            "id": "93e2980742710dd1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240705144943.png"
-              }
-            }
-          },
-          {
-            "id": "1e426634c5a1b4ea",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714204858.png"
-              }
-            }
-          },
-          {
             "id": "737c680d573e54bc",
             "type": "leaf",
             "state": {
@@ -55,7 +25,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png"
+              }
             }
           }
         ]
@@ -179,20 +154,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfffe34634da7995",
+  "active": "737c680d573e54bc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714204858.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184146.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184645.png",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240627184335.png",
+    "GalileoQ/CPTS/LAB/Img/Pasted image 20240617162451.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240618215031.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240705144943.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714204858.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629120715.png",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Sublist3r.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707013510.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715163624.png",
     "GalileoQ/CPTS/LAB/Img/Pasted image 20240622193935.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713112828.png",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240713185648.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240629122013.png",
-    "GalileoQ/CPTS/LAB/Img/Pasted image 20240619125654.png",
     "2024-07-15.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Lame.md",
