@@ -1,3 +1,4 @@
+#tecnicas #Linux #nmap 
 Para hacer un ataque DoS, podemos utilizar una herramienta que se llama hping3, para paralizar un servidor mandando muchos paquetes TCP:
 
 ![[Pasted image 20240612162926.png]]

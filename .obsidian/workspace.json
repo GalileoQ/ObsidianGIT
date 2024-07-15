@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c957b7c890298a62",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
+    "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
@@ -187,9 +189,7 @@
     "2024-07-12.md",
     "Img",
     "2024-07-11.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "Sin título.canvas",
-    "GalileoQ/Hacking/Hacking Generico/Nmap/Nmap.md",
     "GalileoQ/CPTS/LAB.zip",
     "GalileoQ/Template/Img",
     "Excalidraw",
