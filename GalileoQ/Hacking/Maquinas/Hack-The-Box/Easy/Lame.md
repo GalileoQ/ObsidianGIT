@@ -65,7 +65,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Mon Jul 15 16:25:34 2024 -- 1 IP address (1 host up) scanned in 79.43 seconds
 ```
 
-`el serv`
+`el servidor ftp parece estar en una version antigua que podria ser vulnerable`
 ### Enumeración 
 
 
