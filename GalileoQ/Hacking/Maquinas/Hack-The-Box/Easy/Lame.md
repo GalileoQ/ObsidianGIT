@@ -71,5 +71,6 @@ efectivamente conseguimos dos exploits relacionados con esta versión
 ![[Pasted image 20240715163624.png]]
 
 ### smbmap
-
+tenemos un archivo `tmp` con permisos de lectura
 ![[Pasted image 20240715163824.png]]
+
