@@ -253,3 +253,11 @@ Dentro podemos ver `credenciales`
 de esta manera obtenemos una conexión 
 ![[Pasted image 20240714205120.png]]
 
+`flag`
+Podemos ver un archivo .exe que si vemos su contenido podemos encontrar la flag
+
+```python
+
+```
+
+![[Pasted image 20240714205426.png]]
