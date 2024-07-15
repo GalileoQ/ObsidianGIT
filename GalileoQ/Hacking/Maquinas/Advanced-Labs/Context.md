@@ -262,3 +262,6 @@ Select-String CONTEXT WindowsService.exe
 
 ![[Pasted image 20240714205426.png]]
 
+### SharpGPOAbuse
+
+![[Pasted image 20240714210819.png]]

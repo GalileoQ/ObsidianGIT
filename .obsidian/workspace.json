@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SharpG",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +149,7 @@
   },
   "active": "dac305c20f38b867",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714210819.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img/Pasted image 20240714205426.png",
@@ -191,7 +191,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
