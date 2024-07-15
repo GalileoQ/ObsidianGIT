@@ -75,5 +75,6 @@ tenemos un archivo `tmp` con permisos de lectura pero realmente no hay nada impo
 ![[Pasted image 20240715163824.png]]
 
 ### msfconsole
-vamos a utilizar el exploit que conseguimos a 
+vamos a utilizar el exploit que conseguimos en `searchsploit` 
 ![[Pasted image 20240715164455.png]]
+
