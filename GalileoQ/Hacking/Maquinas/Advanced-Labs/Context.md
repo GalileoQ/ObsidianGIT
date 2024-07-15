@@ -266,6 +266,8 @@ Select-String CONTEXT WindowsService.exe
 en este caso tenemos el privilegio
 ![[Pasted image 20240714210911.png]]
 
+
+
 ### SharpGPOAbuse
 
 ![[Pasted image 20240714210819.png]]
