@@ -232,3 +232,14 @@ Si enviamos su contenido a un archivo.txt y después podemos hacer un cat para l
 
 ![[Pasted image 20240714161314.png]]
 
+`archivo dll`
+```python
+
+1> select cast((select content from openquery([web\clients], 'select * from clients.sys.assembly_files') where assembly_id = 65536) as varbinary(max)) for xml path(''), binary base64;
+
+2> go > dll
+
+1> exit
+
+cat text | base64 -d > out
+```
