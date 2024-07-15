@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ActiveDirectory  ",
@@ -36,10 +36,38 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "tag:#fuzzing  ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#tecnicas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Nota  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#pivoting  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
       }
     }
   ],
