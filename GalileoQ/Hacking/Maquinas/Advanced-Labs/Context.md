@@ -241,5 +241,9 @@ Si enviamos su contenido a un archivo.txt y después podemos hacer un cat para l
 
 1> exit
 
-cat text | base64 -d > out
+cat dll | base64 -d > out
 ```
+
+![[dnSpy1.png]]
+
+![[dnSpy2.png]]
