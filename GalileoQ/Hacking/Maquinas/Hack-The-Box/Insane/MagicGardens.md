@@ -87,8 +87,9 @@ aquí podemos ver que esta haciendo un llamado a alguna entidad bancaria. de la 
 
 ### creando servidor bancario
 desde un repositorio de github podemos conseguir una herramienta que nos permite crear un servidor bancario. usando este [repositorio](https://github.com/sk03d/flask_bank_api) 
+![[Pasted image 20240716140228.png]]
 
-
+`BurpSuite`
 
 
 
