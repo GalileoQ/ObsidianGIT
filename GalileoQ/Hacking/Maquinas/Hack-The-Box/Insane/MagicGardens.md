@@ -70,8 +70,9 @@ tenemos una web que parece ser sobre compra y ventas de flores
 haciendo Fuzzing descubrimos varios directorios a los cuales se esta aplicando una redirección. en este caso vamos a analizar el primero `subscribe`
 ![[Pasted image 20240716135036.png]]
 
-
-
+`subscripption`
+vamos a hacer click en ``upgrade
+![[Pasted image 20240716135148.png]]
 
 
 
