@@ -94,7 +94,7 @@ ya que tenemos nuestro banco creado vamos a modificar la solicitud del banco par
 ![[Pasted image 20240716140620.png]]
 
 `servidor banco`
-obtenemos efectivamente la solicitud en la cual podemos ver todos los datos esto
+obtenemos efectivamente la solicitud en la cual podemos ver todos los datos esto es una vulnerabilidad de `XSS`
 ![[Pasted image 20240716140721.png]]
 
 ### Suscripción
