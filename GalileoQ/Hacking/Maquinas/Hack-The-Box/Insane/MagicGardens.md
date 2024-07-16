@@ -81,7 +81,9 @@ vamos a hacer clic en `upgrade`
 vamos a cargar todos los datos para hacer una prueba. interceptamos esta petición con Burpsuite
 ![[Pasted image 20240716135503.png]]
 
-
+### Burpsuite
+aquí podemos ver que esta haciendo un llamado a alguna entidad bancaria. de la forma en la que se hace la consulta
+![[Pasted image 20240716135757.png]]
 
 
 
