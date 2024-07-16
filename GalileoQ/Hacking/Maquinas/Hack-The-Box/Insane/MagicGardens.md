@@ -78,8 +78,9 @@ vamos a hacer clic en `upgrade`
 ![[Pasted image 20240716135303.png]]
 
 `Datos`
-vamos a cargar todos los datos para hacer una prueba. interceptamos 
+vamos a cargar todos los datos para hacer una prueba. interceptamos esta petición con Burpsuite
 ![[Pasted image 20240716135503.png]]
+
 
 
 
