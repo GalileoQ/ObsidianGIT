@@ -102,7 +102,7 @@ finalmente solo nos queda enviar la solicitud y podemos ver que nos hemos suscri
 ![[Pasted image 20240716141216.png]]
 
 ### Morty 
-despues de inve
+después de investigar mas a fondo pude notar que el usuario morty nos envía un mensaje cada vez que hacemos una nueva compra 
 ![[Pasted image 20240716141917.png]]
 
 
