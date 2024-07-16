@@ -90,6 +90,9 @@ desde un repositorio de github podemos conseguir una herramienta que nos permite
 ![[Pasted image 20240716140228.png]]
 
 `BurpSuite`
+ya que tenemos nuestro banco creado vamos a modificar la solicitud del banco para que apunte a nuestra dirección ip
+![[Pasted image 20240716140620.png]]
+
 
 
 
