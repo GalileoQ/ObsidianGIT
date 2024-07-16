@@ -97,7 +97,9 @@ ya que tenemos nuestro banco creado vamos a modificar la solicitud del banco par
 obtenemos efectivamente la solicitud en la cual podemos ver todos los datos
 ![[Pasted image 20240716140721.png]]
 
-### 
+### Suscripción
+finalmente solo nos queda enviar la s
+![[Pasted image 20240716141216.png]]
 
 
 
