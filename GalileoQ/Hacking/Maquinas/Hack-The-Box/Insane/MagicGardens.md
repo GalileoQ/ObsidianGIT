@@ -62,8 +62,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Tue Jul 16 13:05:49 2024 -- 1 IP address (1 host up) scanned in 75.85 seconds
 ```
 
-### Enumeración delpuerto 80 (http)
+### Enumeración del puerto 80 (http)
 
+![[Pasted image 20240716132231.png]]
 
 
 ### Vulnerabilidades
