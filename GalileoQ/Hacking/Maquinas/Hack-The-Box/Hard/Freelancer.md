@@ -2,10 +2,16 @@
 ### Ping
 
 ```python
+ping -c 1 10.10.11.5
+PING 10.10.11.5 (10.10.11.5) 56(84) bytes of data.
+64 bytes from 10.10.11.5: icmp_seq=1 ttl=127 time=151 ms
 
+--- 10.10.11.5 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 151.356/151.356/151.356/0.000 ms
 ```
 
-### TTL = 
+### TTL = 127 Windows
 
 ### nmap
 
@@ -85,7 +91,12 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Tue Jul 16 19:52:00 2024 -- 1 IP address (1 host up) scanned in 93.94 seconds
 ```
 
-### Enumeración 
+### Enumeración puerto 80 (http)
+
+
+
+
+
 
 
 ### Vulnerabilidades
