@@ -94,7 +94,7 @@ ya que tenemos nuestro banco creado vamos a modificar la solicitud del banco par
 ![[Pasted image 20240716140620.png]]
 
 `servidor banco`
-obtenemos efectivamente la solicitud en la cual podemos ver todos los datos
+obtenemos efectivamente la solicitud en la cual podemos ver todos los datos esto
 ![[Pasted image 20240716140721.png]]
 
 ### Suscripción
@@ -102,7 +102,7 @@ finalmente solo nos queda enviar la solicitud y podemos ver que nos hemos suscri
 ![[Pasted image 20240716141216.png]]
 
 ### Morty 
-después de investigar mas a fondo pude notar que el usuario morty nos envía un mensaje cada vez que hacemos una nueva compra 
+después de investigar mas a fondo pude notar que el usuario morty nos envía un mensaje cada vez que hacemos una nueva compra para cargar el código QR y obtener un descuento. Entonces este puede ser el punto final de nuestro `XSS`
 ![[Pasted image 20240716141917.png]]
 
 
