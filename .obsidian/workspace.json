@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "620fa8f67bc1beb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md"
+              }
             }
           }
         ]
@@ -139,8 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e583f27dbd9d9f5",
+  "active": "620fa8f67bc1beb1",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
@@ -166,7 +185,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques Man In The Middle - Bettercap.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques DoS.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de transferencia de zona (AXFR).md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240715164455.png",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240707004710.png",
@@ -186,7 +204,6 @@
     "GalileoQ/Template/Img",
     "Excalidraw",
     "GalileoQ/Template",
-    "GalileoQ/CPTS/LAB/Img",
-    "GalileoQ/CPTS/LAB"
+    "GalileoQ/CPTS/LAB/Img"
   ]
 }
