@@ -92,10 +92,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración RPC - TCP 135 
-por aqui no obtenemos 
+por aquí no obtenemos nada así que seguiremos enumerando 
 ![[Pasted image 20240716195611.png]]
 
-### Enumeración puerto 80 (http)
+### Enumeración puerto445
 
 
 
