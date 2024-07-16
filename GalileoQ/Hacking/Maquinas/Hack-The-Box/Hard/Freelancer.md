@@ -95,8 +95,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 por aquí no obtenemos nada así que seguiremos enumerando 
 ![[Pasted image 20240716195611.png]]
 
-### Enumeración puerto445
-
+### Enumeración puerto 445 TCP
+por aquí tampoco podemos conseguir nada ya que no tenemos credenciales 
+![[Pasted image 20240716195853.png]]
 
 
 
