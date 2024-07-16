@@ -82,10 +82,11 @@ vamos a cargar todos los datos para hacer una prueba. interceptamos esta petici�
 ![[Pasted image 20240716135503.png]]
 
 ### Burpsuite
-aquí podemos ver que esta haciendo un llamado a alguna entidad bancaria. de la forma en la que se hace la consulta pienso que podríamos montar nuestra propia entidad bancaria para que se conecte a nosotros
+aquí podemos ver que esta haciendo un llamado a alguna entidad bancaria. de la forma en la que se hace la consulta pienso que podríamos montar nuestra propia entidad bancaria para que se conecte a nosotros 
 ![[Pasted image 20240716135757.png]]
 
-
+### creando servidor bancario
+desde un repositorio de github podemos conseguir una herramienta que nos permite 
 
 
 
