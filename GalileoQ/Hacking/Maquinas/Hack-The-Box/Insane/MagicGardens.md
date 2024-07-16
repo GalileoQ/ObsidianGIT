@@ -71,10 +71,12 @@ haciendo Fuzzing descubrimos varios directorios a los cuales se esta aplicando u
 ![[Pasted image 20240716135036.png]]
 
 `subscripption`
-vamos a hacer click en ``upgrade
+vamos a hacer clic en `upgrade` 
 ![[Pasted image 20240716135148.png]]
 
+`upgrade`
 
+![[Pasted image 20240716135303.png]]
 
 
 
