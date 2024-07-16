@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "620fa8f67bc1beb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "620fa8f67bc1beb1",
+  "active": "4e583f27dbd9d9f5",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716141917.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716141216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716140721.png",
@@ -168,9 +152,7 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716135303.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716135148.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716135036.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240716132231.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
