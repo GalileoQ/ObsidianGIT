@@ -75,9 +75,11 @@ vamos a hacer clic en `upgrade`
 ![[Pasted image 20240716135148.png]]
 
 `upgrade`
-
 ![[Pasted image 20240716135303.png]]
 
+`Datos`
+vamos a cargar todos los datos para hacer una prueba. interceptamos 
+![[Pasted image 20240716135503.png]]
 
 
 
