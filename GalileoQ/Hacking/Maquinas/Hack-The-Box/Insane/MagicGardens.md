@@ -63,8 +63,23 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 80 (http)
-
+tenemos una web que parece ser sobre compra y ventas de flores
 ![[Pasted image 20240716132231.png]]
+
+### Fuzzing con wfuff
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Vulnerabilidades
