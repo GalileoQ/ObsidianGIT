@@ -98,7 +98,7 @@ obtenemos efectivamente la solicitud en la cual podemos ver todos los datos
 ![[Pasted image 20240716140721.png]]
 
 ### Suscripción
-finalmente solo nos queda enviar la s
+finalmente solo nos queda enviar la solicitud y podemos ver que nos hemos suscrito con éxito a la pagina web y nos entrega un código QR
 ![[Pasted image 20240716141216.png]]
 
 
