@@ -93,7 +93,9 @@ desde un repositorio de github podemos conseguir una herramienta que nos permite
 ya que tenemos nuestro banco creado vamos a modificar la solicitud del banco para que apunte a nuestra dirección ip
 ![[Pasted image 20240716140620.png]]
 
-
+`servidor banco`
+obtenemos efectivamente la solicitud en la cual podemos ver todos los datos
+![[Pasted image 20240716140721.png]]
 
 
 
