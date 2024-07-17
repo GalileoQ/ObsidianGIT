@@ -106,6 +106,16 @@ aquí podemos ver que tenemos dos registros diferentes uno como freelance y uno 
 `employer register`
 ![[Pasted image 20240716203208.png]]
 
+### QR-Code
+
+
+
+
+
+
+
+
+
 
 ### Vulnerabilidades
 
