@@ -99,7 +99,7 @@ por aquí no obtenemos nada así que seguiremos enumerando
 por aquí tampoco podemos conseguir nada ya que no tenemos credenciales 
 ![[Pasted image 20240716195853.png]]
 
-
+### Enumeración del puerto 80 (http)
 
 
 
