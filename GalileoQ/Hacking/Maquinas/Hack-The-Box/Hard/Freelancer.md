@@ -100,8 +100,10 @@ por aquí tampoco podemos conseguir nada ya que no tenemos credenciales
 ![[Pasted image 20240716195853.png]]
 
 ### Enumeración del puerto 80 (http)
-
-
+aqui podemos ver que tenemos dos registros difer
+![[n7ffryqikmljjuemsffq.png]]
+`employer register`
+![[Pasted image 20240716203208.png]]
 
 
 ### Vulnerabilidades
