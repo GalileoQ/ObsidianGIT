@@ -107,6 +107,8 @@ aquí podemos ver que tenemos dos registros diferentes uno como freelance y uno 
 ![[Pasted image 20240716203208.png]]
 
 ### QR-Code
+en este caso la opción que mas me llamo la atención fue la del código QR
+![[Pasted image 20240716203522.png]]
 
 
 
