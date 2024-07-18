@@ -142,7 +142,9 @@ echo "6bcf2a4b6e5aca0f" | xxd -ps -r > passwd
 
 ![[Pasted image 20240717233341.png]]
 
-
+### crackmapexec
+hacemos una enumeracion con la password que hemos con
+![[Pasted image 20240717234100.png]]
 
 
 
