@@ -146,6 +146,8 @@ echo "6bcf2a4b6e5aca0f" | xxd -ps -r > passwd
 hacemos una enumeración con la password que hemos conseguido usando todos los usuarios que ya tenemos para ver si alguno coincide y efectivamente tenemos al usuario `s.smith` 
 ![[Pasted image 20240717234100.png]]
 
+### Remote Managem
+![[Pasted image 20240717234442.png]]
 
 
 
