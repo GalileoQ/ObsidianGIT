@@ -186,5 +186,6 @@ mget * #Nota: con esto descargamos absolutamente todo lo que esta en esta ruta
 ![[Pasted image 20240718121055.png]]
 
 ### SmbShares
-a obtener todos los recursos compartidos podemos ver un archivo llamado `Audi.db` que parece ser una base de datos de SQLite3 
+a obtener todos los recursos compartidos podemos ver un archivo llamado `Audi.db` que parece ser una base de datos de `SQLite3` 
 ![[Pasted image 20240718121645.png]]
+
