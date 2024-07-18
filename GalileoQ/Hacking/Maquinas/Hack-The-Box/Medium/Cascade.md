@@ -269,11 +269,14 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 ![[Pasted image 20240718162059.png]]
 
 `Get-adobject`
-de esta manera podemos listar las propiedades del usuario y así encontrar otra contraseña que parece estar en base6
+de esta manera podemos listar las propiedades del usuario y así encontrar otra contraseña que parece estar en base64 nuevamente
 
 ```python
 Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDeletedObjects -Properties *
 ```
 
 ![[Pasted image 20240718163646.png]]
+
+`base64`
+![[Pasted image 20240718164913.png]]
 
