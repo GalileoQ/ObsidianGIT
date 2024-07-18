@@ -127,7 +127,9 @@ usando esta herramienta u usando las credenciales que hemos usado conseguido ant
 con un servidor de python podemos compartir los archivos que hemos dumpearlos para poder verlos desde la web
 ![[Pasted image 20240717230709.png]]
 
-
+### impacket-GetUserSPNs
+tenemos credenciales pero no podemos obtener ningun ataca por el momento 
+![[Pasted image 20240717231227.png]]
 
 
 
