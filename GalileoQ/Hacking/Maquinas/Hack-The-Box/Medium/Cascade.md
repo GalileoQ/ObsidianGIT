@@ -61,7 +61,7 @@ usando la herramienta smbclient no podemos enumerar ya que no tenemos credencial
 
 
 ### rpcclient
-de esta forma obtenemos un listado
+de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
 ![[Pasted image 20240717210550.png]]
 
 ### Vulnerabilidades
