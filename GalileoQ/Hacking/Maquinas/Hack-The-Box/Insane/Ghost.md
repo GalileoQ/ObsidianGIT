@@ -145,6 +145,7 @@ Ghost CMS es un sistema de gestión de contenidos (CMS) moderno y de código abi
 ![[Pasted image 20240718174434.png]]
 
 
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
