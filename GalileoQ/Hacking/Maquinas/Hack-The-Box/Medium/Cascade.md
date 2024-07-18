@@ -87,7 +87,9 @@ de esta manera podemos ver que el usuario `r.thompson` esta pwn así que solo de
 intentamos obtener una conexión pero no fue exitosa así que seguiremos enumerando 
 ![[Pasted image 20240717215303.png]]
 
+### smbclient
 
+![[Pasted image 20240717215702.png]]
 
 
 
