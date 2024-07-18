@@ -179,7 +179,7 @@ Al inspeccionar su código fuente, podemos descubrir un punto final de JavaScrip
 haciendo un Fuzzing de directorios no podemos encontrar nada muy importante
 ![[Pasted image 20240718175430.png]]
 
-
+### Fuzzing con ffuz
 
 
 
