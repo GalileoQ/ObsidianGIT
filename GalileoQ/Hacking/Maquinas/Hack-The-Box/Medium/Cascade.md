@@ -221,7 +221,7 @@ si analizamos el principio del código vemos que hace un llamado a `CascCrypto` 
 si prestamos atención un poco podemos ver la `DefaultIV` y también podemos ver el modo `CipherMode.CBC`
 
 ```python
-AES > CBC
+CipherMode.CBC ; AES > CBC
 
 Key >
 
