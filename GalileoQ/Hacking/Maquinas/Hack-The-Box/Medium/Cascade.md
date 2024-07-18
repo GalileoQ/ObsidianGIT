@@ -123,7 +123,9 @@ al parecer no podemos obtener un `ASREPROAST` de ningún usuario ya que no cuent
 usando esta herramienta u usando las credenciales que hemos usado conseguido anteriormente podemos dumpear todo el ldapdomain para poderlo leer de una forma mas cómoda en local
 ![[Pasted image 20240717225719.png]]
 
+### Domain Users
 
+![[Pasted image 20240717230709.png]]
 
 
 
