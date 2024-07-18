@@ -195,3 +195,7 @@ investigando en internet algunos foros de la comunidad del `CMS Ghost` nos hacen
 al hacer clic en el botón nos redirige a otro subdominio así que lo vamos a agregar 
 ![[Pasted image 20240718192530.png]]
 
+`login`
+volvemos al inicio e intentamos iniciar sesión para interceptar con Burpsuite 
+![[Pasted image 20240718193135.png]]
+
