@@ -221,9 +221,13 @@ si analizamos el principio del código vemos que hace un llamado a `CascCrypto` 
 si prestamos atención un poco podemos ver la `DefaultIV` y también podemos ver el modo `CipherMode.CBC`
 
 ```python
-AES CBC
+AES > CBC
 
 Key >
+
+IV > 
+
+Password > 
 ```
 
 ![[Pasted image 20240718145907.png]]
