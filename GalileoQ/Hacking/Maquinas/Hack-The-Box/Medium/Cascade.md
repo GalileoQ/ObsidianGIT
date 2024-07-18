@@ -150,8 +150,8 @@ hacemos una enumeración con la password que hemos conseguido usando todos los u
 si verificamos los archivos que hemos dumpeado del ldap podemos ver que el usuario `s.smith` forma parte de este grupo por lo cual podemos intentar conectarnos por `evil-winrm`
 ![[Pasted image 20240717234442.png]]
 
-### elvil
-
+### elvil-winrm
+con estas credenciales y después de asegurarnos que el usuario `s.smith` pertenece al grupo `Remote Management Users`
 ![[Pasted image 20240718114434.png]]
 
 
