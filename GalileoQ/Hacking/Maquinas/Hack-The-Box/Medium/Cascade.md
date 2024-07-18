@@ -202,5 +202,5 @@ después de enumerar todos los usuarios que tenemos con la nueva contraseña no 
 ![[Pasted image 20240718125301.png]]
 
 ### dotpeek
-dado que el ``error decrypting 
+dado que el `error decrypting` mencionado anterior mente me ha llamado la atencion vamos a probar esta herramienta. 
 ![[Pasted image 20240718131233.png]]
