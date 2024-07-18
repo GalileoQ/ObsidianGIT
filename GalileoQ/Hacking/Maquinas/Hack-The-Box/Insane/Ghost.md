@@ -203,5 +203,6 @@ volvemos al inicio e intentamos iniciar sesión para interceptar con Burpsuite
 después de varios intentos identificamos que el identificador `*` tanto en el username como en el secret nos permite obtener un token de sesión 
 ![[Pasted image 20240718193318.png]]
 
-###
+### Intranet
+iniciamos sesión como el usu
 ![[Pasted image 20240718193515.png]]
