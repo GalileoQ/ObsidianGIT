@@ -208,3 +208,4 @@ dado que el `error decrypting` mencionado anterior mente me ha llamado la atenci
 `installing`
 instalamos la app
 ![[Pasted image 20240718140445.png]]
+
