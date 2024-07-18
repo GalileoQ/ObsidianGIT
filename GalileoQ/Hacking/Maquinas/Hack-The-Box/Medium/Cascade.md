@@ -69,7 +69,7 @@ con esta herramienta podemos realizar el mismo escaneo y obtenemos la misma info
 ![[Pasted image 20240717212411.png]]
 
 ### rpcclient
-de esta forma obtenemos la misma lista de usuarios asi que 
+de esta forma obtenemos la misma lista de usuarios así que ya podemos guardarnos estos usuarios para hacer mas pruebas adelante
 ![[Pasted image 20240717210550.png]]
 
 `guardamos los usuarios en un archivo para usarlos mas adelante`
