@@ -87,7 +87,12 @@ de esta manera podemos ver que el usuario `r.thompson` esta pwn así que solo de
 intentamos obtener una conexión pero no fue exitosa así que seguiremos enumerando 
 ![[Pasted image 20240717215303.png]]
 
-### smbclient
+
+### smbmap
+con estas credenciales podemos enumerar el servicio `smb` y listar lis recursos compartidos
+![[Pasted image 20240717215735.png]]
+
+### smbmap
 
 ![[Pasted image 20240717215702.png]]
 
