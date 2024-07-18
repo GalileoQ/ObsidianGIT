@@ -232,3 +232,7 @@ Password > BQO5l5Kj9MdErXx6Q6AGOw==|cascade.local
 ```
 
 ![[Pasted image 20240718145907.png]]
+
+### CyberChef
+una ves que tenemos todos los elementos ahora pode
+![[Pasted image 20240718151319.png]]
