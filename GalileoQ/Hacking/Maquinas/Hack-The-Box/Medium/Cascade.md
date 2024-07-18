@@ -67,6 +67,7 @@ con esta herramienta podemos enumerar usuarios con una lista de usuario proporci
 ### nxc
 
 
+
 ### rpcclient
 de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
 ![[Pasted image 20240717210550.png]]
