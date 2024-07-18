@@ -147,7 +147,7 @@ hacemos una enumeración con la password que hemos conseguido usando todos los u
 ![[Pasted image 20240717234100.png]]
 
 ### Remote Management Users
-si verificamos los archivos que hemos dumpeado del ldap podemos ver que el usuario `s.smith` forma parte de este grupo por lo cual podemos intentar conectarnos por 
+si verificamos los archivos que hemos dumpeado del ldap podemos ver que el usuario `s.smith` forma parte de este grupo por lo cual podemos intentar conectarnos por `evil-winrm`
 ![[Pasted image 20240717234442.png]]
 
 
