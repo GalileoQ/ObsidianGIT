@@ -101,7 +101,7 @@ dentro de los recursos compartidos podemos encontrar un archivo llamado Meeting_
 ![[Pasted image 20240717220206.png]]
 
 ### html
-haciendo un v
+haciendo un servidor en python lo podemos ver desde la web
 ![[Pasted image 20240717220640.png]]
 
 
