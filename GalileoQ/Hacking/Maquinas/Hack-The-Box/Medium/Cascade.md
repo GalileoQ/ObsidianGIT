@@ -212,3 +212,4 @@ instalamos la app
 ### jetBrains dotpeek
 si vamos al archivo y a la función Main podemos ver que efectivamente el código esta intentando hacer un decrypting y que efectivamente esa es la password 
 ![[Pasted image 20240718144831.png]]
+
