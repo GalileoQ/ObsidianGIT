@@ -259,3 +259,10 @@ validamos estas credenciales por `smb` y `winrm` y obtenemos un `+` en ambos lo 
 obtenemos acceso con este usuario así que vamos a seguir enumerando el sistema
 ![[Pasted image 20240718152509.png]]
 
+###
+recordamos que la nota nos decia que existia un usuario llamado TempAdmin que 
+```python
+Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDeletedObjects
+```
+
+![[Pasted image 20240718162059.png]]
