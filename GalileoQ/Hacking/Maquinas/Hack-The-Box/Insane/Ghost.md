@@ -210,3 +210,4 @@ iniciamos sesión como el usuario `Kathryn.holland`
 `Users`
 podemos enumerar el listado de usuarios con los roles
 ![[Pasted image 20240718193754.png]]
+
