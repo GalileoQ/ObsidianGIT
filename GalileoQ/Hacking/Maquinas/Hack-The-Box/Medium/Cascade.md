@@ -259,10 +259,12 @@ validamos estas credenciales por `smb` y `winrm` y obtenemos un `+` en ambos lo 
 obtenemos acceso con este usuario así que vamos a seguir enumerando el sistema
 ![[Pasted image 20240718152509.png]]
 
-###
+### Get-adobject -Filter
 recordamos que la nota nos decía que existía un usuario llamado `TempAdmin` que seria eliminado una ves que la migración terminara. pues suponiendo que esa migración ya ha terminado podemos tratar de enumerar ese usuario e intentar recuperarlo
+
 ```python
 Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDeletedObjects
 ```
 
 ![[Pasted image 20240718162059.png]]
+
