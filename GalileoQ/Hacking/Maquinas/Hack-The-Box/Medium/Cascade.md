@@ -177,6 +177,10 @@ ahora vamos a conectarnos pero usando `smbclient` pera poder enumerar el recurso
 smbclient //10.10.10.182/Audit$ -U "s.smith%sT333ve2"
 
 prompt of #Nota: con esto desactivamos el prompt para que no nos este preguntando por cada archivo
+
+recurse ON #Nota: con esto activamos el modo recursivo para asegurarnos de descargar los directorios
+
+mget * 
 ```
 
 ![[Pasted image 20240718121055.png]]
