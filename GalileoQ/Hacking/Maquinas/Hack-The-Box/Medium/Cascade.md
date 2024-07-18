@@ -185,6 +185,6 @@ mget * #Nota: con esto descargamos absolutamente todo lo que esta en esta ruta
 
 ![[Pasted image 20240718121055.png]]
 
-### Recursos
+### SmbShares
 
 ![[Pasted image 20240718121645.png]]
