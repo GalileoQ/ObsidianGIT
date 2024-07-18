@@ -202,5 +202,5 @@ después de enumerar todos los usuarios que tenemos con la nueva contraseña no 
 ![[Pasted image 20240718125301.png]]
 
 ### dotpeek
-dado que el `error decrypting` mencionado anterior mente me ha llamado la atencion vamos a probar esta herramienta. 
+dado que el `error decrypting` mencionado anterior mente me ha llamado la atención vamos a probar esta herramienta. para ello vamos a usar una maquina `windows 10` que esta corriendo en `VirtualBox` 
 ![[Pasted image 20240718131233.png]]
