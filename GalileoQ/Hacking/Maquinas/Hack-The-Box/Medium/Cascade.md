@@ -170,3 +170,10 @@ enumerando de nuevo los recursos compartidos como el usuario `s.smith` logramos 
 enumerando el recurso compartido logramos conseguir mucha información. un archivo `.exe` también una `dll`  un recurso  llamado `DB`
 ![[Pasted image 20240718120048.png]]
 
+### smbclient
+ahora vamos a conectarnos pero usando `smbclient` pera poder enumerar el recurso compartido y podes descargar todo.
+
+```pytho
+```
+
+![[Pasted image 20240718121055.png]]
