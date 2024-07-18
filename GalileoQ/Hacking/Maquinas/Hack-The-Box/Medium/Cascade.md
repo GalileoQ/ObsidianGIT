@@ -209,3 +209,6 @@ dado que el `error decrypting` mencionado anterior mente me ha llamado la atenci
 instalamos la app
 ![[Pasted image 20240718140445.png]]
 
+### jetBrains dotpeek
+si vamos al archivo y a la funcion main podemos 
+![[Pasted image 20240718144831.png]]
