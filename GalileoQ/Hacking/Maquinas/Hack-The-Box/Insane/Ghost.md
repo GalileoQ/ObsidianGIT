@@ -183,6 +183,9 @@ haciendo un Fuzzing de directorios no podemos encontrar nada muy importante
 encontramos un subdominio así que vamos a enumerarlo
 ![[Pasted image 20240718191759.png]]
 
+### intranet
+hemos conseguido un panel de login
+![[Pasted image 20240718191926.png]]
 
 
 
