@@ -64,7 +64,7 @@ con esta herramienta podemos enumerar usuarios con una lista de usuario proporci
 ![[Pasted image 20240717211832.png]]
 
 
-### nxc
+### Opción 2 nxc
 
 
 
