@@ -260,7 +260,7 @@ obtenemos acceso con este usuario así que vamos a seguir enumerando el sistema
 ![[Pasted image 20240718152509.png]]
 
 ###
-recordamos que la nota nos decia que existia un usuario llamado TempAdmin que 
+recordamos que la nota nos decía que existía un usuario llamado `TempAdmin` que seria eliminado una ves que la migración terminara. pues suponiendo que esa migración ya ha terminado podemos tratar de enumerar ese usuario e intentar recuperarlo
 ```python
 Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDeletedObjects
 ```
