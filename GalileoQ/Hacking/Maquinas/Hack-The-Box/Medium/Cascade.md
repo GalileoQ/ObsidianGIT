@@ -280,3 +280,6 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 `base64`
 ![[Pasted image 20240718164913.png]]
 
+### crackmapexec
+
+![[Pasted image 20240718165033.png]]
