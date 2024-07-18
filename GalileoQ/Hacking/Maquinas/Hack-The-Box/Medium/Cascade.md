@@ -135,10 +135,13 @@ tenemos credenciales pero no podemos obtener ningún ataca por el momento
 vamos a seguir con la contraseña que habíamos conseguido en hexadecimal después de investigar un poco en internet podemos conseguir una repo en github que nos proporciona una herramienta útil [vnc-decrypte](https://github.com/jeroennijhof/vncpwd)  dado que la herramienta espera un archivo debemos decodear la password en hexadecimal para guardarlo en un archivo y finalmente pasarlo a la herramienta 
 
 ```python
+echo "6bcf2a4b6e5aca0f" | xxd -ps -r > passwd
 
+./vncpwd passwd
 ```
 
 ![[Pasted image 20240717233341.png]]
+
 
 
 
