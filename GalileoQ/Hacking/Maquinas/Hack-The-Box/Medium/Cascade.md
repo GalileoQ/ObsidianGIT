@@ -55,11 +55,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 127.70 seconds
 ```
 
-### Enumeración 
-
+### Enumeración del puerto 445
+usando la herramienta smbclient no podemos enumerar ya que no tenemos credenciales
 ![[Pasted image 20240717210744.png]]
 
 
+### rpcclient
+de esta forma obtenemos un listado
 ![[Pasted image 20240717210550.png]]
 
 ### Vulnerabilidades
