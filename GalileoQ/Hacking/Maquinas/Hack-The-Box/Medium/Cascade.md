@@ -192,3 +192,7 @@ a obtener todos los recursos compartidos podemos ver un archivo llamado `Audi.db
 ### sqlite3
 enumerando la base de datos podemos obtener información sobre el usuario `TempAdmin` que ya sabemos que es un usuario Administrador temporal. y tambien podemos ver al usuario `ArkSvc` y la contraseña que parece estar en base64 pero despues de aplicar un decoder no obtenemos nada 
 ![[Pasted image 20240718122406.png]]
+
+`CasAudit.exe`
+
+![[Pasted image 20240718123235.png]]
