@@ -218,5 +218,5 @@ si analizamos el principio del código vemos que hace un llamado a `CascCrypto` 
 ![[Pasted image 20240718145255.png]]
 
 ### CascCrypto.dll
-si prestamos atención un poco 
+si prestamos atención un poco podemos ver la `DefaultIV` y tambien podemos ver el modo `CipherMode`
 ![[Pasted image 20240718145907.png]]
