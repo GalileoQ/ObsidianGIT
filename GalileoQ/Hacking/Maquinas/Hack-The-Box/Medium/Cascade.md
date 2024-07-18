@@ -111,10 +111,6 @@ haciendo un servidor en python lo podemos ver desde la web en la cual nos da pis
 en este archivo podemos ver una contraseña que esta en hexadecimal. pero no esta en texto claro así que vamos a investigar para decodearla 
 ![[Pasted image 20240717221920.png]]
 
-### vnc decrypte
-después de investigar un poco en internet podemos conseguir una repo en github que nos proporciona una herramienta útil [vnc-decrypte](https://github.com/jeroennijhof/vncpwd)  dado que la herramienta espera un archivo debemos decodear la password en
-![[Pasted image 20240717233341.png]]
-
 ### kerbrute
 enumerando con kerbrute podemos verificar todos los usuarios así que vamos a buscar alguno que sea `ASRepRoast` 
 ![[Pasted image 20240717222809.png]]
@@ -134,6 +130,10 @@ con un servidor de python podemos compartir los archivos que hemos dumpearlos pa
 ### impacket-GetUserSPNs
 tenemos credenciales pero no podemos obtener ningún ataca por el momento 
 ![[Pasted image 20240717231227.png]]
+
+### vnc decrypte
+después de investigar un poco en internet podemos conseguir una repo en github que nos proporciona una herramienta útil [vnc-decrypte](https://github.com/jeroennijhof/vncpwd)  dado que la herramienta espera un archivo debemos decodear la password en hexadecimal para guardarlo en un archivo y finalmente pasarlo a la herramienta 
+![[Pasted image 20240717233341.png]]
 
 
 
