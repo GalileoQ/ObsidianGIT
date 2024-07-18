@@ -194,5 +194,6 @@ enumerando la base de datos podemos obtener información sobre el usuario `TempA
 ![[Pasted image 20240718122406.png]]
 
 `CasAudit.exe`
-
+aquí podemos ver lo que parece ser una password así que esto nos podría ser útil 
 ![[Pasted image 20240718123235.png]]
+
