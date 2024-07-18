@@ -108,8 +108,8 @@ haciendo un servidor en python lo podemos ver desde la web
 ![[Pasted image 20240717220640.png]]
 
 `VNC\ Install.reg`
-
-![[Pasted image 20240717221230.png]]
+en este archivo podemos ver una contraseña que esta en hexadecimal
+![[Pasted image 20240717221920.png]]
 
 
 
