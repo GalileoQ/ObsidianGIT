@@ -60,8 +60,13 @@ usando la herramienta smbclient no podemos enumerar ya que no tenemos credencial
 ![[Pasted image 20240717210744.png]]
 
 ### crackmapexec smb
-con esta herramienta podemos enumerar usuarios 
+con esta herramienta podemos enumerar usuarios con una lista de usuario proporcionadas por la herramienta
 ![[Pasted image 20240717211832.png]]
+
+
+### nxc
+
+
 ### rpcclient
 de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
 ![[Pasted image 20240717210550.png]]
