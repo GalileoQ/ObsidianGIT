@@ -235,6 +235,7 @@ Password > BQO5l5Kj9MdErXx6Q6AGOw==|cascade.local
 
 ### CyberChef
 una ves que tenemos todos los elementos ahora podemos decodear la contraseña usando la pagina web CyberChef
+
 ```python
 #Nota: 
 Key = UTF8
@@ -243,7 +244,10 @@ IV = UTF8
 
 Mode = CBC
 
-Input
+Input = Raw 
+
+Output = Raw
 ```
 
 ![[Pasted image 20240718151319.png]]
+
