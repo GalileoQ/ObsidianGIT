@@ -93,7 +93,7 @@ con estas credenciales podemos enumerar el servicio `smb` y listar lis recursos 
 ![[Pasted image 20240717215735.png]]
 
 ### smbmap
-
+dentro de data tenemos cosas interesantes
 ![[Pasted image 20240717215702.png]]
 
 
