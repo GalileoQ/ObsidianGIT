@@ -189,3 +189,6 @@ mget * #Nota: con esto descargamos absolutamente todo lo que esta en esta ruta
 a obtener todos los recursos compartidos podemos ver un archivo llamado `Audi.db` que parece ser una base de datos de `SQLite3` 
 ![[Pasted image 20240718121645.png]]
 
+### sqlite3
+
+![[Pasted image 20240718122406.png]]
