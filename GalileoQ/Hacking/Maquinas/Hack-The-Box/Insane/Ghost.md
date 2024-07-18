@@ -212,6 +212,6 @@ podemos enumerar el listado de usuarios con los roles
 ![[Pasted image 20240718193754.png]]
 
 ### Kerbrute
-usando la lista de usuarios hemos intentado hacer una enumeración con kerbrute pero no obtenemos nada 
+usando la lista de usuarios hemos intentado hacer una enumeración con kerbrute pero no obtenemos nada. sin embargo investigando p
 ![[Pasted image 20240718194729.png]]
 
