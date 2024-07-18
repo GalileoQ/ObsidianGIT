@@ -63,8 +63,44 @@ usando la herramienta smbclient no podemos enumerar ya que no tenemos credencial
 de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
 ![[Pasted image 20240717210550.png]]
 
-`guardamos los usuarios en un archivo`
+`guardamos los usuarios en un archivo para usarlos mas adelante`
 ![[Pasted image 20240717211348.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
