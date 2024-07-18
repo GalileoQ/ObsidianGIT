@@ -108,7 +108,7 @@ haciendo un servidor en python lo podemos ver desde la web en la cual nos da pis
 ![[Pasted image 20240717220640.png]]
 
 `VNC\ Install.reg`
-en este archivo podemos ver una contraseña que esta en hexadecimal. ya que esto me parece muy raro y no quiero seguir indagando para a la final tirar de msfconsole. empezare enumerando con kerbrute
+en este archivo podemos ver una contraseña que esta en hexadecimal. pero no esta en texto claro así que vamos a investigar para decodearla 
 ![[Pasted image 20240717221920.png]]
 
 ### kerbrute
