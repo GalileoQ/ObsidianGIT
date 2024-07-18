@@ -116,7 +116,7 @@ enumerando con kerbrute podemos verificar todos los usuarios así que vamos a bu
 ![[Pasted image 20240717222809.png]]
 
 ### impacket-GetNPUsers
-al parecer no podemos obtener un `ASREPROAST` de ningún usuario 
+al parecer no podemos obtener un `ASREPROAST` de ningún usuario ya que no cuentan con esta opción seteada 
 ![[Pasted image 20240717223533.png]]
 
 
