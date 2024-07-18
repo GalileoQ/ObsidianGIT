@@ -281,5 +281,7 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 ![[Pasted image 20240718164913.png]]
 
 ### crackmapexec
-
+validamos las credenciales y efectivamente podemos obtener acceso como administrador
 ![[Pasted image 20240718165033.png]]
+
+### WE A
