@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md"
               }
             }
           }
@@ -149,7 +149,8 @@
   },
   "active": "c52437ce06d66de9",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Sin título.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Freelancer.md",
@@ -186,7 +187,6 @@
     "GalileoQ/Hacking/Hacking Generico/Enumeración de Usuarios puerto 25 smtp.md",
     "GalileoQ/Hacking/Hacking Generico/Crear Diccionarios con Crunch y Cupp.md",
     "GalileoQ/Hacking/Hacking Generico/Cambiar Dirección MAC con Macchanger.md",
-    "GalileoQ/Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
