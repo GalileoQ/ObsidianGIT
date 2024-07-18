@@ -157,3 +157,5 @@ con estas credenciales y después de asegurarnos que el usuario `s.smith` perten
 ### Escalada de privilegios
 podemos identificar que el usuario `s.smith` pertenece a los grupos `IT` - `Audit Share` 
 ![[Pasted image 20240718114843.png]]
+
+`localg`
