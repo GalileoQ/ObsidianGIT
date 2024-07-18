@@ -191,11 +191,6 @@ hemos conseguido un panel de login. aquí empieza lo bueno
 investigando en internet algunos foros de la comunidad del `CMS Ghost` nos hacen referencia a un subdominio llamado `core`
 ![[Pasted image 20240718192311.png]]
 
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+`federeacion`
+al hacer clic en el boton nos rediri
+![[Pasted image 20240718192530.png]]
