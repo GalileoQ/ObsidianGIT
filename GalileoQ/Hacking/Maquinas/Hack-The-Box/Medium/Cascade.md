@@ -124,7 +124,7 @@ usando esta herramienta u usando las credenciales que hemos usado conseguido ant
 ![[Pasted image 20240717225719.png]]
 
 ### Domain Users
-
+con un servidor de python podemos compartir los archivos que hemos dumpearlos para poder verlos desde la web
 ![[Pasted image 20240717230709.png]]
 
 
