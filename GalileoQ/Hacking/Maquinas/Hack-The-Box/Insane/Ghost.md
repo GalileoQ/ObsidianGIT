@@ -171,6 +171,13 @@ Ghost CMS es un sistema de gestión de contenidos (CMS) moderno y de código abi
 /ghost/api/v3/admin/db/ - Punto final de base de datos potencialmente accesible para operaciones de copia de seguridad y restauración.
 ```
 
+`<script src="/assets/built/source.js?v=f335afc3d4"></script>`
+
+![[Pasted image 20240718174936.png]]
+
+
+
+
 
 
 ### Vulnerabilidades
