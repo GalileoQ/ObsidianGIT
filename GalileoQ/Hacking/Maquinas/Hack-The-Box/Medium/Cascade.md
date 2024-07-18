@@ -11,7 +11,7 @@ PING 10.10.10.182 (10.10.10.182) 56(84) bytes of data.
 rtt min/avg/max/mdev = 156.382/156.382/156.382/0.000 ms
 ```
 
-### TTL = 127 Windows
+### TTL = 127 = Windows
 
 ### nmap
 
