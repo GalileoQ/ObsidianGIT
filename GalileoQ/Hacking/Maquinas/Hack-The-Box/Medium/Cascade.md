@@ -59,11 +59,12 @@ Nmap done: 1 IP address (1 host up) scanned in 127.70 seconds
 usando la herramienta smbclient no podemos enumerar ya que no tenemos credenciales
 ![[Pasted image 20240717210744.png]]
 
-
 ### rpcclient
 de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
 ![[Pasted image 20240717210550.png]]
 
+`guardamos los usuarios en un archivo`
+![[Pasted image 20240717211348.png]]
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
