@@ -166,3 +166,5 @@ enumerando el grupo `Audit Share` podemos ver un comentario. esto es curioso as√
 enumerando de nuevo los recursos compartidos como el usuario `s.smith` logramos ver este recurso `Audit`
 ![[Pasted image 20240718115730.png]]
 
+### smbmap 
+![[Pasted image 20240718120048.png]]
