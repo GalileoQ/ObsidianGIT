@@ -159,6 +159,6 @@ podemos identificar que el usuario `s.smith` pertenece a los grupos `IT` - `Audi
 ![[Pasted image 20240718114843.png]]
 
 `localgroup`
-enumerando el grupo `Audit Share` podemos ver un comentario. esto es curioso así que vamos a investigar 
-![[Pasted image 20240718115143.png]]
+enumerando el grupo `Audit Share` podemos ver un comentario. esto es curioso así que vamos a investigar. pero debemos hacerlo enumerando los recursos compartidos desde el usuario 
+![[Pasted image 20240718115356.png]]
 
