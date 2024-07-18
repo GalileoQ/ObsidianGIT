@@ -173,7 +173,10 @@ enumerando el recurso compartido logramos conseguir mucha información. un archi
 ### smbclient
 ahora vamos a conectarnos pero usando `smbclient` pera poder enumerar el recurso compartido y podes descargar todo.
 
-```pytho
+```python
+smbclient //10.10.10.182/Audit$ -U "s.smith%sT333ve2"
+
+prompt of #
 ```
 
 ![[Pasted image 20240718121055.png]]
