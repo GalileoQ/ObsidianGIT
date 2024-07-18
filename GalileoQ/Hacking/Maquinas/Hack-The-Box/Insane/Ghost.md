@@ -144,33 +144,33 @@ Ghost CMS es un sistema de gestión de contenidos (CMS) moderno y de código abi
 
 ![[Pasted image 20240718174434.png]]
 
-```
+```python
 
-Panel de administrador:  
+1)Panel de administrador:  
   
 /ghost/ - La página de inicio de sesión de administrador.  
 /ghost/#/signin - Enlace directo a la página de inicio de sesión.  
   
-Contenido y archivos estáticos:  
+2)Contenido y archivos estáticos:  
   
 /content/images/ - Directorio predeterminado para imágenes cargadas.  
 /content/themes/ - Directorio de temas instalados.  
 /content/ - Directorio base de contenidos, temas e imágenes.  
   
-Puntos finales de API:  
+3)Puntos finales de API:  
   
 /ghost/api/v3/ - Punto final API para Ghost CMS v3.  
 /ghost/api/v4/ - Punto final API para Ghost CMS v4.  
 /ghost/api/v4/content/ - Punto final de API de contenido público.  
 /ghost/api/v4/admin/ - Punto final de API de administración.  
   
-Archivos de configuración y respaldo:  
+4)Archivos de configuración y respaldo:  
   
 /config.production.json - Archivo de configuración para el entorno de producción (no debe ser de acceso público).  
 /config.development.json - Archivo de configuración del entorno de desarrollo.  
 /ghost/api/v3/admin/db/ - Punto final de base de datos potencialmente accesible para operaciones de copia de seguridad y restauración.
 ```
-`
+
 
 
 ### Vulnerabilidades
