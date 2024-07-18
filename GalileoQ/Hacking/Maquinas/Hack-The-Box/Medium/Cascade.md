@@ -162,3 +162,6 @@ podemos identificar que el usuario `s.smith` pertenece a los grupos `IT` - `Audi
 enumerando el grupo `Audit Share` podemos ver un comentario. esto es curioso así que vamos a investigar. pero debemos hacerlo enumerando los recursos compartidos desde el usuario `s.smith` ya que desde esta conexión no podemos
 ![[Pasted image 20240718115356.png]]
 
+### smbmap 
+enumerando de nuevo los recursos compartidos como el usuario `s.smith` logramos ver este recurso `A`
+![[Pasted image 20240718115730.png]]
