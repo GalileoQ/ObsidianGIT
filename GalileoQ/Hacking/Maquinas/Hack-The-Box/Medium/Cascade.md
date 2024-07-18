@@ -104,7 +104,7 @@ qui podemos descargar un segundo archivo
 ![[Pasted image 20240717221124.png]]
 
 ### html
-haciendo un servidor en python lo podemos ver desde la web
+haciendo un servidor en python lo podemos ver desde la web en la cual nos da pistas de lo que esta pasando
 ![[Pasted image 20240717220640.png]]
 
 `VNC\ Install.reg`
