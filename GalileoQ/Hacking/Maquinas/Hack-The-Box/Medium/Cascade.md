@@ -111,7 +111,8 @@ haciendo un servidor en python lo podemos ver desde la web en la cual nos da pis
 en este archivo podemos ver una contraseña que esta en hexadecimal. pero no esta en texto claro así que vamos a investigar para decodearla 
 ![[Pasted image 20240717221920.png]]
 
-
+### vnc decrypte
+después de investigar un poco en internet podemos conseguir 
 
 ### kerbrute
 enumerando con kerbrute podemos verificar todos los usuarios así que vamos a buscar alguno que sea `ASRepRoast` 
