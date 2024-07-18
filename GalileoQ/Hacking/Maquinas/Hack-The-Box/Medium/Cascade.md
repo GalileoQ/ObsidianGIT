@@ -218,5 +218,12 @@ si analizamos el principio del código vemos que hace un llamado a `CascCrypto` 
 ![[Pasted image 20240718145255.png]]
 
 ### CascCrypto.dll
-si prestamos atención un poco podemos ver la `DefaultIV` y tambien podemos ver el modo `CipherMode`
+si prestamos atención un poco podemos ver la `DefaultIV` y también podemos ver el modo `CipherMode.CBC`
+
+```python
+AES CBC
+
+Key >
+```
+
 ![[Pasted image 20240718145907.png]]
