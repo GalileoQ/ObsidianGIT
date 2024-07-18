@@ -284,4 +284,4 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 validamos las credenciales y efectivamente podemos obtener acceso como administrador
 ![[Pasted image 20240718165033.png]]
 
-### WE A
+### WE ARE ROOT
