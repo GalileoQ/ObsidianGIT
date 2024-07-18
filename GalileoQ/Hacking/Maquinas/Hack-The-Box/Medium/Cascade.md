@@ -154,26 +154,6 @@ si verificamos los archivos que hemos dumpeado del ldap podemos ver que el usuar
 con estas credenciales y después de asegurarnos que el usuario `s.smith` pertenece al grupo `Remote Management Users` logramos la intrusión 
 ![[Pasted image 20240718114434.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+### Escalada de privilegios
+podemos identificar que el usuario `s.smith` pertenece a los grupos `IT, Audit Share`
+![[Pasted image 20240718114843.png]]
