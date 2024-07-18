@@ -169,3 +169,4 @@ enumerando de nuevo los recursos compartidos como el usuario `s.smith` logramos 
 ### smbmap -r
 enumerando el recurso compartido logramos conseguir mucha información. un archivo `.exe` también una `dll`  un recurso  llamado `DB`
 ![[Pasted image 20240718120048.png]]
+
