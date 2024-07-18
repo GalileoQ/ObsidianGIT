@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   },
   "active": "d2245d33bd68945d",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
