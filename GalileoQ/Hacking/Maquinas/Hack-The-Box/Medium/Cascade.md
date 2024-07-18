@@ -75,7 +75,9 @@ de esta forma obtenemos la misma lista de usuarios así que ya podemos guardarno
 `guardamos los usuarios en un archivo para usarlos mas adelante`
 ![[Pasted image 20240717211348.png]]
 
+### ldapsearch 
 
+![[Pasted image 20240717214515.png]]
 
 
 
