@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8814bfae0fdaf5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md"
               }
             }
           }
@@ -160,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "398d3bef6cb69cf3",
+  "active": "8814bfae0fdaf5e4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240718165033.png",
