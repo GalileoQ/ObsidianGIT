@@ -112,8 +112,8 @@ en este archivo podemos ver una contraseña que esta en hexadecimal. pero no est
 ![[Pasted image 20240717221920.png]]
 
 ### vnc decrypte
-después de investigar un poco en internet podemos conseguir una repo en github que nos proporciona una herramienta útil  
-
+después de investigar un poco en internet podemos conseguir una repo en github que nos proporciona una herramienta útil [vnc-decrypte](https://github.com/jeroennijhof/vncpwd)  dado que la herramienta espera un archivo debemos decodear la password en
+![[Pasted image 20240717233341.png]]
 
 ### kerbrute
 enumerando con kerbrute podemos verificar todos los usuarios así que vamos a buscar alguno que sea `ASRepRoast` 
