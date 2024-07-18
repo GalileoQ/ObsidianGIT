@@ -223,7 +223,7 @@ si prestamos atención un poco podemos ver la `DefaultIV` y también podemos ver
 ```python
 CipherMode.CBC ; AES > CBC
 
-Key >
+Key > "c4scadek3y654321"
 
 IV > "1tdyjCbY1Ix49842"
 
