@@ -220,6 +220,7 @@ si analizamos el principio del código vemos que hace un llamado a `CascCrypto` 
 ### CascCrypto.dll
 si prestamos atención un poco podemos ver la `DefaultIV` y también podemos ver el modo `CipherMode.CBC`
 
+`Recopilando informacion`
 ```python
 CipherMode.CBC ; AES > CBC
 
