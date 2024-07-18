@@ -140,8 +140,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración del puerto 8008 (http)
+Ghost CMS es un sistema de gestión de contenidos (CMS) moderno y de código abierto diseñado principalmente para blogs (el resultado de Nmap indica que este es el 5.78 versión)
 
-
+![[Pasted image 20240718174434.png]]
 
 
 ### Vulnerabilidades
