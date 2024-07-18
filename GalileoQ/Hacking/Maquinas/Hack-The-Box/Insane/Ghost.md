@@ -199,3 +199,6 @@ al hacer clic en el botón nos redirige a otro subdominio así que lo vamos a ag
 volvemos al inicio e intentamos iniciar sesión para interceptar con Burpsuite 
 ![[Pasted image 20240718193135.png]]
 
+### Burpsuite
+después de varios intentos identificamos que el identificador `*` tanto en el username como en el secret nos per
+![[Pasted image 20240718193318.png]]
