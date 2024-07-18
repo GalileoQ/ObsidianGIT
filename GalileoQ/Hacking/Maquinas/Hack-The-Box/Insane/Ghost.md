@@ -184,7 +184,7 @@ encontramos un subdominio así que vamos a enumerarlo
 ![[Pasted image 20240718191759.png]]
 
 ### intranet
-hemos conseguido un panel de login. aqui empieza lo bueno 
+hemos conseguido un panel de login. aquí empieza lo bueno 
 ![[Pasted image 20240718191926.png]]
 
 
