@@ -214,5 +214,6 @@ si vamos al archivo y a la función Main podemos ver que efectivamente el códig
 ![[Pasted image 20240718144831.png]]
 
 ### CascCrypto
-si analizamos el principio del codigo vemos que hace un llamado a `CascCrypto` quiero creer que que esto se esta aplicando en la parte de 
+si analizamos el principio del código vemos que hace un llamado a `CascCrypto` quiero creer que que esto se esta aplicando en la parte de la `dll` asi que vamos a analizarlo también 
 ![[Pasted image 20240718145255.png]]
+
