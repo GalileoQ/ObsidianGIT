@@ -180,7 +180,8 @@ prompt of #Nota: con esto desactivamos el prompt para que no nos este preguntand
 
 recurse ON #Nota: con esto activamos el modo recursivo para asegurarnos de descargar los directorios
 
-mget * 
+mget * #Nota: con esto descargamos absolutamente todo lo que esta en esta ruta
 ```
 
 ![[Pasted image 20240718121055.png]]
+
