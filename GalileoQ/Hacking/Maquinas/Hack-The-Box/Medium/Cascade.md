@@ -65,11 +65,11 @@ con esta herramienta podemos enumerar usuarios con una lista de usuario proporci
 
 
 ### Opción 2 nxc
-
-
+con esta herramienta podemos realizar el mismo escaneo y obtenemos la misma información
+![[Pasted image 20240717212411.png]]
 
 ### rpcclient
-de esta forma obtenemos un listado de usuarios que podemos usar mas adelante
+de esta forma obtenemos la misma lista de usuarios asi que 
 ![[Pasted image 20240717210550.png]]
 
 `guardamos los usuarios en un archivo para usarlos mas adelante`
