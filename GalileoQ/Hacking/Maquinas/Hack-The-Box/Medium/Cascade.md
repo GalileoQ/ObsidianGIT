@@ -112,7 +112,7 @@ en este archivo podemos ver una contraseña que esta en hexadecimal. ya que esto
 ![[Pasted image 20240717221920.png]]
 
 ### kerbrute
-enumerando con kerbrute podemos verificar todos los usuarios asi que vamos a buscar alguno que sea ARproas
+enumerando con kerbrute podemos verificar todos los usuarios asi que vamos a buscar alguno que sea `ASRepRoast` 
 ![[Pasted image 20240717222809.png]]
 
 
