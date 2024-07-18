@@ -188,7 +188,7 @@ hemos conseguido un panel de login. aquí empieza lo bueno
 ![[Pasted image 20240718191926.png]]
 
 ### Ghost Core
-investigando en internet algunos foros de la comunia
+investigando en internet algunos foros de la comunidad del `CMS Ghost` nos hacen referencia a un subdominio llamado `core`
 ![[Pasted image 20240718192311.png]]
 
 
