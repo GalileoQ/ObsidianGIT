@@ -187,7 +187,9 @@ encontramos un subdominio así que vamos a enumerarlo
 hemos conseguido un panel de login. aquí empieza lo bueno 
 ![[Pasted image 20240718191926.png]]
 
-
+### Ghost Core
+investigando en internet algunos foros de la comunia
+![[Pasted image 20240718192311.png]]
 
 
 ### Vulnerabilidades
