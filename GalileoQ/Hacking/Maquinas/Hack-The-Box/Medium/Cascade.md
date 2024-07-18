@@ -252,5 +252,6 @@ Output = Raw
 ![[Pasted image 20240718151319.png]]
 
 ### crackmapexec
-validamos estas credenciales por smb y win
+validamos estas credenciales por `smb` y `winrm` y obtenemos un `+` en ambos lo cual nos asegura que estas crendenciales son correctas
 ![[Pasted image 20240718152138.png]]
+
