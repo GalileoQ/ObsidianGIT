@@ -96,7 +96,8 @@ con estas credenciales podemos enumerar el servicio `smb` y listar lis recursos 
 dentro de data tenemos cosas interesantes
 ![[Pasted image 20240717215702.png]]
 
-###
+### smbmap
+dentro de los recursos compartidos podemos encontrar un archivo llamado Meeting_Note_June_2018.html 
 ![[Pasted image 20240717220206.png]]
 
 
