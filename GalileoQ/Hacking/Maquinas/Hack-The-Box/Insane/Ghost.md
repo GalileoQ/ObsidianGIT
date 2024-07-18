@@ -212,6 +212,6 @@ podemos enumerar el listado de usuarios con los roles
 ![[Pasted image 20240718193754.png]]
 
 ### Kerbrute
-usando la lista de usuarios hemos intentado hacer una enumeración con kerbrute pero no obtenemos nada. sin embargo investigando p
+usando la lista de usuarios hemos intentado hacer una enumeración con kerbrute pero no obtenemos nada. sin embargo investigando podemos identificar que el usuario `gitea_temp_principal@ghost.htb` parece ser vulnerable a ciertos ataques.
 ![[Pasted image 20240718194729.png]]
 
