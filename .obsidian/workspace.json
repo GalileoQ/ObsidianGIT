@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64ee6ac41a3d1528",
+        "id": "2aaad3cb4fb37927",
         "type": "tabs",
         "children": [
           {
-            "id": "c52437ce06d66de9",
+            "id": "d2245d33bd68945d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398d3bef6cb69cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8814bfae0fdaf5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md"
               }
             }
           }
@@ -172,11 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8814bfae0fdaf5e4",
+  "active": "d2245d33bd68945d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Sin título.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240718165033.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240718164913.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240718163646.png",
@@ -211,7 +187,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hashcat - Hacking de Hashes.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Wifi Aircrack-NG.md",
     "GalileoQ/Hacking/Hacking Generico/FCRACKZIP - Cracking de Ficheros ZIP.md",
-    "GalileoQ/Hacking/Hacking Generico/Explotación Vulnerabilidades PHP.md",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
