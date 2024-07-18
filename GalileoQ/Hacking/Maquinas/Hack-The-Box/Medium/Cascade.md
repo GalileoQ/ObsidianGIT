@@ -269,7 +269,7 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 ![[Pasted image 20240718162059.png]]
 
 `Get-adobject`
-de esta manera podemos listar las propiedades del usuario y asi en
+de esta manera podemos listar las propiedades del usuario y así encontrar otra contraseña 
 ```python
 Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDeletedObjects -Properties *
 ```
