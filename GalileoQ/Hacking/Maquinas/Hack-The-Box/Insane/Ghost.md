@@ -204,5 +204,9 @@ después de varios intentos identificamos que el identificador `*` tanto en el u
 ![[Pasted image 20240718193318.png]]
 
 ### Intranet
-iniciamos sesión como el usu
+iniciamos sesión como el usuario `Kathryn.holland`
 ![[Pasted image 20240718193515.png]]
+
+`Users`
+podemos enumerar el listado de usuarios con los roles
+![[Pasted image 20240718193754.png]]
