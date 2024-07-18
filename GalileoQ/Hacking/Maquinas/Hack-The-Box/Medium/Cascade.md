@@ -97,7 +97,7 @@ dentro de data tenemos cosas interesantes
 ![[Pasted image 20240717215702.png]]
 
 ### smbmap
-dentro de los recursos compartidos podemos encontrar un archivo llamado Meeting_Note_June_2018.html 
+dentro de los recursos compartidos podemos encontrar un archivo llamado Meeting_Note_June_2018.html así que lo descargamos
 ![[Pasted image 20240717220206.png]]
 
 
