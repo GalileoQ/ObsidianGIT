@@ -251,3 +251,6 @@ Output = Raw
 
 ![[Pasted image 20240718151319.png]]
 
+### crackmapexec
+validamos estas credenciales por smb y win
+![[Pasted image 20240718152138.png]]
