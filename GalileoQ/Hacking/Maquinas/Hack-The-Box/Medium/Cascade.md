@@ -76,8 +76,9 @@ de esta forma obtenemos la misma lista de usuarios así que ya podemos guardarno
 ![[Pasted image 20240717211348.png]]
 
 ### ldapsearch 
-
+de esta manera podemos ver que el usuario `r.thompson` esta pwn asi que solo debemos capturar estas credenciales
 ![[Pasted image 20240717214515.png]]
+
 
 
 
