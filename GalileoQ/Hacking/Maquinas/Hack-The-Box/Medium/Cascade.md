@@ -204,3 +204,7 @@ después de enumerar todos los usuarios que tenemos con la nueva contraseña no 
 ### dotpeek
 dado que el `error decrypting` mencionado anterior mente me ha llamado la atención vamos a probar esta herramienta. para ello vamos a usar una maquina `windows 10` que esta corriendo en `VirtualBox` 
 ![[Pasted image 20240718131233.png]]
+
+`installing`
+instalamos la app
+![[Pasted image 20240718140445.png]]
