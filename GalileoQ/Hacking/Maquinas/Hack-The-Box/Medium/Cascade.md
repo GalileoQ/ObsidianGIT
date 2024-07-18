@@ -96,7 +96,8 @@ con estas credenciales podemos enumerar el servicio `smb` y listar lis recursos 
 dentro de data tenemos cosas interesantes
 ![[Pasted image 20240717215702.png]]
 
-
+###
+![[Pasted image 20240717220206.png]]
 
 
 
