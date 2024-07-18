@@ -111,7 +111,9 @@ haciendo un servidor en python lo podemos ver desde la web
 en este archivo podemos ver una contraseña que esta en hexadecimal. ya que esto me parece muy raro y no quiero seguir indagando para a la final tirar de msfconsole. empezare enumerando con kerbrute
 ![[Pasted image 20240717221920.png]]
 
-
+### kerbrute
+enumerando con kerbrute podemos verificar todos los usuarios asi que vamos a buscar alguno que sea ARproas
+![[Pasted image 20240717222809.png]]
 
 
 
