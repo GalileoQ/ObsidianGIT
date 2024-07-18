@@ -192,5 +192,6 @@ investigando en internet algunos foros de la comunidad del `CMS Ghost` nos hacen
 ![[Pasted image 20240718192311.png]]
 
 `federeacion`
-al hacer clic en el boton nos rediri
+al hacer clic en el botón nos redirige a otro subdominio así que lo vamos a agregar 
 ![[Pasted image 20240718192530.png]]
+
