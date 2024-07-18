@@ -234,5 +234,7 @@ Password > BQO5l5Kj9MdErXx6Q6AGOw==|cascade.local
 ![[Pasted image 20240718145907.png]]
 
 ### CyberChef
-una ves que tenemos todos los elementos ahora pode
+una ves que tenemos todos los elementos ahora podemos decodear la contraseña usando la pagina web CyberChef
+`
+#Nota: 
 ![[Pasted image 20240718151319.png]]
