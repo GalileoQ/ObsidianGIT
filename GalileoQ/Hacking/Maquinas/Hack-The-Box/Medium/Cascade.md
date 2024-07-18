@@ -197,5 +197,7 @@ enumerando la base de datos podemos obtener información sobre el usuario `TempA
 aquí podemos ver lo que parece ser una password así que esto nos podría ser útil. aunque el error `Error decrypting` me llama la atención
 ![[Pasted image 20240718123235.png]]
 
-### crackmapexe
+### crackmapexec
+después de enumerar todos los usuarios que tenemos con la nueva contraseña no conseguimos ninguna coincidencia 
 ![[Pasted image 20240718125301.png]]
+
