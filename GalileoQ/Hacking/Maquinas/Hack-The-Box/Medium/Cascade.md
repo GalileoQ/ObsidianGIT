@@ -119,7 +119,9 @@ enumerando con kerbrute podemos verificar todos los usuarios así que vamos a bu
 al parecer no podemos obtener un `ASREPROAST` de ningún usuario ya que no cuentan con esta opción seteada 
 ![[Pasted image 20240717223533.png]]
 
-
+### ldapdomaindump.py 
+usando esta herramienta con las credenciales que hemos usado
+![[Pasted image 20240717225719.png]]
 
 
 
