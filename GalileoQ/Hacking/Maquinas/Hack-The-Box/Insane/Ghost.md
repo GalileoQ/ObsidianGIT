@@ -172,8 +172,9 @@ Ghost CMS es un sistema de gestión de contenidos (CMS) moderno y de código abi
 ```
 
 `<script src="/assets/built/source.js?v=f335afc3d4"></script>`
-
+Al inspeccionar su código fuente, podemos descubrir un punto final de JavaScript:
 ![[Pasted image 20240718174936.png]]
+
 
 
 
