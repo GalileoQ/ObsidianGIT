@@ -268,3 +268,10 @@ Get-adobject -Filter {Deleted -eq $true -and ObjectClass -eq "user"} -IncludeDel
 
 ![[Pasted image 20240718162059.png]]
 
+`Get-adobject`
+
+```python
+
+```
+
+![[Pasted image 20240718163646.png]]
