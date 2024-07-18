@@ -201,3 +201,6 @@ aquí podemos ver lo que parece ser una password así que esto nos podría ser �
 después de enumerar todos los usuarios que tenemos con la nueva contraseña no conseguimos ninguna coincidencia 
 ![[Pasted image 20240718125301.png]]
 
+### dotpeek
+dado que el ``error decrypting 
+![[Pasted image 20240718131233.png]]
