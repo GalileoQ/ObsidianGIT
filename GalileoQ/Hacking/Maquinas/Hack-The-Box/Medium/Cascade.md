@@ -190,5 +190,5 @@ a obtener todos los recursos compartidos podemos ver un archivo llamado `Audi.db
 ![[Pasted image 20240718121645.png]]
 
 ### sqlite3
-
+enumerando la base de datos podemos obtener información sobre el usuario `TempAdmin` que ya sabemos que es un usuario Administrador temporal. y tam
 ![[Pasted image 20240718122406.png]]
