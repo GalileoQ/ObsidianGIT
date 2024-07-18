@@ -255,3 +255,7 @@ Output = Raw
 validamos estas credenciales por `smb` y `winrm` y obtenemos un `+` en ambos lo cual nos asegura que estas credenciales son correctas
 ![[Pasted image 20240718152138.png]]
 
+### evil-winrm
+obtenemos acceso con este usuario así que vamos a seguir enumerando el sistema
+![[Pasted image 20240718152509.png]]
+
