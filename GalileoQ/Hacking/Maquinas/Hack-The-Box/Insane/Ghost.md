@@ -283,3 +283,5 @@ Esta clave se comparte entre la intranet y el blog, lo que sugiere que si podemo
 Se proporciona la clave API pública para Ghost: a5af628828958c976a3b6cc81a.
 ```
 
+`Además, menciona que un archivo específico, posts-public.js, ha sido modificado para agregar nuevas funciones. Al revisar el código fuente, podemos identificar una vulnerabilidad de inclusión de archivos locales (LFI) para el extra parámetro:`
+
