@@ -445,6 +445,6 @@ validamos las credenciales y efectivamente son las correctas
 --------------------------------------------------------------
 
 ### evil-winrm
-obtenemos la conexion
+obtenemos la conexión
 ![[Pasted image 20240718213329.png]]
 
