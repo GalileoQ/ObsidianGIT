@@ -334,4 +334,7 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/s
 ![[Pasted image 20240718202805.png]]
 
 `tenemos el DEV_INTRANET_KEY=!@yqr!▒▒▒▒▒▒▒▒, que se utilizará para algunas funciones de la intranet, como el escaneo, como se mencionó.`
-Inyección de comandos | Intranet
+
+`Eche un vistazo a otro repositorio de Gitea, el archivo Léame nos dice que la API de desarrollo en http://intranet.ghost.htb/api-dev estará expuesta hasta que finalice el desarrollo, a las que se agregan algunas características nuevas para integrar el blog y el intranet.  
+  
+Como ya se mencionó mucho, hay una función de escaneo en desarrollo, por lo que podemos revisar los códigos en la ruta intranet/backend/src/api/dev/scan.rs:
