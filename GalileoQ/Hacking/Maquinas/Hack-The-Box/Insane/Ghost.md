@@ -330,3 +330,6 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/s
 ```
 
 ![[Pasted image 20240718202605.png]]
+
+![[Pasted image 20240718202633.png]]
+
