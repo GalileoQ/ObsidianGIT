@@ -448,3 +448,11 @@ validamos las credenciales y efectivamente son las correctas
 obtenemos la conexión
 ![[Pasted image 20240718213329.png]]
 
+### nxc
+
+```python
+Get-ADGroup -Identity 'Key Admins' -Properties *:
+```
+
+![[Pasted image 20240718213845.png]]
+
