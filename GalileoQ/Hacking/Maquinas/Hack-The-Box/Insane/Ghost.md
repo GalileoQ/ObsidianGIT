@@ -412,3 +412,6 @@ curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY:
 
 ![[Pasted image 20240718203301.png]]
 
+Parece que tenemos un usuario root web en el back-end. Ahora podemos preparar nuestra carga útil de reverse shell para la máquina contenedora Linux.  
+  
+Sin embargo, parece que la máquina no tiene bash comando, podemos intentar sh en cambio
