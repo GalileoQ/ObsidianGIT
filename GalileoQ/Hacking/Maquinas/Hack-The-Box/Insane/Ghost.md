@@ -438,3 +438,13 @@ validamos las credenciales y efectivamente son las correctas
 ### dnschef
 
 ![[Pasted image 20240718210256.png]]
+
+
+----------------------------------------------------------------
+-----------------------------------------------------------
+--------------------------------------------------------------
+
+### evil-winrm
+obtenemos la conexion
+![[Pasted image 20240718213329.png]]
+
