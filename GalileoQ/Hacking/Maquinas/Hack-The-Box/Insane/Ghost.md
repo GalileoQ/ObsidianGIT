@@ -392,3 +392,22 @@ pub fn scan(_guard: DevGuard, data: Json<ScanRequest>) -> Json<ScanResponse> {
 }
 ```
 
+```python
+> El ScanRequest struct representa la solicitud JSON entrante, que incluye un url campo.  
+
+> El ScanResponse struct representa la respuesta JSON, incluidos los campos para el resultado de la verificación de seguridad y el resultado de la ejecución del comando.  
+
+> El key extrae valor X-DEV-INTRANET-KEY desde el encabezado de la solicitud, luego lo compara con la variable de entorno en la máquina de destino, que recuperamos en el último paso.  
+
+> El scan La función construye un comando de shell usando bash -c correr intranet_url_check con la URL proporcionada.  
+
+> El comando está construido con format!("intranet_url_check {}", data.url), que incorpora directamente el url parámetro en el comando de shell sin desinfección.
+```
+
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
+# Licens: CC BY-NC-SA 4.0  
+# Author: Axura  
+# URL: https://4xura.com/ctf/htb/htb-writeup-ghost/  
+# Source: Axura's Blog  
+  
+Por lo tanto, si el urlEl parámetro contiene metacaracteres de shell, puede inyectar comandos arbitrarios. Podemos probar la vulnerabilidad enviando una solicitud POST al punto final mencionado en el archivo Léame:
