@@ -264,5 +264,7 @@ bar.success(f"The final password is {password}")
 de esta manera logramos conseguir las cerdenciales del usuario `_gitea_temp_principal_` 
 ![[Pasted image 20240718195411.png]]
 
-
+`gitea.ghost.htb:8008`
+iniciamos sesión con las credenciales que hemos encontrado 
 ![[Pasted image 20240718200032.png]]
+
