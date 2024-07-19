@@ -428,4 +428,4 @@ efectivamente podemos obtener una reverse shell
 ![[Pasted image 20240718204215.png]]
 
 ### ssh
-Establece configuraciones SSH, intenta establecer una conexión SSH y luego ejecuta el programa de intranet, con las credenciales del usuario florence.ramirez Por lo tanto, podemos pasar a este usuario:
+Establece configuraciones SSH, intenta establecer una conexión SSH y luego ejecuta el programa de intranet, con las credenciales del usuario florence.ramirez Por lo tanto, podemos pasar a este usuario
