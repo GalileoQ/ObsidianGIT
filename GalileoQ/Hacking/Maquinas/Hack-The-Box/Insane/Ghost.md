@@ -425,5 +425,7 @@ efectivamente podemos obtener una reverse shell
 
 
 `Como usuario root dentro del contenedor, podemos leer o escribir cualquier archivo. Enumere los archivos dentro de él, hay un docker.entrypoint,sh se ubica en la carpeta raíz, que siempre indica cómo se estaba configurando el contenedor`
-![[Pasted image 20240718204101.png]]
+![[Pasted image 20240718204215.png]]
 
+### ssh
+Establece configuraciones SSH, intenta establecer una conexión SSH y luego ejecuta el programa de intranet, con las credenciales del usuario florence.ramirez Por lo tanto, podemos pasar a este usuario:
