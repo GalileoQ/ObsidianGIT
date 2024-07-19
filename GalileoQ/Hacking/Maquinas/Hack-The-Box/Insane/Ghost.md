@@ -435,3 +435,5 @@ Establece configuraciones SSH, intenta establecer una conexión SSH y luego ejec
 validamos las credenciales y efectivamente son las correctas
 ![[Pasted image 20240718205230.png]]
 
+### dns
+![[Pasted image 20240718210256.png]]
