@@ -306,7 +306,8 @@ async query(frame) {
 
 
 `El extra El parámetro no está desinfectado adecuadamente, por lo que podemos recorrer directorios y leer archivos fuera del directorio deseado ( /var/lib/ghost/extra/), con una carga útil como ../../../etc/passwd`  
-  
+
+### LFI
 `Por lo tanto, podemos acceder al punto final de publicación para realizar la prueba. Según la documentación oficial de Ghost , que indica que nuestro camino transversal podría ser`
 
 ```python
@@ -319,5 +320,7 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../etc/passw
 curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../etc/passwd&key=a5af628828958c976a3b6cc81a"
 ```
 
-
 ![[Pasted image 20240718202009.png]]
+
+
+`Una vez que el POC funcione, ahora podremos extraer la información que nos interesa. Aunque externamente es una máquina con Windows, ahora sabemos que ejecuta un contenedor Linux como servidor del Blog. Dado que menciona "Clave API denominada DEV_INTRANET_KEY almacenado como una variable de entorno ", luego podemos verificar el /proc/self/environ ruta para el sistema de archivos`
