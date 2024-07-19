@@ -264,3 +264,5 @@ bar.success(f"The final password is {password}")
 de esta manera logramos conseguir las cerdenciales del usuario `_gitea_temp_principal_` 
 ![[Pasted image 20240718195411.png]]
 
+
+![[Pasted image 20240718200032.png]]
