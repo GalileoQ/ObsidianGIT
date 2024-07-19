@@ -304,3 +304,5 @@ async query(frame) {
         }
 ```
 
+### LFI
+para explotar esta parte vamos a utilizar los siguientes comandos
