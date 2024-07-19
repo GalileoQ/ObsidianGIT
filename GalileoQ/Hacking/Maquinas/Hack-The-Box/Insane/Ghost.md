@@ -423,3 +423,5 @@ curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY:
 efectivamente podemos obtener una reverse shell
 ![[Pasted image 20240718203643.png]]
 
+
+![[Pasted image 20240718204101.png]]
