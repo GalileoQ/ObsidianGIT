@@ -335,6 +335,60 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/s
 
 `tenemos el DEV_INTRANET_KEY=!@yqr!▒▒▒▒▒▒▒▒, que se utilizará para algunas funciones de la intranet, como el escaneo, como se mencionó.`
 
-`Eche un vistazo a otro repositorio de Gitea, el archivo Léame nos dice que la API de desarrollo en http://intranet.ghost.htb/api-dev estará expuesta hasta que finalice el desarrollo, a las que se agregan algunas características nuevas para integrar el blog y el intranet.  
+`Eche un vistazo a otro repositorio de Gitea, el archivo Léame nos dice que la API de desarrollo en http://intranet.ghost.htb/api-dev estará expuesta hasta que finalice el desarrollo, a las que se agregan algunas características nuevas para integrar el blog y el intranet`  
   
-Como ya se mencionó mucho, hay una función de escaneo en desarrollo, por lo que podemos revisar los códigos en la ruta intranet/backend/src/api/dev/scan.rs:
+`Como ya se mencionó mucho, hay una función de escaneo en desarrollo, por lo que podemos revisar los códigos en la ruta intranet/backend/src/api/dev/scan.rs:` 
+
+```python
+use std::process::Command;
+
+use rocket::serde::json::Json;
+use rocket::serde::Serialize;
+use serde::Deserialize;
+
+use crate::api::dev::DevGuard;
+
+#[derive(Deserialize)]
+pub struct ScanRequest {
+    url: String,
+}
+
+#[derive(Serialize)]
+pub struct ScanResponse {
+    is_safe: bool,
+    // remove the following once the route is stable
+    temp_command_success: bool,
+    temp_command_stdout: String,
+    temp_command_stderr: String,
+}
+
+// Scans an url inside a blog post
+// This will be called by the blog to ensure all URLs in posts are safe
+#[post("/scan", format = "json", data = "<data>")]
+pub fn scan(_guard: DevGuard, data: Json<ScanRequest>) -> Json<ScanResponse> {
+    // currently intranet_url_check is not implemented,
+    // but the route exists for future compatibility with the blog
+    let result = Command::new("bash")
+        .arg("-c")
+        .arg(format!("intranet_url_check {}", data.url))
+        .output();
+
+    match result {
+        Ok(output) => {
+            Json(ScanResponse {
+                is_safe: true,
+                temp_command_success: true,
+                temp_command_stdout: String::from_utf8(output.stdout).unwrap_or("".to_string()),
+                temp_command_stderr: String::from_utf8(output.stderr).unwrap_or("".to_string()),
+            })
+        }
+        Err(_) => Json(ScanResponse {
+            is_safe: true,
+            temp_command_success: false,
+            temp_command_stdout: "".to_string(),
+            temp_command_stderr: "".to_string(),
+        })
+    }
+}
+```
+
