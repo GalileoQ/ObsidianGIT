@@ -460,3 +460,5 @@ Get-ADGroup -Identity 'Key Admins' -Properties *:
 
 ![[Pasted image 20240718213845.png]]
 
+exec_as_login sa  
+enable_xp_cmdshell
