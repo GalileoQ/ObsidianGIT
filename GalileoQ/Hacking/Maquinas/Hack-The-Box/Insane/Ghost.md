@@ -285,3 +285,22 @@ Se proporciona la clave API pública para Ghost: a5af628828958c976a3b6cc81a.
 
 `Además, menciona que un archivo específico, posts-public.js, ha sido modificado para agregar nuevas funciones. Al revisar el código fuente, podemos identificar una vulnerabilidad de inclusión de archivos locales (LFI) para el extra parámetro:`
 
+```python
+async query(frame) {
+            const options = {
+                ...frame.options,
+                mongoTransformer: rejectPrivateFieldsTransformer
+            };
+            const posts = await postsService.browsePosts(options);
+            const extra = frame.original.query?.extra;
+            if (extra) {
+                const fs = require("fs");
+                if (fs.existsSync(extra)) {
+                    const fileContent = fs.readFileSync("/var/lib/ghost/extra/" + extra, { encoding: "utf8" });
+                    posts.meta.extra = { [extra]: fileContent };
+                }
+            }
+            return posts;
+        }
+```
+
