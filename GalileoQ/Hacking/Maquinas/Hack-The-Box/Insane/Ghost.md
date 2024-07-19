@@ -307,12 +307,15 @@ async query(frame) {
 
 `El extra El parámetro no está desinfectado adecuadamente, por lo que podemos recorrer directorios y leer archivos fuera del directorio deseado ( /var/lib/ghost/extra/), con una carga útil como ../../../etc/passwd`  
   
-Por lo tanto, podemos acceder al punto final de publicación para realizar la prueba. Según la documentación oficial de Ghost , que indica que nuestro camino transversal podría ser:  
-  
+`Por lo tanto, podemos acceder al punto final de publicación para realizar la prueba. Según la documentación oficial de Ghost , que indica que nuestro camino transversal podría ser`
+
+```python
 curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../etc/passwd&key=API_KEY"  
-  
-Podemos usar la clave API pública proporcionada anteriormente en el archivo Léame, probar cuánto ../ Necesitamos identificar la posición del directorio del sistema de archivos:  
-  
+```
+
+`Podemos usar la clave API pública proporcionada anteriormente en el archivo Léame, probar cuánto ../ Necesitamos identificar la posición del directorio del sistema de archivos`
+  ```python
+```
 curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../etc/passwd&key=a5af628828958c976a3b6cc81a"
 
 ![[Pasted image 20240718202009.png]]
