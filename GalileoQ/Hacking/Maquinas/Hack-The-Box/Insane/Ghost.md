@@ -424,4 +424,6 @@ efectivamente podemos obtener una reverse shell
 ![[Pasted image 20240718203643.png]]
 
 
+`Como usuario root dentro del contenedor, podemos leer o escribir cualquier archivo. Enumere los archivos dentro de él, hay un docker.entrypoint,sh se ubica en la carpeta raíz, que siempre indica cómo se estaba configurando el contenedor`
 ![[Pasted image 20240718204101.png]]
+
