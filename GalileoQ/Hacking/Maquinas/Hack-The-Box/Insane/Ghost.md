@@ -270,4 +270,15 @@ iniciamos sesión con las credenciales que hemos encontrado
 
 ![[Pasted image 20240718200213.png]]
 
-### Re
+### Recopilación
+
+```python
+El blog utiliza Ghost CMS, que se ejecuta dentro de un contenedor Docker.  
+
+El blog se está integrando con una intranet y algunas funciones requieren una clave API denominada DEV_INTRANET_KEY, almacenado como 
+una variable de entorno.  
+
+Esta clave se comparte entre la intranet y el blog, lo que sugiere que si podemos obtener esta clave, podría proporcionar acceso a las funcionalidades de la intranet.  
+
+Se proporciona la clave API pública para Ghost: a5af628828958c976a3b6cc81a.
+```
