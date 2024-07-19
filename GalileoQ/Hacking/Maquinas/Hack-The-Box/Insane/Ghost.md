@@ -268,5 +268,6 @@ de esta manera logramos conseguir las cerdenciales del usuario `_gitea_temp_prin
 iniciamos sesión con las credenciales que hemos encontrado 
 ![[Pasted image 20240718200032.png]]
 
-
 ![[Pasted image 20240718200213.png]]
+
+### Re
