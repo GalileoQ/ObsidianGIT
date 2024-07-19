@@ -333,3 +333,5 @@ curl "http://ghost.htb:8008/ghost/api/v3/content/posts/?extra=../../../../proc/s
 
 ![[Pasted image 20240718202805.png]]
 
+`tenemos el DEV_INTRANET_KEY=!@yqr!▒▒▒▒▒▒▒▒, que se utilizará para algunas funciones de la intranet, como el escaneo, como se mencionó.`
+Inyección de comandos | Intranet
