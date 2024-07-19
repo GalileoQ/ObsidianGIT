@@ -448,6 +448,10 @@ validamos las credenciales y efectivamente son las correctas
 obtenemos la conexión
 ![[Pasted image 20240718213329.png]]
 
+### Info
+
+![[Pasted image 20240718214032.png]]
+
 ### nxc
 
 ```python
