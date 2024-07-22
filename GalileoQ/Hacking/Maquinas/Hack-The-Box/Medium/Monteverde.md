@@ -139,8 +139,9 @@ investigando en internet encontramos un exploits el cual esta en el siguiente re
 ![[Pasted image 20240722130105.png]]
 
 `upload`
-en la maquina victima vamos a subir la los archivos ``
+en la maquina victima vamos a subir los archivos `AdDecrypt.exe` y `mcrypt.dll` 
 ![[Pasted image 20240722130512.png]]
+
 
 
 
