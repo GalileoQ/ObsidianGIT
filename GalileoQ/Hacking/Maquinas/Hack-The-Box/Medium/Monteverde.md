@@ -130,6 +130,9 @@ logramos obtener una conexión con las credenciales que hemos encontrado
 pertenecemos al grupo `Azure Admins` que es un grupo del dominio
 ![[Pasted image 20240722125101.png]]
 
+`Microsoft Azure AD Sync`
+esto es importante ya que podemos buscar vulnerabilidades que esten relacionadas a esto e intentar identificar si alguna es 
+![[Pasted image 20240722125452.png]]
 
 
 
