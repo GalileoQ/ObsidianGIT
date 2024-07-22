@@ -92,8 +92,14 @@ con el siguiente comando podemos enumerar los usuarios y limpiamos la `query` pa
 ![[Pasted image 20240722102730.png]]
 
 ### impacket-GetNPUsers
-realizamos un ataque `ASREPRoast` pero no tenemos éxito. los usuarios no tienen configurado la opción ``
+realizamos un ataque `ASREPRoast` pero no tenemos éxito. los usuarios no tienen configurado la opción `doesn't have UF_DONT_REQUIRE_PREAUTH set`
 ![[Pasted image 20240722103331.png]]
+
+
+
+
+
+
 
 ### Vulnerabilidades
 
