@@ -138,6 +138,9 @@ esto es importante ya que podemos buscar vulnerabilidades que estén relacionada
 investigando en internet encontramos un exploits el cual esta en el siguiente repositorio [AdSyncDecrypt](https://github.com/VbScrub/AdSyncDecrypt/releases) descargamos y descomprimimos el archivo
 ![[Pasted image 20240722130105.png]]
 
+`upload`
+en la maquina victima vamos a subir la los archivos ``
+![[Pasted image 20240722130512.png]]
 
 
 
