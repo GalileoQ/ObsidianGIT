@@ -114,6 +114,9 @@ en este recurso compartido podemos encontrar otros directorios así que seguirem
 hemos encontrado un archivo `.xml` el cual puede ser muy interesante
 ![[Pasted image 20240722110858.png]]
 
+`azure.xml`
+en el archivo xml tenemos una contraseña que vamos a validar con el grupo de usuarios que ya tenemos
+![[Pasted image 20240722121613.png]]
 
 
 
