@@ -144,6 +144,12 @@ en la maquina victima vamos a subir los archivos `AdDecrypt.exe` y `mcrypt.dll`
 
 `"C:\Program Files\Microsoft Azure AD Sync\Bin”` 
 después de subir los archivos debemos dirigirnos a la ruta contemplada para poder realizar este ataque ya que de lo contrario no tendremos éxito. y debemos ejecutar el siguiente comando 
+
+```python
+
+A_dDecrypt.exe -FullSQL_
+```
+
 ![[Pasted image 20240722130958.png]]
 
 
