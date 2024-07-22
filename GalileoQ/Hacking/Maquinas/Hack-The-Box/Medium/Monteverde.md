@@ -127,7 +127,7 @@ logramos obtener una conexión con las credenciales que hemos encontrado
 ![[Pasted image 20240722124558.png]]
 
 ### Escalada de privilegios
-pertenecemos al grupo `Azure Admins` 
+pertenecemos al grupo `Azure Admins` que es un grupo del dominio
 ![[Pasted image 20240722125101.png]]
 
 
