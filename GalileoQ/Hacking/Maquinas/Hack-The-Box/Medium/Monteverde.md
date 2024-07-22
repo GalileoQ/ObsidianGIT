@@ -153,7 +153,9 @@ después de subir los archivos debemos dirigirnos a la ruta contemplada para pod
 C:\Windows\Temp\Priv\AdDecrypt.exe -FullSQL
 ```
 
+de esta manera logramos obtener las credenciales del usuario administrador
 ![[Pasted image 20240722131842.png]]
+
 
 
 
