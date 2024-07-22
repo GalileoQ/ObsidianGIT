@@ -61,7 +61,11 @@ Nmap done: 1 IP address (1 host up) scanned in 140.49 seconds
 haciendo una pequeña enumeración con crackmapexec por el servicio `smb` podemos identificar el sistema operativo de la maquina, el nombre y el dominio
 
 ```python
-SO > Window
+SO > Windows
+
+Nombre > MONTEVERDE
+
+DOMINIO > MEGABANK.LOCAL
 ```
 
 ![[Pasted image 20240722100520.png]]
