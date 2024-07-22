@@ -143,6 +143,9 @@ en la maquina victima vamos a subir los archivos `AdDecrypt.exe` y `mcrypt.dll`
 ![[Pasted image 20240722130512.png]]
 
 
+`"C:\Program Files\Microsoft Azure AD Sync\Bin”` 
+
+
 
 
 
