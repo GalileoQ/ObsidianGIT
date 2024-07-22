@@ -22,6 +22,12 @@ rtt min/avg/max/mdev = 271.658/271.658/271.658/0.000 ms
 ### Enumeración 
 
 
+
+
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
