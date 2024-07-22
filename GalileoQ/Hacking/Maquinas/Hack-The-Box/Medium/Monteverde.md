@@ -78,7 +78,9 @@ intentamos enumerar los recursos compartidos pero no tenemos permisos
 haciendo enumeraciones con 2 herramientas diferentes efectivamente no podemos enumerar el servicio smb
 ![[Pasted image 20240722101319.png]]
 
+### rpcclient
 
+![[Pasted image 20240722101738.png]]
 
 
 
