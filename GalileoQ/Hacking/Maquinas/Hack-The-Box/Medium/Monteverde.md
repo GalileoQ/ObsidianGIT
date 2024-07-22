@@ -123,6 +123,16 @@ validamos la nueva contraseña con el listado de usuarios que teníamos y obtene
 ![[Pasted image 20240722122128.png]]
 
 
+![[Pasted image 20240722124558.png]]
+
+
+
+
+
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
