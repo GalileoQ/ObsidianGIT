@@ -91,7 +91,9 @@ rpcclient -U "" 10.10.10.172 -N -c "enumdomusers" | grep -oP '\[.*?\]' | grep -v
 con el siguiente comando podemos enumerar los usuarios y limpiamos la `query` para que nos entregue el output limpio. obteniendo estos usuarios podemos intentar realizar un `ASREPRoast attack` 
 ![[Pasted image 20240722102730.png]]
 
+### impacket-GetNPUsers
 
+![[Pasted image 20240722103331.png]]
 
 ### Vulnerabilidades
 
