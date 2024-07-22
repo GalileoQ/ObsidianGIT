@@ -131,8 +131,9 @@ pertenecemos al grupo `Azure Admins` que es un grupo del dominio
 ![[Pasted image 20240722125101.png]]
 
 `Microsoft Azure AD Sync`
-esto es importante ya que podemos buscar vulnerabilidades que esten relacionadas a esto e intentar identificar si alguna es 
+esto es importante ya que podemos buscar vulnerabilidades que estén relacionadas a esto e intentar identificar si alguna es importante para nuestra explotación 
 ![[Pasted image 20240722125452.png]]
+
 
 
 
