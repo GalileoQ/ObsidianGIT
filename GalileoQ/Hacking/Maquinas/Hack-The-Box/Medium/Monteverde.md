@@ -134,7 +134,9 @@ pertenecemos al grupo `Azure Admins` que es un grupo del dominio
 esto es importante ya que podemos buscar vulnerabilidades que estén relacionadas a esto e intentar identificar si alguna es importante para nuestra explotación 
 ![[Pasted image 20240722125452.png]]
 
-
+### AdDecrypt
+investigando en internet encontramos información sobre esta
+![[Pasted image 20240722130105.png]]
 
 
 
