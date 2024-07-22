@@ -106,7 +106,9 @@ realizamos una validación con crackmapexec y nos aseguramos que podemos enumera
 `azure_uploads`
 ![[Pasted image 20240722105257.png]]
 
-
+`Users$`
+en este recurso compartido podemos encontrar otros directorios asi que seg
+![[Pasted image 20240722105526.png]]
 
 
 
