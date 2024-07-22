@@ -148,7 +148,7 @@ después de subir los archivos debemos dirigirnos a la ruta contemplada para pod
 ![[Pasted image 20240722130958.png]]
 
 
-`debemos ejecutar este comando haciendo referencia a la ru`
+`debemos ejecutar este comando haciendo referencia a la ruta donde lo hemos almacenado`
 ```python
 C:\Windows\Temp\Priv\AdDecrypt.exe -FullSQL
 ```
