@@ -135,8 +135,9 @@ esto es importante ya que podemos buscar vulnerabilidades que estén relacionada
 ![[Pasted image 20240722125452.png]]
 
 ### AdDecrypt
-investigando en internet encontramos un exploits el cual esta en el siguiente repositorio []()
+investigando en internet encontramos un exploits el cual esta en el siguiente repositorio [AdSyncDecrypt](https://github.com/VbScrub/AdSyncDecrypt/releases) descargamos y descomprimimos el archivo
 ![[Pasted image 20240722130105.png]]
+
 
 
 
