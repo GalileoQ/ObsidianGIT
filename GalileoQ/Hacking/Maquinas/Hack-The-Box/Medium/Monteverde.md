@@ -143,6 +143,7 @@ en la maquina victima vamos a subir los archivos `AdDecrypt.exe` y `mcrypt.dll`
 ![[Pasted image 20240722130512.png]]
 
 `"C:\Program Files\Microsoft Azure AD Sync\Bin”` 
+despues de subir los archivos debemos dirigirnos a la ruta contemplada para poder realizar este ataque 
 ![[Pasted image 20240722130958.png]]
 
 
