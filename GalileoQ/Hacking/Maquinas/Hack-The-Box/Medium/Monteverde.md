@@ -100,8 +100,9 @@ intentamos una autenticación por smb probando los usuarios que hemos conseguido
 ![[Pasted image 20240722103951.png]]
 
 ### smbmap
-realizamos una validación con crackmapexec y nos aseguramos que podemos enumerar los recursos compartidos 
+realizamos una validación con crackmapexec y nos aseguramos que podemos enumerar los recursos compartidos y con smbmap podemos listar sobre los recursos que tenemos permisos de lectura
 ![[Pasted image 20240722104616.png]]
+
 
 
 
