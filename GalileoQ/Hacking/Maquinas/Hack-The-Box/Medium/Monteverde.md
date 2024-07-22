@@ -126,7 +126,9 @@ validamos la nueva contraseña con el listado de usuarios que teníamos y obtene
 logramos obtener una conexión con las credenciales que hemos encontrado 
 ![[Pasted image 20240722124558.png]]
 
+### Escalada de privilegios
 
+![[Pasted image 20240722124757.png]]
 
 
 
