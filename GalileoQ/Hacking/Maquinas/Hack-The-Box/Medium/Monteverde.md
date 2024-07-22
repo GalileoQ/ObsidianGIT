@@ -110,6 +110,9 @@ realizamos una validación con crackmapexec y nos aseguramos que podemos enumera
 en este recurso compartido podemos encontrar otros directorios así que seguiremos enumerando
 ![[Pasted image 20240722105526.png]]
 
+`azure.xml`
+hemos encontrado un archivo `.xml` el cual puede ser muy interesante
+![[Pasted image 20240722110858.png]]
 
 
 
