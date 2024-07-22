@@ -99,6 +99,9 @@ realizamos un ataque `ASREPRoast` pero no tenemos éxito. los usuarios no tienen
 intentamos una autenticación por smb probando los usuarios que hemos conseguido. y usando los mismos usuarios como contraseñas obtenemos unas credenciales validas del usuario `SABatchJobs`
 ![[Pasted image 20240722103951.png]]
 
+### smbmap
+realizamos una validación con crackmapexec y nos aseguramos que podemos enumerar los recursos compartidos 
+![[Pasted image 20240722104616.png]]
 
 
 
