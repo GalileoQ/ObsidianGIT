@@ -74,7 +74,9 @@ DOMINIO > MEGABANK.LOCAL
 intentamos enumerar los recursos compartidos pero no tenemos permisos
 ![[Pasted image 20240722101054.png]]
 
-
+### Enumeración del servicio smb
+efectivamente no podemos enume
+![[Pasted image 20240722101319.png]]
 
 
 
