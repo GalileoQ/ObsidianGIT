@@ -92,7 +92,7 @@ con el siguiente comando podemos enumerar los usuarios y limpiamos la `query` pa
 ![[Pasted image 20240722102730.png]]
 
 ### impacket-GetNPUsers
-
+realizamos un ataque `ASREPRoast` pero no tenemos exito. 
 ![[Pasted image 20240722103331.png]]
 
 ### Vulnerabilidades
