@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2aaad3cb4fb37927",
+        "id": "357a169e835ba09e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2245d33bd68945d",
+            "id": "f9c4a000c022b34f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4bf0d44462977f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2245d33bd68945d",
+  "active": "f9c4a000c022b34f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718214032.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718213845.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718213329.png",
@@ -171,9 +153,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718204101.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718203643.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718203301.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img/Pasted image 20240718202805.png",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
