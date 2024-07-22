@@ -79,7 +79,7 @@ haciendo enumeraciones con 2 herramientas diferentes efectivamente no podemos en
 ![[Pasted image 20240722101319.png]]
 
 ### rpcclient
-
+haciendo la enumeración con rp
 ![[Pasted image 20240722101738.png]]
 
 
