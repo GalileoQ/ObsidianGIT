@@ -107,8 +107,9 @@ realizamos una validación con crackmapexec y nos aseguramos que podemos enumera
 ![[Pasted image 20240722105257.png]]
 
 `Users$`
-en este recurso compartido podemos encontrar otros directorios asi que seg
+en este recurso compartido podemos encontrar otros directorios así que seguiremos enumerando
 ![[Pasted image 20240722105526.png]]
+
 
 
 
