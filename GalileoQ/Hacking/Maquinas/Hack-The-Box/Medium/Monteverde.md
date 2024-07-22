@@ -142,9 +142,8 @@ investigando en internet encontramos un exploits el cual esta en el siguiente re
 en la maquina victima vamos a subir los archivos `AdDecrypt.exe` y `mcrypt.dll` 
 ![[Pasted image 20240722130512.png]]
 
-
 `"C:\Program Files\Microsoft Azure AD Sync\Bin”` 
-
+![[Pasted image 20240722130958.png]]
 
 
 
