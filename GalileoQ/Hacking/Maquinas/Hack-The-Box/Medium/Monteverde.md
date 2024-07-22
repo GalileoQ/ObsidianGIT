@@ -118,6 +118,9 @@ hemos encontrado un archivo `.xml` el cual puede ser muy interesante
 en el archivo xml tenemos una contraseña que vamos a validar con el grupo de usuarios que ya tenemos
 ![[Pasted image 20240722121613.png]]
 
+`crackmapexec`
+validamos la nueva contraseña con el listado de usuarios que teníamos y obtenemos un nuevo usuario
+![[Pasted image 20240722122128.png]]
 
 
 ### Vulnerabilidades
