@@ -96,7 +96,7 @@ realizamos un ataque `ASREPRoast` pero no tenemos éxito. los usuarios no tienen
 ![[Pasted image 20240722103331.png]]
 
 ### crackmapexec
-intentamos una autenticación por smb probando los usuarios que hemos conseguido. y usando los mismos usuarios como contraseñas obtenemos unas credenciales validas del usuario SABatch
+intentamos una autenticación por smb probando los usuarios que hemos conseguido. y usando los mismos usuarios como contraseñas obtenemos unas credenciales validas del usuario `SABatchJobs`
 ![[Pasted image 20240722103951.png]]
 
 
