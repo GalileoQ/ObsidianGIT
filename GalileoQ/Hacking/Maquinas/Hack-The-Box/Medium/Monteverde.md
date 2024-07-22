@@ -122,7 +122,8 @@ en el archivo xml tenemos una contraseña que vamos a validar con el grupo de us
 validamos la nueva contraseña con el listado de usuarios que teníamos y obtenemos un nuevo usuario
 ![[Pasted image 20240722122128.png]]
 
-
+### evil-winrm
+logramos obtener una conexión con las credenciales que hemos encontrado 
 ![[Pasted image 20240722124558.png]]
 
 
