@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c7eb7cf3302c571",
+        "id": "fe814908031e4c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "2e67b1775175c0af",
+            "id": "8c3ae6970ab95509",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e67b1775175c0af",
+  "active": "8c3ae6970ab95509",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722131842.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722130958.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722130558.png",
@@ -159,8 +152,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722124757.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722124558.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722122128.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722121613.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",

@@ -156,14 +156,4 @@ C:\Windows\Temp\Priv\AdDecrypt.exe -FullSQL
 de esta manera logramos obtener las credenciales del usuario administrador
 ![[Pasted image 20240722131842.png]]
 
-
-
-
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+### WE ARE ROOT
