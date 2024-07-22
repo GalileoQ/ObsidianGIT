@@ -71,8 +71,9 @@ DOMINIO > MEGABANK.LOCAL
 ![[Pasted image 20240722100520.png]]
 
 `crackmapexec`
-intentamos enumerar los recursos compartidos pero no tenemos 
+intentamos enumerar los recursos compartidos pero no tenemos permisos
 ![[Pasted image 20240722101054.png]]
+
 
 
 
