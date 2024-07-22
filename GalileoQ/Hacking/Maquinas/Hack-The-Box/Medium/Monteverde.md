@@ -82,7 +82,9 @@ haciendo enumeraciones con 2 herramientas diferentes efectivamente no podemos en
 haciendo la enumeración con `rpcclient` podemos hacer una enumeración de usuarios y de grupos. pero no podemos ver el usuario ni el grupo administrador
 ![[Pasted image 20240722101738.png]]
 
+`Capturamos los usuarios`
 
+![[Pasted image 20240722102730.png]]
 
 
 ### Vulnerabilidades
