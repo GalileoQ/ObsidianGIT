@@ -204,6 +204,7 @@ crackmapexec winrm <IP> -u <username> -p <password>
 ```
 
 ## Puerto 5986: WinRM (HTTPS)
+
 ```python
 # Herramienta: CrackMapExec
 crackmapexec winrm <IP> -u <username> -p <password> --ssl
