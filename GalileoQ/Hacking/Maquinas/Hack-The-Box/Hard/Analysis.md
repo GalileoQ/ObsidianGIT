@@ -111,9 +111,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ### Enumeración puerto 80 (http)
-
+analizamos la web pero no encontramos nada demasiado interesante
 ![[Pasted image 20240723132110.png]]
 
+### Fuzzing con wfuff
 
 
 
