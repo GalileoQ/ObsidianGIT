@@ -183,11 +183,14 @@ $(sAMAccountName=a*)
 de esta manera podemos confirmar que estamos ante inyecciones ldap y haciendo uso de los siguientes parámetros podemos construir nuestra propia query e intentar explotar esto 
 ![[Pasted image 20240723161119.png]]
 
+`ejemplo`
+
 ```python
 $(sAMAccountName=jingel)(sn=johnson)
 ```
 
-
+en este caso la ultima parte del nombre la cambiamos por un `*` dado que sabemos que la query igual la validara y efectivamente obtenemos el val
+![[Pasted image 20240723163227.png]]
 
 
 
