@@ -122,7 +122,7 @@ haciendo un listado de los archivos ocultos logramos encontrar un archivo.txt el
 ![[Pasted image 20240723001125.png]]
 
 ### evil-winrm
-iniciamos una nueva session con el usuari 
+iniciamos una nueva sesión con el usuario `ryan`
 ![[Pasted image 20240723001648.png]]
 
 
