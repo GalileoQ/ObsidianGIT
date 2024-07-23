@@ -82,9 +82,9 @@ telnet <IP> 110
 nmap -p110 <IP> --script=pop3-capabilities
 ```
 
-
 ## Puerto 135: RPC
 
+```python
 # Herramienta: Nmap
 nmap -p135 <IP> --script=msrpc-enum
 
@@ -92,9 +92,13 @@ nmap -p135 <IP> --script=msrpc-enum
 
 # Herramienta: Nmap
 nmap -p139 <IP> --script=nbstat
+```
 
 ## Puerto 143: IMAP
 
+```python
+
+```
 # Herramienta: telnet
 telnet <IP> 143
 
