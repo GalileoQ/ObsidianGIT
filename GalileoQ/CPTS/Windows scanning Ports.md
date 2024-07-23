@@ -1,20 +1,25 @@
 # Enumeración de Puertos Comunes en Windows
 
 ## Puerto 21: FTP
+
 ```python
+# Herramienta: ftp
 ftp <IP>
-```
 
 # Herramienta: Nmap
 nmap -p21 <IP> --script=ftp-anon,ftp-bounce,ftp-syst
+```
 
 ## Puerto 22: SSH
 
+```python
 # Herramienta: ssh
 ssh <username>@<IP>
 
 # Herramienta: Nmap
 nmap -p22 <IP> --script=ssh-hostkey,ssh-auth-methods
+```
+
 
 ## Puerto 23: Telnet
 
