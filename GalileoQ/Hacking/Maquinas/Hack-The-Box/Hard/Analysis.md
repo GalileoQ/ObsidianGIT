@@ -171,8 +171,9 @@ con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 ### List of LDAP Attribute Names and Associated Name in Active Directory
 para comprender mas a fundo todos los parámetros relacionados con ldap podemos ir al siguiente [Articulo](https://documentation.sailpoint.com/connectors/active_directory/help/integrating_active_directory/ldap_names.html). 
 
-dado que tenemos intecciones de
+dado que tenemos inyecciones de parámetros ldap quiero imaginar que por detrás están ocurriendo de la siguiente forma. tomando en cuenta uno de los comandos del articulo 
 ```python
+sAMAccountName
 ```
 
 ![[Pasted image 20240723161119.png]]
