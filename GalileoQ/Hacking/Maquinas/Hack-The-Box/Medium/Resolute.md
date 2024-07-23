@@ -125,8 +125,9 @@ haciendo un listado de los archivos ocultos logramos encontrar un archivo.txt el
 iniciamos una nueva sesión con el usuario `ryan`
 ![[Pasted image 20240723001648.png]]
 
-
-
+`whoami /all`
+el usuario `ryan` pertenece al grupo `MEGABANK\DnsAdmins` 
+![[Pasted image 20240723002020.png]]
 
 
 
