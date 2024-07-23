@@ -92,6 +92,12 @@ nmap -p135 <IP> --script=msrpc-enum
 
 # Herramienta: Nmap
 nmap -p139 <IP> --script=nbstat
+
+# herramienta: rpcclient
+rpcclient -U "" 10.10.10.169 -N -c 'enumdomusers'
+
+# herramienta: rpcclient
+rpcclient -U "" 10.10.10.169 -N -c 'enumdomgroups'
 ```
 
 ## Puerto 143: IMAP
