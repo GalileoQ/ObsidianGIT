@@ -174,6 +174,8 @@ para comprender mas a fundo todos los parámetros relacionados con ldap podemos 
 dado que tenemos inyecciones de parámetros ldap quiero imaginar que por detrás están ocurriendo de la siguiente forma. tomando en cuenta uno de los comandos del articulo 
 ```python
 $(sAMAccountName=a*)
+
+$(sAMAccountName=$_GET['name'])
 ```
 
 ![[Pasted image 20240723161119.png]]
