@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d92bfef40319114b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kerb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md"
               }
             }
           }
@@ -168,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "172abc9eee0b8278",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722232408.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722232231.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722231902.png",
@@ -177,14 +191,12 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722230054.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722225135.png",
     "GalileoQ/CPTS/Scanning Ports.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722224736.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722224433.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722223654.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722223223.png",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722131842.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
