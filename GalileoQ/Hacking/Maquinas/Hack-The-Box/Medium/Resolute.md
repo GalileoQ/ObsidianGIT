@@ -130,7 +130,7 @@ el usuario `ryan` pertenece al grupo `MEGABANK\DnsAdmins`
 ![[Pasted image 20240723002020.png]]
 
 `net localgroup DnsAdmin`
-el usuario `ryan` pertenece al grupo `DnsAdmins` y ese grupo pertenece al subgrupo `constructors` lo cual podemos utilizar para explotar esta 
+el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece al grupo `DnsAdmins` podemos aprovechar esto para explotar 
 ![[Pasted image 20240723002344.png]]
 
 
