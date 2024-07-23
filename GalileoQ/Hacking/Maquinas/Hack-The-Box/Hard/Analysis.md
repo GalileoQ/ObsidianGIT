@@ -168,6 +168,98 @@ debido a que identificamos que la web se comporta de manera extraña cuando usam
 con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 ![[Pasted image 20240723151430.png]]
 
+```python
+|---|---|
+|First Name|givenName|
+|Middle Name/Initials|initials|
+|Last Name|sn|
+|Logon Name|userPrincipalName|
+|Logon Name (Pre Windows 2000)|sAMAccountName|
+|Display Name|displayName|
+|Full Name|name/cn|
+|Description|description|
+|Office|physicalDeliveryOfficeName|
+|Telephone Number|telephoneNumber|
+|Email|mail|
+|Web Page|wWWHomePage|
+|Password|password|
+|Street|streetAddress|
+|PO Box|postOfficeBox|
+|City|I|
+|State/Province|st|
+|Zip/Postal Code|postalCode|
+|Country|co|
+|Country 2 Digit Code - e.g., US|c|
+|Country Code - e.g., 840 for the US|countryCode|
+|Add to Groups|memberOf|
+|Remove from Groups|removememberOf|
+|Account Expires (use the same date format as the server)|accountExpires|
+|User Account Control|userAccountControl|
+|User Photo|thumbnailPhoto / exchangePhoto (supports high resolution photos) / jpegPhoto / photo / thumbnailLogo|
+|Profile Path|profilePath|
+|Login Script|scriptPath|
+|Home Folder|homeDirectory|
+|Home Drive|homeDrive|
+|Log on to|userWorkstations|
+|Home|homePhone|
+|Pager|pager|
+|Mobile|mobile|
+|Fax|facisimileTelephoneNumber|
+|IP Phone|ipPhone|
+|Notes|info|
+|Title|title|
+|Department|department|
+|Company|company|
+|Manager|manager|
+|Mail Alias|mailNickName|
+|Simple Display Name|displayNamePrintable|
+|Hide from Exchange Address Lists|msExchHideFromAddressLists|
+|Sending Message Size (KB)|submissionContLength|
+|Receiving Message Size (KB)|delivContLength|
+|Accept Messages from Authenticated Users Only|msExchRequireAuthToSendTo|
+|Reject Messages From|unauthOrig|
+|Accept Messages From|authOrig|
+|Send on Behalf|publicDelegates|
+|Forward To|altRecipient|
+|Deliver and Redirect|deliverAndRedirect|
+|Recipient Limits|msExchRecipLimit|
+|Use Mailbox Store Defaults|mDBuseDefaults|
+|Issue Warning at (KB)|mDBStorageQuota|
+|Prohibit Send at (KB)|mDBOverQuotaLimit|
+|Prohibit Send and Receive at (KB)|mDBOverHardQuotaLimit|
+|Do not Permanently Delete Messages Until the Store Has Been Backed Up|deletedItemFlags|
+|Keep Deleted Items for (days)|garbageCollPeriod|
+|Outlook Mobile Access|msExchOmaAdminWirelessEnable|
+|Outlook Web Access|protocolSettings|
+|Allow Terminal Server Logon|tsAllowLogon|
+|Terminal Services Profile Path|tsProfilePath|
+|Terminal Services Home Directory|tsHomeDir|
+|Start the Following Program at Logon|tsInheritInitialProgram|
+|Starting Program File Name|tsInitialProgram|
+|Start In|tsWorkingDir|
+|Connect Client Drive at Logon|tsDeviceClientDrives|
+|Connect Client Printer at Logon|tsDeviceClientPrinters|
+|Default to Main Client Printer|tsDeviceClientDefaultPrinter|
+|End Disconnected Session|tsTimeOutSettingsDisConnections|
+|Active Session Limit|tsTimeOutSettingsConnections|
+|Idle Session Limit|tsTimeOutSettingsIdle|
+|When Session Limit Reached or Connection Broken|tsBrokenTimeOutSettings|
+|Allow Reconnection|tsReConnectSettings|
+|Remote Control|tsShadowSettings|
+|Protect Accidental Deletion|preventDeletion|
+|Manager Can Update Members|managerCanUpdateMembers|
+|Primary Group ID|primaryGroupID|
+|Administrative Group|msExchAdminGroup|
+|Exchange Server Name|msExchHomeServerName|
+|Managed By|managedBy|
+|externalEmailAddress<br><br>**Note**  <br>For the `externalEmailAddress` attribute, the `internalName` is `targetAddress`.|targetAddress|
+|Add Proxy Addresses|proxyAddresses|
+|Automatically Update Email-Address Based on Recipient Policy|msExchPoliciesExcluded|
+|Employee Identifier|employeeID|
+|The user's division|division|
+```
+
+![[Pasted image 20240723161119.png]]
 
 
 
