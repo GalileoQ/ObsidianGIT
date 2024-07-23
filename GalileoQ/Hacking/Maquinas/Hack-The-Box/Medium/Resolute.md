@@ -152,17 +152,7 @@ para realizar esta explotación primero vamos a crear un `archivo.dll` que conte
 ❯ sc.exe start dns
 ```
 
-de esta manera al iniciar nuevamente el servicio `dnsAdmins` el servicio hace un llamado a nuestro recurso compartido `SmbFolder` para obtiene nuestra `dll` maliciosa y la ejecuta estableciendo una conexión hacia nuestro servidor en escucha por el puerto 9001 
+de esta manera al iniciar nuevamente el servicio `dnsAdmins` el servicio hace un llamado a nuestro recurso compartido `SmbFolder` para obtiene nuestra `dll` maliciosa y la ejecuta estableciendo una conexión hacia nuestro servidor en escucha por el puerto 9001 y de esta manera obtenemos una conexión como `nt authority\system` 
 ![[Pasted image 20240723003958.png]]
 
-
-
-
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+### WE ARE ROOT
