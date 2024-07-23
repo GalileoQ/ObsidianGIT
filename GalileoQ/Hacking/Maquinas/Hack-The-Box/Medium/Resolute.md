@@ -97,7 +97,9 @@ con este comando nos limpia todo el output y ahora tenemos un listado de potenci
 con este comando descubrimos información relacionada con las credenciales del usuario `marko novak/Welcome123!`
 ![[Pasted image 20240722225135.png]]
 
+###
 
+![[Pasted image 20240722230737.png]]
 
 
 
