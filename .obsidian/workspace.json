@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md"
               }
             }
           }
@@ -168,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf4cc1bd1fa1485b",
+  "active": "172abc9eee0b8278",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/CPTS/Scanning Ports.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722131842.png",
