@@ -175,6 +175,7 @@ nmap -p3306 <IP> --script=mysql-enum
 
 ## Puerto 3389: RDP
 
+```python
 # Herramienta: Nmap
 nmap -p3389 <IP> -sV --script=rdp-enum-encryption
 
@@ -183,9 +184,13 @@ rdesktop <IP>
 
 # Herramienta: xfreerdp
 xfreerdp /v:<IP>
+```
 
 ## Puerto 1521: Oracle Database
 
+```python
+
+```
 # Herramienta: Nmap
 nmap -p1521 <IP> --script=oracle-sid-brute
 
