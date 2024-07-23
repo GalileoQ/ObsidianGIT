@@ -133,6 +133,8 @@ en el nuevo subdominio que hemos encontrado podemos realizar  fuzzing y encontra
 realizamos un nuevo ataque y encontramos la un archivo llamado `list.php`
 ![[Pasted image 20240723143817.png]]
 
+`aqui nos indica que falta un parametro`
+![[Pasted image 20240723144029.png]]
 
 
 
