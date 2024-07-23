@@ -97,16 +97,17 @@ nmap -p139 <IP> --script=nbstat
 ## Puerto 143: IMAP
 
 ```python
-
-```
 # Herramienta: telnet
 telnet <IP> 143
 
 # Herramienta: Nmap
 nmap -p143 <IP> --script=imap-capabilities
+```
+
 
 ## Puerto 389: LDAP
 
+```python
 # Herramienta: ldapsearch (OpenLDAP)
 ldapsearch -x -h <IP> -p 389 -b "dc=example,dc=com"
 
@@ -116,9 +117,13 @@ ldapsearch.py <domain>/<username>:<password>@<IP>
 # Herramienta: CrackMapExec
 crackmapexec ldap <IP>
 crackmapexec ldap <IP> -u <username> -p <password>
+```
 
 ## Puerto 445: SMB
 
+```python
+
+```
 # Herramienta: smbmap
 smbmap -H <IP>
 smbmap -u <username> -p <password> -H <IP>
