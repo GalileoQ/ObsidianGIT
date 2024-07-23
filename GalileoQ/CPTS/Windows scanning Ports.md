@@ -56,12 +56,13 @@ nslookup <domain> <IP>
 nmap -p53 <IP> --script=dns-brute
 ```
 
-
 ## Puerto 80 y 443: HTTP y HTTPS
 
+```python
 # Herramienta: Gobuster
 gobuster dir -u http://<IP> -w /path/to/wordlist
 gobuster dir -u https://<IP> -w /path/to/wordlist
+gobuster vhost -u http://<IP> -w /path/to/wordlist
 
 # Herramienta: Wfuzz
 wfuzz -c -w /path/to/wordlist --hc 404 http://<IP>/FUZZ
@@ -69,6 +70,8 @@ wfuzz -c -w /path/to/wordlist --hc 404 https://<IP>/FUZZ
 
 # Herramienta: Nmap
 nmap -p80,443 <IP> -A
+```
+
 
 ## Puerto 110: POP3
 
