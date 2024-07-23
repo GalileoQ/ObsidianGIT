@@ -79,7 +79,7 @@ Nmap done: 1 IP address (1 host up) scanned in 89.43 seconds
 
 ### Enumeración del puerto 53 (Domain)
 
-
+![[Pasted image 20240722223223.png]]
 
 
 
