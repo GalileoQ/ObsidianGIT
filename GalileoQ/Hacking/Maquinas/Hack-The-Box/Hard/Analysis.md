@@ -126,7 +126,7 @@ haciendo fuzzing para subdominios podemos encontrar un subdominio llamado `inter
 ![[Pasted image 20240723140824.png]]
 
 ### Fuzzing con gobuster
-en el nuevo subdominio que hemos encontrado podemos realizar  fuzzing y encontrar mas dominios pero seguimos sin tener acceso. debido a que la pagina esta formato `PHP` podemos intentar listar todos los archivos que tengan la extensión 
+en el nuevo subdominio que hemos encontrado podemos realizar  fuzzing y encontrar mas dominios pero seguimos sin tener acceso. debido a que la pagina esta formato `PHP` podemos intentar listar todos los archivos que tengan la extensión `.php`
 ![[Pasted image 20240723143208.png]]
 
 
