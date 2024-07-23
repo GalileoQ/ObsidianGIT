@@ -117,7 +117,9 @@ a nivel de privilegios al parecer no tenemos gran cosa así que vamos a enumerar
 enumerando el sistema podemos encontrar a un usuario llamado `ryan` el cual pertenece al grupo `Contructors`
 ![[Pasted image 20240723000527.png]]
 
-
+`dir -Force`
+haciendo un listado de los archivos ocultos logramos 
+![[Pasted image 20240723001125.png]]
 
 
 
