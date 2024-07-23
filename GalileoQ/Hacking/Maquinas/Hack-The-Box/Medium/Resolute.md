@@ -109,7 +109,9 @@ usando el listado de usuarios y las credenciales que hemos conseguidos del usuar
 efectivamente logramos entablar una conexión con las credenciales que hemos conseguido
 ![[Pasted image 20240722232408.png]]
 
-
+### Escalada de privilegios
+a nivel de 
+![[Pasted image 20240723000356.png]]
 
 
 
