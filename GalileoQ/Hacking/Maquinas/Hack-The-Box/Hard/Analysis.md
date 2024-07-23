@@ -168,7 +168,7 @@ debido a que identificamos que la web se comporta de manera extraña cuando usam
 con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 ![[Pasted image 20240723151430.png]]
 
-
+### List of LDAP Attribute Names and Associated Name in Active Directory
 
 |                                                                                                                            |                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
