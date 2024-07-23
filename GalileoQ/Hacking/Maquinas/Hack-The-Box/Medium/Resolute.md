@@ -118,8 +118,9 @@ enumerando el sistema podemos encontrar a un usuario llamado `ryan` el cual pert
 ![[Pasted image 20240723000527.png]]
 
 `dir -Force`
-haciendo un listado de los archivos ocultos logramos 
+haciendo un listado de los archivos ocultos logramos encontrar un archivo.txt el cual contiene las credenciales de ryan
 ![[Pasted image 20240723001125.png]]
+
 
 
 
