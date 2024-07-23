@@ -136,8 +136,8 @@ realizamos un nuevo ataque y encontramos la un archivo llamado `list.php`
 `aqui nos indica que falta un parametro`
 ![[Pasted image 20240723144029.png]]
 
+###
 
-`name`
 ```python
 ❯ wfuzz -c --hc=404 --hh=17 -t 200 -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u 'http://internal.analysis.htb/users/list.php?FUZZ=algo'
 ```
