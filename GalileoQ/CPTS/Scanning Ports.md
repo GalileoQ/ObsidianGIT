@@ -1,4 +1,4 @@
-# Enumeración de Puertos Comunes en Windows
+# Enumeración de Puertos Comunes
 
 ## Puerto 21: FTP
 
