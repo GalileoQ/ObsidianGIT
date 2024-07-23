@@ -114,7 +114,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 analizamos la web pero no encontramos nada demasiado interesante
 ![[Pasted image 20240723132110.png]]
 
-### Fuzzing con wfuff
+### Fuzzing con wfuzz
+haciendo fuzzing podemos encontrar un subdominio llamado `internal`
+![[Pasted image 20240723140824.png]]
+
 
 
 
