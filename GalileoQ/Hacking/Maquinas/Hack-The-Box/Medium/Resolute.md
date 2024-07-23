@@ -114,7 +114,7 @@ a nivel de privilegios al parecer no tenemos gran cosa así que vamos a enumerar
 ![[Pasted image 20240723000356.png]]
 
 `Usuario ryan`
-enumerando el sistema podemos encontrar a un usuario llamado `ryan el cual pertenece al grupo Contructos`
+enumerando el sistema podemos encontrar a un usuario llamado `ryan` el cual pertenece al grupo `Contructors`
 ![[Pasted image 20240723000527.png]]
 
 
