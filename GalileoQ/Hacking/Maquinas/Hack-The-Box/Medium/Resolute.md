@@ -89,7 +89,8 @@ el comando `dnsrecon` ha encontrado varios registros DNS y servicios asociados c
 haciendo esta enumeración podemos 
 ![[Pasted image 20240722224736.png]]
 
-
+`rpcclient -U "" 10.10.10.169 -N -c 'querydispinfo'`
+![[Pasted image 20240722225135.png]]
 
 ### Vulnerabilidades
 
