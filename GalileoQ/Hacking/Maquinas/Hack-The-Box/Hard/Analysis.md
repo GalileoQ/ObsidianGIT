@@ -115,7 +115,7 @@ analizamos la web pero no encontramos nada demasiado interesante
 ![[Pasted image 20240723132110.png]]
 
 ### Fuzzing virtual hosts con gobuster
-haciendo fuzzing podem
+haciendo fuzzing podemos descubrir dominios 
 ![[Pasted image 20240723142524.png]]
 
 
