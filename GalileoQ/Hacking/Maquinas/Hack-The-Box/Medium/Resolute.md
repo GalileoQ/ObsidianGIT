@@ -102,8 +102,8 @@ con impacket intentamos listar algún usuario pero ninguno de estos usuarios tie
 ![[Pasted image 20240722230737.png]]
 
 ### crackmapexec
-usando el listado de usuarios y las credenciales que hemos conseguidos del usuario marko podemos enumerar exitosamente unas nuevas credenciales 
-![[Pasted image 20240722231902.png]]
+usando el listado de usuarios y las credenciales que hemos conseguidos del usuario marko podemos enumerar exitosamente unas nuevas credenciales con las cuales podemos enumerar el servicio smb y tam
+![[Pasted image 20240722232231.png]]
 
 
 
