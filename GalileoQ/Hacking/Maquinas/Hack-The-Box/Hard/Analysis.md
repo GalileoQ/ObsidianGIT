@@ -145,7 +145,8 @@ vamos a realizar un nuevo escaneo de gobuster para intentar identificar cual es 
 
 ![[Pasted image 20240723145637.png]]
 
-`name=te`
+`name=test`
+
 ![[Pasted image 20240723145843.png]]
 
 
