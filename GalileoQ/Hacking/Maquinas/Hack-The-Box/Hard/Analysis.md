@@ -153,6 +153,11 @@ al probar con un nombre de usuario como administrador no obtenemos nada sin emba
 realizamos esta enumeración para obtener el nombre del dominio aunque ya lo podemos ver en la captura de nmap y el nombre del `DC` 
 ![[Pasted image 20240723150414.png]]
 
+### kerbrute
+realizamos un ataque de kerbrute para intentar identificar usuarios validos
+![[Pasted image 20240723150731.png]]
+
+
 
 
 
