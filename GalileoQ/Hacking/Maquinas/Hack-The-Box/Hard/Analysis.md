@@ -169,7 +169,7 @@ con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 ![[Pasted image 20240723151430.png]]
 
 ### List of LDAP Attribute Names and Associated Name in Active Directory
-esta lista nos da muchas mas opciones para 
+esta lista nos da muchas mas opciones para poder interactuar con los parámetros 
 
 | ==Name in Active Directory==                                                                                               | ==LDAP Name (Header in CSV File)==                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
