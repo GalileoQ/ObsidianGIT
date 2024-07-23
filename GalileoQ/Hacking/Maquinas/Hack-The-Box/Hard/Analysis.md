@@ -162,6 +162,9 @@ realizamos un ataque de kerbrute para intentar identificar usuarios validos
 debido a que identificamos que la web se comporta de manera extraña cuando usamos paréntesis `()` podemos identificar que es vulnerable a inyecciones ldap. si ponemos in `*` podemos enumerar un usuario
 ![[Pasted image 20240723151104.png]]
 
+`ldap`
+
+![[Pasted image 20240723151430.png]]
 
 
 
