@@ -102,8 +102,9 @@ con impacket intentamos listar algún usuario pero ninguno de estos usuarios tie
 ![[Pasted image 20240722230737.png]]
 
 ### crackmapexec
-usando el listado de usuarios y las credenciales que hemos c
+usando el listado de usuarios y las credenciales que hemos conseguidos del usuario marko podemos enumerar exitosamente unas nuevas credenciales 
 ![[Pasted image 20240722231902.png]]
+
 
 
 
