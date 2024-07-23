@@ -101,8 +101,9 @@ con este comando descubrimos información relacionada con las credenciales del u
 con impacket intentamos listar algún usuario pero ninguno de estos usuarios tiene la autenticación de kerberos
 ![[Pasted image 20240722230737.png]]
 
-
-
+### crackmapexec
+usando el listado de usuarios y las credenciales que hemos c
+![[Pasted image 20240722231902.png]]
 
 
 
