@@ -180,9 +180,12 @@ $(sAMAccountName=$_GET['name'])
 $(sAMAccountName=a*)
 ```
 
-de esta manera podemos confirmar que estamos ante inyecciones ldap y haciendo uso de los siguientes parámetros podemos contruir nuestra propia query e intentar explotar esto 
+de esta manera podemos confirmar que estamos ante inyecciones ldap y haciendo uso de los siguientes parámetros podemos construir nuestra propia query e intentar explotar esto 
 ![[Pasted image 20240723161119.png]]
 
+```python
+$(sAMAccountName=jingel)(sn=johnson)
+```
 
 
 
