@@ -85,7 +85,7 @@ enumeración del dominio
 el comando `dnsrecon` ha encontrado varios registros DNS y servicios asociados con el dominio `megabank.local` proporcionando información valiosa sobre la configuración y los servicios disponibles en ese dominio.
 ![[Pasted image 20240722223654.png]]
 
-### Enumeración 
+### Enumeración del puerto 135 (smrpc)
 
 ![[Pasted image 20240722224433.png]]
 
