@@ -130,8 +130,9 @@ en el nuevo subdominio que hemos encontrado podemos realizar  fuzzing y encontra
 ![[Pasted image 20240723143208.png]]
 
 ### Fuzzing con gobuster
-realizamos un nuevo ataque y vamos a listar los 
+realizamos un nuevo ataque y encontramos la un archivo llamado `list.php`
 ![[Pasted image 20240723143817.png]]
+
 
 
 
