@@ -177,7 +177,7 @@ $(sAMAccountName=$_GET['name'])
 
 # esto es lo que nos permite a nosotros hacer la siguiente query
 
-$(sAMAccountName=$_GET['name'])
+$(sAMAccountName=a*)
 ```
 
 ![[Pasted image 20240723161119.png]]
