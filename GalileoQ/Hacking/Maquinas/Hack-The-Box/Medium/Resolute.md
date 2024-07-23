@@ -1,4 +1,4 @@
-#windows #
+#windows #medium #
 ### Ping
 
 ```python
