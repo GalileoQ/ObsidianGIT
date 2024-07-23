@@ -129,7 +129,9 @@ iniciamos una nueva sesión con el usuario `ryan`
 el usuario `ryan` pertenece al grupo `MEGABANK\DnsAdmins` 
 ![[Pasted image 20240723002020.png]]
 
-
+`net localgroup DnsAdmin`
+el usuario `ryan` pertenece al grupo `DnsAdmins` y ese grupo pertenece al subgrupo `C`
+![[Pasted image 20240723002344.png]]
 
 
 
