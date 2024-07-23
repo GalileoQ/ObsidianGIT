@@ -115,9 +115,11 @@ analizamos la web pero no encontramos nada demasiado interesante
 ![[Pasted image 20240723132110.png]]
 
 ### Fuzzing virtual hosts con gobuster
-haciendo fuzzing podemos descubrir dominios 
+haciendo fuzzing podemos descubrir dominios de los cuales `bat` me llama la atencion
 ![[Pasted image 20240723142524.png]]
 
+`no tenemos directory listeng por lo que no podremos ver estos dominios`
+![[Pasted image 20240723142720.png]]
 
 ### Fuzzing con wfuzz
 haciendo fuzzing podemos encontrar un subdominio llamado `internal`
