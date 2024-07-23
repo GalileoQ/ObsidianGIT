@@ -134,7 +134,7 @@ el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece a
 ![[Pasted image 20240723002344.png]]
 
 ### dnsadmins dll exploitations 
-para realizar esta explotacion 
+para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con msfvenom 
 ![[Pasted image 20240723003958.png]]
 
 
