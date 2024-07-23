@@ -122,8 +122,9 @@ haciendo fuzzing podemos descubrir dominios de los cuales `bat` me llama la aten
 ![[Pasted image 20240723142720.png]]
 
 ### Fuzzing con wfuzz
-haciendo fuzzing podemos encontrar un subdominio llamado `internal`
+haciendo fuzzing para subdominios podemos encontrar un subdominio llamado `internal`
 ![[Pasted image 20240723140824.png]]
+
 
 
 
