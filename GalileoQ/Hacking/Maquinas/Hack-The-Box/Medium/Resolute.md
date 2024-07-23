@@ -133,7 +133,9 @@ el usuario `ryan` pertenece al grupo `MEGABANK\DnsAdmins`
 el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece al grupo `DnsAdmins` podemos aprovechar esto para explotar este grupo subiendo una `dll` maliciosa que al ejecutarla y reiniciar el servicio ejecute la `dll` y obtengamos una tarea con permisos elevados en este caso una shell como administrador 
 ![[Pasted image 20240723002344.png]]
 
+### nt authority \ system
 
+![[Pasted image 20240723003958.png]]
 
 
 
