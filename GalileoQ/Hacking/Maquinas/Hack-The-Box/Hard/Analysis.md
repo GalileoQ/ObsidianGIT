@@ -158,6 +158,7 @@ al probar con un nombre de usuario como administrador no obtenemos nada sin emba
 
 
 
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
