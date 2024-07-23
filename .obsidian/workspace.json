@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md"
               }
             }
           }
@@ -183,12 +183,13 @@
   },
   "active": "d92bfef40319114b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722232408.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722232231.png",
@@ -204,7 +205,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
