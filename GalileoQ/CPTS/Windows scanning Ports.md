@@ -122,8 +122,6 @@ crackmapexec ldap <IP> -u <username> -p <password>
 ## Puerto 445: SMB
 
 ```python
-
-```
 # Herramienta: smbmap
 smbmap -H <IP>
 smbmap -u <username> -p <password> -H <IP>
@@ -142,31 +140,38 @@ enum4linux -a <IP>
 
 # Herramienta: Impacket (smbclient.py)
 smbclient.py <domain>/<username>:<password>@<IP>
+```
 
 ## Puerto 636: LDAP over SSL (LDAPS)
 
+```python
 # Herramienta: ldapsearch (OpenLDAP)
 ldapsearch -x -H ldaps://<IP> -b "dc=example,dc=com"
 
 # Herramienta: CrackMapExec
 crackmapexec ldap <IP> -u <username> -p <password> --ssl
+```
 
 ## Puerto 1433: Microsoft SQL Server
 
+```python
 # Herramienta: sqsh
 sqsh -S <IP> -U <username> -P <password>
 
 # Herramienta: CrackMapExec
 crackmapexec mssql <IP>
 crackmapexec mssql <IP> -u <username> -p <password>
+```
 
 ## Puerto 3306: MySQL
 
+```python
 # Herramienta: mysql
 mysql -h <IP> -u <username> -p
 
 # Herramienta: Nmap
 nmap -p3306 <IP> --script=mysql-enum
+```
 
 ## Puerto 3389: RDP
 
