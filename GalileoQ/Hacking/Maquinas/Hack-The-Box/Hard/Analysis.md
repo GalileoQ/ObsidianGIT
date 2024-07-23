@@ -149,7 +149,9 @@ vamos a realizar un nuevo escaneo de gobuster para intentar identificar cual es 
 al probar con un nombre de usuario como administrador no obtenemos nada sin embargo sabemos que si no le pasamos nada la palabra `CONTAC_` no aparece. lo cual me hace pensar que si existe un usuario valido lo remplazara por esta palabra 
 ![[Pasted image 20240723145843.png]]
 
-
+### crackmapexec
+realizamos esta enumeración para obtener el nombre del dominio aunque ya lo podemos ver en la captura de nmap y el nombre 
+![[Pasted image 20240723150414.png]]
 
 
 
