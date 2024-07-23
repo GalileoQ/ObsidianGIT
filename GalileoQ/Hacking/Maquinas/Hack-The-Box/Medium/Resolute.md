@@ -86,8 +86,10 @@ el comando `dnsrecon` ha encontrado varios registros DNS y servicios asociados c
 ![[Pasted image 20240722223654.png]]
 
 ### Enumeración del puerto 135 (smrpc)
+haciendo esta enumeración podemos 
+![[Pasted image 20240722224736.png]]
 
-![[Pasted image 20240722224433.png]]
+
 
 ### Vulnerabilidades
 
