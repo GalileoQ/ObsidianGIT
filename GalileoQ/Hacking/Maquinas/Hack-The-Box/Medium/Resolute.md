@@ -121,7 +121,9 @@ enumerando el sistema podemos encontrar a un usuario llamado `ryan` el cual pert
 haciendo un listado de los archivos ocultos logramos encontrar un archivo.txt el cual contiene las credenciales de ryan
 ![[Pasted image 20240723001125.png]]
 
-
+### evil-winrm
+iniciamos una nueva session con el usuari 
+![[Pasted image 20240723001648.png]]
 
 
 
