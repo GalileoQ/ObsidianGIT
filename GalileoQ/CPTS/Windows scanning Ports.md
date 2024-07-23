@@ -20,17 +20,19 @@ ssh <username>@<IP>
 nmap -p22 <IP> --script=ssh-hostkey,ssh-auth-methods
 ```
 
-
 ## Puerto 23: Telnet
 
+```python
 # Herramienta: telnet
 telnet <IP>
 
 # Herramienta: Nmap
 nmap -p23 <IP> --script=telnet-ntlm-info
+```
 
 ## Puerto 25: SMTP
 
+```python
 # Herramienta: telnet
 telnet <IP> 25
 
@@ -39,9 +41,11 @@ nmap -p25 <IP> --script=smtp-enum-users
 
 # Herramienta: swaks
 swaks --to user@example.com --server <IP> --port 25
+```
 
 ## Puerto 53: DNS
 
+```python
 # Herramienta: dig
 dig @<IP> <domain>
 
@@ -50,6 +54,8 @@ nslookup <domain> <IP>
 
 # Herramienta: Nmap
 nmap -p53 <IP> --script=dns-brute
+```
+
 
 ## Puerto 80 y 443: HTTP y HTTPS
 
