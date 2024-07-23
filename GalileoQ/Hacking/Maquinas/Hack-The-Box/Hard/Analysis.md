@@ -169,7 +169,11 @@ con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 ![[Pasted image 20240723151430.png]]
 
 ### List of LDAP Attribute Names and Associated Name in Active Directory
-para comprender mas a fundo todos los parámetros relacionados con ldap podemos ir al siguiente [Articulo](https://documentation.sailpoint.com/connectors/active_directory/help/integrating_active_directory/ldap_names.html) 
+para comprender mas a fundo todos los parámetros relacionados con ldap podemos ir al siguiente [Articulo](https://documentation.sailpoint.com/connectors/active_directory/help/integrating_active_directory/ldap_names.html). 
+
+dado que tenemos intecciones de
+```python
+```
 
 ![[Pasted image 20240723161119.png]]
 
