@@ -134,7 +134,12 @@ el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece a
 ![[Pasted image 20240723002344.png]]
 
 ### dnsadmins dll exploitations 
-para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con msfvenom 
+para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con `msfvenom` luego vamos a crear una carpeta compartida con `impacket-smbserver` y finalmente estaremos a la escucha
+
+```python
+
+```
+
 ![[Pasted image 20240723003958.png]]
 
 
