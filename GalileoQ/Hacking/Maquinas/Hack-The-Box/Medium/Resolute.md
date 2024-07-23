@@ -113,7 +113,9 @@ efectivamente logramos entablar una conexión con las credenciales que hemos con
 a nivel de privilegios al parecer no tenemos gran cosa así que vamos a enumerar mas 
 ![[Pasted image 20240723000356.png]]
 
-
+`Usuario ryan`
+enumerando el sistema podemos encontrar a un usuario llamado `ryan el cual pertenece a`
+![[Pasted image 20240723000527.png]]
 
 
 
