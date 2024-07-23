@@ -163,7 +163,7 @@ debido a que identificamos que la web se comporta de manera extraña cuando usam
 ![[Pasted image 20240723151104.png]]
 
 `ldap`
-
+con la siguiente query podemos enumerar otro usuario 
 ![[Pasted image 20240723151430.png]]
 
 
