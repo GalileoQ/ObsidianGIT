@@ -90,6 +90,7 @@ haciendo esta enumeración podemos
 ![[Pasted image 20240722224736.png]]
 
 `rpcclient -U "" 10.10.10.169 -N -c 'querydispinfo'`
+con este comando descubrimos informacion relacionada con las credenciales del usuario `marko novak/Welcome123`
 ![[Pasted image 20240722225135.png]]
 
 ### Vulnerabilidades
