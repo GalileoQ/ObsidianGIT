@@ -176,6 +176,7 @@ con el siguiente comando podemos enumerar otro usuario mas `name=a*`
 
 
 
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
