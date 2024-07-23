@@ -193,7 +193,9 @@ en este caso la ultima parte del nombre la cambiamos por un `*` dado que sabemos
 
 ![[Pasted image 20240723163227.png]]
 
-
+### impacket-GetNPUsers
+con la lista de todos los usuarios que hemos encontrado podemos crear un diccionario e intentar realizar un ataque 
+![[Pasted image 20240723170728.png]]
 
 
 
