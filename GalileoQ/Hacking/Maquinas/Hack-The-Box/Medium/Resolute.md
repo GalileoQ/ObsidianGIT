@@ -98,8 +98,9 @@ con este comando descubrimos información relacionada con las credenciales del u
 ![[Pasted image 20240722225135.png]]
 
 ### impacket-GetNPUsers
-con impacket intentamos listar algun usuario pero ninguno de estos usuarios tiene la autenticacion de ker
+con impacket intentamos listar algún usuario pero ninguno de estos usuarios tiene la autenticación de kerberos
 ![[Pasted image 20240722230737.png]]
+
 
 
 
