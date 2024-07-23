@@ -157,7 +157,9 @@ realizamos esta enumeración para obtener el nombre del dominio aunque ya lo pod
 realizamos un ataque de kerbrute para intentar identificar usuarios validos
 ![[Pasted image 20240723150731.png]]
 
-
+`inyecciones ldap`
+debido a que identificamos que la web se comporta de manera extraña cuando usamos paréntesis `()` 
+![[Pasted image 20240723151104.png]]
 
 
 
