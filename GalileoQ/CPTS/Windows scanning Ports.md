@@ -189,20 +189,23 @@ xfreerdp /v:<IP>
 ## Puerto 1521: Oracle Database
 
 ```python
-
-```
 # Herramienta: Nmap
 nmap -p1521 <IP> --script=oracle-sid-brute
 
 # Herramienta: sqlplus
 sqlplus <username>/<password>@//<IP>:1521/<SID>
+```
 
 ## Puerto 5985: WinRM (HTTP)
 
+```python
 # Herramienta: CrackMapExec
 crackmapexec winrm <IP> -u <username> -p <password>
+```
 
 ## Puerto 5986: WinRM (HTTPS)
-
+```python
 # Herramienta: CrackMapExec
 crackmapexec winrm <IP> -u <username> -p <password> --ssl
+```
+
