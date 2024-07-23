@@ -110,8 +110,9 @@ efectivamente logramos entablar una conexión con las credenciales que hemos con
 ![[Pasted image 20240722232408.png]]
 
 ### Escalada de privilegios
-a nivel de 
+a nivel de privilegios al parecer no tenemos gran cosa así que vamos a enumerar mas 
 ![[Pasted image 20240723000356.png]]
+
 
 
 
