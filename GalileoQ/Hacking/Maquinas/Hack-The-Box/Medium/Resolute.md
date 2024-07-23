@@ -130,7 +130,7 @@ el usuario `ryan` pertenece al grupo `MEGABANK\DnsAdmins`
 ![[Pasted image 20240723002020.png]]
 
 `net localgroup DnsAdmin`
-el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece al grupo `DnsAdmins` podemos aprovechar esto para explotar 
+el usuario `ryan` pertenece al grupo `constructors` el cual a su ves pertenece al grupo `DnsAdmins` podemos aprovechar esto para explotar este grupo subiendo una `dll` maliciosa que al ejecutarla y reiniciar el servicio ejecute la `dll` y obtengamos una  
 ![[Pasted image 20240723002344.png]]
 
 
