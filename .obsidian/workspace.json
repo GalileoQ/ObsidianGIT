@@ -26,6 +26,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7924db92ac5bf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -158,6 +170,7 @@
   },
   "active": "bf4cc1bd1fa1485b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/Windows scanning Ports.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722131842.png",
@@ -170,7 +183,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722124757.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722124558.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722122128.png",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",

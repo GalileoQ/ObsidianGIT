@@ -66,20 +66,22 @@ gobuster vhost -u http://<IP> -w /path/to/wordlist
 
 # Herramienta: Wfuzz
 wfuzz -c -w /path/to/wordlist --hc 404 http://<IP>/FUZZ
-wfuzz -c -w /path/to/wordlist --hc 404 https://<IP>/FUZZ
+wfuzz -c --hc 404, -t 200 -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http://devvortex.htb/ -H "Host: FUZZ.devvortex.htb"
 
 # Herramienta: Nmap
 nmap -p80,443 <IP> -A
 ```
 
-
 ## Puerto 110: POP3
 
+```python
 # Herramienta: telnet
 telnet <IP> 110
 
 # Herramienta: Nmap
 nmap -p110 <IP> --script=pop3-capabilities
+```
+
 
 ## Puerto 135: RPC
 
