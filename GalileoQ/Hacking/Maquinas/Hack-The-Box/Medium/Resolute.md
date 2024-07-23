@@ -85,9 +85,9 @@ enumeración del dominio
 el comando `dnsrecon` ha encontrado varios registros DNS y servicios asociados con el dominio `megabank.local` proporcionando información valiosa sobre la configuración y los servicios disponibles en ese dominio.
 ![[Pasted image 20240722223654.png]]
 
-### Enumeración del puerto 88 (kerberos)
+### Enumeración 
 
-
+![[Pasted image 20240722224433.png]]
 
 ### Vulnerabilidades
 
