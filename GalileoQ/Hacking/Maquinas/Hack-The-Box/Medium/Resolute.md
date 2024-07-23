@@ -105,7 +105,9 @@ con impacket intentamos listar algún usuario pero ninguno de estos usuarios tie
 usando el listado de usuarios y las credenciales que hemos conseguidos del usuario marko podemos enumerar exitosamente unas nuevas credenciales con las cuales podemos enumerar el servicio `smb` y también conectarnos por `winrm` 
 ![[Pasted image 20240722232231.png]]
 
-
+### evil-winrm
+efectivamente logramos entablar una conexión con las credenciales que hemos conseguido
+![[Pasted image 20240722232408.png]]
 
 
 
