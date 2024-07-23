@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/CPTS/Windows scanning Ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/CPTS/Windows scanning Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/CPTS/Windows scanning Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md"
+                "file": "GalileoQ/CPTS/Windows scanning Ports.md"
               }
             }
           }
@@ -158,7 +158,7 @@
   },
   "active": "bf4cc1bd1fa1485b",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/Scanning Ports.md",
+    "GalileoQ/CPTS/Windows scanning Ports.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722131842.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20240722130958.png",
