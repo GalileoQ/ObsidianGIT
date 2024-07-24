@@ -167,5 +167,6 @@ cd HKLM:
 
 cd "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
 
-Get ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPassword
+Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPassword
 ```
+
