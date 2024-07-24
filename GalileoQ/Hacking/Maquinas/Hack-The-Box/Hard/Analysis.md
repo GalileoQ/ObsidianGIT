@@ -348,5 +348,8 @@ obtenemos las credenciales del usuario `jdoe` que estaban activas con el `autolo
 ![[Pasted image 20240724162710.png]]
 
 `Validamos Credenciales`
-
 ![[Pasted image 20240724162924.png]]
+
+### Evil-winrm
+ahora podemos c
+![[Pasted image 20240724163031.png]]
