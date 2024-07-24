@@ -202,6 +202,7 @@ haciendo una validación de usuarios de forma paralela tampoco logramos encontra
 ![[Pasted image 20240723195506.png]]
 
 ### ldap-Injection
+con este script vamos a enumerar la query `description` en la que efecti
 
 ```python
 #!/usr/bin/env python3
