@@ -163,7 +163,7 @@ impacket-ntlmrelayx -t <IP_VÍCTIMA> -smb2support
 ### Credenciales Autologon
 
 ```python
-cd HKLM 
+cd HKLM:
 
 cd "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
 
