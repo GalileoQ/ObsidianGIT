@@ -308,5 +308,6 @@ al subir el archivo solo debemos ir a la url y llamar al comando `cmd.php=` y po
 ![[Pasted image 20240724152856.png]]
 
 ### nishang
-vamos a utilizar el repositorio de [nishang](https://github.com/samratashok/nishang.git) en este caso para lograr obtener una reverse shell
+vamos a utilizar el repositorio de [nishang](https://github.com/samratashok/nishang.git) en este caso para lograr obtener una reverse shell usaremos el `Invoke-PowerShellTcp.ps1` y agregamos una pequeña linea al final para matar dos pájaros de un solo tiro
 ![[Pasted image 20240724154346.png]]
+
