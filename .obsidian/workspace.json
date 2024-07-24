@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "e500149bd588496c",
+            "id": "3c5bfc26cf2acf3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "631d6568f45da359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
               }
             }
           }
@@ -171,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c3ae6970ab95509",
+  "active": "3c5bfc26cf2acf3b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240724151339.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240724151001.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240724150708.png",
@@ -184,8 +174,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240723221118.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240723220718.png",
     "GalileoQ/Hacking/Scripts/lda-injection.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240723195506.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
