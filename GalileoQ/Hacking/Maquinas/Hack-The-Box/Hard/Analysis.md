@@ -202,7 +202,7 @@ haciendo una validación de usuarios de forma paralela tampoco logramos encontra
 ![[Pasted image 20240723195506.png]]
 
 ### ldap-Injection
-con este script vamos a enumerar la query `description` en la que efecti
+con este script vamos a enumerar la query `description` en la que efectivamente podemos listar la contraseñá
 
 ```python
 #!/usr/bin/env python3
@@ -259,6 +259,10 @@ if __name__ == '__main__':
 
 ldap_injection()
 ```
+
+`Contraseña`
+parece que el script ha hecho algo medio raro al final pero podriamos intentar hacer pruebas con esta cont
+![[Pasted image 20240723220718.png]]
 
 
 
