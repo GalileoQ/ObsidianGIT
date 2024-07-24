@@ -364,5 +364,5 @@ Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPa
 ![[Pasted image 20240724163031.png]]
 
 ### Escalada de privilegios
-
+haciendo uso de 
 ![[Pasted image 20240724181036.png]]
