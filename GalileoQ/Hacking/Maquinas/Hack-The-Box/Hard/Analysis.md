@@ -261,7 +261,7 @@ ldap_injection()
 ```
 
 `Contraseña`
-parece que el script ha hecho algo medio raro al final pero podriamos intentar hacer pruebas con esta cont
+parece que el script ha hecho algo medio raro al final pero podríamos intentar hacer pruebas con esta contraseña
 ![[Pasted image 20240723220718.png]]
 
 
