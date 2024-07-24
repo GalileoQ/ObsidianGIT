@@ -270,7 +270,7 @@ validamos las credenciales que hemos obtenido y son validas pero parece que el u
 
 ### ldapdomaindump
 con esta herramienta vamos a dumpear todo el `ldapdomain` de esta manera obtenemos algunos archivos que haciendo un servidor en python podemos verlo desde el navegador web accediendo a nuestro localhost por el puerto especificado
-![[Pasted image 20240723221601.png]]
+![[Pasted image 20240723221815.png]]
 
 
 
