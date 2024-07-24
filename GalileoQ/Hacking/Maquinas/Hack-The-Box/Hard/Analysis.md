@@ -292,5 +292,11 @@ en esta parte arece que podemos enviar un archivo para el SOC en el AD Analysis
 haciendo un uploads de un archivo aleatorio obtenemos información sobre donde se esta subiendo ese archivo. parece que esto podemos explotarlo
 ![[Pasted image 20240724151339.png]]
 
-### cmd
+### cmd.php
+vamos a subir nuestro archivo para identificar si la pagina puede interpretarnos esto. 
+
+```python
+
+```
+
 ![[Pasted image 20240724151934.png]]
