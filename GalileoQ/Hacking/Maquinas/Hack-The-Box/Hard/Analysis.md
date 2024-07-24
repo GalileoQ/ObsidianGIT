@@ -381,3 +381,6 @@ la subimos a la maquina victima usando el comando `upload` ya que estamos en la 
 
 ![[Pasted image 20240724182715.png]]
 
+`Administrator`
+
+![[Pasted image 20240724183338.png]]
