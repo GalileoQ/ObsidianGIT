@@ -344,5 +344,6 @@ hacemos un cat para poder ver el archivo
 ![[Pasted image 20240724162001.png]]
 
 `Autologon Credentials`
-obtenemos las credenciales del usuario `jdoe` que estaban activas con el autologon 
+obtenemos las credenciales del usuario `jdoe` que estaban activas con el `autologon` 
 ![[Pasted image 20240724162710.png]]
+
