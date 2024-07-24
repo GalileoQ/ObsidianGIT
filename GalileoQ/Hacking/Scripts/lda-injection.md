@@ -37,28 +37,17 @@ for character in characters:
 try:
 p1.status(main_url + f"technician)(description={description}{character}*")
 r = requests.get(main_url + f"technician)(description={description}{character}*")
-
 username = re.findall(r'<strong>(.*?)</strong>', r.text)[0]
 
-  
-
 if "technician" in username:
-
 description += character
-
 p2.status(character)
-
 break
 
 except:
-
 description += character
-
 p2.status(character)
-
 break
-
-  
 
 if __name__ == '__main__':
 

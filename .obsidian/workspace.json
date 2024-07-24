@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/lda-injection.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/lda-injection.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/lda-injection.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/lda-injection.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "8c3ae6970ab95509",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Scripts/lda-injection.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240723195506.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240723170728.png",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
