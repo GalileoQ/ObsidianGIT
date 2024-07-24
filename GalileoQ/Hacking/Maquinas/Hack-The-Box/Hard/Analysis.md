@@ -265,8 +265,9 @@ parece que el script ha hecho algo medio raro al final pero podríamos intentar 
 ![[Pasted image 20240723220718.png]]
 
 ### crackmapexec
-validamos las credenciales que hemos obtenido y son validas pero no tenemos 
+validamos las credenciales que hemos obtenido y son validas pero parece que el usuario pertenece al grupo `Remote Management Users` por lo cual no nos podemos conectar por evil-winrm
 ![[Pasted image 20240723221118.png]]
+
 
 
 
