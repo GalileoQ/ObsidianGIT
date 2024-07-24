@@ -276,7 +276,9 @@ con esta herramienta vamos a dumpear todo el `ldapdomain` de esta manera obtenem
 filtrando por esta opción llamada `Utilisateurs de gestion á distance` que quiero pensar que es el grupo de administración remota. podemos ver que solo los usuarios `jdoe y wsmith` tienen este permiso
 ![[Pasted image 20240723222011.png]]
 
-![[Pasted image 20240723222451.png]]
+`http://internal.analysis.htb/employees/login.php`
+
+![[Pasted image 20240723222611.png]]
 
 
 ### Vulnerabilidades
