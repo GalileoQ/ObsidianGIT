@@ -285,7 +285,7 @@ tenemos un apartado con tickets donde algunos dan información interesante
 ![[Pasted image 20240724150708.png]]
 
 `SOC Report`
-
+en esta parte arece que podemos enviar un archivo para el SOC en el AD Analysis
 ![[Pasted image 20240724151001.png]]
 ### Vulnerabilidades
 
