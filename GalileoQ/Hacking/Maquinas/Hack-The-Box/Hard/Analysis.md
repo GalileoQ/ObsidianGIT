@@ -377,4 +377,4 @@ vamos a crear un una nueva dll en este caso llamada `pwned.dll` utilizando `msfv
 ![[Pasted image 20240724182545.png]]
 
 `upload`
-la subimos a la maquina vi
+la subimos a la maquina victima usando el comando `upload` ya que estamos en la misma ruta donde hemos iniciado la sesión de `evil-winrm`
