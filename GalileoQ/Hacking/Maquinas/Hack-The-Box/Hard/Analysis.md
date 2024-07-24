@@ -382,5 +382,7 @@ la subimos a la maquina victima usando el comando `upload` ya que estamos en la 
 ![[Pasted image 20240724182715.png]]
 
 `Administrator`
-
+en este punto solo debemos esperar un poco para que `snort` haga el llamado de todas sus `dll` y cuando ejecuta la nuestra podemos obtener la conexión 
 ![[Pasted image 20240724183338.png]]
+
+### WE ARE ROOT
