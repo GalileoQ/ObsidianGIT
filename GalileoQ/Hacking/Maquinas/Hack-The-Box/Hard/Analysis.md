@@ -307,3 +307,5 @@ vamos a subir nuestro archivo para identificar si la pagina puede interpretarnos
 al subir el archivo solo debemos ir a la url y llamar al comando `cmd.php=` y podremos ejecutar comandos
 ![[Pasted image 20240724152856.png]]
 
+### nishang
+vamos a utilizar el repositorio de nishang[].() en este caso para lograr obtener una reverse shell
