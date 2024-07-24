@@ -280,6 +280,9 @@ filtrando por esta opción llamada `Utilisateurs de gestion á distance` que qui
 
 ![[Pasted image 20240723222611.png]]
 
+`tikects`
+tenemos un apartado con tickets que parecen 
+![[Pasted image 20240724150708.png]]
 
 ### Vulnerabilidades
 
