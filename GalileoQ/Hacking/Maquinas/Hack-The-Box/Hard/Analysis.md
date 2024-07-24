@@ -289,5 +289,6 @@ en esta parte arece que podemos enviar un archivo para el SOC en el AD Analysis
 ![[Pasted image 20240724151001.png]]
 
 `Uploads`
-haciendo un upload de un archivo aleatorio obtenemos informacion sobre donde se esta subiendo ese archivo. parece que es
+haciendo un uploads de un archivo aleatorio obtenemos información sobre donde se esta subiendo ese archivo. parece que esto podemos explotarlo
 ![[Pasted image 20240724151339.png]]
+
