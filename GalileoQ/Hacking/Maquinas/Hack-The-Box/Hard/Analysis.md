@@ -281,9 +281,12 @@ filtrando por esta opción llamada `Utilisateurs de gestion á distance` que qui
 ![[Pasted image 20240723222611.png]]
 
 `tikects`
-tenemos un apartado con tickets donde algunos tieckets habl
+tenemos un apartado con tickets donde algunos dan información interesante 
 ![[Pasted image 20240724150708.png]]
 
+`SOC Report`
+
+![[Pasted image 20240724151001.png]]
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
