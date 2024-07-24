@@ -367,3 +367,5 @@ Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPa
 haciendo uso de la herramienta `snort` podemos realizar una explotación de privilegios usando el [Dynamic Modules] el cual ejecuta una variable llamada  [dynamicpreprocessor](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node23.html) 
 ![[Pasted image 20240724181036.png]]
 
+### dll
+vamos a crear un una nueva dll en este caso llamada `pwned.dll` utili
