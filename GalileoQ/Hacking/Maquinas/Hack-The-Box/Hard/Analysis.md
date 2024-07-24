@@ -287,10 +287,6 @@ tenemos un apartado con tickets donde algunos dan información interesante
 `SOC Report`
 en esta parte arece que podemos enviar un archivo para el SOC en el AD Analysis
 ![[Pasted image 20240724151001.png]]
-### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+``
+![[Pasted image 20240724151339.png]]
