@@ -351,6 +351,15 @@ obtenemos las credenciales del usuario `jdoe` que estaban activas con el `autolo
 ![[Pasted image 20240724162924.png]]
 
 ### Evil-winrm
-ahora podemos conectarnos con las credenciales del usuario `jdoe`
+ahora podemos conectarnos con las credenciales del usuario `jdoe` también decir que esto podemos hacerlo con el siguiente comando
+
+```python
+cd HKLM:
+
+cd "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+
+Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPassword
+```
+
 ![[Pasted image 20240724163031.png]]
 
