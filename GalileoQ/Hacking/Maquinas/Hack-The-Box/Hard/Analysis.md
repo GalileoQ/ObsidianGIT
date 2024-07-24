@@ -364,5 +364,5 @@ Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPa
 ![[Pasted image 20240724163031.png]]
 
 ### Escalada de privilegios
-haciendo uso de la herramienta `snort` podemos realizar una explotación de privilegios usando el modulo [dynamicpreprocessor](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node23.html) 
+haciendo uso de la herramienta `snort` podemos realizar una explotación de privilegios usando el ``  [dynamicpreprocessor](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node23.html) 
 ![[Pasted image 20240724181036.png]]
