@@ -273,7 +273,7 @@ con esta herramienta vamos a dumpear todo el `ldapdomain` de esta manera obtenem
 ![[Pasted image 20240723221815.png]]
 
 `Remote Management Users`
-filtrando por esta opción llamada `Utilisateurs de gestion á distance` que q
+filtrando por esta opción llamada `Utilisateurs de gestion á distance` que quiero pensar que es el grupo de administración remota. podemos ver que solo los usuarios `jdoe y wsmith` 
 ![[Pasted image 20240723222011.png]]
 
 
