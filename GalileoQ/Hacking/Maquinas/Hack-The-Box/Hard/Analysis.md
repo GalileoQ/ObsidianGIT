@@ -351,5 +351,6 @@ obtenemos las credenciales del usuario `jdoe` que estaban activas con el `autolo
 ![[Pasted image 20240724162924.png]]
 
 ### Evil-winrm
-ahora podemos c
+ahora podemos conectarnos con las credenciales del usuario `jdoe`
 ![[Pasted image 20240724163031.png]]
+
