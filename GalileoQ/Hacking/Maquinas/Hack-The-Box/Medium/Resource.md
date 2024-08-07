@@ -50,6 +50,10 @@ después de crear nuestro propio usuario podemos ingresar a la web con las crede
 haciendo fuzzing podemos encontrar 3 dominios `assets, uploads, api` 
 ![[Pasted image 20240807164442.png]]
 
+`fuzzing para archivos pgp,txt,html`
+
+![[Pasted image 20240807173429.png]]
+
 
 
 
