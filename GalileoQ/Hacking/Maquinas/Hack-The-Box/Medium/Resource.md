@@ -55,8 +55,9 @@ encontramos `index.php` y `admin.php` que son muy interesantes
 ![[Pasted image 20240807173429.png]]
 
 `index.php?page=admin`
-aqui encontramos mas informacion 
+aqui encontramos mas información. en los usuarios previos SSH nos dice que contactemos a `zzinter` un posible usuario
 ![[Pasted image 20240807173522.png]]
+
 
 
 
