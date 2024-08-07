@@ -74,7 +74,11 @@ debemos crear un directorio temporal en la carpeta `/tmp` debemos crear un nuevo
 ```python
 ssh-keygen -t rsa -b 2048 -f id_rsa
 
-ssh-keygen -t rsa -b 2048 -f keypair
+ssh-keygen -s ca-itrc -I user-cert -n zzinter -V +52w -z 12345 id_rsa.pub
+
+ssh -o CertificateFile=id_rsa-cert.pub -i id_rsa zzinter@localhost
+
+mv ca-it
 ```
 
 ![[Pasted image 20240807184214.png]]
