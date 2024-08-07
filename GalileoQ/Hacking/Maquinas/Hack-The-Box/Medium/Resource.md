@@ -2,10 +2,16 @@
 ### Ping
 
 ```python
+ping -c 1 10.10.11.27
+PING 10.10.11.27 (10.10.11.27) 56(84) bytes of data.
+64 bytes from 10.10.11.27: icmp_seq=1 ttl=63 time=149 ms
 
+--- 10.10.11.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 149.269/149.269/149.269/0.000 ms
 ```
 
-### TTL = 
+### TTL = 63 Linux
 
 ### nmap
 
