@@ -39,8 +39,12 @@ Nmap done: 1 IP address (1 host up) scanned in 27.39 seconds
 ```
 
 ### Enumeración del puerto 80
-primero agregamos la dirección http://itrc.ssg.htb/ a nuestro archivo /etc/hosts. la web nos muestra dos 
+primero agregamos la dirección http://itrc.ssg.htb/ a nuestro archivo /etc/hosts. la web nos muestra dos rutas. `Register` `Login`
 ![[Pasted image 20240807161601.png]]
+
+`Resgister`
+despues de crear nuestr
+![[Pasted image 20240807163716.png]]
 
 ### Vulnerabilidades
 
