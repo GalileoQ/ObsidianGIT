@@ -69,7 +69,14 @@ podemos ver en el directorio lo que parece ser una id_rsa tanto la privada como 
 
 
 `sshkeygen`
-debemos crear un directorio temporal en la carpeta `/tmp` debemos crear un nuevo par de claves `id_rsa` y también demos traernos a esta ruta las keys que vimos anteriormente 
+debemos crear un directorio temporal en la carpeta `/tmp` debemos crear un nuevo par de claves `id_rsa` y también demos traernos a esta ruta las keys que vimos anteriormente. 
+
+```python
+ssh-keygen -t rsa -b 2048 -f id_rsa
+
+ssh-keygen -t rsa -b 2048 -f keypair
+```
+
 ![[Pasted image 20240807184214.png]]
 
 ### Vulnerabilidades
