@@ -51,9 +51,12 @@ haciendo fuzzing podemos encontrar 3 dominios `assets, uploads, api`
 ![[Pasted image 20240807164442.png]]
 
 `fuzzing para archivos pgp,txt,html`
-
+encontramos `index.php` y `admin.php` que son muy interesantes
 ![[Pasted image 20240807173429.png]]
 
+`index.php?page=admin`
+aqui encontramos mas informacion 
+![[Pasted image 20240807173522.png]]
 
 
 
