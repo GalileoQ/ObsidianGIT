@@ -39,7 +39,7 @@ Nmap done: 1 IP address (1 host up) scanned in 27.39 seconds
 ```
 
 ### Enumeración del puerto 80
-
+primero agregamos la dirección ****
 ![[Pasted image 20240807161601.png]]
 
 ### Vulnerabilidades
