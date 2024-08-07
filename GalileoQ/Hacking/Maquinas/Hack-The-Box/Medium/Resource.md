@@ -91,4 +91,6 @@ ssh-keygen -s ca-itrc -I ca-itrc.pub -n root root.pub
 ssh -o CertificateFile+root-cert.pub -i root root@localhost
 
 ssh-keygen -s ca-itrc -I ca-itrc.pub -n root root.pub
+
+ssh -o Certif
 ```
