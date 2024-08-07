@@ -59,6 +59,10 @@ aqui encontramos mas información. en los usuarios previos SSH nos dice que cont
 ![[Pasted image 20240807173522.png]]
 
 
+`conexión`
+con las credenciales encontradas podemos obtener una coenxión via ssh 
+![[Pasted image 20240807181359.png]]
+
 
 
 
