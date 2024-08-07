@@ -64,7 +64,7 @@ con las credenciales encontradas podemos obtener una conexión vía ssh
 ![[Pasted image 20240807181359.png]]
 
 `id_rsa`
-podemos ver en el directorio 
+podemos ver en el directorio lo que parece ser una id_rsa tanto la privada como la publica
 ![[Pasted image 20240807181911.png]]
 
 
