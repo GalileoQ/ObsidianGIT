@@ -68,6 +68,10 @@ podemos ver en el directorio lo que parece ser una id_rsa tanto la privada como 
 ![[Pasted image 20240807181911.png]]
 
 
+`sshkeygen`
+debemos crear un directorio tem
+![[Pasted image 20240807184214.png]]
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
