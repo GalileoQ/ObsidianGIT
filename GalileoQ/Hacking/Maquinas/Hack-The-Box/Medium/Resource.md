@@ -16,16 +16,18 @@ rtt min/avg/max/mdev = 149.269/149.269/149.269/0.000 ms
 ### nmap
 
 ```python
-Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-07 12:50 EDT
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-08-07 16:12 EDT
 Nmap scan report for 10.10.11.27
-Host is up (0.15s latency).
-Not shown: 65443 closed tcp ports (reset), 90 filtered tcp ports (no-response)
-Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+Host is up (0.16s latency).
+Not shown: 65532 closed tcp ports (reset)
 PORT     STATE SERVICE VERSION
 22/tcp   open  ssh     OpenSSH 9.2p1 Debian 2+deb12u3 (protocol 2.0)
 | ssh-hostkey: 
 |   256 d5:4f:62:39:7b:d2:22:f0:a8:8a:d9:90:35:60:56:88 (ECDSA)
 |_  256 fb:67:b0:60:52:f2:12:7e:6c:13:fb:75:f2:bb:1a:ca (ED25519)
+80/tcp   open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://itrc.ssg.htb/
+|_http-server-header: nginx/1.18.0 (Ubuntu)
 2222/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
 |   256 f2:a6:83:b9:90:6b:6c:54:32:22:ec:af:17:04:bd:16 (ECDSA)
@@ -33,7 +35,7 @@ PORT     STATE SERVICE VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 21.32 seconds
+Nmap done: 1 IP address (1 host up) scanned in 27.39 seconds
 ```
 
 ### Enumeración 
