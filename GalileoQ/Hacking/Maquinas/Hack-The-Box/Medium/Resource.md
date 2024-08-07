@@ -82,3 +82,9 @@ mv ca-itrc ca-itrc.pub
 ```
 
 ![[Pasted image 20240807184214.png]]
+
+```python
+ssh-keygen -t rsa -b 2048 -f root
+
+ssh-keygen -s ca-itrc -I ca
+```
