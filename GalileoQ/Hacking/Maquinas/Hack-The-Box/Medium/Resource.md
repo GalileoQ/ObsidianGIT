@@ -55,12 +55,12 @@ encontramos `index.php` y `admin.php` que son muy interesantes
 ![[Pasted image 20240807173429.png]]
 
 `index.php?page=admin`
-aqui encontramos mas información. en los usuarios previos SSH nos dice que contactemos a `zzinter` un posible usuario
+aqui encontramos mas información. en los usuarios previos SSH nos dice que contactemos a `zzinter` un posible usuario. existe un archivo en 
 ![[Pasted image 20240807173522.png]]
 
 
 `conexión`
-con las credenciales encontradas podemos obtener una coenxión via ssh 
+con las credenciales encontradas podemos obtener una conexión vía ssh
 ![[Pasted image 20240807181359.png]]
 
 
