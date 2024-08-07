@@ -63,7 +63,9 @@ aqui encontramos mas información. en los usuarios previos SSH nos dice que cont
 con las credenciales encontradas podemos obtener una conexión vía ssh
 ![[Pasted image 20240807181359.png]]
 
-
+`id_rsa`
+podemos ver en el directorio 
+![[Pasted image 20240807181911.png]]
 
 
 ### Vulnerabilidades
