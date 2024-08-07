@@ -43,8 +43,9 @@ primero agregamos la dirección http://itrc.ssg.htb/ a nuestro archivo /etc/host
 ![[Pasted image 20240807161601.png]]
 
 `Resgister`
-despues de crear nuestr
+después de crear nuestro propio usuario podemos ingresar a la web con las credenciales
 ![[Pasted image 20240807163716.png]]
+
 
 ### Vulnerabilidades
 
