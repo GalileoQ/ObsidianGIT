@@ -78,15 +78,7 @@ ssh-keygen -s ca-itrc -I user-cert -n zzinter -V +52w -z 12345 id_rsa.pub
 
 ssh -o CertificateFile=id_rsa-cert.pub -i id_rsa zzinter@localhost
 
-mv ca-it
+mv ca-itrc ca-itrc.pub
 ```
 
 ![[Pasted image 20240807184214.png]]
-
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
