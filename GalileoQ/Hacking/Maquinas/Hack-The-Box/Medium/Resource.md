@@ -46,6 +46,13 @@ primero agregamos la dirección http://itrc.ssg.htb/ a nuestro archivo /etc/host
 después de crear nuestro propio usuario podemos ingresar a la web con las credenciales
 ![[Pasted image 20240807163716.png]]
 
+### Enumeración con wfuzz
+haciendo fuzzing podemos encontrar 3 dominios `assets, uploads, api` 
+![[Pasted image 20240807164442.png]]
+
+
+
+
 
 ### Vulnerabilidades
 
