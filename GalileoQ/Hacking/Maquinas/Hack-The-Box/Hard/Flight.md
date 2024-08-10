@@ -96,7 +96,9 @@ con estos parámetros vamos a realizar un fuzzing con una lista de palabras espe
 
 ![[Pasted image 20240810124631.png]]
 
-
+### responder
+vamos a iniciar el responder para posteriro
+![[Pasted image 20240810125124.png]]
 
 
 
