@@ -185,4 +185,5 @@ ahora vamos a localizar el binario de netcat para poder subirlo a la maquina
 ❯ cp /home/gleoq/Desktop/Hack-The-Box/Advanced-Labs/Context/netcat.exe .
 ```
 
-ahora que ya tenemos el
+ahora que ya tenemos el binario en nuestra ubicación de trabajo vamos a subirlo al recurso compartido de la misma manera que hemos hecho con los otros archivos
+
