@@ -91,10 +91,11 @@ probamos con las rutas absolutas y funciono. parece que esta bloqueando el pará
 con estos parámetros vamos a realizar un fuzzing con una lista de palabras especificas para Windows.
 
 ```python
-
+❯ wfuzz -f ./fuzz-output.csv,csv -c -w file_inclusion_windows.txt --hw 89,95 "http://school.flight.htb/index.php?view=FUZZ"
 ```
 
 ![[Pasted image 20240810124631.png]]
+
 
 
 
