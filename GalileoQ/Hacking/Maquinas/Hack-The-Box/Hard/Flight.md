@@ -218,3 +218,6 @@ primero que nada vamos a cambiarnos de usuario ya que actualmente somos el usuar
 de esta manera obtenemos una shell como el usuario `c.bum`
 ![[Pasted image 20240810152657.png]]
 
+### Port Forwarding
+ahora que somos el usuario c.bum solo debemos realizar un `PortForwarding` para poder tene
+![[Pasted image 20240810173920.png]]
