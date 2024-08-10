@@ -144,8 +144,9 @@ ahora vamos a estar a la escucha con el responder y vamos a subir el archivo `De
 ![[Pasted image 20240810140010.png]]
 
 ### crackmapexec
-aplicamos los mismos pasos con la herramienta `hashcat` para descifrar el nuevo hash `NTLMv2` y de esta manera obtener las credenciales del usuario c.bum 
+aplicamos los mismos pasos con la herramienta `hashcat` para descifrar el nuevo hash `NTLMv2` y de esta manera obtener las credenciales del usuario c.bum. en este momento con el usuario c.bum podemos leer y escribir en el recurso compartido `Web` por lo que nos vamos a aprovechar de esto.
 ![[Pasted image 20240810140848.png]]
+
 
 
 ### Vulnerabilidades
