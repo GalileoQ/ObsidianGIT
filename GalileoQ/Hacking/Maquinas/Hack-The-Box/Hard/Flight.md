@@ -75,8 +75,9 @@ parece que en la pagina web de `school` tampoco obtenemos nada interesante.
 en esta enumeración nos aseguramos que no existe otro nombre de dominio y también obtenemos la dirección ip V6
 ![[Pasted image 20240810115616.png]]
 
-
-
+### dirsearch
+usando `dirsearh` encontramos q
+![[Pasted image 20240810122957.png]]
 
 ### Vulnerabilidades
 
