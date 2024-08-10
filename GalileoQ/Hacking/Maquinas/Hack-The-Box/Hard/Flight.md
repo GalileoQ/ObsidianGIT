@@ -60,9 +60,10 @@ Nmap done: 1 IP address (1 host up) scanned in 127.63 seconds
 ```
 
 ### Enumeración del puerto 80 (HTTP)
-por el momento no 
+por el momento no tenemos nada interesante en la pagina web así que seguiremos enumerando.
 ![[Pasted image 20240810113207.png]]
 
+###
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
