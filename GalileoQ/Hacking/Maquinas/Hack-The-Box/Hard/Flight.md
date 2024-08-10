@@ -129,7 +129,7 @@ con este usuario tenemos permisos de lectura y de escritura en el recurso `Share
 ![[Pasted image 20240810134450.png]]
 
 ### Responder
-en este caso ya que tenemos permisos de escritura en este recurso podemos 
+en este caso ya que tenemos permisos de escritura en este recurso podemos vamos a crear un archivo que intente llamar el recurso en nuestra maquina para ver si algun otro usuario intenta acceder a este recurso y asi poder obtener un segundo hash `NTMLv2` 
 ![[Pasted image 20240810140010.png]]
 
 
