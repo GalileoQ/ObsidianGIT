@@ -97,7 +97,7 @@ con estos parámetros vamos a realizar un fuzzing con una lista de palabras espe
 ![[Pasted image 20240810124631.png]]
 
 ### responder
-vamos a iniciar el responder para posteriro
+vamos a iniciar el responder para posteriormente hacer una petición e intentar envenenar el trafico y poder capturar un hash NTLMv2
 ![[Pasted image 20240810125124.png]]
 
 
