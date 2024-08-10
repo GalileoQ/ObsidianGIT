@@ -87,8 +87,8 @@ al realizar un `LFI` nos reporta que esta actividad es sospechosa y que por ende
 probamos con las rutas absolutas y funciono. parece que esta bloqueando el parámetro `../`
 ![[Pasted image 20240810123844.png]]
 
-### wfuzz 
-
+### Fuzzing con wfuzz 
+con estos parametros vamos a realizar un fuzzing con una lista de palabras especificas para windows 
 ![[Pasted image 20240810124631.png]]
 
 
