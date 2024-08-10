@@ -199,5 +199,9 @@ ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la w
 ![[Pasted image 20240810145130.png]]
 
 ### Escalada De privilegios
-una ves dentro de la maquina podemos ver el directorio `inetpub` La carpeta Inetpub, hace referencia a los servicios que permiten hacer configuraciones de tipo servidor en el sistema. lo cual me hace pensar que esta corriendo algun servisio tipo web internamente en la maquina 
+una ves dentro de la maquina podemos ver el directorio `inetpub` La carpeta Inetpub, hace referencia a los servicios que permiten hacer configuraciones de tipo servidor en el sistema. lo cual me hace pensar que esta corriendo algún servicio tipo web internamente en la maquina
 ![[Pasted image 20240810150156.png]]
+
+`8000`
+tambien podemos ver el puerto 8000 que esta en escucha lo cual me parece raro ya que este puerto no estaba en mi escaneo de 
+![[Pasted image 20240810150605.png]]
