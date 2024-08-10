@@ -80,10 +80,12 @@ usando `dirsearh` encontramos un `index.php` el cual esta haciendo referencia a 
 ![[Pasted image 20240810122957.png]]
 
 `LFI`
-al realizar un `LFI` nos reporta que esta actividad es sospechosa y que por ende a sido bloqueada. esto es una buena señal ya que si podemos identificar como se esta realizando este bloqueo podemos intentar bypasearlo 
+al realizar un `LFI` nos reporta que esta actividad es sospechosa y que por ende a sido bloqueada. esto es una buena señal ya que si podemos identificar como se esta realizando este bloqueo podemos intentar bypasearlo
 ![[Pasted image 20240810123158.png]]
 
-
+`LFI`
+vamos a intentar con las rutas obso
+![[Pasted image 20240810123844.png]]
 
 
 
