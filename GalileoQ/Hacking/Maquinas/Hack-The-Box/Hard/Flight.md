@@ -209,3 +209,5 @@ Dado que el firewall cierra el puerto 8000, no podemos acceder a este sitio exte
 ![[Pasted image 20240810150605.png]]
 
 ### User Pivoting
+primero que nada vamos a cambiarnos de usuario ya que actualmente somos el usuario `svc_apache` pero recordemos que tenemos las credenciales del usuario `c.bum` para ello lo primero que debemos hacer es descargar el binario `Runas`
+![[Pasted image 20240810152657.png]]
