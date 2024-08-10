@@ -245,5 +245,5 @@ ahora que ya tenemos la conexión y podemos ver la web en nuestra maquina local 
 ![[Pasted image 20240810175305.png]]
 
 `shell.aspx`
-en este pinto he utilizado una reverse shell [shell.aspx]()
+en este pinto he utilizado una reverse shell con formato aspx [shell.aspx](https://github.com/borjmz/aspx-reverse-shell) y luego simplemente la hemos ejecutado desde el navegador llamando la ruta `http://127.0.0.1:8000/shell.aspx` 
 ![[Pasted image 20240810180057.png]]
