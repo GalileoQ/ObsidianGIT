@@ -79,8 +79,9 @@ en esta enumeración nos aseguramos que no existe otro nombre de dominio y tambi
 usando `dirsearh` encontramos un `index.php` el cual esta haciendo referencia a una variable `$DATA` esto nos da una pista así que vamos a intentar un `LFI`
 ![[Pasted image 20240810122957.png]]
 
-
-
+`LFI`
+al realizar un `LFI` nos reporta que esta actividad es sospechosa y que por ende a sido bloqueada. esto es una buena se
+![[Pasted image 20240810123158.png]]
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
