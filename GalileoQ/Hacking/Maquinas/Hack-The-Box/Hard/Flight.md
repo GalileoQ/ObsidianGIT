@@ -236,4 +236,6 @@ PS C:\tmp> .\chisel.exe client 10.10.14.8:9005 R:8000:127.0.0.1:8000
 
 ![[Pasted image 20240810174105.png]]
 
-### Enumeración del puerto 8
+### Enumeración del puerto 8000 (PortForwarding)
+
+![[Pasted image 20240810174306.png]]
