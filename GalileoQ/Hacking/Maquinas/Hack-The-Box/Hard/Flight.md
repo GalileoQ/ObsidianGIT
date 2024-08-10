@@ -128,6 +128,9 @@ hacemos una validación con la contraseña y la lista de usuarios que hemos cons
 con este usuario tenemos permisos de lectura y de escritura en el recurso `Shared` lo cual nos permite realizar un nuevo ataque e intentar capturar otro `hash NTLMv2` 
 ![[Pasted image 20240810134450.png]]
 
+### Envenenando los recursos compartidos
+
+
 
 
 ### Vulnerabilidades
