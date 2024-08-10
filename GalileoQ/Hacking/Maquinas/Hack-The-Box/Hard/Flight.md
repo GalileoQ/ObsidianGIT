@@ -64,8 +64,9 @@ por el momento no tenemos nada interesante en la pagina web así que seguiremos 
 ![[Pasted image 20240810113207.png]]
 
 ### Fuzzing con wfuzz
-haciendo una enumeracion de subdominios logramos encontrar un
+haciendo una enumeración de subdominios logramos encontrar uno llamado `school`
 ![[Pasted image 20240810114633.png]]
+
 
 
 ### Vulnerabilidades
