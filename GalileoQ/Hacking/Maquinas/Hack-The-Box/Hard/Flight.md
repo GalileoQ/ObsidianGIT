@@ -241,5 +241,6 @@ en la web no vemos nada interesante sin embargo podemos investigar el directorio
 ![[Pasted image 20240810174306.png]]
 
 `PortForwarding`
-ahora que ya tenemos la conexion y podemos ver la web en nuestra maquina local poremos hacer varias pruebas. lo primero que se me ocurre es crear un archivo html que nos permita establecer un 
+ahora que ya tenemos la conexión y podemos ver la web en nuestra maquina local podemos hacer varias pruebas. lo primero que se me ocurre es crear un archivo HTML que nos permita establecer una reverse shell desde esta web para saber si se esta recibiendo como `administrator`
 ![[Pasted image 20240810175305.png]]
+
