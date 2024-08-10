@@ -84,8 +84,9 @@ al realizar un `LFI` nos reporta que esta actividad es sospechosa y que por ende
 ![[Pasted image 20240810123158.png]]
 
 `LFI`
-vamos a intentar con las rutas obso
+probamos con las rutas absolutas y funciono. parece que esta bloqueando el parámetro `../`
 ![[Pasted image 20240810123844.png]]
+
 
 
 
