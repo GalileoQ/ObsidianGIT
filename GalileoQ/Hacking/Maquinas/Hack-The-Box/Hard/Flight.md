@@ -88,7 +88,12 @@ probamos con las rutas absolutas y funciono. parece que esta bloqueando el pará
 ![[Pasted image 20240810123844.png]]
 
 ### Fuzzing con wfuzz 
-con estos parametros vamos a realizar un fuzzing con una lista de palabras especificas para windows 
+con estos parámetros vamos a realizar un fuzzing con una lista de palabras especificas para Windows.
+
+```python
+
+```
+
 ![[Pasted image 20240810124631.png]]
 
 
