@@ -219,5 +219,11 @@ de esta manera obtenemos una shell como el usuario `c.bum`
 ![[Pasted image 20240810152657.png]]
 
 ### Port Forwarding
-ahora que somos el usuario c.bum solo debemos realizar un `PortForwarding` para poder tene
+ahora que somos el usuario c.bum solo debemos realizar un `PortForwarding` para poder tener acceso al puerto 8000 que esta de manera interna en la maquina. para ello primero vamos a realizar un túnel inverso con chisel
+
+```python
+❯ ./chisel server -p 9005 --reverse
+```
+
 ![[Pasted image 20240810173920.png]]
+
