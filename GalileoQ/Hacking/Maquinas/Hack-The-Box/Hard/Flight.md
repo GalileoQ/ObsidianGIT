@@ -148,7 +148,7 @@ aplicamos los mismos pasos con la herramienta `hashcat` para descifrar el nuevo 
 ![[Pasted image 20240810140848.png]]
 
 ### smbclient 
-
+una ves dentro de los recursos compartidos de `c.bum` podemos navegar hasta el directorio `Web` y dentro tenemos el directorio `school.flig`
 ![[Pasted image 20240810141543.png]]
 
 ### Vulnerabilidades
