@@ -227,3 +227,6 @@ ahora que somos el usuario c.bum solo debemos realizar un `PortForwarding` para 
 
 ![[Pasted image 20240810173920.png]]
 
+`Tunneling`
+luego en la maquina victima debemos ejecutar el siguiente comando para enviar la conexion del puerto 8000 a nuestra maquina 
+![[Pasted image 20240810174105.png]]
