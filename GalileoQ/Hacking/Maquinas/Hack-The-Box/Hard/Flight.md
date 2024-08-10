@@ -121,7 +121,7 @@ hacemos una enumeración para obtener usuarios potenciales del sistema.
 ![[Pasted image 20240810132635.png]]
 
 ### crackmapexec
-
+hacemos una validación con la contraseña y la lista de usuarios que hemos conseguido y obtenemos una coincidencia para el usuario s
 ![[Pasted image 20240810133411.png]]
 
 
