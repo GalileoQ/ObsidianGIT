@@ -178,5 +178,11 @@ luego vamos a cargar este archivo al recurso compartido de la misma manera que h
 ahora vamos a localizar el binario de netcat para poder subirlo a la maquina 
 
 ```python
+❯ locate netcat.exe
 
+/home/gleoq/Desktop/Hack-The-Box/Advanced-Labs/Context/netcat.exe # esta es la ruta del archivo
+
+❯ cp /home/gleoq/Desktop/Hack-The-Box/Advanced-Labs/Context/netcat.exe .
 ```
+
+ahora que ya tenemos el
