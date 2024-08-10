@@ -199,5 +199,5 @@ ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la w
 ![[Pasted image 20240810145130.png]]
 
 ### Escalada De privilegios
-una ves dentro de la maquina podemos ver el directorio `inetpub` 
+una ves dentro de la maquina podemos ver el directorio `inetpub` La carpeta Inetpub, hace referencia a los servicios que permiten hacer configuraciones de tipo servidor en el sistema. lo cual me hace pensar que esta corriendo algun servisio tipo web internamente en la maquina 
 ![[Pasted image 20240810150156.png]]
