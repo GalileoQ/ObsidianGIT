@@ -112,6 +112,12 @@ ahora solo vamos a forzar la autenticación contra los recursos compartidos de n
 después de esperar un rato vemos que hashcat ha podido identificar la contraseña del usuario `svc_apache`
 ![[Pasted image 20240810131709.png]]
 
+### Validación de credenciales
+
+![[Pasted image 20240810132329.png]]
+
+
+
 
 
 ### Vulnerabilidades
