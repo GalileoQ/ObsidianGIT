@@ -249,5 +249,6 @@ en este pinto he utilizado una reverse shell con formato aspx [shell.aspx](https
 ![[Pasted image 20240810180057.png]]
 
 `whoami /all`
-enumerando este usuario podemos 
+enumerando este usuario podemos ver que cuenta con el permiso de `SeImpersonatePrivilege - Impersonate a client after authentication Enabled`
 ![[Pasted image 20240810180639.png]]
+
