@@ -199,5 +199,5 @@ ahora solo debemos cargar los dos archivos y luego podemos ejecutarlo desde la w
 ![[Pasted image 20240810145130.png]]
 
 ### Escalada De privilegios
-una ves dentro de la maquina podemos ver el directorio `ìnetpub` este directorio es de un sitio web interno 
+una ves dentro de la maquina podemos ver el directorio `inetpub` 
 ![[Pasted image 20240810150156.png]]
