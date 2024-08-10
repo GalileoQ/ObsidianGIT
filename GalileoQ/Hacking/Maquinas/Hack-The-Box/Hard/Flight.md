@@ -143,7 +143,8 @@ Command=ToggleDesktop
 ahora vamos a estar a la escucha con el responder y vamos a subir el archivo `Desktop.ini` a los recursos compartidos y esperamos que algún usuario intente conectarse
 ![[Pasted image 20240810140010.png]]
 
-
+### crackmapexec 
+![[Pasted image 20240810140848.png]]
 
 ### Vulnerabilidades
 
