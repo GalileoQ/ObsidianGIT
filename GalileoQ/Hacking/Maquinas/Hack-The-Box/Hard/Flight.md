@@ -252,3 +252,5 @@ en este pinto he utilizado una reverse shell con formato aspx [shell.aspx](https
 enumerando este usuario podemos ver que cuenta con el permiso de `SeImpersonatePrivilege - Impersonate a client after authentication Enabled`
 ![[Pasted image 20240810180639.png]]
 
+`Rubeus`
+![[Pasted image 20240810194913.png]]
