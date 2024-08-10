@@ -116,6 +116,9 @@ después de esperar un rato vemos que hashcat ha podido identificar la contrase�
 podemos validar las credenciales que hemos conseguido y parecen ser validas para enumerar los recursos smb pero no podemos conectarnos por `evil-winrm` esto es normal ya que las cuentas de servicios como en este caso no cuentan con esta opción 
 ![[Pasted image 20240810132329.png]]
 
+### crackmapexec
+hacemos una enumeración 
+![[Pasted image 20240810132635.png]]
 
 
 
