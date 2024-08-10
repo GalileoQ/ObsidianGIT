@@ -76,8 +76,10 @@ en esta enumeración nos aseguramos que no existe otro nombre de dominio y tambi
 ![[Pasted image 20240810115616.png]]
 
 ### dirsearch
-usando `dirsearh` encontramos q
+usando `dirsearh` encontramos un `index.php` el cual esta haciendo referencia a una variable `$DATA` esto nos da una pista así que vamos a intentar un `LFI`
 ![[Pasted image 20240810122957.png]]
+
+
 
 ### Vulnerabilidades
 
