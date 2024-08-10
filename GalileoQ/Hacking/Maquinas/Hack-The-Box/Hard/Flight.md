@@ -151,3 +151,6 @@ aplicamos los mismos pasos con la herramienta `hashcat` para descifrar el nuevo 
 una ves dentro de los recursos compartidos de `c.bum` podemos navegar hasta el directorio `Web` y dentro tenemos el directorio `school.flig.htb` en el cual podemos ver los diferentes archivos.
 ![[Pasted image 20240810141543.png]]
 
+### Reverse shell
+en este punto vamos a crear una reverse shell usando `msfvenom` para subirla a este recurso compartido y luego llamarla desde la web para poder 
+![[Pasted image 20240810142207.png]]
