@@ -175,3 +175,8 @@ primero que nada vamos a crear un archivo PHP que nos permita tener ejecución d
 luego vamos a cargar este archivo al recurso compartido de la misma manera que hicimos antes. esto nos permite ejecutar comandos a través de la URL. 
 ![[Pasted image 20240810144420.png]]
 
+ahora vamos a localizar el binario de netcat para poder subirlo a la maquina 
+
+```python
+
+```
