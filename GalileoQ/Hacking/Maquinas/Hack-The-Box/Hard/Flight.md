@@ -124,7 +124,9 @@ hacemos una enumeración para obtener usuarios potenciales del sistema.
 hacemos una validación con la contraseña y la lista de usuarios que hemos conseguido y obtenemos una coincidencia para el usuario `S.Moon` 
 ![[Pasted image 20240810133411.png]]
 
-
+### crackmapexec
+con este usuario tenemos permisos de lectura y de escritura en el recurso `Shared` 
+![[Pasted image 20240810134450.png]]
 
 
 
