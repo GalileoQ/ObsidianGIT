@@ -67,6 +67,10 @@ por el momento no tenemos nada interesante en la pagina web así que seguiremos 
 haciendo una enumeración de subdominios logramos encontrar uno llamado `school`
 ![[Pasted image 20240810114633.png]]
 
+`school`
+parece que en la pagina web de `school` tampoco obtenemos nada interesante.
+![[Pasted image 20240810114823.png]]
+
 
 
 ### Vulnerabilidades
