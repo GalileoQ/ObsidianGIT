@@ -120,6 +120,9 @@ podemos validar las credenciales que hemos conseguido y parecen ser validas para
 hacemos una enumeración para obtener usuarios potenciales del sistema.
 ![[Pasted image 20240810132635.png]]
 
+### crackmapexec
+
+![[Pasted image 20240810133411.png]]
 
 
 
