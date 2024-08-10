@@ -244,3 +244,6 @@ en la web no vemos nada interesante sin embargo podemos investigar el directorio
 ahora que ya tenemos la conexión y podemos ver la web en nuestra maquina local podemos hacer varias pruebas. lo primero que se me ocurre es crear un archivo HTML que nos permita establecer una reverse shell desde esta web para saber si se esta recibiendo como `administrator`
 ![[Pasted image 20240810175305.png]]
 
+`shell.aspx`
+en este pinto he utilizado una reverse shell [shell.aspx]()
+![[Pasted image 20240810180057.png]]
