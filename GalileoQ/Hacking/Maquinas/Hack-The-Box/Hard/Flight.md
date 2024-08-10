@@ -208,3 +208,4 @@ también podemos ver el puerto 8000 que esta en escucha lo cual me parece raro y
 Dado que el firewall cierra el puerto 8000, no podemos acceder a este sitio externamente. Necesitaremos reenviar el puerto 8000 a nuestra máquina local a través de un túnel inverso. 
 ![[Pasted image 20240810150605.png]]
 
+### User Pivoting
