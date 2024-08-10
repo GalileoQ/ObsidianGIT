@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Scanning Ports.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a21fd31bda1a00b0",
+  "active": "9e0ae3ec924a8476",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/Scanning Ports.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810114823.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810114633.png",
@@ -187,7 +187,6 @@
     "GalileoQ/Hacking/Scripts/lda-injection.md",
     "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
     "GalileoQ/Hacking/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/CPTS/Scanning Ports.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",

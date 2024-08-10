@@ -71,7 +71,7 @@ haciendo una enumeración de subdominios logramos encontrar uno llamado `school`
 parece que en la pagina web de `school` tampoco obtenemos nada interesante.
 ![[Pasted image 20240810114823.png]]
 
-
+### Enumeración del puerto 53 
 
 ### Vulnerabilidades
 
