@@ -72,8 +72,10 @@ parece que en la pagina web de `school` tampoco obtenemos nada interesante.
 ![[Pasted image 20240810114823.png]]
 
 ### Enumeración del puerto 53 (DNS)
-en esta enumeración nos aseguramos que no existe otro nombre de dominio y tambien obtenermos la direccion ip
+en esta enumeración nos aseguramos que no existe otro nombre de dominio y también obtenemos la dirección ip V6
 ![[Pasted image 20240810115616.png]]
+
+
 
 
 ### Vulnerabilidades
