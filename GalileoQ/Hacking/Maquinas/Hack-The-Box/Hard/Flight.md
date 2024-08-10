@@ -100,8 +100,9 @@ con estos parámetros vamos a realizar un fuzzing con una lista de palabras espe
 vamos a iniciar el responder para posteriormente hacer una petición e intentar envenenar el trafico y poder capturar un `hash NTLMv2` 
 ![[Pasted image 20240810125124.png]]
 
-
-
+`hash NTLMv2`
+ahora solo vamos a forzar la autentica
+![[Pasted image 20240810125817.png]]
 
 
 
