@@ -270,5 +270,5 @@ impacket-secretsdump -k -no-pass g0.flight.htb -just-dc-user Administrator -targ
 ![[Pasted image 20240810194913.png]]
 
 `impacket-secretsdump`
-una ves hemos dumpeado las credenciales de administrador podemos establecer una conexión usando  `impacket-psexec`
+una ves hemos dumpeado las credenciales de administrador podemos establecer una conexión usando  `impacket-psexec` ya que el usuario administrador no tiene permisos en el grupo `REMOTE MANAGEMENT `
 ![[Pasted image 20240810201316.png]]
