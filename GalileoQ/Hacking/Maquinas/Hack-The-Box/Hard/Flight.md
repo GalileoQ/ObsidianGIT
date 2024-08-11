@@ -253,4 +253,8 @@ enumerando este usuario podemos ver que cuenta con el permiso de `SeImpersonateP
 ![[Pasted image 20240810180639.png]]
 
 `Rubeus`
+
 ![[Pasted image 20240810194913.png]]
+
+
+![[Pasted image 20240810201316.png]]
