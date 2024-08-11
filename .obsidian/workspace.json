@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "262e49de94c83011",
+        "id": "7183dab9e3f3f68c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0ae3ec924a8476",
+            "id": "24cd18e9194b685b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
