@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "a21fd31bda1a00b0",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810194913.png",
