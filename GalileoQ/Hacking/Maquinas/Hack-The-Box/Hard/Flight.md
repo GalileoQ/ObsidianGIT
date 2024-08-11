@@ -253,7 +253,7 @@ enumerando este usuario podemos ver que cuenta con el permiso de `SeImpersonateP
 ![[Pasted image 20240810180639.png]]
 
 `Rubeus`
-
+Ahora que tenemos un ticket válido para la cuenta de la máquina, necesitamos convertirlo del formato base64 - kirbi a ccache para usarlo con impacket. Para la conversión, escribimos la salida del ticket en un archivo llamado ticket.b64 y luego ejecutamos la siguiente cadena de comandos para obtener el hash del administrador.
 ![[Pasted image 20240810194913.png]]
 
 
