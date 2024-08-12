@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35e7a989b13767b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a095378c9af50e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
               }
             }
           }
@@ -147,8 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7477ed65d0da37da",
+  "active": "2a095378c9af50e6",
   "lastOpenFiles": [
+    "Excalidraw/Docker.md",
+    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
     "GalileoQ/CPTS/Scanning Ports.md",
@@ -162,7 +188,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810194913.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810180639.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810180057.png",
@@ -183,8 +208,6 @@
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Scripts/lda-injection.md",
-    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
-    "GalileoQ/Hacking/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
