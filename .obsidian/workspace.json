@@ -35,9 +35,11 @@
             "id": "2a095378c9af50e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
               }
             }
           }
@@ -172,8 +174,8 @@
   },
   "active": "2a095378c9af50e6",
   "lastOpenFiles": [
-    "Excalidraw/Docker.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+    "Excalidraw/Docker.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
