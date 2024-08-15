@@ -45,8 +45,12 @@
             "id": "856c37d849cf1154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -79,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aker",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md"
+              }
             }
           }
         ]
@@ -175,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "856c37d849cf1154",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "Excalidraw/Docker.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
@@ -211,8 +220,6 @@
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/Hacking/Scripts/lda-injection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
