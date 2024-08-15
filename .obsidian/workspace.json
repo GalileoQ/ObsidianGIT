@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "856c37d849cf1154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md"
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
               }
             }
           }
@@ -182,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "856c37d849cf1154",
+  "active": "2a095378c9af50e6",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "Excalidraw/Docker.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
