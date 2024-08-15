@@ -40,9 +40,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "856c37d849cf1154",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35e7a989b13767b5",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "Excalidraw/Docker.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
-    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
     "GalileoQ/CPTS/Scanning Ports.md",
