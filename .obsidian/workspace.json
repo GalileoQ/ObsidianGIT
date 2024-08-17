@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md"
+                "file": "GalileoQ/CPTS/Pentesting-Process.md"
               }
             }
           }
@@ -147,9 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2df7412111a56174",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/LAB/Pentesting-Process.md",
+    "GalileoQ/CPTS/Pentesting-Process.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
