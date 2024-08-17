@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md"
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "2df7412111a56174",
   "lastOpenFiles": [
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
-    "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
