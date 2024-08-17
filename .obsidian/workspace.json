@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md"
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "2df7412111a56174",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/nmap.md",
@@ -156,7 +158,6 @@
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
     "GalileoQ/CPTS/Pentesting-Processs.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
@@ -187,7 +188,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810150605.png",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resource.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
