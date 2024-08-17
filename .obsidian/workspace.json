@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md"
+                "file": "GalileoQ/CPTS/Pentesting-Process/Sin título.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "2df7412111a56174",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
+    "GalileoQ/CPTS/Pentesting-Process/Sin título.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/nmap.md",
@@ -187,7 +188,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810152657.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810150605.png",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
