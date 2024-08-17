@@ -149,6 +149,11 @@
   },
   "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/Scanning Ports.md",
+    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/CPTS/cpts/nmap.md",
+    "GalileoQ/CPTS/cpts",
+    "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
     "GalileoQ/CPTS/Pentesting-Processs.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
@@ -183,8 +188,6 @@
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resource.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
@@ -192,9 +195,6 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
     "Img",
     "Sin título.canvas",
-    "GalileoQ/CPTS/LAB.zip",
-    "GalileoQ/Template/Img",
-    "Excalidraw",
-    "GalileoQ/Template"
+    "GalileoQ/CPTS/LAB.zip"
   ]
 }
