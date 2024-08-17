@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32d11f212cb637f3",
+        "id": "afbe25f71ef13907",
         "type": "tabs",
         "children": [
           {
-            "id": "7477ed65d0da37da",
+            "id": "2df7412111a56174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "35e7a989b13767b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
+                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md"
+                "file": "GalileoQ/CPTS/LAB/Pentesting-Process.md"
               }
             }
           }
@@ -158,14 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35e7a989b13767b5",
+  "active": "2df7412111a56174",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Pentesting-Process.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
+    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "Excalidraw/Docker.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
-    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
     "GalileoQ/CPTS/Scanning Ports.md",
@@ -195,7 +185,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
