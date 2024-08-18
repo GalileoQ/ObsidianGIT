@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afbe25f71ef13907",
+        "id": "915595505a336db2",
         "type": "tabs",
         "children": [
           {
-            "id": "2df7412111a56174",
+            "id": "1b96062957a8d778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+                "file": "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+                "file": "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md"
+                "file": "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md"
               }
             }
           }
@@ -147,10 +145,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2df7412111a56174",
+  "active": "1b96062957a8d778",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+    "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
@@ -187,7 +186,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810173920.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810152657.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810150605.png",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
