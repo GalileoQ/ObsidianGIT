@@ -202,6 +202,6 @@ Busque un poco en Google y el primer resultado arroja una vulnerabilidad SSRF
 |                |                             |      |                |                                                   |
 |                |                             |      |                |                                                   |
 
-### enumeración del puerto 3000 (http)
+### Explotación SSRF
 
-![[Pasted image 20240822122911.png]]
+
