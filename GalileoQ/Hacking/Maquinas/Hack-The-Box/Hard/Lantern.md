@@ -207,5 +207,5 @@ vamos a realizar una  carga de nuestro resumen y la interceptaremos con el `burp
 ![[Pasted image 20240822143808.png]]
 
 ``BurpSuite``
-al intentar hacer una petición agregando el parametro `X-Skipper-Proxy` y apuntando al local host por el puerto `9999` podemos ver que la peticion nos responde 
+al intentar hacer una petición agregando el parametro `X-Skipper-Proxy` y apuntando al local host por el puerto `9999` podemos ver que la petición nos responde con un `503 servidor no disponible` esto me hace pensar que se esta eje
 ![[Pasted image 20240822143535.png]]
