@@ -207,5 +207,6 @@ vamos a realizar una  carga de nuestro resumen y la interceptaremos con el `burp
 ![[Pasted image 20240822143808.png]]
 
 ``BurpSuite``
-al intentar hacer una petición agregando el parametro `X-Skipper-Proxy` y apuntando al local host por el puerto `9999` podemos ver que la petición nos responde con un `503 servidor no disponible` esto me hace pensar que se esta eje
+al intentar hacer una petición agregando el parametro `X-Skipper-Proxy` y apuntando al local host por el puerto `9999` podemos ver que la petición nos responde con un `503 servidor no disponible` esto me hace pensar que se esta ejecutando correctamente la vulnerabilidad `SSRF` solo que estamos apuntando al lugar incorrecto ya que no conocemos un puerto disponible.
 ![[Pasted image 20240822143535.png]]
+
