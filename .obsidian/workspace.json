@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3f953aeabab5253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md"
               }
             }
           }
@@ -196,8 +184,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3f953aeabab5253",
+  "active": "8761591e56ebd73e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
@@ -229,7 +218,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/12 - Buscar archivos de los que somos Propietarios y Tengamos Permisos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810201316.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810194913.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810180639.png",
