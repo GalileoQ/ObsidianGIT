@@ -203,9 +203,9 @@ Busque un poco en Google y el primer resultado arroja una vulnerabilidad SSRF
 |                |                             |      |                |                                                   |
 
 ### Explotación SSRF
-vamos a realizar una  carga de nuestro resumen y la interceptaremos con el `burpsuite` para analizar la petición 
-![[Pasted image 20240822130159.png]]
+vamos a realizar una  carga de nuestro resumen y la interceptaremos con el `burpsuite` para analizar la petición debito a que este campo es el que se relaciona directamente con el parámetro que queremos analizar
+![[Pasted image 20240822143808.png]]
 
 ``BurpSuite``
-
+al intentar 
 ![[Pasted image 20240822143535.png]]
