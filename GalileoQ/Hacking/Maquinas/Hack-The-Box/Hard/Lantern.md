@@ -211,4 +211,8 @@ al intentar hacer una petición agregando el parametro `X-Skipper-Proxy` y apunt
 ![[Pasted image 20240822143535.png]]
 
 ### script SSRF
-En resumen, el script realiza un escaneo de puertos en el servidor local (`127.0.0.1`) a través de un ataque de SSRF (Server-Side Request Forgery) utilizando un proxy HTTP. Intenta acceder a diferentes puertos comunes y evalúa las respuestas del servidor para determinar si los puertos están abiertos o si hay alguna respuesta significativa (como redirecciones o errores). Este proceso se lleva a cabo enviando solicitudes HTTP al objetivo especificado (`http://lantern.htb/`), que en realidad está configurado para conectarse internamente a los puertos locales del servidor.
+vamos a crear un script que realiza un escaneo de puertos en el servidor local (`127.0.0.1`) a través de un ataque de SSRF (Server-Side Request Forgery) utilizando un proxy HTTP. Intenta acceder a diferentes puertos comunes y evalúa las respuestas del servidor para determinar si los puertos están abiertos o si hay alguna respuesta significativa (como redirecciones o errores).
+
+```python
+
+```
