@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "915595505a336db2",
+        "id": "c010a44dad30c612",
         "type": "tabs",
         "children": [
           {
-            "id": "1b96062957a8d778",
+            "id": "22f8591b072a84ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b96062957a8d778",
+  "active": "22f8591b072a84ca",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Shell/OneLiners.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
@@ -178,7 +179,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810201316.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810194913.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810180639.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810180057.png",
