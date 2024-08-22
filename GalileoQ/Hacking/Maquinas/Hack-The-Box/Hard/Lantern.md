@@ -178,6 +178,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 `vacancies`
 si vamos al apartado de http://lantern.htb/vacancies podemos ver que están contratando ingenieros y podemos subir un currículum 
+
+
 ![[Pasted image 20240822122149.png]]
   
  
