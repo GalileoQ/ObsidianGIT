@@ -266,5 +266,6 @@ for port in common_ports:
 bar.success("Finish!")
 ```
 
-```
+`puertos abiertos SSRF`
+
 ![[Pasted image 20240822144740.png]]
