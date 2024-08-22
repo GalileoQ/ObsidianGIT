@@ -193,13 +193,12 @@ Funciones de seguridad : admite varios mecanismos de seguridad como terminación
 
 ```
 
-Busque un poco en Google y el primer resultado arroja una vulnerabilidad SSRF para Skipper Proxy como CVE-2022-38580
-
+Busque un poco en Google y el primer resultado arroja una vulnerabilidad SSRF
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
+| CVE-2022-38580 | SSRF for Skipper Proxy      |      |       |      |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
 
