@@ -196,11 +196,11 @@ Funciones de seguridad : admite varios mecanismos de seguridad como terminación
 Busque un poco en Google y el primer resultado arroja una vulnerabilidad SSRF
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2022-38580 | SSRF for Skipper Proxy      |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel          | Link |
+| -------------- | --------------------------- | ---- | -------------- | ---- |
+| CVE-2022-38580 | Skipper Proxy               | SSRF | `9.8 CRITICAL` |      |
+|                |                             |      |                |      |
+|                |                             |      |                |      |
 
 ### enumeración del puerto 3000 (http)
 
