@@ -177,8 +177,18 @@ Service detection performed. Please report any incorrect results at https://nmap
 ![[Pasted image 20240822121950.png]]
 
 `vacancies`
-si vamos al apartado de http://lantern.htb/vacancies podemos ver que estan contratando ingenieros y podemos subir un curri
+si vamos al apartado de http://lantern.htb/vacancies podemos ver que están contratando ingenieros y podemos subir un currículum 
 ![[Pasted image 20240822122149.png]]
+
+
+
+
+
+
+
+
+
+
 ### Vulnerabilidades
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
