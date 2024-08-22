@@ -178,10 +178,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 `vacancies`
 si vamos al apartado de http://lantern.htb/vacancies podemos ver que están contratando ingenieros y podemos subir un currículum 
-
-
 ![[Pasted image 20240822122149.png]]
-  
+
+demás, en el resultado del análisis anterior de Nmap para el puerto 80, vemos que se menciona "Skipper Proxy". Skipper Proxy es un servidor proxy inverso y un enrutador HTTP integrado en Go. Está diseñado para administrar el tráfico en arquitecturas web modernas, manejando solicitudes HTTP y enrutandolas a los servicios backend apropiados según varias reglas y configuraciones:  
  
  ```python 
 Enrutamiento de tráfico : enruta las solicitudes HTTP entrantes a diferentes servicios backend o microservicios en función de reglas definidas en la configuración o dinámicamente en el código.  
