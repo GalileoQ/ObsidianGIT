@@ -267,6 +267,6 @@ bar.success("Finish!")
 ```
 
 `puertos abiertos SSRF`
-el resultado de este script nos muestra que existen 3 puertos abiertos. (80,5000,8000)
+el resultado de este script nos muestra que existen 3 puertos abiertos. de manera interna en la maquina (80,5000,8000)
 ![[Pasted image 20240822144740.png]]
 
