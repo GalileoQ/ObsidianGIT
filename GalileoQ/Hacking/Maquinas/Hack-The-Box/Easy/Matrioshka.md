@@ -1,17 +1,4 @@
 #Easy #Linux #tecnicas 
-### Ping
-
-```python
-
-```
-
-### TTL = 
-
-### nmap
-
-```python
-
-```
 # [Machine Name]
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#machine-name)
@@ -114,10 +101,3 @@ Show **all** specific commands using markdown's triple-backticks (` ```bash `) s
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#privilege-escalation)
 
 [Describe the steps to obtaining root/administrator privileges on the box.]
-### Vulnerabilidades
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
