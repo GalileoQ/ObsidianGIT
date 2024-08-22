@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4efa010e22f24653",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f8591b072a84ca",
+  "active": "4efa010e22f24653",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822150407.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822145612.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822144740.png",
@@ -160,7 +166,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822122911.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822122149.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822121950.png",
@@ -187,7 +192,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240810201316.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
