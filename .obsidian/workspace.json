@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9c8e274c1047d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8761591e56ebd73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
               }
             }
           }
@@ -184,11 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8761591e56ebd73e",
+  "active": "de641cafc9ff9921",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822122911.png",
