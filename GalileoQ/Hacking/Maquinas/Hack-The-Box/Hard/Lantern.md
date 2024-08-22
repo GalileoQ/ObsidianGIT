@@ -271,5 +271,6 @@ el resultado de este script nos muestra que existen 3 puertos abiertos. de maner
 ![[Pasted image 20240822144740.png]]
 
 ### Burpsuite
-despues de hacer una larga investigación sabemos que el puerto 5000 es el puerto predeterminado para `blazor` la tecnología que esta utilizando la web por lo cual vamos a apuntar a este puerto y haciendo una petición a la ruta `_framework/blazor.boot.json` podemos ver las dll del servidor correspondiente. en este caso solo encontramos una dll personalizada 
+despues de hacer una larga investigación sabemos que el puerto 5000 es el puerto predeterminado para `blazor` la tecnología que esta utilizando la web por lo cual vamos a apuntar a este puerto y haciendo una petición a la ruta `_framework/blazor.boot.json` podemos ver las dll del servidor correspondiente. en este caso solo encontramos una dll personalizada `"InternaLantern.dll": "sha256-pblWkC\/PhCCSxn1VOi3fajA0xS3mX\/\/RC0XvAE\/n5cI=`
 ![[Pasted image 20240822145612.png]]
+
