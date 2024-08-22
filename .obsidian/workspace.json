@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de641cafc9ff9921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md"
               }
             }
           }
@@ -160,12 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de641cafc9ff9921",
+  "active": "22f8591b072a84ca",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822122911.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20240822122149.png",
