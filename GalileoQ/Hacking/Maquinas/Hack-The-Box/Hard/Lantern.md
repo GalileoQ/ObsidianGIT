@@ -267,5 +267,5 @@ bar.success("Finish!")
 ```
 
 `puertos abiertos SSRF`
-
+el resultado de este script nos muestra que existen 
 ![[Pasted image 20240822144740.png]]
