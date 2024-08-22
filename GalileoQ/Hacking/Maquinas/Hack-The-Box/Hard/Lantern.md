@@ -270,3 +270,6 @@ bar.success("Finish!")
 el resultado de este script nos muestra que existen 3 puertos abiertos. de manera interna en la maquina (80,5000,8000)
 ![[Pasted image 20240822144740.png]]
 
+### Burpsuite
+despues de hacer una larga investigación sabemos que el puerto 5000 es el puerto pr
+![[Pasted image 20240822145612.png]]
