@@ -1,8 +1,8 @@
 ###### Machine Name: Matrioshka/Mamushka
 
-​ DDth Month YYYY
+​ DDth:22 Month:08 YYYY:2024
 
-​ Machine Author(s):
+​ Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/overview) 
 
 ​
 
