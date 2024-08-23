@@ -174,6 +174,8 @@ en este paso debemos realizar tres acciones
 2) agregar nuestra reverse shell al plugin que queremos editar
 
 3) Update File
+
+4) establecer la escucha con netcat
 ```
 
 ![[Pasted image 20240822231201.png]]
