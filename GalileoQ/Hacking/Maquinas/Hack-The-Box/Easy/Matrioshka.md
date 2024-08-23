@@ -20,7 +20,7 @@ The Matrioshka challenge tests players' ability to identify and chain multiple a
 
 ### Flags:
 
-User: `<md5>`
+User: `c8129b0390452d8378535cff76e0dde8`
 
 Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 
@@ -79,6 +79,7 @@ This command enables the service to run automatically at system startup.
 `NONE`
 
 ---------------------------------------------------
+# 
 ### Ping
 
 ```python
