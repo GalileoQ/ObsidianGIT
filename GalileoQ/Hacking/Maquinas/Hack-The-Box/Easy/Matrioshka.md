@@ -394,4 +394,11 @@ ejecutamos el script siguiendo los pasos que nos proporcionan en el repositorio 
 ![[Pasted image 20240823162631.png]]
 
 ### Enumeración del Docker
-para enumerar el docker usaremos 
+para enumerar el Docker usaremos algunos comandos básicos para vulnerabilidades de Docker
+
+```python
+find / -name docker.sock 2>/dev/null
+```
+
+
+![[Pasted image 20240823163548.png]]
