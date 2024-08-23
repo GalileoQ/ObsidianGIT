@@ -162,3 +162,6 @@ finalmente estamos dentro del WordPress
 ![[Pasted image 20240822225549.png]]
 
 ### Reverse shell
+para poder obtener una reverse shell en este punto debemos ir al apartado de `Tools` y luego `Plugin File Editor`
+![[Pasted image 20240822225717.png]]
+
