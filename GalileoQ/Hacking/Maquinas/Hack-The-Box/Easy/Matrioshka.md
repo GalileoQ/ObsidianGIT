@@ -113,7 +113,7 @@ Nmap done: 1 IP address (1 host up) scanned in 19.19 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-en la primera parte de la web podemos observar que la web contiene 8 apartados que vere
+en la primera parte de la web podemos observar que la web contiene 8 apartados ( `Account,Login,Logout,Members,Passwo` )
 ![[Pasted image 20240822205025.png]]
 
 ![[Pasted image 20240822205106.png]]
