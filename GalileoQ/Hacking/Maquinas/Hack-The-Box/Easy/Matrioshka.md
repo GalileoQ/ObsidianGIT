@@ -316,3 +316,8 @@ para las cookies solo debemos ir al apartado de inspeccionar - storage y aqui po
 
 ejecutamos el exploit y en este caso no recibimos nada. vamos a analizar la web para ver los logs y identificar el problema
 ![[Pasted image 20240823150830.png]]
+
+### logs
+capturamos el logs donde se ha realizado la petición para decodearla y analizarla
+![[Pasted image 20240823151120.png]]
+
