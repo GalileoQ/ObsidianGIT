@@ -26,12 +26,13 @@ Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 
 ### Users
 
-| Users                 | Password |
-| --------------------- | -------- |
-| root                  |          |
-| matrioshka            |          |
-| www-data(container-1) |          |
-| root(container-2)     |          |
+| Users                 | Password           |
+| --------------------- | ------------------ |
+| root                  | Ilo&a5aT5RO8Yt94P  |
+| matrioshka            | Fukurokuju         |
+| www-data(container-1) | none               |
+| root(container-2)     | none               |
+| admin(Wordpress)      | Ilo^&a5aT5RO8Yt94P |
 
 
 ### Automation / Crons
