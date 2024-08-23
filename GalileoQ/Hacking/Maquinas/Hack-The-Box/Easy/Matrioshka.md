@@ -123,7 +123,9 @@ todos estos apartados aunque interesantes no nos proporcionan un camino ni tampo
 
 ![[Pasted image 20240822205146.png]]
 
-### Fuzzing con wfuff
+### Fuzzing con gobuster
+
+
 
 ### Vulnerabilidades
 
