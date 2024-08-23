@@ -221,6 +221,6 @@ Password: Fukurokuju
 ![[Pasted image 20240823140911.png]]
 
 ### ssh
-establecemos una conexión vía ssh con las credenciales que hemos capturado
-![[Pasted image 20240823141226.png]]
+establecemos una conexión vía ssh con las credenciales que hemos capturado y efectivamente estamos dentro como el usuario `matrioshka` y podemos ver la `user.txt`
+![[Pasted image 20240823141641.png]]
 
