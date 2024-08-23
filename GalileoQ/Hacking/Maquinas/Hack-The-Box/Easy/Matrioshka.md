@@ -95,6 +95,7 @@ rtt min/avg/max/mdev = 0.524/0.524/0.524/0.000 ms
 
 ### nmap
 sudo nmap -p- -open -sCV --min-rate 5000 -n -Pn 10.0.2.24
+
 ```python
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 9.2p1 Debian 2+deb12u3 (protocol 2.0)
@@ -111,7 +112,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 19.19 seconds
 ```
 
-### Enumeración 
+### Enumeración del puerto 80 (http)
 
 
 ### Vulnerabilidades
