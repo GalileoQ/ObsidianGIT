@@ -252,4 +252,6 @@ analizando un poco el código fuente podemos identificar el CMS en este caso `HF
 ![[Pasted image 20240823143824.png]]
 
 ### login
-debido a que este servicio carece de unas credenciales por defecto debemos realizar algunas pruebas comunes como serian admin:admin
+debido a que este servicio carece de unas credenciales por defecto debemos realizar algunas pruebas comunes como serian `admin:admin` 
+
+![[Pasted image 20240823144326.png]]
