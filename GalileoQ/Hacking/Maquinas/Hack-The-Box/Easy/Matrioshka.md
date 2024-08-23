@@ -259,5 +259,6 @@ debido a que este servicio carece de unas credenciales por defecto debemos reali
 efectivamente las credenciales por defecto son `admin:admin`
 ![[Pasted image 20240823144512.png]]
 
-`Admin-panel` 
+`Admin-panel`
+haciendo clic en la el boton `Options` tenemos otro `pop-up` el c
 ![[Pasted image 20240823144708.png]]
