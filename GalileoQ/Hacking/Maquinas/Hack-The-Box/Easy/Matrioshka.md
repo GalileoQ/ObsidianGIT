@@ -156,7 +156,7 @@ podemos verificar esto usando una wordlist de wordpress actualizada que podemos 
 |                |                                                                    |               |       |                                                         |
 
 ### explotación De La CVE
-para la explotación de esta CVE usaremos el siguiente repositorio [github](https://github.com/diego-tella/CVE-2024-27956-RCE) en este punto solo debemos ejecutar el exploit con el siguiente comando
+para la explotación de esta CVE usaremos el siguiente repositorio [github](https://github.com/diego-tella/CVE-2024-27956-RCE) [<u><font color="#ff0000">github</font></u>](http://test.trets) en este punto solo debemos ejecutar el exploit con el siguiente comando
 
 ```python
 python3 exploit.py http://mamushka.htb/
