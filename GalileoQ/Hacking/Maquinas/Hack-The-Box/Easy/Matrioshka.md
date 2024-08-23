@@ -228,3 +228,6 @@ establecemos una conexión vía ssh con las credenciales que hemos capturado y e
 haciendo uso de `netstat -atunp` podemos identificar dos puertos que estan corriendo en local `127.0.0.1:8080 - 127.0.0.1:9090` idealmente deberiamos realizar un `Port Forwarding` para ambos puertos. pero en este caso no sera necesario ya que nosotros sabemos que el puerto adecuado seria el 9090. 
 ![[Pasted image 20240823142129.png]]
 
+### Port Forwarding
+realizamos un `Port Forwarding` del puerto `9090` a nuestra localhost por el puerto `9090`
+![[Pasted image 20240823142717.png]]
