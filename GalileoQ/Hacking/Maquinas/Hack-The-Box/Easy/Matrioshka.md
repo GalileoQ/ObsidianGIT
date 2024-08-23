@@ -326,5 +326,5 @@ decodeamos el base64 para darnos cuenta que se esta solicitando una petición co
 ![[Pasted image 20240823151856.png]]
 
 `Modificación del exploit`
-vamos a remplazar el `netcat` por un ``
+vamos a remplazar el `netcat` por un `bash -c` 
 ![[Pasted image 20240823154544.png]]
