@@ -404,4 +404,11 @@ en esta enumeración encontramos que la ruta /run/docker.sock forma parte del co
 ![[Pasted image 20240823163548.png]]
 
 ### Escalada de Privilegios
-para la parte final realizamos una investigación en Google y encontramos [hacktricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/docker-security/docker-breakout-privilege-escalation) esto nos da una idea de como se explota esta vulnerabilidad
+para la parte final realizamos una investigación en Google y encontramos [hacktricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/docker-security/docker-breakout-privilege-escalation) esto nos da una idea de como se explota esta vulnerabilidad. para ello necesitaremos hacer un pequeño tratamiento de la `TTY` 
+
+```python
+script /dev/null -c bash
+
+```
+
+![[Pasted image 20240823164530.png]]
