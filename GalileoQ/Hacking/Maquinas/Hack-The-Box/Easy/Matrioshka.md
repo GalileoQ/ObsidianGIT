@@ -78,16 +78,28 @@ This command enables the service to run automatically at system startup.
 ### Firewall Rules
 `NONE`
 
-# Enumeration
+---------------------------------------------------
+### Ping
 
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#enumeration)
+```python
 
-# Foothold
+```
 
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#foothold)
+### TTL = 
 
-# Lateral Movement
+### nmap
 
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#lateral-movement)
+```python
 
-# Privilege Escalation
+```
+
+### Enumeración 
+
+
+### Vulnerabilidades
+
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
+| -------------- | --------------------------- | ---- | ----- | ---- |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
