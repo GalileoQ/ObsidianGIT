@@ -113,17 +113,17 @@ Nmap done: 1 IP address (1 host up) scanned in 19.19 seconds
 ```
 
 ### Enumeración del puerto 80 (http)
-en la primera parte de la web podemos observar que la web contiene 8 apartados ( `Account,Login,Logout,Members,Password Reset,Register,Simple Page,User` ) tambien observamos una barra de busqueda y al final de la web un panel de registro de usuarios. 
-todos estos apartados aunque interesantes no nos proporcionan 
+en la primera parte de la web podemos observar que la web contiene 8 apartados ( `Account,Login,Logout,Members,Password Reset,Register,Simple Page,User` ) también observamos una barra de búsqueda y al final de la web un panel de registro de usuarios. 
+todos estos apartados aunque interesantes no nos proporcionan un camino ni tampoco son la vía intencionada para esta primera incursión 
 ![[Pasted image 20240822205025.png]]
 
 ![[Pasted image 20240822205106.png]]
 
 ![[Pasted image 20240822205132.png]]
-al final de la pagina observamos que tenemos un panel de registro de usuarios
+
 ![[Pasted image 20240822205146.png]]
 
-
+### Fuzzing con wfuff
 
 ### Vulnerabilidades
 
