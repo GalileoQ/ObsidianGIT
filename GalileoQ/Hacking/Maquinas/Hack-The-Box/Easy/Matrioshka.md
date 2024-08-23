@@ -198,8 +198,9 @@ seleccionamos `Browser` buscamos nuestro archivo `rshell.zip` que se encuentra a
 ![[Pasted image 20240823140110.png]]
 
 ### netcat
-
+antes de activar el plugin es importante establecer nuestra escucha por el puerto que hemos configurado en nuestra carga util
 ![[Pasted image 20240823140404.png]]
+
 `Activate Plugin`
-en esta parta es importante resaltar que debemos activar el plugin
+una ves hecho todo esto solo nos queda 
 ![[Pasted image 20240823134328.png]]
