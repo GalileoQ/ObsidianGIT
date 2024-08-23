@@ -400,5 +400,5 @@ para enumerar el Docker usaremos algunos comandos básicos para vulnerabilidades
 find / -name docker.sock 2>/dev/null
 ```
 
-en esta enumeración encontramos que la ruta /run/docker.sock 
+en esta enumeración encontramos que la ruta /run/docker.sock forma parte
 ![[Pasted image 20240823163548.png]]
