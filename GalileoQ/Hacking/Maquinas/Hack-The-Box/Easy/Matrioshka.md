@@ -334,7 +334,7 @@ vamos a remplazar el `netcat` por un `bash -c`
 ```
 
 básicamente debemos agregar una reverse shell en bash y agregando las variables `{0}/{1}` las cuales hacen referencia a la dirección ip y el puerto.
-![[Pasted image 20240823160334.png]]
+![[Pasted image 20240823162826.png]]
 
 ``poc_test_admin.py`
 en este script hemos realizado la modificación para que se ejecute el comando `bash -c`
