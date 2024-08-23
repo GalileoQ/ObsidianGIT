@@ -417,3 +417,4 @@ reset xterm
 ```
 
 ![[Pasted image 20240823164530.png]]
+
