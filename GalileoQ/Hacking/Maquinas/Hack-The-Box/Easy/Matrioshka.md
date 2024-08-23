@@ -183,5 +183,6 @@ ahora con zip vamos a transformar nuestro archivo reverse-shell.php a un archivo
 
 ![[Pasted image 20240823133503.png]]
 
-
+`Upload Plugin`
+seleccionamos 
 ![[Pasted image 20240823133751.png]]
