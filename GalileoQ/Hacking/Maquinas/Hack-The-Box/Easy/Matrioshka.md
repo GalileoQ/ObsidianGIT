@@ -6,9 +6,33 @@
 [Incluya por qué creó este cuadro, qué habilidades y vulnerabilidades desea resaltar, etc.]
 
 ## Información para HTB
+Machine Name
 
-[](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#info-for-htb)
+​ DDth Month YYYY
 
+​ Machine Author(s):
+
+​
+
+### Description:
+
+[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#description)
+
+This machine...
+
+### Difficulty:
+
+[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#difficulty)
+
+`easy`
+
+### Flags:
+
+[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#flags)
+
+User: `<md5>`
+
+Root: `<md5>`
 ### Acceso
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#access)
