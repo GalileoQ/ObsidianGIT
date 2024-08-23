@@ -271,6 +271,8 @@ efectivamente podemos ver la pagina web y también podemos ver la versión. entr
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad         | Tipo | Nivel | Link                                                    |
 | -------------- | ----------------------------------- | ---- | ----- | ------------------------------------------------------- |
-| CVE-2024-39943 | Remote Code Execution Vulnerability | RCE  | 9.9   | [lick](https://nvd.nist.gov/vuln/detail/CVE-2024-39943) |
+| CVE-2024-39943 | Remote Code Execution Vulnerability | RCE  | 9.9   | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-39943) |
 |                |                                     |      |       |                                                         |
 |                |                                     |      |       |                                                         |
+
+### Explotaci
