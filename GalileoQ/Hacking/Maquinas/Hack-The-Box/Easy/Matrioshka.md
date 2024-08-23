@@ -230,4 +230,11 @@ haciendo uso de `netstat -atunp` podemos identificar dos puertos que estan corri
 
 ### Port Forwarding
 realizamos un `Port Forwarding` del puerto `9090` a nuestra localhost por el puerto `9090`
+
+```python
+ssh -L 9090:127.0.0.1:9090 matrioshka@10.0.2.24
+```
+
 ![[Pasted image 20240823142717.png]]
+
+### Enumeración web localhost
