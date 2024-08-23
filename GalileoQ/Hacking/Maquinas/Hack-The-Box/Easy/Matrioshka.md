@@ -165,3 +165,6 @@ finalmente estamos dentro del WordPress
 para poder obtener una reverse shell en este punto debemos ir al apartado de `Tools` y luego `Plugin File Editor`
 ![[Pasted image 20240822225717.png]]
 
+`Tools`
+en este paso debemos 
+![[Pasted image 20240822230206.png]]
