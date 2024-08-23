@@ -132,8 +132,8 @@ realizando un escaneo con nuclei podemos conseguir una CVE en este caso es la CV
 ![[Pasted image 20240822223658.png]]
 
 ### wfuff
-podemos verificar esto usando una wordlist de wordpress actualizada que podemos conseguir en este repositorio [Wordlist-Wordpress](https://github.com/kongsec/Wordpress-BruteForce-List/blob/main/Fuzz) 
-
+podemos verificar esto usando una wordlist de wordpress actualizada que podemos conseguir en este repositorio [Wordlist-Wordpress](https://github.com/kongsec/Wordpress-BruteForce-List/blob/main/Fuzz)
+![[Pasted image 20240822224231.png]]
 
 ### Vulnerabilidades
 
