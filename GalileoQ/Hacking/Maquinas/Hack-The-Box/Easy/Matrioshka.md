@@ -160,3 +160,5 @@ en este punto solo debemos navegar hasta el panel de login del WordPress e ingre
 `Login`
 finalmente estamos dentro del WordPress
 ![[Pasted image 20240822225549.png]]
+
+### Reverse shell
