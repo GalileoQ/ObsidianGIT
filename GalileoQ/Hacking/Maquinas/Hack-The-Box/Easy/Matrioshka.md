@@ -162,4 +162,4 @@ finalmente estamos dentro del WordPress
 ![[Pasted image 20240822225549.png]]
 
 ### Reverse shell
-para obtener una reverse shell en este wordpress no es posible editar un plugin ya que 
+para obtener una reverse shell en este wordpress no es posible editar un plugin ya que es
