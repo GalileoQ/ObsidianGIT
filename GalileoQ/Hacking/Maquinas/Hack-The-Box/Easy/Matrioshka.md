@@ -7,19 +7,13 @@ Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/overview) - [b0
 
 ### Description:
 
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#description)
-
 This machine...
 
 ### Difficulty:
 
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#difficulty)
-
 `easy`
 
 ### Flags:
-
-[](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#flags)
 
 User: `<md5>`
 
