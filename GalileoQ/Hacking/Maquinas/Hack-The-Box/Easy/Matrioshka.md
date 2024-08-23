@@ -224,3 +224,6 @@ Password: Fukurokuju
 establecemos una conexión vía ssh con las credenciales que hemos capturado y efectivamente estamos dentro como el usuario `matrioshka` y podemos ver la `user.txt`
 ![[Pasted image 20240823141641.png]]
 
+### Enumeración de la maquina
+haciendo uso de `netstat -atunp` podemos identificar dos puertos 
+![[Pasted image 20240823142129.png]]
