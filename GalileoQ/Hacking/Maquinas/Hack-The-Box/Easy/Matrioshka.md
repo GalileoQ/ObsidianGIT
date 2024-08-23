@@ -6,9 +6,7 @@
 Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/overview) - [b0ySie7e](https://app.hackthebox.com/users/417609) 
 
 ### Description:
-About Matrioshka
-
-Matrioshka is a easy tier machine that combines various vulnerabilities in a Docker container environment. The machine includes two containers, each with its own set of challenges.
+This machine combines various vulnerabilities in a Docker container environment. The machine includes two containers, each with its own set of challenges.
 
 The first container runs a WordPress website that uses a plugin vulnerable to SQL injection. By exploiting this vulnerability, it is possible to gain access to the database and eventually compromise the system.
 
