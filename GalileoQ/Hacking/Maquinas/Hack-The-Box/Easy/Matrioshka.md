@@ -139,6 +139,6 @@ podemos verificar esto usando una wordlist de wordpress actualizada que podemos 
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
+| CVE-2024-27956 |                             |      |       |      |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
