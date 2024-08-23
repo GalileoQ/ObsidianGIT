@@ -6,8 +6,8 @@
 Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/overview) - [b0ySie7e](https://app.hackthebox.com/users/417609) 
 
 ### Description:
-
 This machine...
+
 
 ### Difficulty:
 
