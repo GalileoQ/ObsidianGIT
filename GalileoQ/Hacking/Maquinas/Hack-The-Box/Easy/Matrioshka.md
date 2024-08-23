@@ -22,7 +22,7 @@ The Matrioshka challenge tests players' ability to identify and chain multiple a
 
 User: `<md5>`
 
-Root: `<md5>`
+Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 
 ### Automation / Crons
 Due to a problem when exporting the machine in `.ova` format we decided to create a service which is responsible for ensuring that the containers are always running.
@@ -431,4 +431,5 @@ nsenter --target 1 --mount --uts --ipc --net --pid -- bash
 
 ![[Pasted image 20240823165444.png]]
 
+`root.txt`
 ![[Pasted image 20240823165701.png]]
