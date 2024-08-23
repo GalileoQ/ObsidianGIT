@@ -390,5 +390,7 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 
 
 ### reverse shell
-ejecutamos el script siguiendo los 
+ejecutamos el script siguiendo los pasos que nos proporcionan en el repositorio de github y obtenemos una reverse shell. en este caso como el usuario `root`
 ![[Pasted image 20240823162631.png]]
+
+### Enumeración del Docker 
