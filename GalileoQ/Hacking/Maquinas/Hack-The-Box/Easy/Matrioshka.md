@@ -27,7 +27,7 @@ Root: `<md5>`
 ### Automation / Crons
 debido a un problema al momento de exportar la maquina en formato `.ova` hemos decidido crear un servicio el cual se encarga de que los contenedores siempre estén en ejecución. 
 
-1)Crear el archivo del servicio
+1) Crear el archivo del servicio
 ```python
 sudo nano /etc/systemd/system/docker-compose-restart.service
 
@@ -35,6 +35,25 @@ Este comando abre el editor de texto `nano` con privilegios de superusuario (`su
 
 ```
 
+2) Contenido del archivo de servicio
+```python
+[Unit]
+Description=Reinicia Docker Compose en una ruta específica con un retraso después del inicio completo
+After=network.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/root/docker-hfs/
+ExecStartPre=/bin/sleep 3
+ExecStart=/usr/bin/docker-compose down
+ExecStartPost=/bin/sleep 5
+ExecStartPost=/usr/bin/docker-compose up -d
+
+[Install]
+WantedBy=default.target
+
+
+```
 
 ### Firewall Rules
 `NONE`
