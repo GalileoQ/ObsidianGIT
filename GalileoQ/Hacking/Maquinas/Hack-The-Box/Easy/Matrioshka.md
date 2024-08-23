@@ -241,3 +241,4 @@ ssh -L 9090:127.0.0.1:9090 matrioshka@10.0.2.24
 efectivamente podemos ver la nueva web. 
 esta web se trata de un HFS (HTTP File Server) es un software de intercambio de archivos que le permite enviar y recibir archivos
 ![[Pasted image 20240823142949.png]]
+
