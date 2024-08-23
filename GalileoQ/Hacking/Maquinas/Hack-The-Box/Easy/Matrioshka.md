@@ -325,5 +325,6 @@ capturamos el logs donde se ha realizado la petición para decodearla y analizar
 decodeamos el base64 para darnos cuenta que se esta solicitando una petición con `netcat` debido a que estamos haciendo un `Port Fordwarding` probablemente este segundo contenedor o maquina no tenga instalado el netcat así que vamos a realizar una pequeña modificación en el código 
 ![[Pasted image 20240823151856.png]]
 
-`modifica`
+`Modificación del exploit`
+vamos a remplazar el `netcat` por un ``
 ![[Pasted image 20240823154544.png]]
