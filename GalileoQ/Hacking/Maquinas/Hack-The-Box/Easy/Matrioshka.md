@@ -55,6 +55,15 @@ WantedBy=default.target
 
 ```
 
+3) Recargar la configuración de systemd
+```python
+sudo systemctl daemon-reload
+
+Este comando recarga la configuración de `systemd` para que reconozca el nuevo archivo de servicio.
+```
+
+
+
 ### Firewall Rules
 `NONE`
 
