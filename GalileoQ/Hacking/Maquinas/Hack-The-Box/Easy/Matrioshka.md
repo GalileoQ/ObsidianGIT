@@ -318,6 +318,6 @@ ejecutamos el exploit y en este caso no recibimos nada. vamos a analizar la web 
 ![[Pasted image 20240823150830.png]]
 
 ### logs
-capturamos el logs donde se ha realizado la petición para decodearla y analizarla
+capturamos el logs donde se ha realizado la petición para decodearla y analizarla. en este caso solo nos interesa lo que esta dentro de los paréntesis es decir la parte que esta encodeada en base 64 
 ![[Pasted image 20240823151120.png]]
 
