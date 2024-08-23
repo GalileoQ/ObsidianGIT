@@ -263,3 +263,6 @@ efectivamente las credenciales por defecto son `admin:admin`
 haciendo clic en la el botón `Options` tenemos otro `pop-up` en el cual podemos hacer clic en `Admin-panel` y esto nos llevara a la pagina del servidor
 ![[Pasted image 20240823144708.png]]
 
+### HFS 
+efectivamente podemos ver la pagina web y también podemos ver la version 
+![[Pasted image 20240823144941.png]]
