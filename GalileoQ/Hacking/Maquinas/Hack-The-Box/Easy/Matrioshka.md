@@ -197,6 +197,9 @@ ahora con zip vamos a transformar nuestro archivo rshell.php a un archivo zip pa
 seleccionamos `Browser` buscamos nuestro archivo `rshell.zip` que se encuentra alojado en nuestra maquina y lo instalamos
 ![[Pasted image 20240823140110.png]]
 
+### netcat
+
+![[Pasted image 20240823140404.png]]
 `Activate Plugin`
 en esta parta es importante resaltar que debemos activar el plugin
 ![[Pasted image 20240823134328.png]]
