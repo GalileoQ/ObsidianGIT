@@ -403,3 +403,4 @@ find / -name docker.sock 2>/dev/null
 en esta enumeración encontramos que la ruta /run/docker.sock forma parte del contenedor. Esto suele ocurrir en contenedores de Docker que por alguna razón necesitan conectarse al daemon de Docker para realizar acciones.
 ![[Pasted image 20240823163548.png]]
 
+### Escalada de Privilegios
