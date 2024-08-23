@@ -318,6 +318,9 @@ ejecutamos el exploit y en este caso no recibimos nada. vamos a analizar la web 
 ![[Pasted image 20240823150830.png]]
 
 ### logs
-capturamos el logs donde se ha realizado la petición para decodearla y analizarla. en este caso solo nos interesa lo que esta dentro de los paréntesis es decir la parte que esta encode en base 64 
+capturamos el logs donde se ha realizado la petición para decodearla y analizarla. en este caso solo nos interesa lo que esta dentro de los paréntesis es decir la parte que esta encodeada en base 64 
 ![[Pasted image 20240823151120.png]]
 
+`base64`
+decodeamos el base64 para darnos cuenta que se esta solicitando una petición con `netcat` pero debido a que este pod 
+![[Pasted image 20240823151856.png]]
