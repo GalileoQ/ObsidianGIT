@@ -28,7 +28,11 @@ Root: `<md5>`
 debido a un problema al momento de exportar la maquina en formato `.ova` hemos decidido crear un servicio el cual se encarga de que los contenedores siempre estén en ejecución. 
 
 ```python
-### **Crear el archivo del servicio**
+Crear el archivo del servicio
+
+sudo nano /etc/systemd/system/docker-compose-restart.service
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ```
 ### Firewall Rules
