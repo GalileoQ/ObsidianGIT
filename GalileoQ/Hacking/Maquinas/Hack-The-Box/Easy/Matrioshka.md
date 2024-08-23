@@ -154,5 +154,9 @@ este exploit se aprovecha de la vulnerabilidad SQL Injection para crear un usuar
 ![[Pasted image 20240822225246.png]]
 
 ### wp-login
-en este punto solo debemos navegar hasta el panel de login del wordpress 
+en este punto solo debemos navegar hasta el panel de login del WordPress e ingresar con las credenciales que hemos creado 
 ![[Pasted image 20240822225440.png]]
+
+`Login`
+finalmente estamos dentro del WordPress
+![[Pasted image 20240822225549.png]]
