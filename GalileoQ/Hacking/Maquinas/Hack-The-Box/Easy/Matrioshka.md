@@ -209,3 +209,6 @@ una ves hecho todo esto solo nos queda activar el plugin
 de esta manera logramos nuestra primera intrusión en la maquina 
 ![[Pasted image 20240823140638.png]]
 
+### Enumeración del contenedor
+en este punto debemos enumerar las
+![[Pasted image 20240823140911.png]]
