@@ -264,5 +264,13 @@ haciendo clic en la el botón `Options` tenemos otro `pop-up` en el cual podemos
 ![[Pasted image 20240823144708.png]]
 
 ### HFS 
-efectivamente podemos ver la pagina web y también podemos ver la version 
+efectivamente podemos ver la pagina web y también podemos ver la versión. entre otras cosas podemos ver el apartado de `logs`
 ![[Pasted image 20240823144941.png]]
+
+### Vulnerabilidades
+
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
+| -------------- | --------------------------- | ---- | ----- | ---- |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
+|                |                             |      |       |      |
