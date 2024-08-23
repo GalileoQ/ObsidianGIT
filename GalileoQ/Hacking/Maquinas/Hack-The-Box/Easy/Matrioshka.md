@@ -124,8 +124,8 @@ todos estos apartados aunque interesantes no nos proporcionan un camino ni tampo
 ![[Pasted image 20240822205146.png]]
 
 ### Fuzzing con gobuster
-
-
+en nuestra enumeracion con gobuster encontramos tres
+![[Pasted image 20240822210221.png]]
 
 ### Vulnerabilidades
 
