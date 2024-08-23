@@ -162,20 +162,4 @@ finalmente estamos dentro del WordPress
 ![[Pasted image 20240822225549.png]]
 
 ### Reverse shell
-para poder obtener una reverse shell en este punto debemos ir al apartado de `Tools` y luego `Plugin File Editor`
-![[Pasted image 20240822225717.png]]
-
-`Tools`
-en este paso debemos realizar tres acciones
-
-```python
-1) seleccionar el plugin que queremos editar
-
-2) agregar nuestra reverse shell al plugin que queremos editar
-
-3) Update File
-
-4) establecer la escucha con netcat
-```
-
-![[Pasted image 20240822231201.png]]
+para obtener una reverse shell en este wordpre
