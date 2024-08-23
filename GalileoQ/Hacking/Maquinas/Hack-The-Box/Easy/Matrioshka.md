@@ -256,5 +256,8 @@ debido a que este servicio carece de unas credenciales por defecto debemos reali
 ![[Pasted image 20240823144326.png]]
 
 ### admin
-efectivamente las credenciales por defecto son `admin:admin` 
+efectivamente las credenciales por defecto son `admin:admin`
 ![[Pasted image 20240823144512.png]]
+
+`Admin-panel` 
+![[Pasted image 20240823144708.png]]
