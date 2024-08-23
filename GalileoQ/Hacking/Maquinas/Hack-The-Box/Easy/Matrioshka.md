@@ -418,3 +418,6 @@ reset xterm
 
 ![[Pasted image 20240823164530.png]]
 
+### # Docker Breakout
+utilizando esta técnica podemos hacer un `` 
+![[Pasted image 20240823165444.png]]
