@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Template/Pentesting.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,12 +162,13 @@
   },
   "active": "4efa010e22f24653",
   "lastOpenFiles": [
+    "GalileoQ/Template/Pentesting.md",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165701.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165444.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823164530.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823163548.png",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823162826.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823162631.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823162146.png",
@@ -175,7 +176,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823154544.png",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823151856.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823151120.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
