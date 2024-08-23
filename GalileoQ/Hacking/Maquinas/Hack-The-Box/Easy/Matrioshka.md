@@ -162,4 +162,4 @@ finalmente estamos dentro del WordPress
 ![[Pasted image 20240822225549.png]]
 
 ### Reverse shell
-para obtener una reverse shell en este wordpress no es posible editar un plugin ya que es nos dara el siguiente mensaja 
+para obtener una reverse shell en este wordpress no es posible editar un plugin ya que es nos dara el siguiente mensaja ¨Unable to communicate back with site to check for fatal errors, so the PHP change was reverted. You will need to upload your PHP file change by some other means, such as by using SFTP.¨ 
