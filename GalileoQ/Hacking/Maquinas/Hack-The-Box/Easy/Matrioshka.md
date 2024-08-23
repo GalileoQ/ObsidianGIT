@@ -68,6 +68,7 @@ sudo systemctl enable docker-compose-restart.service
 
 Este comando habilita el servicio para que se ejecute automáticamente al iniciar el sistema.
 ```
+
 ### Firewall Rules
 `NONE`
 
