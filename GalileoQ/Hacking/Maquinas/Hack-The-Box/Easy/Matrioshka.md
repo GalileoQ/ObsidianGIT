@@ -137,8 +137,8 @@ podemos verificar esto usando una wordlist de wordpress actualizada que podemos 
 
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2024-27956 |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                                        | Tipo | Nivel | Link |
+| -------------- | ------------------------------------------------------------------ | ---- | ----- | ---- |
+| CVE-2024-27956 | SQL Injection Vulnerability in ValvePress Automatic (WP-Automatic) | RCE  |       |      |
+|                |                                                                    |      |       |      |
+|                |                                                                    |      |       |      |
