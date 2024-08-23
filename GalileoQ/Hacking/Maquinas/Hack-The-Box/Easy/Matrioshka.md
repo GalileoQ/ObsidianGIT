@@ -198,5 +198,5 @@ seleccionamos `Browser` buscamos nuestro archivo `rshell.zip` que se encuentra a
 ![[Pasted image 20240823140110.png]]
 
 `Activate Plugin`
-en esta parta es importante resaltar que debemos activar el p
+en esta parta es importante resaltar que debemos activar el plugin
 ![[Pasted image 20240823134328.png]]
