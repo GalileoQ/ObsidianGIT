@@ -26,7 +26,7 @@ Root: `<md5>`
 
 ### Automation / Crons
 
-debido a un proble
+debido a un problema al momento de exportar la maquina en formato `.ova` hemos decidido crear un servicio el cual se encarga de que los con
 ### Firewall Rules
 `NONE`
 
