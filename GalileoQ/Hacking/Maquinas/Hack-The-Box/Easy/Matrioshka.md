@@ -27,10 +27,14 @@ Root: `<md5>`
 ### Automation / Crons
 debido a un problema al momento de exportar la maquina en formato `.ova` hemos decidido crear un servicio el cual se encarga de que los contenedores siempre estén en ejecución. 
 
-``
-Crear el archivo del servicio
-
+1)Crear el archivo del servicio
+```python
 sudo nano /etc/systemd/system/docker-compose-restart.service
+
+Este comando abre el editor de texto `nano` con privilegios de superusuario (`sudo`) para crear o editar un archivo de servicio de `systemd` llamado `docker-compose-restart.service`.
+
+```
+
 
 ### Firewall Rules
 `NONE`
