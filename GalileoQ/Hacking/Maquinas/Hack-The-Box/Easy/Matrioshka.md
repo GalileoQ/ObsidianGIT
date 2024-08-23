@@ -94,9 +94,21 @@ rtt min/avg/max/mdev = 0.524/0.524/0.524/0.000 ms
 ### TTL = 64 Linux
 
 ### nmap
-
+sudo nmap -p- -open -sCV --min-rate 5000 -n -Pn 10.0.2.24
 ```python
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 9.2p1 Debian 2+deb12u3 (protocol 2.0)
+| ssh-hostkey: 
+|   256 b5:a4:7c:65:5c:1f:d7:89:42:bd:76:df:2c:8e:93:4e (ECDSA)
+|_  256 5d:3d:2b:43:fc:89:fa:24:a3:f4:73:5f:7b:89:6c:e3 (ED25519)
+80/tcp open  http    Apache httpd 2.4.61 ((Debian))
+|_http-title: mamushka
+|_http-server-header: Apache/2.4.61 (Debian)
+MAC Address: 08:00:27:05:CB:78 (Oracle VirtualBox virtual NIC)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.19 seconds
 ```
 
 ### Enumeración 
