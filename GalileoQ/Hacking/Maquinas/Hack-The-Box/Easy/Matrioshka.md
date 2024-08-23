@@ -314,5 +314,5 @@ ejecutamos el exploit y primero nos pide la URL la cual seria `127.0.0.1:9090` y
 para las cookies solo debemos ir al apartado de inspeccionar - storage y aqui podemos ver las cookies 
 ![[Pasted image 20240823150440.png]]
 
-ejecutamos el exploit y en este caso no 
+ejecutamos el exploit y en este caso no recibimos nada. esto se debe a que es
 ![[Pasted image 20240823150830.png]]
