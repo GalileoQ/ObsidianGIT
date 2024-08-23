@@ -269,8 +269,8 @@ efectivamente podemos ver la pagina web y también podemos ver la versión. entr
 
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad         | Tipo | Nivel | Link |
+| -------------- | ----------------------------------- | ---- | ----- | ---- |
+| CVE-2024-39943 | Remote Code Execution Vulnerability |      |       |      |
+|                |                                     |      |       |      |
+|                |                                     |      |       |      |
