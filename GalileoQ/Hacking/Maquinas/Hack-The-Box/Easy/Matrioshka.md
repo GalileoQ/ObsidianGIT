@@ -25,20 +25,20 @@ User: `<md5>`
 Root: `<md5>`
 
 ### Automation / Crons
-debido a un problema al momento de exportar la maquina en formato `.ova` hemos decidido crear un servicio el cual se encarga de que los contenedores siempre estén en ejecución. 
+Due to a problem when exporting the machine in `.ova` format we decided to create a service which is responsible for ensuring that the containers are always running.
 
-1) Crear el archivo del servicio
+1) Create the service file
 ```python
 sudo nano /etc/systemd/system/docker-compose-restart.service
 
-Este comando abre el editor de texto `nano` con privilegios de superusuario (`sudo`) para crear o editar un archivo de servicio de `systemd` llamado `docker-compose-restart.service`.
+This command opens the `nano` text editor with superuser privileges (`sudo`) to create a `systemd` service file called `docker-compose-restart.service`.
 
 ```
 
-2) Contenido del archivo de servicio
+2) Contents of docker-compose-restart.service service
 ```python
 [Unit]
-Description=Reinicia Docker Compose en una ruta específica con un retraso después del inicio completo
+Description=Restarts Docker Compose at a specified path with a delay after the full startup
 After=network.target
 
 [Service]
@@ -52,29 +52,27 @@ ExecStartPost=/usr/bin/docker-compose up -d
 [Install]
 WantedBy=default.target
 
+This file defines a `systemd` service that, once activated, will do the following:
 
-Este archivo define un servicio de `systemd` que, una vez activado, hará lo siguiente:
+1. Wait 3 seconds.
+2. Stop all containers defined in the `docker-compose.yml` file in `/root/.docker-hfs/`.
+3. It will wait for 5 seconds.
+4. It will restart the containers in the background.
 
-1. Esperará 3 segundos.
-2. Detendrá todos los contenedores definidos en el archivo `docker-compose.yml` en `/root/docker-hfs/`.
-3. Esperará 5 segundos.
-4. Reiniciará los contenedores en segundo plano.
+The service is a oneshot service, meaning it will run these actions once and then terminate.
 
-El servicio es de tipo "oneshot", lo que significa que ejecutará estas acciones una vez y luego finalizará.
-```
 
-3) Recargar la configuración de systemd
-```python
+3) Reload systemd configuration
+python
 sudo systemctl daemon-reload
 
-Este comando recarga la configuración de `systemd` para que reconozca el nuevo archivo de servicio.
-```
+This command reloads the systemd configuration to recognize the new service file.
 
-4) Habilitar el servicio
-```python
+4) Enable the service
+python
 sudo systemctl enable docker-compose-restart.service
 
-Este comando habilita el servicio para que se ejecute automáticamente al iniciar el sistema.
+This command enables the service to run automatically at system startup.
 ```
 
 ### Firewall Rules
