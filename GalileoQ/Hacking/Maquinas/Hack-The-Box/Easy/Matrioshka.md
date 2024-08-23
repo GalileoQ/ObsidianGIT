@@ -322,5 +322,5 @@ capturamos el logs donde se ha realizado la petición para decodearla y analizar
 ![[Pasted image 20240823151120.png]]
 
 `base64`
-decodeamos el base64 para darnos cuenta que se esta solicitando una petición con `netcat` pero debido a que este pod 
+decodeamos el base64 para darnos cuenta que se esta solicitando una petición con `netcat` pero probable 
 ![[Pasted image 20240823151856.png]]
