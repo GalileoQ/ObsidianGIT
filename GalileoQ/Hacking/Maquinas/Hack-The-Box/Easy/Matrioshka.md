@@ -166,5 +166,10 @@ para poder obtener una reverse shell en este punto debemos ir al apartado de `To
 ![[Pasted image 20240822225717.png]]
 
 `Tools`
-en este paso debemos 
+en este paso debemos realizar tres acciones
+
+```python
+1) seleccionar el plugin que queremos editar. es super importante selec
+```
+
 ![[Pasted image 20240822230206.png]]
