@@ -33,8 +33,7 @@ Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 | www-data(container-1) | none               |
 | root(container-2)     | none               |
 | admin(Wordpress)      | Ilo^&a5aT5RO8Yt94P |
-| MYSQL_ROOT_PASSWORD:  | pasRoot123!#       |
-
+| MYSQL_ROOT_PASSWORD   | pasRoot123!#       |
 
 ### Automation / Crons
 Due to a problem when exporting the machine in `.ova` format we decided to create a service which is responsible for ensuring that the containers are always running.
