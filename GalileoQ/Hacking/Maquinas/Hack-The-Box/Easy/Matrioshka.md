@@ -221,3 +221,5 @@ Password: Fukurokuju
 ![[Pasted image 20240823140911.png]]
 
 ### ssh
+establecemos una conexion via ssh con las credenciales que hemos capturado 
+![[Pasted image 20240823141226.png]]
