@@ -1,5 +1,8 @@
-###### Machine Name: Matrioshka/Mamushka
-​DDth:22 Month:08 YYYY:2024
+![[banner.png]]
+### Machine Name: Matrioshka/Mamushka
+
+`​DDth:22 Month:08 YYYY:2024`
+
 Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/overview) - [b0ySie7e](https://app.hackthebox.com/users/417609) 
 
 ### Description:
