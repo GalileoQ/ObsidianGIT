@@ -150,5 +150,5 @@ para la explotación de esta CVE usaremos el siguiente repositorio [github](http
 python3 exploit.py http://mamushka.htb/
 ```
 
-esto nos
+este exploit se aprovecha de la vulnerabilidad SQL Injection para crear un usuario y una password validas en el WordPress 
 ![[Pasted image 20240822225246.png]]
