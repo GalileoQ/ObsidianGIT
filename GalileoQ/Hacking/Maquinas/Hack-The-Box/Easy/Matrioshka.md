@@ -26,11 +26,11 @@ Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 
 ### Users
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| Users | Password | Tipo | Nivel | Link |
+| ----- | -------- | ---- | ----- | ---- |
+|       |          |      |       |      |
+|       |          |      |       |      |
+|       |          |      |       |      |
 
 
 ### Automation / Crons
