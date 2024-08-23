@@ -128,6 +128,9 @@ en nuestra enumeración con gobuster encontramos tres directorios los cuales nos
 ![[Pasted image 20240822210221.png]]
 
 ### nuclei
+realizando un escaneo con nuclei podemos conseguir una CVE en este caso es la CVE-2024-27956 la cual esta albergada en un plugin de 
+![[Pasted image 20240822223658.png]]
+
 
 ### Vulnerabilidades
 
