@@ -202,5 +202,6 @@ antes de activar el plugin es importante establecer nuestra escucha por el puert
 ![[Pasted image 20240823140404.png]]
 
 `Activate Plugin`
-una ves hecho todo esto solo nos queda 
+una ves hecho todo esto solo nos queda activar el plugin
 ![[Pasted image 20240823134328.png]]
+
