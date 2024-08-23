@@ -19,6 +19,14 @@ User: `<md5>`
 
 Root: `<md5>`
 
+### Automation / Crons
+
+### Firewall Rules
+
+### Docker
+
+
+
 # Enumeration
 
 [](https://github.com/hackthebox/writeup-templates/blob/master/machine/Machine_Name.md#enumeration)
