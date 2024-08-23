@@ -53,6 +53,14 @@ ExecStartPost=/usr/bin/docker-compose up -d
 WantedBy=default.target
 
 
+Este archivo define un servicio de `systemd` que, una vez activado, hará lo siguiente:
+
+1. Esperará 3 segundos.
+2. Detendrá todos los contenedores definidos en el archivo `docker-compose.yml` en `/root/docker-hfs/`.
+3. Esperará 5 segundos.
+4. Reiniciará los contenedores en segundo plano.
+
+El servicio es de tipo "oneshot", lo que significa que ejecutará estas acciones una vez y luego finalizará.
 ```
 
 3) Recargar la configuración de systemd
