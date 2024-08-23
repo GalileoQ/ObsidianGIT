@@ -275,4 +275,5 @@ efectivamente podemos ver la pagina web y también podemos ver la versión. entr
 |                |                                     |      |       |                                                         |
 |                |                                     |      |       |                                                         |
 
-### Explotaci
+### Explotación CVE-2024-39943
+para explotar esta vulnerabilidad vamos hacer uso del siguiente exploit [github](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)
