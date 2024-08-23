@@ -194,7 +194,9 @@ ahora con zip vamos a transformar nuestro archivo rshell.php a un archivo zip pa
 ![[Pasted image 20240823133503.png]]
 
 `Upload Plugin`
-seleccionamos `Browser` buscamos nuestro archivo `reverse-shell.zip` que se encuentra alojado en nuestra maquina y lo instalamos
-![[Pasted image 20240823133751.png]]
+seleccionamos `Browser` buscamos nuestro archivo `rshell.zip` que se encuentra alojado en nuestra maquina y lo instalamos
+![[Pasted image 20240823140110.png]]
 
+`Activate Plugin`
+en esta parta es importante resaltar que debemos activar el p
 ![[Pasted image 20240823134328.png]]
