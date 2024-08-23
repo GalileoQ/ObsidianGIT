@@ -210,5 +210,12 @@ de esta manera logramos nuestra primera intrusión en la maquina
 ![[Pasted image 20240823140638.png]]
 
 ### Enumeración del contenedor
-en este punto debemos enumerar las
+en este punto debemos enumerar las variables `env` para darnos cuenta que podemos obtener un usuario y su contraseña 
+
+```python
+Username: matrioshka
+
+Passw
+```
+
 ![[Pasted image 20240823140911.png]]
