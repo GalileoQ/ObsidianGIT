@@ -205,3 +205,7 @@ antes de activar el plugin es importante establecer nuestra escucha por el puert
 una ves hecho todo esto solo nos queda activar el plugin
 ![[Pasted image 20240823134328.png]]
 
+`www-data`
+de esta manera logramos nuestra primera intrusión en la maquina 
+![[Pasted image 20240823140638.png]]
+
