@@ -409,6 +409,11 @@ para la parte final realizamos una investigación en Google y encontramos [hackt
 ```python
 script /dev/null -c bash
 
+Ctrl + z
+
+stty raw -echo; fg
+
+reset xterm
 ```
 
 ![[Pasted image 20240823164530.png]]
