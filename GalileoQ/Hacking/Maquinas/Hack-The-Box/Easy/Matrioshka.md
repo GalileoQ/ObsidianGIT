@@ -276,5 +276,5 @@ efectivamente podemos ver la pagina web y también podemos ver la versión. entr
 |                |                                     |      |       |                                                         |
 
 ### Explotación CVE-2024-39943
-para explotar esta vulnerabilidad vamos hacer uso del siguiente exploit [github](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) podriamos usa
-![[Pasted image 20240823145911.png]]
+para explotar esta vulnerabilidad vamos hacer uso del siguiente exploit [github](https://github.com/truonghuuphuc/CVE-2024-39943-Poc) podríamos usar cualquiera de los dos poc tanto el `poc_user_gest.py`
+![[Pasted image 20240823150012.png]]
