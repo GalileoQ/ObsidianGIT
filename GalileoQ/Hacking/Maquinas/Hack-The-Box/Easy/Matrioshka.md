@@ -82,10 +82,16 @@ This command enables the service to run automatically at system startup.
 ### Ping
 
 ```python
+ping -c 1 10.0.2.24
+PING 10.0.2.24 (10.0.2.24) 56(84) bytes of data.
+64 bytes from 10.0.2.24: icmp_seq=1 ttl=64 time=0.524 ms
 
+--- 10.0.2.24 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.524/0.524/0.524/0.000 ms
 ```
 
-### TTL = 
+### TTL = 64 Linux
 
 ### nmap
 
