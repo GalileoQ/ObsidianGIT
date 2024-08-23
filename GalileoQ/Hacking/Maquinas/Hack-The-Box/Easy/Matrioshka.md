@@ -62,8 +62,12 @@ sudo systemctl daemon-reload
 Este comando recarga la configuración de `systemd` para que reconozca el nuevo archivo de servicio.
 ```
 
+4) Habilitar el servicio
+```python
+sudo systemctl enable docker-compose-restart.service
 
-
+Este comando habilita el servicio para que se ejecute automáticamente al iniciar el sistema.
+```
 ### Firewall Rules
 `NONE`
 
