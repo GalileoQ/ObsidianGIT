@@ -152,3 +152,7 @@ python3 exploit.py http://mamushka.htb/
 
 este exploit se aprovecha de la vulnerabilidad SQL Injection para crear un usuario y una password validas en el WordPress 
 ![[Pasted image 20240822225246.png]]
+
+### wp-login
+en este punto solo debemos navegar hasta el panel de login del wordpress 
+![[Pasted image 20240822225440.png]]
