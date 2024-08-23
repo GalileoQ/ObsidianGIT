@@ -237,4 +237,6 @@ ssh -L 9090:127.0.0.1:9090 matrioshka@10.0.2.24
 
 ![[Pasted image 20240823142717.png]]
 
-### Enumeración web localhost
+### Enumeración web (127.0.0.1:9090)
+efectivamente podemos ver la nueva 
+![[Pasted image 20240823142949.png]]
