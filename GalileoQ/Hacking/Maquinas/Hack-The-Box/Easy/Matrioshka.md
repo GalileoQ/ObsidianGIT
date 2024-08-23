@@ -186,3 +186,5 @@ ahora con zip vamos a transformar nuestro archivo reverse-shell.php a un archivo
 `Upload Plugin`
 seleccionamos `Browser` buscamos nuestro archivo `reverse-shell.zip` que se encuentra alojado en nuestra maquina y lo instalamos
 ![[Pasted image 20240823133751.png]]
+
+![[Pasted image 20240823134043.png]]
