@@ -311,5 +311,5 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ejecutamos el exploit y primero nos pide la URL la cual seria `127.0.0.1:9090` ya que la web esta corriendo de manera local en nuestra maquina por el puerto 9090
 ![[Pasted image 20240823150521.png]]
 
-para las cookies solo debemos ir al apartado de inspeccionar -
+para las cookies solo debemos ir al apartado de inspeccionar - storage y aqui podemos ver las cookies 
 ![[Pasted image 20240823150440.png]]
