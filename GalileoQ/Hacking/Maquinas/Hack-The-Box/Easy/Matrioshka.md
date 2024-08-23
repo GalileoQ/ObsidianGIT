@@ -225,5 +225,5 @@ establecemos una conexión vía ssh con las credenciales que hemos capturado y e
 ![[Pasted image 20240823141641.png]]
 
 ### Enumeración de la maquina
-haciendo uso de `netstat -atunp` podemos identificar dos puertos 
+haciendo uso de `netstat -atunp` podemos identificar dos puertos que estan corriendo en local `127.0.0.1:8080 - 127.0.0.1:9090` 
 ![[Pasted image 20240823142129.png]]
