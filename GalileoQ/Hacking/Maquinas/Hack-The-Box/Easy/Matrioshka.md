@@ -243,6 +243,12 @@ esta web se trata de un HFS (HTTP File Server) es un software de intercambio de 
 ![[Pasted image 20240823142949.png]]
 
 `Codigo Fuente`
-analizando un poco el código fuente podemos identificar el CMS en este caso `HFS` y la versión en este caso es `0.52.9` 
+analizando un poco el código fuente podemos identificar el CMS en este caso `HFS` y la versión en este caso es `0.52.9` debido a que este servicio carece de unas credenciales por defecto debemos realizar las pruebas comunes como 
+
+```python
+HFS = {
+    "VERSION": "0.52.9",
+```
+
 ![[Pasted image 20240823143824.png]]
 
