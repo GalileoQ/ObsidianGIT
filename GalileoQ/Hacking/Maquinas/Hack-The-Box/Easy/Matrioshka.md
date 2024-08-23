@@ -1,103 +1,100 @@
 #Easy #Linux #tecnicas 
-# [Machine Name]
 
-[](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#machine-name)
-
-## Introduction
+## Introducción
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#introduction)
 
-[Include why you made this box, what skills and vulnerabilities you wanted to highlight, etc]
+[Incluya por qué creó este cuadro, qué habilidades y vulnerabilidades desea resaltar, etc.]
 
-## Info for HTB
+## Información para HTB
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#info-for-htb)
 
-### Access
+### Acceso
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#access)
 
-Passwords:
+Contraseñas:
 
-|User|Password|
-|---|---|
-|user1|[pass phrase, not too hard to type]|
-|user2|[pass phrase, not too hard to type]|
-|root|[pass phrase, not too hard to type]|
+| Usuario  | Contraseña                                              |
+| -------- | ------------------------------------------------------- |
+| usuario1 | [frase de contraseña, no demasiado difícil de escribir] |
+| usuario2 | [frase de contraseña, no demasiado difícil de escribir] |
+| raíz     | [frase de contraseña, no demasiado difícil de escribir] |
 
-### Key Processes
+### Procesos clave
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#key-processes)
 
-[Describe processes that are running to provide basic services on the box, such as web server, FTP, etc. **For any custom binaries, include the source code (in a separate file unless very short)**. Also, include if any of the services or programs are running intentionally vulnerable versions.]
+[Describa los procesos que se están ejecutando para proporcionar servicios básicos en la caja, como servidor web, FTP, etc. **Para cualquier binario personalizado, incluya el código fuente (en un archivo separado a menos que sea muy corto)** . Además, incluya si alguno de los servicios o programas ejecuta versiones intencionalmente vulnerables.]
 
-### Automation / Crons
+### Automatización / Crons
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#automation--crons)
 
-[Describe any automation on the box:
+[Describa cualquier automatización en el cuadro:
 
-- What does it do?
-- Why? (necessary for exploit step, clean up, etc)
-- How does it do it? Provide source code (anything longer than a few lines in a separate attachment)
-- How does it run?
+- ¿Qué hace?
+- ¿Por qué? (necesario para el paso de explotación, limpieza, etc.)
+- ¿Cómo lo hace? Proporcione el código fuente (cualquier cosa más larga que unas pocas líneas en un archivo adjunto separado)
+- ¿Cómo funciona?
 
 ]
 
-### Firewall Rules
+### Reglas del cortafuegos
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#firewall-rules)
 
-[Describe any non-default firewall rules here]
+[Describa aquí cualquier regla de firewall no predeterminada]
 
-### Docker
+### Estibador
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#docker)
 
-[Describe how docker is used if at all. Attach Dockerfiles]
+[Describa cómo se usa Docker, si es que se usa. Adjuntar archivos Docker]
 
-### Other
+### Otro
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#other)
 
-[Include any other design decisions you made that the HTB staff should know about]
+[Incluya cualquier otra decisión de diseño que haya tomado y que el personal de HTB deba conocer]
 
-# Writeup
+# redacción
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#writeup)
 
 [
 
-Provide an in-depth explanation of the steps it takes to complete the box from start to finish. Divide your walkthrough into the below sections and sub-sections and include images to guide the user through the exploitation.
+Proporcione una explicación detallada de los pasos necesarios para completar el cuadro de principio a fin. Divida su tutorial en las siguientes secciones y subsecciones e incluya imágenes para guiar al usuario a través de la explotación.
 
-Please also include screenshots of any visual elements (like websites) that are part of the submission. Our review team is not only evaluating the technical path, but the realism and story of the box.
+Incluya también capturas de pantalla de cualquier elemento visual (como sitios web) que formen parte del envío. Nuestro equipo de revisión no sólo está evaluando la ruta técnica, sino también el realismo y la historia de la caja.
 
-Show **all** specific commands using markdown's triple-backticks (` ```bash `) such that the reader can copy/paste them, and also show the commands' output through images or markdown code blocks (` ``` `).
+Mostrar **todos** los comandos específicos usando las triples comillas invertidas de Markdown ( ` ```bash `) de modo que el lector pueda copiarlos/pegarlos, y también mostrar la salida de los comandos a través de imágenes o bloques de código de rebajas ( ` ``` `).
 
-**A reader should be able to solve the box entirely by copying and pasting the commands you provide.**
+**Un lector debería poder resolver el cuadro por completo copiando y pegando los comandos que usted proporciona.**
 
 ]
 
-# Enumeration
+# Enumeración
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#enumeration)
 
-[Describe the steps that describe the box's enumeration. Typically, this includes a sub-heading for the Nmap scan, HTTP/web enumeration, etc.]
+[Describa los pasos que describen la enumeración del cuadro. Normalmente, esto incluye un subtítulo para el escaneo de Nmap, enumeración HTTP/web, etc.]
 
-# Foothold
+# Asidero para el pie
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#foothold)
 
-[Describe the steps for obtaining an initial foothold (shell/command execution) on the target.]
+[Describa los pasos para obtener un punto de apoyo inicial (ejecución de shell/comando) en el objetivo.]
 
-# Lateral Movement (optional)
+# Movimiento lateral (opcional)
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#lateral-movement-optional)
 
-[Describe the steps for lateral movement. This can include Docker breakouts / escape-to-host, etc.]
+[Describa los pasos para el movimiento lateral. Esto puede incluir rupturas de Docker/escape al host, etc.]
 
-# Privilege Escalation
+# Escalada de privilegios
 
 [](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#privilege-escalation)
 
-[Describe the steps to obtaining root/administrator privileges on the box.]
+[Describa los pasos para obtener privilegios de root/administrador en el cuadro.]
