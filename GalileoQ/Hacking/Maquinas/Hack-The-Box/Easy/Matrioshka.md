@@ -26,12 +26,9 @@ Root: `<md5>`
 
 ### Automation / Crons
 
+
 ### Firewall Rules
 `NONE`
-
-### Docker
-
-
 
 # Enumeration
 
