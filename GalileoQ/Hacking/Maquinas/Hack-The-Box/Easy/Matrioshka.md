@@ -124,7 +124,7 @@ todos estos apartados aunque interesantes no nos proporcionan un camino ni tampo
 ![[Pasted image 20240822205146.png]]
 
 ### Fuzzing con gobuster
-en nuestra enumeracion con gobuster encontramos tres
+en nuestra enumeración con gobuster encontramos tres directorios los cuales nos indican que nos estamos enfrentando a una web diseñada en WordPress
 ![[Pasted image 20240822210221.png]]
 
 ### Vulnerabilidades
