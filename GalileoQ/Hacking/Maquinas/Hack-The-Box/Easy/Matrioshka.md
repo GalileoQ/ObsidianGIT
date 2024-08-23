@@ -169,10 +169,11 @@ para poder obtener una reverse shell en este punto debemos ir al apartado de `To
 en este paso debemos realizar tres acciones
 
 ```python
-1) seleccionar el plugin que queremos editar:
-####es super importante seleccionar un plugin que este activo en este caso usaremos el plugin `wp-automatic`
+1) seleccionar el plugin que queremos editar
 
-2)
+2) seleccionamos WordPress automatic Plugin
+
+3) agregamos nuestra carga util 
 ```
 
 ![[Pasted image 20240822230206.png]]
