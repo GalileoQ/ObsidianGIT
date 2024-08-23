@@ -2,7 +2,6 @@
 
 ## Introducción
 
-[](https://github.com/hackthebox/public-templates/blob/master/Machine-Writeup-Template.md#introduction)
 
 [Incluya por qué creó este cuadro, qué habilidades y vulnerabilidades desea resaltar, etc.]
 
