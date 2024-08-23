@@ -33,6 +33,7 @@ Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
 | www-data(container-1) | none               |
 | root(container-2)     | none               |
 | admin(Wordpress)      | Ilo^&a5aT5RO8Yt94P |
+| MYSQL_ROOT_PASSWORD:  | pasRoot123!#       |
 
 
 ### Automation / Crons
