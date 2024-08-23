@@ -215,7 +215,9 @@ en este punto debemos enumerar las variables `env` para darnos cuenta que podemo
 ```python
 Username: matrioshka
 
-Passw
+Password: Fukurokuju
 ```
 
 ![[Pasted image 20240823140911.png]]
+
+### ssh
