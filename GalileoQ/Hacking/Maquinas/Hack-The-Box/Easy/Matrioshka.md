@@ -143,4 +143,5 @@ podemos verificar esto usando una wordlist de wordpress actualizada que podemos 
 |                |                                                                    |      |       |                                                         |
 |                |                                                                    |      |       |                                                         |
 
-### explotación De La cve
+### explotación De La CVE
+para la explotación de esta CVE usaremos el siguiente repositorio [github](https://github.com/diego-tella/CVE-2024-27956-RCE) 
