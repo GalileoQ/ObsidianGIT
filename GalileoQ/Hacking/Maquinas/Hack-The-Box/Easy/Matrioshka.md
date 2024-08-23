@@ -242,3 +242,6 @@ efectivamente podemos ver la nueva web.
 esta web se trata de un HFS (HTTP File Server) es un software de intercambio de archivos que le permite enviar y recibir archivos
 ![[Pasted image 20240823142949.png]]
 
+`Codigo Fuente`
+analizando un poco el codigo fuente podemos identificar el CMS en este caso HFS y la version
+![[Pasted image 20240823143824.png]]
