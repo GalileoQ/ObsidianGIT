@@ -390,7 +390,7 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 
 
 ### reverse shell
-ejecutamos el script siguiendo los pasos que nos proporcionan en el repositorio de github y obtenemos una reverse shell. en este caso como el usuario `root`
+ejecutamos el script siguiendo los pasos que nos proporcionan en el repositorio de github y obtenemos una reverse shell. en este caso como el usuario `root` bastaria con ejecutar el comando `hostname` para darnos cuenta que no estamos en la maquina principal como root asi que esto es otro contenedor
 ![[Pasted image 20240823162631.png]]
 
 ### Enumeración del Docker
@@ -400,5 +400,5 @@ para enumerar el Docker usaremos algunos comandos básicos para vulnerabilidades
 find / -name docker.sock 2>/dev/null
 ```
 
-en esta enumeración encontramos que la ruta /run/docker.sock forma parte
+en esta enumeración encontramos que la ruta /run/docker.sock forma parte del contenedor. e
 ![[Pasted image 20240823163548.png]]
