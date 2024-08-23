@@ -419,5 +419,5 @@ reset xterm
 ![[Pasted image 20240823164530.png]]
 
 ### # Docker Breakout
-utilizando esta técnica podemos hacer un `` 
+utilizando esta técnica podemos hacer un `Docker Breakout` y de esta manera escapar del contenedor y finalmente estamos en la maquina host
 ![[Pasted image 20240823165444.png]]
