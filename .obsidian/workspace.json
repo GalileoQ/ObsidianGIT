@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Shell/OneLiners.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md"
               }
             }
           }
@@ -159,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f8591b072a84ca",
+  "active": "4efa010e22f24653",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240822231201.png",
+    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240822230206.png",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240822225717.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240822225549.png",

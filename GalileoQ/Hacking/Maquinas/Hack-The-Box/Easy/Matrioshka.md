@@ -171,9 +171,9 @@ en este paso debemos realizar tres acciones
 ```python
 1) seleccionar el plugin que queremos editar
 
-2) seleccionamos WordPress automatic Plugin
+2) agregar nuestra reverse shell al plugin que queremos editar
 
-3) agregamos nuestra carga util 
+3) Update File
 ```
 
-![[Pasted image 20240822230206.png]]
+![[Pasted image 20240822231201.png]]
