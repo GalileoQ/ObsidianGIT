@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md"
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md"
               }
             }
           }
@@ -175,6 +175,10 @@
   },
   "active": "e8edac3684452b1b",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+    "GalileoQ/Hacking/Entorno/Instalar bat.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
@@ -210,10 +214,6 @@
     "Excalidraw/Docker.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
-    "GalileoQ/CPTS/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/XML External Entity Injection - XXE.md",
-    "GalileoQ/CPTS/Scanning Ports.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
