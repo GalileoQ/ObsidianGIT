@@ -11,26 +11,15 @@
             "id": "4103310c649bc4da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3014def2121bcf87",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Template/docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Template/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Template/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+                "file": "GalileoQ/Template/docker.md"
               }
             }
           }
@@ -158,9 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3014def2121bcf87",
+  "active": "4103310c649bc4da",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+    "GalileoQ/Template/docker.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
@@ -194,8 +185,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
