@@ -11,9 +11,11 @@
             "id": "4103310c649bc4da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "telnet",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md"
               }
             }
           }
@@ -146,13 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4103310c649bc4da",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Template/docker.md",
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
@@ -166,7 +170,6 @@
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
@@ -183,7 +186,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823160334.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823154544.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823151856.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
