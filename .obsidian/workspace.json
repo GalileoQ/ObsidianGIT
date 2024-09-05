@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md"
               }
             }
           }
@@ -149,7 +149,16 @@
   },
   "active": "a7752bd70fd8ca6a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Return.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/MonitorsThree.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Pov.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
@@ -166,15 +175,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-17 21.22.23.excalidraw.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/MonitorsThree.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
-    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
-    "GalileoQ/Hacking/Entorno/Instalar bat.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165701.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165444.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823164530.png",
