@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keepas",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md"
               }
             }
           }
@@ -150,6 +149,7 @@
   },
   "active": "a7752bd70fd8ca6a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
@@ -175,7 +175,6 @@
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
-    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165701.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165444.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823164530.png",
