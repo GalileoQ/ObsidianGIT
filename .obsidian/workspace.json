@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed97a9cc108f866e",
+        "id": "7d924c4c9dcbcf88",
         "type": "tabs",
         "children": [
           {
-            "id": "bb58e91f0bb28f87",
+            "id": "a7752bd70fd8ca6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "keepas",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/docker.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md"
               }
             }
           }
@@ -148,8 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb58e91f0bb28f87",
+  "active": "a7752bd70fd8ca6a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
+    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
@@ -157,7 +159,6 @@
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
@@ -175,7 +176,6 @@
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165701.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165444.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823164530.png",
