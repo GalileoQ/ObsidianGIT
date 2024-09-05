@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "a7752bd70fd8ca6a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Return.md",
@@ -168,13 +175,6 @@
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
-    "Excalidraw/Drawing 2024-08-12 16.03.24.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165701.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823165444.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240823164530.png",
