@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d924c4c9dcbcf88",
+        "id": "87c424c9f52b53df",
         "type": "tabs",
         "children": [
           {
-            "id": "a7752bd70fd8ca6a",
+            "id": "ebc225f2bbe50699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +140,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7752bd70fd8ca6a",
+  "active": "ebc225f2bbe50699",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
@@ -169,7 +163,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Pov.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
