@@ -300,6 +300,7 @@ comprimir el archivo.
 ```
 
 Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plugin` > `Install Now`
+Nota:`Despues de instalar el plugin debemos activarlo`
 ![[Pasted image 20240908010330.png]]
 
 
