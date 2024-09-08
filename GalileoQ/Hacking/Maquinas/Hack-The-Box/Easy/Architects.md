@@ -80,17 +80,17 @@ Además, observamos posibles usuarios:
 
 ![[Pasted image 20240907220514.png]]
 
-También encontraremos un apartado para subir  CV en formato pdf, en el cual probaremos a subir archivos maliciosos pero no tendremos ningún exito.
+También encontraremos un apartado para subir  CV en formato pdf, en el cual probaremos a subir archivos pdf maliciosos pero no tendremos ningún exito.
 
 http://architects.htb/work-with-us/
 
 ![[Pasted image 20240907220609.png]]
 
-Encontramos un formulario para podernos contactar con dicha organización.
+Encontramos un formulario para podernos contactar con la organización.
 
 http://architects.htb/contact/
 
-![[Pasted image 20240906202136.png]]
+![[Pasted image 20240907220811.png]]
 
 Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, este al parecer tiene la función de informar de quienes se contactaron con la organización.
 
