@@ -273,6 +273,7 @@ realizamos un escaneo con gobuster y encontramos el directorio `/loging`
 ![[Pasted image 20240908003513.png]]
 
 ![[Pasted image 20240908003702.png]]
+
 ### Getting a revershell
 
 Una vez que tenemos acceso tendremos que obtener una revershell, esto con ayuda de  [reverse-shell](https://sevenlayers.com/index.php/179-wordpress-plugin-reverse-shell). Para esto tendremos el siguiente script en `.php`. que modificaremos con nuestra dirección IP y puerto, luego comprimiéremos este archivo en un `.zip` para subir como plugin
