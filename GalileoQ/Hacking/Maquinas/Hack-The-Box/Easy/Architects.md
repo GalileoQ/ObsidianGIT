@@ -530,5 +530,5 @@ La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) a
 ![[Pasted image 20240908160423.png]]
 
 ### Enumeración del host HFS
-en la enumeración del host contamos que somos root principalmente y podemos darnos cuenta que el administrador ha olvidado enlazar 
+en la enumeración del host contamos que somos root principalmente y podemos darnos cuenta que el administrador ha olvidado enlazar el archivo `.bash_history` al `/dev/null` por lo que al ler 
 ![[Pasted image 20240908162114.png]]
