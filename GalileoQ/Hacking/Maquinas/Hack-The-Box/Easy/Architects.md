@@ -123,3 +123,18 @@ Haciendo uso de `nuclei` vamos a seguir investigando sobre el sitio web para ide
 ![[Pasted image 20240907223238.png]]
 
 Encontramos que el plugin que no esta actualizado tiene una vulnerabilidad y además que se puede enumerar usuarios validos.
+
+```python
+.
+.
+[CVE-2024-1698] [http] [critical] http://architects.htb/wp-json/notificationx/v1/analytics
+.
+.
+[wordpress-user-enum] [http] [info] http://architects.htb/?author=1 ["author/administrator"] 
+.
+.
+[wp-user-enum:usernames] [http] [low] http://architects.htb/wp-json/wp/v2/users/ ["administrator"]
+.
+.
+```
+
