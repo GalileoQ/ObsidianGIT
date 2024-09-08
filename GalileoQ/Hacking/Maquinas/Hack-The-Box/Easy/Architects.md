@@ -267,6 +267,4 @@ Passwd: g.thornecroft
 
 ### Getting a revershell
 
-Haciendo uso de las credenciales 
-
-Ingresaremos al panel de administración
+Haciendo uso de las credenciales Ingresaremos al panel de administración
