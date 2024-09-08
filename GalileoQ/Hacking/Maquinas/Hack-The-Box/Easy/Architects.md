@@ -423,5 +423,17 @@ Password: admin
 hemos iniciado correctamente en el servicio HFS y verificamos que la versión en uso es `0.52.9.`
 ![[Pasted image 20240908140728.png]]
 
-Investigando un poco sobre `HFS   0.52.9` encontraremos que esta versión es vulnerable y se puede ejecutar comandos.
+Investigando un poco sobre `HFS 0.52.9` encontraremos que esta versión es vulnerable y se puede ejecutar comandos.
 ![[Pasted image 20240908141012.png]]
+
+Para tener mas detalles puedes revisar el siguiente sitio web:
+
+- [https://cybersecuritynews.com/poc-exploit-http-file-server/](https://cybersecuritynews.com/poc-exploit-http-file-server/)
+
+#### CVE-2024-39943
+
+Procederemos a explotar la vulnerabilidad de HFS, el exploit que usaremos será el siguiente:
+
+- [https://github.com/truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)
+
+Este exploit es un RCE que en los parámetros necesita la ulr, cookie, ip, port.
