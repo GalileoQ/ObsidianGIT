@@ -74,11 +74,11 @@ ademas se tiene un dominio que se agregara al archivo host.
 
 En el sitio web encontramos el siguiente contenido:
 
-
+![[Pasted image 20240907220443.png]]
 
 Además, observamos posibles usuarios:
 
-![[Pasted image 20240906201836.png]]
+![[Pasted image 20240907220514.png]]
 
 También encontraremos un aparta para subir nuestro CV en formato pdf, en el cual también probaremos a subir archivos maliciosos pero no tendremos ningún exito.
 
