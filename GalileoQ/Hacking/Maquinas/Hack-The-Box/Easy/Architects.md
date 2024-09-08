@@ -119,3 +119,5 @@ Haciendo uso de `nuclei` vamos a seguir investigando sobre el sitio web para ide
 ```python
 ❯ nuclei --target http://architects.htb
 ```
+
+![[Pasted image 20240907223238.png]]
