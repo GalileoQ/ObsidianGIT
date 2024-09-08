@@ -485,3 +485,6 @@ vamos a ver el apartado de log para poder analizar la petición que hemos realiz
 el exploit esta utilizando una conexión de netcat para enviarnos una reverse shell. probablemente el host no tiene la herramienta netcat así que vamos a realizar una pequeña modificación 
 ![[Pasted image 20240908144528.png]]
 
+`exploit`
+identificamos la linea en nuestro codigo y realizamos un cambio para enviarnos una reverse shel
+![[Pasted image 20240908144851.png]]
