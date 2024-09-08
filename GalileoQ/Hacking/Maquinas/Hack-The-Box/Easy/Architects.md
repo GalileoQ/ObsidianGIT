@@ -300,8 +300,7 @@ comprimir el archivo.
 ```
 
 establecemos nuestra escucha con netcat
-
-
+![[Pasted image 20240908010823.png]]
 
 Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plugin` > `Install Now`
 ![[Pasted image 20240908010330.png]]
@@ -310,3 +309,4 @@ finalmente hacemos clic en `Activate Plugin`
 ![[Pasted image 20240823134328.png]]
 
 ![[Pasted image 20240908010457.png]]
+
