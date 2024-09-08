@@ -467,5 +467,6 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
 `Paso-1`
-recopilar las cookies 
+recopilar las cookies. en este caso el hfs esta arrastrando 2 cookies asi que vamos a copiar esto
 ![[Pasted image 20240908141951.png]]
+
