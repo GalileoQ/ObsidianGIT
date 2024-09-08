@@ -482,5 +482,6 @@ vamos a ver el apartado de log para poder analizar la petición que hemos realiz
 ![[Pasted image 20240908144410.png]]
 
 `base64 -d`
-el exploit esta utilizando una coneción de netca
+el exploit esta utilizando una conexión de netcat para enviarnos una reverse shell. probablemente el host no tiene la herramienta netcat así que vamos a realizar una pequeña modificación 
 ![[Pasted image 20240908144528.png]]
+
