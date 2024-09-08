@@ -410,5 +410,11 @@ analizando el código fuente de la web observamos el sombre de este servicio que
 ![[Pasted image 20240908135124.png]]
 
 `Login`
-en el botón de login nos salta un pop-up que nos pedirá las credenciales para logearnos en este servicio.
+en el botón de login nos salta un pop-up que nos pedirá las credenciales para logearnos en este servicio. haciendo pruebas rapidas de credenciales por defecto identificamos que las credenciales son 
+
+```python
+Username: admin
+Password: admin
+```
+
 ![[Pasted image 20240908140315.png]]
