@@ -353,6 +353,6 @@ Observamos que tenemos 3 hosts activos `172.18.0.1` , `172.18.0.2` , `172.18.0.4
 
 el host `172.18.0.1` tiene el puerto 22 y el 80 abiertos por lo que quiero pensar que este es el host principal.
 el host `172.18.0.2` tiene el puerto 3306 abierto. este host esta albergando la base de datos
-el host `172.18.0.4` tiene el puerto 80 abierto
+el host `172.18.0.4` tiene el puerto 80 abierto. este es el que nos interesa ya que los otros dos no se pueden explotar
 ![[Pasted image 20240908012806.png]]
 
