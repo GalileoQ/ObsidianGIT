@@ -140,11 +140,11 @@ Encontramos que el plugin que no esta actualizado tiene una vulnerabilidad y ade
 
 ### Vulnerabilidades
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                                     | Tipo                  | Nivel | Link |
-| -------------- | --------------------------------------------------------------- | --------------------- | ----- | ---- |
-| CVE-2024-1698  | Unauthenticated SQL Injection in NotificationX WordPress Plugin | SQL Injection (Blind) | 9.8   |      |
-|                |                                                                 |                       |       |      |
-|                |                                                                 |                       |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad                                     | Tipo                  | Nivel | Link                                                                                                                                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------- | --------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CVE-2024-1698  | Unauthenticated SQL Injection in NotificationX WordPress Plugin | SQL Injection (Blind) | 9.8   | [link](https://www.vicarius.io/vsociety/posts/decoding-the-unseen-threat-exploiting-cve-2024-1698-unauthenticated-sql-injection-in-notificationx-wordpress-plugin-from-basics-to-breach-a-comprehensive-guide-to-source-code-analysis-and-crafting-the-ultimate-exploit) |
+|                |                                                                 |                       |       |                                                                                                                                                                                                                                                                          |
+|                |                                                                 |                       |       |                                                                                                                                                                                                                                                                          |
 ### Enumeración de usuarios
 
 Teniendo en cuenta lo que se encontró anteriormente podremos enumerar los usuarios. en el numero 1 tenemos a `administrator`
