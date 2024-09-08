@@ -11,10 +11,9 @@ Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/1598457) - [b0y
 
 
 
-
 ### Difficulty:
 
-`easy`
+`MEDIUN`
 
 ### Flags:
 
