@@ -90,7 +90,7 @@ Encontramos un formulario para podernos contactar con la organización.
 
 http://architects.htb/contact/
 
-![[Pasted image 20240907220811.png]]
+
 
 Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, este al parecer tiene la función de informar de quienes se contactaron con la organización.
 
