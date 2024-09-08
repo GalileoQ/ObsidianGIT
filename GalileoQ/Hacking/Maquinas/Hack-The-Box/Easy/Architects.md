@@ -191,6 +191,18 @@ Para testear si el sitio web http://architects.htb es vulnerable replicaremos lo
 ❯ time curl http://architects.htb/wp-json/notificationx/v1/analytics -d 'nx_id=1337&type=clicks`=IF(SUBSTRING(version(),1,1)=5,SLEEP(10),null)-- -'
 ```
 
-obtenemos una respuesta `{"success":true}` esto nos indica que eef
+obtenemos una respuesta `{"success":true}` esto nos indica que efectivamente es vulnerable
 ![[Pasted image 20240907225602.png]]
 
+### Foothold
+---
+
+Ahora explotaremos la vulnerabilidad que encontramos del plugin de wordpress.
+
+### CVE-2024-1698
+
+Para poder explotar la vulnerabilidad podemos hacer uso del siguiente script:
+
+- [CVE-2024-1698 Exploit Script - Wordpress NotificationX <= 2.8.2 - SQL Injection](https://github.com/kamranhasan/CVE-2024-1698-Exploit)
+
+Observamos que la se tiene un `id` del usuario que se obtendrá su hash. Debemos recordar que teniamos 3 usuarios validos.
