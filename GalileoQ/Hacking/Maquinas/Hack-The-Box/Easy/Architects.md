@@ -265,6 +265,12 @@ Username: galileo
 Passwd: g.thornecroft
 ```
 
+
+### Fuzzing con gobuster
+
+![[Pasted image 20240908003202.png]]
+
+
 ### Getting a revershell
 
 Haciendo uso de las credenciales Ingresaremos al panel de administración
