@@ -351,4 +351,5 @@ Observamos que tenemos 3 hosts activos `172.18.0.1` , `172.18.0.2` , `172.18.0.4
 ./HostPortEnumerator.sh -P 172.18.0.4
 ```
 
+el host `172.18.0.1` tiene el puerto 22 y el 80 abiertos por lo que quiero pensar que este es el host principal
 ![[Pasted image 20240908012806.png]]
