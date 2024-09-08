@@ -386,7 +386,10 @@ Maquina atacante:
 Maquina cliente - 172.18.0.4 
 
 ```c
-./chisel client 192.168.226.5:8888 R:8001:172.18.0.3:80 
+./chisel client 10.2.2.19:8888 R:8001:172.18.0.3:80 
 ```
 
-Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0.3`
+Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0.4`
+
+![[Pasted image 20240908014059.png]]
+
