@@ -394,7 +394,7 @@ Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0
 ![[Pasted image 20240908014059.png]]
 
 `CV Directory`
-en este directorio podemos 
+en este directorio podemos ver que se estan cargandos los CV en formato PDF del apartado
 ![[Pasted image 20240908135209.png]]
 
 
