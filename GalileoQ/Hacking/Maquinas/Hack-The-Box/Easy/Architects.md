@@ -419,3 +419,5 @@ Password: admin
 
 ![[Pasted image 20240908140315.png]]
 
+`Options - Admin-panel`
+![[Pasted image 20240908140521.png]]
