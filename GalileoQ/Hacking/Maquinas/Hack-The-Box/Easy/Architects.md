@@ -140,7 +140,7 @@ Encontramos que el plugin que no esta actualizado tiene una vulnerabilidad y ade
 
 ### Enumeración de usuarios
 
-Teniendo en cuenta lo que se encontró anteriormente podremos enumerar los usuarios. en el numero 1 tenemos a `administra`
+Teniendo en cuenta lo que se encontró anteriormente podremos enumerar los usuarios. en el numero 1 tenemos a `administrator`
 
 http://architects.htb/?author=1 
 
@@ -158,3 +158,9 @@ Jessica Winslow
 ```
 
 Entonces encontraremos a tres usuario los cuales son:
+
+http://architects.htb/?author=2
+
+![[Pasted image 20240907224306.png]]
+
+http://architects.htb/?author=3
