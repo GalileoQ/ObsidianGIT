@@ -138,3 +138,11 @@ Encontramos que el plugin que no esta actualizado tiene una vulnerabilidad y ade
 .
 ```
 
+### Enumeración de usuarios
+
+Teniendo en cuenta lo que se encontró anteriormente podremos enumerar los usuarios.
+
+http://architects.htb/?author=1 
+
+![[Pasted image 20240907223951.png]]
+
