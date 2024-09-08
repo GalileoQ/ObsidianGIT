@@ -529,7 +529,9 @@ sshpass -p GtPs14tyUAcV -u galileo
 
 ![[Pasted image 20240908181549.png]]
 
-
+`HostPortEnumerator`
+para la enumeración del host vamos a utilizar el mismo script que usamos anteriormente. pero debido 
+![[Pasted image 20240908195249.png]]
 
 
 
