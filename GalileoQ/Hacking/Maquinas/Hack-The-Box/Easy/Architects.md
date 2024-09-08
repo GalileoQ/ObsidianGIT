@@ -299,4 +299,5 @@ comprimir el archivo.
   adding: revershell.php (deflated 28%)
 ```
 
-Ahora para subir el `.zip` iremos a `Plugins` y `Add New Pluging`
+Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plugin` > `install Now`
+![[Pasted image 20240908010330.png]]
