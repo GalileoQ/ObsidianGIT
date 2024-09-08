@@ -339,3 +339,4 @@ Ahora ejecutaremos el script:
 ./HostPortEnumerator.sh -H 172.18.0.1-254
 ```
 
+![[Pasted image 20240908012158.png]]
