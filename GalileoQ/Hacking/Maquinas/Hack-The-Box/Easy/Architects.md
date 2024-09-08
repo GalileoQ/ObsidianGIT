@@ -265,9 +265,8 @@ Username: galileo
 Passwd: g.thornecroft
 ```
 
-
 ### Fuzzing con gobuster
-realizamos un escaneo con gobuster y encontramos el directorio `/loging` lo cual es 
+realizamos un escaneo con gobuster y encontramos el directorio `/loging` 
 ![[Pasted image 20240908003202.png]]
 
 
