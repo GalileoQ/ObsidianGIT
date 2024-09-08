@@ -406,5 +406,5 @@ podemos ver que este reporte se ha generado a las 00:00 horas esto puede ser una
 ![[Pasted image 20240908135734.png]]
 
 `Enumeracion del sitio web`
-analizando el código fuente de la web observamos el sombre de este servicio que es una HFS (HTTP File Server) y tenemos también la versión. dejar este tipo de informacion al descubierto es potencialmente o
+analizando el código fuente de la web observamos el sombre de este servicio que es una HFS (HTTP File Server) y tenemos también la versión. dejar este tipo de información al descubierto es potencialmente peligroso ya que esto nos facilita la búsqueda de exploit en versiones vulnerables 
 ![[Pasted image 20240908135124.png]]
