@@ -146,3 +146,15 @@ http://architects.htb/?author=1
 
 ![[Pasted image 20240907223951.png]]
 
+También probaremos con los usuarios que encontramos en el sitio web 
+
+```python
+Carla Sommons
+Jose Milane
+Galileo Thornecroft
+Sophia Carter
+Ethan Brooks
+Jessica Winslow
+```
+
+Entonces encontraremos a tres usuario los cuales son:
