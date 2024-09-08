@@ -477,3 +477,5 @@ establecer la escucha con netcat
 ejecutar el exploit. en este caso parece que todo se ha ejecutado correctamente pero no hemos recibido nada así que vamos a analizar esto.
 ![[Pasted image 20240908144056.png]]
 
+### Log
+vamos a ver el apartado de log para poder ana
