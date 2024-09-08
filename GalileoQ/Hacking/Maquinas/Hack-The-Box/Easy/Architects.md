@@ -216,4 +216,5 @@ analizamos el exploit y primero debemos modificar la `URL` para que apunte a nue
 
 ![[Pasted image 20240907230828.png]]
 
+vamos a realizar una primera prueba para el `id=1` el cual ya sabemos que pertenece al usuario a
 ![[Pasted image 20240907233728.png]]
