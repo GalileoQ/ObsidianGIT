@@ -531,6 +531,8 @@ La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) a
 
 ### Enumeración del host HFS
 en la enumeración del host contamos que somos root principalmente y podemos darnos cuenta que el administrador ha olvidado enlazar el archivo `.bash_history` al `/dev/null` por lo que al leer el archivo podemos ver credenciales en texto plano sobre una conexión ssh
+
+sshpass -p GtPs14tyUAcV ssh galileo@172.30.0.12
 ![[Pasted image 20240908162114.png]]
 
 ### ssh
