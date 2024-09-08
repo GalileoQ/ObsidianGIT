@@ -530,7 +530,31 @@ sshpass -p GtPs14tyUAcV -u galileo
 ![[Pasted image 20240908181549.png]]
 
 `HostPortEnumerator`
-para la enumeración del host vamos a utilizar el mismo script que usamos anteriormente. pero debido a que esta maquina no tiene las herramientas comunes `curl` , `wget` , `netcat` `python` vamos a utilizar una función que nos permitirá realizar esto
+para la enumeración del host vamos a utilizar el mismo script que usamos anteriormente. pero debido a que esta maquina no tiene las herramientas comunes `curl` , `wget` , `netcat` `python` vamos a utilizar una función que nos permitirá imitar la función de `curl` 
+
+
+`
+```python
+function __curl() {
+  read -r proto server path <<<"$(printf '%s' "${1//// }")"
+  if [ "$proto" != "http:" ]; then
+    printf >&2 "sorry, %s supports only http\n" "${FUNCNAME[0]}"
+    return 1
+  fi
+  DOC=/${path// //}
+  HOST=${server//:*}
+  PORT=${server//*:}
+  [ "${HOST}" = "${PORT}" ] && PORT=80
+
+  exec 3<>"/dev/tcp/${HOST}/$PORT"
+  printf 'GET %s HTTP/1.0\r\nHost: %s\r\n\r\n' "${DOC}" "${HOST}" >&3
+  (while read -r line; do
+   [ "$line" = $'\r' ] && break
+  done && cat) <&3
+  exec 3>&-
+}
+```
+
 
 ![[Pasted image 20240908195249.png]]
 
