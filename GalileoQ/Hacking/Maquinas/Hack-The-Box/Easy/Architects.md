@@ -269,6 +269,8 @@ Passwd: g.thornecroft
 realizamos un escaneo con gobuster y encontramos el directorio `/loging` 
 ![[Pasted image 20240908003202.png]]
 
+`login`
+![[Pasted image 20240908003513.png]]
 
 ### Getting a revershell
 
