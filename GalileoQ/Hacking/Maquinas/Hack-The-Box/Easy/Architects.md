@@ -420,4 +420,6 @@ Password: admin
 ![[Pasted image 20240908140315.png]]
 
 `Options - Admin-panel`
+en el apartado de opciones tenemos el panel de administrador.
 ![[Pasted image 20240908140521.png]]
+
