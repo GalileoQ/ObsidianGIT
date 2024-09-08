@@ -478,4 +478,6 @@ ejecutar el exploit. en este caso parece que todo se ha ejecutado correctamente 
 ![[Pasted image 20240908144056.png]]
 
 ### Log
-vamos a ver el apartado de log para poder ana
+vamos a ver el apartado de log para poder analizar la petición que hemos realizado. esta peticion va encodea
+![[Pasted image 20240908144410.png]]
+
