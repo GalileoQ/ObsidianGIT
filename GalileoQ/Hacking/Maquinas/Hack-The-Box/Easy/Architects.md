@@ -70,3 +70,42 @@ ademas se tiene un dominio que se agregara al archivo host.
 192.168.226.10   architects.htb
 ```
 
+### Web Site
+
+En el sitio web encontramos el siguiente contenido:
+
+
+
+Además, observamos posibles usuarios:
+
+![[Pasted image 20240906201836.png]]
+
+También encontraremos un aparta para subir nuestro CV en formato pdf, en el cual también probaremos a subir archivos maliciosos pero no tendremos ningún exito.
+
+http://architects.htb/work-with-us/
+
+![[Pasted image 20240906201907.png]]
+
+Encontramos un formulario para podernos contactar con dicha organización.
+
+http://architects.htb/contact/
+
+![[Pasted image 20240906202136.png]]
+
+Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, este al parecer tiene la función de informar de quienes se contactaron con la organización.
+
+![[Pasted image 20240906202219.png]]
+
+También podemos ver que es un cms de WordPress:
+
+![[Pasted image 20240906211830.png]]
+
+#### WPScan
+
+Haciendo uso de la herramienta de `wpscan` enumeraremos el sitio web. 
+
+```c
+❯ wpscan --url http://architects.htb/
+```
+
+Encontramos un plugin `notificationx` que no esta actualizado
