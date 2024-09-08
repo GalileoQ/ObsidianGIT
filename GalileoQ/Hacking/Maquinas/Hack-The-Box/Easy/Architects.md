@@ -534,3 +534,5 @@ en la enumeración del host contamos que somos root principalmente y podemos dar
 ![[Pasted image 20240908162114.png]]
 
 ### ssh
+
+![[Pasted image 20240908163828.png]]
