@@ -386,7 +386,7 @@ Maquina atacante:
 Maquina cliente - 172.18.0.4 
 
 ```python
-./chisel client 10.2.2.19:8888 R:8001:172.18.0.3:80 
+./chisel client 10.2.2.19:8888 R:8001:172.18.0.4:80 
 ```
 
 Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0.4`
