@@ -308,5 +308,6 @@ Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plug
 finalmente hacemos clic en `Activate Plugin`
 ![[Pasted image 20240823134328.png]]
 
-obtenemos conexión como el usuario `www-data` y con la pequeña enumeracion principal ya podemos darnos cuenta que 
+obtenemos conexión como el usuario `www-data` y con la pequeña enumeración principal ya podemos darnos cuenta que no estamos en la maquina host principal. estamos en otro host el cual a primera imprecisión parece ser un contenedor.
 ![[Pasted image 20240908011017.png]]
+
