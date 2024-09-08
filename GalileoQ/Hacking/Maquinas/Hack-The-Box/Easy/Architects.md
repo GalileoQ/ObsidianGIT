@@ -423,3 +423,5 @@ Password: admin
 hemos iniciado correctamente en el servicio HFS y verificamos que la versión en uso es `0.52.9.`
 ![[Pasted image 20240908140728.png]]
 
+Investigando un poco sobre `HFS   0.52.9` encontraremos que esta versión es vulnerable y se puede ejecutar comandos.
+![[Pasted image 20240908141012.png]]
