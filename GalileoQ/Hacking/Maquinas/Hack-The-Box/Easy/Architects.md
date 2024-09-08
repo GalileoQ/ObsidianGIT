@@ -80,7 +80,7 @@ Además, observamos posibles usuarios:
 
 ![[Pasted image 20240907220514.png]]
 
-También encontraremos un apartado para subir nuestro CV en formato pdf, en el cual también probaremos a subir archivos maliciosos pero no tendremos ningún exito.
+También encontraremos un apartado para subir  CV en formato pdf, en el cual probaremos a subir archivos maliciosos pero no tendremos ningún exito.
 
 http://architects.htb/work-with-us/
 
