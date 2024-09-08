@@ -402,7 +402,8 @@ en este directorio podemos ver un reporte en formato pdf
 ![[Pasted image 20240908135502.png]]
 
 `Server Status Report`
-podemos ver que este reporte se ha generado a las 00:00 horas 
-![[Pasted image 20240908135632.png]]
+podemos ver que este reporte se ha generado a las 00:00 horas esto puede ser una tarea importante a tener en cuenta
+![[Pasted image 20240908135734.png]]
 
+`Enumeracion del citio`
 ![[Pasted image 20240908135124.png]]
