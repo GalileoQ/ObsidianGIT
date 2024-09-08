@@ -231,7 +231,7 @@ jessica : $P$B6NUPpzHNGxY0uoKhJL5QOIEg2XAgC.
 
 ### Generar Wordlist
 
-Al tratar de crackear con el diccionario de `rockyou.txt` no obtendremos nada. Por lo que vam una wordlist personalizada con los nombres y apellidos que encontramos anteriormente.
+Al tratar de crackear con el diccionario de `rockyou.txt` no obtendremos nada. Por lo que vamos a generar una wordlist personalizada con los nombres y apellidos de todos los usuarios de la web
 
 ```python
 ❯ cat user_list.txt
