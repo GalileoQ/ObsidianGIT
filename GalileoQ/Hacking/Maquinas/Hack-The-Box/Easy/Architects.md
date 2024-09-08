@@ -470,3 +470,9 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 recopilar las cookies. en este caso el hfs esta arrastrando 2 cookies asi que vamos a copiar esto
 ![[Pasted image 20240908141951.png]]
 
+`paso-2`
+establecer la escucha con netcat
+
+`paso-3`
+ejecutar el exploit
+![[Pasted image 20240908144056.png]]
