@@ -246,11 +246,13 @@ Jessica Winslow
 Para generar la wordlist podemos hacer uso de la herramienta [username-anarchy](https://github.com/urbanadventurer/username-anarchy)
 
 ```python
-❯ ./username-anarchy -i users_list.txt > userWordlist.txt
+❯ ./username-anarchy -i user_list.txt > userWordlist.txt
 ```
 
 Una vez generada podemos crackear con `John The Ripper`
 
 
-```c
+```python
 ❯ john --wordlist=userWordlist.txt users_hash.txt
+```
+
