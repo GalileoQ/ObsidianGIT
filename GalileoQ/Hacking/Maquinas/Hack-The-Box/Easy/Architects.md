@@ -258,7 +258,7 @@ Una vez generada podemos crackear con `John The Ripper`
 
 ![[Pasted image 20240908002234.png]]
 
-Entonces la contraseña para el usuario `galileo` es `g.thornecroft`
+Entonces la contraseña `galileo` es `g.thornecroft`
 
 ### Getting a revershell
 
