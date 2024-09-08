@@ -184,7 +184,7 @@ Buscando información acerca del plugin y la vulnerabilidad que nos reporto la h
 
 ![[Pasted image 20240907224815.png]]
 
-En el siguiente sitio web encontraremos [ Exploiting CVE-2024-1698 - Unauthenticated SQL Injection in NotificationX WordPress Plugin](==https://www.vicarius.io/vsociety/posts/decoding-the-unseen-threat-exploiting-cve-2024-1698-unauthenticated-sql-injection-in-notificationx-wordpress-plugin-from-basics-to-breach-a-comprehensive-guide-to-source-code-analysis-and-crafting-the-ultimate-exploit==) mas información de como se explota y todos los detalles de la vulnerabilidad.
+En el siguiente sitio web encontraremos [ Exploiting CVE-2024-1698 - Unauthenticated SQL Injection in NotificationX WordPress Plugin](https://www.vicarius.io/vsociety/posts/decoding-the-unseen-threat-exploiting-cve-2024-1698-unauthenticated-sql-injection-in-notificationx-wordpress-plugin-from-basics-to-breach-a-comprehensive-guide-to-source-code-analysis-and-crafting-the-ultimate-exploit==) mas información de como se explota y todos los detalles de la vulnerabilidad.
 
 Esta vulnerabilidad permite realizar una sql-injection que se puede usar para extraer credenciales de los usuario del sitio web
 
