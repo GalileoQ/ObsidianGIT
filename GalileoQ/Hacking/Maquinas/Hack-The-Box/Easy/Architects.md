@@ -252,9 +252,20 @@ Para generar la wordlist podemos hacer uso de la herramienta [username-anarchy](
 
 Una vez generada podemos crackear con `John The Ripper`
 
-
 ```python
 ❯ john --wordlist=userWordlist.txt users_hash.txt
 ```
 
 ![[Pasted image 20240908002234.png]]
+
+Entonces la contraseña para el usuario `galileo` es `g.thornecroft`
+
+### Getting a revershell
+
+Haciendo uso de las credenciales que pudimos crackear que son las siguientes:
+
+```python
+galileo: g.thornecroft
+```
+
+Ingresaremos al panel de administración
