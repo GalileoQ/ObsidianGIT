@@ -233,7 +233,7 @@ jessica : $P$B6NUPpzHNGxY0uoKhJL5QOIEg2XAgC.
 
 Al tratar de crackear con el diccionario de `rockyou.txt` no obtendremos nada. Por lo que genere una wordlist personalizada con los nombres y apellidos que encontramos anteriormente.
 
-```c
+```python
 ❯ cat list_users.txt
 Carla Sommons
 Jose Milane
