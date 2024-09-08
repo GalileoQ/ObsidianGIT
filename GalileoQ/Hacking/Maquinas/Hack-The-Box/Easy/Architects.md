@@ -339,6 +339,9 @@ Ahora ejecutaremos el script:
 ./HostPortEnumerator.sh -H 172.18.0.1-254
 ```
 
-Observamos que tenemos dos hosts activos `172.18.0.2` y `172.18.0.3`. Ahora procederemos a enumerar los puertos de los hosts activos.
+Observamos que tenemos dos hosts activos `172.18.0.2` y `172.18.0.4`. Ahora procederemos a enumerar los puertos de los hosts activos.
 ![[Pasted image 20240908012158.png]]
 
+```python
+./HostPortEnumerator.sh -P 172.18.0.3
+```
