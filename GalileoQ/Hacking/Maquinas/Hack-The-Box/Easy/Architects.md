@@ -436,4 +436,5 @@ Procederemos a explotar la vulnerabilidad de HFS, el exploit que usaremos será 
 
 - [https://github.com/truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)
 
-Este exploit es un RCE que en los parámetros necesita la ulr, cookie, ip, port.
+Este exploit es un RCE que en los parámetros necesita URL, COOKIE, IP, PORT.
+
