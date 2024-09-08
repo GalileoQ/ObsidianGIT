@@ -1,22 +1,37 @@
 ![[banner.png]]
 
-### Machine Name: Matrioshka/Mamushka
+### Machine Name: Architects
+---
 
-`​DDth:22 Month:08 YYYY:2024`
+`​06 Month-09-2024`
 
 Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/1598457) - [b0ySie7e](https://app.hackthebox.com/users/417609) 
 
-### Description:
+## Description:
 
 
-
-
-### Difficulty:
-
-`MEDIUN`
+Difficulty:<font color="orange">Medium</font> 
 
 ### Flags:
 
-User: `c8129b0390452d8378535cff76e0dde8`
+User: `5bb745d22fc34ff77f601754fcf3cc3a`
+Root: `a6937a661804a28ea7e5e5d94958a09a`
 
-Root: `7f5d6dbbaff0a1fc6d2a5c9160362908`
+
+### Credentials
+
+| Users                     | Password             |
+| ------------------------- | -------------------- |
+| root (host architects)    | TDSDFwkl88!d48sTa    |
+| tommy (host architects)   | vkghTAEmph789129LBFF |
+| administrator (wordpress) | 6E*V4mNctSvE&4KINC   |
+| galileo (wordpress)       | g.thornecroft        |
+| jessica (wordpress)       | CaS#$FGSf45T         |
+| root (mysql db)           | Ilo&a5aT5RO8Yt94P    |
+| tomydb (mysql db user)    | ueM2790ZWFCFZBjvslMy |
+| (keppass nono user)       | galileo.thornecroft  |
+
+### Firewall Rules: `NONE`
+---
+# WriteUp
+## Enumeration 
