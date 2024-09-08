@@ -405,5 +405,6 @@ en este directorio podemos ver un reporte en formato pdf
 podemos ver que este reporte se ha generado a las 00:00 horas esto puede ser una tarea importante a tener en cuenta
 ![[Pasted image 20240908135734.png]]
 
-`Enumeracion del citio`
+`Enumeracion del sitio web`
+analizando el codigo fuente de la web observamos el sombre de este servicio que es una HFS ()
 ![[Pasted image 20240908135124.png]]
