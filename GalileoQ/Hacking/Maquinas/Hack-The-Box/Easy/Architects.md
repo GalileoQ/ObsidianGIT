@@ -219,4 +219,4 @@ analizamos el exploit y primero debemos modificar la `URL` para que apunte a nue
 vamos a realizar una primera prueba para el `id=1` el cual ya sabemos que pertenece al usuario `administrator` y obtenemos un `hash`
 ![[Pasted image 20240907233728.png]]
 
-
+realizamos una segunda prueba para el identificador `id`
