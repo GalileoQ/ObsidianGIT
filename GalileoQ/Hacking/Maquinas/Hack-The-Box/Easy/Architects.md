@@ -401,6 +401,8 @@ en este directorio podemos ver que se están cargando los CV en formato PDF del 
 en este directorio podemos ver un reporte en formato pdf
 ![[Pasted image 20240908135502.png]]
 
-``
+`Server Status Report`
+podemos ver que este reporte se ha generado a las 00:00 horas 
+![[Pasted image 20240908135632.png]]
 
 ![[Pasted image 20240908135124.png]]
