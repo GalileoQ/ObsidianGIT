@@ -393,3 +393,13 @@ Luego de realizar el port forwarding podremos ver el sitio web de host `172.18.0
 
 ![[Pasted image 20240908014059.png]]
 
+`CV Directory`
+en este directorio podemos 
+![[Pasted image 20240908135209.png]]
+
+
+
+
+
+
+![[Pasted image 20240908135124.png]]
