@@ -222,7 +222,7 @@ vamos a realizar una primera prueba para el `id=1` el cual ya sabemos que perten
 realizamos una segunda prueba para el identificador `id=2` y obtenemos efectivamente al usuario `galileo` con su `hash`
 ![[Pasted image 20240908000551.png]]
 
-finalmente guardaremos 
+finalmente obtenemos los usuarios y los hash. guardaremos estos datos 
 ```python
 administrator : $P$BaH1/QwhsSo2APObvpFwQvhZi/60Aq/
 galileo : $P$Bi0Troerz3SXtQPHhRXfs3pQ2Q18Qs1
