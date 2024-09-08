@@ -474,5 +474,6 @@ recopilar las cookies. en este caso el hfs esta arrastrando 2 cookies asi que va
 establecer la escucha con netcat
 
 `paso-3`
-ejecutar el exploit
+ejecutar el exploit. en este caso parece que todo se ha ejecutado correctamente pero no hemos recibido nada así que vamos a analizar esto.
 ![[Pasted image 20240908144056.png]]
+
