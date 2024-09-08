@@ -258,14 +258,15 @@ Una vez generada podemos crackear con `John The Ripper`
 
 ![[Pasted image 20240908002234.png]]
 
-Entonces la contraseña `galileo` es `g.thornecroft`
+finalmente obtenemos un par de credenciales 
+
+```python
+Username: galileo
+Passwd: g.thornecroft
+```
 
 ### Getting a revershell
 
-Haciendo uso de las credenciales que pudimos crackear que son las siguientes:
-
-```python
-galileo: g.thornecroft
-```
+Haciendo uso de las credenciales 
 
 Ingresaremos al panel de administración
