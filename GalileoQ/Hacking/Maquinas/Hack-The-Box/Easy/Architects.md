@@ -267,7 +267,7 @@ Passwd: g.thornecroft
 
 
 ### Fuzzing con gobuster
-
+realizamos un escaneo con gobuster y encontramos un directorio intener
 ![[Pasted image 20240908003202.png]]
 
 
