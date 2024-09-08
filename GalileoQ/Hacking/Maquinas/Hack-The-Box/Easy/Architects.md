@@ -37,7 +37,7 @@ Root: `a6937a661804a28ea7e5e5d94958a09a`
 ## Enumeration whith nmap
 
 `sudo nmap -p- -open -sCV --min-rate 5000 -n -Pn 10.2.2.17 -oN Scan`
-En el escaneo de nmap se logra identificar dos puertos abiertos. puerto 22/ssh y puerto 80/http ademas se tiene un dominio que se agregara lanuestro archivo host.
+En el escaneo de nmap se logra identificar dos puertos abiertos. puerto 22/ssh y puerto 80/http ademas se tiene un dominio que se agregara al archivo host.
 ```python
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-09-07 21:47 EDT
 Nmap scan report for 10.2.2.17
