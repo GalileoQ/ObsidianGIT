@@ -420,6 +420,6 @@ Password: admin
 ![[Pasted image 20240908140315.png]]
 
 ### HFS
-hemos iniciado correctamente en el servicio HFS y verificamos que la versión en uso es `0.52.`
+hemos iniciado correctamente en el servicio HFS y verificamos que la versión en uso es `0.52.9.`
 ![[Pasted image 20240908140728.png]]
 
