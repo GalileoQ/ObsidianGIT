@@ -168,5 +168,9 @@ http://architects.htb/?author=3
 ![[Pasted image 20240907224344.png]]
 
 http://architects.htb/?author=4
-para el numero 4 no tenemos resultado por lo cual podemos deducir que slo tenemos 3 usuarios 
+para el numero 4 no tenemos resultado por lo cual podemos deducir que solo tenemos 3 usuarios validos
 ![[Pasted image 20240907224436.png]]
+
+### Plugin NotificationX
+
+Buscando información acerca del plugin y la vulnerabilidad que nos reporto la herramienta `wpscan` y `nuclei` podremos encontrar lo siguiente:
