@@ -166,3 +166,7 @@ http://architects.htb/?author=2
 http://architects.htb/?author=3
 
 ![[Pasted image 20240907224344.png]]
+
+http://architects.htb/?author=4
+para el numero 4 no tenemos resultado por lo cual podemos deducir que slo tenemos 3 usuarios 
+![[Pasted image 20240907224436.png]]
