@@ -212,6 +212,6 @@ Para poder explotar la vulnerabilidad podemos hacer uso del siguiente script:
 
 - [CVE-2024-1698 Exploit Script - Wordpress NotificationX <= 2.8.2 - SQL Injection](https://github.com/kamranhasan/CVE-2024-1698-Exploit)
 
-analizamos el exploit y primero debemos modificar la `URL` para que ap
+analizamos el exploit y primero debemos modificar la `URL` para que apunte a nuestra web y también nos damos cuenta que se esta haciendo referencia al `id` del usuario el cual hemos enumerado antiriormente 
 
 ![[Pasted image 20240907230828.png]]
