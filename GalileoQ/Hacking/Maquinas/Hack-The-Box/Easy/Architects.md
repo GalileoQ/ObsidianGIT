@@ -103,10 +103,11 @@ La web esta usando el CMS de WordPress:
 
 #### WPScan
 
-Haciendo uso de la herramienta de `wpscan` enumeraremos el sitio web. 
+Haciendo uso de la herramienta `wpscan` para enumerar el sitio web. 
 
 ```python
 ❯ wpscan --url http://architects.htb/
 ```
 
 Encontramos un plugin `notificationx` que no esta actualizado
+![[Pasted image 20240907221628.png]]
