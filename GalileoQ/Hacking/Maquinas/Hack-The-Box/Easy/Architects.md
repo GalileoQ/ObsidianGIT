@@ -97,7 +97,7 @@ Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, est
 
 ![[Pasted image 20240907221206.png]]
 
-la webde WordPress:
+La web esta usando el CMS de WordPress:
 
 ![[Pasted image 20240907221343.png]]
 
@@ -105,7 +105,7 @@ la webde WordPress:
 
 Haciendo uso de la herramienta de `wpscan` enumeraremos el sitio web. 
 
-```c
+```python
 ❯ wpscan --url http://architects.htb/
 ```
 
