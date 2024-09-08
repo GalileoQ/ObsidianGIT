@@ -308,5 +308,5 @@ Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plug
 finalmente hacemos clic en `Activate Plugin`
 ![[Pasted image 20240823134328.png]]
 
-
-
+obtenemos conexión como el usuario `www-data` y con la pequeña enumeracion principal ya podemos darnos cuenta que 
+![[Pasted image 20240908011017.png]]
