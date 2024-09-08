@@ -522,7 +522,7 @@ ejecutamos el exploit y efectivamente esta ves obtenemos una reverse shell
 ![[Pasted image 20240908160423.png]]
 
 ### Enumeración del host HFS
-en la enumeración del host contamos que somos root principalmente y podemos darnos cuenta que el administrador ha olvidado enlazar el archivo `.bash_history` al `/dev/null` por lo que al leer el archivo podemos ver credenciales en texto plano sobre una conexión ssh
+en la enumeración del host contamos que somos root principalmente y podemos darnos cuenta que el administrador ha olvidado enlazar el archivo `.bash_history` al `/dev/null` por lo que al leer el archivo podemos ver credenciales en texto plano sobre una conexión ssh. ahora solo debemos enumerar el host 
 ```python
 sshpass -p GtPs14tyUAcV -u galileo
 ```
