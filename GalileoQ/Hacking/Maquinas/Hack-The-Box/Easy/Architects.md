@@ -308,5 +308,5 @@ Ahora para subir el `.zip` iremos a `Plugins` > `Add New Pluging` > `upload plug
 finalmente hacemos clic en `Activate Plugin`
 ![[Pasted image 20240823134328.png]]
 
-![[Pasted image 20240908010457.png]]
+
 
