@@ -174,3 +174,6 @@ para el numero 4 no tenemos resultado por lo cual podemos deducir que solo tenem
 ### Plugin NotificationX
 
 Buscando información acerca del plugin y la vulnerabilidad que nos reporto la herramienta `wpscan` y `nuclei` podremos encontrar lo siguiente:
+
+![[Pasted image 20240907224815.png]]
+
