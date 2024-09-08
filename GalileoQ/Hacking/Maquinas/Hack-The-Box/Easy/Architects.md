@@ -419,7 +419,7 @@ Password: admin
 
 ![[Pasted image 20240908140315.png]]
 
-`Options - Admin-panel`
-en el apartado de opciones tenemos el panel de administrador.
-![[Pasted image 20240908140521.png]]
+### HFS
+hemos iniciado correctamente en el servicio HFS y verificamos que la versión en uso es `0.52.`
+![[Pasted image 20240908140728.png]]
 
