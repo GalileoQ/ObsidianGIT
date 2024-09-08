@@ -478,6 +478,9 @@ ejecutar el exploit. en este caso parece que todo se ha ejecutado correctamente 
 ![[Pasted image 20240908144056.png]]
 
 ### Log
-vamos a ver el apartado de log para poder analizar la petición que hemos realizado. esta peticion va encodea
+vamos a ver el apartado de log para poder analizar la petición que hemos realizado. esta petición va encodeada en base64 así que vamos a decodearla
 ![[Pasted image 20240908144410.png]]
 
+`base64 -d`
+el exploit esta utilizando una coneción de netca
+![[Pasted image 20240908144528.png]]
