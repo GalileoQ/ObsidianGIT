@@ -93,7 +93,7 @@ http://architects.htb/contact/
 
 
 Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, este al parecer tiene la función de informar de quienes se contactaron con la organización.
-
+![[Pasted image 20240907220939.png]]
 ![[Pasted image 20240906202219.png]]
 
 También podemos ver que es un cms de WordPress:
