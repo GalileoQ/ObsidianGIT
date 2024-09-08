@@ -401,6 +401,6 @@ en este directorio podemos ver que se están cargando los CV en formato PDF del 
 en este directorio podemos ver un reporte en formato pdf
 ![[Pasted image 20240908135502.png]]
 
-
+``
 
 ![[Pasted image 20240908135124.png]]
