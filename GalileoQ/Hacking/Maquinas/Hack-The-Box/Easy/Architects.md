@@ -529,3 +529,6 @@ La idea es que conectes la entrada (`stdin`) y la salida (`stdout` y `stderr`) a
 
 ![[Pasted image 20240908160423.png]]
 
+### Enumeración del host HFS
+la
+![[Pasted image 20240908162114.png]]
