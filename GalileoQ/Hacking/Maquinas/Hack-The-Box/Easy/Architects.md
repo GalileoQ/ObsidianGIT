@@ -215,3 +215,5 @@ Para poder explotar la vulnerabilidad podemos hacer uso del siguiente script:
 analizamos el exploit y primero debemos modificar la `URL` para que apunte a nuestra web y también nos damos cuenta que se esta haciendo referencia al `id` del usuario el cual hemos enumerado anteriormente y obtuvimos 3 usuarios validos 
 
 ![[Pasted image 20240907230828.png]]
+
+![[Pasted image 20240907233728.png]]
