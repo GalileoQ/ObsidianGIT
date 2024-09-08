@@ -97,9 +97,9 @@ Al registrarnos podemos ver nuestros datos en una ventana de notificaciones, est
 
 ![[Pasted image 20240907221206.png]]
 
-También podemos ver que es un cms de WordPress:
+la webde WordPress:
 
-![[Pasted image 20240906211830.png]]
+![[Pasted image 20240907221343.png]]
 
 #### WPScan
 
