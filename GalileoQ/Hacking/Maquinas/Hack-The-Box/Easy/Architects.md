@@ -121,3 +121,5 @@ Haciendo uso de `nuclei` vamos a seguir investigando sobre el sitio web para ide
 ```
 
 ![[Pasted image 20240907223238.png]]
+
+Encontramos que el plugin que no esta actualizado tiene una vulnerabilidad y además que se puede enumerar usuarios validos.
