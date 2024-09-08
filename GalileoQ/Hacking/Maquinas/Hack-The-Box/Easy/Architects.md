@@ -111,3 +111,11 @@ Haciendo uso de la herramienta `wpscan` para enumerar el sitio web.
 
 Encontramos un plugin `notificationx` que no esta actualizado
 ![[Pasted image 20240907221628.png]]
+
+#### Nuclei
+
+Haciendo uso de `nuclei` vamos a seguir investigando sobre el sitio web para identificar otras vulnerabilidades
+
+```python
+❯ nuclei --target http://architects.htb
+```
