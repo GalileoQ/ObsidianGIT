@@ -567,7 +567,7 @@ Para ello debemos de descargarlo:
 ❯ tar -zxvf pingu_0.0.5_Linux_x86_64.tar.gz
 ```
 
-ahora solo debemos hacer una pequeña modificación en el script y agregar el binario pingu
+ahora solo debemos hacer una pequeña modificación en el script para llamar a nuestro binario `pingu`
 ![[Pasted image 20240908202356.png]]
 
 
