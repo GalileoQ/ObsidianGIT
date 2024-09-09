@@ -655,5 +655,8 @@ puttygen PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
 ```
 
 ### ssh
-entramos al host
+
 ![[Pasted image 20240908233825.png]]
+
+Enumerando el sistema nos encontramos que `tommy`  puede ejecutar un s
+![[Pasted image 20240908234934.png]]
