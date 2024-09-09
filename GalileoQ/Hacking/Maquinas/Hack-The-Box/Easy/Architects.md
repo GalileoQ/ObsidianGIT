@@ -585,7 +585,7 @@ Passwd: GtPs14tyUAcV
 ![[Pasted image 20240908163828.png]]
 
 `scp`
-encontramos un archivo `Passwords.kdbx` así que vamos a salir de la conexión ssh para poder copiar este archivo al host anterior ya que será mas fácil para luego enviarlo al primer host. donde esta la web principal para luego enviarlo a la maquina atacante. este proceso se puede automatizar usando `ligolo` o `socat`
+finalmente aqui podemos veencontramos un archivo `Passwords.kdbx` así que vamos a salir de la conexión ssh para poder copiar este archivo al host anterior ya que será mas fácil para luego enviarlo al primer host. donde esta la web principal para luego enviarlo a la maquina atacante. este proceso se puede automatizar usando `ligolo` o `socat`
 
 ```python
 scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
@@ -632,5 +632,5 @@ Haciendo uso de este este script y la wordlist que generamos anteriormente encon
 ![[Pasted image 20240908232139.png]]
 
 `KeepassDB`
-en esta base de datos de `keepass`
+en esta base de datos de `keepass` encontramos un montón de credenciales. 
 ![[Pasted image 20240908232310.png]]
