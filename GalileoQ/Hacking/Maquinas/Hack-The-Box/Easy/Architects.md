@@ -563,9 +563,18 @@ también vamos a necesitar el binario de `pingu` ya que la maquina no tiene `pin
 
 Para ello debemos de descargarlo:
 
-```c
+```python
 ❯ tar -zxvf pingu_0.0.5_Linux_x86_64.tar.gz
 ```
+
+ahora solo debemos hacer una pequeña modificación en el script y agregar el binario pingu
+![[Pasted image 20240908202356.png]]
+
+
+
+
+
+
 
 
 
