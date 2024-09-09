@@ -644,12 +644,13 @@ Investigando encontraremos como convertir la `PuTTY-User-Key-File-3` a una id_rs
 
 Instalamos `putty-tools`
 
-```c
+```python
 sudo apt-get install putty-tools
 ```
 
 Convertimos la id_rsa.
 
-```c
-puttygen id_rsa.ppk -O private-openssh -o id_rsa
+```python
+puttygen `PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
 ```
+
