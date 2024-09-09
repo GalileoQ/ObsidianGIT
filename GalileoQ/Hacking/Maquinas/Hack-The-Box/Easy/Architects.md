@@ -7,7 +7,7 @@
 
 Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/1598457) - [b0ySie7e](https://app.hackthebox.com/users/417609) 
 
-## Description:
+### Description:
 
 
 Difficulty:<font color="orange">Medium</font> 
@@ -34,7 +34,7 @@ Root: `a6937a661804a28ea7e5e5d94958a09a`
 ### Firewall Rules: `NONE`
 ---
 # WriteUp
-## Enumeration whith nmap
+### Enumeration whith nmap
 
 `sudo nmap -p- -open -sCV --min-rate 5000 -n -Pn 10.2.2.17 -oN Scan`
 En el escaneo de nmap se logra identificar dos puertos abiertos. puerto 22/ssh y puerto 80/http 
@@ -101,7 +101,7 @@ La web esta usando el CMS de WordPress:
 
 ![[Pasted image 20240907221343.png]]
 
-#### WPScan
+### WPScan
 
 Haciendo uso de la herramienta `wpscan` para enumerar el sitio web. 
 
@@ -112,7 +112,7 @@ Haciendo uso de la herramienta `wpscan` para enumerar el sitio web.
 Encontramos un plugin `notificationx` que no esta actualizado
 ![[Pasted image 20240907221628.png]]
 
-#### Nuclei
+### Nuclei
 
 Haciendo uso de `nuclei` vamos a seguir investigando sobre el sitio web para identificar otras vulnerabilidades
 
