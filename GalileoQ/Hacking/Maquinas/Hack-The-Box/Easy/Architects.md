@@ -664,3 +664,4 @@ Enumerando el sistema nos encontramos que `tommy` puede ejecutar un script llama
 ### host galileo
 volvemos al host de galileo para enumerar el directorio `script` que vimos anteriormente y encontramos el mismo script llamado `genPDF.sh` que tommy puede ejecutar. y galileo tiene permisos ALL
 ![[Pasted image 20240908235544.png]]
+
