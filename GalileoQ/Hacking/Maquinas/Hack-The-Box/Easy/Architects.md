@@ -585,3 +585,5 @@ Passwd: GtPs14tyUAcV
 ![[Pasted image 20240908163828.png]]
 
 `scp`
+encontramos un archivo Pass
+![[Pasted image 20240908204654.png]]
