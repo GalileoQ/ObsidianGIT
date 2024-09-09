@@ -605,3 +605,22 @@ P3: Ejecutamos proxychains wget http://172.18.0.2:8000/Passwords.kdbx en la maqu
 
 ![[Pasted image 20240908222500.png]]
 
+Para abrir el archivo de keepass podemos instalar `keepassxc` y abrir el archivo
+
+```c
+sudo apt install keepassxc
+keepassxc credentials.kdbx    
+```
+
+Al abrir encontramos que este esta protegido por una contraseña.
+
+
+Investigando un poco encontré como crackear versión 4 de keepass.
+
+- [https://github.com/r3nt0n/keepass4brute.git](https://github.com/r3nt0n/keepass4brute.git)
+
+Haciendo uso de este este script y la wordlist que generamos anteriormente encontraremos la contraseña.
+
+```python
+❯ ./keepass4brute.sh credentials.kdbx userWordlist.txt
+```
