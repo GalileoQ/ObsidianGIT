@@ -632,5 +632,5 @@ Haciendo uso de este este script y la wordlist que generamos anteriormente encon
 ![[Pasted image 20240908232139.png]]
 
 `KeepassDB`
-en esta base de datos de `keepass` encontramos un montón de credenciales. en particular la credencial de `tommy` se ve interesante ya que tiene la `PuTTY-User-Key-File-3` 
+en esta base de datos de `keepass` encontramos un montón de credenciales. en particular la credencial de `tommy` se ve interesante ya que tiene la `PuTTY-User-Key-File-3` en las notas y esto es un problema ya podríamos convertir esa clave a una id_rsa
 ![[Pasted image 20240908232310.png]]
