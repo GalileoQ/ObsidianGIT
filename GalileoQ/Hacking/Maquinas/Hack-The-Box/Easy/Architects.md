@@ -616,6 +616,9 @@ Al abrir encontramos que este esta protegido por una contraseña.
 ![[Pasted image 20240908231016.png]]
 
 `keepass2jhon`
+keepass2jhon no es capaz de crackear esto ya que no tiene soporte para la versión 4
+![[Pasted image 20240908231120.png]]
+
 Investigando un poco encontré como crackear versión 4 de keepass.
 
 - [https://github.com/r3nt0n/keepass4brute.git](https://github.com/r3nt0n/keepass4brute.git)
