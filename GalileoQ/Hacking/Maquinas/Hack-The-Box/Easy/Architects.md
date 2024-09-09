@@ -665,3 +665,92 @@ Enumerando el sistema nos encontramos que `tommy` puede ejecutar un script llama
 volvemos al host de galileo para enumerar el directorio `script` que vimos anteriormente y encontramos el mismo script llamado `genPDF.sh` que tommy puede ejecutar. y galileo tiene permisos ALL así que podemos hacer una modificación para intentar conseguir una reverse shell
 ![[Pasted image 20240908235544.png]]
 
+`genPDF.sh`
+![[Pasted image 20240909144549.png]]
+
+```python
+[*] Host Enumeration, Waiting
+ [✓]  172.18.0.1  Host active 
+ [✓]  172.18.0.2  Host active 
+ [✓]  172.18.0.3  Host active 
+ [✓]  172.18.0.4  Host active 
+^C
+
+ [*] Going out ...
+ root@04fb17b23045:/tmp/Enum# ./HostPortEnumerator.sh -H 172.30.0.1-255
+[*] Host Enumeration, Waiting
+ [✓]  172.30.0.1  Host active 
+ [✓]  172.30.0.10  Host active 
+ [✓]  172.30.0.12  Host active 
+^C
+
+ [*] Going out ...
+ root@04fb17b23045:/tmp/Enum# ssh galileo@172.30.0.1
+The authenticity of host '172.30.0.1 (172.30.0.1)' can't be established.
+ECDSA key fingerprint is SHA256:MPYI6xCVFIXP4Dcf9OMIuTlwO0xCzr0xBGNoYUYagRw.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '172.30.0.1' (ECDSA) to the list of known hosts.
+galileo@172.30.0.1's password: 
+Permission denied, please try again.
+galileo@172.30.0.1's password: 
+Permission denied, please try again.
+galileo@172.30.0.1's password: 
+galileo@172.30.0.1: Permission denied (publickey,password).
+root@04fb17b23045:/tmp/Enum# ssh galileo@172.30.0.12
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:7pobRSQbZIEy2/giMrZh1WESJziJYu0awbxh7O4axxU.
+  GNU nano 4.8                                                                               genPDF.sh                                                                                          
+        }
+        th { 
+            background-color: #007bff; 
+            color: white;
+        }
+        h1 { 
+            text-align: center; 
+        }
+        p { 
+            font-size: 14px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Server Status Report</h1>
+    <p>Generated on: <strong>$(date)</strong></p>
+    <table>
+        <thead>
+            <tr>
+                <th>Container ID</th>
+                <th>Name</th>
+                <th>CPU %</th>
+                <th>Memory Usage / Limit</th>
+                <th>Memory %</th>
+                <th>Net I/O</th>
+                <th>Block I/O</th>
+                <th>PIDs</th>
+            </tr>
+        </thead>
+        <tbody>
+EOF
+
+for container in $(/usr/bin/docker ps --format "{{.ID}}"); do
+    /usr/bin/docker stats --no-stream --format "<tr><td>{{.ID}}</td><td>{{.Name}}</td><td>{{.CPUPerc}}</td><td>{{.MemUsage}}</td><td>{{.MemPerc}}</td><td>{{.NetIO}}</td><td>{{.BlockIO}}</td><>
+done
+
+cat <<EOF >> $output_file
+        </tbody>
+    </table>
+</body>
+</html>
+EOF
+
+echo "Report generated: $output_file"
+
+/usr/bin/wkhtmltopdf $output_file $pdf_file
+echo "PDF generated: $pdf_file"
+```
