@@ -761,5 +761,5 @@ echo "PDF generated: $pdf_file"
 parece que este script es el encargado de generar el reporte diario del servidor. este reporte esta automatizado y posiblemente sea una tarea crontab. en este host podemos hacer cambios así que si esta tarea se esta ejecutando como root y el usuario tommy tiene permisos para ejecutarlo podríamos aprovechar este fallo lograr cambiar los permisos de la bash o enviarnos una reverse shell como root
 
 ### root
-desde el host principal con tommy vamos a ejecutar el script que hemos editado anteriormente desde el usuario galileo y obtenemos una reverse shell como root. podemos enumerar las tareas crontab y efectivamente vemos que es una tarea corntab que genera un reporte
+desde el host principal con tommy vamos a ejecutar el script que hemos editado anteriormente desde el usuario galileo y obtenemos una reverse shell como root. podemos enumerar las tareas crontab y efectivamente vemos que es una tarea crontab que genera un reporte sobre es estado del servidor todos los días a las 12:AM 
 ![[Pasted image 20240909150554.png]]
