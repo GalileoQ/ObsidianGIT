@@ -636,4 +636,5 @@ en esta base de datos de `keepass` encontramos un montón de credenciales. en pa
 ![[Pasted image 20240908232310.png]]
 
 `PuTTY-User-Key-File-3`
+copiamos esta PuTTY-key
 ![[Pasted image 20240908233104.png]]
