@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -147,6 +148,8 @@
   },
   "active": "ebc225f2bbe50699",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240909150554.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240909150250.png",
@@ -168,8 +171,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "Excalidraw/Drawing 2024-09-07 21.31.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
