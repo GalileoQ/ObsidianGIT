@@ -628,3 +628,6 @@ Haciendo uso de este este script y la wordlist que generamos anteriormente encon
 ```python
 ❯ ./keepass4brute.sh Passwords.kdbx userWordlist.txt
 ```
+
+![[Pasted image 20240908232139.png]]
+
