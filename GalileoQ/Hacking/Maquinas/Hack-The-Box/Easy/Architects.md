@@ -631,5 +631,6 @@ Haciendo uso de este este script y la wordlist que generamos anteriormente encon
 
 ![[Pasted image 20240908232139.png]]
 
-
+`KeepassDB`
+en esta base de datos de `keepass`
 ![[Pasted image 20240908232310.png]]
