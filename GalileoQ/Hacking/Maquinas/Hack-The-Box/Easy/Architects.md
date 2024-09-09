@@ -669,6 +669,8 @@ volvemos al host de galileo para enumerar el directorio `script` que vimos anter
 ![[Pasted image 20240909144549.png]]
 
 ```python
+172.30.0.10 172.18.0.4 
+root@04fb17b23045:/tmp/Enum# ./HostPortEnumerator.sh -H 172.18.0.1-255
 [*] Host Enumeration, Waiting
  [✓]  172.18.0.1  Host active 
  [✓]  172.18.0.2  Host active 
