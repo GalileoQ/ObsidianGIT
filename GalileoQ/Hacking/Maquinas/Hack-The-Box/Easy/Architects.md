@@ -607,7 +607,7 @@ P3: Ejecutamos proxychains wget http://172.18.0.2:8000/Passwords.kdbx en la maqu
 
 Para abrir el archivo de keepass podemos instalar `keepassxc` y abrir el archivo
 
-```c
+```python
 sudo apt install keepassxc
 keepassxc credentials.kdbx    
 ```
