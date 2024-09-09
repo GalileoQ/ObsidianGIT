@@ -638,3 +638,19 @@ en esta base de datos de `keepass` encontramos un montón de credenciales. en pa
 `PuTTY-User-Key-File-3`
 copiamos esta PuTTY-key
 ![[Pasted image 20240908233104.png]]
+
+Investigando encontraremos que la PuTTYcomo convertir la id_rsa.ppk a una id_rsa que podemos usar para contactarnos via ssh.
+
+- [https://superuser.com/questions/232362/how-to-convert-ppk-key-to-openssh-key-under-linux](https://superuser.com/questions/232362/how-to-convert-ppk-key-to-openssh-key-under-linux)
+
+Instalamos `putty-tools`
+
+```c
+sudo apt-get install putty-tools
+```
+
+Convertimos la id_rsa.
+
+```c
+puttygen id_rsa.ppk -O private-openssh -o id_rsa
+```
