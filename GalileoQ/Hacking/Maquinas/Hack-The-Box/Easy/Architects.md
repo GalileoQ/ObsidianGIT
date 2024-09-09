@@ -655,5 +655,5 @@ puttygen PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
 ```
 
 ### ssh
-
+entramos al host
 ![[Pasted image 20240908233825.png]]
