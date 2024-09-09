@@ -570,7 +570,9 @@ Para ello debemos de descargarlo:
 ahora solo debemos hacer una pequeña modificación en el script para llamar a nuestro binario `pingu`
 ![[Pasted image 20240908202356.png]]
 
-
+`HostPortEnumerator`
+haciendo una nueva enumeración logramos
+![[Pasted image 20240908203350.png]]
 
 
 
