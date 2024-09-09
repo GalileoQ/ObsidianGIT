@@ -583,3 +583,5 @@ Passwd: GtPs14tyUAcV
 ```
 
 ![[Pasted image 20240908163828.png]]
+
+`scp`
