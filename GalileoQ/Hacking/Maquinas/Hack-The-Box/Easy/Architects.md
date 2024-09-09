@@ -592,3 +592,7 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 ```
 
 ![[Pasted image 20240908204654.png]]
+
+`Host`
+
+![[Pasted image 20240908212344.png]]
