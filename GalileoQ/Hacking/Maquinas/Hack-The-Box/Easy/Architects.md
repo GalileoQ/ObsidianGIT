@@ -571,7 +571,7 @@ ahora solo debemos hacer una pequeña modificación en el script para llamar a n
 ![[Pasted image 20240908202356.png]]
 
 `HostPortEnumerator`
-haciendo una nueva enumeración logramos
+haciendo una nueva enumeración logramos identificar el host en este caso es `172.30.0.12` así que ahora que tenemos toda esta información intentaremos conectarnos por ssh 
 ![[Pasted image 20240908203350.png]]
 
 
