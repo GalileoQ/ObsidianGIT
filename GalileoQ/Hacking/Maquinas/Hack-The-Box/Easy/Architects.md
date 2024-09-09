@@ -662,5 +662,5 @@ Enumerando el sistema nos encontramos que `tommy` puede ejecutar un script llama
 ![[Pasted image 20240908234934.png]]
 
 ### host galileo
-volvemos al host de galileo para enumerar el directorio `script` que vimos anteriormente y encontramos el mismo script llamado `genPDF.sh`
+volvemos al host de galileo para enumerar el directorio `script` que vimos anteriormente y encontramos el mismo script llamado `genPDF.sh` que tomo puede ejecutar. 
 ![[Pasted image 20240908235544.png]]
