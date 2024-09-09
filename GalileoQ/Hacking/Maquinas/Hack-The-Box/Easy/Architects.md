@@ -613,7 +613,7 @@ keepassxc credentials.kdbx
 ```
 
 Al abrir encontramos que este esta protegido por una contraseña.
-
+![[Pasted image 20240908231016.png]]
 
 Investigando un poco encontré como crackear versión 4 de keepass.
 
