@@ -631,3 +631,5 @@ Haciendo uso de este este script y la wordlist que generamos anteriormente encon
 
 ![[Pasted image 20240908232139.png]]
 
+
+![[Pasted image 20240908232310.png]]
