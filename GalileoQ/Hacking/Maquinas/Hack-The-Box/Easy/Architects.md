@@ -593,5 +593,6 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 
 ![[Pasted image 20240908204654.png]]
 
-### Tunneling and fordward 
+### Tunneling and forward 
+
 ![[Pasted image 20240908222500.png]]
