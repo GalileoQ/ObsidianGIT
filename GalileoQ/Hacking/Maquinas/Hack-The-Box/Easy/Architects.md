@@ -9,6 +9,7 @@ Machine Author(s): [GalileoQ](https://app.hackthebox.com/profile/1598457) - [b0y
 
 ### Description:
 
+![[Pasted image 20240909190753.png]]
 
 Difficulty:<font color="orange">Medium</font> 
 
