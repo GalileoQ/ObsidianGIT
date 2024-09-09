@@ -609,7 +609,7 @@ Para abrir el archivo de keepass podemos instalar `keepassxc` y abrir el archivo
 
 ```python
 sudo apt install keepassxc
-keepassxc credentials.kdbx    
+keepassxc Passwords.kdbx    
 ```
 
 Al abrir encontramos que este esta protegido por una contraseña.
@@ -626,5 +626,5 @@ Investigando un poco encontré como crackear versión 4 de keepass.
 Haciendo uso de este este script y la wordlist que generamos anteriormente encontraremos la contraseña.
 
 ```python
-❯ ./keepass4brute.sh credentials.kdbx userWordlist.txt
+❯ ./keepass4brute.sh Passwords.kdbx userWordlist.txt
 ```
