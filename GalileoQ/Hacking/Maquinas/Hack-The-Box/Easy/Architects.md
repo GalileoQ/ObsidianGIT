@@ -577,7 +577,9 @@ haciendo una nueva enumeración logramos identificar el host en este caso es `17
 ### ssh
 
 ```python
-ssh galileo@
+Username: galileo
+
+Passwd: GtPs14tyUAcV
 ```
 
 ![[Pasted image 20240908163828.png]]
