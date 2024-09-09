@@ -557,7 +557,15 @@ function __curl() {
 ahora simplemente llamamos a la función `__curl` 
 ![[Pasted image 20240908195249.png]]
 
+también vamos a necesitar el binario de `pingu` ya que la maquina no tiene `ping`
 
+- [https://github.com/sheepla/pingu/releases](https://github.com/sheepla/pingu/releases)
+
+Para ello debemos de descargarlo:
+
+```c
+❯ tar -zxvf pingu_0.0.5_Linux_x86_64.tar.gz
+```
 
 
 
