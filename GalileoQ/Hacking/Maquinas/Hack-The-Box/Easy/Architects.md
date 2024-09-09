@@ -651,6 +651,9 @@ sudo apt-get install putty-tools
 Convertimos la id_rsa.
 
 ```python
-puttygen `PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
+puttygen PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
 ```
 
+### ssh
+
+![[Pasted image 20240908233825.png]]
