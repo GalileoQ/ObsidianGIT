@@ -585,5 +585,5 @@ Passwd: GtPs14tyUAcV
 ![[Pasted image 20240908163828.png]]
 
 `scp`
-encontramos un archivo Pass
+encontramos un archivo Passwords.kdbx asi que vamos a salir de la conexión ssh para poder copiar este archivo 
 ![[Pasted image 20240908204654.png]]
