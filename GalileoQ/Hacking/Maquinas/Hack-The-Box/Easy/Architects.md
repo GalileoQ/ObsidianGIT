@@ -754,3 +754,5 @@ echo "Report generated: $output_file"
 /usr/bin/wkhtmltopdf $output_file $pdf_file
 echo "PDF generated: $pdf_file"
 ```
+
+parece que este script es el encargado de generar el reporte diario del servidor. 
