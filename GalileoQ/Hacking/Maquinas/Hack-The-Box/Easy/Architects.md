@@ -585,7 +585,7 @@ Passwd: GtPs14tyUAcV
 ![[Pasted image 20240908163828.png]]
 
 `scp`
-encontramos un archivo Passwords.kdbx así que vamos a salir de la conexión ssh para poder copiar este archivo al host anterior ya que este tiene conectividad con la maquina atacante.
+encontramos un archivo Passwords.kdbx así que vamos a salir de la conexión ssh para poder copiar este archivo al host anterior ya que este tiene `python3` y podriamos enviar este archivo a nuestra maquina host para poder analizarlo.
 
 ```python
 scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
