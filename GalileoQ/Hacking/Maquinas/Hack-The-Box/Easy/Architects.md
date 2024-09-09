@@ -658,5 +658,5 @@ puttygen PuTTY-User-Key-File-3 -O private-openssh -o id_rsa
 
 ![[Pasted image 20240908233825.png]]
 
-Enumerando el sistema nos encontramos que `tommy` puede ejecutar un script llamado `genPDF.sh` 
+Enumerando el sistema nos encontramos que `tommy` puede ejecutar un script llamado `genPDF.sh` el cual esta en un directorio llamado `script` recordemos que en el host de galileo podiamos ver un directorio llamado `script `
 ![[Pasted image 20240908234934.png]]
