@@ -593,7 +593,5 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 
 ![[Pasted image 20240908204654.png]]
 
-`Host`
-hemos enviado el archivo `Passwords.kdbx` desde el host de galileo > host HFS > host www-data y finalmente de aquí podemos crear un servidor de python para poder descargarlo en nuestra maquina atacante
-![[Pasted image 20240908212344.png]]
 
+![[Pasted image 20240908222500.png]]
