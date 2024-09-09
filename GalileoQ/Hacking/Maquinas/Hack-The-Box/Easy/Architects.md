@@ -554,6 +554,7 @@ function __curl() {
 }
 ```
 
+ahora simplemente llamamos a la función `__curl` 
 ![[Pasted image 20240908195249.png]]
 
 
