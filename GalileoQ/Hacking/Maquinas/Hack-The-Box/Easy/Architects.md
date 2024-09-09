@@ -594,5 +594,5 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 ![[Pasted image 20240908204654.png]]
 
 `Host`
-
+hemos enviado el archivo `Passwords.kdbx` desde el host de galileo > host HFS > host www-da
 ![[Pasted image 20240908212344.png]]
