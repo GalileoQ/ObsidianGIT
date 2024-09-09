@@ -596,9 +596,9 @@ scp -r galileo@172.30.0.12:/home/galileo/Passwords.kdbx ./
 ### Tunneling and forward 
 
 ```python
-P1: vamos a crear un servidor en python en el host HFS para poder compartir el archivo `Passwords.kdbx`
+P1: Crear un servidor en python en el host HFS para poder compartir el archivo `Passwords.kdbx`
 
-p
+P2: 
 ```
 
 ![[Pasted image 20240908222500.png]]
