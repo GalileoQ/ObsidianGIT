@@ -755,4 +755,5 @@ echo "Report generated: $output_file"
 echo "PDF generated: $pdf_file"
 ```
 
-parece que este script es el encargado de generar el reporte diario del servidor. este reporte esta automatizado y posiblemente sea una tarea contab. en este host podemos hacer cambios asi que si esta tarea se esta ejecutando como root y el usuario tommy tiene permisos para ejecutarlo podriamos aprovechar este fallo lograr ca
+parece que este script es el encargado de generar el reporte diario del servidor. este reporte esta automatizado y posiblemente sea una tarea crontab. en este host podemos hacer cambios así que si esta tarea se esta ejecutando como root y el usuario tommy tiene permisos para ejecutarlo podríamos aprovechar este fallo lograr cambiar los permisos de la bash o enviarnos una reverse shell como root
+
