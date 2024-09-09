@@ -530,7 +530,7 @@ sshpass -p GtPs14tyUAcV -u galileo
 ![[Pasted image 20240908181549.png]]
 
 `HostPortEnumerator`
-para la enumeración del host vamos a utilizar el mismo script que usamos anteriormente. pero debido a que esta maquina no tiene las herramientas comunes `curl` , `wget` , `netcat` `python` vamos a utilizar una función que nos permitirá imitar la función de `curl` 
+para la enumeración del host vamos a utilizar el mismo script que usamos anteriormente. pero debido a que esta maquina no tiene las herramientas comunes `curl` , `wget` , `netcat`  vamos a utilizar una función que nos permitirá imitar la función de `curl` 
 
 `Función`
 ```python
