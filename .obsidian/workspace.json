@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f8c0e278db63c1b",
+            "id": "7d59f73cfe54fe59",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md"
               }
             }
           }
@@ -146,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f8c0e278db63c1b",
+  "active": "7d59f73cfe54fe59",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
