@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027965bac8c681cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md"
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
               }
             }
           }
@@ -148,8 +158,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d59f73cfe54fe59",
+  "active": "027965bac8c681cc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
@@ -186,7 +197,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
