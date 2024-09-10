@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbb7efc3340caede",
+            "id": "9f8c0e278db63c1b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbb7efc3340caede",
+  "active": "9f8c0e278db63c1b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
@@ -184,7 +185,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
