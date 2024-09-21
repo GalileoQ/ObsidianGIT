@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stty",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "bbb229a6a676968f",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
@@ -186,7 +187,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
