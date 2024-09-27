@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md"
+                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md"
               }
             }
           }
@@ -149,6 +150,7 @@
   },
   "active": "09fb3ac889d785bc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "Sin nombre",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
@@ -194,7 +196,6 @@
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs",
-    "Img",
     "Sin título.canvas"
   ]
 }
