@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ldap",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
               }
             }
           }
@@ -147,8 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "09fb3ac889d785bc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
@@ -177,16 +182,12 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240908233104.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240908232310.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "Excalidraw/Drawing 2024-09-07 21.31.30.excalidraw.md",
     "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
     "GalileoQ/CPTS/Pentesting-Process",
