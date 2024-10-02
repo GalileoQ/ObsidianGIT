@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "09fb3ac889d785bc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
@@ -186,7 +187,6 @@
     "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
     "Excalidraw/Drawing 2024-09-07 21.31.30.excalidraw.md",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
