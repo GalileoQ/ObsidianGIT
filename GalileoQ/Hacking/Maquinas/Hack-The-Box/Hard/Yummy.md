@@ -58,7 +58,7 @@ al interceptar la petición tenemos un `GET` que se esta realizando a `/reminder
 ![[Pasted image 20241007144434.png]]
 
 `BurpSuite`
-al hacer la primera peticón con el repiter obtenemos un `302 Found` ahora vamos hacer una petición a `/export/Yummy_reservation_20241007_183940.ics` y de esta manera obtenemos un token que podemos posteriormente analizar
+al hacer la primera peticón con el repiter obtenemos un `302 Found` pero podemos ver que conseguimos una cookie. vamos a guardar esto y ahora vamos hacer una petición a `/export/Yummy_reservation_20241007_183940.ics` pero agregamos la cookie a la solicitud
 ![[Pasted image 20241007150014.png]]
 
 
