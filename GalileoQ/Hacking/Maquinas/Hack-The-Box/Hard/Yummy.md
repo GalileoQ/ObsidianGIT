@@ -41,7 +41,8 @@ Nmap done: 1 IP address (1 host up) scanned in 27.04 seconds
 tenemos una web de restaurante donde podemos logearnos
 ![[Pasted image 20241007140518.png]]
 
-
+``
+![[Pasted image 20241007140721.png]]
 
 
 
