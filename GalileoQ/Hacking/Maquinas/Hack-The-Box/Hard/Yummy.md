@@ -44,7 +44,8 @@ tenemos una web de restaurante donde podemos logearnos
 `BOOK A TABLE`
 ![[Pasted image 20241007140721.png]]
 
-
+`Dashboard`
+en este punto podemos descargar `save Icalendar` para poder ver 
 ![[Pasted image 20241007141112.png]]
 
 
