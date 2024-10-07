@@ -52,8 +52,9 @@ en este punto podemos descargar `save Icalendar` que es un `ICS`
 al intentar descargar el archivo `save icalendar` podemos ver que se realiza una petición en `/remainder/21` pero esa petición va enlazada con otra petición que se hace al `/exportWymmy_reservation_20.....` 
 ![[Pasted image 20241007144434.png]]
 
-
-
+`BurpSuite`
+ahora vamos hacer una petición a `/export/Yummy_reservation_20241007_183940.ics` y de esta 
+![[Pasted image 20241007144737.png]]
 
 
 ### Vulnerabilidades
