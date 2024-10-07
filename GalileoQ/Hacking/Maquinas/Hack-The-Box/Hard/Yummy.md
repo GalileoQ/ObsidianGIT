@@ -48,7 +48,9 @@ tenemos una web de restaurante donde podemos logearnos
 en este punto podemos descargar `save Icalendar` que es un `ICS` 
 ![[Pasted image 20241007141112.png]]
 
-
+`burpsuite`
+al intentar descargar el a
+![[Pasted image 20241007144434.png]]
 
 
 
