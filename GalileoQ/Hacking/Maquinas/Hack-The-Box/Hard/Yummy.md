@@ -68,7 +68,9 @@ al hacer la primera peticón con el repiter obtenemos un `302 Found` pero podemo
 si analizamos esta cookie en la web 
 ![[Pasted image 20241007150702.png]]
 
-
+### BurpSuite
+vamos a realizar el paso anterior nuevamente y una ves tengamos la cookie vamos a realizar una petición al `..`
+![[Pasted image 20241007152439.png]]
 
 
 
