@@ -61,6 +61,16 @@ al interceptar la petición tenemos un `GET` que se esta realizando a `/reminder
 al hacer la primera peticón con el repiter obtenemos un `302 Found` pero podemos ver que conseguimos una cookie. vamos a guardar esto y ahora vamos hacer una petición a `/export/Yummy_reservation_20241007_183940.ics` pero agregamos la cookie a la solicitud
 ![[Pasted image 20241007150014.png]]
 
+`cookie`
+![[Pasted image 20241007150517.png]]
+
+
+
+
+
+
+
+
 
 ### Vulnerabilidades
 
