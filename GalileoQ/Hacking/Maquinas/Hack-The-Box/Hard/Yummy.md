@@ -64,7 +64,8 @@ al hacer la primera peticón con el repiter obtenemos un `302 Found` pero podemo
 `cookie`
 ![[Pasted image 20241007150517.png]]
 
-
+`http:`
+![[Pasted image 20241007150702.png]]
 
 
 
