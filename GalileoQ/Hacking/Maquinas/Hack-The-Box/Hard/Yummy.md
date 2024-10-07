@@ -38,8 +38,17 @@ Nmap done: 1 IP address (1 host up) scanned in 27.04 seconds
 ```
 
 ### Enumeración Puerto 80 (http)
-tenemos una web de restauran
+tenemos una web de restaurante donde podemos logearnos
 ![[Pasted image 20241007140518.png]]
+
+
+
+
+
+
+
+
+
 
 ### Vulnerabilidades
 
