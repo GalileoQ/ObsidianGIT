@@ -48,6 +48,11 @@ tenemos una web de restaurante donde podemos logearnos
 en este punto podemos descargar `save Icalendar` que es un `ICS` 
 ![[Pasted image 20241007141112.png]]
 
+
+### BurpSuite
+al interceptar la petición tenemos 
+![[Pasted image 20241007145758.png]]
+
 `burpsuite`
 al intentar descargar el archivo `save icalendar` podemos ver que se realiza una petición en `/remainder/21` pero esa petición va enlazada con otra petición que se hace al `/exportWymmy_reservation_20.....` 
 ![[Pasted image 20241007144434.png]]
