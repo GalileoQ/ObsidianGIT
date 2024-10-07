@@ -11,7 +11,7 @@ PING 10.10.11.36 (10.10.11.36) 56(84) bytes of data.
 rtt min/avg/max/mdev = 164.933/164.933/164.933/0.000 ms
 ```
 
-### TTL = 63 Maquina Lunux
+### TTL = 63 Linux
 
 ### nmap
 
