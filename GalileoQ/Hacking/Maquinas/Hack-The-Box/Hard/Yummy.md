@@ -50,11 +50,11 @@ en este punto podemos descargar `save Icalendar` que es un `ICS`
 
 
 ### BurpSuite
-al interceptar la petición tenemos 
+al interceptar la petición tenemos un `GET` que se esta realizando a `/reminder/21`
 ![[Pasted image 20241007145758.png]]
 
 `burpsuite`
-al intentar descargar el archivo `save icalendar` podemos ver que se realiza una petición en `/remainder/21` pero esa petición va enlazada con otra petición que se hace al `/exportWymmy_reservation_20.....` 
+`/remainder/21` esta petición va enlazada con otra petición que se hace al `/exportWymmy_reservation_20.....` 
 ![[Pasted image 20241007144434.png]]
 
 `BurpSuite`
