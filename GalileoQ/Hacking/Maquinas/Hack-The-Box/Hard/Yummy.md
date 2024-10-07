@@ -69,8 +69,9 @@ si analizamos esta cookie en la web
 ![[Pasted image 20241007150702.png]]
 
 ### BurpSuite
-vamos a realizar el paso anterior nuevamente y una ves tengamos la cookie vamos a realizar una petición al `..`
+vamos a realizar el paso anterior nuevamente y una ves tengamos la cookie vamos a realizar una petición al `../../../../etc/passwd`
 ![[Pasted image 20241007152439.png]]
+
 
 
 
