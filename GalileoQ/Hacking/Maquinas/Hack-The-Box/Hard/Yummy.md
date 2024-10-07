@@ -54,7 +54,7 @@ al intentar descargar el archivo `save icalendar` podemos ver que se realiza una
 
 `BurpSuite`
 ahora vamos hacer una petición a `/export/Yummy_reservation_20241007_183940.ics` y de esta manera obtenemos un token que podemos posteriormente analizar
-![[Pasted image 20241007144737.png]]
+
 
 
 ### Vulnerabilidades
