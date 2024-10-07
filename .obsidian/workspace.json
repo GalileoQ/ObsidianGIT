@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b104db2114f36b",
+        "id": "43cb2d6a9b987314",
         "type": "tabs",
         "children": [
           {
-            "id": "09fb3ac889d785bc",
+            "id": "4e90e5ca0c125089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md"
               }
             }
           }
@@ -148,8 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09fb3ac889d785bc",
+  "active": "4e90e5ca0c125089",
   "lastOpenFiles": [
+    "Yummy.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
@@ -184,9 +186,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Img/Pasted image 20240908232310.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
-    "GalileoQ/Hacking/Hacking Generico/Ataques de Deserialización.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
-    "Excalidraw/Drawing 2024-09-07 21.31.30.excalidraw.md",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
