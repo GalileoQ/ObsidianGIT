@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "4e90e5ca0c125089",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
@@ -169,7 +170,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007140518.png",
     "Yummy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
