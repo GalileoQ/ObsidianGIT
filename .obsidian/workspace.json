@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a03848fbcc0fdde2",
+        "id": "b95e6eb207a9dbc9",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ff07fe2013b85a",
+            "id": "a2e175adb52dc3dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/docker.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6ff07fe2013b85a",
+  "active": "a2e175adb52dc3dc",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Template/docker.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
