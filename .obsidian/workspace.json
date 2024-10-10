@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md"
               }
             }
           }
@@ -149,10 +150,10 @@
   },
   "active": "a2e175adb52dc3dc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
-    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
@@ -172,7 +173,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007141112.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007140721.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007140518.png",
     "Yummy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
