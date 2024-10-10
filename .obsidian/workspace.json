@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43cb2d6a9b987314",
+        "id": "a03848fbcc0fdde2",
         "type": "tabs",
         "children": [
           {
-            "id": "4e90e5ca0c125089",
+            "id": "d6ff07fe2013b85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Template/docker.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Template/docker.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md"
               }
             }
           }
@@ -148,12 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e90e5ca0c125089",
+  "active": "d6ff07fe2013b85a",
   "lastOpenFiles": [
+    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
-    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
