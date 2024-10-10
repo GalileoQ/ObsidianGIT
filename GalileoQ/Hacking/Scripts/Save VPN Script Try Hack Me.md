@@ -1,4 +1,5 @@
 
+![[Pasted image 20241009205807.png]]
 
 ```python
 #!/bin/bash

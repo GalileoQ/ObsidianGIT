@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
+                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md"
+                "file": "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md"
               }
             }
           }
@@ -150,6 +149,11 @@
   },
   "active": "a2e175adb52dc3dc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
+    "GalileoQ/Hacking/Scripts/Img",
+    "GalileoQ/Hacking/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
@@ -183,10 +187,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
-    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
@@ -195,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs",
     "Sin título.canvas"
   ]
 }
