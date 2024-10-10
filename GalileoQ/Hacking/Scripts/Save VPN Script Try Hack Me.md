@@ -1,7 +1,7 @@
 
 ![[Pasted image 20241009205807.png]]
 
-```python
+```bash
 #!/bin/bash
 
 # Códigos de color ANSI
