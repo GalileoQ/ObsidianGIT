@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md"
               }
             }
           }
@@ -149,12 +150,12 @@
   },
   "active": "4e90e5ca0c125089",
   "lastOpenFiles": [
-    "GalileoQ/Template/docker.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150702.png",
