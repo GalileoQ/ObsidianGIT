@@ -8,6 +8,13 @@ docker rm -f $(docker ps -a -q) && docker rmi -f $(docker images -q) && docker v
 ```
 
 ```python
+pnpm dev # iniciar el server
+
+pnpm build # crear el proyecto
+
+git add .
+
+git commit 
 
 
 git token: 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
