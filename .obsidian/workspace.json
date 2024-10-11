@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md"
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "a2e175adb52dc3dc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/TomGhost.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Wgel-CTF.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Simple-CTF.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ROOTME.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
@@ -162,7 +169,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150702.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150517.png",
@@ -180,12 +186,7 @@
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "Sin nombre",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Nueva carpeta",
