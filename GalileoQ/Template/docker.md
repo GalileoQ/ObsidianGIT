@@ -11,4 +11,8 @@ docker rm -f $(docker ps -a -q) && docker rmi -f $(docker images -q) && docker v
 
 
 git token: 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
+
+
+
+for file in *'Pasted image'*; do mv "$file" "${file//'Pasted image '/}"; done
 ```
