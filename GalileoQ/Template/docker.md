@@ -14,12 +14,13 @@ pnpm build # crear el proyecto
 
 git add .
 
-git commit "vN"
+git commit "v#"
 
+git push
 
 git token: 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
 
 
-
+para eliminar el `paste imagen` de las imagenes
 for file in *'Pasted image'*; do mv "$file" "${file//'Pasted image '/}"; done
 ```
