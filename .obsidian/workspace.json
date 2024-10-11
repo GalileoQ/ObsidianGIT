@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydra",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md"
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md"
               }
             }
           }
@@ -149,6 +150,15 @@
   },
   "active": "a2e175adb52dc3dc",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/6 - Hydra - Ataque de Fuerza Bruta TomCat.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/4 - Hydra - Ataque Fuerza Bruta Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/0 - Hydra - Ataque de Fuerza Bruta SSH.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Wgel-CTF.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
@@ -168,7 +178,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Yummy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150702.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150517.png",
@@ -178,14 +187,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144434.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007141112.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007140721.png",
-    "Yummy.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
-    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "Sin nombre",
     "GalileoQ/Hacking/Maquinas/Sin nombre",
     "GalileoQ/CPTS/cpts",
