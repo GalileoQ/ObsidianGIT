@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33631de1836d953c",
+        "id": "6b15834e6d1a8627",
         "type": "tabs",
         "children": [
           {
-            "id": "ac8e97794a33cc9f",
+            "id": "6edf2472001d88e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TTY",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md"
+              }
             }
           }
         ]
@@ -140,8 +149,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac8e97794a33cc9f",
+  "active": "6edf2472001d88e0",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Explotación SMB Resumen.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/BrooklynNiveNive.md",
@@ -162,12 +177,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Simple-CTF.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ROOTME.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Template/docker.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",

