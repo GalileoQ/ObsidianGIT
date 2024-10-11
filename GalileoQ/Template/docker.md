@@ -14,7 +14,7 @@ pnpm build # crear el proyecto
 
 git add .
 
-git commit 
+git commit "vN"
 
 
 git token: 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
