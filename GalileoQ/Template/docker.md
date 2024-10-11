@@ -6,3 +6,9 @@ docker rm -f $(docker ps -a -q) && docker rmi -f $(docker images -q) && docker v
 ```python
 !\[\[Pasted image ([0-9]+)\.png\]\]
 ```
+
+```python
+
+
+git token: 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
+```
