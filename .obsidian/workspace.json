@@ -11,8 +11,12 @@
             "id": "563a058be547d9ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Template/docker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GalileoQ/Template/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GalileoQ/Template/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GalileoQ/Template/docker.md"
+              }
             }
           }
         ]
@@ -141,7 +150,9 @@
   },
   "active": "563a058be547d9ea",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Git/Sin título.md",
     "GalileoQ/Template/docker.md",
+    "GalileoQ/Hacking/Git",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
@@ -166,7 +177,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Wgel-CTF.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
@@ -186,7 +196,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
     "Excalidraw/Pivoting.excalidraw",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Img",
     "Sin título.canvas"
   ]
 }
