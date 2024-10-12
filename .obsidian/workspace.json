@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8fb2f04ea6e97b5",
+        "id": "de4f7dc37eb169a4",
         "type": "tabs",
         "children": [
           {
-            "id": "247ce18ea45b8cb9",
+            "id": "26e9c793bfedd501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Aprende Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Aprende Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Aprende Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md"
+                "file": "GalileoQ/Hacking/Git/Aprende Git.md"
               }
             }
           }
@@ -147,10 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "247ce18ea45b8cb9",
+  "active": "26e9c793bfedd501",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Git/Aprende Git.md",
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+    "GalileoQ/Hacking/Git/Aprende Git.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",

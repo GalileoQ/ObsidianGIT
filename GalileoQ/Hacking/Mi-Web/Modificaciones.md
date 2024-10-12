@@ -8,6 +8,7 @@ bucle `for` para eliminar el espacio del nombre de las imagenes
 for file in *'Pasted image'*; do mv "$file" "${file//'Pasted image '/}"; done
 ```
 
+Creación del proyecto y publicación
 ```python
 pnpm dev # iniciar el server
 
