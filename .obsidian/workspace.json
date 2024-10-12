@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Sin título.md",
+                "file": "GalileoQ/Template/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Sin título.md",
+                "file": "GalileoQ/Template/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Sin título.md",
+                "file": "GalileoQ/Template/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Sin título.md"
+                "file": "GalileoQ/Template/docker.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "563a058be547d9ea",
   "lastOpenFiles": [
-    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Git/Sin título.md",
+    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Git",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
