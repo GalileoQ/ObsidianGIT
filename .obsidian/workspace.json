@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84246dcbe9a074e7",
+        "id": "22ce75a68d6ac83f",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3715c6f23a85cb",
+            "id": "563a058be547d9ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb3715c6f23a85cb",
+  "active": "563a058be547d9ea",
   "lastOpenFiles": [
     "GalileoQ/Template/docker.md",
     "GalileoQ/Template/Pentesting.md",

@@ -12,7 +12,7 @@ pnpm dev # iniciar el server
 
 pnpm build # crear el proyecto
 
-	git add .
+	git add punto
 
 	git commit "v#"
 
