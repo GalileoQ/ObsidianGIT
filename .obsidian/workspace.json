@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22ce75a68d6ac83f",
+        "id": "c8fb2f04ea6e97b5",
         "type": "tabs",
         "children": [
           {
-            "id": "563a058be547d9ea",
+            "id": "247ce18ea45b8cb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/Hacking/Git/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md"
+                "file": "GalileoQ/Hacking/Git/Sin título.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "563a058be547d9ea",
+  "active": "247ce18ea45b8cb9",
   "lastOpenFiles": [
-    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+    "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git/Sin título.md",
     "GalileoQ/Hacking/Git",

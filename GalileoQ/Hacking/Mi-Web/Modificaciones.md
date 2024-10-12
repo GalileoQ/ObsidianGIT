@@ -1,9 +1,9 @@
-modificar el parametro de 
+modificar el parámetro de las imágenes 
 ```python
 !\[\[Pasted image ([0-9]+)\.png\]\]
 ```
 
+bucle `for` para eliminar el espacio del nombre de las imagenes
 ```python
-para eliminar el `paste imagen` de las imagenes
 for file in *'Pasted image'*; do mv "$file" "${file//'Pasted image '/}"; done
 ```
