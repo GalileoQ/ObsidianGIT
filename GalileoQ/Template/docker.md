@@ -12,13 +12,13 @@ pnpm dev # iniciar el server
 
 pnpm build # crear el proyecto
 
-git add .
+	git add .
 
-git commit "v#"
+	git commit "v#"
 
-git push
+	git push
 
-git token: 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
+	git token: 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
 
 
 para eliminar el `paste imagen` de las imagenes
