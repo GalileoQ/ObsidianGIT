@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18eca390070f7155",
+        "id": "8422681b05721c16",
         "type": "tabs",
         "children": [
           {
-            "id": "e19718c71615cc18",
+            "id": "8d5ad2b007477b90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Aprende Git.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Aprende Git.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Git/Aprende Git.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "8d5ad2b007477b90",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
     "GalileoQ/Hacking/Git/Aprende Git.md",
