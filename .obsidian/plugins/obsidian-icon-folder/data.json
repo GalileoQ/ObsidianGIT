@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔀",
       "LiSquareStack",
       "🖥",
       "👨‍💻",
-      "🛠",
-      "⁉"
+      "🛠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "GalileoQ/Hacking": "🛠",
   "GalileoQ/Hacking/1-Tecnicas": "👨‍💻",
   "GalileoQ/Hacking/Entorno": "🖥",
-  "GalileoQ/Hacking/Escalada": "LiSquareStack"
+  "GalileoQ/Hacking/Escalada": "LiSquareStack",
+  "GalileoQ/Hacking/Escalada de Privilegios": "🔀"
 }
