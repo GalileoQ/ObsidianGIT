@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🎰",
+      "🛠",
+      "LiGift",
       "🔀",
-      "LiSquareStack",
-      "🖥",
-      "👨‍💻",
-      "🛠"
+      "LiSquareStack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,8 @@
   "GalileoQ/Hacking/1-Tecnicas": "👨‍💻",
   "GalileoQ/Hacking/Entorno": "🖥",
   "GalileoQ/Hacking/Escalada": "LiSquareStack",
-  "GalileoQ/Hacking/Escalada de Privilegios": "🔀"
+  "GalileoQ/Hacking/Escalada de Privilegios": "🔀",
+  "GalileoQ/Hacking/Git": "LiGift",
+  "GalileoQ/Hacking/Hacking Generico": "🛠",
+  "GalileoQ/Hacking/Maquinas": "🎰"
 }
