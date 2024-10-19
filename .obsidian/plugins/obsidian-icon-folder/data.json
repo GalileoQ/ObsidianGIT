@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👨‍💻",
+      "🛠",
       "⁉",
       "LiTerminal",
       "🖌"
@@ -33,5 +35,7 @@
   },
   "Excalidraw": "🖌",
   "GalileoQ": "LiTerminal",
-  "GalileoQ/CPTS": "⁉"
+  "GalileoQ/CPTS": "⁉",
+  "GalileoQ/Hacking": "🛠",
+  "GalileoQ/Hacking/1-Tecnicas": "👨‍💻"
 }
