@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📄",
       "🎰",
       "🛠",
       "LiGift",
-      "🔀",
-      "LiSquareStack"
+      "🔀"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "GalileoQ/Hacking/Escalada de Privilegios": "🔀",
   "GalileoQ/Hacking/Git": "LiGift",
   "GalileoQ/Hacking/Hacking Generico": "🛠",
-  "GalileoQ/Hacking/Maquinas": "🎰"
+  "GalileoQ/Hacking/Maquinas": "🎰",
+  "GalileoQ/Hacking/Mi-Web": "📄"
 }
