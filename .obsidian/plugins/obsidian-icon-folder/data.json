@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⁉",
+      "LiTerminal",
       "🖌"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +31,7 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Excalidraw": "🖌"
+  "Excalidraw": "🖌",
+  "GalileoQ": "LiTerminal",
+  "GalileoQ/CPTS": "⁉"
 }
