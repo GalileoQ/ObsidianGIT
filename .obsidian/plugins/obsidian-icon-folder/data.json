@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScriptEngine",
+      "LiMove",
+      "🏋",
       "📄",
-      "🎰",
-      "🛠",
-      "LiGift",
-      "🔀"
+      "🎰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,8 @@
   "GalileoQ/Hacking/Git": "LiGift",
   "GalileoQ/Hacking/Hacking Generico": "🛠",
   "GalileoQ/Hacking/Maquinas": "🎰",
-  "GalileoQ/Hacking/Mi-Web": "📄"
+  "GalileoQ/Hacking/Mi-Web": "📄",
+  "GalileoQ/Hacking/Persistencia": "🏋",
+  "GalileoQ/Hacking/Pivoting": "LiMove",
+  "GalileoQ/Hacking/Scripts": "LiScriptEngine"
 }
