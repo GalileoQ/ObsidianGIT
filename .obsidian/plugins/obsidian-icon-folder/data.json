@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖥",
       "👨‍💻",
       "🛠",
       "⁉",
-      "LiTerminal",
-      "🖌"
+      "LiTerminal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "GalileoQ": "LiTerminal",
   "GalileoQ/CPTS": "⁉",
   "GalileoQ/Hacking": "🛠",
-  "GalileoQ/Hacking/1-Tecnicas": "👨‍💻"
+  "GalileoQ/Hacking/1-Tecnicas": "👨‍💻",
+  "GalileoQ/Hacking/Entorno": "🖥"
 }
