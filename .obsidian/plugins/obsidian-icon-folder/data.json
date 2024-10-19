@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSuperscript",
       "LiScriptEngine",
       "LiMove",
       "🏋",
-      "📄",
-      "🎰"
+      "📄"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,5 @@
   "GalileoQ/Hacking/Mi-Web": "📄",
   "GalileoQ/Hacking/Persistencia": "🏋",
   "GalileoQ/Hacking/Pivoting": "LiMove",
-  "GalileoQ/Hacking/Scripts": "LiScriptEngine"
+  "GalileoQ/Hacking/Scripts": "LiSuperscript"
 }
