@@ -128,23 +128,28 @@ ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-m
 
 #### [[BLOODHOUND]]
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#bloodhound)
-
 #### [[POWERVIEW]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#powerview)
 
 #### LDAP ENUMERATION
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#ldap-enumeration)
+# Enumeración como sesión nula
 
-# Enumeracion como sesion nula
+```python
 ldapsearch -x -b "dc=domain,dc=local" -H ldap://10.10.10.100
+```
+
 
 # Filtrando por clase de objeto 
+
+```python
 ldapsearch -x -b "dc=domain,dc=local" -H ldap://10.10.10.100 -W "objectclass=account"
+```
 
 # windapsearch
+
+```python
+
+```
 ./windapsearch.py -d egotistical-bank.local --dc-ip 10.10.10.175 -U
 
 # impacket tool GetADUsers
