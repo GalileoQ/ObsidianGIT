@@ -51,8 +51,6 @@
 ### SERVICE PORTS ENUMERATION
 #### [[NMAP]]
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#nmap)
-
 **Enumeración de hosts dentro de la red**
 
 ```shell
@@ -79,13 +77,10 @@ nmap -p135,22,25,445 -sCV --open 10.0.2.5,6,7,8 -Pn -oN full_scan.txt
 
 ### WEB ENUMERATION
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#web-enumeration)
-
 #### WORDPRESS WPSCAN
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#wordpress-wpscan)
+# enumeración usuarios, plugins vulnerables, temas
 
-# enumeracion usuarios, plugins vulnerables, temas
 wpscan --url http://example.com --enumerate u,p,t --api-token <API-TOKEN>
 
 # ataque fuerza bruta a xlmrpc
