@@ -148,19 +148,22 @@ ldapsearch -x -b "dc=domain,dc=local" -H ldap://10.10.10.100 -W "objectclass=acc
 # windapsearch
 
 ```python
-
-```
 ./windapsearch.py -d egotistical-bank.local --dc-ip 10.10.10.175 -U
+```
 
 # impacket tool GetADUsers
+
+```python
 GetADUsers.py egotistical-bank.local/ -dc-ip 10.10.10.175 -debug
+```
 
 # ldap domain dump authenticated
+
+```python
 ldapdomaindump ldap://10.10.11.35 -u 'cicada.htb\michael.wrightson' -p 'Cicada$M6Corpb*@Lp#nZp!8'
+```
 
 #### SHARES ENUMERATION
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#shares-enumeration)
 
 **CrackMapExec**
 
@@ -203,8 +206,6 @@ smbmap -H 10.10.10.100 -download MyShare/myfile.txt
 ```
 
 #### USERS ENUMERATION
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#users-enumeration)
 
 **rpcclient - Port: 135**
 
@@ -265,8 +266,6 @@ kerbrute userenum -d domain.local --dc 10.10.10.100 /opt/jsmith.txt
 
 ### FUERZA BRUTA SERVICIOS/PROTOCOLOS
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#fuerza-bruta-serviciosprotocolos)
-
 **HYDRA**
 
 ```shell
@@ -275,15 +274,9 @@ hydra -l administrator -P /usr/share/metasploit-framework/data/wordlists/unix_pa
 
 ### BREACHING AD
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#breaching-ad)
-
 #### [[PASSWORD SPRAYING]]
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#password-spraying)
-
 ##### [[PASSWORD POLICIES ENUMERATION]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#password-policies-enumeration)
 
 ##### PASSWORD SPRAYING FROM WINDOWS
 
