@@ -9,8 +9,6 @@
 
 ## CHECKLIST EXPLOTACIÓN AD
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#checklist-explotación-ad)
-
 - **ENUMERACIÓN DE MAQUINAS**
 - **ENUMERACIÓN PUERTOS Y SERVICIOS**
 - **CONSTRUIR MAPA CON MAQUINAS (HOSTS, DCs)**
@@ -50,12 +48,7 @@
 
 ## TECNICAS EXPLOTACIÓN AD
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#tecnicas-explotación-ad)
-
 ### SERVICE PORTS ENUMERATION
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#service-ports-enumeration)
-
 #### [[NMAP]]
 
 [](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#nmap)
