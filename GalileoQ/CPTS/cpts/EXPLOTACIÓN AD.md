@@ -1,12 +1,11 @@
-## MAQUINAS EXPLOTACIÓN AD
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#maquinas-explotación-ad)
-
-### HACK THE BOX
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#hack-the-box)
-
-**[[SAUNA]]** **[[FOREST]]** **[[ACTIVE]]** **[[BLACKFIELD]]** **[[HEIST]]** **[[SERVMON]]** **[[WINDOWS POST-EXPLOITATION LAB]]**
+**[[SAUNA]]**
+**[[FOREST]]**
+**[[ACTIVE]]**
+**[[BLACKFIELD]]**
+**[[HEIST]]**
+**[[SERVMON]]**
+**[[WINDOWS POST-EXPLOITATION LAB]]**
 
 ## CHECKLIST EXPLOTACIÓN AD
 
