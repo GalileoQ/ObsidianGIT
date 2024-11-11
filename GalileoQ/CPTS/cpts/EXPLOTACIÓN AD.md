@@ -80,22 +80,21 @@ nmap -p135,22,25,445 -sCV --open 10.0.2.5,6,7,8 -Pn -oN full_scan.txt
 #### WORDPRESS WPSCAN
 
 # enumeración usuarios, plugins vulnerables, temas
+``` python
+# enumeracion usuarios, plugins vulnerables, temas
 
 wpscan --url http://example.com --enumerate u,p,t --api-token <API-TOKEN>
 
 # ataque fuerza bruta a xlmrpc
 wpscan --url http://example.com --passwords /path/to/passwords.txt --usernames admin --force
-
+```
 #### NIKTO
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#nikto)
-
+```python
 nikto --url 10.10.10.100
+```
 
 #### SUBDOMAIN ENUMERATION
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#subdomain-enumeration)
-
 # gobuster
 gobuster vhost -u http://10.10.10.100 -w /usr/share/SecLists/Discovery/DNS/subdomains-top1million-20000.txt -t 20
 
