@@ -280,8 +280,6 @@ hydra -l administrator -P /usr/share/metasploit-framework/data/wordlists/unix_pa
 
 ##### PASSWORD SPRAYING FROM WINDOWS
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#password-spraying-from-windows)
-
 **Importar Modulo Powerview | Enumeracion de usuarios de forma Local**
 
 ```powershell
@@ -310,8 +308,6 @@ Invoke-DomainPasswordSpray -Password 123456 -Verbose -OutFile spray_success -Err
 ---
 
 ##### PASSWORD SPRAYING FROM LINUX
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#password-spraying-from-linux)
 
 **Bash One-Liner**
 
@@ -346,11 +342,7 @@ sudo crackmapexec smb --local-auth 172.16.5.0/23 -u administrator -H 88ad09182de
 
 ### PRIVESC
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#privesc)
-
 #### [[AS-REP ROASTING]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#as-rep-roasting)
 
 **Importar Modulo Powerview**
 
@@ -385,8 +377,6 @@ impacket-GetNPUsers -no-pass -usersfile user.txt domain.local/
 ```
 
 #### [[KERBEROASTING]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#kerberoasting)
 
 **Importar Modulo Powerview**
 
@@ -456,15 +446,9 @@ impacket-GetUserSPNs domain.local/SVC_TGS:GPPMyPasswordSecret202$ -request
 
 ### LATERAL MOVEMENT
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#lateral-movement)
-
 #### [[PASS THE HASH]]
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#pass-the-hash)
-
 #### [[PASS THE TICKET]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#pass-the-ticket)
 
 **Importar Modulo Powerview**
 
@@ -532,11 +516,7 @@ ls \\prod.research.SECURITY.local\c$
 
 ### PERSISTENCE
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#persistence)
-
 #### [[SILVER TICKET]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#silver-ticket)
 
 **Importar Modulo Powerview | Nombre y SID de dominio | FQDN del DC**
 
@@ -649,8 +629,6 @@ ls \\prod.research.SECURITY.local\c$
 ```
 
 #### [[GOLDEN TICKET]]
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#golden-ticket)
 
 **Importar el modulo Powerview**
 
