@@ -112,20 +112,19 @@ ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000
 # gobuster
 
 ```python
-
-```
 gobuster dir -u http://10.10.10.100 -w /usr/share/SecLists/Discovery/Web-Content/directory-list-2.3-big.txt -t 20
+```
+
 
 # ffuf
+
+```python
 ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u "http://machine.com" -H "HOST: machine.com/FUZZ" -c
+```
 
 #### [[BURPSUITE]]
 
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#burpsuite)
-
 ### ENUMERATION AD
-
-[](https://github.com/ant0dev/Methodology-eCPPT/blob/main/METODOLOGIA%20ATAQUE%20AD%20%26%20CERTIFICACION%20eCPPTv3.md#enumeration-ad)
 
 #### [[BLOODHOUND]]
 
