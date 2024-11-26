@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "EXPLOTACIÓN AD"
             }
+          },
+          {
+            "id": "70fda91afb1dd861",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d5ad2b007477b90",
+  "active": "70fda91afb1dd861",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
