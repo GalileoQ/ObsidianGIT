@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8422681b05721c16",
+        "id": "d93ee7151ade2853",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5ad2b007477b90",
+            "id": "d2c665959f718308",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
-            }
-          },
-          {
-            "id": "70fda91afb1dd861",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -173,10 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70fda91afb1dd861",
+  "active": "d2c665959f718308",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
@@ -202,7 +185,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/6 - Hydra - Ataque de Fuerza Bruta TomCat.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/4 - Hydra - Ataque Fuerza Bruta Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
