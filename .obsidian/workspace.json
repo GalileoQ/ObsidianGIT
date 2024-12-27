@@ -11,10 +11,12 @@
             "id": "d2c665959f718308",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
