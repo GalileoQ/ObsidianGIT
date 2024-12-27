@@ -11,12 +11,14 @@
             "id": "d2c665959f718308",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Authority"
             }
           }
         ]
