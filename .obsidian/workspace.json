@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Forest"
             }
+          },
+          {
+            "id": "278690a4c2e04d4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ]
       }
@@ -161,11 +171,12 @@
   },
   "active": "d2c665959f718308",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
@@ -188,7 +199,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/BrooklynNiveNive.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
