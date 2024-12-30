@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Shell/OneLiners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab Pivoting and Tunneling - Synfonos"
+              "title": "OneLiners"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "active": "d2c665959f718308",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
@@ -198,7 +199,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
