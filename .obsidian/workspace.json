@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29a85d8fea37a9ff",
+        "id": "a6ab79ded90bdbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "1349906c07d9bfbc",
+            "id": "bb5ac72e5cc1deee",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -156,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1349906c07d9bfbc",
+  "active": "bb5ac72e5cc1deee",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Shell/OneLiners.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
