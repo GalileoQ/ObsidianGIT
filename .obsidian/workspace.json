@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flight"
+              "title": "Uso de nmap"
             }
           }
         ]
@@ -160,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "bb5ac72e5cc1deee",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
@@ -189,7 +190,6 @@
     "GalileoQ/Hacking/Git",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
     "GalileoQ/Hacking/Scripts/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007152439.png",
