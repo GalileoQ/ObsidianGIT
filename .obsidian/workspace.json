@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso de nmap"
+              "title": "3 - Hacking Kerberos"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Sin título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sincro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +87,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -176,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aba995d488dbf4cf",
+  "active": "bb5ac72e5cc1deee",
   "lastOpenFiles": [
-    "GalileoQ/Template/Sin título.md",
     "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
+    "GalileoQ/Template/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
