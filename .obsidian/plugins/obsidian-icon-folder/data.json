@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlertTriangle",
       "🪟",
       "🐚",
       "LiSuperscript",
-      "LiScriptEngine",
-      "LiMove"
+      "LiScriptEngine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,9 @@
   "GalileoQ/Hacking/Pivoting": "LiMove",
   "GalileoQ/Hacking/Scripts": "LiSuperscript",
   "GalileoQ/Hacking/Shell": "🐚",
-  "GalileoQ/Hacking/Windows": "🪟"
+  "GalileoQ/Hacking/Windows": "🪟",
+  "GalileoQ/Hacking/CRTO": {
+    "iconName": "LiAlertTriangle",
+    "iconColor": "#f00000"
+  }
 }
