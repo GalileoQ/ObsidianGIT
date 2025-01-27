@@ -11,10 +11,14 @@
             "id": "cf56035664af30d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Modificaciones"
             }
           }
         ]
@@ -156,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf56035664af30d4",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Template/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/WifineticTwo.md",
@@ -183,7 +188,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
