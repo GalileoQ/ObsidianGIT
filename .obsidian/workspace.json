@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prox",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "251fb7c5ea2ba9df",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
