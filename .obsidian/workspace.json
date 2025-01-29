@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b65e7b8b04651b11",
+        "id": "f1df5df605736385",
         "type": "tabs",
         "children": [
           {
-            "id": "251fb7c5ea2ba9df",
+            "id": "ee7503104992c714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
+                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architects"
+              "title": "Lab Pivoting and Tunneling - Synfonos"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proxy chains nm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -161,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "ee7503104992c714",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/WifineticTwo.md",
@@ -171,7 +173,6 @@
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gallery.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/CRTO/C2.md",
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
     "GalileoQ/Hacking/CRTO",
