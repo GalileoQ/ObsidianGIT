@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TLS",
+                "query": "lls",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee7503104992c714",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
