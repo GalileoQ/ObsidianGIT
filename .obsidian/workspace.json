@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxy",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
