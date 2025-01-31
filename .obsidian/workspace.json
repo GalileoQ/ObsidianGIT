@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active"
+              "title": "Analytics"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "ee7503104992c714",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
@@ -189,7 +190,6 @@
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
