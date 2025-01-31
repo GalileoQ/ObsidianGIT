@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Scrambled"
             }
+          },
+          {
+            "id": "6ef550449b770ef4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -161,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "6ef550449b770ef4",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
