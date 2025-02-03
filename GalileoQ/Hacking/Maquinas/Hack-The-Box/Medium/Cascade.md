@@ -100,7 +100,7 @@ dentro de data tenemos cosas interesantes
 dentro de los recursos compartidos podemos encontrar un archivo llamado Meeting_Note_June_2018.html así que lo descargamos
 ![[Pasted image 20240717220206.png]]
 
-qui podemos descargar un segundo archivo
+aqui podemos descargar un segundo archivo
 ![[Pasted image 20240717221124.png]]
 
 ### html
