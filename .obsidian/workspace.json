@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mustacchio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dreaming"
+              "title": "Mustacchio"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "ee7503104992c714",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ColddBox-Easy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
@@ -188,7 +189,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Anonymous.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
