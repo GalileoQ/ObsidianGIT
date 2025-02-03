@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab Pivoting and Tunneling - Synfonos"
+              "title": "SmagGrotto"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guest",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,6 +163,13 @@
   },
   "active": "ee7503104992c714",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Source.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Relevant.md",
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
@@ -183,13 +189,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/WifineticTwo.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gallery.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
