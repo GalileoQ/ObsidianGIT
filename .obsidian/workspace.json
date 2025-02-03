@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Relevant"
             }
+          },
+          {
+            "id": "20634b1d75e6f773",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee7503104992c714",
+  "active": "20634b1d75e6f773",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mustacchio.md",
