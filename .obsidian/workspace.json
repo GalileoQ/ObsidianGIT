@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chocolate-Factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Consideraciones Previas"
+              "title": "Chocolate-Factory"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "2e16115e1c08cdf3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Relevant.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
@@ -171,7 +174,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ColddBox-Easy.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Easy-Peasy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
@@ -188,8 +190,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
