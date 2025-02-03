@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SmagGrotto"
+              "title": "Brute-It"
             }
           }
         ]
@@ -163,6 +163,11 @@
   },
   "active": "ee7503104992c714",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gaming-Server.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Ignite.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Simple-CTF.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Source.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Anthem.md",
@@ -184,11 +189,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
