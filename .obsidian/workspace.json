@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "70d65ddbee83a641",
+        "id": "94e116513a353e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "5664e7c2a2df6c3a",
+            "id": "2bd02aefedae0a16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-09-10 15.51.50.excalidraw"
+              "icon": "lucide-file",
+              "title": "Context"
             }
           }
         ]
@@ -159,8 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "2bd02aefedae0a16",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
@@ -185,8 +189,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Ignite.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Simple-CTF.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Source.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
