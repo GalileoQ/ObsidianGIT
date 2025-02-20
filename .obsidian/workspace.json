@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Editorial"
+              "title": "Crafty"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "6bb5201162d6df52",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
@@ -171,7 +172,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
