@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architects"
-            }
-          },
-          {
-            "id": "d0bce49617d224b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Bizness"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -175,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0bce49617d224b2",
+  "active": "6bb5201162d6df52",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
