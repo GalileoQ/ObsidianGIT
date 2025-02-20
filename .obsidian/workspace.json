@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architects"
+              "title": "Analytics"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "6bb5201162d6df52",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
@@ -193,7 +194,6 @@
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "SUMMARY.md",
     "README.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Mi-Web",
     "GalileoQ/Hacking/Git",
     "GalileoQ/Hacking/Scripts/Img/Pasted image 20241009205807.png",
