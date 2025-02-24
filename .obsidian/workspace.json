@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wget",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,6 +163,8 @@
   },
   "active": "b30ec54cd2ffa62f",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
@@ -183,11 +184,9 @@
     "GalileoQ/Hacking/CRTO/C2.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
-    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
