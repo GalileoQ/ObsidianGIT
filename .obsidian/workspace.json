@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Sin título.md",
+                "file": "Excalidraw/ProLabFullHouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "ProLabFullHouse"
             }
           }
         ]
@@ -158,13 +158,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c323c0187a659813",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
-    "Excalidraw/Sin título.md",
+    "Excalidraw/ProLabFullHouse.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
