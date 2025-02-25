@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ProLabFullHouse"
             }
+          },
+          {
+            "id": "7ad7e7e750a285ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-25 16.43.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-25 16.43.58.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -162,10 +176,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c323c0187a659813",
+  "active": "7ad7e7e750a285ec",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "Excalidraw/ProLabFullHouse.md",
+    "Excalidraw/Drawing 2025-02-25 16.43.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
@@ -191,7 +206,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas",
-    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Pentesting-Process",
     "GalileoQ/Hacking/Mi-Web",
