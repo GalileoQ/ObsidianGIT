@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cascade"
+              "title": "Forest"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "c323c0187a659813",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
@@ -189,7 +190,6 @@
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
     "GalileoQ/Hacking/CRTO/C2.md",
     "GalileoQ/Hacking/CRTO",
-    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Pentesting-Process",
