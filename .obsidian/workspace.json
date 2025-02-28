@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysis"
+              "title": "Cascade"
             }
           }
         ]
@@ -163,9 +163,9 @@
   },
   "active": "c323c0187a659813",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "Excalidraw/ProLabFullHouse.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
