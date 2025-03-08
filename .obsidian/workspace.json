@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set impersonate privilege",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
