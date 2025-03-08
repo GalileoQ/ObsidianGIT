@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keeper"
+              "title": "1 - Configurar Active Directory + Equipos clientes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keepas",
+                "query": "acti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,6 +164,8 @@
   },
   "active": "27de6e1c7a8816a1",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Hacking Generico/John The Ripper.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
@@ -188,8 +190,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
