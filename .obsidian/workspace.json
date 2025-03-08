@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccfcff316b5c3ba8",
+        "id": "b36754f4ae653159",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d8addf93c4b497",
+            "id": "0d48de5e6235f583",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4d8addf93c4b497",
+  "active": "0d48de5e6235f583",
   "lastOpenFiles": [
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template/docker.md",
