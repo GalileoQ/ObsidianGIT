@@ -91,13 +91,18 @@ enumeración de usuarios, grupos y la información con `rpcclient`
 intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` por lo cual no podremos obtener un `TGT`
 
 ```python
-impacket-GetNPUsers Domein
+impacket-GetNPUsers Domein/ -no-pass -usersfile usuario.txt
 ```
 
 ![[Pasted image 20240611200514.png]]
 
 ### impacket-GetUserSPNs 
 intentamos obtener un `TGS (Ticket-granting server)` TGS emite tickets de servicio que permiten a los usuarios acceder a servicios específicos en la red una vez que han sido autenticados correctamente.
+
+```python
+
+```
+
 ![[Pasted image 20240611200522.png]]
 
 ### john
