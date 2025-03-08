@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flight"
+              "title": "Active"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SeImpersonatePrivilege",
+                "query": "active",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +164,9 @@
   },
   "active": "27de6e1c7a8816a1",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
@@ -189,7 +190,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
