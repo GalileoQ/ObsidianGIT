@@ -128,7 +128,7 @@ con un servidor de python podemos compartir los archivos que hemos dumpearlos pa
 ![[Pasted image 20240717230709.png]]
 
 ### impacket-GetUserSPNs
-tenemos credenciales pero no podemos obtener ningún ataca por el momento 
+tenemos credenciales pero no podemos obtener ningún ataque por el momento 
 ![[Pasted image 20240717231227.png]]
 
 ### vnc decrypte
