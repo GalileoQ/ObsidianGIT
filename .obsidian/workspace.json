@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/impacket.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "impacket"
+              "title": "Attactive-Directory"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impacket-t",
+                "query": "impacket-secre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,6 +164,7 @@
   },
   "active": "27de6e1c7a8816a1",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
@@ -181,7 +182,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
