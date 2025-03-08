@@ -89,6 +89,11 @@ enumeración de usuarios, grupos y la información con `rpcclient`
 
 ### impacket-GetNPUsers
 intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` por lo cual no podremos obtener un `TGT`
+
+```python
+impacket-GetNPUsers Domein
+```
+
 ![[Pasted image 20240611200514.png]]
 
 ### impacket-GetUserSPNs 
