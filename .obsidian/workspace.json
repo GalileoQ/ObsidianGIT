@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/Sin título.md",
+                "file": "GalileoQ/Template/wps-scan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "wps-scan"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "0d48de5e6235f583",
   "lastOpenFiles": [
+    "GalileoQ/Template/AD.md",
+    "GalileoQ/Template/wps-scan.md",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
@@ -188,8 +190,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
     "Excalidraw/ProLabFullHouse.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
