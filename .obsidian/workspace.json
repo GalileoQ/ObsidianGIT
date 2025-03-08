@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password spra",
+                "query": "pexe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -165,6 +164,11 @@
   },
   "active": "27de6e1c7a8816a1",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Crackmapexec.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Template/wps-scan.md",
     "GalileoQ/Template/AD.md",
     "GalileoQ/Template/Pentesting.md",
@@ -178,19 +182,14 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
-    "Excalidraw/ProLabFullHouse.md",
-    "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
