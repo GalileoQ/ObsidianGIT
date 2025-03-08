@@ -117,6 +117,11 @@ enumerando con kerbrute podemos verificar todos los usuarios así que vamos a bu
 
 ### impacket-GetNPUsers
 al parecer no podemos obtener un `ASREPROAST` de ningún usuario ya que no cuentan con esta opción seteada 
+
+```python
+impacket-GetNPUsers 
+```
+
 ![[Pasted image 20240717223533.png]]
 
 ### ldapdomaindump.py 
