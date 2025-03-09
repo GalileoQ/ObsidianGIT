@@ -1,0 +1,20 @@
+.modal-buttons {
+	display: flex;
+	gap: 8px;
+}
+
+div.nav-files-container > div {
+	min-height: 0 !important;
+
+	& > div:nth-child(1) {
+		margin-bottom: 0 !important;
+	}
+}
+
+div.tree-item-children.nav-folder-children {
+	min-height: 0 !important;
+}
+
+div.tree-item-children.nav-folder-children > div:nth-child(1) {
+	margin-bottom: 0 !important;
+}
