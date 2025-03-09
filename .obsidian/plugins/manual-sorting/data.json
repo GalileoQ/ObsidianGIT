@@ -22,13 +22,16 @@
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS/LAB",
     "GalileoQ/CPTS/Pentesting-Process",
-    "GalileoQ/CPTS/Sin nombre"
+    "GalileoQ/CPTS/eCPPTv3"
   ],
   "GalileoQ/CPTS/cpts": [
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md"
+  ],
+  "GalileoQ/CPTS/eCPPTv3": [
+    "GalileoQ/CPTS/eCPPTv3/Exam-lab.md"
   ],
   "GalileoQ/CPTS/Img": [
     "GalileoQ/CPTS/Img/Pasted image 20240615212709.png",
@@ -156,7 +159,6 @@
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md"
   ],
-  "GalileoQ/CPTS/Sin nombre": [],
   "GalileoQ/Hacking": [
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/Hacking/CRTO",
