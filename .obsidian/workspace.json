@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Pass The Hash, impacket psexec y wmiexec"
+              "title": "Attactive-Directory"
             }
           },
           {
@@ -193,6 +193,8 @@
   },
   "active": "4e6d679148ad7b85",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
@@ -203,13 +205,11 @@
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
     "MAQUINA ATTACKTIVE DIRECTORY (enum4linux, kerbrute enumerar usuarios, ASREPRoasting obtener TGT, john the ripper, smbclient para listar recursos compartidos, secredump dumpear hashes y pass the hash).md",
-    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
