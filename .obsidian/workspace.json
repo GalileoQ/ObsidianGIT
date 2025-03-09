@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Enumerar Usuarios y Plugins con WordPress"
+              "title": "Active"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enu",
+                "query": "impacket-Ge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -194,9 +193,10 @@
   },
   "active": "db908faae9b85cee",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
@@ -209,7 +209,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/1 - Hydra - Ataque de Fuerza Bruta FTP.md",
