@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.40.162 -- DC02"
+              "title": "172.31.45.221 - FILESRV01"
             }
           }
         ],
@@ -193,9 +193,9 @@
   },
   "active": "6b23174d2ae9956f",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
