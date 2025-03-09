@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
+                "file": "GalileoQ/Hacking/Windows/impacket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attactive-Directory"
+              "title": "impacket"
             }
           },
           {
@@ -193,6 +193,15 @@
   },
   "active": "4e6d679148ad7b85",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
@@ -210,15 +219,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Blog.md",
     "MAQUINA ATTACKTIVE DIRECTORY (enum4linux, kerbrute enumerar usuarios, ASREPRoasting obtener TGT, john the ripper, smbclient para listar recursos compartidos, secredump dumpear hashes y pass the hash).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/1 - Hydra - Ataque de Fuerza Bruta FTP.md",
-    "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
