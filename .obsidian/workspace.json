@@ -35,8 +35,7 @@
               "title": "Enumeracion web"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +176,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "055f860dd8ab4da8",
+  "active": "2c0175192edb1236",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
     "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
@@ -209,7 +209,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
