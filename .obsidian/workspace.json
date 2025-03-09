@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "172.31.37.55 Linux PWN"
             }
+          },
+          {
+            "id": "055f860dd8ab4da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Hydra - Ataque de Fuerza Bruta contra panel de login web"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydra word",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +89,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -162,11 +177,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c0175192edb1236",
+  "active": "055f860dd8ab4da8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
+    "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
     "GalileoQ/CPTS/eCPPTv3/Img",
@@ -183,7 +200,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
@@ -208,7 +224,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007150014.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007145758.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144737.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144434.png",
     "Sin nombre",
     "Sin título.canvas"
   ]
