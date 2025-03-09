@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.37.88"
+              "title": "172.31.37.83 ------ WS01"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,9 +178,9 @@
   },
   "active": "055f860dd8ab4da8",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.83.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
