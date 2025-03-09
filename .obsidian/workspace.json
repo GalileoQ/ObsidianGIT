@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.37.55 ------- Linux PWN"
+              "title": "172.31.40.162 -- DC02"
             }
           }
         ]
@@ -163,9 +163,10 @@
   },
   "active": "88ddb46cf44cabe6",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
@@ -188,7 +189,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
-    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
