@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +191,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5778a94252c72f5e",
+  "active": "6b23174d2ae9956f",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
@@ -211,7 +212,6 @@
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
