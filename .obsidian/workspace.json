@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.37.83 ------ WS01"
+              "title": "Exam-lab"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user enu",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -178,11 +178,11 @@
   },
   "active": "2c0175192edb1236",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
