@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Attactive-Directory"
             }
+          },
+          {
+            "id": "0bc25760f46918b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "has",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +113,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -191,11 +201,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db908faae9b85cee",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
