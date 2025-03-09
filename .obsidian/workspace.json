@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.37.55 Linux"
+              "title": "172.31.37.88"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -164,11 +163,11 @@
   },
   "active": "2c0175192edb1236",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux.md",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
     "GalileoQ/CPTS/eCPPTv3/Img",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
     "GalileoQ/CPTS/eCPPTv3",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
@@ -208,7 +207,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007145758.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144737.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007144434.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Img/Pasted image 20241007141112.png",
     "Sin nombre",
     "Sin título.canvas"
   ]
