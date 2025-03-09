@@ -121,6 +121,10 @@ por el momento solo tenemos un usuario valido. administrator
 
 ### impacket-GetNPUsers
 intentamos obtener un `TGT` pero el usuario no tiene `UF_DONT_REQUIRE_PREAUTH` por lo cual no podremos obtener un `TGT`
+
+```python
+impacket-GetNPUsers dominio/administrator -no-pass -dc-ip -request
+```
 ![[Pasted image 20240612121232.png]]
 
 ### Enumeración del puerto 8080 (http)
