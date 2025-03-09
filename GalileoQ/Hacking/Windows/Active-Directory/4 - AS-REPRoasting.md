@@ -7,6 +7,8 @@ Por ejemplo podríamos encontrar este tipo de usuarios utilizando [[Kerbrute]]
 ----------------------------------------
 
 **OPCIÓN 1 ->** Proporcionando un diccionario de usuarios, por ejemplo dentro del diccionario users:
+impacket-GetNPUsers htb.local/ -no-pass -userfile iser.txt
+
 ![[Pasted image 20240615211719.png]]
 
 **OPCIÓN 2 ->** Proporcionando un único usuario que hayamos podido encontrar anteriormente:
