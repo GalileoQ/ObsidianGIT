@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "172.31.45.221 - FILESRV01"
+              "title": "172.31.37.89 ------ DC01"
             }
           },
           {
@@ -116,13 +116,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -207,11 +205,11 @@
   },
   "active": "88ddb46cf44cabe6",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
