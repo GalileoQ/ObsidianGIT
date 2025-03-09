@@ -11,10 +11,14 @@
             "id": "32483e794b21e48b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Encontrar Hosts con Metasploit"
             }
           }
         ]
@@ -157,7 +161,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "32483e794b21e48b",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/SQL Injection.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
