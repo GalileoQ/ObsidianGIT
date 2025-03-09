@@ -49,8 +49,7 @@
               "title": "172.31.45.221 - FILESRV01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crac",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +102,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -191,8 +190,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b23174d2ae9956f",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
@@ -210,7 +210,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
