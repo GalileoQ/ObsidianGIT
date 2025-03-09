@@ -21,7 +21,8 @@
     "GalileoQ/CPTS/cpts",
     "GalileoQ/CPTS/Img",
     "GalileoQ/CPTS/LAB",
-    "GalileoQ/CPTS/Pentesting-Process"
+    "GalileoQ/CPTS/Pentesting-Process",
+    "GalileoQ/CPTS/Sin nombre"
   ],
   "GalileoQ/CPTS/cpts": [
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
@@ -155,6 +156,7 @@
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md"
   ],
+  "GalileoQ/CPTS/Sin nombre": [],
   "GalileoQ/Hacking": [
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/Hacking/CRTO",
