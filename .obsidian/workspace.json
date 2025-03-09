@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
+              "title": "Active"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asr",
+                "query": "impacket-Get",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,9 +179,11 @@
   },
   "active": "5778a94252c72f5e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
@@ -189,8 +191,6 @@
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
