@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+                "file": "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeracion web"
+              "title": "Exam-lab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c0175192edb1236",
+  "active": "055f860dd8ab4da8",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
@@ -187,7 +188,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hydra/4 - Hydra - Ataque Fuerza Bruta Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/2 - Hydra - Ataque de Fuerza Bruta contra panel de login web.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 Linux PWN.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.88.md",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
