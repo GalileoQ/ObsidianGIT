@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "password",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5778a94252c72f5e",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
