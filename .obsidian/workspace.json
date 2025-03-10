@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5778a94252c72f5e",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
