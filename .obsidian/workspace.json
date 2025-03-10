@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "file": "GalileoQ/CPTS/cpts/Scanning Ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
+              "title": "Scanning Ports"
             }
           },
           {
@@ -206,6 +206,8 @@
   },
   "active": "88ddb46cf44cabe6",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
@@ -227,11 +229,9 @@
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/CPTS/eCPPTv3/Exam-lab.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
