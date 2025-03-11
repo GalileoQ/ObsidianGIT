@@ -13,26 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-09-10 15.51.50.excalidraw"
-            }
-          },
-          {
-            "id": "4218d4a310f82369",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-11 13.24.50.excalidraw"
+              "title": "Drawing 2024-08-27 12.40.36.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "piv",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +72,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -173,12 +160,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4218d4a310f82369",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md",
-    "Excalidraw/Sin título.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
+    "Excalidraw/Sin título.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
