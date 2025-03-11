@@ -1,6 +1,7 @@
 #ActiveDirectory #windows #hard 
 ### Ping
 
+
 ```python
 ping -c 1 10.10.11.250
 PING 10.10.11.250 (10.10.11.250) 56(84) bytes of data.
