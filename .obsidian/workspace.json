@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "architec",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +161,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "836eefb961ee5c30",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
