@@ -11,13 +11,28 @@
             "id": "6791b50971ddb12c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-09-10 15.51.50.excalidraw"
+            }
+          },
+          {
+            "id": "4218d4a310f82369",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-11 13.24.50.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -157,8 +173,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "4218d4a310f82369",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md",
+    "Excalidraw/Sin título.md",
+    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
+    "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
+    "Excalidraw/ProLabFullHouse.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
@@ -177,14 +201,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Attactive-Directory.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
-    "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.40.162 -- DC02.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.89 ------ DC01.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
