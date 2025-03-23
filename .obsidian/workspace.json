@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8df89c5515da4092",
+        "id": "d33828a22fdce859",
         "type": "tabs",
         "children": [
           {
-            "id": "836eefb961ee5c30",
+            "id": "3a05752f23787b93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Template/wps-scan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "wps-scan"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Golden Ticket",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,8 +158,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "836eefb961ee5c30",
+  "active": "3a05752f23787b93",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "GalileoQ/Template/wps-scan.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "MAQUINA ATTACKTIVE DIRECTORY (enum4linux, kerbrute enumerar usuarios, ASREPRoasting obtener TGT, john the ripper, smbclient para listar recursos compartidos, secredump dumpear hashes y pass the hash).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
@@ -186,9 +186,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.45.221 - FILESRV01.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
