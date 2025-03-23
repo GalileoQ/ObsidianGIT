@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Golden Ticket",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a05752f23787b93",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
