@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active"
+              "title": "Sauna"
             }
           }
         ]
@@ -164,14 +164,15 @@
   },
   "active": "3a05752f23787b93",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Template/wps-scan.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
@@ -189,7 +190,6 @@
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
     "Excalidraw/ProLabFullHouse.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
