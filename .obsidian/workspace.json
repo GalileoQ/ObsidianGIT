@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flight"
+              "title": "Active"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ntpda",
+                "query": "impacket-p",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "3a05752f23787b93",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
@@ -188,8 +190,6 @@
     "Excalidraw/ProLabFullHouse.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
