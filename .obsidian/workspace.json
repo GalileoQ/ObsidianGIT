@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a05752f23787b93",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
