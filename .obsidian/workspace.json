@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d33828a22fdce859",
+        "id": "641c7538b7682140",
         "type": "tabs",
         "children": [
           {
-            "id": "3a05752f23787b93",
+            "id": "af7d19750cdf58e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
+                "file": "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cascade"
+              "title": "Faraday"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reversi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -161,8 +163,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a05752f23787b93",
+  "active": "af7d19750cdf58e3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
@@ -188,7 +191,6 @@
     "Excalidraw/Sin título.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
-    "Excalidraw/ProLabFullHouse.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
