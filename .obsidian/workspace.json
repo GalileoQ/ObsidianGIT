@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forest"
+              "title": "modificaciones del Entorno"
             }
           }
         ]
@@ -163,6 +163,11 @@
   },
   "active": "af7d19750cdf58e3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
+    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
+    "GalileoQ/Hacking/Entorno/Instalar bat.md",
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
@@ -184,11 +189,6 @@
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
-    "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-11 13.24.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
-    "Excalidraw/Sin título.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
