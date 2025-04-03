@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9907cae9f72e5a",
+        "id": "28872cb42e62a3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c849bdb80f96d970",
+            "id": "a20decd2dc24ca9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/CRTO/C2.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C2"
+              "title": "2 - Escalar privilegios con un script con todos los permisos"
             }
           }
         ]
@@ -161,8 +161,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c849bdb80f96d970",
+  "active": "a20decd2dc24ca9d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+    "GalileoQ/Hacking/Escalada/Linux.md",
+    "GalileoQ/Hacking/CRTO/C2.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
@@ -185,10 +189,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
-    "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
-    "GalileoQ/Template/wps-scan.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
