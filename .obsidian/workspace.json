@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
+                "file": "GalileoQ/Hacking/Windows/Windows Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recibir Credenciales SSH"
+              "title": "Windows Tools"
             }
           }
         ]
@@ -163,6 +163,14 @@
   },
   "active": "a20decd2dc24ca9d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+    "GalileoQ/Hacking/Scripts/lda-injection.md",
+    "GalileoQ/Hacking/Pivoting/SOCAT.md",
+    "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
+    "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
     "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
@@ -181,14 +189,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/2 - Named Pipe Impersonation.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/1 - Proceso Lsass.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/14 - Escalada de Privilegios con VIM.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/12 - Buscar archivos de los que somos Propietarios y Tengamos Permisos.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/11 - Escalada de Privilegios con Páginas Man.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
