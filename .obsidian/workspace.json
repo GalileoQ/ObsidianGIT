@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
+                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modificaciones"
+              "title": "EXPLOTACIÓN AD"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -163,6 +164,10 @@
   },
   "active": "5106597411186568",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/CPTS/cpts/nmap.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
@@ -182,13 +187,9 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.83 ------ WS01.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Template/wps-scan.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "MAQUINA ATTACKTIVE DIRECTORY (enum4linux, kerbrute enumerar usuarios, ASREPRoasting obtener TGT, john the ripper, smbclient para listar recursos compartidos, secredump dumpear hashes y pass the hash).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
