@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
+                "file": "GalileoQ/Hacking/Escalada de Privilegios/Linux/17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Escalar privilegios con un script con todos los permisos"
+              "title": "17 - PSPY - Herramienta ver Comandos Automatizados del Sistema Linux"
             }
           }
         ]
@@ -163,6 +163,21 @@
   },
   "active": "a20decd2dc24ca9d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/16 - Permisos SUID.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/15 - Linux Smart Enumeration.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/14 - Escalada de Privilegios con VIM.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/13 - Escalada de Privilegios con Python.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/12 - Buscar archivos de los que somos Propietarios y Tengamos Permisos.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/11 - Escalada de Privilegios con Páginas Man.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/9 - Escalar Privilegios Revisando las Variable de Entorno.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/7 - Escalada de Privilegios Binario SUID env.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/6 - PKEXEC - Escalada de Privilegios.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/5 - Escalada de Privilegios en Ubuntu 12.04.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/3 - YML Deserialization.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
@@ -174,21 +189,6 @@
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
-    "GalileoQ/Hacking/Entorno/Instalar bat.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
-    "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
-    "GalileoQ/Hacking/Windows/impacket.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
