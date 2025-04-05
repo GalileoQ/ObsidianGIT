@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Windows Tools.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Tools"
+              "title": "1-Técnicas fundamentales"
             }
           }
         ]
@@ -163,6 +163,7 @@
   },
   "active": "a20decd2dc24ca9d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
@@ -188,7 +189,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/4 - Enumeración de Grupos y Usuarios.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/3 - UAC Bypass.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/2 - Named Pipe Impersonation.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/1 - Proceso Lsass.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
