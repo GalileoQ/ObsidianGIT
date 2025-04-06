@@ -1,0 +1,1 @@
+Galileo Muñoz Quevedo es un ingeniero de sistemas, especializado en cyber seguridad. 
