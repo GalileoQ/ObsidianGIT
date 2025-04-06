@@ -1,7 +1,8 @@
 {
   "/": [
     "Excalidraw",
-    "GalileoQ"
+    "GalileoQ",
+    "GalileoQ_vector_embedding"
   ],
   "Excalidraw": [
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
@@ -3659,5 +3660,12 @@
     "GalileoQ/Template/docker.md",
     "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template/wps-scan.md"
+  ],
+  "GalileoQ_vector_embedding": [
+    "GalileoQ_vector_embedding/default__vector_store.json",
+    "GalileoQ_vector_embedding/docstore.json",
+    "GalileoQ_vector_embedding/graph_store.json",
+    "GalileoQ_vector_embedding/image__vector_store.json",
+    "GalileoQ_vector_embedding/index_store.json"
   ]
 }
