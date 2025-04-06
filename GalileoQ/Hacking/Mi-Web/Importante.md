@@ -1,1 +1,1 @@
-Galileo Muñoz Quevedo es un ingeniero de sistemas, especializado en cyber seguridad. 
+Galileo Muñoz Quevedo es un ingeniero de sistemas, especializado en cyber seguridad. actualmente tiene las certificaciones de eCPPTv3 
