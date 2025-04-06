@@ -1,1 +1,1 @@
-Galileo Muñoz Quevedo es un ingeniero de sistemas, especializado en cyber seguridad. actualmente tiene las certificaciones de eCPPTv3 
+Galileo Muñoz Quevedo es un ingeniero de sistemas, especializado en cyber seguridad. actualmente tiene las certificaciones de eCPPTv3 Penetrómetro profesional certificado eCPPT es una certificación profesional en hacking ético y pruebas de penetración 100 % práctica y muy respetada, con profesionales certificados en los siete continentes. ademas cuenta con la CRTA 
