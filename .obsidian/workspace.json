@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting-ADirectory"
+              "title": "Pentesting-footprinting"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+    "GalileoQ/CPTS/cpts/nmap.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
@@ -175,9 +178,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
     "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
-    "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
     "BLOODHOUND.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
