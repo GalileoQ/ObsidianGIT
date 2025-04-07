@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
+                "file": "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Configurar Active Directory + Equipos clientes"
+              "title": "5 - Impacket-secretdumps"
             }
           }
         ]
@@ -163,8 +163,10 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
@@ -187,8 +189,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
-    "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
-    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
