@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -163,6 +164,8 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/Scanning Ports.md",
+    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
@@ -187,8 +190,6 @@
     "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
     "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Máquina Windows.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting Manual.md",
-    "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
