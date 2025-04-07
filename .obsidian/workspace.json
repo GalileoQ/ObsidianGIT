@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+                "file": "GalileoQ/Hacking/1-Tecnicas/Uso de nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting-nmap"
+              "title": "Uso de nmap"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -164,8 +163,14 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
+    "GalileoQ/Hacking/1-Tecnicas/Nota.md",
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
+    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
@@ -176,20 +181,14 @@
     "GalileoQ/Hacking/Mi-Web/Importante.md",
     "GalileoQ/Hacking/Mi-Web/Modificaciones.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
-    "GalileoQ/Hacking/Scripts/lda-injection.md",
-    "GalileoQ/Hacking/Pivoting/SOCAT.md",
-    "GalileoQ/Hacking/Pivoting/Reverse Shell ncat en Windows.md",
-    "GalileoQ/Hacking/Pivoting/Recibir Credenciales SSH.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
