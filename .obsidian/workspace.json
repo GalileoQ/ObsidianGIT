@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
+              "title": "Buffer Overflow en windows"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/2 - Named Pipe Impersonation.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/1 - Proceso Lsass.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
@@ -179,7 +180,6 @@
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
