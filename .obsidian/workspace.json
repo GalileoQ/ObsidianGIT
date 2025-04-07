@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -163,6 +164,10 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Windows Tools.md",
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
     "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
@@ -185,10 +190,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
-    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
