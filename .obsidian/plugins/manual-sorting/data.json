@@ -1,6 +1,7 @@
 {
   "customFileOrder": {
     "/": [
+      "BLOODHOUND.md",
       "Excalidraw",
       "GalileoQ",
       "GalileoQ_vector_embedding"
