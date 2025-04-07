@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-Site Scripting (XSS)"
+              "title": "Enumeración Windows"
             }
           }
         ]
@@ -163,6 +163,15 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
+    "GalileoQ/Hacking/Pivoting/Encontrar Hosts con Metasploit.md",
+    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
+    "GalileoQ/Hacking/Hacking Generico/Metasploit/Detectar Equipos Conectados en mi red Privada con Metasploit.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Magento.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Drupal.md",
+    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Cross-Site Scripting (XSS).md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
@@ -180,15 +189,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-nmap.md",
-    "GalileoQ/CPTS/cpts/nmap.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
-    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
-    "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/Hacking/Escalada/Linux.md",
-    "GalileoQ/CPTS/cpts/Scanning Ports.md",
-    "BLOODHOUND.md",
-    "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
-    "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
