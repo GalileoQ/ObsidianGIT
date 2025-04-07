@@ -11,10 +11,14 @@
             "id": "3a2e29f0bf28abc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "EXPLOTACIÓN AD"
             }
           }
         ]
