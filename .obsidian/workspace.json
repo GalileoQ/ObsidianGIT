@@ -11,10 +11,14 @@
             "id": "cdf1d72201e5b780",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Persistencia/Persistencia con Metasploit en Windows.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Persistencia con Metasploit en Windows"
             }
           }
         ]
@@ -157,15 +161,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "cdf1d72201e5b780",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/LAB/0 - Preparación del Entorno.md",
+    "GalileoQ/Hacking/Scripts/script para crear una lista de hash en el rango 0 al 100.md",
+    "GalileoQ/Hacking/Scripts/Save VPN Script Try Hack Me.md",
+    "GalileoQ/Hacking/Scripts/lda-injection.md",
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
     "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Windows/Active-Directory/2 - Ataque Samba Relay.md",
-    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/impacket.md",
@@ -181,10 +189,6 @@
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(CSRF) - Cross-Site Request Forgery.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/2 - Named Pipe Impersonation.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/1 - Proceso Lsass.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
