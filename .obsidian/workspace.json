@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf42b60dddc5201",
+        "id": "1e55823e0a8d2497",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2e29f0bf28abc8",
+            "id": "cdf1d72201e5b780",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Enumeración Windows"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -161,7 +157,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a2e29f0bf28abc8",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
     "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
