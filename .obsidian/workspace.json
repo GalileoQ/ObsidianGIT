@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analytics"
+              "title": "Architects"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -164,6 +163,7 @@
   },
   "active": "1212d1b186c1bda4",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/Windows/impacket.md",
@@ -189,7 +189,6 @@
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Escalada de Privilegios Windows en Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Metasploit/Detectar Equipos Conectados en mi red Privada con Metasploit.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Magento.md",
-    "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Joomla.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
