@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "file": "GalileoQ/CPTS/cpts/nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
+              "title": "nmap"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "active": "3a2e29f0bf28abc8",
   "lastOpenFiles": [
-    "BLOODHOUND.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+    "BLOODHOUND.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Acceder id_rsa para iniciar sesión por SSH a la máquina.md",
     "GalileoQ/Hacking/Mi-Web/Importante.md",
