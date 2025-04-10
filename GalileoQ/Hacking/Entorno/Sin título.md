@@ -1,3 +1,3 @@
 ranger 
 cava
-zsh+oh+my+
+zsh + oh+my+zsh
