@@ -275,6 +275,8 @@ Con los privilegios `GetChanges` y `GetChangesAll` se puede realizar un ataque `
 en este caso no usaremos la herramienta mimikatz debido a que Impacket-secretdump también puede realizar este tipo de ataques. 
 `realizamos el ataque DCSync y obtenemos el hash NT del usuario Administrator`
 
+Impacket-secretdump EG
+
 ![[Pasted image 20240611210426.png]]
 ### impacket-psexec
 con impacket-psexec podemos realizar un pass de hash utilizando el hash que hemos conseguido del usuario administrator 
