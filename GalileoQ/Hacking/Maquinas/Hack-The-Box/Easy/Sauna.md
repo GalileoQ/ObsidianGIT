@@ -260,7 +260,7 @@ aquí podemos buscar la manera mas rápida de poder convertirnos en usuarios adm
 ![[Pasted image 20240611210401.png]]
 
 ### Find Degree Object Control
-aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChangesAll` , `GetChanges` y `DCSync` sobre el DC
+aquí podemos ver que el usuario `svc_loanmgr` tiene las propiedades de `GetChangesAll` , `GetChanges` y `DCSync` sobre el DC (en node info fijate en Fir)
 ![[Pasted image 20240611210407.png]]
 
 `DCSync Attack`
