@@ -237,7 +237,7 @@ hemos generado un archivo llamado `20240314172620_BloodHound.zip` lo descargarem
 ### Opción 2: BloodHound-python
 la herramienta BloodHound-python hace lo mismo que la herramienta SharpHound.ps1 
 ```python
-bloodhound-pyhton -u sv
+bloodhound-pyhton -u svc_loanmgr -p Moneymakestheworldgoround! -ns (IP) -d EGOTISTICAL-BANK.LOCAL -c all
 ```
 
 ![[Pasted image 20240611210336.png]]
