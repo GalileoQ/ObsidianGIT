@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b91a6904790e24b0",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Entorno/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
