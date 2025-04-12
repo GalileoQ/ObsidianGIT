@@ -183,7 +183,7 @@ aqui podemos ver las credenciales del usuario `svc_loanmanager` pero anteriormen
 ### rpcclient
 usando las credenciales de `fsmith` podemos enumerar los usuarios de una manera diferente usando rpcclient y asegurarnos de cual es el usuario existente en este caso `svc_loanmgr`
 
-rpcclient -U "credenciales de smith" IP
+rpcclient -U "credenciales de smith" IP unumdomusers
 
 ![[Pasted image 20240611210206.png]]
 
