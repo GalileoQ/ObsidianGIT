@@ -1445,9 +1445,9 @@
     ],
     "GalileoQ/Hacking/Maquinas/Hack-The-Box": [
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard",
-      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane",
-      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium"
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane"
     ],
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy": [
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img",
