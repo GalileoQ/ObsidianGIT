@@ -4,7 +4,7 @@ crear un perfil para iniciar el programa cada vez que se inicie la maquia
 # crear una carpeta para guardar el script de inicio
 mkdir -p ~/.config/autostart
 
-# archivo para que se inicie con el sistema
+# crear un archivo para guardar el codigo
 nano ~/.config/autostart/neptune.desktop
 
 # codigo del inicio del software
