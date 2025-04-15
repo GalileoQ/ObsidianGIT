@@ -11,10 +11,14 @@
             "id": "d50ea56eed48a274",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Pivoting/Pivoting con Metasploit Linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Pivoting con Metasploit Linux"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meta",
+                "query": "metasploita",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "d50ea56eed48a274",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Pivoting/Pivoting Básico Socat + Chisel.md",
+    "GalileoQ/Hacking/Hacking Generico/OpenSSH 7 Vulnerabilidad User Enumeration.md",
+    "GalileoQ/Hacking/Hacking Generico/Ataques de Denegación de Servicio DoS.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
@@ -199,9 +206,6 @@
     "GalileoQ/Hacking/Entorno/Sin título.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
