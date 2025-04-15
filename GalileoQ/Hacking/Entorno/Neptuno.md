@@ -7,5 +7,15 @@ mkdir -p ~/.config/autostart
 # archivo para que se inicie con el sistema
 nano ~/.config/autostart/neptune.desktop
 
-# codigo de
+# codigo del inicio del software
+
+[Desktop Entry]
+Type=Application
+Exec=Neptune -cli -soundkey nk-cream -volume 0.5
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Neptune
+Comment=Startup sound
+
 ```
