@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aba423b793c06e2",
+        "id": "e5e90eab81ca91f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d74b379cc2982156",
+            "id": "d50ea56eed48a274",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meta",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -175,7 +174,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d74b379cc2982156",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle.md",
