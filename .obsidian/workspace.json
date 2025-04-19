@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hospital"
+              "title": "Iclean"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,6 +180,7 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
@@ -204,7 +206,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
-    "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
