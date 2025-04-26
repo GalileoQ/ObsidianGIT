@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office"
+              "title": "Lantern (Incompleta)"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
-    "![[Pasted.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Office.md",
+    "![[Pasted.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Flight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle (Imcompleta).md",
