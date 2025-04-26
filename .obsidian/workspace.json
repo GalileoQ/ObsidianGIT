@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Técnicas fundamentales"
+              "title": "Pentesting-ADirectory"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
+    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
+    "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-footprinting.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/cpts/Scanning Ports.md",
@@ -202,9 +205,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Pov.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Intelligence.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
