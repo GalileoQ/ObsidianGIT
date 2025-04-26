@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
+                "file": "GalileoQ/CPTS/cpts/Scanning Ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPLOTACIÓN AD"
+              "title": "Scanning Ports"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
+    "GalileoQ/CPTS/cpts/Pivoting, Tunneling, and Port Forwarding.md",
+    "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
@@ -204,8 +206,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Escape.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Timelapse.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
