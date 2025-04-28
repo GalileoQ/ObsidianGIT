@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffer Overflow en windows"
+              "title": "Prototype Pollution"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,6 +179,7 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
     "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
@@ -204,7 +205,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/SolarLab.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
