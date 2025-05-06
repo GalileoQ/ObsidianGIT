@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Scripts/Script para deshabilitar la protección en tiempo real de Windows defender.md",
+                "file": "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script para deshabilitar la protección en tiempo real de Windows defender"
+              "title": "2 - XMLRPC.PHP"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metasploita",
+                "query": "xml",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,8 @@
   },
   "active": "aeae741de5b6b478",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Scripts/lda-injection.md",
     "GalileoQ/Hacking/Scripts/Script para deshabilitar la protección en tiempo real de Windows defender.md",
+    "GalileoQ/Hacking/Scripts/lda-injection.md",
     "GalileoQ/Hacking/Entorno/Neptuno.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
