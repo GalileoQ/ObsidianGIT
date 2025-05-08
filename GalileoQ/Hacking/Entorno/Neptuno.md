@@ -9,11 +9,14 @@ Esto asegura que el binario esté en un lugar estándar para programas de usuari
 
 ### ✅ Paso 2: Crear el archivo de servicio `systemd`
 
-
-`mkdir -p ~/.config/systemd/user nano ~/.config/systemd/user/neptune.service`
+```python
+mkdir -p ~/.config/systemd/user nano ~/.config/systemd/user/neptune.service
+```
 
 Pega este contenido en `nano`:
+```python
 
+```
 ini
 
 CopiarEditar
