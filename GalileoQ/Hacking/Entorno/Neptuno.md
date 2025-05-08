@@ -1,48 +1,30 @@
-crear un perfil para iniciar el programa cada vez que se inicie la maquia 
-
+### Paso 1: Mover el ejecutable a un directorio más permanente
 ```python
-# crear una carpeta para guardar el script de inicio
-mkdir -p ~/.config/autostart
-
-# crear un archivo para guardar el codigo
-nano ~/.config/autostart/neptune.desktop
-
-# codigo del inicio del software
-
-[Desktop Entry]
-Type=Application
-Exec=Neptune -cli -soundkey nk-cream -volume 0.5
-Hidden=false
-NoDisplay=false
-X-GNOME-Autostart-enabled=true
-Name=Neptune
-Comment=Startup sound
+mkdir -p ~/.local/bin mv ~/Downloads/Neptune-Cli ~/.local/bin/ chmod +x ~/.local/bin/Neptune-Cli
 ```
 
-```python
-## Método: Crear un servicio `systemd --user` para Neptune
+Esto asegura que el binario esté en un lugar estándar para programas de usuario y sea ejecutable.
 
-### 1. Crea el archivo del servicio
+---
 
-bash
+### ✅ Paso 2: Crear el archivo de servicio `systemd`
 
-CopiarEditar
 
 `mkdir -p ~/.config/systemd/user nano ~/.config/systemd/user/neptune.service`
 
-### 2. Pega este contenido:
+Pega este contenido en `nano`:
 
 ini
 
 CopiarEditar
 
-`[Unit] Description=Neptune Audio Visualizer After=default.target  [Service] ExecStart=/usr/bin/Neptune -cli -soundkey nk-cream -volume 1.0 Restart=on-failure  [Install] WantedBy=default.target`
+`[Unit] Description=Neptune Audio Visualizer After=default.target  [Service] ExecStart=/home/gleoq/.local/bin/Neptune-Cli -cli -soundkey nk-cream -volume 1.0 Restart=on-failure  [Install] WantedBy=default.target`
 
-> Asegúrate de que la ruta a `Neptune` sea correcta (`which Neptune` para verificar). Si está en otro lugar, cámbiala en `ExecStart`.
+Guarda con `Ctrl+O`, luego `Enter`, y sal con `Ctrl+X`.
 
 ---
 
-### 3. Recarga los servicios de usuario
+### ✅ Paso 3: Recargar los servicios de usuario
 
 bash
 
@@ -50,7 +32,9 @@ CopiarEditar
 
 `systemctl --user daemon-reexec systemctl --user daemon-reload`
 
-### 4. Habilita el servicio para que inicie en cada sesión
+---
+
+### ✅ Paso 4: Habilitar el servicio para que se inicie con la sesión
 
 bash
 
@@ -58,11 +42,12 @@ CopiarEditar
 
 `systemctl --user enable neptune.service`
 
-### 5. Inicia el servicio (para probar sin reiniciar):
+---
+
+### ✅ Paso 5: Iniciar el servicio manualmente (para probar ahora)
 
 bash
 
 CopiarEditar
 
 `systemctl --user start neptune.service`
-```
