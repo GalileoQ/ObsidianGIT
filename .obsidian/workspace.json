@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Neptuno.md",
+                "file": "GalileoQ/Hacking/Entorno/Instalar bat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neptuno"
+              "title": "Instalar bat"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,10 +179,10 @@
   },
   "active": "74c13fc41a95653e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Neptuno.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
     "GalileoQ/Hacking/Scripts/Script para deshabilitar la protección en tiempo real de Windows defender.md",
     "GalileoQ/Hacking/Scripts/lda-injection.md",
-    "GalileoQ/Hacking/Entorno/Neptuno.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Hacking Generico/Prototype Pollution.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
