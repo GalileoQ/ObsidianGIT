@@ -15,34 +15,33 @@ mkdir -p ~/.config/systemd/user nano ~/.config/systemd/user/neptune.service
 
 Pega este contenido en `nano`:
 ```python
+[Unit]
+Description=Neptune Audio Visualizer
+After=default.target
 
+[Service]
+ExecStart=/home/gleoq/.local/bin/Neptune-Cli -cli -soundkey nk-cream -volume 1.0
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
 ```
-ini
 
-CopiarEditar
-
-`[Unit] Description=Neptune Audio Visualizer After=default.target  [Service] ExecStart=/home/gleoq/.local/bin/Neptune-Cli -cli -soundkey nk-cream -volume 1.0 Restart=on-failure  [Install] WantedBy=default.target`
 
 Guarda con `Ctrl+O`, luego `Enter`, y sal con `Ctrl+X`.
 
 ---
 
 ### ✅ Paso 3: Recargar los servicios de usuario
-
-bash
-
-CopiarEditar
-
-`systemctl --user daemon-reexec systemctl --user daemon-reload`
+```python
+systemctl --user daemon-reexec systemctl --user daemon-reload
+```
 
 ---
 
 ### ✅ Paso 4: Habilitar el servicio para que se inicie con la sesión
-
-bash
-
-CopiarEditar
-
+```python
+```
 `systemctl --user enable neptune.service`
 
 ---
