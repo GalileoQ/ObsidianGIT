@@ -41,15 +41,12 @@ systemctl --user daemon-reexec systemctl --user daemon-reload
 
 ### ✅ Paso 4: Habilitar el servicio para que se inicie con la sesión
 ```python
+systemctl --user enable neptune.service
 ```
-`systemctl --user enable neptune.service`
-
 ---
 
 ### ✅ Paso 5: Iniciar el servicio manualmente (para probar ahora)
 
-bash
-
-CopiarEditar
-
-`systemctl --user start neptune.service`
+```python
+systemctl --user start neptune.service
+```
