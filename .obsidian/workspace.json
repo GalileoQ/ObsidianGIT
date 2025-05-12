@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -193,6 +194,8 @@
   },
   "active": "c32799b8820b9065",
   "lastOpenFiles": [
+    "CRTA/Img/Pasted image 20250512192320.png",
+    "CRTA/Img/Pasted image 20250512192250.png",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "CRTA/172.16.25.2.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
@@ -212,7 +215,6 @@
     "CRTA/Img/Pasted image 20250512153036.png",
     "CRTA/Img/Pasted image 20250512150323.png",
     "CRTA/Img/Pasted image 20250512145918.png",
-    "CRTA/Img/Pasted image 20250512145644.png",
     "CRTA/Img",
     "CRTA/Informacion.md",
     "Sin título.md",
@@ -230,7 +232,6 @@
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/CPTS/LAB/Lab Pivoting and Tunneling - Synfonos.md",
-    "GalileoQ/CPTS/Pentesting-Process/Pentesting-ADirectory.md",
     "GalileoQ/CPTS/eCPPTv3/Img",
     "GalileoQ/CPTS/eCPPTv3",
     "GalileoQ/Hacking/CRTO",
