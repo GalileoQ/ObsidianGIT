@@ -7,8 +7,16 @@
       "GalileoQ_vector_embedding"
     ],
     "CRTA": [
+      "CRTA/Img",
       "CRTA/172.16.25.2.md",
       "CRTA/Informacion.md"
+    ],
+    "CRTA/Img": [
+      "CRTA/Img/Pasted image 20250512142719.png",
+      "CRTA/Img/Pasted image 20250512145644.png",
+      "CRTA/Img/Pasted image 20250512145918.png",
+      "CRTA/Img/Pasted image 20250512150323.png",
+      "CRTA/Img/Pasted image 20250512153036.png"
     ],
     "Excalidraw": [
       "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
