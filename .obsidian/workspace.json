@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRTA/Informacion.md",
+                "file": "CRTA/172.16.25.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informacion"
+              "title": "172.16.25.2"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "c32799b8820b9065",
   "lastOpenFiles": [
-    "Sin título.md",
     "CRTA/Informacion.md",
+    "CRTA/172.16.25.2.md",
+    "Sin título.md",
     "BLOODHOUND.md",
     "![[Pasted.md",
     "CRTA",
@@ -206,7 +207,6 @@
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/MagicGardens (INCOMPLETA).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
     "GalileoQ/CPTS/eCPPTv3/Img/wpscam.png",
     "GalileoQ/CPTS/eCPPTv3/Img/docker.png",
     "GalileoQ/CPTS/eCPPTv3/Img/Pasted image 20250309101818.png",
