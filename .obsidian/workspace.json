@@ -35,8 +35,7 @@
               "title": "172.16.25.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ef0bc76930f0a4b",
+  "active": "c32799b8820b9065",
   "lastOpenFiles": [
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "CRTA/172.16.25.2.md",
