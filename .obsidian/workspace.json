@@ -35,7 +35,8 @@
               "title": "Red Team Report (CRTA)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +193,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c32799b8820b9065",
+  "active": "f294f21c45b2ede1",
   "lastOpenFiles": [
     "GalileoQ/Template/Pentesting.md",
     "CRTA/Red Team Report (CRTA).md",
