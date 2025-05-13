@@ -73,9 +73,10 @@ sudo nmap -sS -p- --min-rate 2000 172.16.25.2 -n -Pn
 
 ![[Pasted image 20250512142719.png]]
 
-We performed a scan on each IP to gather information about open ports and available services:
+We performed a scan on each IP to gather information about open ports and available services
 
 # Ports Version 
+
 ```python 
 nmap -p21,22,23,25,53,80,111,139,445,512,513,514,1099,1524,2049,3306,36,32,5432,5900,6000,6200,6667,6697,8009,8180,8787,37198,41564,56126,59201 -sCV 172.16.25.2
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-12 13:28 CDT
@@ -191,9 +192,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 254.13 seconds
 ```
 
-
 We observed several services running outdated versions that may be vulnerable to exploitation.
-
 
 However, in this specific case, we will focus on exploiting port: 
 
