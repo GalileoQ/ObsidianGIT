@@ -50,10 +50,11 @@ This simulation revealed critical misconfigurations and legacy software versions
 
 # Exploitation Path
 
-Initial Access → Production-Server (172.16.25.2) The first step is to identify which machines are accessible within the network:
+Initial Access → Production-Server (172.16.25.11) The first step is to identify which machines are accessible within the network:
 
 ```python
-nmap -sn 172.16.25.0/24 
+> nmap -sn 172.16.25.0/24 
+
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-16 00:01 EDT 
 Nmap scan report for 172.16.25.1 Host is up (0.14s latency). 
 Nmap scan report for 172.16.25.2 Host is up (0.31s latency). 
