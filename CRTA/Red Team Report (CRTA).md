@@ -431,15 +431,17 @@ run
 ```
 
 ```python
-.\exp.exe
+.\reverse.exe
 ```
+
+
 ![[Pasted image 20250512201912.png]]
 
 ![[Pasted image 20250512201519.png]]
 
 
-mimikats
 
+Credential Dumping We loaded Mimikatz and ran it to test credential extraction:
 ![[Pasted image 20250512202312.png]]
 
 
