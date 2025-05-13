@@ -387,11 +387,14 @@ We successfully received a root shell
 
 ![[Pasted image 20250512192320.png]]
 
+# Mitigation
+
 We upgraded to a bash shell
 
 ![[Pasted image 20250512192545.png]]
 
 We are going to obtain a persistence creating a crontab task that executes a root shell every minute
+
 ![[Pasted image 20250512192954.png]]
 
 After searching thoroughly, we find an interesting file and create a Python server to download it
