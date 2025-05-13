@@ -318,8 +318,9 @@ We can identify a vulnerability in port 10000/TCP Open HTTP Miniserv 1.953 (Webm
 We verify the web and we have a login panel in which we tested the credentials that we get previously and get access to the web
 ![[Pasted image 20250513134446.png]]
 
-access contr
+webmin dashboard
 ![[Pasted image 20250513134631.png]]
+
 
 ![[Pasted image 20250513135727.png]]
 
