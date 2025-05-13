@@ -388,10 +388,10 @@ We find a github tool that allows us to extract information from Type .Keytab Fi
 After obtaining the hash NTLMV2 decrypte it and we get a key 
 ![[Pasted image 20250512194413.png]]
 
-
+We used the credentials extracted from the keytab file.
 ![[Pasted image 20250512194651.png]]
 
-
+They are valid for WinRM (Windows Remote Management).
 ![[Pasted image 20250512194902.png]]
 
 
