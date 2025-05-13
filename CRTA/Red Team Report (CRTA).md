@@ -324,6 +324,7 @@ webmin dashboard
 We perform a search and find that this service is vulnerable to Package Updates Remote Command Execution
 ![[Pasted image 20250513135727.png]]
 
+# Remote Code Execution (RCE) in Webmin - CVE-2019-15107
 
 ![[Pasted image 20250512192320.png]]
 
