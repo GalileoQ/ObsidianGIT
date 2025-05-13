@@ -315,9 +315,12 @@ sudo nmap -p- -sCV --open -Pn -n 10.10.10.3
 We can identify a vulnerability in port 10000/TCP Open HTTP Miniserv 1.953 (Webmin HTTPD)
 ![[Pasted image 20250512192250.png]]
 
+
 ![[Pasted image 20250513134446.png]]
 
 ![[Pasted image 20250513134631.png]]
+
+![[Pasted image 20250513135727.png]]
 
 ![[Pasted image 20250512192320.png]]
 
