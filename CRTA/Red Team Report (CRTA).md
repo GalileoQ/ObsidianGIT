@@ -99,6 +99,8 @@ PORT      STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 24.24 seconds
 ```
 
+We attempted to gather more detailed information about the open ports.
+
 ![[Pasted image 20250512142719.png]]
 
 Versiones y servicios 
