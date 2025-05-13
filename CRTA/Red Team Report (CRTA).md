@@ -381,7 +381,7 @@ We are going to obtain a persistence creating a crontab task that executes a roo
 After searching thoroughly, we find an interesting file and create a Python server to download it
 ![[Pasted image 20250512193149.png]]
 
-https://github.com/sosdave/KeyTabExtract.git
+We find a github tool that allows us to extract information from Type .Keytab Files, which may be used to authenticate linux machine to kerberos. The Script Will Extract Information Such as The Realm, main service, Encryption Type and NTLM HASH. https://github.com/sosdave/KeyTabExtract.git
 
 ![[Pasted image 20250512193909.png]]
 
