@@ -378,8 +378,7 @@ We upgraded to a bash shell
 We are going to obtain a persistence creating a crontab task that executes a root shell every minute
 ![[Pasted image 20250512192954.png]]
 
-
-Download Keytab Files
+After searching thoroughly, we found an interesting file 
 ![[Pasted image 20250512193149.png]]
 
 https://github.com/sosdave/KeyTabExtract.git
