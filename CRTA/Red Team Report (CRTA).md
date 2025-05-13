@@ -273,7 +273,9 @@ selec * from users;
 We successfully cracked the hashes using crackstation.
 
 #password
+```python
 
+```
 
 ![[Pasted image 20250512165408.png]]
 
