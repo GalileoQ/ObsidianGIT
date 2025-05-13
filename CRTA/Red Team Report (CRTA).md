@@ -321,8 +321,9 @@ We verify the web and we have a login panel in which we tested the credentials t
 webmin dashboard
 ![[Pasted image 20250513134631.png]]
 
-
+We perform a search and find that this service is vulnerable to Package Updates Remote Command Execution
 ![[Pasted image 20250513135727.png]]
+
 
 ![[Pasted image 20250512192320.png]]
 
