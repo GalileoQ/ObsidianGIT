@@ -289,7 +289,7 @@ The target network `10.10.10.0/24` is directly reachable through the VPN tunnel 
 
 ![[Pasted image 20250513132613.png]]
 
-
+After listing and performing different types of scan we can identify a route to advance
 ![[Pasted image 20250512181147.png]]
 
 
