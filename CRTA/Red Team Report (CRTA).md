@@ -56,8 +56,9 @@ Initial Access → Production-Server (172.16.25.2) The first step is to identify
 > nmap -sn 172.16.25.0/24 Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-16 00:01 EDT Nmap scan report for 172.16.25.1 Host is up (0.14s latency). Nmap scan report for 172.16.25.2 Host is up (0.31s latency). Nmap scan report for 172.16.25.3 Host is up (0.24s latency). Nmap done: 256 IP addresses (3 hosts up) scanned in 15.07 seconds
 ```
 
-Nmap
+We performed a scan on each IP to gather information about open ports and available services:
 
+Nmap
 ```python
 sudo nmap -sS -p- --open --min-rate 2000 172.16.25.2 -n -Pn
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-12 13:21 CDT
