@@ -399,7 +399,15 @@ We successfully received a root shell
 For CVE-2019-15107, the mitigation involves the following steps:
 
 ```python
-Upgrade: Immediately upgrade Webmin to version 1.930 or later, which patches the vulnerable `password_change.cgi` module.
+Upgrade: Immediately upgrade Webmin to lates version, which patches the vulnerable `password_change.cgi` module.
+
+```
+
+```python
+Access Restriction: Limit access to Webmin to trusted IP addresses only, preferably localhost, by editing `miniserv.conf`.
+
+# Example entry in /etc/webmin/miniserv.conf:
+# allow=127.0.0.1
 
 ```
 
