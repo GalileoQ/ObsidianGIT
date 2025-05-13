@@ -180,7 +180,10 @@ Nmap done: 1 IP address (1 host up) scanned in 254.13 seconds
 ```
 
 
-ftp
+We observed several services running outdated versions that may be vulnerable to exploitation.
+
+
+However, in this specific case, we will focus on exploiting port: ftp
 usando metaexploit podemos conseguir un exploit para la explotacion del puerto ftp version 2.3.4
 ![[Pasted image 20250512145644.png]]
 
