@@ -404,8 +404,9 @@ impacket-psexec 'child-admin:R0cky!@#$%@10.10.10.2'
 ![[Pasted image 20250512195600.png]]
 
 
-reverse shell
+In this step I built a payload to get a meterpreter in Metaesploit and Dumpear Credentials
 ![[Pasted image 20250512200042.png]]
+
 
 ![[Pasted image 20250512201912.png]]
 
