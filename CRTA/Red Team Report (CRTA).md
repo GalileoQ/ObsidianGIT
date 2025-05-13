@@ -385,7 +385,7 @@ We find a github tool that allows us to extract information from Type .Keytab Fi
 
 ![[Pasted image 20250512193909.png]]
 
-After obtaining the hash NTLMV2 decrypte it and we get a key
+After obtaining the hash NTLMV2 decrypte it and we get a key 
 ![[Pasted image 20250512194413.png]]
 
 
