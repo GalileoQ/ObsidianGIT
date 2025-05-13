@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Template/Pentesting.md",
+                "file": "CRTA/Red Team Report (CRTA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting"
+              "title": "Red Team Report (CRTA)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,12 +193,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c32799b8820b9065",
+  "active": "f294f21c45b2ede1",
   "lastOpenFiles": [
+    "GalileoQ/Template/Pentesting.md",
+    "CRTA/Red Team Report (CRTA).md",
     "CRTA/Img/Pasted image 20250513132613.png",
     "CRTA/Informacion.md",
-    "CRTA/Red Team Report (CRTA).md",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/Template/docker.md",
     "GalileoQ/Template/AD.md",
     "CRTA/Img/Pasted image 20250513123707.png",
@@ -212,7 +213,6 @@
     "CRTA/Img/Pasted image 20250512202312.png",
     "CRTA/Img/Pasted image 20250512201912.png",
     "CRTA/Img/Pasted image 20250512201519.png",
-    "CRTA/Img/Pasted image 20250512200042.png",
     "GalileoQ/CPTS/eCPPTv3/172.31.37.55 ------- Linux PWN.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/10 - Shellshock.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/3 - Hydra - Ataque de Fuerza Bruta MySQL.md",
