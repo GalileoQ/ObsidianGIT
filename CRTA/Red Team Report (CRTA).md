@@ -396,6 +396,13 @@ We successfully received a root shell
 
 # mitigation
 
+For CVE-2019-15107, the mitigation involves the following steps:
+
+```python
+Upgrade: Immediately upgrade Webmin to version 1.930 or later, which patches the vulnerable `password_change.cgi` module.
+
+```
+
 We upgraded to a bash shell
 
 ![[Pasted image 20250512192545.png]]
