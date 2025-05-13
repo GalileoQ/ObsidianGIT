@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle (Imcompleta).md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axlle (Imcompleta)"
+              "title": "Blazorized"
             }
           }
         ],
@@ -209,6 +209,7 @@
   },
   "active": "1f23f40a22e74fc3",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Axlle (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
     "CRTA/172.16.25.2.md",
     "CRTA/Img/Pasted image 20250512203353.png",
