@@ -442,10 +442,10 @@ We loaded Mimikatz and ran it to test credential extraction:
 
 ![[Pasted image 20250512202312.png]]
 
-We also attempted to extract all possible credentials stored in the system’s memory using
+We also attempted to extract all possible credentials stored in the system’s memory
 ![[Pasted image 20250512202334.png]]
 
-We extracted the password hashes of local users from the SAM (Security Account Manager) using
+We extracted the password hashes of local users from the SAM (Security Account Manager)
 ![[Pasted image 20250512203353.png]]
 
 
