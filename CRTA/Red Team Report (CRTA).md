@@ -270,7 +270,11 @@ selec * from users;
 
 ![[Pasted image 20250512165114.png]]
 
-credenciales de la base de datos
+We successfully cracked the hashes using crackstation.
+
+#password
+
+
 ![[Pasted image 20250512165408.png]]
 
 
