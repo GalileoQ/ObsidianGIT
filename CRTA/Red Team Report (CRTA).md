@@ -389,10 +389,10 @@ We successfully received a root shell
 
 # Vulnerability
 
-| CVE-XXXX-XXXXX | Name of vulnerability      | level         | Link                                                                      |
-| -------------- | -------------------------- | ------------- | ------------------------------------------------------------------------- |
-| CVE-2019-15107 | Backdoor Command Execution | ==10.0/HIGH== | [[[NVD - CVE-2011-2523](https://nvd.nist.gov/vuln/detail/CVE-2011-2523)]] |
-|                |                            |               |                                                                           |
+| CVE-XXXX-XXXXX | Name of vulnerability | level         | Link                                                                         |
+| -------------- | --------------------- | ------------- | ---------------------------------------------------------------------------- |
+| CVE-2019-15107 | Webmin Packageup rce  | ==10.0/HIGH== | [[[[NVD - cve-2019-15107](https://nvd.nist.gov/vuln/detail/cve-2019-15107)]] |
+|                |                       |               |                                                                              |
 
 # mitigation
 
