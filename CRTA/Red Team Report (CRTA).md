@@ -459,7 +459,13 @@ kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-23
 
 # AD Enumeration 
 
-We uploaded PowerView to gather more information about the Active Directory environment.
+uploaded PowerView to gather more information about the Active Directory environment.
+
+imported the module
+
+```python
+PS C:\Users\Administrator\Desktop> Import-Module ./PowerView.ps1
+```
 
 ![[Pasted image 20250512210444.png]]
 
