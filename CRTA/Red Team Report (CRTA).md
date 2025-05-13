@@ -303,8 +303,13 @@ The target network `10.10.10.0/24` is directly reachable through the VPN tunnel 
 After listing and performing different types of scan we can identify a route to advance
 ![[Pasted image 20250512181147.png]]
 
+# Exploitation through the second network interface
+# Nmap
+We attempted to gather more detailed information about the open ports.
 
-10.10.10.3
+```python
+sudo nmap -sS -p- --min-rate 2000 172.16.25.2 -n -Pn
+```
 
 ![[Pasted image 20250512192250.png]]
 
