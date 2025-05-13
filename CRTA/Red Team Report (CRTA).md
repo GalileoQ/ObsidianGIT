@@ -217,6 +217,14 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 |                |                            |               |                                                                           |
 |                |                            |               |                                                                           |
 
+# mitigation
+For CVE-2011-2523, the mitigation involves the following steps:
+
+Upgrade: Immediately upgrade to a non-vulnerable version of vsftpd beyond 2.3.4.
+
+Patch Verification: Validate that the updated version does not contain the backdoor.
+
+
 # Privilege Escalation
 
 ![[Pasted image 20250512150323.png]]
