@@ -285,6 +285,8 @@ We successfully cracked the hashes using crackstation.
 
 # Network Pivoting 
 
+The target network `10.10.10.0/24` is directly reachable through the VPN tunnel (`tun0`) via the gateway `172.16.250.1`, as shown in the routing table. Therefore, no lateral movement or pivoting through intermediate hosts
+
 ![[Pasted image 20250513132613.png]]
 
 
