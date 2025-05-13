@@ -372,8 +372,7 @@ msf6 exploit(linux/http/webmin_packageup_rce) > set payload cmd/unix/bind_netcat
 We successfully received a root shell
 ![[Pasted image 20250512192320.png]]
 
-
-obteniendo una shell interactiva.
+We upgraded to a bash shell
 ![[Pasted image 20250512192545.png]]
 
 persistencia
