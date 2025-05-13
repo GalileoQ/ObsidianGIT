@@ -369,6 +369,7 @@ msf6 exploit(linux/http/webmin_packageup_rce) > set payload cmd/unix/bind_netcat
 
 # Remote Code Execution (RCE) in Webmin - CVE-2019-15107
 
+We successfully received a root shell
 ![[Pasted image 20250512192320.png]]
 
 
