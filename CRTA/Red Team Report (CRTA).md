@@ -283,6 +283,7 @@ We successfully cracked the hashes using crackstation.
 
 ![[Pasted image 20250512165408.png]]
 
+# Network Pivoting 
 
 ![[Pasted image 20250513132613.png]]
 
