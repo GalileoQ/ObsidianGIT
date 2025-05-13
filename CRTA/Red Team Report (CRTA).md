@@ -304,12 +304,14 @@ After listing and performing different types of scan we can identify a route to 
 ![[Pasted image 20250512181147.png]]
 
 # Exploitation through the second network interface
+
 # Nmap
 
 
 ```python
 sudo nmap -p- -sCV --open -Pn -n 10.10.10.3
 ```
+
 
 ![[Pasted image 20250512192250.png]]
 
