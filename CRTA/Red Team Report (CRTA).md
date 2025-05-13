@@ -305,10 +305,10 @@ After listing and performing different types of scan we can identify a route to 
 
 # Exploitation through the second network interface
 # Nmap
-We attempted to gather more detailed information about the open ports.
+
 
 ```python
-sudo nmap -sS -p- --min-rate 2000 172.16.25.2 -n -Pn
+sudo nmap -p- -sCV --open -Pn -n 10.10.10.3
 ```
 
 ![[Pasted image 20250512192250.png]]
