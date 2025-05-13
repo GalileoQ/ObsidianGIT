@@ -215,7 +215,7 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2011-2523  |                             |      |       |      |
+| CVE-2011-2523  | Backdoor Command Execution  | BCE  |       |      |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
 
