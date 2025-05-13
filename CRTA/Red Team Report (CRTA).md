@@ -209,15 +209,13 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ![[Pasted image 20250512145918.png]]
 
-
+### Vulnerabilidades
 
 ![[Pasted image 20250513123707.png]]
 
-### Vulnerabilidades
-
 | CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
 | -------------- | --------------------------- | ---- | ----- | ---- |
-|                |                             |      |       |      |
+| CVE-2011-2523  |                             |      |       |      |
 |                |                             |      |       |      |
 |                |                             |      |       |      |
 
