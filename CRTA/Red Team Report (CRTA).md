@@ -405,13 +405,10 @@ Upgrade: Immediately upgrade Webmin to lates version, which patches the vulnerab
 
 ```python
 Access Restriction: Limit access to Webmin to trusted IP addresses only, preferably localhost, by editing `miniserv.conf`.
-
-# Example entry in /etc/webmin/miniserv.conf:
-# allow=127.0.0.1
-
 ```
 
-We upgraded to a bash shell
+#  
+pgraded to a bash shell
 
 ![[Pasted image 20250512192545.png]]
 
