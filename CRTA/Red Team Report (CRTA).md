@@ -209,7 +209,8 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ![[Pasted image 20250512145918.png]]
 
-# privilage
+# Privilege Escalation
+
 ![[Pasted image 20250512150323.png]]
 
 After receiving a shell from the previously executed exploit, we upgraded to a bash shell
