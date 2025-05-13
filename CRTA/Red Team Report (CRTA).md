@@ -1,3 +1,4 @@
+
 # Introduction 
 This report documents the activities carried out during a Red Teaming simulation conducted for evaluation purposes as part of the Certified Red Team Analyst (CRTA) certification. The main objective of this operation was to replicate techniques, tactics, and procedures (TTPs) used by real-world threat actors to assess the security posture of a simulated enterprise environment. A structured offensive methodology was applied throughout the assessment, covering phases such as reconnaissance, exploitation, privilege escalation, persistence, and exfiltration, all within the boundaries defined by the certification scope. This document outlines the findings, successful attack vectors, techniques used, and recommendations to mitigate the identified risks. 
 
