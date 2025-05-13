@@ -67,6 +67,10 @@ Nmap done: 256 IP addresses (3 hosts up) scanned in 12.22 seconds
 # Nmap
 We attempted to gather more detailed information about the open ports.
 
+```python
+sudo nmap -sS -p- --min-rate 2000 172.16.25.2 -n -Pn
+```
+
 ![[Pasted image 20250512142719.png]]
 
 We performed a scan on each IP to gather information about open ports and available services:
