@@ -209,13 +209,13 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ![[Pasted image 20250512145918.png]]
 
-### Vulnerabilidad
+### Vulnerability
 
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Nivel         | Link                                                                      |
-| -------------- | --------------------------- | ------------- | ------------------------------------------------------------------------- |
-| CVE-2011-2523  | Backdoor Command Execution  | ==10.0/HIGH== | [[[NVD - CVE-2011-2523](https://nvd.nist.gov/vuln/detail/CVE-2011-2523)]] |
-|                |                             |               |                                                                           |
-|                |                             |               |                                                                           |
+| CVE-XXXX-XXXXX | Name of vulnerability      | level         | Link                                                                      |
+| -------------- | -------------------------- | ------------- | ------------------------------------------------------------------------- |
+| CVE-2011-2523  | Backdoor Command Execution | ==10.0/HIGH== | [[[NVD - CVE-2011-2523](https://nvd.nist.gov/vuln/detail/CVE-2011-2523)]] |
+|                |                            |               |                                                                           |
+|                |                            |               |                                                                           |
 
 # Privilege Escalation
 
