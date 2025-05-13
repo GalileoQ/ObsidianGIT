@@ -256,6 +256,17 @@ And finally we will be listening to the port we have selected. In this case the 
 
 While exploring the compromised machine, I found sensitive data, which is presented below
 
+```python
+mysql -u root
+```
+
+```python
+use dvwa
+```
+
+```python
+selec
+```
 
 ![[Pasted image 20250512165114.png]]
 
