@@ -201,7 +201,6 @@ However, in this specific case, we will focus on exploiting port:
 21/tcp    open   ftp         vsftpd 2.3.4
 ```
 
-
 ![[Pasted image 20250512145644.png]]
 
 # Find a functional exploit 
