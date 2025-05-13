@@ -1,3 +1,22 @@
+Introduction This report documents the activities carried out during a Red Teaming simulation conducted for evaluation purposes as part of the Certified Red Team Analyst (CRTA) certification. The main objective of this operation was to replicate techniques, tactics, and procedures (TTPs) used by real-world threat actors to assess the security posture of a simulated enterprise environment. A structured offensive methodology was applied throughout the assessment, covering phases such as reconnaissance, exploitation, privilege escalation, persistence, and exfiltration, all within the boundaries defined by the certification scope. This document outlines the findings, successful attack vectors, techniques used, and recommendations to mitigate the identified risks. Scope Initial Access SCOPE of Engagement: - 172.16.25.0/24 [ONLY 172.16.25.1 is out of scope] - 10.10.10.0/25 [ONLY 10.10.10.1 is out of scope] Executive Summary This Red Team engagement was conducted as part of the Certified Red Team Analyst (CRTA) certification, simulating a real-world adversary with the objective of gaining access to a sensitive file: secret.xml. The assessment focused on identifying weaknesses within a segmented enterprise environment and exploiting them to demonstrate potential business impact. Objective Gain access to the file secret.xml located in one of the internal servers, documenting each step used to achieve this goal. Key Techniques & Findings ● Initial Access: Achieved via Apache Tomcat Manager (port 8180), using default credentials and exploiting the tomcat_mgr_upload vulnerability. ● Privilege Escalation: Local privilege escalation was performed by abusing a misconfigured find binary with SUID permissions, granting root access.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nmap
 
 ```python
