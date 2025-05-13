@@ -211,13 +211,11 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ### Vulnerabilidades
 
-![[Pasted image 20250513123707.png]]
-
-| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Tipo | Nivel | Link |
-| -------------- | --------------------------- | ---- | ----- | ---- |
-| CVE-2011-2523  | Backdoor Command Execution  | BCE  |       |      |
-|                |                             |      |       |      |
-|                |                             |      |       |      |
+| CVE-XXXX-XXXXX | Nombre de la vulnerabilidad | Nivel         | Link |
+| -------------- | --------------------------- | ------------- | ---- |
+| CVE-2011-2523  | Backdoor Command Execution  | ==10.0/HIGH== |      |
+|                |                             |               |      |
+|                |                             |               |      |
 
 # Privilege Escalation
 
