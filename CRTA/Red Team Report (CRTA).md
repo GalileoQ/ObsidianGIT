@@ -30,22 +30,27 @@ This simulation revealed critical misconfigurations and legacy software versions
 ● Remote Code Execution (RCE) 
 
 ● Privilege Escalation 
+
 ● Lateral Movement 
+
 ● Domain Persistence via Golden Ticket Recommendation Overview 
+
 ● Remove or secure Tomcat Manager interfaces. 
-● Eliminate use of default credentials. ● Harden Linux permissions and remove unnecessary SUID binaries. ● Patch vulnerable services (e.g., Webmin). ● Improve internal segmentation and monitoring. ● Regularly rotate and manage credentials securely.
+
+● Eliminate use of default credentials. 
+
+● Harden Linux permissions and remove unnecessary SUID binaries. 
+
+● Patch vulnerable services (e.g., Webmin). 
+
+● Improve internal segmentation and monitoring. 
+
+● Regularly rotate and manage credentials securely.
 
 
+# Exploitation Path
 
-
-
-
-
-
-
-
-
-
+Initial Access → Production-Server (172.16.25.2) The first step is to identify which machines are accessible within the network:
 
 Nmap
 
