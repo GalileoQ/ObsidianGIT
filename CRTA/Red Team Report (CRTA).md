@@ -375,8 +375,7 @@ We successfully received a root shell
 We upgraded to a bash shell
 ![[Pasted image 20250512192545.png]]
 
-persistencia
-
+We are going to obtain a persistence creating a crontab task that executes a root shell every minute
 ![[Pasted image 20250512192954.png]]
 
 
