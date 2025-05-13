@@ -22,7 +22,18 @@ Multiple sensitive credentials were discovered in plaintext and via tools like l
 
 ● Active Directory Exploitation: Kerberos tickets were forged using a Golden Ticket attack after extracting the necessary krbtgt hash. 
 
-● Final Objective: The secret.xml file was successfully located and exfiltrated from the domain controller, completing the challenge. Impact Demonstrated This simulation revealed critical misconfigurations and legacy software versions that enabled full domain compromise, including: ● Remote Code Execution (RCE) ● Privilege Escalation ● Lateral Movement ● Domain Persistence via Golden Ticket Recommendation Overview ● Remove or secure Tomcat Manager interfaces. ● Eliminate use of default credentials. ● Harden Linux permissions and remove unnecessary SUID binaries. ● Patch vulnerable services (e.g., Webmin). ● Improve internal segmentation and monitoring. ● Regularly rotate and manage credentials securely.
+● Final Objective: The secret.xml file was successfully located and exfiltrated from the domain controller, completing the challenge. 
+
+# Impact Demonstrated
+This simulation revealed critical misconfigurations and legacy software versions that enabled full domain compromise, including: 
+
+● Remote Code Execution (RCE) 
+
+● Privilege Escalation 
+● Lateral Movement 
+● Domain Persistence via Golden Ticket Recommendation Overview 
+● Remove or secure Tomcat Manager interfaces. 
+● Eliminate use of default credentials. ● Harden Linux permissions and remove unnecessary SUID binaries. ● Patch vulnerable services (e.g., Webmin). ● Improve internal segmentation and monitoring. ● Regularly rotate and manage credentials securely.
 
 
 
