@@ -315,7 +315,7 @@ sudo nmap -p- -sCV --open -Pn -n 10.10.10.3
 
 ![[Pasted image 20250512192250.png]]
 
-
+![[Pasted image 20250513134446.png]]
 
 ![[Pasted image 20250512192320.png]]
 
