@@ -378,7 +378,7 @@ We upgraded to a bash shell
 We are going to obtain a persistence creating a crontab task that executes a root shell every minute
 ![[Pasted image 20250512192954.png]]
 
-After searching thoroughly, we found an interesting file 
+After searching thoroughly, we find an interesting file and create a Python server to download it
 ![[Pasted image 20250512193149.png]]
 
 https://github.com/sosdave/KeyTabExtract.git
