@@ -13,7 +13,16 @@ Initial Access: Achieved via Apache Tomcat Manager (port 8180), using default cr
 
 Privilege Escalation: Local privilege escalation was performed by abusing a misconfigured find binary with SUID permissions, granting root access.
 
+# Credential Discovery: 
+Multiple sensitive credentials were discovered in plaintext and via tools like linPEAS, Mimikatz, and keytabextract. 
 
+● Internal Pivoting: Routing through the compromised host enabled lateral movement into the internal network (10.10.10.0/25). 
+
+● Webmin RCE: Successful exploitation of Webmin (CVE-2019-15107) resulted in further system compromise with root access. 
+
+● Active Directory Exploitation: Kerberos tickets were forged using a Golden Ticket attack after extracting the necessary krbtgt hash. 
+
+● Final Objective: The secret.xml file was successfully located and exfiltrated from the domain controller, completing the challenge. Impact Demonstrated This simulation revealed critical misconfigurations and legacy software versions that enabled full domain compromise, including: ● Remote Code Execution (RCE) ● Privilege Escalation ● Lateral Movement ● Domain Persistence via Golden Ticket Recommendation Overview ● Remove or secure Tomcat Manager interfaces. ● Eliminate use of default credentials. ● Harden Linux permissions and remove unnecessary SUID binaries. ● Patch vulnerable services (e.g., Webmin). ● Improve internal segmentation and monitoring. ● Regularly rotate and manage credentials securely.
 
 
 
