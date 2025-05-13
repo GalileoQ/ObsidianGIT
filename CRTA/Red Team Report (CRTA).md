@@ -469,6 +469,8 @@ PS C:\Users\Administrator\Desktop> Import-Module ./PowerView.ps1
 We gathered information about the domain
 ![[Pasted image 20250512210444.png]]
 
+Golden Ticket Attack We ran Mimikatz again and attempted a Golden Ticket attack using the information collected:
+
 ```python
 dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
 ```
