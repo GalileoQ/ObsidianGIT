@@ -248,12 +248,12 @@ And finally we will be listening to the port we have selected. In this case the 
 
 # Credential leak
 
-#Nota Some of these credentials were tested in the webmin service in port 1000 and we got access
+#Nota: Some of these credentials were tested in the webmin service in port 1000 and we got access
 
 ![[Pasted image 20250512164302.png]]
 
 
-información sobre la base de datos
+
 ![[Pasted image 20250512165114.png]]
 
 credenciales de la base de datos
