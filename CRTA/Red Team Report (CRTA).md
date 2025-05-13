@@ -224,7 +224,7 @@ This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ![[Pasted image 20250512145918.png]]
 
-### Vulnerability
+# Vulnerability
 
 | CVE-XXXX-XXXXX | Name of vulnerability      | level         | Link                                                                      |
 | -------------- | -------------------------- | ------------- | ------------------------------------------------------------------------- |
@@ -387,6 +387,7 @@ We successfully received a root shell
 
 ![[Pasted image 20250512192320.png]]
 
+# vulnerability
 # Mitigation
 
 We upgraded to a bash shell
