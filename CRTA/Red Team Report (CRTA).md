@@ -387,8 +387,14 @@ We successfully received a root shell
 
 ![[Pasted image 20250512192320.png]]
 
-# vulnerability
-# Mitigation
+# Vulnerability
+
+| CVE-XXXX-XXXXX | Name of vulnerability      | level         | Link                                                                      |
+| -------------- | -------------------------- | ------------- | ------------------------------------------------------------------------- |
+| CVE-2019-15107 | Backdoor Command Execution | ==10.0/HIGH== | [[[NVD - CVE-2011-2523](https://nvd.nist.gov/vuln/detail/CVE-2011-2523)]] |
+|                |                            |               |                                                                           |
+
+# mitigation
 
 We upgraded to a bash shell
 
