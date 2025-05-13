@@ -276,9 +276,9 @@ We successfully cracked the hashes using crackstation.
 | ------- | ---------- | --------- | ------- | ------------ |
 | 1       | admin      | admin     | admin   | ==password== |
 | 2       | Gordon     | Brown     | gordonb | ==abc123==   |
-| 3       | Hack       | Me        | 1337    | charley      |
-| 4       | Pablo      | Picasso   | pablo   | letmein      |
-| 5       | Bob        | Smith     | smithy  | password     |
+| 3       | Hack       | Me        | 1337    | ==charley==  |
+| 4       | Pablo      | Picasso   | pablo   | ==letmein==  |
+| 5       | Bob        | Smith     | smithy  | ==password== |
 
 
 ![[Pasted image 20250512165408.png]]
