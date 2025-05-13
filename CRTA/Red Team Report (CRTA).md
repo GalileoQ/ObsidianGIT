@@ -252,8 +252,11 @@ And finally we will be listening to the port we have selected. In this case the 
 
 ![[Pasted image 20250512164302.png]]
 
-# More Data 
-While exploring the compromised machine, I found sensitive data, which is presented below:
+# Database Information
+
+While exploring the compromised machine, I found sensitive data, which is presented below
+
+
 ![[Pasted image 20250512165114.png]]
 
 credenciales de la base de datos
