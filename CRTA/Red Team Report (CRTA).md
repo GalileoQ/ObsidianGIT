@@ -284,6 +284,7 @@ We successfully cracked the hashes using crackstation.
 ![[Pasted image 20250512165408.png]]
 
 
+![[Pasted image 20250513132613.png]]
 
 
 ![[Pasted image 20250512181147.png]]
