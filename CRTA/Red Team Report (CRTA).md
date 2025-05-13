@@ -261,11 +261,11 @@ mysql -u root
 ```
 
 ```python
-use dvwa
+use dvwa;
 ```
 
 ```python
-selec
+selec * from users;
 ```
 
 ![[Pasted image 20250512165114.png]]
