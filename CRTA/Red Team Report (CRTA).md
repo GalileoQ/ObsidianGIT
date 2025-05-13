@@ -395,7 +395,12 @@ They are valid for WinRM (Windows Remote Management).
 ![[Pasted image 20250512194902.png]]
 
 
-psexec
+They also work with PsExec.
+
+```python
+impacket-psexec 'child-admin:R0cky!@#$%@10.10.10.2'
+```
+
 ![[Pasted image 20250512195600.png]]
 
 
