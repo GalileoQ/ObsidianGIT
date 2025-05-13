@@ -9,9 +9,9 @@ This Red Team engagement was conducted as part of the Certified Red Team Analyst
 
 # Key Techniques & Findings 
 
-Initial Access: Achieved via Apache Tomcat Manager (port 8180), using default credentials and exploiting the tomcat_mgr_upload vulnerability.
+Initial Access: Achieved via Backdoor Command Execution, using the exploit exploit/unix/ftp/vsftpd_234_backdoor.
 
-Privilege Escalation: Local privilege escalation was performed by abusing a misconfigured find binary with SUID permissions, granting root access.
+Privilege Escalation: Local privilege escalation was performed by abusing a misconfigured
 
 # Credential Discovery: 
 Multiple sensitive credentials were discovered in plaintext and via tools like linPEAS, Mimikatz, and keytabextract. 
