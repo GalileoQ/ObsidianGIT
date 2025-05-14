@@ -43,3 +43,8 @@ mkdir ~/.config/{bspwm,sxhkd}
 
 ahora vamos a copiar los archivos necesarios que estan dentro de los repositorios que hemos descargado:
 
+```python
+cd (ruta del repo de bspwm)
+cd examples
+
+```
