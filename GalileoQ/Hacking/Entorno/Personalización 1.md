@@ -55,9 +55,9 @@ cd sxhkd ~/.config/sxhkd/
 
 ahora configuramos un poco el archivo sxhkd
 
-primero instalamos kitty
+primero instalamos kitty pero la version actualizada desde los repositorios
 ```python
-sudo apt install kitty
+# abrimos firefox
 ```
 
 dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
