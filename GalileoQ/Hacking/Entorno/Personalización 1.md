@@ -147,5 +147,7 @@ dentro del sxhkd
 ```python
 # program launcher
 super + d
-	/user/
+	/user/bin/rofi -show run
 ```
+
+ya podemos ir al bspwm
