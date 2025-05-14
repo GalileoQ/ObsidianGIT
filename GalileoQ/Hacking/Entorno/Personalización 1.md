@@ -81,3 +81,8 @@ cambiamos el focus de las ventanas al moverlas
 # cambiamos hjkl poer las flechas
 ```
 
+cambiamos el tamaño de la ventala antes de abrirla (preselectores)
+```python
+# cambiamos hjkl por las flechas
+```
+
