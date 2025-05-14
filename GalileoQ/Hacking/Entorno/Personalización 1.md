@@ -180,3 +180,10 @@ sudo apt install zsh
 ```
 
 vamos a activar la clipboard
+```python
+nano ./bspwm/bspwmrc
+
+#agregamos
+
+vmware-user-suid-wrapper &
+```
