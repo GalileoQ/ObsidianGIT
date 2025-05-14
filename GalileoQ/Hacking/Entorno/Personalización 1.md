@@ -19,3 +19,8 @@ git clone https://github.com/baskerville/bspwm.git
 git clone https://github.com/baskerville/sxhkd.git
 ```
 
+despues dentro del repo de bspwm
+
+```python
+
+```
