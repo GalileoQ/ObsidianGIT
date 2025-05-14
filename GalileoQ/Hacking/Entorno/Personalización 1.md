@@ -164,4 +164,12 @@ abrimos firefox y descargamos las fuentes hack nerd fonts
 https://www.nerdfonts.com/font-downloads
 ```
 
-una ves descargado el archivo movemos el comprimido a la ruta de las fuentes 
+una ves descargado el archivo lo movemos a la ruta de las fuentes 
+```python
+mv archivodefuentes.zip /user/local/share/fonts
+```
+
+descomprimimos el archivo
+```python
+7z 
+```
