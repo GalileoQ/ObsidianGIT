@@ -128,3 +128,10 @@ descargarmos el repositorio de de picom
 git clone https://github.com/yshui/picom.git
 ```
 
+despues dentro del directorio de picom
+
+```python
+meson setup --buildtype=release build
+
+$ ninja -C build
+```
