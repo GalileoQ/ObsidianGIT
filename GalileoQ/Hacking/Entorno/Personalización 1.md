@@ -106,3 +106,13 @@ esac
 
 bspc node -z "$dir" "$x" "$y" || bspc node -z "$falldir" "$x" "$y"
 ```
+
+instalamos la polibar 
+```python
+sudo apt install polybar
+```
+
+instalamos picom
+```python
+
+```
