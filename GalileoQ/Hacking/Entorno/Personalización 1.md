@@ -22,5 +22,13 @@ git clone https://github.com/baskerville/sxhkd.git
 despues dentro del repo de bspwm
 
 ```python
+make
+
+sudo make install
+```
+
+hacemos lo mismo con el repo de sxhkd
+
+```python
 
 ```
