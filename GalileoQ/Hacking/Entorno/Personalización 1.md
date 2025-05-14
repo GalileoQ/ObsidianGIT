@@ -164,3 +164,4 @@ abrimos firefox y descargamos las fuentes hack nerd fonts
 https://www.nerdfonts.com/font-downloads
 ```
 
+una ves descargado el archivo movemos el comprimido a la ruta de las fuentes 
