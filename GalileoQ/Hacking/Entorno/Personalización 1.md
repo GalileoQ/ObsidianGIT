@@ -153,3 +153,8 @@ super + d
 ya podemos ir al bspwm
 
 ahora vamos con las fuentes
+```python
+sudo root
+
+cd /user/local/share/fonts
+```
