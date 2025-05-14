@@ -62,3 +62,10 @@ sudo apt install kitty
 
 dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
 
+```python
+# terminal emulator
+
+super + Return
+	/user/bin/kitty
+```
+
