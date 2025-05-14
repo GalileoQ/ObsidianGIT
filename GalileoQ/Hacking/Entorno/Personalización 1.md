@@ -69,3 +69,4 @@ super + Return
 	/user/bin/kitty
 ```
 
+cambiamos el atajo de
