@@ -57,5 +57,8 @@ ahora configuramos un poco el archivo sxhkd
 
 primero instalamos kitty
 ```python
-sudo apt ins
+sudo apt install kitty
 ```
+
+dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
+
