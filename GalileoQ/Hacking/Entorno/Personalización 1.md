@@ -159,4 +159,8 @@ sudo root
 cd /user/local/share/fonts
 ```
 
-abrimos firefox y descargamos las fuentes hack ne
+abrimos firefox y descargamos las fuentes hack nerd fonts
+```python
+https://www.nerdfonts.com/font-downloads
+```
+
