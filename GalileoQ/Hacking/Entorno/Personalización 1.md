@@ -212,7 +212,7 @@ vamos a configurar la kitty
 
 cd kitty
 
-# pagamos esta configuracion
+# pagamos esta configuracion dentro de un archivo que se llame kitty.conf
 
 enable_audio_bell no
 
