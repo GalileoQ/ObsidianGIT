@@ -66,7 +66,14 @@ Linux amd64 binary bundle
 ```
 
 vamos al directorio opt
-```pytho
+```python
+sudo su
+
+cd /opt
+
+# movemos el archivo de kitty a la ruta /opt
+
+# creamos un directorio llamado kitty y descomprimimos
 ```
 
 dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
