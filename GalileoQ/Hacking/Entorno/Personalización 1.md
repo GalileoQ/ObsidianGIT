@@ -11,3 +11,11 @@ ahora hacemos un update
 sudo apt update
 ```
 
+despues clonamos los repos 
+
+```python
+git clone https://github.com/baskerville/bspwm.git
+
+git clone https://github.com/baskerville/sxhkd.git
+```
+
