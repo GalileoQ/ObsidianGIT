@@ -187,3 +187,5 @@ nano ./bspwm/bspwmrc
 
 vmware-user-suid-wrapper &
 ```
+
+vamos a actualizar la kitty
