@@ -35,4 +35,8 @@ make
 sudo make install
 ```
 
-despues vamos a 
+después vamos a crear los directorios de configuración para ambos archivos
+
+```python
+mkdir ~/.config/
+```
