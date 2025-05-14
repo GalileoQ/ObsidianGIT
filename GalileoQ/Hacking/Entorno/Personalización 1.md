@@ -135,6 +135,12 @@ meson setup --buildtype=release build
 
 ninja -C build
 
-ninja -C build i
+ninja -C build install
 ```
 
+instalamos rofi
+```python
+sudo apt install rofi
+```
+
+dentro del 
