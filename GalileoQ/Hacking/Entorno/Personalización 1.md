@@ -121,3 +121,10 @@ actualizamos de nuevo
 ```python
 apt update
 ```
+
+descargarmos el repositorio de de picom
+
+```python
+git clone https://github.com/yshui/picom.git
+```
+
