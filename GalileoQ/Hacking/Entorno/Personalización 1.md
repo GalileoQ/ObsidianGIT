@@ -38,5 +38,5 @@ sudo make install
 después vamos a crear los directorios de configuración para ambos archivos
 
 ```python
-mkdir ~/.config/
+mkdir ~/.config/{bspwm,sxhkd}
 ```
