@@ -40,3 +40,6 @@ después vamos a crear los directorios de configuración para ambos archivos
 ```python
 mkdir ~/.config/{bspwm,sxhkd}
 ```
+
+ahora vamos a copiar los archivos necesarios que estan dentro de los repositorios que hemos descargado:
+
