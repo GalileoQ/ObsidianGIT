@@ -46,5 +46,7 @@ ahora vamos a copiar los archivos necesarios que estan dentro de los repositorio
 ```python
 cd (ruta del repo de bspwm)
 cd examples
+cp bspwmrc ~/.config/bspwm/
+cd sxhkd ~/.config/sxhkd/
 
 ```
