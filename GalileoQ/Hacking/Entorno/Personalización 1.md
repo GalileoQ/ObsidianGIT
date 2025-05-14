@@ -152,4 +152,4 @@ super + d
 
 ya podemos ir al bspwm
 
-ahora dentro del d
+ahora vamos con las fuentes
