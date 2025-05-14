@@ -143,4 +143,9 @@ instalamos rofi
 sudo apt install rofi
 ```
 
-dentro del 
+dentro del sxhkd
+```python
+# program launcher
+super + d
+	/user/
+```
