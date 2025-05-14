@@ -263,3 +263,7 @@ background_opacity 0.95
 shell zsh
 ```
 
+instalamos feh
+```python
+apt install feh
+```
