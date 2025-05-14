@@ -171,5 +171,10 @@ mv archivodefuentes.zip /user/local/share/fonts
 
 descomprimimos el archivo
 ```python
-7z 
+7z x archivo.zip 
+```
+
+instalamos la zsh
+```python
+sudo apt install zsh
 ```
