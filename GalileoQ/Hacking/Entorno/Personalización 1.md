@@ -158,3 +158,5 @@ sudo root
 
 cd /user/local/share/fonts
 ```
+
+abrimos firefox y descargamos las fuentes hack ne
