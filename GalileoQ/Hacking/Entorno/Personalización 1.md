@@ -75,3 +75,9 @@ cambiamos el atajo de teclado para restaurar el bspwm
 # quit/restar bspwm
 super + shift
 ```
+
+cambiamos el focus de las ventanas al moverlas
+```python
+# cambiamos hjkl poer las flechas
+```
+
