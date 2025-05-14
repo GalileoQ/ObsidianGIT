@@ -133,5 +133,8 @@ despues dentro del directorio de picom
 ```python
 meson setup --buildtype=release build
 
-$ ninja -C build
+ninja -C build
+
+ninja -C build i
 ```
+
