@@ -178,3 +178,5 @@ instalamos la zsh
 ```python
 sudo apt install zsh
 ```
+
+vamos a activar la clipboard
