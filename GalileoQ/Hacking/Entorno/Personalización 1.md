@@ -73,7 +73,9 @@ cd /opt
 
 # movemos el archivo de kitty a la ruta /opt
 
-# creamos un directorio llamado kitty y descomprimimos
+# creamos un directorio llamado kitty y descomprimimos el archivo kitty
+
+tar -xf archivo kitty
 ```
 
 dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
@@ -82,7 +84,7 @@ dentro del archivo sxhkd vamos a cambiar la terminal para que abre una kitty
 # terminal emulator
 
 super + Return
-	/user/bin/kitty
+	/opt/kitty/bin/kitty
 ```
 
 cambiamos el atajo de teclado para restaurar el bspwm
