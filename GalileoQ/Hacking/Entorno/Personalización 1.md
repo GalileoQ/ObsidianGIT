@@ -30,5 +30,9 @@ sudo make install
 hacemos lo mismo con el repo de sxhkd
 
 ```python
+make
 
+sudo make install
 ```
+
+despues vamos a 
