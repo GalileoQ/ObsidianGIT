@@ -205,3 +205,8 @@ nano ./bspwm/bspwmrc
 
 vmware-user-suid-wrapper &
 ```
+
+vamos a configurar la kitty
+```python
+
+```
