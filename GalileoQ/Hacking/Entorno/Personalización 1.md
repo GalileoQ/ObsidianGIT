@@ -69,4 +69,9 @@ super + Return
 	/user/bin/kitty
 ```
 
-cambiamos el atajo de
+cambiamos el atajo de teclado para restaurar el bspwm
+
+```python
+# quit/restar bspwm
+super + shift
+```
