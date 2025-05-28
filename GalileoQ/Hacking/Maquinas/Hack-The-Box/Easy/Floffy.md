@@ -164,5 +164,5 @@ ya que tenemos credenciales validas vamos a recopilar datos del Active Directory
 ![[Pasted image 20250528140513.png]]
 
 ### Abuso de DACL
-
+en este punto deberias ver solo una conexion entre nuestro usuario "P.AGILA" y el grupo de service account manager
 ![[Pasted image 20250528183244.png]]
