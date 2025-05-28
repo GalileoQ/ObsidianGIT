@@ -75,6 +75,6 @@ Usando la --shares, enumeramos los derechos de acceso a los recursos compartidos
 
 ![[Pasted image 20250528121206.png]]
 
-Confirmamos el acceso de lectura y escritura a un recurso compartido personalizado llamado IT y descargamos todo con mget * .
+Confirmamos el acceso de lectura y escritura a un recurso compartido personalizado llamado IT y descargamos todo con ==mget * .== 
 
 ![[Pasted image 20250528122155.png]]
