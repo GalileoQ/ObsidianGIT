@@ -171,3 +171,6 @@ net rpc group addmem "TargetGroup" "TargetUser" -U "DOMAIN"/"ControlledUser"%"Pa
 ```
 
 ![[Pasted image 20250528183244.png]]
+
+
+![[Pasted image 20250528192546.png]]
