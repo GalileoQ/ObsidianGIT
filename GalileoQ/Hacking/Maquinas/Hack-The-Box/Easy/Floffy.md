@@ -125,3 +125,5 @@ Primero, creamos el arma usando el repositorio PoC CVE-2025-24071 (o creamos uno
 ```
 
 ![[Pasted image 20250528130756.png]]
+
+esto creara un
