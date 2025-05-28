@@ -1,4 +1,4 @@
-
+#ActiveDirectory #windows #Easy 
 # MACHINE INFORMATION
 
 As is common in real life Windows pentests, you will start the Fluffy box with credentials for the following account: j.fleischman / J0elTHEM4n1990!
@@ -64,3 +64,4 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 ![[Pasted image 20250528120635.png]]
+
