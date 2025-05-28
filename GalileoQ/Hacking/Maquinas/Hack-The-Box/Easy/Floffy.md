@@ -158,3 +158,6 @@ La trampa activó el sistema y Responder capturó un hash NTLMv2 activo FLUFFY\p
 
 ![[Pasted image 20250528135043.png]]
 
+### bloodhound-python
+
+![[Pasted image 20250528140513.png]]
