@@ -154,4 +154,4 @@ El payload está dentro exploit.zip. ahora vamos a montar el recurso compartido 
 ![[Pasted image 20250528133557.png]]
 
 ### Hashcat 
-La trampa activó el sistema. Responder capturó un hash NTLMv2 activo en cuanto FLUFFY\p.agilaextrajo el archivo ZIP:
+La trampa activó el sistema y Responder capturó un hash NTLMv2 activo FLUFFY\p.agila 
