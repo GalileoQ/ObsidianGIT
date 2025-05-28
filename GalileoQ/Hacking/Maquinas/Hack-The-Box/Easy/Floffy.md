@@ -143,8 +143,12 @@ esto creara un archivo xml parecido a este
 
 El payload está dentro exploit.zip. ahora vamos a montar el recurso compartido y vamos a tener nuestro responder a la escucha
 
-```pytho
-![[Pasted image 20250528133736.png]]
+```python
+sudo mount -t cifs \
+  //dc01.fluffy.htb/IT /mnt/ \
+  -o username='j.fleischman',password='J0elTHEM4n1990!',domain='fluffy.htb'
+
+
 ```
 
 ![[Pasted image 20250528133557.png]]
