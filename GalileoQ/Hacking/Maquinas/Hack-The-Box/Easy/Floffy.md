@@ -176,6 +176,10 @@ sincronizamos la hora del servidor y extraemos credenciales
 
 ![[Pasted image 20250528192546.png]]
 
+solicitud de TGT
+
 ![[Pasted image 20250528194216.png]]
+
+Autenticación con Certipy usando certificado `.pfx` del administrador
 
 ![[Pasted image 20250528194719.png]]
