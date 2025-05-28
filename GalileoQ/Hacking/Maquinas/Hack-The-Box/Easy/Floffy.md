@@ -101,3 +101,6 @@ Normalmente, esto estaría bloqueado por la política de seguridad de .NET , a m
 ### CVE-2025-24071 Descripción general
 
 Entre los CVE revelados en el PDF, el CVE-2025-24071 destaca por ser una coincidencia precisa con la configuración actual. Es un CVE reciente (si no recuerdo mal, hace unos meses leí el [[https://cti.monster/blog/2025/03/18/CVE-2025-24071.html]] CVE-2025-24071 es una vulnerabilidad de suplantación de identidad (spoofing) en el Explorador de archivos de Windows que permite a los atacantes capturar hashes NTLM con mínima interacción del usuario. La falla surge del procesamiento automático de .library-msarchivos del Explorador de archivos, que están basados ​​en XML y definen ubicaciones de bibliotecas.
+
+### Suplantación de identidad (phishing) 
+Primero, creamos el arma usando el repositorio PoC CVE-2025-24071 (o creamos uno manualmente, lo cual es bastante sencillo). Esto genera un .library-msarchivo diseñado para provocar la autenticación SMB en nuestro servidor controlado:
