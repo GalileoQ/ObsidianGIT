@@ -105,8 +105,11 @@ Entre los CVE revelados en el PDF, el CVE-2025-24071 destaca por ser una coincid
 ### Suplantación de identidad (phishing) 
 Primero, creamos el arma usando el repositorio PoC CVE-2025-24071 (o creamos uno manualmente, lo cual es bastante sencillo). Esto genera un .library-msarchivo diseñado para provocar la autenticación SMB en nuestro servidor controlado:
 
-steps:
+
+
 ```python
+❯ git clone https://github.com/ThemeHackers/CVE-2025-24071.git
+
 ❯ python3 -m venv venv
 
 ❯ source venv/bin/activate
