@@ -95,3 +95,8 @@ xml
 
 
 …instruye al entorno de ejecución .NET para permitir la carga de ensamblados (DLL) desde ubicaciones remotas , incluidas: Rutas UNC ( \\attacker\share\malicious.dll) Unidades mapeadas Incluso ubicaciones basadas en la web (en versiones anteriores o casos mal configurados)
+
+Normalmente, esto estaría bloqueado por la política de seguridad de .NET , a menos que esté permitido explícitamente como aquí. Esta configuración es una señal de alerta importante cuando un usuario extrae y ejecuta KeePass.exe desde un archivo ZIP, donde tenemos acceso de escritura . Esto sugiere claramente que el entorno está preparado para cargar algo desde una ubicación remota, un punto de partida clásico para el phishing de intranet mediante trucos de rutas SMB , señuelos de suplantación de identidad o cargas útiles de phishing enviadas mediante referencias a recursos compartidos de intranet . 
+
+### CVE-2025-24071 Descripción general
+
