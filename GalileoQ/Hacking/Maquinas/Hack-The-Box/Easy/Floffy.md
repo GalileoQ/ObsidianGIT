@@ -79,5 +79,6 @@ Confirmamos el acceso de lectura y escritura a un recurso compartido personaliza
 
 ![[Pasted image 20250528122155.png]]
 
-el docuemnto pdf hace referencia a algunos CVS conocidos que estan parchados o que seran parchados proxi
+el documento pdf hace referencia a algunos CVS conocidos que están parchados o que serán parchados próximamente
 ![[Pasted image 20250528122746.png]]
+
