@@ -75,11 +75,6 @@ Usando la --shares, enumeramos los derechos de acceso a los recursos compartidos
 
 ![[Pasted image 20250528121206.png]]
 
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-fluffy/  
-# Source: Axura's Blog  
-  
-Confirmamos el acceso de lectura y escritura a un recurso compartido personalizado llamado IT:
+Confirmamos el acceso de lectura y escritura a un recurso compartido personalizado llamado IT y descargamos todo con mget * .
+
 ![[Pasted image 20250528122155.png]]
