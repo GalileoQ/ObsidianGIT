@@ -78,3 +78,6 @@ Usando la --shares, enumeramos los derechos de acceso a los recursos compartidos
 Confirmamos el acceso de lectura y escritura a un recurso compartido personalizado llamado IT y descargamos todo con ==mget * .== 
 
 ![[Pasted image 20250528122155.png]]
+
+el docuemnto pdf hace referencia a algunos CVS conocidos que estan parchados o que seran parchados proxi
+![[Pasted image 20250528122746.png]]
