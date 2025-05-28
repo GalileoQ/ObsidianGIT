@@ -1,6 +1,7 @@
 {
   "customFileOrder": {
     "/": [
+      "informe.md",
       "Excalidraw",
       "GalileoQ",
       "GalileoQ_vector_embedding"
@@ -1462,6 +1463,11 @@
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md"
     ],
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img": [
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528120635.png",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528121206.png",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528122155.png",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528122746.png",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528123035.png",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/banner.png",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240611200347.png",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20240611200357.png",
