@@ -67,7 +67,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ![[Pasted image 20250528120635.png]]
 
-Usando la --shares, enumeramos los derechos de acceso a los recursos compartidos SMB disponibles. también
+Usando la --shares, enumeramos los derechos de acceso a los recursos compartidos SMB disponibles
 
 ```python
 ❯ nxc smb dc01.fluffy.htb -u 'j.fleischman' -p 'J0elTHEM4n1990!' --shares
