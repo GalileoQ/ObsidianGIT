@@ -164,6 +164,10 @@ ya que tenemos credenciales validas vamos a recopilar datos del Active Directory
 ![[Pasted image 20250528140513.png]]
 
 ### Abuso de DACL
-en este punto deberías ver solo una conexión entre nuestro usuario "P.AGILA" y el grupo de "Service Account Manager" pero ya alguien mas ha agregado a P.AGILA al grupo de "Service Account" pero nosotros haremos todo el recorrido como si este paso no existiera
+en este punto deberías ver solo una conexión entre nuestro usuario "P.AGILA" y el grupo de "Service Account Manager" pero ya alguien mas ha agregado a P.AGILA al grupo de "Service Account" pero nosotros haremos todo el recorrido como si este paso no existiera. en este caso el bloodhound nos da un comando para poder realizar este ataque. pero yo uti
+
+```python
+net rpc group addmem "TargetGroup" "TargetUser" -U "DOMAIN"/"ControlledUser"%"Password" -S "DomainController"
+```
 
 ![[Pasted image 20250528183244.png]]
