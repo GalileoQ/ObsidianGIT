@@ -141,7 +141,7 @@ esto creara un archivo xml parecido a este
 </libraryDescription>
 ```
 
-El exploit está dentro exploit.zip. Ahora lo renombramos para que coincida con el original.
+El payload está dentro exploit.zip. ahora vamos a montar el recurso compartido y vamos a ten
 
 ```python
 sudo mount -t cifs \
@@ -149,3 +149,4 @@ sudo mount -t cifs \
   -o username='j.fleischman',password='J0elTHEM4n1990!',domain='fluffy.htb'
 ```
 
+![[Pasted image 20250528133557.png]]
