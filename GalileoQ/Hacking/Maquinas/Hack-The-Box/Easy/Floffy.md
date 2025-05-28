@@ -143,6 +143,9 @@ esto creara un archivo xml parecido a este
 
 El exploit está dentro exploit.zip. Ahora lo renombramos para que coincida con el original.
 
-```pythpn
-
+```python
+sudo mount -t cifs \
+  //dc01.fluffy.htb/IT /mnt/ \
+  -o username='j.fleischman',password='J0elTHEM4n1990!',domain='fluffy.htb'
 ```
+
