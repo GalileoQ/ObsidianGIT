@@ -85,3 +85,4 @@ el documento pdf hace referencia a algunos CVS conocidos que están parchados o 
 Este KeePass.exe.configarchivo es un archivo de configuración de aplicación .NET estándar, pero no expone las credenciales directamente.
 
 ![[Pasted image 20250528123035.png]]
+
