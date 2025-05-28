@@ -82,5 +82,5 @@ Confirmamos el acceso de lectura y escritura a un recurso compartido personaliza
 el documento pdf hace referencia a algunos CVS conocidos que están parchados o que serán parchados próximamente
 ![[Pasted image 20250528122746.png]]
 
-analizando el 
+analizando el archivo de keepass podemos encontrar un archivo de configuración en 
 ![[Pasted image 20250528123035.png]]
