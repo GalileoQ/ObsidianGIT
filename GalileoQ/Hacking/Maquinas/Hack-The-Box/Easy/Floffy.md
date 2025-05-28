@@ -172,6 +172,7 @@ net rpc group addmem "TargetGroup" "TargetUser" -U "DOMAIN"/"ControlledUser"%"Pa
 
 ![[Pasted image 20250528183244.png]]
 
+sincronizamos la hora del servidor y extraemos credenciales
 
 ![[Pasted image 20250528192546.png]]
 
