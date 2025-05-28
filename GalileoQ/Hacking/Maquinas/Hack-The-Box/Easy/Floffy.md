@@ -57,6 +57,13 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Wed May 28 10:26:37 2025 -- 1 IP address (1 host up) scanned in 193.77 seconds
 ```
 
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
+# Licens: CC BY-NC-SA 4.0  
+# Author: Axura  
+# URL: https://4xura.com/ctf/htb/htb-writeup-fluffy/  
+# Source: Axura's Blog  
+  
+Enumeración SMB Usando la --sharesbandera, enumeramos los derechos de acceso a los recursos compartidos SMB disponibles:
 ### Rid-Brute
 
 ```python
@@ -65,5 +72,9 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ![[Pasted image 20250528120635.png]]
 
+
+```python
+❯ nxc smb dc01.fluffy.htb -u 'j.fleischman' -p 'J0elTHEM4n1990!' --shares
+```
 
 ![[Pasted image 20250528121206.png]]
