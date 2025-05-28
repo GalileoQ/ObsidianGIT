@@ -82,5 +82,6 @@ Confirmamos el acceso de lectura y escritura a un recurso compartido personaliza
 el documento pdf hace referencia a algunos CVS conocidos que están parchados o que serán parchados próximamente
 ![[Pasted image 20250528122746.png]]
 
-analizando el archivo de keepass podemos encontrar un archivo de configuración en 
+Este KeePass.exe.configarchivo es un archivo de configuración de aplicación .NET estándar, pero no expone las credenciales directamente.
+
 ![[Pasted image 20250528123035.png]]
