@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Floffy"
             }
+          },
+          {
+            "id": "27b2adfc01b2c971",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -178,9 +188,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f45a4865bec7adf",
+  "active": "27b2adfc01b2c971",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528120635.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
@@ -205,7 +216,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/CPTS/Img/Pasted image 20240615212742.png",
     "GalileoQ/CPTS/Img/Pasted image 20240615212709.png",
     "CRTA/Img/ChatGPT Image 13 may 2025, 17_36_31.png",
@@ -215,7 +225,6 @@
     "CRTA/Img/Pasted image 20250513132613.png",
     "CRTA/Img/Pasted image 20250513123707.png",
     "CRTA/Img/Pasted image 20250512212141.png",
-    "CRTA/Img/Pasted image 20250512211423.png",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",

@@ -57,3 +57,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Wed May 28 10:26:37 2025 -- 1 IP address (1 host up) scanned in 193.77 seconds
 ```
 
+### Rid-Brute
+
+```python
+❯ crackmapexec smb fluffy.htb -u j.fleischman -p 'J0elTHEM4n1990!' --rid-brute
+```
+
+![[Pasted image 20250528120635.png]]
