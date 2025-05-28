@@ -144,11 +144,11 @@ esto creara un archivo xml parecido a este
 El payload está dentro exploit.zip. ahora vamos a montar el recurso compartido y vamos a tener nuestro responder a la escucha
 
 ```python
-sudo mount -t cifs \
+❯ sudo mount -t cifs \
   //dc01.fluffy.htb/IT /mnt/ \
   -o username='j.fleischman',password='J0elTHEM4n1990!',domain='fluffy.htb'
 
-
+sudo cp KeePass-2.58.zip /mnt/KeePass-2.58.zip
 ```
 
 ![[Pasted image 20250528133557.png]]
