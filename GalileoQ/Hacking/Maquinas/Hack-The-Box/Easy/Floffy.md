@@ -106,7 +106,11 @@ Entre los CVE revelados en el PDF, el CVE-2025-24071 destaca por ser una coincid
 Primero, creamos el arma usando el repositorio PoC CVE-2025-24071 (o creamos uno manualmente, lo cual es bastante sencillo). Esto genera un .library-msarchivo diseñado para provocar la autenticación SMB en nuestro servidor controlado:
 
 1. clonamos el repositorio
-2. creamos un entorno virtual en 
+2. creamos un entorno virtual en python para poder operar de forma segura
+3. activamos el entorno 
+4. instalamos los requierements
+5. ejecutamos el exploit
+
 
 ```python
 ❯ git clone https://github.com/ThemeHackers/CVE-2025-24071.git
