@@ -35,8 +35,7 @@
               "title": "Authority"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6820201645c1a43c",
+  "active": "27b2adfc01b2c971",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528183244.png",
@@ -212,7 +212,6 @@
     "informe.md",
     "GalileoQ/Hacking/Hacking Generico/Hydra/5 - Hydra - Ataque de Fuerza Bruta SMB.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Monteverde.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/3 - YML Deserialization.md",
