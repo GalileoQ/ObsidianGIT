@@ -163,3 +163,6 @@ ya que tenemos credenciales validas vamos a recopilar datos del Active Directory
 
 ![[Pasted image 20250528140513.png]]
 
+### Abuso de DACL
+
+![[Pasted image 20250528183244.png]]
