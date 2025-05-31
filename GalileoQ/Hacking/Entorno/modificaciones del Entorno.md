@@ -11,8 +11,13 @@ elinimar bordes
 
 agregamos bordes 
 
-pycon
+pycon.conf
 ```python
 corner-radius = 10;
 round-borders = 1;
+
+# bspwmrc
+bspc config border_width 0
 ```
+
+
