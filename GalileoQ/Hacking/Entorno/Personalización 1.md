@@ -96,7 +96,7 @@ super + shift
 
 cambiamos el focus de las ventanas al moverlas
 ```python
-# cambiamos hjkl poer las flechas
+# cambiamos hjkl por las flechas
 ```
 
 cambiamos el tamaño de la ventala antes de abrirla (preselectores)
