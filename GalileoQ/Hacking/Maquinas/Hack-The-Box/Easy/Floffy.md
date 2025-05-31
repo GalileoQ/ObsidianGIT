@@ -183,3 +183,5 @@ solicitud de TGT
 Autenticación con Certipy usando certificado `.pfx` del administrador
 
 ![[Pasted image 20250528194719.png]]
+
+### WE ARE ROOT
