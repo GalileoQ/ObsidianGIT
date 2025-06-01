@@ -20,5 +20,9 @@ round-borders = 1;
 bspc config border_width 0
 ```
 
+p10k
+```python
+typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=1  
+typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=0
+```
 
-ºº
