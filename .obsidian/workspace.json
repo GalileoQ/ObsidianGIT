@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9886ffe3c0f29b58",
+        "id": "ae08bb877f42c820",
         "type": "tabs",
         "children": [
           {
-            "id": "77391662c423867a",
+            "id": "06898c758ecf8dce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/Personalización 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Personalización 1"
-            }
-          },
-          {
-            "id": "710ceb32c1afc2b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "modificaciones del Entorno"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -193,8 +173,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "710ceb32c1afc2b6",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Personalización 1.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
@@ -220,7 +201,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/Escalada/Linux.md",
-    "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
