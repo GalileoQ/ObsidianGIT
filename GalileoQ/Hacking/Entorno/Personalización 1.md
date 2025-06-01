@@ -267,3 +267,4 @@ instalamos feh
 ```python
 apt install feh
 ```
+
