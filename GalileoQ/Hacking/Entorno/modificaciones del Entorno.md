@@ -26,3 +26,4 @@ typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=1
 typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=0
 ```
 
+## ermatologic
