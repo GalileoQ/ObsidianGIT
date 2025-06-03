@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BoardLight"
+              "title": "Brute-It"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "100f6f8d95f0f6e8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
@@ -214,8 +216,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528135623.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528135516.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528135043.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
-    "informe.md",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",
