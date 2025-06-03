@@ -11,10 +11,14 @@
             "id": "d08c74d7595c9bd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "BoardLight"
             }
           }
         ]
@@ -173,8 +177,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "d08c74d7595c9bd9",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Active.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
@@ -192,15 +200,11 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528192546.png",
