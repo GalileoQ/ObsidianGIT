@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Editorial"
+              "title": "Headless"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "100f6f8d95f0f6e8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gaming-Server.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Easy-Peasy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
@@ -204,8 +206,6 @@
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
-    "GalileoQ/Hacking/Entorno/Neptuno.md",
-    "GalileoQ/Hacking/Entorno/Herramientas para entorno.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528192546.png",
