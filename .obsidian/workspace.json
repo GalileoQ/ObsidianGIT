@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brute-It"
+              "title": "Dogcat"
             }
           }
         ]
@@ -180,6 +180,10 @@
   },
   "active": "100f6f8d95f0f6e8",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ColddBox-Easy.md",
+    "GalileoQ/Hacking/Pivoting/Chisel.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
@@ -202,13 +206,9 @@
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
-    "GalileoQ/Hacking/Entorno/Personalización 1.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528192546.png",
-    "GalileoQ/Hacking/Windows/Active-Directory/3 - Hacking Kerberos.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528183244.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528140513.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528135758.png",
