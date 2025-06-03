@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analytics"
+              "title": "AnonForce"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "100f6f8d95f0f6e8",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
     "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
@@ -215,7 +216,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/4 - Escalada de Privilegios en Docker que no pide ser Usuario Sudo.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/3 - YML Deserialization.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",
