@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2586bf932c2193",
+        "id": "c8f28f8a5683d1df",
         "type": "tabs",
         "children": [
           {
-            "id": "100f6f8d95f0f6e8",
+            "id": "d08c74d7595c9bd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Iclean"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +173,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "100f6f8d95f0f6e8",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Lantern (Incompleta).md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Iclean.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gaming-Server.md",
@@ -203,9 +201,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/4 - AS-REPRoasting.md",
-    "GalileoQ/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528192546.png",
