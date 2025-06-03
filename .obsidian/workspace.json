@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BoardLight"
+              "title": "Headless"
             }
           }
         ]
@@ -179,6 +179,12 @@
   },
   "active": "d08c74d7595c9bd9",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Architects.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
@@ -189,7 +195,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Gaming-Server.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Easy-Peasy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Dogcat.md",
@@ -198,13 +203,8 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Basic-Pentesting.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Hard/Analysis.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528192546.png",
