@@ -17,3 +17,9 @@
 ![[Pasted image 20250605163128.png]]
 
 ![[Pasted image 20250605163204.png]]
+
+### GeekBot
+![[Pasted image 20250605163239.png]]
+
+![[Pasted image 20250605163302.png]]
+
