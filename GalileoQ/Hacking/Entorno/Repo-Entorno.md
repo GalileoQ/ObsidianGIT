@@ -34,3 +34,6 @@
 ![[Pasted image 20250605163553.png]]
 
 ![[Pasted image 20250605163620.png]]
+
+### rickymorty
+![[Pasted image 20250605163704.png]]
