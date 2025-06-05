@@ -23,3 +23,7 @@
 
 ![[Pasted image 20250605163302.png]]
 
+### KakashiHatake
+![[Pasted image 20250605163336.png]]
+
+![[Pasted image 20250605163405.png]]

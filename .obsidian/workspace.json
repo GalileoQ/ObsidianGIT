@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
+                "file": "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Keeper"
+              "title": "Esquema de Repo-Entorno"
             }
           },
           {
@@ -180,6 +180,8 @@
   },
   "active": "aa5d17fc5414a421",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163405.png",
+    "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163336.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163302.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163239.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163204.png",
@@ -214,8 +216,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Broker.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194719.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/img/Pasted image 20250528194216.png",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",
