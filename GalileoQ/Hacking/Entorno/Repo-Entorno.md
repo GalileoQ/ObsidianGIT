@@ -8,4 +8,8 @@
 ![[Pasted image 20250605162946.png]]
 
 ### Arcane
+
 ![[Pasted image 20250605163012.png]]
+
+![[Pasted image 20250605163035.png]]
+
