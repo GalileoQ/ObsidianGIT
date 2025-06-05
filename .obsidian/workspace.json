@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repo-Entorno"
+              "title": "modificaciones del Entorno"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
+                "file": "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Repo-Entorno"
+              "title": "Esquema de modificaciones del Entorno"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "active": "aa5d17fc5414a421",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163803.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163704.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163620.png",
@@ -190,9 +191,7 @@
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163302.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163239.png",
     "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163204.png",
-    "GalileoQ/Hacking/Entorno/Img/Pasted image 20250605163128.png",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
