@@ -132,3 +132,16 @@ Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy 
 
 Hemos identificado que el acceso al recurso compartido DEV está restringido solo para los miembros de PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con los privilegios de GenericWrite sobre el DEVELOPERSgrupo. Para confirmar la lista actual de usuarios pertenecientes a este grupo, vamos a realizar una enumeración con bloodyAD
 
+```python
+bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'levi.james' -p 'KingofAkron2025!' get object 'DEVELOPERS'
+```
+
+![[Pasted image 20250606145919.png]]
+
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
+# Licens: CC BY-NC-SA 4.0  
+# Author: Axura  
+# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
+# Source: Axura's Blog  
+  
+Ni rastro de levi.james... pero eso es irrelevante. Con GenericWritela información disponible a través del HRgrupo, podemos reescribir la lista de invitados nosotros mismos. Escritura genérica
