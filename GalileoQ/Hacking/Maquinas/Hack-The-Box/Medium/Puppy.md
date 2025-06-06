@@ -104,4 +104,6 @@ nxc smb puppy.htb -u 'levi.james' -p 'KingofAkron2025!' -M spider_plus
 ![[Pasted image 20250606133200.png]]
 
 
-NETLOGONy SYSVOL, comúnmente utilizados en Active Directory para la entrega de scripts y la configuración de políticas, eran ambos legibles, pero por lo general no eran útiles. DEVSe identificó un recurso compartido personalizado llamado . Sin embargo, no se mostró permiso de lecturalevi,james para el contexto actual, que está marcado con un contexto personalizado ( DEV-SHARE for PUPPY-DEVS).
+- NETLOGON y SYSVOL, comúnmente utilizados en Active Directory para la entrega de scripts y la configuración de políticas, eran ambos legibles, pero en este caso no eran útiles. 
+
+DEV Se identificó un recurso compartido personalizado llamado . Sin embargo, no se mostró permiso de lecturalevi,james para el contexto actual, que está marcado con un contexto personalizado ( DEV-SHARE for PUPPY-DEVS).
