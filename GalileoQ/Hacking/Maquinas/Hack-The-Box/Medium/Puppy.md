@@ -124,6 +124,6 @@ bloodhound-python -u 'levi.james' -p 'KingofAkron2025!' -d 'puppy.htb' -ns 10.10
 
 ![[Pasted image 20250606143647.png]]
 
-Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy usando el bloodhound-comunity para el análisis gráfico. Desde el principio el resultado expone una ruta clara hacia de control de objeto saliente clara y definida: levi.jameses un miembro del HRgrupo, que tiene GenericWritederechos sobre el DEVELOPERSgrupo. Si bien BloodHound revela un puñado de otros vectores de ataque convincentes, desentrañaremos esos hilos a medida que se vuelvan tácticamente relevantes.
+Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy usando el bloodhound-comunity para el análisis gráfico. Desde el principio el resultado expone una ruta clara Object Control definida: levi.jameses un miembro del HR@PUPPY.HTB, que tiene GenericWritederechos sobre el DEVELOPERSgrupo. Si bien BloodHound revela un puñado de otros vectores de ataque convincentes, desentrañaremos esos hilos a medida que se vuelvan tácticamente relevantes.
 
 ![[Pasted image 20250606144605.png]]
