@@ -292,6 +292,7 @@ bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'ant.edwards' -p 'Antman2025!' get
 
 ![[Pasted image 20250606183001.png]]
 
+realizamos los diferentes comandos y podemos actualizar el estado de la cuenta. luego setear una nueva contraseña y luego entramos al sistema
 
 ![[Pasted image 20250606183913.png]]
 
