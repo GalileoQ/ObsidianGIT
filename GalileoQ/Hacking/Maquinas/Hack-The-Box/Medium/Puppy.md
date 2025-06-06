@@ -176,3 +176,5 @@ pipx install pykeepass
 
 
 ![[Pasted image 20250606152303.png]]
+
+![[Pasted image 20250606153905.png]]
