@@ -138,10 +138,4 @@ bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'levi.james' -p 'KingofAkron2025!'
 
 ![[Pasted image 20250606145919.png]]
 
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
-# Source: Axura's Blog  
-  
-Ni rastro de levi.james... pero eso es irrelevante. Con GenericWritela información disponible a través del HRgrupo, podemos reescribir la lista de invitados nosotros mismos. Escritura genérica
+efectivamente levi.james. no esta dentro de los usuarios pertenecientes a este grupo pero eso es irrelevante. Con el permiso de GenericWritela podemos reescribir la lista de invitados nosotros mismos. Escritura genérica
