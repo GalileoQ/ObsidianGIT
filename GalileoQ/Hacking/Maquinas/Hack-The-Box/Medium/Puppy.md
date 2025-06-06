@@ -256,4 +256,5 @@ y a su vez el grupo SENIOR DEVS tiene permisos de GenericALL sobre adam.silver
 
 ### Resolución
 
-SENIOR DEVS tiene permisos de GenericAll sobre adam.silver una cadena de privilegios directa. Esto significa ant.edwardsque puede controlar completamente adam.silver[nombre del sistema], incluyendo reactivar la cuenta, restablecer la contraseña y convertir nuestro próximo movimiento en un shell remoto en el controlador de dominio. Privesc
+SENIOR DEVS tiene permisos de GenericAll sobre adam.silver. Esto significa que ant.edwards puede controlar completamente a adam.silver, incluyendo reactivar la cuenta, restablecer la contraseña
+
