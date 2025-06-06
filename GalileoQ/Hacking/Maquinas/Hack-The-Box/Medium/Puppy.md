@@ -189,23 +189,23 @@ import os
 
 # Verificar que se hayan pasado 2 argumentos: .kdbx y wordlist
 if len(sys.argv) != 3:
-print(f"Uso: python3 {os.path.basename(__file__)} <archivo.kdbx> <archivo_wordlist>")
-sys.exit(1)
+	print(f"Uso: python3 {os.path.basename(__file__)} <archivo.kdbx> <archivo_wordlist>")
+	sys.exit(1)
 
 # Obtener archivos desde los argumentos
 KDBX_FILE = sys.argv[1]
 WORDLIST = sys.argv[2]
 
 try:
-with open(WORDLIST, 'r', encoding='utf-8', errors='ignore') as f:
-for line in f:
+	with open(WORDLIST, 'r', encoding='utf-8', errors='ignore') as f:
+		for line in f:
 password = line.strip()
 
-try:
-kp = PyKeePass(KDBX_FILE, password=password)
-print(f'\n[+] ¡Éxito! Contraseña encontrada: {password}')
-print('[+] Volcando entradas:\n')
-for entry in kp.entries:
+			try:
+				kp = PyKeePass(KDBX_FILE, password=password)
+				print(f'\n[+] ¡Éxito! Contraseña encontrada: {password}')
+				print('[+] Volcando entradas:\n')
+			for entry in kp.entries:
 print(f' - {entry.title}: {entry.username} / {entry.password}')
 break
 except CredentialsError:
