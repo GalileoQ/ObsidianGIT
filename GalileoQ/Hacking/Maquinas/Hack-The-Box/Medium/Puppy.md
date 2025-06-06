@@ -97,4 +97,7 @@ Además de los puertos y servicios comunes en un Active Directory, vemos 2 puert
 
 Utilice el modulo de spider_plusmodo con netexec para enumerar todos los archivos legibles del SMB con las credenciales que se nos proporcionan inicialmente para el usuario del dominio levi.james
   
+```python
 nxc smb puppy.htb -u 'levi.james' -p 'KingofAkron2025!' -M spider_plus
+```
+
