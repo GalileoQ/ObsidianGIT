@@ -242,6 +242,6 @@ regresamos al grafico y podemos identificar que el grupo DEVELOPERS@PUPPY.HTB ti
 
 ![[Pasted image 20250606165729.png]]
 
-el miembro del grupo que mas resanta es adam.silver ya que este pertenece al grupo de "REMOTE MANAGEMENT USERS"
+el miembro del grupo que mas resalta es adam.silver ya que este pertenece al grupo de "REMOTE MANAGEMENT USERS"
 
 ![[Pasted image 20250606165913.png]]
