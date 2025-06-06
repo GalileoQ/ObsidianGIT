@@ -308,3 +308,5 @@ tenemos conexión vía wim-rm
 
 ![[Pasted image 20250606190138.png]]
 
+vamos a realizar una nueva recoleccion de datos para nuestro blood
+![[Pasted image 20250606190856.png]]
