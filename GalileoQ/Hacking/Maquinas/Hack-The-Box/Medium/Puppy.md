@@ -296,5 +296,9 @@ realizamos los diferentes comandos y podemos actualizar el estado de la cuenta. 
 
 ![[Pasted image 20250606183913.png]]
 
+encontramos un archivo y lo descargamos para analizarlo
 
 ![[Pasted image 20250606185648.png]]
+
+
+![[Pasted image 20250606185849.png]]
