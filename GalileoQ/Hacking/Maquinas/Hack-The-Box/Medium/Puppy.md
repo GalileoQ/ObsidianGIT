@@ -241,3 +241,7 @@ de esta manera podemos validar nuestra lista de usuarios realizando una especie 
 regresamos al grafico y podemos identificar que el grupo DEVELOPERS@PUPPY.HTB tiene 3 miembros
 
 ![[Pasted image 20250606165729.png]]
+
+el miembro del grupo que mas resanta es adam.silver ya que este pertenece al grupo de "REMOTE MANAGEMENT USERS"
+
+![[Pasted image 20250606165913.png]]
