@@ -168,7 +168,11 @@ pip install pykeepass
 ```
 
 Opción2
+```python
+sudo apt install pipx
 
+pipx install pykeepass
+```
 
 
 ![[Pasted image 20250606152303.png]]
