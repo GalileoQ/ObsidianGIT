@@ -127,3 +127,13 @@ bloodhound-python -u 'levi.james' -p 'KingofAkron2025!' -d 'puppy.htb' -ns 10.10
 Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy usando el bloodhound-comunity para el análisis gráfico. Desde el principio el resultado expone una ruta clara Object Control definida: levi.jameses un miembro del HR@PUPPY.HTB  que tiene los derechos de GenericWrite sobre el DEVELOPERS@PUPPY.HTB. Si bien BloodHound revela un monton de vectores de ataque convincentes, desentrañaremos esos hilos a medida que se vuelvan tácticamente relevantes.
 
 ![[Pasted image 20250606144605.png]]
+
+### SMB Access
+
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
+# Licens: CC BY-NC-SA 4.0  
+# Author: Axura  
+# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
+# Source: Axura's Blog  
+  
+Hemos identificado que el acceso a la esquiva DEVacción está restringido a la membresía del PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con GenericWriteprivilegios sobre el DEVELOPERSgrupo. Para confirmar la lista actual del grupo, interrogamos al controlador de dominio con bloodyAD :
