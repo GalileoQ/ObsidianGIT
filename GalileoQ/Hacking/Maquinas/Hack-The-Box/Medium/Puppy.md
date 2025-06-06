@@ -300,5 +300,7 @@ encontramos un archivo y lo descargamos para analizarlo
 
 ![[Pasted image 20250606185648.png]]
 
+obtenemos unas credenciales nuevas asi que vamos a validarlas
 
 ![[Pasted image 20250606185849.png]]
+
