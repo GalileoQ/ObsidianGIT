@@ -30,4 +30,6 @@ typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=0
 
 
 
-### Dise
+### Diseño
+
+realizar un script automatizado que ejecute un themes colors para modificar en fondo de escritorio y los colores en un intervalo de tiempo "X"
