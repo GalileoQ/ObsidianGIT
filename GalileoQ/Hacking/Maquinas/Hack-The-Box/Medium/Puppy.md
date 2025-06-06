@@ -154,6 +154,21 @@ ahora tenemos acceso al recurso compartido DEV. descargamos los 2 archivos
 
 ### Python environment
 
-para poder leer el archivo de keepass necesitamos usar la utilidad pykeepass ya que esta es la que tiene soporte sobre las versionas mas actualizadas de keepass. para ello voy a crear un entor
+para poder leer el archivo de keepass necesitamos usar la utilidad pykeepass ya que esta es la que tiene soporte sobre las versionas mas actualizadas de keepass. para ello voy a crear un entorno virtual con python para instalar pykeepass de manera aislada. 
+
+```python
+sudo apt install python3-venv  # solo si no tienes venv
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install pykeepass
+
+```
+
+Opción2
+
+
 
 ![[Pasted image 20250606152303.png]]
