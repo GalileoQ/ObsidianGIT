@@ -89,4 +89,6 @@ Nmap done: 1 IP address (1 host up) scanned in 367.88 seconds
 ### Información del dominio 
 
 - Domain Name: PUPPY.HTB
-- 
+- Host: DC
+
+Ademas los puertos y servicios comunes en un Active Directory, vemos 2 entradas para compartir archivos : SMB (puerto 445) : el servicio estándar para compartir archivos de Windows. NFS (puerto 2049) : poco común en los hosts de Windows, la presencia de NFS indica: Un subsistema UNIX o una configuración híbrida (por ejemplo, WSL2 o Docker para Windows con volúmenes compartidos). O una configuración errónea donde las configuraciones de origen Linux fueron portadas de manera insegura.
