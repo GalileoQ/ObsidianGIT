@@ -260,6 +260,7 @@ SENIOR DEVS tiene permisos de GenericAll sobre adam.silver. Esto significa que a
 
 ### ## Privesc
 
-Por lo tanto, nuestro camino de explotación comienza con las credenciales de trabajo ant.edwards / Antman2025!, 
+Por lo tanto, nuestro camino de explotación comienza con las credenciales de trabajo ant.edwards / Antman2025!, asi que vamos a hacer una validación rápida con nxc
 
 ![[Pasted image 20250606171112.png]]
+
