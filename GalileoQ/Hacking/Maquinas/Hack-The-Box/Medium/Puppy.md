@@ -235,3 +235,9 @@ normalmente la nomenclatura de las credenciales se hace de la siguiente forma no
 de esta manera podemos validar nuestra lista de usuarios realizando una especie de fuerza bruta. pero ninguno es valido
 
 ![[Pasted image 20250606165322.png]]
+
+### Bloodhound
+
+regresamos al grafico y podemos identificar que el grupo 
+
+![[Pasted image 20250606165729.png]]
