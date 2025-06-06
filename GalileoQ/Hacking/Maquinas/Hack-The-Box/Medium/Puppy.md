@@ -146,3 +146,6 @@ efectivamente levi.james. no esta dentro de los usuarios pertenecientes a este g
 
 ![[Pasted image 20250606150659.png]]
 
+### smbclient
+
+![[Pasted image 20250606150831.png]]
