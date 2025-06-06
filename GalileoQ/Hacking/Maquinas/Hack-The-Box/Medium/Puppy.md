@@ -278,3 +278,6 @@ El atributo `userAccountControl` es una máscara de bits que define las propieda
 
 Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer `userAccountControl` → `512` para eliminar el estado deshabilitado. 
 
+#Nota: usar e
+
+![[Pasted image 20250606182228.png]]
