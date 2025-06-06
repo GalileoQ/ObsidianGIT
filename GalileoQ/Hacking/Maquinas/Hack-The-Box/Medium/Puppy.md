@@ -304,3 +304,5 @@ obtenemos unas credenciales nuevas asi que vamos a validarlas
 
 ![[Pasted image 20250606185849.png]]
 
+tenemos conexión via wim-rm
+![[Pasted image 20250606190138.png]]
