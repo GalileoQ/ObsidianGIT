@@ -218,4 +218,6 @@ sys.exit(1)
 python3 keepassBruteForze.py recovery.kdbx /usr/share/wordlists/rockyou.txt
 ```
 
+obtenemos una lista de usuarios y contraseñas que podemos usar para hacer validaciones 
+
 ![[Pasted image 20250606153905.png]]
