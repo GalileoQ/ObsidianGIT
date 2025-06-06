@@ -186,9 +186,9 @@
       "GalileoQ/Hacking/CRTO/C2.md"
     ],
     "GalileoQ/Hacking/Entorno": [
-      "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
       "GalileoQ/Hacking/Entorno/Img",
       "GalileoQ/Hacking/Entorno/Herramientas para entorno.md",
+      "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
       "GalileoQ/Hacking/Entorno/Personalización 1.md",
       "GalileoQ/Hacking/Entorno/Neptuno.md",
       "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
@@ -2191,6 +2191,7 @@
     ],
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium": [
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img",
+      "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Puppy.md",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Authority.md",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blazorized.md",
       "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Blurry.md",
