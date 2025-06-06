@@ -272,4 +272,5 @@ El atributo `userAccountControl` es una máscara de bits que define las propieda
 
 `512 → ( CUENTA_NORMAL ) 514 → ( DESACTIVAR_CUENTA )`
 
-Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer `userAccountControl` → `512` para eliminar el estado deshabilitado. Esto prepara el escenario para la toma de control total de la cuenta. GenéricoTodo
+Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer `userAccountControl` → `512` para eliminar el estado deshabilitado. 
+
