@@ -122,6 +122,7 @@ smbclient //puppy.htb/DEV -U 'PUPPY.HTB\\levi.james'
 bloodhound-python -u 'levi.james' -p 'KingofAkron2025!' -d 'puppy.htb' -ns 10.10.11.70 --zip -c All -dc 'dc.puppy.htb'
 ```
 
-#Nota: en este caso estamos tratando de obtener un TGT para el usuario y aunque parece que tenemos una linea de errores en el output el comando se ejecuto con normalidad. esto puede  
+#Nota: en este caso estamos tratando de obtener un TGT para el usuario y aunque parece que tenemos una linea de errores en el output el comando se ejecuto con normalidad. esto quizás se deba  a la VM que estamos usando ya que es una .OVA y probablemente no tiene todas las librerias y dependencias actualizadas
 
 ![[Pasted image 20250606134006.png]]
+
