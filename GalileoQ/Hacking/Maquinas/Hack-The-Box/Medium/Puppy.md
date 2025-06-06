@@ -308,5 +308,7 @@ tenemos conexión vía wim-rm
 
 ![[Pasted image 20250606190138.png]]
 
-vamos a realizar una nueva recoleccion de datos para nuestro blood
+vamos a realizar una nueva recolección de datos para nuestro bloodhound desde el usuario steph.cooper
+
 ![[Pasted image 20250606190856.png]]
+
