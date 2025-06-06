@@ -231,4 +231,7 @@ normalmente la nomenclatura de las credenciales se hace de la siguiente forma no
 ```python
 ❯ while IFS=: read -r user pass; do echo "[*] Testing $user:$pass"; nxc smb puppy.htb -u "$user" -p "$pass"; done < creds.txt
 ```
+
+de esta manera podemos validar nuestra lista de usuarios realizando una especie de fuerza bruta. pero ninguno es valido
+
 ![[Pasted image 20250606165322.png]]
