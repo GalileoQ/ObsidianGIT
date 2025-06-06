@@ -258,3 +258,7 @@ y a su vez el grupo SENIOR DEVS tiene permisos de GenericALL sobre adam.silver
 
 SENIOR DEVS tiene permisos de GenericAll sobre adam.silver. Esto significa que ant.edwards puede controlar completamente a adam.silver, incluyendo reactivar la cuenta, restablecer la contraseña
 
+### ## Privesc
+
+Por lo tanto, nuestro camino de explotación comienza con las credenciales de trabajo ant.edwards / Antman2025!, no con el fallo anterior antony.edwards:
+
