@@ -268,3 +268,6 @@ efectivamente la cuenta de adam.silver esta desactivada para el grupo "REMOTE MA
 
 ![[Pasted image 20250606171445.png]]
 
+El atributo `userAccountControles` una máscara de bits : un conjunto de indicadores numéricos que define las propiedades del usuario. En nuestro caso: 
+
+514→ 512( CUENTA_NORMAL ) + 2( DESACTIVAR_CUENTA ) Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer userAccountControl→ 512para eliminar el bit deshabilitado. Esto prepara el escenario para la toma de control total de la cuenta. GenéricoTodo
