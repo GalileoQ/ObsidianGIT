@@ -114,3 +114,5 @@ nxc smb puppy.htb -u 'levi.james' -p 'KingofAkron2025!' -M spider_plus
 smbclient //puppy.htb/DEV -U 'PUPPY.HTB\\levi.james'
 ```
 
+![[Pasted image 20250606133725.png]]
+
