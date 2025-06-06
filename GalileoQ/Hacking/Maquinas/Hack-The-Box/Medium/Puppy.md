@@ -222,5 +222,6 @@ obtenemos una lista de usuarios y contraseñas que podemos usar para hacer valid
 
 ![[Pasted image 20250606153905.png]]
 
-normalmente la nomeclatura de las credenciales se hace de la sigu
+normalmente la nomenclatura de las credenciales se hace de la siguiente forma nombre.apellido 
 ![[Pasted image 20250606165120.png]]
+
