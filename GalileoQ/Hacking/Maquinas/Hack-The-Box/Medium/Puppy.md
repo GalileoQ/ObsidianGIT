@@ -312,3 +312,10 @@ vamos a realizar una nueva recolección de datos para nuestro bloodhound desde e
 
 ![[Pasted image 20250606190856.png]]
 
+```python
+# Credentials
+Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Credentials" -Force -Recurse | Format-List
+
+# Protect
+Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Recurse | Format-List
+```
