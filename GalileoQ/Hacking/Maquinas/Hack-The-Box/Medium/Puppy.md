@@ -207,11 +207,15 @@ password = line.strip()
 				for entry in kp.entries:
 					print(f' - {entry.title}: {entry.username} / {entry.password}')
 				break
-except CredentialsError:
-continue
+			except CredentialsError:
+			continue
 except FileNotFoundError:
-print(f'[!] Archivo no encontrado: {WORDLIST}')
+	print(f'[!] Archivo no encontrado: {WORDLIST}')
 sys.exit(1)
+```
+
+```python
+python3 keepassBruteForze.py recovery.kdbx /usr/share/wordlists/rockyou.txt
 ```
 
 ![[Pasted image 20250606153905.png]]
