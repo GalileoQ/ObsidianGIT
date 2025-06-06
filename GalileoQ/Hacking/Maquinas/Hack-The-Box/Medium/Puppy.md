@@ -294,3 +294,6 @@ bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'ant.edwards' -p 'Antman2025!' get
 
 
 ![[Pasted image 20250606183913.png]]
+
+
+![[Pasted image 20250606185648.png]]
