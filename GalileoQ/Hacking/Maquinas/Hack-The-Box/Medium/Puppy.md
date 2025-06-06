@@ -264,3 +264,7 @@ Por lo tanto, nuestro camino de explotación comienza con las credenciales de tr
 
 ![[Pasted image 20250606171112.png]]
 
+efectivamente la cuenta de adam.silver esta desactivada para el grupo "REMOTE MANAGEMENT USERS"
+
+![[Pasted image 20250606171445.png]]
+
