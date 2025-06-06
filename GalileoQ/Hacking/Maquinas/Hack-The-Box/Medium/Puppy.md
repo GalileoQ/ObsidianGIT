@@ -250,5 +250,7 @@ después de Investigar más a fondo, descubrimos que ant.edwards pertenece a un 
 
 ![[Pasted image 20250606170248.png]]
 
-y a su vez el grupo SENIOR DE
+y a su vez el grupo SENIOR DEVS tiene permisos de GenericALL sobre adam.silver
+
 ![[Pasted image 20250606170451.png]]
+
