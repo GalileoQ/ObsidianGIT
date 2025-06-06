@@ -148,6 +148,7 @@ efectivamente levi.james. no esta dentro de los usuarios pertenecientes a este g
 
 ### smbclient
 
-ahora tenemos acceso al recurso compartido DEV. descargamos los 2 archivos 
+ahora tenemos acceso al recurso compartido DEV. descargamos los 2 archivos
 
 ![[Pasted image 20250606151433.png]]
+
