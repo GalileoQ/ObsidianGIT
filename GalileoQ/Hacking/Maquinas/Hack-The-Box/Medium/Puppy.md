@@ -154,6 +154,6 @@ ahora tenemos acceso al recurso compartido DEV. descargamos los 2 archivos
 
 ### Python environment
 
-para 
+para poder leer el archivo de keepass necesitamos usar la utilidad pykeepass ya que esta es la que tiene soporte sobre las versionas mas actualizadas de keepass. para ello voy a crear un entor
 
 ![[Pasted image 20250606152303.png]]
