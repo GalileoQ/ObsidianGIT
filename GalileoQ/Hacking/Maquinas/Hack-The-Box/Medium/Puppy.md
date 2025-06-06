@@ -124,3 +124,6 @@ bloodhound-python -u 'levi.james' -p 'KingofAkron2025!' -d 'puppy.htb' -ns 10.10
 
 ![[Pasted image 20250606143647.png]]
 
+
+
+![[Pasted image 20250606144605.png]]
