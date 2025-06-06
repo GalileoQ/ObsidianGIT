@@ -246,5 +246,9 @@ el miembro del grupo que mas resalta es adam.silver ya que este pertenece al gru
 
 ![[Pasted image 20250606170143.png]]
 
-después de Investigar más a fondo, descubrimos que ant.edwards pertenece a un grupo privilegiado llamado SENIOR DEVS:
+después de Investigar más a fondo, descubrimos que ant.edwards pertenece a un grupo privilegiado llamado SENIOR DEVS
+
 ![[Pasted image 20250606170248.png]]
+
+y a su vez el grupo SENIOR DE
+![[Pasted image 20250606170451.png]]
