@@ -238,6 +238,6 @@ de esta manera podemos validar nuestra lista de usuarios realizando una especie 
 
 ### Bloodhound
 
-regresamos al grafico y podemos identificar que el grupo 
+regresamos al grafico y podemos identificar que el grupo DEVELOPERS@PUPPY.HTB tiene 3 miembros
 
 ![[Pasted image 20250606165729.png]]
