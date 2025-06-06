@@ -108,10 +108,9 @@ nxc smb puppy.htb -u 'levi.james' -p 'KingofAkron2025!' -M spider_plus
 
 - DEV es un recurso compartido personalizado. Sin embargo, no mostró permiso de lectura para el usuario "levi.james" en el contexto actual.
 
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
-# Source: Axura's Blog  
-  
+### smbclient
+
+```python
 smbclient //puppy.htb/DEV -U 'PUPPY.HTB\\levi.james'
+```
+
