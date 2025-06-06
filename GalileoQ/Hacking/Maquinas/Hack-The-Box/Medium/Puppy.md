@@ -130,10 +130,4 @@ Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy 
 
 ### SMB Access
 
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
-# Source: Axura's Blog  
-  
-Hemos identificado que el acceso a la esquiva DEVacción está restringido a la membresía del PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con GenericWriteprivilegios sobre el DEVELOPERSgrupo. Para confirmar la lista actual del grupo, interrogamos al controlador de dominio con bloodyAD :
+Hemos identificado que el acceso al recurso compartido DEV está restringido solo para los miembros de PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con GenericWriteprivilegios sobre el DEVELOPERSgrupo. Para confirmar la lista actual del grupo, interrogamos al controlador de dominio con bloodyAD :
