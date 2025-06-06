@@ -278,6 +278,6 @@ El atributo `userAccountControl` es una máscara de bits que define las propieda
 
 Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer `userAccountControl` → `512` para eliminar el estado deshabilitado. 
 
-#Nota: usar la herramienta de bloodyAD.py desde el repositorio [[bloodAD.py]]
+#Nota: usar la herramienta de bloodyAD.py desde el repositorio  [bloodyAD.py](https://github.com/CravateRouge/bloodyAD?tab=readme-ov-file) 
 
 ![[Pasted image 20250606182228.png]]
