@@ -280,4 +280,3 @@ Para reactivar la cuenta, simplemente debemos reescribir esa bandera: Establecer
 
 #Nota: usar la herramienta de bloodyAD.py desde el repositorio  [bloodyAD.py](https://github.com/CravateRouge/bloodyAD?tab=readme-ov-file) 
 
-![[Pasted image 20250606182228.png]]
