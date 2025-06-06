@@ -266,7 +266,9 @@ Por lo tanto, nuestro camino de explotación comienza con las credenciales de tr
 
 efectivamente la cuenta de adam.silver esta desactivada para el grupo "REMOTE MANAGEMENT USERS"
 
-
+```python
+bloodyAD --host 10.10.11.70 -d 'puppy.htb' -u 'ant.edwards' -p 'Antman2025!' get object 'adam.silver'
+```
 
 ![[Pasted image 20250606171445.png]]
 
