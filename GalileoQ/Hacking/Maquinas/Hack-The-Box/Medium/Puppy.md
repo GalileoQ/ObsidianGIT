@@ -106,4 +106,12 @@ nxc smb puppy.htb -u 'levi.james' -p 'KingofAkron2025!' -M spider_plus
 
 - NETLOGON y SYSVOL, comúnmente utilizados en Active Directory para la entrega de scripts y la configuración de políticas, eran ambos legibles, pero en este caso no eran útiles.
 
-- DEV es un recurso compartido personalizado. Sin embargo, no mostró permiso de lectura para el usuario levi,james para el contexto actual, que está marcado con un contexto personalizado ( DEV-SHARE for PUPPY-DEVS).
+- DEV es un recurso compartido personalizado. Sin embargo, no mostró permiso de lectura para el usuario "levi.james" en el contexto actual.
+
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
+# Licens: CC BY-NC-SA 4.0  
+# Author: Axura  
+# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/  
+# Source: Axura's Blog  
+  
+smbclient //puppy.htb/DEV -U 'PUPPY.HTB\\levi.james'
