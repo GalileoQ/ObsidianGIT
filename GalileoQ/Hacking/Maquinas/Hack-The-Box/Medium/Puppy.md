@@ -152,3 +152,8 @@ ahora tenemos acceso al recurso compartido DEV. descargamos los 2 archivos
 
 ![[Pasted image 20250606151433.png]]
 
+### Python environment
+
+para 
+
+![[Pasted image 20250606152303.png]]
