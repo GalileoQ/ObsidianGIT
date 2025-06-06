@@ -130,7 +130,4 @@ Una vez generado el ZIP, tenemos que cargarlo en BloodHound. en este caso estoy 
 
 ### SMB Access
 
-Hemos identificado que el acceso al recurso compartido DEV está restringido solo para los miembros de PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con GenericWrite privilegios sobre el DEVELOPERSgrupo. Para confirmar la lista actual del grupo, interrogamos al controlador de dominio con bloodyAD :
-
-
-GenericWrite privileges over the DEVELOPERS group.
+Hemos identificado que el acceso al recurso compartido DEV está restringido solo para los miembros de PUPPY-DEVSgrupo. Aunque levi.jamesno está en la lista de invitados, cuenta con los privilegios de GenericWrite sobre el DEVELOPERSgrupo. Para confirmar la lista actual de usuarios pertenecientes a este grupo, interrogamos al controlador de dominio con bloodyAD :
