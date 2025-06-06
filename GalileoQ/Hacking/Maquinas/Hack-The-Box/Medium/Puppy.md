@@ -88,3 +88,5 @@ Nmap done: 1 IP address (1 host up) scanned in 367.88 seconds
 
 ### Información del dominio 
 
+- Domain Name: PUPPY.HTB
+- 
