@@ -56,8 +56,8 @@
 ![[Pasted image 20250607192355.png]]
 
 `7`
-![[Pasted image 20250607192419.png]]
+
 
 `7`
-![[Pasted image 20250607192526.png]]
+
 
