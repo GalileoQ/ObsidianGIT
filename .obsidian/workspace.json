@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
+                "file": "GalileoQ/Hacking/Entorno/Herramientas para entorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repo-Entorno"
+              "title": "Herramientas para entorno"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "active": "9a7eb6085f778471",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Puppy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250606190856.png",
@@ -207,7 +208,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250606171445.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250606171112.png",
     "GalileoQ/Hacking/Entorno/modificaciones del Entorno.md",
-    "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Entorno/Keyboard shortcuts.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
