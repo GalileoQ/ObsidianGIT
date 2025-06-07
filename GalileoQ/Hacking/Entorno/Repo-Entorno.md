@@ -80,3 +80,11 @@
 ![[Pasted image 20250607193146.png]]
 
 `10`
+![[Pasted image 20250607193219.png]]
+
+`10`
+![[Pasted image 20250607193241.png]]
+
+`10`
+![[Pasted image 20250607193302.png]]
+
