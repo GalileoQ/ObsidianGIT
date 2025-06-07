@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,6 +180,7 @@
   },
   "active": "8794173d44d880cb",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Entorno/Img/Pasted image 20250607190819.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Puppy.md",
     "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Entorno/Personalización 1.md",
