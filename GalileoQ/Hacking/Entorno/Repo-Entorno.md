@@ -26,3 +26,7 @@
 ![[Pasted image 20250607191541.png]]
 
 `4`
+![[Pasted image 20250607191609.png]]
+
+`4`
+![[Pasted image 20250607191633.png]]
