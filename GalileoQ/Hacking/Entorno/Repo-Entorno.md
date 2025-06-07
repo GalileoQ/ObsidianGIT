@@ -10,3 +10,6 @@
 `2`
 ![[Pasted image 20250607191228.png]]
 
+`2`
+![[Pasted image 20250607191326.png]]
+
