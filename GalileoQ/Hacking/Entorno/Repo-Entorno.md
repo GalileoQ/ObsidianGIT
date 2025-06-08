@@ -88,3 +88,5 @@
 `10`
 ![[Pasted image 20250607193302.png]]
 
+# shortcuts
+![[Pasted image 20250607200113.png]]
