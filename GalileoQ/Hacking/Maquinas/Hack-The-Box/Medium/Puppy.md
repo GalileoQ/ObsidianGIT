@@ -320,7 +320,7 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Credentials" -Force
 Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Recurse | Format-List
 ```
 
-![[Pasted image 20250612155356.png]]
+![[Pasted image 20250612160539.png]]
 
 
 
