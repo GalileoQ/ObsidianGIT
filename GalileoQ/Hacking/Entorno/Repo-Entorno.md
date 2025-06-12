@@ -89,4 +89,4 @@
 ![[Pasted image 20250607193302.png]]
 
 # shortcuts
-![[Pasted image 20250607200441.png]]
+![[shortcuts.png]]
