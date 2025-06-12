@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "381acdd49c26a9ee",
+        "id": "7b09c892ae19f905",
         "type": "tabs",
         "children": [
           {
-            "id": "8794173d44d880cb",
+            "id": "9beff8d57b0a3ff5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Puppy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Puppy"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -174,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8794173d44d880cb",
+  "active": "9beff8d57b0a3ff5",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Entorno/Repo-Entorno.md",
     "GalileoQ/Hacking/Entorno/Img/shortcuts.png",
