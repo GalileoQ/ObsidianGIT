@@ -345,3 +345,4 @@ Esto simplemente elimina los atributos del Sistema ocultos de todos los archivos
 
 ![[Pasted image 20250612162143.png]]
 
+ahora tenemos los archivos necesario
