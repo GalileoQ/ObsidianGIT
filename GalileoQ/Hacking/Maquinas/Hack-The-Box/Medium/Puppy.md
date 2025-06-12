@@ -353,3 +353,5 @@ logramos descubrir otro conjunto de credenciales
 
 ![[Pasted image 20250612163320.png]]
 
+realizamos una nueva conexion con las nuevas credenciales y
+![[Pasted image 20250612165043.png]]
