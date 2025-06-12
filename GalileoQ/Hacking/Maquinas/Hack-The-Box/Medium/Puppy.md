@@ -310,7 +310,15 @@ tenemos conexión vía wim-rm
 
 ## Recopilación de credenciales de DPAPI
 
-Después de conectarnos podemos las credenciales almacenadas. En Windows, las credenciales suelen estar protegidas mediante DPAPI.
+Después de conectarnos podemos buscar credenciales almacenadas. En Windows, las credenciales suelen estar protegidas mediante DPAPI. 
+
+```python
+# Credentials
+Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Credentials" -Force -Recurse | Format-List
+
+# Protect
+Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Recurse | Format-List
+```
 
 
 
@@ -323,10 +331,4 @@ vamos a realizar una nueva recolección de datos para nuestro bloodhound desde e
 
 
 
-```python
-# Credentials
-Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Credentials" -Force -Recurse | Format-List
 
-# Protect
-Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Recurse | Format-List
-```
