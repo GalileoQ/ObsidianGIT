@@ -349,3 +349,7 @@ ahora tenemos los archivos necesarios y podemos intentar conseguir la clave maes
 
 ![[Pasted image 20250612163158.png]]
 
+logramos descubrir otro conjunto de credenciales
+
+![[Pasted image 20250612163320.png]]
+
