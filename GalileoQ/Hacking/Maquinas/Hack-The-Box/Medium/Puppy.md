@@ -334,3 +334,4 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Re
 ==556a2412-1275-4ccf-b721-e6a0b4f90407es el archivo de clave maestra : contiene la clave maestra DPAPI cifrada== 
 
 ==Preferredapunta a la clave maestra actual en uso (no siempre es necesario si conocemos el archivo de clave) Por lo tanto, vamos a extraer la clave maestra y luego la usaremos para descifrar el blob de credenciales DPAPI .==
+
