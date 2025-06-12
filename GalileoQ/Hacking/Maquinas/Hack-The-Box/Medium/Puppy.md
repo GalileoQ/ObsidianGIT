@@ -326,4 +326,11 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Re
 Archivos como:C8D69EBE9A43E9DEBF6B5FBD48B521B9 
 Se trata de blobs de credenciales DPAPI cifrados (por ejemplo, credenciales guardadas para aplicaciones, navegadores o servicios de Windows). 
 
-%APPDATA%\Microsoft\Protect\ Contiene un almacenamiento de clave maestra DPAPI específico del usuario step.cooper, con SID de usuario S-1-5-21-1487982659-1829050783-2281216199-1107. Dentro de esta carpeta se encuentra el archivo de clave maestra DPAPI , que se utiliza para descifrar otros elementos protegidos por DPAPI (como credenciales del navegador, inicios de sesión guardados, etc.): 556a2412-1275-4ccf-b721-e6a0b4f90407es el archivo de clave maestra : contiene la clave maestra DPAPI cifrada Preferredapunta a la clave maestra actual en uso (no siempre es necesario si conocemos el archivo de clave) Por lo tanto, vamos a extraer la clave maestra y luego la usaremos para descifrar el blob de credenciales DPAPI .
+%APPDATA%\Microsoft\Protect\ 
+Contiene un almacenamiento de clave maestra DPAPI específico del usuario step.cooper, con SID de usuario S-1-5-21-1487982659-1829050783-2281216199-1107.
+
+Dentro de esta carpeta se encuentra el archivo de clave maestra DPAPI , que se utiliza para descifrar otros elementos protegidos por DPAPI (como credenciales del navegador, inicios de sesión guardados, etc.):
+
+556a2412-1275-4ccf-b721-e6a0b4f90407es el archivo de clave maestra : contiene la clave maestra DPAPI cifrada 
+
+Preferredapunta a la clave maestra actual en uso (no siempre es necesario si conocemos el archivo de clave) Por lo tanto, vamos a extraer la clave maestra y luego la usaremos para descifrar el blob de credenciales DPAPI .
