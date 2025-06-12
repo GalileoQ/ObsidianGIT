@@ -353,5 +353,7 @@ logramos descubrir otro conjunto de credenciales
 
 ![[Pasted image 20250612163320.png]]
 
-realizamos una nueva conexion con las nuevas credenciales y
+realizamos una nueva conexión con las nuevas credenciales y listo.
 ![[Pasted image 20250612165043.png]]
+
+### WE ARE ROOT
