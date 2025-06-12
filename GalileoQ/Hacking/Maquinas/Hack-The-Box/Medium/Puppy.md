@@ -337,6 +337,11 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Re
   
 si intentamos descargar el archivo primero nos da un error. Este es un error conocido en Evil-WinRM al intentar descargar archivos desde ubicaciones ocultas o protegidas por el sistema, pero hay un pequeño truco para evitarlo: 
 
-Esto simplemente elimina los atributos del Sistema y Ocultos de todos los archivos bajo la ruta (recursivamente). Ahora podemos descargar de forma segura tanto el blob como la clave maestra en Evil-winrm:
+```python
+cmd.exe /c 'attrib -s -h "C:\Users\steph.cooper\AppData\Roaming\Microsoft\*" /s'
+```
+
+Esto simplemente elimina los atributos del Sistema ocultos de todos los archivos bajo la ruta (recursivamente). Ahora podemos descargar de forma segura tanto el blob como la clave maestra en Evil-winrm:
 
 ![[Pasted image 20250612162143.png]]
+
