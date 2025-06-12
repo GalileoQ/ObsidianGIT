@@ -334,13 +334,9 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Re
 ==556a2412-1275-4ccf-b721-e6a0b4f90407es el archivo de clave maestra : contiene la clave maestra DPAPI cifrada== 
 
 ==Preferredapunta a la clave maestra actual en uso (no siempre es necesario si conocemos el archivo de clave) Por lo tanto, vamos a extraer la clave maestra y luego la usaremos para descifrar el blob de credenciales DPAPI .==
-
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.  
-# Licens: CC BY-NC-SA 4.0  
-# Author: Axura  
-# URL: https://4xura.com/ctf/htb/htb-writeup-puppy/#toc-head-20  
-# Source: Axura's Blog  
   
-Este es un error conocido en Evil-WinRM al intentar descargar archivos desde ubicaciones ocultas o protegidas por el sistema , que también mencioné en el artículo de Vintage aquí . Allí también presentamos un pequeño truco para evitarlo: PowerShell cmd.exe /c 'attrib -s -h "C:\Users\steph.cooper\AppData\Roaming\Microsoft\*" /s' Esto simplemente elimina los atributos del Sistema y Ocultos de todos los archivos bajo la ruta (recursivamente). Ahora podemos descargar de forma segura tanto el blob como la clave maestra en Evil-winrm:
+si intentamos descargar el archivo primero nos da un error. Este es un error conocido en Evil-WinRM al intentar descargar archivos desde ubicaciones ocultas o protegidas por el sistema, pero hay un pequeño truco para evitarlo: 
+
+Esto simplemente elimina los atributos del Sistema y Ocultos de todos los archivos bajo la ruta (recursivamente). Ahora podemos descargar de forma segura tanto el blob como la clave maestra en Evil-winrm:
 
 ![[Pasted image 20250612162143.png]]
