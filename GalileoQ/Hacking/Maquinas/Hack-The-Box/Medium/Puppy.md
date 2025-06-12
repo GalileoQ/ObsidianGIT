@@ -322,7 +322,7 @@ Get-ChildItem "C:\Users\<username>\AppData\Roaming\Microsoft\Protect" -Force -Re
 
 ![[Pasted image 20250612160539.png]]
 
-%APPDATA%\Microsoft\Credentials\ 
+==%APPDATA%\Microsoft\Credentials\== 
 Archivos como:C8D69EBE9A43E9DEBF6B5FBD48B521B9 
 Se trata de blobs de credenciales DPAPI cifrados (por ejemplo, credenciales guardadas para aplicaciones, navegadores o servicios de Windows). 
 
