@@ -308,9 +308,20 @@ tenemos conexión vía wim-rm
 
 ![[Pasted image 20250606190138.png]]
 
+## Recopilación de credenciales de DPAPI
+
+Después de conectarnos podemos las credenciales almacenadas. En Windows, las credenciales suelen estar protegidas mediante DPAPI.
+
+
+
+
+
+
 vamos a realizar una nueva recolección de datos para nuestro bloodhound desde el usuario steph.cooper
 
 ![[Pasted image 20250606190856.png]]
+
+
 
 ```python
 # Credentials
