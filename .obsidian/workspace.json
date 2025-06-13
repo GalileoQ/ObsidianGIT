@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65965f6ac1b563c4",
+        "id": "385e5f77aa9c7e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2740bc8c554ab7",
+            "id": "fa22e8c83f3f6ff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Template/expo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "expo"
             }
           }
         ]
@@ -173,8 +177,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "fa22e8c83f3f6ff4",
   "lastOpenFiles": [
+    "GalileoQ/Template/expo.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Puppy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612165043.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612163320.png",
