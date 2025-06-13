@@ -6,4 +6,4 @@ También quiero compartir con los alumnos las **herramientas y recursos gratuito
 
 Quiero dejar muy claro que esta exposición es **totalmente gratuita**, **no tengo ninguna intención de vender nada**, y todo el contenido que compartiré proviene de fuentes oficiales y legítimas, disponibles para cualquiera que desee aprender por su cuenta.
 
-Actualmente cuento con diver
+Actualmente cuento con diversas certificaciones entre las que destacan la eCPPTv3 (Certified Professional Penetration Tester) 
