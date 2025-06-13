@@ -13,4 +13,4 @@ https://security.ine.com/certifications/ecppt-certification/
 
 
 - **CRTA (Certified Red Team Analyst)**: una certificación ofrecida por **CyberWarFare Labs (CWL)**, enfocada en técnicas de **red teaming** y ataques a entornos **Active Directory**. En esta certificación se evalúan diferentes tácticas y técnicas ofensivas, analizando el impacto de los ataques desde el punto de vista del atacante, hasta lograr el compromiso total de la infraestructura. Todo esto con el fin de comprender cómo defender mejor a las organizaciones frente a amenazas reales.
--
+https://www.credential.net/a1f49afe-0f0a-4a8a-bbf0-f8693652dc74#acc.DKByHhm9
