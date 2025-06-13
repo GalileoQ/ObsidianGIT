@@ -1,1 +1,1 @@
-me gustaria reaalizar una exposicion sobre hacking etico y cyber seguridad. especialmente dirigida a los alumnos de sistemas e informatica. y tambien para cualquier 
+me gustaria reaalizar una exposicion sobre hacking etico y cyber seguridad. especialmente dirigida a los alumnos de sistemas e informatica. y tambien para cualquiera que le interese este tema, el objetivo de esta exposicion es darle a conocer a los alumnos e
