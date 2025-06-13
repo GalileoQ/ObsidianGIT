@@ -8,4 +8,4 @@ Quiero dejar muy claro que esta exposición es **totalmente gratuita**, **no ten
 
 Actualmente cuento con diversas certificaciones entre las que destacan la eCPPTv3 (Certified Professional Penetration Tester) es una **certificación profesional en pruebas de penetración (pentesting)** Es una de las certificaciones más reconocidas en el ámbito del hacking ético y la ciberseguridad ofensiva. con reconocimiento a nivel mundial
 
-tambien cuento con la certificacion CRTA (Certified Red Team Analyst) es una certificación de ofrecida por **CyberWarfare Labs (CWL)**. 
+tambien cuento con la certificacion CRTA (Certified Red Team Analyst) es una certificación de ofrecida por **CyberWarfare Labs (CWL)**. en la cual se evalua las deferentes tegnicas y tacticas 
