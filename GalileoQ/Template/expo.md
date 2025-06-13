@@ -1,1 +1,1 @@
-me gustaria reaalizar una exposicion 
+me gustaria reaalizar una exposicion sobre hacking etico y cyber seguridad. especialmente dirigida a los alumnos de sistemas e informatica. y tambien para cualquier 
