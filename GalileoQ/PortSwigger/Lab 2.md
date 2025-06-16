@@ -20,5 +20,6 @@ agregamos el `Content-Type: application/json` pasando el parámetro price con un
 esto no modifica el precio del producto que tenemos en la tienda pero si lo modifica en el apartado `HOME` asi que solo debemos modificar el `Content-Type: application/json` de nuevo para llevarlo a un valor de 0 y luego podemos agregarlo al carrito
 ![[Pasted image 20250616171341.png]]
 
-modificamos el precio. agregamos el nuevo producto con el precio alterado al carrito y como el valor de esto es 0 podemos realizar la compra
+modificamos el precio. agregamos el nuevo producto con el precio alterado al carrito y como el valor de esto es 0 podemos realizar la compra del producto.
 ![[Pasted image 20250616171924.png]]
+
