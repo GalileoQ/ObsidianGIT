@@ -27,3 +27,4 @@ enumerando las diferentes rutas de la api encontramos la documentación de la ap
 ![[Pasted image 20250616152320.png]]
 
 
+![[Pasted image 20250616154436.png]]
