@@ -21,5 +21,5 @@ La siguiente tabla enumera los métodos de solicitud HTTP y su categorización e
 |[`PATCH`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/PATCH)|No|No|Condicional*|
 |[`CONNECT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/CONNECT)|No|No|No|
 
-en la tabla de la documentacion nos muestra
+La tabla de la documentación nos muestra que PATH normalmente no es un método seguro lo cual nos permite hacer diferentes solicitudes a los distintos endpoints de la api
 ![[Pasted image 20250616152320.png]]
