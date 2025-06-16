@@ -23,6 +23,6 @@ La siguiente tabla enumera los métodos de solicitud HTTP y su categorización e
 
 La tabla de la documentación nos muestra que PATH normalmente no es un método seguro lo cual nos permite hacer diferentes solicitudes a los distintos endpoints de la api. en este caso cambiando el método PATH por el método GET.
 
-enumerando las diferentes rutas de la api encontramos la documentación de la api. la cual nos indica que existen 3 métodos 
+enumerando las diferentes rutas de la api encontramos la documentación de la api. la cual nos indica que existen 3 métodos habilitados. en este caso son: `GET, DELETE, PATH` y tambien nos
 ![[Pasted image 20250616152320.png]]
 
