@@ -13,3 +13,4 @@ revisamos el PATCH y nos indican que solo `Content-Type application/json` es per
 
 al ingresar el `Content-Type: application/json` debemos pasar un parámetro `{}` vacío ya que no sabemos realmente cual es el parámetro de esa solicitud. después de enviar la solicitud nos indica que el parámetro `price` falta en la solicitud. de esta manera identificamos que `price` es el parámetro del json
 ![[Pasted image 20250616170743.png]]
+
