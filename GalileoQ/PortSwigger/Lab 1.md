@@ -15,7 +15,7 @@ La siguiente tabla enumera los métodos de solicitud HTTP y su categorización e
 |[`POST`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST)|No|No|Condicional*|
 |[`PATCH`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/PATCH)|No|No|Condicional*|
 |[`CONNECT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/CONNECT)|No|No|No|
-intercec
+interceptamos la solicitud de actualizacion de contraseñas y podemos ver 
 ![[Pasted image 20250616152933.png]]
 
 ![[Pasted image 20250616152320.png]]
