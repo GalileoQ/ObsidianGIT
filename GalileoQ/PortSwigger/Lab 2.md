@@ -11,5 +11,5 @@ revisamos todas las rutas `/api/products/price` pero no encontramos nada. en est
 revisamos el PATCH y nos indican que solo `Content-Type application/json` es permitido así que debemos ingresar este parámetro y seguir investigando
 ![[Pasted image 20250616170431.png]]
 
-al ingresar el ``
+al ingresar el `Content-Type: application/json` debemos pasar un parámetro `{}` vacío ya que no sabemos realmente cual es el parámetro de esa solicitud. despues de enviar la solicitud nos indica que el 
 ![[Pasted image 20250616170743.png]]
