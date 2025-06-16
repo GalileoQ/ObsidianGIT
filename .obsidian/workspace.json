@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Lab 1.md",
+                "file": "GalileoQ/PortSwigger/Lab 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1"
+              "title": "Lab 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,12 +179,14 @@
   },
   "active": "08aa4e5236234716",
   "lastOpenFiles": [
+    "Sin título.md",
+    "GalileoQ/PortSwigger/Lab 2.md",
+    "GalileoQ/PortSwigger/Lab 1.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616154436.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616152933.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616152320.png",
     "GalileoQ/PortSwigger/Img",
     "GalileoQ/Hacking/CRTO/C2.md",
-    "GalileoQ/PortSwigger/Lab 1.md",
     "informe.md",
     "GalileoQ/PortSwigger",
     "GalileoQ/Template/wps-scan.md",
@@ -208,7 +209,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612163158.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612163142.png",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612162143.png",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Img/Pasted image 20250612160539.png",
     "GalileoQ/Hacking/Entorno/Personalización 1.md",
     "GalileoQ/Hacking/Entorno/Actualizar Kali-Linux.md",
     "GalileoQ/Hacking/Entorno/Instalar BSPWM.md",
@@ -217,7 +217,6 @@
     "GalileoQ/Hacking/Entorno/Herramientas para entorno.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Cascade.md",
     "GalileoQ/Hacking/Entorno/Instalar bat.md",
-    "GalileoQ/Hacking/Entorno/Neptuno.md",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",
