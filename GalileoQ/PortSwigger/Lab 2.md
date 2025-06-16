@@ -16,3 +16,6 @@ al ingresar el `Content-Type: application/json` debemos pasar un parámetro `{}`
 
 agregamos el `Content-Type: application/json` pasando el parámetro price con un valor de 10 y obtenemos una respuesta de estado `200 OK` 
 ![[Pasted image 20250616171150.png]]
+
+esto no modifica el precio del producto que tenemos en la tienda pero si lo modifica en el apartado `HOME`
+![[Pasted image 20250616171341.png]]
