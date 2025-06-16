@@ -1,5 +1,5 @@
 
-al realizar una solicitud de cambio de email podemos ver el PATH de la ruta que sigue la api. esto es un método que normalmente no esta securizado lo cual nos permite hacer solicitudes a diferentes endpoints de la api.
+al registrarnos con las credenciales que nos dan notamos que podemos a. esto es un método que normalmente no esta securizado lo cual nos permite hacer solicitudes a diferentes endpoints de la api.
 
 interceptamos la solicitud de actualización de contraseñas y podemos ver hacia a donde nos lleva el PATH de la ruta
 ![[Pasted image 20250616152933.png]]
