@@ -1,5 +1,5 @@
 
-al registrarnos con las credenciales que nos dan notamos que podemos a. esto es un método que normalmente no esta securizado lo cual nos permite hacer solicitudes a diferentes endpoints de la api.
+al registrarnos con las credenciales que nos dan notamos que podemos actualizar el correo. esto es un método que normalmente no esta securizado lo cual nos permite hacer solicitudes a diferentes endpoints de la api.
 
 interceptamos la solicitud de actualización de contraseñas y podemos ver hacia a donde nos lleva el PATH de la ruta
 ![[Pasted image 20250616152933.png]]
@@ -21,6 +21,5 @@ La siguiente tabla enumera los métodos de solicitud HTTP y su categorización e
 |[`PATCH`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/PATCH)|No|No|Condicional*|
 |[`CONNECT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/CONNECT)|No|No|No|
 
-
-
+en la tabla de la documentacion nos muestra
 ![[Pasted image 20250616152320.png]]
