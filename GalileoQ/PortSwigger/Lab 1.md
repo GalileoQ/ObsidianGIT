@@ -1,6 +1,6 @@
-al realizar una solicitud de cambio de email podemos ver el PATH de la ruta que sigue la api. 
+al realizar una solicitud de cambio de email podemos ver el PATH de la ruta que sigue la api. esto es un método que normalmente no esta securisado lo cual nos permite hacer solicitudes a diferentes endpints de la api.
 
-## [Métodos de solicitudes en apialmacenables en caché](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods#safe_idempotent_and_cacheable_request_methods)
+## [Métodos de solicitudes en api almacenables en caché](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods#safe_idempotent_and_cacheable_request_methods)
 
 La siguiente tabla enumera los métodos de solicitud HTTP y su categorización en términos de seguridad, capacidad de almacenamiento en caché e idempotencia.
 
