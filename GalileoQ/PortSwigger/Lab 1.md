@@ -1,4 +1,9 @@
+
 al realizar una solicitud de cambio de email podemos ver el PATH de la ruta que sigue la api. esto es un método que normalmente no esta securizado lo cual nos permite hacer solicitudes a diferentes endpoints de la api.
+
+interceptamos la solicitud de actualización de contraseñas y podemos ver hacia a donde nos lleva el PATH de la ruta
+![[Pasted image 20250616152933.png]]
+
 
 ### [Métodos de solicitudes en api almacenables en caché](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods#safe_idempotent_and_cacheable_request_methods)
 
@@ -15,7 +20,7 @@ La siguiente tabla enumera los métodos de solicitud HTTP y su categorización e
 |[`POST`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST)|No|No|Condicional*|
 |[`PATCH`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/PATCH)|No|No|Condicional*|
 |[`CONNECT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/CONNECT)|No|No|No|
-interceptamos la solicitud de actualizacion de contraseñas y podemos ver 
-![[Pasted image 20250616152933.png]]
+
+
 
 ![[Pasted image 20250616152320.png]]
