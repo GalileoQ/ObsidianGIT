@@ -1,7 +1,6 @@
 {
   "customFileOrder": {
     "/": [
-      "informe.md",
       "Excalidraw",
       "GalileoQ"
     ],
@@ -14,6 +13,7 @@
       "Excalidraw/Trailer GP1.dwg"
     ],
     "GalileoQ": [
+      "GalileoQ/PortSwigger",
       "GalileoQ/CPTS",
       "GalileoQ/Hacking",
       "GalileoQ/Template"
@@ -3744,6 +3744,7 @@
       "GalileoQ/Template/docker.md",
       "GalileoQ/Template/Pentesting.md",
       "GalileoQ/Template/wps-scan.md"
-    ]
+    ],
+    "GalileoQ/PortSwigger": []
   }
 }
