@@ -8,5 +8,6 @@ revisamos todas las rutas `/api/products/price` pero no encontramos nada. en est
 ![[Pasted image 20250616164758.png]]
 
 `PATCH`
-revisamos el PATCH y nos indican que solo `Content-Type application/json` es permitido asi que debemos 
+revisamos el PATCH y nos indican que solo `Content-Type application/json` es permitido así que debemos ingresar este parámetro y seguir investigando
 ![[Pasted image 20250616170431.png]]
+
