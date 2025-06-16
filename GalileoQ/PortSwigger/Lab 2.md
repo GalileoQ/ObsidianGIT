@@ -3,3 +3,5 @@ Para resolver el laboratorio, aprovecha un endpoint API oculto para comprar una 
 lo primero es identificar los endpoints hacia donde apunta la api para poder identificar la documentación y el comportamiento
 ![[Pasted image 20250616164630.png]]
 
+revisamos todas las rutas `/api`
+![[Pasted image 20250616164758.png]]
