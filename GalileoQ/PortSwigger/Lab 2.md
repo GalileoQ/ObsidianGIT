@@ -7,3 +7,6 @@ revisamos todas las rutas `/api/products/price` pero no encontramos nada. en est
 
 ![[Pasted image 20250616164758.png]]
 
+`PATCH`
+revisamos el PATCH y nos indicanqye solo 
+![[Pasted image 20250616170431.png]]
