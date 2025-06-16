@@ -3738,13 +3738,15 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210852.png",
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
+    "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/Lab 1.md"
+    ],
     "GalileoQ/Template": [
       "GalileoQ/Template/expo.md",
       "GalileoQ/Template/AD.md",
       "GalileoQ/Template/docker.md",
       "GalileoQ/Template/Pentesting.md",
       "GalileoQ/Template/wps-scan.md"
-    ],
-    "GalileoQ/PortSwigger": []
+    ]
   }
 }
