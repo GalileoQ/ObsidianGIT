@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2952e92861a9996",
+        "id": "653bb510414abea4",
         "type": "tabs",
         "children": [
           {
-            "id": "08aa4e5236234716",
+            "id": "00c56af9f5a0483b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Lab 2.md",
+                "file": "GalileoQ/Template/wps-scan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2"
+              "title": "wps-scan"
             }
           }
         ]
@@ -178,8 +178,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "08aa4e5236234716",
+  "active": "00c56af9f5a0483b",
   "lastOpenFiles": [
+    "GalileoQ/Template/AD.md",
+    "GalileoQ/Template/expo.md",
+    "GalileoQ/Template/docker.md",
+    "GalileoQ/Template/Pentesting.md",
+    "GalileoQ/PortSwigger/Lab 2.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171924.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171459.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171341.png",
@@ -190,19 +195,13 @@
     "GalileoQ/PortSwigger/Img/Pasted image 20250616164758.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616164630.png",
     "Sin título.md",
-    "GalileoQ/PortSwigger/Lab 2.md",
     "GalileoQ/PortSwigger/Lab 1.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616154436.png",
-    "GalileoQ/PortSwigger/Img/Pasted image 20250616152933.png",
     "GalileoQ/PortSwigger/Img",
     "GalileoQ/Hacking/CRTO/C2.md",
     "informe.md",
     "GalileoQ/PortSwigger",
     "GalileoQ/Template/wps-scan.md",
-    "GalileoQ/Template/Pentesting.md",
-    "GalileoQ/Template/docker.md",
-    "GalileoQ/Template/AD.md",
-    "GalileoQ/Template/expo.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/ProLabFullHouse.md",

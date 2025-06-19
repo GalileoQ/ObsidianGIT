@@ -6,3 +6,4 @@ wpscan --url https://ramontolentino.com/ --enumerate vp, vt --plugins-detection 
 ```
 
 
+"MATCH (result: Product { id: "<id>" }) RETURN result// " }) RETURN result
