@@ -6,5 +6,6 @@ vamos a iniciar sesión con nuestras credenciales. vamos a agregar la chaqueta a
 la solicitud `GET` nos muestra una información sobre un descuento `chosen_discount`
 ![[Pasted image 20250620152032.png]]
 
-esta información es importante ya que podemos incrustarla en la solicitud `POST` y enviar la solicitud. lo que nos permite realizar la orden con un descuento del `100%` y podemos ver 
+esta información es importante ya que podemos incrustarla en la solicitud `POST` y enviar la solicitud. lo que nos permite realizar la orden con un descuento del `100%` y podemos ver la respuesta `Location: /cart/order-confirmation?order-confirmed=true` y resolvemos el laboratorio
 ![[Pasted image 20250620152217.png]]
+
