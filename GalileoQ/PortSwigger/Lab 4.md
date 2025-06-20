@@ -2,3 +2,6 @@ Para resolver el laboratorio, encuentra y explota una vulnerabilidad de asignaci
 
 vamos a iniciar sesión con nuestras credenciales. vamos a agregar la chaqueta a nuestro carrito y vamos a verificar los puntos finales de la api. en este caso vemos un `GET` y un  `POST` sobre `/api/chekout` así que vamos a enviar estas dios solicitudes al repiter para poder analizarlas
 ![[Pasted image 20250620151143.png]]
+
+la solicitud `GET` nos muestra una infor
+![[Pasted image 20250620152032.png]]
