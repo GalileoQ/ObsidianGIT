@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Lab 3.md",
+                "file": "GalileoQ/PortSwigger/Lab 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 3"
+              "title": "Lab 4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,7 +181,7 @@
   "active": "b35eda1a2aa37555",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/Lab 2.md",
-    "GalileoQ/PortSwigger/Lab 3.md",
+    "GalileoQ/PortSwigger/Lab 4.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
