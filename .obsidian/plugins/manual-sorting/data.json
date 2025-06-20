@@ -3764,5 +3764,7 @@
       "GalileoQ/Template/Pentesting.md",
       "GalileoQ/Template/wps-scan.md"
     ]
-  }
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
 }
