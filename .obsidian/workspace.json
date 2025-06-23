@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usage"
+              "title": "Editorial"
             }
           }
         ]
@@ -179,9 +179,17 @@
   },
   "active": "3ec5d30b56b1042e",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Return.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Keeper.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/PermX.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Return.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Timelapse.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Vaccine.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Matrioshka.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Mailing.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
@@ -201,21 +209,13 @@
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
     "GalileoQ/Template/wps-scan.md",
-    "GalileoQ/Template/AD.md",
-    "GalileoQ/Template/expo.md",
-    "GalileoQ/Template/docker.md",
-    "GalileoQ/Template/Pentesting.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171924.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171459.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171341.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171150.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616170752.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616170743.png",
-    "Sin título.md",
-    "GalileoQ/PortSwigger/Lab 1.md",
     "GalileoQ/PortSwigger/Img",
-    "GalileoQ/Hacking/CRTO/C2.md",
-    "informe.md",
     "GalileoQ/PortSwigger",
     "CRTA/Img",
     "CRTA",
@@ -224,7 +224,4 @@
     "GalileoQ/Hacking/CRTO",
     "GalileoQ/Hacking/1-Tecnicas",
     "GalileoQ/CPTS/cpts",
-    "GalileoQ/CPTS/Pentesting-Process",
-    "Sin título.canvas"
-  ]
-}
+    "GalileoQ/CPTS/Pentesting-Proc
