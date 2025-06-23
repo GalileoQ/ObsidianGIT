@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red"
+              "title": "SmagGrotto"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "3ec5d30b56b1042e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Simple-CTF.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ROOTME.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Red.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Overpass1.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mustacchio.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Mr.Robot.md",
@@ -202,9 +205,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152217.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152032.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152010.png",
