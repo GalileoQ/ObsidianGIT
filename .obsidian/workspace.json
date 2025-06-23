@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
+                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/AnonForce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floffy"
+              "title": "AnonForce"
             }
           }
         ]
@@ -179,6 +179,8 @@
   },
   "active": "3ec5d30b56b1042e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Agent-Sudo.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Floffy.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
@@ -207,8 +209,6 @@
     "GalileoQ/PortSwigger/Lab 2.md",
     "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171924.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171459.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250616171341.png",
