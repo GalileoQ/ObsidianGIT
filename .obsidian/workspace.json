@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cap",
+                "query": "sea",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e907f6df51c9c7f",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Wgel-CTF.md",
