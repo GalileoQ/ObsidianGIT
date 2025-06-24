@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usage"
+              "title": "Perfection"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usage",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +179,7 @@
   },
   "active": "b3fa5e16c285190e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
@@ -205,7 +205,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ColddBox-Easy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chocolate-Factory.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Chill-Hack.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Brute-It.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152217.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152032.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152010.png",
