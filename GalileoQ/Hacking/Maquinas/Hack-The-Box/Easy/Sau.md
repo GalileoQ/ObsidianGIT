@@ -68,3 +68,6 @@ una ves ejecutamos el comando solo tenemos que ejecutar !/bin/bash y esto nos ha
 
 ![[Pasted image 20240611205640.png]]
 ### WE ARE ROOT
+
+$2y$16$1hF72YUox686j5AYiWxBG.xXX9IcpIG7iWSmt7YQDyWH//Ctoe6/6
+$2y$16$1hF72YUox686j5AYiWxBG.xXX9IcpIG7iWSmt7YQDyWH//Ctoe6/6
