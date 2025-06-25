@@ -127,6 +127,9 @@ hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la es
 <script>var i=new Image(); i.src="http://10.10.14.17:9001/XSS";</script>
 ```
 
+```p
+```
+
 ![[Pasted image 20240611203622.png]]
 
 ### Servidor de python
