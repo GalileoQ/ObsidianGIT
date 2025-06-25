@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sau"
+              "title": "Analytics"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,6 +179,7 @@
   },
   "active": "b3fa5e16c285190e",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sau.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Perfection.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
@@ -205,7 +205,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Easy-Peasy.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Dreaming.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Cyborg.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ColddBox-Easy.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152217.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152032.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152010.png",
