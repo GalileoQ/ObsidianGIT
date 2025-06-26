@@ -21,12 +21,14 @@
             "id": "accae7226cb772f2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md"
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ProLabFullHouse 2025-02-25 16.43.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Headless"
             }
           }
         ],
@@ -87,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
