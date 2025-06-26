@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "accae7226cb772f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lian-Yu"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +174,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "accae7226cb772f2",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Lian-Yu.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "Excalidraw/ProLabFullHouse 2025-02-25 16.43.58.excalidraw.md",
@@ -216,7 +202,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/TomGhost.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Startup.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Source.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/SmagGrotto.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152217.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152032.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152010.png",
