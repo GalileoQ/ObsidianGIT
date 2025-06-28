@@ -26,5 +26,5 @@ La tabla de la documentación nos muestra que PATH normalmente no es un método 
 enumerando las diferentes rutas de la api encontramos la documentación de la api. la cual nos indica que existen 3 métodos habilitados. en este caso son: `GET, DELETE, PATH` y tambien nos dice que la ruta en la cual reciden los usuarios es `/api/user/NombreDeUsuario`
 ![[Pasted image 20250616152320.png]]
 
-llamamos al metodo `GET` y proporcionamos la ruta
-![[Pasted image 20250616154436.
+llamamos al metodo `GET` y proporcionamos la ruta donde recide el usuario
+![[Pasted image 20250616154436.png]]
