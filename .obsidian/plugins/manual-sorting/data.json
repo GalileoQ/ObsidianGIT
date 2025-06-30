@@ -3739,7 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
-      "GalileoQ/PortSwigger/Lab 4.md",
+      "GalileoQ/PortSwigger/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
       "GalileoQ/PortSwigger/Lab 3 - Exploiting a mass assignment vulnerability.md",
       "GalileoQ/PortSwigger/Lab 2 - Finding and exploiting an unused API endpoint.md",
       "GalileoQ/PortSwigger/Lab 1 - API testing.md",
