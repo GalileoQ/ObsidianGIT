@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,6 +181,7 @@
   "active": "4aec1d4a090a6ef0",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/Lab 3 - Exploiting a mass assignment vulnerability.md",
+    "GalileoQ/PortSwigger/Lab 4.md",
     "GalileoQ/PortSwigger/Lab 2 - Finding and exploiting an unused API endpoint.md",
     "GalileoQ/PortSwigger/Lab 1 - API testing.md",
     "GalileoQ/PortSwigger/s.md",
@@ -204,7 +206,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Usage.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Year-of-the-Rabbit.md",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152217.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152032.png",
     "GalileoQ/PortSwigger/Img/Pasted image 20250620152010.png",
