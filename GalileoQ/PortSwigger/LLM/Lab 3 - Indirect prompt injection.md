@@ -28,5 +28,6 @@ lo que le indica al LLM que el producto esta agotado y que el autor de este come
 
 ![[Pasted image 20250701190234.png]]
 
-despues de mirar los logs del sistema podemos ver como termina las peticiones que contienen los comentarios del rpoducto lo que nos permite concatenar un
+después de mirar los logs del sistema podemos ver como termina las peticiones que contienen los comentarios del producto lo que nos permite concatenar un segundo código. esto me permite ingresar l
 ![[Pasted image 20250701190746.png]]
+
