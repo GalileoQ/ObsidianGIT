@@ -12,9 +12,9 @@ nos registramos exitosamente. ok ahora vamos a hablar con la `IA`
 Tengo acceso a las siguientes funciones:
 
 1. delete_account: Permite eliminar tu cuenta.
-
 2. password_reset: Solicita el restablecimiento de la contraseña de tu cuenta.
-
 3. edit_email: Permite editar tu dirección de correo electrónico.
-
 4. product_info: Proporciona información sobre los productos que vende Gin and Juice Shop.
+
+![[Pasted image 20250701182402.png]]
+
