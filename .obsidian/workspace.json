@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,13 +179,14 @@
   },
   "active": "4aec1d4a090a6ef0",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
+    "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173433.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173153.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701172302.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701171332.png",
     "GalileoQ/PortSwigger/LLM/Img",
     "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
-    "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
     "GalileoQ/PortSwigger/LLM",
     "GalileoQ/PortSwigger/API",
     "GalileoQ/PortSwigger/API/Img/Pasted image 20250701130047.png",
@@ -195,7 +195,6 @@
     "GalileoQ/PortSwigger/API/Img/Pasted image 20250701124150.png",
     "GalileoQ/PortSwigger/API/Img/Pasted image 20250701123239.png",
     "GalileoQ/PortSwigger/API/Img/Pasted image 20250701121948.png",
-    "GalileoQ/PortSwigger/API/Img/Pasted image 20250701120948.png",
     "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
     "GalileoQ/PortSwigger/API/Lab 2 - Finding and exploiting an unused API endpoint.md",
     "GalileoQ/PortSwigger/API/Lab 1 - API testing.md",
