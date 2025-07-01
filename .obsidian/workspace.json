@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
+                "file": "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1 -  Exploiting LLM APIs with excessive agency"
+              "title": "Lab 2 - Exploiting vulnerabilities in LLM APIs"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,8 +180,8 @@
   },
   "active": "4aec1d4a090a6ef0",
   "lastOpenFiles": [
-    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
+    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173433.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173153.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701172302.png",
