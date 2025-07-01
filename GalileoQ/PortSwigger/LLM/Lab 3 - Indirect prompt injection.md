@@ -6,3 +6,5 @@ al ingresar a la pagina vemos que podemos registrarnos así que será lo primero
 obtenemos el correo en nuestro email de atacante
 ![[Pasted image 20250701182114.png]]
 
+nos registramos exitosamente. ok ahora vamos a hablar con la `IA` 
+![[Pasted image 20250701182156.png]]
