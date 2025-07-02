@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
+                "file": "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1 - CSRF vulnerability with no defenses"
+              "title": "Lab 1 -  Exploiting LLM APIs with excessive agency"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,8 +179,9 @@
   },
   "active": "358230d582801f3e",
   "lastOpenFiles": [
-    "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
+    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
     "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
+    "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/API/Lab 2 - Finding and exploiting an unused API endpoint.md",
@@ -194,7 +194,6 @@
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701182156.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701182114.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701182016.png",
-    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701175611.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701175457.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701174923.png",
