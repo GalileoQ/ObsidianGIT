@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
+                "file": "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 4 - Exploiting server-side parameter pollution in a query string"
+              "title": "Lab 3 - Exploiting a mass assignment vulnerability"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "4aec1d4a090a6ef0",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
     "GalileoQ/PortSwigger/API/Lab 2 - Finding and exploiting an unused API endpoint.md",
     "GalileoQ/PortSwigger/API/Lab 1 - API testing.md",
-    "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/LLM/Lab 3 - Indirect prompt injection.md",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701191822.png",
     "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701190746.png",
