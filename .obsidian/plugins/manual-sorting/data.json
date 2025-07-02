@@ -3776,6 +3776,9 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616152933.png",
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
+    "GalileoQ/PortSwigger/CSRF": [
+      "GalileoQ/PortSwigger/CSRF/Sin título.md"
+    ],
     "GalileoQ/PortSwigger/LLM": [
       "GalileoQ/PortSwigger/LLM/Lab 3 - Indirect prompt injection.md",
       "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
@@ -3804,8 +3807,7 @@
       "GalileoQ/Template/docker.md",
       "GalileoQ/Template/Pentesting.md",
       "GalileoQ/Template/wps-scan.md"
-    ],
-    "GalileoQ/PortSwigger/CSRF": []
+    ]
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting"
