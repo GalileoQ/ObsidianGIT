@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7bc11186ff14ada",
+        "id": "804731479bcc28f8",
         "type": "tabs",
         "children": [
           {
-            "id": "4aec1d4a090a6ef0",
+            "id": "358230d582801f3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab 3 - Exploiting a mass assignment vulnerability"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -177,8 +173,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4aec1d4a090a6ef0",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
     "GalileoQ/PortSwigger/API/Lab 2 - Finding and exploiting an unused API endpoint.md",

@@ -3739,6 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/CSRF",
       "GalileoQ/PortSwigger/LLM",
       "GalileoQ/PortSwigger/API"
     ],
@@ -3803,7 +3804,8 @@
       "GalileoQ/Template/docker.md",
       "GalileoQ/Template/Pentesting.md",
       "GalileoQ/Template/wps-scan.md"
-    ]
+    ],
+    "GalileoQ/PortSwigger/CSRF": []
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting"
