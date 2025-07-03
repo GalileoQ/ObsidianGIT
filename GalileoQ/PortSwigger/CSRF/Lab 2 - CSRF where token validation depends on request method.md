@@ -20,3 +20,4 @@ Hoy en día, detectar y explotar vulnerabilidades CSRF con éxito suele implicar
 
 clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. 
 ![[Pasted image 20250703135954.png]]
+
