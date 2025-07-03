@@ -24,9 +24,8 @@ capturamos la solicitud y la enviamos al repeater. podemos ver que la respuesta 
 si cambiamos el metodo de la solicitud podemos observar que la respuesta sigue siendo `HTTP/2 302 Found` por lo que podemos trabajar con esta request.
 ![[Pasted image 20250703151630.png]]
 
-clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. modificamos el correo electrónico y copiamos el `CSRF HTML` aqui tambien podemos observar que 
+clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. modificamos el correo electrónico y copiamos el `CSRF HTML`
 ![[Pasted image 20250703151826.png]]
 
-podemos ver que en el CSRF Poc se encuentra el valor del token csrf. por lo que la estructura de esta Request es diferente. 
-
-
+pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to victim` 
+![[Pasted image 20250703152114.png]]
