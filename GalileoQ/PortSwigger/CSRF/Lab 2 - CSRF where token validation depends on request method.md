@@ -48,7 +48,9 @@ si eliminamos el token en esta parte de la solicitud podemos observar que nuestr
 
 En esta situación, el atacante puede eliminar todo el parámetro que contiene el token (no solo su valor) para eludir la validación y lanzar un ataque CSRF:
 
-`POST /email/change HTTP/1.1 
-Host: vulnerable-website.com 
-Content-Type: application/x-www-form-urlencoded Content-Length: 25 Cookie: session=2yQIDcpia41WrATfjPqvm9tOkDvkMvLm email=pwned@evil-user.net`
+```python
+POST /email/change HTTP/1.1 
+Host: vulnerable-website.com Content-Type: application/x-www-form-urlencoded Content-Length: 25 Cookie: session=2yQIDcpia41WrATfjPqvm9tOkDvkMvLm email=pwned@evil-user.net
+```
+
 ![[Pasted image 20250703153921.png]]
