@@ -32,5 +32,5 @@ pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to vic
 
 ### OPCIÓN 2
 
-despues de capturar la solicitud 
+después de capturara la solicitud y enviarla al repeater 
 ![[Pasted image 20250703153113.png]]
