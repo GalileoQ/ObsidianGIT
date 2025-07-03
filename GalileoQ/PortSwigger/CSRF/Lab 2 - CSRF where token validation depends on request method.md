@@ -18,6 +18,18 @@ Hoy en día, detectar y explotar vulnerabilidades CSRF con éxito suele implicar
     
 - **Validación basada en referencias** : algunas aplicaciones utilizan el encabezado HTTP Referer para intentar defenderse de ataques CSRF, normalmente verificando que la solicitud se originó en el dominio de la aplicación. Esto suele ser menos efectivo que la validación de tokens CSRF.
 
+capturamos la solicit
+![[Pasted image 20250703151340.png]]
+
+
+
+
+
+
+
+
+
+
 clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. 
 ![[Pasted image 20250703135954.png]]
 
