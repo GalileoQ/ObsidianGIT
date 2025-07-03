@@ -27,5 +27,5 @@ si cambiamos el metodo de la solicitud podemos observar que la respuesta sigue s
 clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. modificamos el correo electrónico y copiamos el `CSRF HTML`
 ![[Pasted image 20250703151826.png]]
 
-pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to victim` 
+pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to victim` y de esta manera podemos resolver el lab
 ![[Pasted image 20250703152114.png]]
