@@ -29,3 +29,5 @@ clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engag
 
 pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to victim` y de esta manera podemos resolver el lab
 ![[Pasted image 20250703152114.png]]
+
+### OPCIÓN 2
