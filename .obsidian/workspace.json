@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Sin título.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Lab 2 - CSRF where token validation depends on request method"
             }
           }
         ],
