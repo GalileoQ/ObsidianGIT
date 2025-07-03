@@ -6,6 +6,7 @@ interceptamos la solicitud y la enviamos al repeater. de esta manera podemos ana
 si eliminamos el token la respuesta nos indica que falta el parámetro `csrf` 
 ![[Pasted image 20250703174558.png]]
 
-si eliminamos los párametros `email` y `csrf` la respuesta nos indica que falta el párametro email 
+si eliminamos los parámetros `email` y `csrf` la respuesta nos indica que falta el parámetro email 
 ![[Pasted image 20250703174652.png]]
 
+ok. parece que el parámetro `csrf` solo tiene una validación si este se encuentra presente. por lo que podemos simplemente eliminar este 
