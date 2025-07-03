@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -190,6 +191,8 @@
   },
   "active": "d691dd64de628ad9",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703101306.png",
+    "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
     "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
@@ -229,13 +232,11 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/0Day.md",
     "GalileoQ/Hacking/Hacking Generico/0 - Consideraciones Previas.md",
     "GalileoQ/Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Analytics.md",
     "GalileoQ/PortSwigger/API/Img",
     "GalileoQ/PortSwigger",
     "CRTA/Img",
     "CRTA",
     "GalileoQ/CPTS/eCPPTv3/Img",
-    "GalileoQ/CPTS/eCPPTv3",
     "Sin título.canvas"
   ]
 }
