@@ -70,5 +70,6 @@ ahora reconstruimos la solicitud y debería quedarnos algo así:
 </script>
 ```
 
-en esta caso debemos tener precaución con los comandos que están urlencodeados ya que si miramos los log podemos darnos cuenta que el comando `%40` no lo esta procesando correctamente esto en `ASCII` representa el `@` asi que podemos reemplazarlo y de esta manera logramos modificar el correo elec 
+en esta caso debemos tener precaución con los comandos que están urlencodeados ya que si miramos los log podemos darnos cuenta que el comando `%40` no lo esta procesando correctamente esto en `ASCII` representa el `@` asi que podemos reemplazarlo y de esta manera logramos modificar el correo electrónico de la victima  
 ![[Pasted image 20250703154708.png]]
+
