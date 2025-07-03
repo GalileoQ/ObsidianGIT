@@ -30,4 +30,4 @@ en este caso la plantilla que nos entregan tiene los valore `"$param1name"` y `"
 
 esto sucede porque algunas aplicaciones no validan que el token pertenezca a la misma sesión que el usuario que realiza la solicitud. En su lugar, la aplicación mantiene un conjunto global de tokens emitidos por ella misma y acepta cualquier token que aparezca en este conjunto.
 
-En esta situación, el atacante puede iniciar sesión en la aplicación usando su propia cuenta, obtener un token válido y luego proporcionar ese token al usuario víctima en su ataque CSRF. tambien podemos eliminar este token 
+En esta situación, el atacante puede iniciar sesión en la aplicación usando su propia cuenta, obtener un token válido y luego proporcionar ese token al usuario víctima en su ataque CSRF. también podemos eliminar este token ya que la web no valida si existe o no y simplemente obtiene uno de los que tiene almacenados
