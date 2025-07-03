@@ -25,5 +25,6 @@ ok. parece que el parámetro `csrf` solo tiene una validación si este se encuen
 
 usando la platilla proporcionada o usando uno de los métodos que podemos encontrar en internet y que les proporcione anteriormente podemos crear una solicitud `CSRF` y hacer las modificaciones necesarias
 
-en este caso la plantilla que nos entregan tiene los valore `"$param1name"` y `"$param1value"` podemos modificar estos val
+en este caso la plantilla que nos entregan tiene los valore `"$param1name"` y `"$param1value"` podemos modificar estos valores para inyectar los parámetros `email` `value` 
 ![[Pasted image 20250703180113.png]]
+
