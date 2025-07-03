@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Lab 2 - CSRF where token validation depends on request method"
             }
+          },
+          {
+            "id": "d39a958b218be298",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -178,11 +188,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "451885c1ffc48270",
+  "active": "d39a958b218be298",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
+    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135954.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135653.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135512.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
     "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703113614.png",
     "GalileoQ/PortSwigger/CSRF/Img/437530021-00574069-aa73-4d54-93e7-b11257569050.png",
@@ -191,7 +202,6 @@
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703102627.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703102355.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703101737.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703101306.png",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
@@ -202,7 +212,6 @@
     "GalileoQ/PortSwigger/API/Lab 2 - Finding and exploiting an unused API endpoint.md",
     "GalileoQ/PortSwigger/API/Lab 1 - API testing.md",
     "GalileoQ/PortSwigger/LLM/Lab 3 - Indirect prompt injection.md",
-    "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701191822.png",
     "GalileoQ/PortSwigger/LLM/Img",
     "GalileoQ/PortSwigger/LLM",
     "GalileoQ/PortSwigger/API",
