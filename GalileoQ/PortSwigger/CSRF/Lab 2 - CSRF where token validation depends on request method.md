@@ -18,7 +18,7 @@ Hoy en día, detectar y explotar vulnerabilidades CSRF con éxito suele implicar
     
 - **Validación basada en referencias** : algunas aplicaciones utilizan el encabezado HTTP Referer para intentar defenderse de ataques CSRF, normalmente verificando que la solicitud se originó en el dominio de la aplicación. Esto suele ser menos efectivo que la validación de tokens CSRF.
 
-capturamos la solicit
+capturamos la solicitud y la enviamos al repeater. podemos ver que la respuesta es 302 Found. en este punto cambiamos el método de la solicitud 
 ![[Pasted image 20250703151340.png]]
 
 
