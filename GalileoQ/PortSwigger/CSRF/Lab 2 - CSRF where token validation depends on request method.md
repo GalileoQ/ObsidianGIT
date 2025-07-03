@@ -21,15 +21,8 @@ Hoy en día, detectar y explotar vulnerabilidades CSRF con éxito suele implicar
 capturamos la solicitud y la enviamos al repeater. podemos ver que la respuesta es 302 Found. en este punto cambiamos el método de la solicitud `Change request method` 
 ![[Pasted image 20250703151340.png]]
 
-si cambiamos el metodo de la solicitud podemos observar que la respuesta sigue siendo 302
+si cambiamos el metodo de la solicitud podemos observar que la respuesta sigue siendo `HTTP/2 302 Found` por lo que podemos trabajar con esta request.
 ![[Pasted image 20250703151630.png]]
-
-
-
-
-
-
-
 
 clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generarte CSRF PoC. 
 ![[Pasted image 20250703135954.png]]
