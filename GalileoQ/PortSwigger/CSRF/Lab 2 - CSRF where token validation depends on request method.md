@@ -70,5 +70,5 @@ ahora reconstruimos la solicitud y debería quedarnos algo así:
 </script>
 ```
 
-en esta caso debemos tener precausión con los comandos que estan urlencodeados 
+en esta caso debemos tener precaución con los comandos que están urlencodeados ya que si miramos los log podemos darnos cuenta que el comando `%40` no lo esta procesando corrrectamente asu
 ![[Pasted image 20250703154708.png]]
