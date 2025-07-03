@@ -5,5 +5,5 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos el laboratorio con las credenciales. vamos a interceptar la solicitud de `Update email` para analizar su funcionamiento
 ![[Pasted image 20250703135512.png]]
 
-podemos 
+podemos ver la solicitud e identificar que esta tiene un token CSRF. este token 
 ![[Pasted image 20250703135653.png]]
