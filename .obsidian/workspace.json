@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -202,13 +203,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a77c5b10c197de28",
+  "active": "451885c1ffc48270",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135954.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135653.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703135512.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703113614.png",
     "GalileoQ/PortSwigger/CSRF/Img/437530021-00574069-aa73-4d54-93e7-b11257569050.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703105132.png",
