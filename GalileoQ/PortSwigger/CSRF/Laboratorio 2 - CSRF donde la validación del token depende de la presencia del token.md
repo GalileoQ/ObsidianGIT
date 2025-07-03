@@ -2,3 +2,9 @@ Tarea: La funcionalidad de cambio de correo electrónico de este laboratorio es 
 
 interceptamos la solicitud y la enviamos al repeater. de esta manera podemos analizar la solicitud  
 ![[Pasted image 20250703174201.png]]
+
+si eliminamos el token la respuesta nos indica que falta el parámetro `csrf` 
+![[Pasted image 20250703174558.png]]
+
+si eliminamos el 
+![[Pasted image 20250703174652.png]]
