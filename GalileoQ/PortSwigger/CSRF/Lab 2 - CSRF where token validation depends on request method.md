@@ -38,5 +38,8 @@ después de capturara la solicitud y enviarla al repeater podemos observar que l
 si eliminamos el token observamos que la respuesta es `HTTP/2 400 Bad Request` y nos indica que el falta el parámetro `csrf` es importante ver y analizar como se comporta la request o solicitud y la response o respuesta. porque de esta manera podemos obtener información de como se esta comportando el servidor
 ![[Pasted image 20250703153325.png]]
 
-cambiamos nuevamente el metodo de 
+cambiamos nuevamente el método de solicitud `Change request method` 
 ![[Pasted image 20250703153618.png]]
+
+esto nos transforma la solicitud `POST` en una 
+![[Pasted image 20250703153717.png]]
