@@ -3777,7 +3777,18 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/CSRF": [
+      "GalileoQ/PortSwigger/CSRF/Img",
       "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md"
+    ],
+    "GalileoQ/PortSwigger/CSRF/Img": [
+      "GalileoQ/PortSwigger/CSRF/Img/437530021-00574069-aa73-4d54-93e7-b11257569050.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703101306.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703101737.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703102355.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703102627.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703103348.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703105132.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703113614.png"
     ],
     "GalileoQ/PortSwigger/LLM": [
       "GalileoQ/PortSwigger/LLM/Lab 3 - Indirect prompt injection.md",
