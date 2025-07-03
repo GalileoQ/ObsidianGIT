@@ -21,7 +21,8 @@ Hoy en día, detectar y explotar vulnerabilidades CSRF con éxito suele implicar
 capturamos la solicitud y la enviamos al repeater. podemos ver que la respuesta es 302 Found. en este punto cambiamos el método de la solicitud `Change request method` 
 ![[Pasted image 20250703151340.png]]
 
-
+si cambiamos el metodo de la solicitud podemos observar que la respuesta sigue siendo 302
+![[Pasted image 20250703151630.png]]
 
 
 
