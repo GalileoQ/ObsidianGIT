@@ -35,5 +35,8 @@ pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to vic
 después de capturara la solicitud y enviarla al repeater podemos observar que la respuesta es un `HTTP/2 302 Found` 
 ![[Pasted image 20250703153113.png]]
 
-si eliminamos el token observamos que la respuesta es `HTTP/2 400 Bad Request` y nos indica que el falta el parámetro `csrf` es importante ver y analizar como se comporta la request o solicitud y la response o respuesta. porque de esta manera podemos obtener informaci
+si eliminamos el token observamos que la respuesta es `HTTP/2 400 Bad Request` y nos indica que el falta el parámetro `csrf` es importante ver y analizar como se comporta la request o solicitud y la response o respuesta. porque de esta manera podemos obtener información de como se esta comportando el servidor
 ![[Pasted image 20250703153325.png]]
+
+cambiamos nuevamente el metodo de 
+![[Pasted image 20250703153618.png]]
