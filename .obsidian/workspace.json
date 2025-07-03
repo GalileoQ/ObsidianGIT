@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Laboratorio 2 - CSRF donde la validación del token depende de la presencia del token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 - CSRF where token validation depends on request method"
+              "title": "Laboratorio 2 - CSRF donde la validación del token depende de la presencia del token"
             }
           }
         ],
@@ -191,19 +191,18 @@
   },
   "active": "ac577e84a912ba88",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703154708.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153921.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153717.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153618.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153325.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153113.png",
-    "GalileoQ/PortSwigger/CSRF/Sin título.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
+    "GalileoQ/PortSwigger/CSRF/Laboratorio 2 - CSRF donde la validación del token depende de la presencia del token.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703152114.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703151826.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703151630.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703151340.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703140326.png",
     "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
