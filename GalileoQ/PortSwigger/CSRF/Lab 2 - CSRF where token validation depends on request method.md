@@ -44,5 +44,5 @@ cambiamos nuevamente el método de solicitud `Change request method`
 esto nos transforma la solicitud `POST` en una `GET` pero si prestamos atención a la respuesta sigue siendo `HTTP/2 302 Found` 
 ![[Pasted image 20250703153717.png]]
 
-si eliminamos el token en esta parte de la solicitud 
+si eliminamos el token en esta parte de la solicitud podemos observar que nuestra respuesta sigue siendo `HTTP/2 302 Found` importante tener esto en cuenta 
 ![[Pasted image 20250703153921.png]]
