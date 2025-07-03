@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF donde la validación del token depende de la presencia del token.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF where token validation depends on token being present.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 3 - CSRF donde la validación del token depende de la presencia del token"
+              "title": "Lab 3 - CSRF where token validation depends on token being present"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -181,19 +180,19 @@
   "active": "f8aed58aad93ea6d",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/CSRF/Lab 4 - CSRF where token is not tied to user session.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF donde la validación del token depende de la presencia del token.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF where token validation depends on token being present.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703180113.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703175706.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703174652.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703174558.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703174201.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703154708.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153921.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153717.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153618.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250703153325.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
