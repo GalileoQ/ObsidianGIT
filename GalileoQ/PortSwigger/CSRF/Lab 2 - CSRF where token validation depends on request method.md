@@ -59,3 +59,4 @@ email=pwned@evil-user.net
 
 ![[Pasted image 20250703153921.png]]
 
+ahora reconstruimos la solicitud y deberia quedarnos algo asi:
