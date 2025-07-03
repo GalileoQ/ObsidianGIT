@@ -32,5 +32,8 @@ pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to vic
 
 ### OPCIÓN 2
 
-después de capturara la solicitud y enviarla al repeater 
+después de capturara la solicitud y enviarla al repeater podemos observar que la respuesta es un `HTTP/2 302 Found` 
 ![[Pasted image 20250703153113.png]]
+
+
+![[Pasted image 20250703153325.png]]
