@@ -28,4 +28,6 @@ usando la platilla proporcionada o usando uno de los métodos que podemos encont
 en este caso la plantilla que nos entregan tiene los valore `"$param1name"` y `"$param1value"` podemos modificar estos valores para inyectar los parámetros `email` `value` 
 ![[Pasted image 20250703180113.png]]
 
-esto sucede porque al
+esto sucede porque algunas aplicaciones no validan que el token pertenezca a la misma sesión que el usuario que realiza la solicitud. En su lugar, la aplicación mantiene un conjunto global de tokens emitidos por ella misma y acepta cualquier token que aparezca en este conjunto.
+
+En esta situación, el atacante puede iniciar sesión en la aplicación usando su propia cuenta, obtener un token válido y luego proporcionar ese token al usuario víctima en su ataque CSRF. tambien podemos eliminar este token 
