@@ -28,3 +28,4 @@ usando la platilla proporcionada o usando uno de los métodos que podemos encont
 en este caso la plantilla que nos entregan tiene los valore `"$param1name"` y `"$param1value"` podemos modificar estos valores para inyectar los parámetros `email` `value` 
 ![[Pasted image 20250703180113.png]]
 
+esto sucede porque al
