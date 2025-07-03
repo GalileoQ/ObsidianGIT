@@ -35,5 +35,5 @@ pegamos la request CSRF en nuestro servidor de exploit y `Deliver exploit to vic
 después de capturara la solicitud y enviarla al repeater podemos observar que la respuesta es un `HTTP/2 302 Found` 
 ![[Pasted image 20250703153113.png]]
 
-
+si eliminamos el token observamos que la respuesta es `HTTP/2 400 Bad Request` y nos indica que el falta el parame
 ![[Pasted image 20250703153325.png]]
