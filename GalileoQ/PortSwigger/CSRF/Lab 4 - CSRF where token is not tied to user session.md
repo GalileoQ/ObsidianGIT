@@ -26,4 +26,13 @@ ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. nec
 ![[Pasted image 20250704164120.png]]
 
 esto nos genera un `CSRF POC` en el cual estamos usando el token de `wiener` sobre el usuario `carlos` luego vamos a nuestro servidor de exploit y lo usamos. 
+
+En una variación de la vulnerabilidad anterior, algunas aplicaciones vinculan el token CSRF a una cookie, pero no a la misma cookie que se utiliza para rastrear las sesiones. Esto puede ocurrir fácilmente cuando una aplicación utiliza dos entornos diferentes, uno para la gestión de sesiones y otro para la protección CSRF, que no están integrados.
+
+```python
+POST /email/change HTTP/1.1 Host: vulnerable-website.com Content-Type: 
+application/x-www-form-urlencoded 
+Content-Length: 68 Cookie: session=pSJYSScWKpmC60LpFOAHKixuFuM4uXWF; csrfKey=rZHCnSzEp8dbI6atzagGoSYyqJqTz5dv csrf=RhV7yQDO0xcq9gLEah2WVbmuFqyOq7tY&email=wiener@normal-user.com
+```
+
 ![[Pasted image 20250704165216.png]]
