@@ -7,3 +7,9 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 - `wiener:peter`
 - `carlos:montoya`
 
+ingresamos en el laboratorio como el usuario `wiener` 
+![[Pasted image 20250704160225.png]]
+
+
+
+![[Pasted image 20250704160209.png]]
