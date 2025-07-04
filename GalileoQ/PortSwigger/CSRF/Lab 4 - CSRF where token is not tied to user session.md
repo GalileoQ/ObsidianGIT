@@ -21,3 +21,4 @@ ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de
 
 hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas con esta acción. podemos notar que efectivamente el token del usuario `wiener` ha sido valido para poder actualizar el correo del usuario `carlos` 
 ![[Pasted image 20250704161523.png]]
+
