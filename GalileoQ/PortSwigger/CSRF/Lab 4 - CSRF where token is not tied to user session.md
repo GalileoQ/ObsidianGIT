@@ -19,5 +19,5 @@ ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el c
 ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de la primera solicitud. del usuario `wiener` 
 ![[Pasted image 20250704161234.png]]
 
-hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas c
+hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas con esta acción. podemos notar que efectivamente el token del usuario `wiener` ha sido valido para poder actualizar el correo del usuario `carlos` 
 ![[Pasted image 20250704161523.png]]
