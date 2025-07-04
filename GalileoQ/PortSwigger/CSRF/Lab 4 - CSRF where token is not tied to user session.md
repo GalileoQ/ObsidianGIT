@@ -16,3 +16,5 @@ vamos a enviar la solicitud al Repeater para almacenarla y hacemos `Drop` de la 
 ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el correo interceptando la petición de nuevo
 ![[Pasted image 20250704161023.png]]
 
+
+![[Pasted image 20250704161234.png]]
