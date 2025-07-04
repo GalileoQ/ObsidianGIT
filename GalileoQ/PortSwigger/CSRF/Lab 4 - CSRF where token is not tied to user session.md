@@ -16,5 +16,5 @@ vamos a enviar la solicitud al Repeater para almacenarla y hacemos `Drop` de la 
 ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el correo interceptando la petición de nuevo
 ![[Pasted image 20250704161023.png]]
 
-ahora vamos a cambiar el token `CSRF` 
+ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de la primera solicitud. del usuario `wiener` 
 ![[Pasted image 20250704161234.png]]
