@@ -13,5 +13,6 @@ ingresamos en el laboratorio como el usuario `wiener` y vamos a actualizar el co
 vamos a enviar la solicitud al Repeater para almacenarla y hacemos `Drop` de la petición para que esta no se complete
 ![[Pasted image 20250704160718.png]]
 
-ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el correo interceptando la peticion de nuevo 
+ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el correo interceptando la petición de nuevo
 ![[Pasted image 20250704161023.png]]
+
