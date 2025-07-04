@@ -10,5 +10,6 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 ingresamos en el laboratorio como el usuario `wiener` y vamos a actualizar el correo electronico
 ![[Pasted image 20250704160613.png]]
 
-vamos a enviar la solicitud al Repeater para almacenarla y hacemos `Drop` de la peticion para que esta no se complete
+vamos a enviar la solicitud al Repeater para almacenarla y hacemos `Drop` de la petición para que esta no se complete
 ![[Pasted image 20250704160718.png]]
+
