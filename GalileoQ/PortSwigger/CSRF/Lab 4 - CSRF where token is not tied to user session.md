@@ -22,5 +22,5 @@ ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de
 hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas con esta acción. podemos notar que efectivamente el token del usuario `wiener` ha sido valido para poder actualizar el correo del usuario `carlos` 
 ![[Pasted image 20250704161523.png]]
 
-ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. necesitamos capturar el token `csrf` de alguno de los dos usuario
+ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. necesitamos capturar el token `csrf` de alguno de los dos usuarios. (recuerda que tiene que ser el token proporcionado para actualizar el correo. no el token de inicio de sesion) y luego vamos a hacer hacer lo mismo para el segundo usuario.
 ![[Pasted image 20250704164120.png]]
