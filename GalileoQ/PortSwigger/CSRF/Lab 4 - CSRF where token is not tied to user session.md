@@ -25,5 +25,5 @@ hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacio
 ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. necesitamos capturar el token `csrf` de alguno de los dos usuarios. en este caso el usuario `wiener` (recuerda que tiene que ser el token proporcionado para actualizar el correo. no el token de inicio de sesión) y luego vamos a hacer hacer lo mismo para el segundo usuario. `carlos` luego vamos a reemplazar el token de `carlos` y usaremos el token de `wiener` y después clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generar CSRF PoC. como lo hemos hecho anteriormente
 ![[Pasted image 20250704164120.png]]
 
-esto nos genera un `CS`
+esto nos genera un `CSRF POC` en el cual estamos usando el token de `wiener` sobre el usuario `carlos` luego vamos a nuestro servidor de exploit y
 ![[Pasted image 20250704165216.png]]
