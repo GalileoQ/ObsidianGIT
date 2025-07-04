@@ -18,3 +18,6 @@ ahora vamos a iniciar sesión como el usuario `carlos` y vamos a actualizar el c
 
 ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de la primera solicitud. del usuario `wiener` 
 ![[Pasted image 20250704161234.png]]
+
+hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas c
+![[Pasted image 20250704161523.png]]
