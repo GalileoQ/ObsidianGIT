@@ -10,5 +10,6 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 ingresamos en el laboratorio como el usuario `wiener`
 ![[Pasted image 20250704160225.png]]
 
-interceptamos la petición y la enviaremos al repeater
+interceptamos la petición y la enviaremos al repeater y luego simplemente haremos `Drop` de la petición
 ![[Pasted image 20250704160209.png]]
+
