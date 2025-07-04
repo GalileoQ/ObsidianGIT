@@ -7,9 +7,8 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 - `wiener:peter`
 - `carlos:montoya`
 
-ingresamos en el laboratorio como el usuario `wiener`
-![[Pasted image 20250704160225.png]]
+ingresamos en el laboratorio como el usuario `wiener` y vamos a actualizar el correo electronico
+![[Pasted image 20250704160613.png]]
 
-vamos a actualizar el correo  el interceptamos la petición y la enviaremos al repeater y luego simplemente haremos `Drop` de la petición
-![[Pasted image 20250704160209.png]]
+
 
