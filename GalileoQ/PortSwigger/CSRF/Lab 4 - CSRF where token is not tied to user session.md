@@ -22,5 +22,8 @@ ahora vamos a cambiar el token `CSRF` del usuario`carlos` y usaremos el token de
 hacemos clic en `Fordward` para poder enviar esta solicitud. y todas las relacionadas con esta acción. podemos notar que efectivamente el token del usuario `wiener` ha sido valido para poder actualizar el correo del usuario `carlos` 
 ![[Pasted image 20250704161523.png]]
 
-ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. necesitamos capturar el token `csrf` de alguno de los dos usuarios. en este caso el usuario `wiener` (recuerda que tiene que ser el token proporcionado para actualizar el correo. no el token de inicio de sesión) y luego vamos a hacer hacer lo mismo para el segundo usuario. `carlos` luego vamos a reemplazar el token de `carlos` y usaremos el token deusuario y después clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generar CSRF PoC. 
+ahora vamos a ejecutar nuestro ataque. vamos a repetir los pasos anteriores. necesitamos capturar el token `csrf` de alguno de los dos usuarios. en este caso el usuario `wiener` (recuerda que tiene que ser el token proporcionado para actualizar el correo. no el token de inicio de sesión) y luego vamos a hacer hacer lo mismo para el segundo usuario. `carlos` luego vamos a reemplazar el token de `carlos` y usaremos el token de `wiener` y después clic derecho en la solicitud y seleccione Herramientas de interacción ó (Engagement tools) después  > Generar CSRF PoC. como lo hemos hecho anteriormente
 ![[Pasted image 20250704164120.png]]
+
+esto nos genera un `CS`
+![[Pasted image 20250704165216.png]]
