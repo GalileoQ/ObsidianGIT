@@ -32,7 +32,10 @@ En una variación de la vulnerabilidad anterior, algunas aplicaciones vinculan e
 ```python
 POST /email/change HTTP/1.1 Host: vulnerable-website.com Content-Type: 
 application/x-www-form-urlencoded 
-Content-Length: 68 Cookie: session=pSJYSScWKpmC60LpFOAHKixuFuM4uXWF; csrfKey=rZHCnSzEp8dbI6atzagGoSYyqJqTz5dv csrf=RhV7yQDO0xcq9gLEah2WVbmuFqyOq7tY&email=wiener@normal-user.com
+Content-Length: 68 Cookie: 
+session=pSJYSScWKpmC60LpFOAHKixuFuM4uXWF; 
+csrfKey=rZHCnSzEp8dbI6atzagGoSYyqJqTz5dv 
+csrf=RhV7yQDO0xcq9gLEah2WVbmuFqyOq7tY&email=wiener@normal-user.com
 ```
 
 ![[Pasted image 20250704165216.png]]
