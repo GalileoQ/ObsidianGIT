@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1771fa703f3a8a4a",
+  "active": "e8f6e4e0b6436f8a",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
