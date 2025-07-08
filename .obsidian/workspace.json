@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Headless"
             }
+          },
+          {
+            "id": "1771fa703f3a8a4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
         "currentTab": 1
@@ -93,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -194,6 +205,7 @@
   },
   "active": "e8f6e4e0b6436f8a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
@@ -230,7 +242,6 @@
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
-    "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/LLM/Img",
     "GalileoQ/PortSwigger/LLM",
