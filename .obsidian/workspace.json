@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "cc60e5235ef3b70f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -174,7 +184,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a36e2a9c0c798ff2",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/CSRF/Lab 4 - CSRF where token is not tied to user session.md",
     "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
