@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost (Imcompleta)"
+              "title": "Headless"
             }
           }
         ],
@@ -194,6 +194,8 @@
   },
   "active": "e8f6e4e0b6436f8a",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Insane/Ghost (Imcompleta).md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Faraday.md",
     "GalileoQ/Hacking/Maquinas/Advanced-Labs/Context.md",
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
@@ -229,9 +231,7 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Hospital.md",
     "GalileoQ/PortSwigger/LLM/Lab 1 -  Exploiting LLM APIs with excessive agency.md",
     "GalileoQ/PortSwigger/LLM/Lab 2 - Exploiting vulnerabilities in LLM APIs.md",
-    "GalileoQ/PortSwigger/API/Lab 3 - Exploiting a mass assignment vulnerability.md",
     "GalileoQ/PortSwigger/CSRF",
-    "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/LLM/Img",
     "GalileoQ/PortSwigger/LLM",
     "GalileoQ/PortSwigger/API",
