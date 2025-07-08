@@ -127,12 +127,6 @@ hacemos la misma inyección pero esta ves en el `User-Agent` y estaremos a la es
 <script>var i=new Image(); i.src="http://10.10.14.17:9001/XSS";</script>
 ```
 
-askda.lsda;lsda;lskddslksldkfajlsfkjasfaksjd
-```
-
-
-
-
 https://pswalia2u.medium.com/exploiting-xss-stealing-cookies-csrf-2325ec03136e
 
 ```python
