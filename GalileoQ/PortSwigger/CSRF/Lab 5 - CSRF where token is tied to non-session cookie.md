@@ -17,5 +17,5 @@ en este caso podemos ver los mismos parámetros. vamos a enviar esta solicitud a
 analizando las dos solicitudes nos damos cuenta que los parámetros `csrf` y `csrfKey` son diferentes para ambos usuarios. así que lo mas seguro es que el token `csrf` este vinculado al `csrfKey` así que decidí probar los token del usuario `wiener` para la solicitud de actualización de correo de `carlos` y funciona pero aquí tenemos un problema
 
 
-ya que el token `csrfKey` viene configurado con la `cookie` de sesión aunque sean parámetros diferentes no podemos construir el encabezado de la `cookie` que contiene esto valores
+ya que el token `csrfKey` viene configurado con la `cookie` de sesión del usuario aunque sean parámetros diferentes no podemos construir el encabezado de la `cookie` que contiene esto valores
 ![[Pasted image 20250709133640.png]]
