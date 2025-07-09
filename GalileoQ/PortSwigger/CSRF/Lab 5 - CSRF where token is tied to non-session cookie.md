@@ -39,5 +39,7 @@ partiendo de esta información sobre las vulnerabilidades web podemos agregar un
 
 ahora bien. la finalidad de este ataque es lograr una respuesta de estatus `200 OK` como lo vimos en la imagen de arriba para poder seguir construyendo el payload de manera que podamos hacer una solicitud completa y estructurada de una nueva cookie 
 
+```python
 
+```
 ![[Pasted image 20250709150853.png]]
