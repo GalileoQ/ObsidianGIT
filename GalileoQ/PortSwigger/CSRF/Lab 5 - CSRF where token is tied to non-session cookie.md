@@ -11,3 +11,5 @@ iniciamos sesión en el laboratorio con las credenciales de `wiener` intentamos 
 podemos ver un parámetro llamado `csrf` que es nuestro token y un segundo parámetro llamado `csrfKey` enviamos esta información al repeater y vamos a iniciar con el usuario `carlos` pare ver cuales son las diferencias
 ![[Pasted image 20250709132926.png]]
 
+en este caso podemos ver los mismos parámetros 
+![[Pasted image 20250709133409.png]]
