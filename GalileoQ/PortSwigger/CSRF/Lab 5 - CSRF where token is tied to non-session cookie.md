@@ -28,3 +28,8 @@ esta solicitud hace un `GET` sobre el parámetro `/search=` y si analizamos la r
 ahora bien. dependiendo de como se este validando esto podemos reconstruir nuestra propia `cookie` partiendo de aquí. 
 ![[Pasted image 20250709144043.png]]
 
+## Descripción
+
+El término CRLF se refiere a Retorno **de** **Carro** (ASCII 13 ) y Avance de **Línea** **(** ASCII 10 ). Se utilizan para indicar el final de una línea; sin embargo, su manejo es diferente en los sistemas operativos actuales. Por ejemplo, en Windows se requieren tanto CR como LF para indicar el final de una línea, mientras que en Linux/UNIX solo se requiere LF. En el protocolo HTTP, la secuencia CR-LF siempre se utiliza para terminar una línea.`\r``\n`
+
+Un ataque de inyección CRLF ocurre cuando un usuario logra enviar un CRLF a una aplicación. Esto se realiza habitualmente modificando un parámetro HTTP o una URL. [OwasTop10](https://owasp.org/www-community/vulnerabilities/CRLF_Injection) 
