@@ -6,3 +6,5 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 - `wiener:peter`
 - `carlos:montoya`
 
+iniciamos sesión en el laboratorio con las credenciales de `wiener` intentamos actualizar el correo y capturamos la petició
+![[Pasted image 20250709132926.png]]
