@@ -67,6 +67,4 @@ Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza
    
 4. Si el servidor no valida ni escapa correctamente los datos del parámetro `search`, el navegador interpretará que la respuesta del servidor incluye **una cabecera adicional**: y aceptará esa cabecera falsa, creando una cookie en el navegador del usuario.
 
-
-csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza
-
+csrfKey=TSPoZzZQKC0oxSrzS0ccYPZwyy56L3r4
