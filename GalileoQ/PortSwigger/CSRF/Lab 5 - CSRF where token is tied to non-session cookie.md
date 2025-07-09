@@ -8,5 +8,6 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 
 iniciamos sesión en el laboratorio con las credenciales de `wiener` intentamos actualizar el correo y capturamos la petición. 
 
-podemos ver un parámetro llamado `csrf` que es nuestro token y un segundo parametro llamado `csrfKey` 
+podemos ver un parámetro llamado `csrf` que es nuestro token y un segundo parámetro llamado `csrfKey` enviamos esta información al repeater y vamos a iniciar con el usuario `carlos` pare ver cuales son las diferencias
 ![[Pasted image 20250709132926.png]]
+
