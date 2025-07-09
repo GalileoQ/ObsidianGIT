@@ -37,3 +37,5 @@ Un ataque de inyección CRLF ocurre cuando un usuario logra enviar un CRLF a una
 partiendo de esta información sobre las vulnerabilidades web podemos agregar un retorno de carro `%0d` a nuestra búsqueda y efectivamente funciona
 ![[Pasted image 20250709150430.png]]
 
+ahora reconstruyendo el ataque se
+![[Pasted image 20250709150853.png]]
