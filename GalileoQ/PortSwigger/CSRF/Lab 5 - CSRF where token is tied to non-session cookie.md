@@ -20,8 +20,8 @@ analizando las dos solicitudes nos damos cuenta que los parámetros `csrf` y `cs
 ya que el token `csrfKey` viene configurado con la `cookie` de sesión del usuario ¡aunque sean parámetros diferentes! no podemos construir el encabezado de la `cookie` que contiene esto valores ya que no tenemos toda la información necesaria. por lo que para continuar necesitamos una segunda vulnerabilidad en la que podamos forzar a la web a devolvernos un segundo encabezado de `cookies`
 ![[Pasted image 20250709133640.png]]
 
-podemos realizar mas pruebas en la web. e
+podemos realizar mas pruebas en la web. en este caso en el apartado de `Home` podemos realizar una búsqueda de un producto y interceptar esta solicitud
 ![[Pasted image 20250709144124.png]]
 
-
+esta solicitud hace un
 ![[Pasted image 20250709144043.png]]
