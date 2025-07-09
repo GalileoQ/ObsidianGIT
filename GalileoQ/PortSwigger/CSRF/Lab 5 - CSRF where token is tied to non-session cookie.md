@@ -43,4 +43,14 @@ ahora bien. la finalidad de este ataque es lograr una respuesta de estatus `200 
 GET /?search=test%0d%0aSet-Cookie:%20csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HTTP/2
 ```
 
+### Traducción de caracteres especiales:
+
+- `%0d` → `\r` (Carriage Return)   
+- `%0a` → `\n` (Line Feed)
+- `%20` → espacio ( )  
+
+Entonces, lo que se está enviando realmente es:
+
+`GET /?search=test Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HTTP/2`
+
 ![[Pasted image 20250709150853.png]]
