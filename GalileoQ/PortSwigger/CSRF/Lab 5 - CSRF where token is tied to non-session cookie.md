@@ -6,5 +6,7 @@ Tienes dos cuentas en la aplicación que puedes usar para diseñar tu ataque. La
 - `wiener:peter`
 - `carlos:montoya`
 
-iniciamos sesión en el laboratorio con las credenciales de `wiener` intentamos actualizar el correo y capturamos la petició
+iniciamos sesión en el laboratorio con las credenciales de `wiener` intentamos actualizar el correo y capturamos la petición. 
+
+podemos ver un parámetro llamado `csrf` que es nuestro token y un segundo parametro llamado `csrfKey` 
 ![[Pasted image 20250709132926.png]]
