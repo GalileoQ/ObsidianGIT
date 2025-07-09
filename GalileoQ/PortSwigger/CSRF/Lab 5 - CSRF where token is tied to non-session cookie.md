@@ -34,5 +34,6 @@ El término CRLF se refiere a Retorno **de** **Carro** (ASCII 13 ) y Avanc
 
 Un ataque de inyección CRLF ocurre cuando un usuario logra enviar un CRLF a una aplicación. Esto se realiza habitualmente modificando un parámetro HTTP o una URL. [OWASP-Top10](https://owasp.org/www-community/vulnerabilities/CRLF_Injection) 
 
-par
+partiendo de esta información sobre las vulnerabilidades web podemos agregar un retorno de carro `%0d` a nuestra búsqueda y efectivamente funciona
 ![[Pasted image 20250709150430.png]]
+
