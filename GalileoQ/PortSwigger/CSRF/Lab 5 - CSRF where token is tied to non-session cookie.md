@@ -24,5 +24,7 @@ podemos realizar mas pruebas en la web. en este caso en el apartado de `Home` po
 ![[Pasted image 20250709144124.png]]
 
 esta solicitud hace un `GET` sobre el parámetro `/search=` y si analizamos la respuesta podemos ver una nueva `cookie` llamada `LastSearchTerm` que es igual al valor de nuestra búsqueda
+
+ahora bien. dependiendo de co
 ![[Pasted image 20250709144043.png]]
 
