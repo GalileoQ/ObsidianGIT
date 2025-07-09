@@ -45,10 +45,12 @@ GET /?search=test%0d%0aSet-Cookie:%20csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HT
 
 - `%0d` → `\r` (Carriage Return o retorno del carro)
 - `%0a` → `\n` (Line Feed o salto de linea)
-- `%20` → espacio ( el espacio en balnco)  
+- `%20` → espacio ( el espacio en blanco entre un parámetro y otro)  
 
 Entonces, lo que se está enviando realmente es:
 
-`GET /?search=test Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HTTP/2`
+```python
+GET /?search=test Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HTTP/2
+```
 
 ![[Pasted image 20250709150853.png]]
