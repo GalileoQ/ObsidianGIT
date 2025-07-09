@@ -17,5 +17,5 @@ en este caso podemos ver los mismos parámetros. vamos a enviar esta solicitud a
 analizando las dos solicitudes nos damos cuenta que los parámetros `csrf` y `csrfKey` son diferentes para ambos usuarios. así que lo mas seguro es que el token `csrf` este vinculado al `csrfKey` así que decidí probar los token del usuario `wiener` para la solicitud de actualización de correo de `carlos` y funciona pero aquí tenemos un problema
 
 
-ya que el token `csrfKey` viene configurado con la `cook`
+ya que el token `csrfKey` viene configurado con la `cookie` de sesión 
 ![[Pasted image 20250709133640.png]]
