@@ -54,3 +54,23 @@ GET /?search=test Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza HTTP/2
 ```
 
 ![[Pasted image 20250709150853.png]]
+
+### ¿Cómo funciona internamente?
+
+1. El atacante inyecta `%0d%0a` (CRLF) dentro del parámetro `search` de la URL.
+2. Esto **simula el final de una cabecera HTTP y el comienzo de otra**, rompiendo la estructura normal de las cabeceras de respuesta del servidor.
+3. Luego inyecta manualmente una cabecera nueva:
+
+```python
+
+```
+   
+4. Si el servidor no valida ni escapa correctamente los datos del parámetro `search`, el navegador interpretará que la respuesta del servidor incluye **una cabecera adicional**:
+    
+    javascript
+    
+    CopiarEditar
+    
+    `Set-Cookie: csrfKey=KdqFrXzWr2aWPkpedy4R1HPHJIHdvMza`
+    
+5. El navegador aceptará esa cabecera falsa, creando una cookie en el navegador del usuario.
