@@ -14,3 +14,5 @@ podemos ver un parámetro llamado `csrf` que es nuestro token y un segundo pará
 en este caso podemos ver los mismos parámetros. vamos a enviar esta solicitud al repeater para analizarla
 ![[Pasted image 20250709133409.png]]
 
+analizando las dos solicitudes nos damos cuenta que los parametros `csrf` y `csrfKey` son diferentes para ambos usuarios
+![[Pasted image 20250709133640.png]]
