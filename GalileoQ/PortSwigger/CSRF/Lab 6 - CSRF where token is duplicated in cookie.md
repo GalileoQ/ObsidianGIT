@@ -24,10 +24,15 @@ la inyección del encabezado nos quedaría así:
 GET /?search=test%0d%0aSet-Cookie:%20csrf=test HTTP/2
 ```
 
+ Create a URL that uses this vulnerability to inject a fake `csrf` cookie into the victim's browser:
+
+`/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None`
+
 ![[Pasted image 20250710164155.png]]
 
 ahora lo que tenemos que hacer es ir a la solicitud que contiene nuestra función de actualización de correo electrónico y vamos a generar un CSRF PoC 
 ![[Pasted image 20250710164512.png]]
 
-primero vamos e eliminar la función de las etiquetas `<scr>`
+primero vamos e eliminar la función de las etiquetas `<script>` para poder hacer uso de nuestra inyección 
 ![[Pasted image 20250710164700.png]]
+
