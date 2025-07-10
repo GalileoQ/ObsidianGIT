@@ -11,14 +11,10 @@
             "id": "a36e2a9c0c798ff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wonderland"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeración Windows"
+              "title": "Lab 5 - CSRF where token is tied to non-session cookie"
             }
           }
         ],
@@ -195,11 +191,12 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Enumeración Windows.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709161528.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709150853.png",
@@ -228,7 +225,6 @@
     "GalileoQ/CPTS/cpts/nmap.md",
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250704165216.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250704164120.png",
     "GalileoQ/PortSwigger/CSRF/Img",
