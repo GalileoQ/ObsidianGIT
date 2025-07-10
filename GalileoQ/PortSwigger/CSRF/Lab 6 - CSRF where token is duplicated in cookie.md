@@ -3,3 +3,6 @@ Para resolver el laboratorio, utilice su servidor de exploits para alojar una p�
 
 Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
+como siempre iniciamos sesión en el lab con las credenciales que nos proporcionan e interceptamos la solicitud para luego enviarla al repeater
+![[Pasted image 20250710162852.png]]
+
