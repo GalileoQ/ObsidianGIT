@@ -63,5 +63,6 @@ seria nuestra inyección completa y maliciosa
 `NOTA: Recuerda cambiar tu valor de csrf token. por el valor de LastSearchTerm en mi caso es -test-  ` 
 ![[Pasted image 20250710165217.png]]
 
-de esta manera logramos realizar un ataque `CSRF` sobre la funcionalidad de cambio o actualización de correo electronico 
+de esta manera logramos realizar un ataque `CSRF` sobre la funcionalidad de cambio o actualización de correo electrónico 
 ![[Pasted image 20250710170300.png]]
+
