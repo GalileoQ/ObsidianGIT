@@ -24,9 +24,11 @@ la inyección del encabezado nos quedaría así:
 GET /?search=test%0d%0aSet-Cookie:%20csrf=test HTTP/2
 ```
 
-por ejemplo también podrías crea una URL que use esta vulnerabilidad para inyectar una URL falsa. `csrf`cookie en el navegador de la víctima:
+por ejemplo también podrías crea una URL que use esta vulnerabilidad para inyectar una URL falsa. `csrf`cookie en el navegador de la víctima.
 
-`/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None`
+```python
+/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None
+```
 
 ![[Pasted image 20250710164155.png]]
 
