@@ -26,3 +26,5 @@ GET /?search=test%0d%0aSet-Cookie:%20csrf=test HTTP/2
 
 ![[Pasted image 20250710164155.png]]
 
+ahora lo que tenemos 
+![[Pasted image 20250710164512.png]]
