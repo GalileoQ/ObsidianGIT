@@ -29,3 +29,5 @@ GET /?search=test%0d%0aSet-Cookie:%20csrf=test HTTP/2
 ahora lo que tenemos que hacer es ir a la solicitud que contiene nuestra función de actualización de correo electrónico y vamos a generar un CSRF PoC 
 ![[Pasted image 20250710164512.png]]
 
+primero vamos e eliminar la función de las etiquetas `<scr>`
+![[Pasted image 20250710164700.png]]
