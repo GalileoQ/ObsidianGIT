@@ -17,3 +17,5 @@ ahora realizamos una búsqueda y analizamos la solicitud para identificar sus pa
 una ves tenemos la solicitud la enviamos al repeater para analizar la respuesta del lado del servidor. en este caso tenemos una respuesta `200 OK` y nos devuelve el parámetro `Set-cookie: LastSearchTerm` esta cookie contiene el parámetro de nuestra ultima búsqueda es decir `test` así que vamos a validar esto y si no cumple con la validación correcta podemos explotar esta vulnerabilidad y generar una cabecera dinámica que contenga el parámetro `Set-cookie`
 ![[Pasted image 20250710163437.png]]
 
+realizamos la validación correspondiente 
+![[Pasted image 20250710164155.png]]
