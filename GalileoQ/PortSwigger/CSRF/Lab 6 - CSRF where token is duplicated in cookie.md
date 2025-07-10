@@ -11,3 +11,6 @@ después de interceptar la solicitud la enviamos al repeater y podemos tirar (Dr
 podemos ver que tenemos tanto la `cookie` de inicio de sesión como el `csrf`
 ![[Pasted image 20250710163229.png]]
 
+ahora realizamos una búsqueda y analizamos la solicitud para identificar sus parámetros
+![[Pasted image 20250710163311.png]]
+
