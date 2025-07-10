@@ -14,5 +14,5 @@ podemos ver que tenemos tanto la `cookie` de inicio de sesión como el `csrf`
 ahora realizamos una búsqueda y analizamos la solicitud para identificar sus parámetros
 ![[Pasted image 20250710163311.png]]
 
-una ves tenemos la solicitud la enviamos al repeater para analizar la respuesta del lado del servidor. en este caso tenemos una respuesta `200 OK` y nos devuelve el parámetro `Set-cookie: LastSearchTerm` esta cookie contiene el parámetro de nuestra ultima búsqueda es decir `test` asi que vamos a validar esto y si no cumple con la validacion correcta podriamos
+una ves tenemos la solicitud la enviamos al repeater para analizar la respuesta del lado del servidor. en este caso tenemos una respuesta `200 OK` y nos devuelve el parámetro `Set-cookie: LastSearchTerm` esta cookie contiene el parámetro de nuestra ultima búsqueda es decir `test` asi que vamos a validar esto y si no cumple con la validacion correcta podemos explotar esta vulnerabilidad y generar una cabecera dinamica que contenga el parametro 
 ![[Pasted image 20250710163437.png]]
