@@ -6,3 +6,5 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 como siempre iniciamos sesión en el lab con las credenciales que nos proporcionan e interceptamos la solicitud para luego enviarla al repeater
 ![[Pasted image 20250710162852.png]]
 
+despues de interceptar la solicitud la enviam
+![[Pasted image 20250710163021.png]]
