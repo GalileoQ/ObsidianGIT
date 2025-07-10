@@ -38,7 +38,7 @@ ahora lo que tenemos que hacer es ir a la solicitud que contiene nuestra funció
 primero vamos e eliminar la función de las etiquetas `<script>` para poder hacer uso de nuestra inyección 
 ![[Pasted image 20250710164700.png]]
 
-ahora solo nos queda inyectar 
+ahora solo nos queda inyectar una fuente de imagen que haga un llamado a la url que sera 
 
 ```python
 <html>
