@@ -60,5 +60,5 @@ donde
 ```
 seria nuestra inyección completa y maliciosa
 
-`NOTA: ` 
+`NOTA: Recuerda camviar tu valor de csrf token. por el valor de csrf  ` 
 ![[Pasted image 20250710165217.png]]
