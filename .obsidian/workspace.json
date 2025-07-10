@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+                "file": "GalileoQ/Hacking/Windows/Enumeración Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Técnicas fundamentales"
+              "title": "Enumeración Windows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -191,8 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a36e2a9c0c798ff2",
+  "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/impacket.md",
+    "GalileoQ/Hacking/Windows/msfvenom shell.md",
+    "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
@@ -224,11 +229,8 @@
     "GalileoQ/CPTS/cpts/EXPLOTACIÓN AD.md",
     "Excalidraw/Drawing 2024-09-10 15.51.50.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 22.45.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-27 12.40.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-26 17.54.47.excalidraw.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250704165216.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250704164120.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 2 - CSRF where token validation depends on request method.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/LLM/Img",

