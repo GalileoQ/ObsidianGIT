@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 6 - CSRF where token is duplicated in cookie"
+              "title": "Lab 7 SameSite Lax bypass via method override"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -191,6 +190,8 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710170300.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710165217.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710164700.png",
@@ -201,9 +202,7 @@
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163311.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163229.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163021.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710162852.png",
     "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/Windows/impacket.md",

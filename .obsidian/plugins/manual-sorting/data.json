@@ -3777,6 +3777,7 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/CSRF": [
+      "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
       "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
       "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
       "GalileoQ/PortSwigger/CSRF/Lab 4 - CSRF where token is not tied to user session.md",
@@ -3786,6 +3787,17 @@
       "GalileoQ/PortSwigger/CSRF/Img"
     ],
     "GalileoQ/PortSwigger/CSRF/Img": [
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710162852.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163021.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163229.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163311.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163413.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710163437.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710164155.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710164512.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710164700.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710165217.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250710170300.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709132926.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709133409.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709133640.png",
