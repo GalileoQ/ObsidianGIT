@@ -35,8 +35,7 @@
               "title": "1-Técnicas fundamentales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d95ccde664fc02d",
+  "active": "a36e2a9c0c798ff2",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709161528.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250709150853.png",
