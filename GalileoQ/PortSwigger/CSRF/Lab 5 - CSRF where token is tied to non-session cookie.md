@@ -84,6 +84,8 @@ ahora vamos a generar el CSRF-Poc
 </html>
 ```
 
-este ataque se ejecuta con un token `csrf` de cualquiera de los dos usuarios
-necesitamos un token `csrfKey` 
-estructural la solicitud de 
+### 
+
+- necesitamos un token `csrf` de cualquiera de los dos usuarios
+- necesitamos un token `csrfKey` 
+- necesitaestructural la solicitud de la api
