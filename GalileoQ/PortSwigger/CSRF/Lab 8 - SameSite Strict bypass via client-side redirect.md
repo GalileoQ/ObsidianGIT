@@ -82,3 +82,5 @@ al enviar esto y esperar la redirección nos dice que falta el parámetro 'submi
 
 /post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com%26submit=1
 ```
+
+asegurate de cambiar el correo electronico en este punto y cuando la web haga una redirección podras ver si el cambio del correo electronico se ha real
