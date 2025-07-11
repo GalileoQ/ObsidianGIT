@@ -6,10 +6,10 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio con las credenciales proporcionadas
 ![[Pasted image 20250711151627.png]]
 
-si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y también vemos que tiene una fecha de vencimiento configurada. además de eso
+si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y también vemos que tiene una fecha de vencimiento configurada. además de eso esta configurada para `HttpOnly`
 ![[Pasted image 20250711152650.png]]
 
-interceptamos la solicitud y la enviamos al `Repeater`
+ahora interceptamos la solicitud de cambio de y la enviamos al `Repeater`
 ![[Pasted image 20250711151709.png]]
 
 enviamos esta solicitud y seguimos la redirección. 
