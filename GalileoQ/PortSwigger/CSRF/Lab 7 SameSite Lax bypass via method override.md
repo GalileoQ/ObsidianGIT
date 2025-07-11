@@ -21,8 +21,16 @@ cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos
 ahora si intentamos cambiar el método a la solicitud de cambio de correo la respuesta del lado del servidor es `"Method Not Allowed"`
 ![[Pasted image 20250711155814.png]]
 
-investigando en internet encontramos u
-![[Pasted image 20250711160016.png]]
+investigando en internet encontramos una suplantación de método 
+
+```python
+<form action="/foo/bar" method="POST">
+    <input type="hidden" name="_method" value="PUT">
+    <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
+</form>
+```
+
+![[Pasted image 20250711160109.png]]
 
 vamos a crear nuestro CSRF PoC 
 ![[Pasted image 20250711155352.png]]
