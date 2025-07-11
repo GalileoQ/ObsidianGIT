@@ -34,5 +34,5 @@ en este caso podríamos usar una solicitud `GET` pero le estamos indicando a la 
 
 ![[Pasted image 20250711160109.png]]
 
-vamos a crear nuestro CSRF PoC 
+vamos a crear nuestro CSRF PoC. 
 ![[Pasted image 20250711155352.png]]
