@@ -48,7 +48,7 @@ ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nu
 ```python
 #Inyeción 2
 
-/post/comment/confirmation?postId=my-account
+/post/comment/confirmation?postId=my-account/
 ```
 
 ![[Pasted image 20250711171736.png]]
@@ -63,5 +63,5 @@ después de la redirección nos da un error. eso es porque en la redirección qu
 /post/comment/confirmation?postId=../my-account/
 ```
 
-esto nos lleva a la 
-![[Pasted image 20250711174820.png]]
+esto nos lleva al apartado de mi cuenta donde
+![[Pasted image 20250711175000.png]]
