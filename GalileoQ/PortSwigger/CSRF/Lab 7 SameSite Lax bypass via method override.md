@@ -15,5 +15,6 @@ ahora interceptamos la solicitud de cambio de correo y la enviamos al `Repeater`
 enviamos esta solicitud y seguimos la redirección. no obtenemos la `cookie` `secure: HttpOnly` así que vamos a cambiar el método
 ![[Pasted image 20250711152212.png]]
 
-cambiamos el método `POST` 
+cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos la `cookie` `secure; HttpOnly`
 ![[Pasted image 20250711155228.png]]
+
