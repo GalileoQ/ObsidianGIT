@@ -87,7 +87,8 @@ asegúrate de cambiar el correo electrónico en este punto y cuando la web haga 
 efectivamente esto ha funcionado y hemos cambiado el correo electrónico haciendo un ataque CSRF haciendo omisión estricta de SameSite mediante redirección del lado del cliente
 ![[Pasted image 20250711180737.png]]
 
-ahora vamos a construir la solicitud completa. para ellos debemos agregar las etiquitas `<script>` y también tenemos que agregar la función de JavaScript
+ahora vamos a construir la solicitud completa. para ellos debemos agregar las etiquitas `<script>` y también tenemos que agregar la función de JavaScript `document.location`
+
 ```python
 #Inyeción 5
 
@@ -97,3 +98,5 @@ ahora vamos a construir la solicitud completa. para ellos debemos agregar las et
 
 ```
 
+hemos cambiado el correo electrónico efectivamente haciendo 
+![[Pasted image 20250711181942.png]]
