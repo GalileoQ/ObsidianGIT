@@ -60,5 +60,8 @@ después de la redirección nos da un error. eso es porque en la redirección qu
 ```python
 #Inyeción 3
 
-/post/comment/confirmation?postId=../my-account
+/post/comment/confirmation?postId=../my-account/
 ```
+
+esto nos lleva a la 
+![[Pasted image 20250711174820.png]]
