@@ -35,6 +35,8 @@ en la solicitud de nuestro post podemos ver que la solicitud `GET` llama a la ru
 nuestra url es : `https://0a3500f3042d999182dfd8d400e000e3.web-security-academy.net/post/6` al final vamos a reemplazar `/post/6` por la ruta completa que nos indica el método `GET`
 
 ```python
+#Inyeción 1
+
 /post/comment/confirmation?postId=6
 ```
 
