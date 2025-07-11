@@ -18,3 +18,5 @@ enviamos esta solicitud y seguimos la redirección. no obtenemos la `cookie` `se
 cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos la `cookie` `secure; HttpOnly`
 ![[Pasted image 20250711155228.png]]
 
+vamos a crear nuestro CSRF PoC 
+![[Pasted image 20250711155352.png]]
