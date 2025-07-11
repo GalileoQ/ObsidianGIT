@@ -18,7 +18,7 @@ enviamos esta solicitud y seguimos la redirección. no obtenemos la `cookie` `se
 cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos la `cookie` `secure; HttpOnly`
 ![[Pasted image 20250711155228.png]]
 
-ahora si intentamos cambiar el método a la solicitud de cambio de correo la respuesta del lado del servidor es `M`
+ahora si intentamos cambiar el método a la solicitud de cambio de correo la respuesta del lado del servidor es `"Method Not Allowed"`
 ![[Pasted image 20250711155814.png]]
 
 vamos a crear nuestro CSRF PoC 
