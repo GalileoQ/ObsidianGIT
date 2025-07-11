@@ -6,7 +6,7 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio con las credenciales proporcionadas
 ![[Pasted image 20250711151627.png]]
 
-si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y también vemos que tiene una fecha de vencimiento configurada. además de eso esta configurada para `HttpOnly`
+si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y también vemos que tiene una fecha de vencimiento configurada. además de eso esta configurada para `HttpOnly` es una cookie significa que la cookie es segura y solo puede ser accedida por el protocolo HTTP, no por scripts del lado del cliente como JavaScript. Esto ayuda a prevenir ataques de secuencias de comandos entre sitios (XSS). 
 ![[Pasted image 20250711152650.png]]
 
 ahora interceptamos la solicitud de cambio de correo y la enviamos al `Repeater`
