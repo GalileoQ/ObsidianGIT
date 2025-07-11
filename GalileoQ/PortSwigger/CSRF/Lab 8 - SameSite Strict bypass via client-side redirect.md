@@ -77,11 +77,12 @@ luego copiamos nuestra solicitud `GET` a la cual le cambiamos el metodo y extrae
 al enviar esto y esperar la redirección nos dice que falta el parámetro 'submit' esto se debe a que nuestra inyección contiene un `&` y la web no lo interpreta correctamente asi que lo tenemos que url encodear
 ![[Pasted image 20250711180206.png]]
 
+asegúrate de cambiar el correo electrónico en este punto y cuando la web haga una redirección podrás ver si el cambio del correo electrónico se ha realizado efectivamente
 ```python
 #Inyeción 5
 
 /post/comment/confirmation?postId=../my-account/change-email?email=HACKER%40poetswiggers.com%26submit=1
 ```
 
-asegúrate de cambiar el correo electrónico en este punto y cuando la web haga una redirección podrás ver si el cambio del correo electrónico se ha realizado efectivamente
+efectivamente esto ha funcionado y hemos cambiado el correo electrónico haciendo un ataque CSRF haciendo omisión estricta de SameSite mediante redirección del lado del cliente
 ![[Pasted image 20250711180737.png]]
