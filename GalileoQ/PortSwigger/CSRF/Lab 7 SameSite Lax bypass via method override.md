@@ -30,7 +30,7 @@ investigando en internet encontramos una suplantación de método.
 </form>
 ```
 
-ya que los formularios HTML no soportan `PUT, PATCH, DELETE` 
+ya que los formularios HTML no soportan `PUT, PATCH, DELETE` existen o
 ![[Pasted image 20250711160109.png]]
 
 vamos a crear nuestro CSRF PoC 
