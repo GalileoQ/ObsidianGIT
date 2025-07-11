@@ -3,3 +3,5 @@ La función de cambio de correo electrónico de este laboratorio es vulnerable a
 
 Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
+iniciamos ses
+![[Pasted image 20250711151627.png]]
