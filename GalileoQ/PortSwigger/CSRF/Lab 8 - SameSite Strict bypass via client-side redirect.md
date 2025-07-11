@@ -25,3 +25,6 @@ la respuesta nos dice: `You will be redirected momentarily` esto es super import
 
 analizamos la solicitud con el burpsuite y podemos identificar una redirección en la función `('/post')` que esta siendo llamada desde la ruta  externa del JavaScript
 ![[Pasted image 20250711170141.png]]
+
+ahora analizamos la solicitud `GET` hacia el archivo js
+![[Pasted image 20250711170404.png]]
