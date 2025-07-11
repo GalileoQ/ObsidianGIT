@@ -6,6 +6,6 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio con las credenciales proporcionadas
 ![[Pasted image 20250711151627.png]]
 
-interceptamos la solicitud y la enviamos al `Repeater` y luego vamos a hacer `Drop` de esta petición
+interceptamos la solicitud y la enviamos al `Repeater`
 ![[Pasted image 20250711151709.png]]
 
