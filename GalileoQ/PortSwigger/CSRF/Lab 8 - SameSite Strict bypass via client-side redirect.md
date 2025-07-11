@@ -29,5 +29,5 @@ analizamos la solicitud con el burpsuite y podemos identificar una redirección 
 ahora analizamos la solicitud `GET` hacia el archivo `js` podemos ver que la función de redirección hace un llamado a (blogPath) y sabemos que esto es igual a `/post` y también vemos una espera de `3000 ms` 3 segundos y recupera el `"postid"` este parámetro es muy importante porque justamente este podría llegar a ser controlado por nosotros 
 ![[Pasted image 20250711170404.png]]
 
-en la solicitud de nuestro post podemos ve
+en la solicitud de nuestro post podemos ver que la solicitud `GET` llama a la ruta `/post/comment/confirmation?postId=6` asi que esto podria llevarnos a la ruta de redireccion de la web
 ![[Pasted image 20250711171054.png]]
