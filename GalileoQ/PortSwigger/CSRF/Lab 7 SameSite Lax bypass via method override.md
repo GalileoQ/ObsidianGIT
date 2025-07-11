@@ -21,7 +21,7 @@ cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos
 ahora si intentamos cambiar el método a la solicitud de cambio de correo la respuesta del lado del servidor es `"Method Not Allowed"`
 ![[Pasted image 20250711155814.png]]
 
-investigando en internet encontramos una suplantación de método. ya que 
+investigando en internet encontramos una suplantación de método. 
 
 ```python
 <form action="/foo/bar" method="POST">
@@ -30,6 +30,7 @@ investigando en internet encontramos una suplantación de método. ya que
 </form>
 ```
 
+ya que los formularios HTML no soportan `PUT, PATCH, DELETE` 
 ![[Pasted image 20250711160109.png]]
 
 vamos a crear nuestro CSRF PoC 
