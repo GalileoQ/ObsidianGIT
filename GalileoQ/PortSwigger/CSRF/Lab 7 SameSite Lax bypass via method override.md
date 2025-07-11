@@ -36,3 +36,6 @@ en este caso podríamos usar una solicitud `GET` pero le estamos indicando a la 
 
 vamos a crear nuestro CSRF PoC. 
 ![[Pasted image 20250711155352.png]]
+
+primero vamos a cambiar el metodo principal de la solicitud de `POST` a `GET` y luego vamos a inyectar nuestro parametro siguiendo 
+![[Pasted image 20250711161526.png]]
