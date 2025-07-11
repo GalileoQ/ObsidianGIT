@@ -17,3 +17,8 @@ realizamos un cambio de correo y analizamos la petición. en este caso vemos que
 al enviar esta solicitud al `Repeater` para cambiar el método obtenemos un código de estado `200 OK` y esto es muy importante porque si podemos encontrar una redirección que valide el servidor potencialmente podemos realizar una solicitud `GET` con una redirección hacia un cambio de correo 
 ![[Pasted image 20250711165010.png]]
 
+buscamos un post y escribimos un comentario llenando todos los parámetros para ver como se comporta y que hace esta solicitud 
+![[Pasted image 20250711165644.png]]
+
+la respuesta nos dice: `YOU`
+![[Pasted image 20250711165730.png]]
