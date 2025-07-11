@@ -64,3 +64,5 @@ y en este caso el parámetro que nos interesa es una solicitud `POST` y nos qued
 
 ![[Pasted image 20250711161526.png]]
 
+enviamos esta solicitud y efectivamente logramos nuestro ataque CSRF
+![[Pasted image 20250711161945.png]]
