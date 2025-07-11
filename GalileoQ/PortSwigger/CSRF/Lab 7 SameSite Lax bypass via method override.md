@@ -9,5 +9,5 @@ iniciamos sesión en el laboratorio con las credenciales proporcionadas
 interceptamos la solicitud y la enviamos al `Repeater`
 ![[Pasted image 20250711151709.png]]
 
-enviamos esta solicitud y seguimos la redirección 
+enviamos esta solicitud y seguimos la redirección. 
 ![[Pasted image 20250711152212.png]]
