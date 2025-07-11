@@ -4,5 +4,5 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 
 iniciamos sesión en el laboratorio e interceptamos la petición. primero vamos a analizar la solicitud del login. y rápidamente podemos identificar:
 
-`Set-Cookie `
+`Set-Cookie: session=Ef7Myc0mxuMQ3n9u3Wn3RIqarpy4wArI` : esta es nuestra cookie de inicio de s
 ![[Pasted image 20250711163850.png]]
