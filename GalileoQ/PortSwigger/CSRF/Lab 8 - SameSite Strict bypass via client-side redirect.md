@@ -63,5 +63,6 @@ después de la redirección nos da un error. eso es porque en la redirección qu
 /post/comment/confirmation?postId=../my-account/
 ```
 
-esto nos lleva al apartado de mi cuenta donde
+esto nos lleva al apartado de mi cuenta donde podemos actualizar el correo
 ![[Pasted image 20250711175000.png]]
+
