@@ -48,7 +48,7 @@ ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nu
 ```python
 #Inyeción 2
 
-/post/comment/confirmation?postId=
+/post/comment/confirmation?postId=my-account
 ```
 
 ![[Pasted image 20250711171736.png]]
