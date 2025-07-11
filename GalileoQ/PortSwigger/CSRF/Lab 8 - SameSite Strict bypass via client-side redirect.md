@@ -20,5 +20,5 @@ al enviar esta solicitud al `Repeater` para cambiar el método obtenemos un cód
 buscamos un post y escribimos un comentario llenando todos los parámetros para ver como se comporta y que hace esta solicitud 
 ![[Pasted image 20250711165644.png]]
 
-la respuesta nos dice: `YOU`
+la respuesta nos dice: `You will be redirected momentarily` esto es super importante ya que la web nos indica que vamos a ser redireccionados por lo que esta solicitud podria funcionar 
 ![[Pasted image 20250711165730.png]]
