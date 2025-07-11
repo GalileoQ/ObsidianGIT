@@ -69,10 +69,11 @@ esto nos lleva al apartado de mi cuenta donde podemos actualizar el correo
 luego copiamos nuestra solicitud `GET` a la cual le cambiamos el metodo y extraemos `change-email?email=gamuke%40poetswiggers.com&submit=1` para construir nuestra inyección numero 4 
 
 ```python
-#Inyeción 3
+#Inyeción 4
 
 /post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com&submit=1
 ```
 
-al enviar esto y esperar la redirección nos dice que falta el parámetro 'submit' esto se debe a que nuestra inyeción contiene un `&` y la web no lo i
+al enviar esto y esperar la redirección nos dice que falta el parámetro 'submit' esto se debe a que nuestra inyección contiene un `&` y la web no lo interpreta correctamente asi que lo tenemos que url encodear
 ![[Pasted image 20250711180206.png]]
+
