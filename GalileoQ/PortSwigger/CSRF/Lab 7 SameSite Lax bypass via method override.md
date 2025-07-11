@@ -43,5 +43,10 @@ primero vamos a cambiar el método principal de la solicitud de `POST` a `GET` y
 <input type="hidden" name="_method" value="PUT">
 ```
 
-y en este caso el parametro que nos interesa es una solicitud POST
+y en este caso el parámetro que nos interesa es una solicitud `POST` y nos quedaría nuestra solicitud de la siguiente forma:
+
+```python
+
+```
+
 ![[Pasted image 20250711161526.png]]
