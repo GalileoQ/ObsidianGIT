@@ -66,4 +66,9 @@ después de la redirección nos da un error. eso es porque en la redirección qu
 esto nos lleva al apartado de mi cuenta donde podemos actualizar el correo
 ![[Pasted image 20250711175000.png]]
 
-/my-account/change-email?email=gamuke%40poetswiggers.com&submit=1
+luego copiamos nuestra 
+```python
+#Inyeción 3
+
+/post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com&submit=1
+```
