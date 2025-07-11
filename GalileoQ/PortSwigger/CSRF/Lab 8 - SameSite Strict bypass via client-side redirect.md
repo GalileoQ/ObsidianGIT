@@ -32,9 +32,11 @@ ahora analizamos la solicitud `GET` hacia el archivo `js` podemos ver que la fun
 en la solicitud de nuestro post podemos ver que la solicitud `GET` llama a la ruta `/post/comment/confirmation?postId=6` así que esto podría llevarnos a la ruta de redirección de la web
 ![[Pasted image 20250711171054.png]]
 
-nuestra url es : `https://0a3500f3042d999182dfd8d400e000e3.web-security-academy.net/post/6` al final vamos a reemplazar 
+nuestra url es : `https://0a3500f3042d999182dfd8d400e000e3.web-security-academy.net/post/6` al final vamos a reemplazar `/post/6` por la ruta completa que nos indica el método `GET`
+
 ```python
 /post/comment/confirmation?postId=6
 ```
 
+y efectivamente ocurre una redireccion hacia la web donde hemos posteado nuestr
 ![[Pasted image 20250711171240.png]]
