@@ -21,5 +21,8 @@ cambiamos el método `POST` por un `GET` y podemos ver que efectivamente tenemos
 ahora si intentamos cambiar el método a la solicitud de cambio de correo la respuesta del lado del servidor es `"Method Not Allowed"`
 ![[Pasted image 20250711155814.png]]
 
+investigando en internet encontramos u
+![[Pasted image 20250711160016.png]]
+
 vamos a crear nuestro CSRF PoC 
 ![[Pasted image 20250711155352.png]]
