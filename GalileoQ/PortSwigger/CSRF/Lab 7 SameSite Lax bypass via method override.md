@@ -37,5 +37,11 @@ en este caso podríamos usar una solicitud `GET` pero le estamos indicando a la 
 vamos a crear nuestro CSRF PoC. 
 ![[Pasted image 20250711155352.png]]
 
-primero vamos a cambiar el metodo principal de la solicitud de `POST` a `GET` y luego vamos a inyectar nuestro parametro siguiendo 
+primero vamos a cambiar el método principal de la solicitud de `POST` a `GET` y luego vamos a inyectar nuestro parámetro siguiendo las reglas de la suplantación de parámetros 
+
+```python
+<input type="hidden" name="_method" value="PUT">
+```
+
+y en este caso el parametro que nos interesa es una solicitud POST
 ![[Pasted image 20250711161526.png]]
