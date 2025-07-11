@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 7 SameSite Lax bypass via method override"
+              "title": "Lab 8 - SameSite Strict bypass via client-side redirect"
             }
           }
         ],
@@ -191,6 +191,8 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711161945.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711161526.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711160109.png",
@@ -201,9 +203,7 @@
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711152650.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711152212.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711151709.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711151627.png",
     "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
     "GalileoQ/PortSwigger/CSRF/Lab 5 - CSRF where token is tied to non-session cookie.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
