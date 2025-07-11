@@ -2,3 +2,5 @@
 
 Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
+iniciamos sesión en el laboratorio e interceptamos la petición. 
+![[Pasted image 20250711163850.png]]
