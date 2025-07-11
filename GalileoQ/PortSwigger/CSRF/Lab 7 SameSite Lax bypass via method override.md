@@ -9,7 +9,7 @@ iniciamos sesión en el laboratorio con las credenciales proporcionadas
 si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y también vemos que tiene una fecha de vencimiento configurada. además de eso esta configurada para `HttpOnly`
 ![[Pasted image 20250711152650.png]]
 
-ahora interceptamos la solicitud de cambio de y la enviamos al `Repeater`
+ahora interceptamos la solicitud de cambio de correo y la enviamos al `Repeater`
 ![[Pasted image 20250711151709.png]]
 
 enviamos esta solicitud y seguimos la redirección. 
