@@ -10,3 +10,4 @@ iniciamos sesión en el laboratorio e interceptamos la petición. primero vamos 
 
 `SameSite=Strict` esto significa que esta cookie de sesión no se enviara ni se usara en ninguna solicitud entre los diferentes sitios de la web
 ![[Pasted image 20250711163850.png]]
+
