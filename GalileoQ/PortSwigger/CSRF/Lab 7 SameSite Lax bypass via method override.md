@@ -30,7 +30,7 @@ investigando en internet encontramos una suplantación de método.
 </form>
 ```
 
-ya que los formularios HTML no soportan `PUT, PATCH, DELETE` existen o
+ya que los formularios HTML no soportan `PUT, PATCH, DELETE` existen otros marcos que a través de parámetros ocultos sobrescribir el comportamiento del método 
 ![[Pasted image 20250711160109.png]]
 
 vamos a crear nuestro CSRF PoC 
