@@ -14,5 +14,5 @@ iniciamos sesión en el laboratorio e interceptamos la petición. primero vamos 
 realizamos un cambio de correo y analizamos la petición. en este caso vemos que  no existe un token que invalide un ataque CSRF y tampoco vemos una csrfKey para la cookie
 ![[Pasted image 20250711164703.png]]
 
-al enviar esta solicitud al `Repeater y c`
+al enviar esta solicitud al `Repeater` para cambiar el método obtenemos un código de estado `200 OK` 
 ![[Pasted image 20250711165010.png]]
