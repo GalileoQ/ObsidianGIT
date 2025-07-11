@@ -43,5 +43,7 @@ nuestra url es : `https://0a3500f3042d999182dfd8d400e000e3.web-security-academy.
 y efectivamente ocurre una redirección hacia la web donde hemos posteado nuestro comentario. y la web reestablece su url a la original
 ![[Pasted image 20250711171240.png]]
 
-ahora bien. no quiero ser redirigido al `/post/6` por lo que vamore
+ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nueva inyección
+
+
 ![[Pasted image 20250711171736.png]]
