@@ -98,5 +98,5 @@ ahora vamos a construir la solicitud completa. para ellos debemos agregar las et
 
 ```
 
-hemos cambiado el correo electrónico efectivamente haciendo 
+hemos cambiado el correo electrónico efectivamente haciendo omisión estricta de SameSite mediante redirección del lado del cliente 
 ![[Pasted image 20250711181942.png]]
