@@ -45,5 +45,10 @@ y efectivamente ocurre una redirección hacia la web donde hemos posteado nuestr
 
 ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nueva inyección
 
+```python
+#Inyeción 2
+
+/post/comment/confirmation?postId=
+```
 
 ![[Pasted image 20250711171736.png]]
