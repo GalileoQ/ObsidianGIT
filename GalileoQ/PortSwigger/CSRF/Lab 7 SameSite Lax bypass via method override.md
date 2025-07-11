@@ -12,5 +12,6 @@ si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el i
 ahora interceptamos la solicitud de cambio de correo y la enviamos al `Repeater`
 ![[Pasted image 20250711151709.png]]
 
-enviamos esta solicitud y seguimos la redirección. 
+enviamos esta solicitud y seguimos la redirección. no obtenemos la `cookie` `secure: HttpOnly` así que vamos a cambiar el método
 ![[Pasted image 20250711152212.png]]
+
