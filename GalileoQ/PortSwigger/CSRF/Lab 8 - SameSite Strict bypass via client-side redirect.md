@@ -23,5 +23,5 @@ buscamos un post y escribimos un comentario llenando todos los parámetros para 
 la respuesta nos dice: `You will be redirected momentarily` esto es super importante ya que la web nos indica que vamos a ser redireccionados por lo que esta solicitud podría funcionar 
 ![[Pasted image 20250711165730.png]]
 
-analizamos la solicitud con el burpsui
+analizamos la solicitud con el burpsuite y podemos identificar una redirección en la función `('/post')` que esta siendo llamada desde e
 ![[Pasted image 20250711170141.png]]
