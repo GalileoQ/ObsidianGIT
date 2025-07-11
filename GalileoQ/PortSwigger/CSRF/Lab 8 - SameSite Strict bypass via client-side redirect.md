@@ -67,8 +67,12 @@ esto nos lleva al apartado de mi cuenta donde podemos actualizar el correo
 ![[Pasted image 20250711175000.png]]
 
 luego copiamos nuestra solicitud `GET` a la cual le cambiamos el metodo y extraemos `change-email?email=gamuke%40poetswiggers.com&submit=1` para construir nuestra inyección numero 4 
+
 ```python
 #Inyeción 3
 
 /post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com&submit=1
 ```
+
+al enviar esto y esperar la redirección nos dice que falta el parametro 
+![[Pasted image 20250711180206.png]]
