@@ -55,10 +55,10 @@ ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nu
 
 después de la redirección nos da un error. eso es porque en la redirección que hacia a la web ya estaba plasmado esta ruta así que la vamos a modificar un poco
 
+![[Pasted image 20250711174507.png]]
+
 ```python
 #Inyeción 3
 
 /post/comment/confirmation?postId=../my-account
 ```
-
-![[Pasted image 20250711174507.png]]
