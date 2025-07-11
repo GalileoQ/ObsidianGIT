@@ -74,5 +74,5 @@ luego copiamos nuestra solicitud `GET` a la cual le cambiamos el metodo y extrae
 /post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com&submit=1
 ```
 
-al enviar esto y esperar la redirección nos dice que falta el parametro 
+al enviar esto y esperar la redirección nos dice que falta el parámetro 'submit' esto se debe a que nuestra inyeción contiene un `&` y la web no lo i
 ![[Pasted image 20250711180206.png]]
