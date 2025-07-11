@@ -52,3 +52,6 @@ ahora bien. no quiero ser redirigido al `/post/6` por lo que realizaremos una nu
 ```
 
 ![[Pasted image 20250711171736.png]]
+
+después de la redirección nos da un error. eso es porque en la redireccion 
+![[Pasted image 20250711174507.png]]
