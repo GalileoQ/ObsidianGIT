@@ -6,7 +6,7 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio con las credenciales proporcionadas
 ![[Pasted image 20250711151627.png]]
 
-si analizamos la solicitud `POST` encontramos 
+si analizamos la solicitud `POST` encontramos que tenemos una `cookie` para el inicio de sesión y temabien vemos que tiene 
 ![[Pasted image 20250711152650.png]]
 
 interceptamos la solicitud y la enviamos al `Repeater`
