@@ -38,5 +38,6 @@ nuestra url es : `https://0a3500f3042d999182dfd8d400e000e3.web-security-academy.
 /post/comment/confirmation?postId=6
 ```
 
-y efectivamente ocurre una redireccion hacia la web donde hemos posteado nuestr
+y efectivamente ocurre una redirección hacia la web donde hemos posteado nuestro comentario. y la web reestablece su url a la original
 ![[Pasted image 20250711171240.png]]
+
