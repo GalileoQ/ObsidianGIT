@@ -23,7 +23,7 @@ ahora si intentamos cambiar el método a la solicitud de cambio de correo la res
 
 investigando en internet encontramos una suplantación de método: ya que los formularios HTML no soportan `PUT, PATCH, DELETE` existen otros marcos que a través de parámetros ocultos sobrescribir el comportamiento del método
 
-en este caso se sigue usando un método `POST` pero le estamos indicando a la web que con el parámetro oculto `_method` 
+en este caso podríamos usar una solicitud `GET` pero le estamos indicando a la web que con el parámetro oculto `_method` 
 
 ```python
 <form action="/foo/bar" method="POST">
