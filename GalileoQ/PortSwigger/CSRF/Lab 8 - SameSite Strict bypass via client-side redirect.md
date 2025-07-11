@@ -66,7 +66,7 @@ después de la redirección nos da un error. eso es porque en la redirección qu
 esto nos lleva al apartado de mi cuenta donde podemos actualizar el correo
 ![[Pasted image 20250711175000.png]]
 
-luego copiamos nuestra 
+luego copiamos nuestra solicitud `GET` a la cual le cambiamos el metodo y extraemos `change-email?email=gamuke%40poetswiggers.com&submit=1` para construir nuestra inyección numero 4 
 ```python
 #Inyeción 3
 
