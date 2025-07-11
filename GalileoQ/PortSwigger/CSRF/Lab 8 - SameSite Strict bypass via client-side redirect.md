@@ -80,7 +80,8 @@ al enviar esto y esperar la redirección nos dice que falta el parámetro 'submi
 ```python
 #Inyeción 5
 
-/post/comment/confirmation?postId=../my-account/change-email?email=gamuke%40poetswiggers.com%26submit=1
+/post/comment/confirmation?postId=../my-account/change-email?email=HACKER%40poetswiggers.com%26submit=1
 ```
 
-asegurate de cambiar el correo electronico en este punto y cuando la web haga una redirección podras ver si el cambio del correo electronico se ha real
+asegúrate de cambiar el correo electrónico en este punto y cuando la web haga una redirección podrás ver si el cambio del correo electrónico se ha realizado efectivamente
+![[Pasted image 20250711180737.png]]
