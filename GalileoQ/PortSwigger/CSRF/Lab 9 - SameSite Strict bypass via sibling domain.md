@@ -30,3 +30,5 @@ ahora bien. podemos ver que la dirección del websocket esta definida en la cabe
 
 por ultimo encontramos la funcion del chat 
 ![[Pasted image 20250721164204.png]]
+
+necesitamos hacer unas modificaciones 
