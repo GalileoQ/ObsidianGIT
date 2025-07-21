@@ -77,5 +77,5 @@ ahora analizamos los log del servidor y encontramos una solicitud `GET` con un m
 de codeamos el mensaje usando burpsuite y obtenemos nuestro mensaje. ahora estamos conectados y en el chat con `Hal Pline`
 ![[Pasted image 20250721172053.png]]
 
-ahora bien. si tomamos de nuevo la solicitud de la web `https://cms-0a9500be04bf9ea5811070e6005900ee.web-security-academy.net` donde encontr
+ahora bien. si tomamos de nuevo la solicitud de la web `https://cms-0a9500be04bf9ea5811070e6005900ee.web-security-academy.net` donde encontramos el CSRF podemos ver que el endpoint. indica que tiene un estatus `200 OK` es decir. existe el endpoint. la solicitud se realiza correctamente por lo que podemos inyectar aqui nuestra carga 
 ![[Pasted image 20250721172930.png]]
