@@ -80,3 +80,5 @@ de codeamos el mensaje usando burpsuite y obtenemos nuestro mensaje. ahora estam
 ahora bien. si tomamos de nuevo la solicitud de la web `https://cms-0a9500be04bf9ea5811070e6005900ee.web-security-academy.net` donde encontramos el CSRF podemos ver que el endpoint. indica que tiene un estatus `200 OK` es decir. existe el endpoint. la solicitud se realiza correctamente por lo que podemos inyectar aquí nuestra carga útil
 ![[Pasted image 20250721172930.png]]
 
+
+![[Pasted image 20250721173524.png]]
