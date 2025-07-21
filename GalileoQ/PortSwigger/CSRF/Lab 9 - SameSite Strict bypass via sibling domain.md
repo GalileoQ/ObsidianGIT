@@ -121,5 +121,5 @@ document.location = "https://cms-YOUR-LAB-ID.web-security-academy.net/login?user
 </script>
 ```
 
-en este caso necesitamos el `URL-cms` que ya conocemos. donde esta la vulnerabilidad CS
+en este caso necesitamos el `URL-cms` que ya conocemos. donde esta la vulnerabilidad CSRF y necesitamos nuestro payload encodeado que ya sabemos que es capas de ser interpretado sin problemas. y obtenemos estas respuestas. 
 ![[Pasted image 20250721174552.png]]
