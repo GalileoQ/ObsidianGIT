@@ -35,8 +35,8 @@ necesitamos hacer algunas modificaciones al codigo.
 
 ```python
 let newWebSocket = new WebSocket(chatForm.getAttribute("action"));
-newWebSocket.onopen = function (evt) {
 
+newWebSocket.onopen = function (evt) {
 writeMessage("system", "System:", "No chat history on record");
 newWebSocket.send("READY");
 res(newWebSocket);
@@ -47,4 +47,4 @@ var message = evt.data;
 };
 ```
 
-no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de logi 
+no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de login que hemos encontrado.  
