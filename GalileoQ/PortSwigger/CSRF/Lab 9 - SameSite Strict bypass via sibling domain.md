@@ -53,12 +53,12 @@ no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será l
 let newWebSocket = new WebSocket(chatForm.getAttribute("action"));
 
 newWebSocket.onopen = function (evt) {
-newWebSocket.send("READY");
-res(newWebSocket);
+	newWebSocket.send("READY");
+	res(newWebSocket);
 };
 
 newWebSocket.onmessage = function (evt) {
-var message = evt.data;
-
+	var message = evt.data;
+	fech("")
 };
 ```
