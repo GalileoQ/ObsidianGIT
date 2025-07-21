@@ -31,4 +31,19 @@ ahora bien. podemos ver que la dirección del websocket esta definida en la cabe
 por ultimo encontramos la funcion del chat 
 ![[Pasted image 20250721164204.png]]
 
-necesitamos hacer unas modificaciones 
+necesitamos hacer algunas modificaciones al codigo.
+
+```python
+let newWebSocket = new WebSocket(chatForm.getAttribute("action"));
+newWebSocket.onopen = function (evt) {
+
+writeMessage("system", "System:", "No chat history on record");
+newWebSocket.send("READY");
+res(newWebSocket);
+}
+
+newWebSocket.onmessage = function (evt) {
+var message = evt.data;
+
+};
+```
