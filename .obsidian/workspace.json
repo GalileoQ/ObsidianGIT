@@ -30,19 +30,9 @@
               "icon": "lucide-file",
               "title": "Lab 9 - SameSite Strict bypass via sibling domain"
             }
-          },
-          {
-            "id": "60f4cc18e87791b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "code",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -199,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
     "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
