@@ -8,3 +8,4 @@ iniciamos el chat y de inmediato podemos recopilar información. sabemos que se 
 
 analizando la solicitud vemos el encabezado `X-Frame-Options: SAMEORIGIN` indica que la página web solo puede ser mostrada en un frame si el sitio que intenta incrustarla está en la misma origen (dominio, esquema y puerto) que la página original
 ![[Pasted image 20250721133525.png]]
+
