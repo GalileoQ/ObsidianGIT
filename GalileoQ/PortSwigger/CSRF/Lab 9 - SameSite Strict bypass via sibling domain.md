@@ -28,3 +28,5 @@ podemos enviar esta petición al repeater para ver como la respuesta y todos los
 ahora bien. podemos ver que la dirección del websocket esta definida en la cabecera de respuesta del mensaje lo cual será útil para luego hacer nuestro ataque CSRF
 ![[Pasted image 20250721163118.png]]
 
+por ultimo encontramos la funcion del chat 
+![[Pasted image 20250721164204.png]]
