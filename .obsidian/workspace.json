@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "Lab 9 - SameSite Strict bypass via sibling domain"
             }
+          },
+          {
+            "id": "60f4cc18e87791b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "code",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +95,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -189,10 +199,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d95ccde664fc02d",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
-    "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711181942.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711180737.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250711180206.png",
