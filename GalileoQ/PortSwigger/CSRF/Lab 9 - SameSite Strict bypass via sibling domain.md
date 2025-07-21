@@ -13,5 +13,5 @@ analizando todos los endpoints de la web nos damos cuenta que todos cuenta con l
 ![[Pasted image 20250721133911.png]]
 
 `https://cms-0a9500be04bf9ea5811070e6005900ee.web-security-academy.net` 
-este endpoint nos lleva a una web de login donde podemos hacer una comprobacion rapida  
+este endpoint nos lleva a una web de login donde podemos hacer una comprobación rápida para vulnerabilidades CSRF y logramos identificarla de la siguiente manera.
 ![[Pasted image 20250721134247.png]]
