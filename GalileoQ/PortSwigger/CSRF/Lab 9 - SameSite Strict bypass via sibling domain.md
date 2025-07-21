@@ -71,5 +71,6 @@ newWebSocket.onmessage = function (evt) {
 enviamos nuestra carga útil usando el servidor proporcionado por la web
 ![[Pasted image 20250721171825.png]]
 
-ahora analizamos los log del servidor y encontramos un 
+ahora analizamos los log del servidor y encontramos una solicitud `GET` con un mensaje de respuesta
 ![[Pasted image 20250721171806.png]]
+
