@@ -6,3 +6,5 @@ Para ello, utilice el servidor de exploits proporcionado para ejecutar un ataque
 iniciamos el chat y de inmediato podemos recopilar información. sabemos que se llama `Hal Pline` y que su estatus es `CONNECTED`
 ![[Pasted image 20250721132918.png]]
 
+analizando la solicitud vemos 
+![[Pasted image 20250721133525.png]]
