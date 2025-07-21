@@ -110,5 +110,6 @@ a esto
 
 ![[Pasted image 20250721173654.png]]
 
-ahora nuestro payload encodeado podemos enviarlo en la misma petición donde 
+ahora nuestro payload encodeado podemos enviarlo en la misma petición donde hemos encontrado el CSRF. y podemos ver que la solicitud se muestra tal y como estaba antes de ser encodeada
 ![[Pasted image 20250721173524.png]]
+
