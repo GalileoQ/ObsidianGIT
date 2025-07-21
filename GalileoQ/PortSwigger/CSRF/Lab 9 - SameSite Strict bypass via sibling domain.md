@@ -77,3 +77,6 @@ ahora analizamos los log del servidor y encontramos una solicitud `GET` con un m
 de codeamos el mensaje usando burpsuite y obtenemos nuestro mensaje. ahora estamos conectados y en el chat con `Hal Pline`
 ![[Pasted image 20250721172053.png]]
 
+
+
+![[Pasted image 20250721172930.png]]
