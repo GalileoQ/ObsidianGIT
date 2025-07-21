@@ -114,5 +114,7 @@ ahora nuestro payload encodeado podemos enviarlo en la misma petición donde hem
 ![[Pasted image 20250721173524.png]]
 
 ```python
-`<script> document.location = "https://cms-YOUR-LAB-ID.web-security-academy.net/login?username=YOUR-URL-ENCODED-CSWSH-SCRIPT&password=anything"; </script>
+<script> 
+document.location = "https://cms-YOUR-LAB-ID.web-security-academy.net/login?username=YOUR-URL-ENCODED-CSWSH-SCRIPT&password=anything"; 
+</script>
 ```
