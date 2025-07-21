@@ -74,5 +74,6 @@ enviamos nuestra carga útil usando el servidor proporcionado por la web
 ahora analizamos los log del servidor y encontramos una solicitud `GET` con un mensaje de respuesta
 ![[Pasted image 20250721171806.png]]
 
-decodeamos el mensaje usando burpsuite y obtenemos nuestro mensaje. ahora
+de codeamos el mensaje usando burpsuite y obtenemos nuestro mensaje. ahora estamos conectados y en el chat con `Hal Pline`
 ![[Pasted image 20250721172053.png]]
+
