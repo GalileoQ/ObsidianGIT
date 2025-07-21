@@ -24,3 +24,6 @@ y también el mensaje que regresa el servido
 
 podemos enviar esta petición al repeater para ver como la respuesta y todos los mensajes que hemos intercambiado con el WebSocket
 ![[Pasted image 20250721162752.png]]
+
+ahora bien. podemos ver que la dirección del web
+![[Pasted image 20250721163118.png]]
