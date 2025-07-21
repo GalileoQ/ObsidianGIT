@@ -22,3 +22,5 @@ en el WebSockets History podemos ver el mensaje que hacemos al servidor y su con
 y también el mensaje que regresa el servido
 ![[Pasted image 20250721134733.png]]
 
+podemos enviar esta petición al repeater para ver como la
+![[Pasted image 20250721162752.png]]
