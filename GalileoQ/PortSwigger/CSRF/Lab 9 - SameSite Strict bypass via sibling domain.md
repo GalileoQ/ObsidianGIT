@@ -47,3 +47,4 @@ var message = evt.data;
 };
 ```
 
+no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de logi 
