@@ -15,3 +15,6 @@ analizando todos los endpoints de la web nos damos cuenta que todos cuenta con l
 `https://cms-0a9500be04bf9ea5811070e6005900ee.web-security-academy.net` 
 este endpoint nos lleva a una web de login donde podemos hacer una comprobación rápida para vulnerabilidades CSRF y logramos identificarla de la siguiente manera.
 ![[Pasted image 20250721134247.png]]
+
+en el WebSockets Histor
+![[Pasted image 20250721134538.png]]
