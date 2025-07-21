@@ -16,5 +16,5 @@ analizando todos los endpoints de la web nos damos cuenta que todos cuenta con l
 este endpoint nos lleva a una web de login donde podemos hacer una comprobación rápida para vulnerabilidades CSRF y logramos identificarla de la siguiente manera.
 ![[Pasted image 20250721134247.png]]
 
-en el WebSockets Histor
+en el WebSockets History podemos ver el mensaje que hacemos al servidor y su contenido y tambien el mensaje que regresa el se
 ![[Pasted image 20250721134538.png]]
