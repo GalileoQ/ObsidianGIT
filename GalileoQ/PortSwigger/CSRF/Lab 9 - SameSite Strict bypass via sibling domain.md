@@ -44,6 +44,6 @@ res(newWebSocket);
 
 newWebSocket.onmessage = function (evt) {
 var message = evt.data;
-
 };
 ```
+
