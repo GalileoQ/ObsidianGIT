@@ -48,3 +48,16 @@ var message = evt.data;
 ```
 
 no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de login que hemos encontrado.  tampoco vamos a necesitar el `writeMessage` porque no queremos escribir un mensaje. solo queremos enviarlo
+
+```python
+let newWebSocket = new WebSocket(chatForm.getAttribute("action"));
+
+newWebSocket.onopen = function (evt) {
+newWebSocket.send("READY");
+res(newWebSocket);
+};
+
+newWebSocket.onmessage = function (evt) {
+var message = evt.data;
+};
+```
