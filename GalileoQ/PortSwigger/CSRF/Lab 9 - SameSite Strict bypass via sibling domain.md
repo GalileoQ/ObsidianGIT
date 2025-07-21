@@ -127,5 +127,5 @@ en este caso necesitamos el `URL-cms` que ya conocemos. donde esta la vulnerabil
 ahora de codeamos la cadena de base64 del mensaje usando burpsuite y obtenemos el mensaje con las credenciales de carlos
 ![[Pasted image 20250721175616.png]]
 
-
+iniciamos sesión con Carlos y resolvemos el laboratorio
 ![[Pasted image 20250721175824.png]]
