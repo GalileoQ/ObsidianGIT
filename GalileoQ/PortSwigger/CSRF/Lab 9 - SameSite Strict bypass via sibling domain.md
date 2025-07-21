@@ -47,4 +47,4 @@ var message = evt.data;
 };
 ```
 
-no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de login que hemos encontrado.  
+no necesitamos el atributo `chatForm.getAttribute("action")` ya que este será la dirección de nuestro websocket. es decir la web de login que hemos encontrado.  tampoco vamos a necesitar el `writeMessage` porque no queremos escribir un mensaje. solo queremos enviarlo
