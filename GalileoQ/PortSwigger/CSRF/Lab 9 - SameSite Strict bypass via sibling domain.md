@@ -124,6 +124,8 @@ document.location = "https://cms-YOUR-LAB-ID.web-security-academy.net/login?user
 en este caso necesitamos el `URL-cms` que ya conocemos. donde esta la vulnerabilidad CSRF y necesitamos nuestro payload encodeado que ya sabemos que es capas de ser interpretado sin problemas. y obtenemos estas respuestas. 
 ![[Pasted image 20250721174552.png]]
 
-ahora de codeamos la cadena de base64 del mensaje usando burpsuite y obtenemos esto
+ahora de codeamos la cadena de base64 del mensaje usando burpsuite y obtenemos el mensaje con las credenciales de carlos
 ![[Pasted image 20250721175616.png]]
 
+
+![[Pasted image 20250721175824.png]]
