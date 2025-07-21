@@ -68,4 +68,8 @@ newWebSocket.onmessage = function (evt) {
 </script>
 ```
 
+enviamos nuestra carga útil usando el servidor proporcionado por la web
+![[Pasted image 20250721171825.png]]
 
+ahora analizamos los log del servidor y encontramos un 
+![[Pasted image 20250721171806.png]]
