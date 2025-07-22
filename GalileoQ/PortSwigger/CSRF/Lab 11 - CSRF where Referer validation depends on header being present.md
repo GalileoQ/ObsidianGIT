@@ -3,5 +3,5 @@ Para resolver el laboratorio, utilice su servidor de exploits para alojar una p�
 
 Puede iniciar sesi처n en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
-iniciamos sesi처n en el laboratorio y luego intercep
+iniciamos sesi처n en el laboratorio y luego interceptamos una solicitud de inicio de sesi처n. como sabemos que la validaci처n de esta solicitud depende de
 ![[Pasted image 20250722114214.png]]
