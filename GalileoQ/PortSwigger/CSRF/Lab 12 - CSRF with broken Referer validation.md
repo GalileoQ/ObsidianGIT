@@ -31,5 +31,10 @@ creamos nuestro CSRF-POC y podemos usar el parámetro `history.pushState('', '',
 inyectando la URL relativa en el tercer valor del parámetro `history.pushState` 
 ![[Pasted image 20250722125434.png]]
 
+Si guarda el exploit y lo prueba haciendo clic en "Ver exploit", podría volver a aparecer el error "Encabezado de referencia no válido". Esto se debe a que muchos navegadores eliminan la cadena de consulta del encabezado de referencia de forma predeterminada como medida de seguridad. Para anular este comportamiento y asegurarse de que la URL completa se incluya en la solicitud, vuelva al servidor de exploits y agregue el siguiente encabezado a la sección "Encabezado":
+
+```python
+Referrer-Policy: unsafe-url
+```
 
 ![[Pasted image 20250722130031.png]]
