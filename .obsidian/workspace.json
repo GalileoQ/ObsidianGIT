@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 11 - CSRF where Referer validation depends on header being present"
+              "title": "Lab 12 - CSRF with broken Referer validation"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -150,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Lab 11 - CSRF where Referer validation depends on header being present"
+              "title": "Esquema de Lab 12 - CSRF with broken Referer validation"
             }
           },
           {
@@ -191,12 +190,13 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
+    "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722115341.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722115040.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722114703.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722114214.png",
     "GalileoQ/PortSwigger/CSRF/Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103807.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103605.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103359.png",
@@ -204,7 +204,6 @@
     "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175824.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175616.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721174552.png",
     "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
     "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
