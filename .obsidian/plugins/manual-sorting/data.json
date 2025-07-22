@@ -3777,6 +3777,7 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/CSRF": [
+      "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
       "GalileoQ/PortSwigger/CSRF/Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies.md",
       "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
       "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
@@ -3790,6 +3791,10 @@
       "GalileoQ/PortSwigger/CSRF/Img"
     ],
     "GalileoQ/PortSwigger/CSRF/Img": [
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103219.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103359.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103605.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103807.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721132918.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721133525.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721133911.png",

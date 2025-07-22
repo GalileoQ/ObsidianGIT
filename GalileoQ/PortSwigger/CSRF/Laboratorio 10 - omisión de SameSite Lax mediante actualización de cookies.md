@@ -59,6 +59,7 @@ puedes usar este código que que esta proporcionado por el laboratorio si no cue
 		setTimeout(changeEmail, 5000); 
 	} 
 	function changeEmail() { 
-		document.forms[0].submit(); } 
+		document.forms[0].submit(); 
+	} 
 </script>
 ```
