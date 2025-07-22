@@ -7,5 +7,8 @@ El laboratorio admite el inicio de sesión con OAuth. Puede iniciar sesión a tr
 ```python
 <script> 
 	window.onclick = () => { 
-		window.open('about:blank') } </script>
+		window.open('about:blank') 
+	} 
+</script>
 ```
+
