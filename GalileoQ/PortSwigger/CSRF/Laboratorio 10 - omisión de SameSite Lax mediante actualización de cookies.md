@@ -15,5 +15,5 @@ El laboratorio admite el inicio de sesión con OAuth. Puede iniciar sesión a tr
 iniciamos sesión en la web y de inmediato nos damos cuenta que nos esta haciendo una redirección hacia endpoints diferentes tenemos un botón de continuar que probablemente necesite una cookie. en este caso la de sesión
 ![[Pasted image 20250722103219.png]]
 
-luego tenemos o
+luego tenemos otro botón de continuar que probablemente contenga otra cookie. aquí lo esencial seria analizar ambas solicitudes e identificar si la cookie es diferente
 ![[Pasted image 20250722103359.png]]
