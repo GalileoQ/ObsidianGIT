@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -190,6 +191,7 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123214.png",
     "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722115341.png",
@@ -225,7 +227,6 @@
     "GalileoQ/Hacking/1-Tecnicas/Técnicas avanzadas.md",
     "GalileoQ/Hacking/1-Tecnicas/Pivoting.md",
     "GalileoQ/Hacking/1-Tecnicas/Nota.md",
-    "GalileoQ/Hacking/1-Tecnicas/Enumeracion web.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/LLM/Img",
