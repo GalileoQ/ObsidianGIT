@@ -3777,6 +3777,7 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/CSRF": [
+      "GalileoQ/PortSwigger/CSRF/Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies.md",
       "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
       "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
       "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",

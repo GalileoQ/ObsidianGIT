@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 9 - SameSite Strict bypass via sibling domain"
+              "title": "Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies"
             }
           }
         ],
@@ -85,13 +85,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -192,6 +190,8 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
+    "GalileoQ/PortSwigger/CSRF/Laboratorio 10 - omisión de SameSite Lax mediante actualización de cookies.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175824.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175616.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721174552.png",
@@ -202,8 +202,6 @@
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721171825.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721171806.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721164204.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721163118.png",
-    "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
     "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
     "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
