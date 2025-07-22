@@ -9,5 +9,10 @@ iniciamos sesión en el laboratorio y luego interceptamos una solicitud de inici
 podemos eliminar el referer y la solicitud sigue siendo un `200 OK` en este caso `302 Found` porque es valido solo debemos seguir el redireccionamiento. ok vamos a construir nuestro CSRF
 ![[Pasted image 20250722114703.png]]
 
-creamos nuestro 
+creamos nuestro CSRF-POC y una parte muy importante es que debemos agregar una linea para que podamos suprimir la validación del referer.
+
+```python
+<head><meta name="referrer" content="no-referrer"></head>
+```
+
 ![[Pasted image 20250722115040.png]]
