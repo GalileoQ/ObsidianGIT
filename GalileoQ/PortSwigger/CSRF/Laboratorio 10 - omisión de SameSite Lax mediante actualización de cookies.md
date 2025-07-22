@@ -44,3 +44,6 @@ en este caso el history.pushState no lo necesitamos ya que esta vulnerabilidad p
 ```
 
 `NOTA:` recuerda cambiar el correo ya que no puede ser el mismo correo del ataque al que ya esta registrado en la cuenta.
+
+###### OPCIÓN 2
+puedes usar este código que que esta proporcionado por el laboratorio si no cuentas con burpsuite profecional.
