@@ -41,5 +41,6 @@ en este caso el history.pushState no lo necesitamos ya que esta vulnerabilidad p
 </script>
   </body>
 </html>
-
 ```
+
+`NOTA:` recuerda cambiar el correo ya que no puede ser el mismo correo del ataque al que ya esta registrado en la cuenta.
