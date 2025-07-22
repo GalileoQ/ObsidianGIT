@@ -12,3 +12,5 @@ El laboratorio admite el inicio de sesión con OAuth. Puede iniciar sesión a tr
 </script>
 ```
 
+iniciamos sesión en la web y de inmediato nos damos cuenta que nos esta haciendo una redirección hacia endpoints diferentes
+![[Pasted image 20250722103219.png]]
