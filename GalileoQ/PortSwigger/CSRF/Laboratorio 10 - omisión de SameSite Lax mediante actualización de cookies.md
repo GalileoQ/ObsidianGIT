@@ -18,3 +18,5 @@ iniciamos sesión en la web y de inmediato nos damos cuenta que nos esta haciend
 luego tenemos otro botón de continuar que probablemente contenga otra cookie. aquí lo esencial seria analizar ambas solicitudes e identificar si la cookie es diferente
 ![[Pasted image 20250722103359.png]]
 
+realizamos una solicitud de cambio de correo y la interceptamos para enviarla al repeater 
+![[Pasted image 20250722103605.png]]
