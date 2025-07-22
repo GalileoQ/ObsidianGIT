@@ -5,3 +5,5 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio interceptamos la solicitud de cambio de contraseña y la enviamos al repeater 
 ![[Pasted image 20250722123446.png]]
 
+en este caso lo primero que hacemos es validar cual es la porción de 
+![[Pasted image 20250722123602.png]]
