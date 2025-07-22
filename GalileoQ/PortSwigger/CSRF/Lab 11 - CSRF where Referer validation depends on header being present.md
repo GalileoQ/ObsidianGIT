@@ -17,4 +17,5 @@ creamos nuestro CSRF-POC y una parte muy importante es que debemos agregar una l
 
 ![[Pasted image 20250722115040.png]]
 
-enviamos nuestra CSRF
+enviamos nuestra CSRF-POC usando el servidor de exploit de la web y resolvemos el laboratorio
+![[Pasted image 20250722115341.png]]
