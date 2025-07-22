@@ -3,3 +3,5 @@ Para resolver el laboratorio, utilice su servidor de exploits para alojar una p�
 
 Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
+iniciamos sesión en el laboratorio y luego intercep
+![[Pasted image 20250722114214.png]]
