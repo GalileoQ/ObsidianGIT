@@ -24,4 +24,4 @@ realizamos una solicitud de cambio de correo y la interceptamos para enviarla al
 cuando estamos en el repeater iniciamos un CSRF-POC
 ![[Pasted image 20250722103807.png]]
 
-en este caso el history.pushState no lo necesitamos ya que esta vulnerabilidad por lógica del laboratorio se modifica para que sea
+en este caso el history.pushState no lo necesitamos ya que esta vulnerabilidad por lógica del laboratorio se modifica para que sea una solicitud mas automatizada donde la victima debe hacer clic. pero en este caso debemos generar una ventana emergente con el código que nos proporcionaron
