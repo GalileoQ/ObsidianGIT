@@ -22,3 +22,4 @@ realizamos una solicitud de cambio de correo y la interceptamos para enviarla al
 ![[Pasted image 20250722103605.png]]
 
 cuando estamos en el repeater iniciamos un CSRF-POC
+![[Pasted image 20250722103807.png]]
