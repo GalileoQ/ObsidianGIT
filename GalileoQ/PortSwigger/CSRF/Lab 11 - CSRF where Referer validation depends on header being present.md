@@ -9,3 +9,5 @@ iniciamos sesión en el laboratorio y luego interceptamos una solicitud de inici
 podemos eliminar el referer y la solicitud sigue siendo un `200 OK` en este caso `302 Found` porque es valido solo debemos seguir el redireccionamiento. ok vamos a construir nuestro CSRF
 ![[Pasted image 20250722114703.png]]
 
+creamos nuestro 
+![[Pasted image 20250722115040.png]]
