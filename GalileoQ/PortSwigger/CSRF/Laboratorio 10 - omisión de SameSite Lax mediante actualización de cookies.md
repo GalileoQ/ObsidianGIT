@@ -2,4 +2,10 @@
 
 El laboratorio admite el inicio de sesión con OAuth. Puede iniciar sesión a través de su cuenta de redes sociales con las siguientes credenciales: `wiener:peter`
 
-`NOTA:`
+`NOTA:` - Los navegadores impiden que se abran las ventanas emergentes a menos que se activen mediante una interacción manual del usuario, como un clic. El usuario víctima hará clic en cualquier página a la que lo redirija, por lo que puede crear ventanas emergentes mediante un controlador de eventos global como se indica a continuación
+
+```python
+<script> 
+	window.onclick = () => { 
+		window.open('about:blank') } </script>
+```
