@@ -3,4 +3,5 @@
 Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales: `wiener:peter`
 
 iniciamos sesión en el laboratorio interceptamos la solicitud de cambio de contraseña y la enviamos al repeater 
-![[Pasted image 20250722123214.png]]
+![[Pasted image 20250722123446.png]]
+

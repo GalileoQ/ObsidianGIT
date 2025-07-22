@@ -191,6 +191,7 @@
   },
   "active": "8d95ccde664fc02d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123446.png",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123214.png",
     "GalileoQ/PortSwigger/CSRF/Lab 11 - CSRF where Referer validation depends on header being present.md",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
@@ -205,7 +206,6 @@
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722103219.png",
     "GalileoQ/PortSwigger/CSRF/Lab 9 - SameSite Strict bypass via sibling domain.md",
     "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175824.png",
-    "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250721175616.png",
     "GalileoQ/PortSwigger/CSRF/Lab 8 - SameSite Strict bypass via client-side redirect.md",
     "GalileoQ/PortSwigger/CSRF/Lab 7 SameSite Lax bypass via method override.md",
     "GalileoQ/PortSwigger/CSRF/Lab 6 - CSRF where token is duplicated in cookie.md",
