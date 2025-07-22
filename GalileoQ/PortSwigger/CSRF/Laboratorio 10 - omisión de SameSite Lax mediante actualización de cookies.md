@@ -20,3 +20,5 @@ luego tenemos otro botón de continuar que probablemente contenga otra cookie. a
 
 realizamos una solicitud de cambio de correo y la interceptamos para enviarla al repeater 
 ![[Pasted image 20250722103605.png]]
+
+cuando estamos en el repeater iniciamos un CSRF-POC
