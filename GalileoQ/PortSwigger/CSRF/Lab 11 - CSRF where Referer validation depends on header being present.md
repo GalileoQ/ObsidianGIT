@@ -6,3 +6,5 @@ Puede iniciar sesión en su propia cuenta utilizando las siguientes credenciales
 iniciamos sesión en el laboratorio y luego interceptamos una solicitud de inicio de sesión. como sabemos que la validación de esta solicitud depende depende de la referencia del encabezado directamente ya podemos ver que el valor referer identifica al usuario wiener
 ![[Pasted image 20250722114214.png]]
 
+podemos eliminar el referer y la solicitud sigue siendo un `200 OK` en este caso `302 Found` porque es 
+![[Pasted image 20250722114703.png]]
