@@ -3739,6 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/Web cache deception",
       "GalileoQ/PortSwigger/CSRF",
       "GalileoQ/PortSwigger/LLM",
       "GalileoQ/PortSwigger/API"
@@ -3792,6 +3793,11 @@
       "GalileoQ/PortSwigger/CSRF/Img"
     ],
     "GalileoQ/PortSwigger/CSRF/Img": [
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123214.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123446.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722123602.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722125434.png",
+      "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722130031.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722114214.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722114703.png",
       "GalileoQ/PortSwigger/CSRF/Img/Pasted image 20250722115040.png",
@@ -3923,6 +3929,9 @@
       "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173153.png",
       "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701173433.png",
       "GalileoQ/PortSwigger/LLM/Img/Pasted image 20250701171332.png"
+    ],
+    "GalileoQ/PortSwigger/Web cache deception": [
+      "GalileoQ/PortSwigger/Web cache deception/Sin título.md"
     ],
     "GalileoQ/Template": [
       "GalileoQ/Template/expo.md",
