@@ -16,3 +16,5 @@ creamos nuestro CSRF-POC y una parte muy importante es que debemos agregar una l
 ```
 
 ![[Pasted image 20250722115040.png]]
+
+enviamos nuestra CSRF
