@@ -18,4 +18,11 @@ creamos nuestro CSRF-POC y una parte muy importante es que debemos agregar una l
 ![[Pasted image 20250722115040.png]]
 
 enviamos nuestra CSRF-POC usando el servidor de exploit de la web y resolvemos el laboratorio
+
+Algunas aplicaciones validan la `Referer`encabezado de una forma ingenua que se puede omitir. Por ejemplo, si la aplicación valida que el dominio en el `Referer`comienza con el valor esperado, luego el atacante puede colocarlo como un subdominio de su propio dominio:
+
+```python
+http://vulnerable-website.com.attacker-website.com/csrf-attack
+```
+
 ![[Pasted image 20250722115341.png]]
