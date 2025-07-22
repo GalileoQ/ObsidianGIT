@@ -28,5 +28,5 @@ creamos nuestro CSRF-POC y podemos usar el parámetro `history.pushState('', '',
 </html>
 ```
 
-inyectando el valor de relativo de la URL 
+inyectando la URL relativa en el tercer valor del parámetro 
 ![[Pasted image 20250722125434.png]]
