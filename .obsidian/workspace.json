@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path mapping for web cache deception.md",
+                "file": "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path delimiters for web cache deception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 - Exploiting path mapping for web cache deception"
+              "title": "Lab 2 - Exploiting path delimiters for web cache deception"
             }
           }
         ],
@@ -191,7 +191,7 @@
   },
   "active": "dc49b614c4eea715",
   "lastOpenFiles": [
-    "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path mapping for web cache deception.md",
+    "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path delimiters for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722164202.png",
     "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722164142.png",
