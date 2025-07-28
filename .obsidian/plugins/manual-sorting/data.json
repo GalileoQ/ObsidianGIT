@@ -3739,6 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities",
       "GalileoQ/PortSwigger/Web cache deception",
       "GalileoQ/PortSwigger/CSRF",
       "GalileoQ/PortSwigger/LLM",
@@ -3976,6 +3977,9 @@
       "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722163505.png",
       "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722164142.png",
       "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722164202.png"
+    ],
+    "GalileoQ/PortSwigger/WebSockets vulnerabilities": [
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md"
     ],
     "GalileoQ/Template": [
       "GalileoQ/Template/expo.md",
