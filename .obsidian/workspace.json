@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 3 - Cross-site WebSocket hijacking.md",
+                "file": "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 3 - Cross-site WebSocket hijacking"
+              "title": "Lab 1 - Username enumeration via different responses"
             }
           }
         ],
@@ -191,6 +191,9 @@
   },
   "active": "4ab3409c3a4fff7f",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 3 - Cross-site WebSocket hijacking.md",
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md",
+    "GalileoQ/PortSwigger/Authentication vulnerabilities",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729143941.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729143812.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729142914.png",
@@ -201,10 +204,8 @@
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729130722.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729130601.png",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
-    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 3 - Cross-site WebSocket hijacking.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729124408.png",
-    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729122600.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path delimiters for web cache deception.md",
@@ -236,7 +237,6 @@
     "GalileoQ/PortSwigger/LLM/Img",
     "GalileoQ/PortSwigger/LLM",
     "GalileoQ/PortSwigger/API",
-    "GalileoQ/PortSwigger/API/Img",
     "Sin título.canvas"
   ]
 }

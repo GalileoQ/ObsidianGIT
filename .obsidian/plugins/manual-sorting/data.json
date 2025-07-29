@@ -3739,6 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities",
       "GalileoQ/PortSwigger/Web cache deception",
       "GalileoQ/PortSwigger/CSRF",
@@ -3777,6 +3778,9 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616152320.png",
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616152933.png",
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
+    ],
+    "GalileoQ/PortSwigger/Authentication vulnerabilities": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md"
     ],
     "GalileoQ/PortSwigger/CSRF": [
       "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
@@ -3985,6 +3989,15 @@
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md"
     ],
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img": [
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729130601.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729130722.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729134919.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729134949.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729135359.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729142857.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729142914.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729143812.png",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729143941.png",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729121737.png",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729121907.png",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729122107.png",
