@@ -8,3 +8,5 @@ iniciamos sesión y rápidamente podemos ver que tenemos una cookie de sesión y
 si analizamos la petición podemos ver que la solicitud del mensaje se envía al servidor haciendo un llamado a recurso `/resources/js/chat.js`
 ![[Pasted image 20250729134949.png]]
 
+analizamos 
+![[Pasted image 20250729135359.png]]
