@@ -13,7 +13,8 @@ para realizar la enumeración de usuarios debemos enviar la solicitud al `Intrud
 demos que todos los usuarios tienen un `Status code 200` pero si analizamos el `Length` tenemos uno que es diferente. y si vemos el `Response` indica que la contraseña es incorrecta. y si seleccionamos un usuario diferente tendremos una respuesta de usuario incorrecto. así que ya tenemos el usuario. vamos por la contraseña
 ![[Pasted image 20250729152923.png]]
 
-realizamos el mismo ataque para 
+realizamos el mismo ataque para la contraseña y de igual forma encontramos una que tiene un `Length` muy diferente a los demas
 ![[Pasted image 20250729154544.png]]
 
+probamos las contraseñas y podemos iniciar sesión en el laboratorio
 ![[Pasted image 20250729154449.png]]
