@@ -3979,8 +3979,16 @@
       "GalileoQ/PortSwigger/Web cache deception/Img/Pasted image 20250722164202.png"
     ],
     "GalileoQ/PortSwigger/WebSockets vulnerabilities": [
-      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
-      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md"
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
+      "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md",
+      "GalileoQ/PortSwigger/Img"
+    ],
+    "GalileoQ/Template": [
+      "GalileoQ/Template/expo.md",
+      "GalileoQ/Template/AD.md",
+      "GalileoQ/Template/docker.md",
+      "GalileoQ/Template/Pentesting.md",
+      "GalileoQ/Template/wps-scan.md"
     ],
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img": [
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250728123028.png",
@@ -3991,13 +3999,6 @@
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250728161004.png",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250728162704.png",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250728163143.png"
-    ],
-    "GalileoQ/Template": [
-      "GalileoQ/Template/expo.md",
-      "GalileoQ/Template/AD.md",
-      "GalileoQ/Template/docker.md",
-      "GalileoQ/Template/Pentesting.md",
-      "GalileoQ/Template/wps-scan.md"
     ]
   },
   "draggingEnabled": true,
