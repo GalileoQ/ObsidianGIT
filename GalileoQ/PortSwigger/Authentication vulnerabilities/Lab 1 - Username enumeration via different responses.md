@@ -8,5 +8,5 @@ Para resolver el laboratorio, enumere un nombre de usuario válido, fuerce la co
 vamos a iniciar sesión y debemos interceptar esta solicitud ya que es la que contiene el `login`
 ![[Pasted image 20250729152332.png]]
 
-para realizar la enumeración de usuarios debemos enviar la solicitud al `Intruder` luego realizar un ataque de fuerza bruta. para esto necesitamos usar el 
+para realizar la enumeración de usuarios debemos enviar la solicitud al `Intruder` luego realizar un ataque de fuerza bruta. para esto necesitamos usar el signo que parece una serpiente doble o algo así. esta en el botón de `add` luego cargamos nuestra 
 ![[Pasted image 20250729152923.png]]
