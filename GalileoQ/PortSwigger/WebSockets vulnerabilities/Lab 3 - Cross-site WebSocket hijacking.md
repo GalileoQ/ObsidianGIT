@@ -5,6 +5,5 @@ Para resolver el laboratorio, utilice el servidor de exploits para alojar una ca
 iniciamos sesión y rápidamente podemos ver que tenemos una cookie de sesión y el parámetro `Same Site` esta configurado como `None`
 ![[Pasted image 20250729130722.png]]
 
-
-
+si analizamos la petición podemos ver que la solicitud se co
 ![[Pasted image 20250729134949.png]]
