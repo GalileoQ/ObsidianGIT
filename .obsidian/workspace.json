@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
+                "file": "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1 - Exploiting path mapping for web cache deception"
+              "title": "Lab 12 - CSRF with broken Referer validation"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "active": "f7b12cafd1cb1ba9",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 2 - Exploiting path delimiters for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 3 - Exploiting origin server normalization for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Lab 4 - Exploiting cache server normalization for web cache deception.md",
@@ -221,7 +222,6 @@
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250728123743.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities",
-    "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
     "GalileoQ/PortSwigger/Web cache deception/Img",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/Web cache deception",
