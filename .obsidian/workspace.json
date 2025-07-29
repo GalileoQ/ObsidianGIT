@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -204,6 +205,7 @@
   },
   "active": "4ab3409c3a4fff7f",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729121737.png",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
