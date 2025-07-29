@@ -49,3 +49,6 @@ una vez realizado esto solo debemos esperar a que la victima haga clic en la sol
 
 ahora solo nos queda limpiar nuestros mensajes y decodearlos de esta manera obtenemos un usuario y una contraseña
 ![[Pasted image 20250729143812.png]]
+
+iniciamos sesión con el usuario carlos y de esta manera hemos logrado exfiltrar la información del chat, obtener un usuario y una contraseña.
+![[Pasted image 20250729143941.png]]
