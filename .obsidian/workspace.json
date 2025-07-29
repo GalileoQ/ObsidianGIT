@@ -191,6 +191,7 @@
   },
   "active": "4ab3409c3a4fff7f",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img/Pasted image 20250729130601.png",
     "GalileoQ/PortSwigger/CSRF/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 3 - Cross-site WebSocket hijacking.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
@@ -230,7 +231,6 @@
     "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF where token validation depends on token being present.md",
     "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/BoardLight.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/LLM/Img",
