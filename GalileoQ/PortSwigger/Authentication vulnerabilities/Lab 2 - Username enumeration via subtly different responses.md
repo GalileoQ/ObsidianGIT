@@ -8,3 +8,5 @@ Para resolver el laboratorio, enumere un nombre de usuario válido, fuerce la co
 tratamos de iniciar sesión y capturamos la solicitud. igual que siempre.
 ![[Pasted image 20250729154926.png]]
 
+ahora. p
+![[Pasted image 20250729160325.png]]
