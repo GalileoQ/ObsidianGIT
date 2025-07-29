@@ -180,6 +180,7 @@
   },
   "active": "a36e2a9c0c798ff2",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250729154926.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 2 - Username enumeration via subtly different responses.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250729154544.png",
@@ -221,7 +222,6 @@
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
     "GalileoQ/PortSwigger/CSRF/Lab 4 - CSRF where token is not tied to user session.md",
     "GalileoQ/PortSwigger/CSRF/Lab 3 - CSRF where token validation depends on token being present.md",
-    "GalileoQ/PortSwigger/CSRF/Lab 1 - CSRF vulnerability with no defenses.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/PortSwigger/CSRF",
     "GalileoQ/PortSwigger/LLM/Img",

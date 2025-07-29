@@ -5,3 +5,6 @@
 
 Para resolver el laboratorio, enumere un nombre de usuario válido, fuerce la contraseña de este usuario y luego acceda a su página de cuenta.
 
+tratamos de iniciar sesión y capturamos la solicitud. igual que siempre.
+![[Pasted image 20250729154926.png]]
+
