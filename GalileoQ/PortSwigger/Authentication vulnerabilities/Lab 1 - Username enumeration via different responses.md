@@ -10,5 +10,5 @@ vamos a iniciar sesión y debemos interceptar esta solicitud ya que es la que co
 
 para realizar la enumeración de usuarios debemos enviar la solicitud al `Intruder` luego realizar un ataque de fuerza bruta. para esto necesitamos usar el signo que parece una serpiente doble o algo así. esta en el botón de `add` luego cargamos nuestra lista de usuarios y realizamos el ataque. 
 
-demos que todos los usuarios tienen un `Status code 200` pero si analizamos el `Length` tenemos uno que es diferente. y si vemos el `Response`
+demos que todos los usuarios tienen un `Status code 200` pero si analizamos el `Length` tenemos uno que es diferente. y si vemos el `Response` indica que la contraseña es incorrecta. y si seleccionamos un usuario diferente tendremos una respuesta de usuario incorrecto. asi que t
 ![[Pasted image 20250729152923.png]]
