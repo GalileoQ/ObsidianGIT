@@ -8,5 +8,5 @@ Para resolver el laboratorio, enumere un nombre de usuario válido, fuerce la co
 tratamos de iniciar sesión y capturamos la solicitud. igual que siempre.
 ![[Pasted image 20250729154926.png]]
 
-ahora. para este ataque haremos exactamente lo mismo. una fuerza bruta de usuarios pero debemos indicar que haga referencia al error `Invalid username or password` 
+ahora. para este ataque haremos exactamente lo mismo. una fuerza bruta de usuarios pero debemos indicar que haga referencia al error `Invalid username or password` esto lo que hara será un ataque de fuerz
 ![[Pasted image 20250729160325.png]]
