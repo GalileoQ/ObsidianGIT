@@ -11,3 +11,5 @@ tratamos de iniciar sesión y capturamos la solicitud. igual que siempre.
 ahora. para este ataque haremos exactamente lo mismo. una fuerza bruta de usuarios pero debemos indicar que haga referencia al error `Invalid username or password` esto lo que hará será un ataque de fuerza bruta de usuarios teniendo en cuenta el mensaje de respuesta y si algo cambia en este mensaje de respuesta podremos notarlo
 ![[Pasted image 20250729160325.png]]
 
+en este caso la diferencia es sutil. pero suficiente diferenciarla. es simplemente el `.` al final 
+![[Pasted image 20250729161512.png]]
