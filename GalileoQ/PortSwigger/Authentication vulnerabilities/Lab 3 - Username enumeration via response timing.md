@@ -21,3 +21,4 @@ ya sabemos que manipulando la cabecera de la solicitud podemos implementar el pa
 
 enviamos la solicitud al intruder y seleccionamos el ultimo valor de la IP ya que nos interesa hacer una iteración sobre este valor para tener una dirección IP única para cada nombre de usuario. también seleccionaremos el nombre de usuario ya que este debe iterar por todos los nombres de nuestra lista de usuarios. y específicamente debemos seleccionar el tipo de ataque `Pitchfork attack` ya que este es el que nos ayudara en cuento al manejo de la IP y el nombre. de lo contrario el ataque seria con una misma dirección IP y el servidor la bloquearía de nuevo
 ![[Pasted image 20250730154322.png]]
+
