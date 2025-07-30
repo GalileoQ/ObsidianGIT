@@ -4,5 +4,8 @@ Este laboratorio es vulnerable a la enumeración de nombres de usuario mediante 
 - [Nombres de usuario de los candidatos](https://portswigger.net/web-security/authentication/auth-lab-usernames)
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
-primero iniciamos sesión y capturamos la solicitud para poder enumerarla 
+primero iniciamos sesión y capturamos la solicitud para poder analizarla
 ![[Pasted image 20250730151404.png]]
+
+en la solicitud de login 
+![[Pasted image 20250730152025.png]]
