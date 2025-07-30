@@ -3780,6 +3780,7 @@
       "GalileoQ/PortSwigger/API/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/Authentication vulnerabilities": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 3 - Username enumeration via response timing.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 2 - Username enumeration via subtly different responses.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Img"
