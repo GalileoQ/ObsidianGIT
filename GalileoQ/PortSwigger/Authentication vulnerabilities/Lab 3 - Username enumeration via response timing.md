@@ -7,5 +7,6 @@ Este laboratorio es vulnerable a la enumeración de nombres de usuario mediante 
 primero iniciamos sesión y capturamos la solicitud para poder analizarla
 ![[Pasted image 20250730151404.png]]
 
-en la solicitud de login 
+en la solicitud de login por ahora no vemos nada raro así que vamos a analizar una solicitud fallida y así poder compararlas.
 ![[Pasted image 20250730152025.png]]
+
