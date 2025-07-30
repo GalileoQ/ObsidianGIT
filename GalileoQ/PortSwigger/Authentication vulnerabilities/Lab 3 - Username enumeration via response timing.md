@@ -10,3 +10,5 @@ primero iniciamos sesión y capturamos la solicitud para poder analizarla
 en la solicitud de login por ahora no vemos nada raro así que vamos a analizar una solicitud fallida y así poder compararlas.
 ![[Pasted image 20250730152025.png]]
 
+principalmente vemos que el `Le`
+![[Pasted image 20250730152552.png]]
