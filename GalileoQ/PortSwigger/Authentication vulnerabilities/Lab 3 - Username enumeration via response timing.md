@@ -13,3 +13,5 @@ en la solicitud de login por ahora no vemos nada raro así que vamos a analizar 
 principalmente vemos que el `Length` es diferente y también podemos extraer el mensaje de `Invalid username or password`
 ![[Pasted image 20250730152552.png]]
 
+haciendo pruebas podemos observar que tenemos un mensaje nuevo. este mensaje nos indica que hemos realizado demasiados intentos incorrectos y 
+![[Pasted image 20250730152738.png]]
