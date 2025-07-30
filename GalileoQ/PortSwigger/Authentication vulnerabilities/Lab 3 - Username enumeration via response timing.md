@@ -23,7 +23,7 @@ enviamos la solicitud al intruder y seleccionamos el ultimo valor de la IP ya qu
 ![[Pasted image 20250730154322.png]]
 
 ahora. cuando cargamos nuestra lista de usuarios vemos que tiene un valor de `101` ese es el numero de usuarios que existen en esta lista. es importante saber el numero total de usuarios para poder asignarle un valor al numero total de direcciones IP que va a probar el ataque.
-![[Pasted image 20250730155202.png]]
+![[Pasted image 20250730160316.png]]
 
 ahora aquí indicamos desde cual dirección IP vamos a empezar a realizar el ataque. recordemos que la IP es `10.10.10.0` en este caso vamos a empezar desde el `10.10.10.1` ¿por que? porque ya hicimos algunas pruebas con la dirección IP `10.10.10.0` entonces hemos gastado algunos intentos. 
 ![[Pasted image 20250730155510.png]]
