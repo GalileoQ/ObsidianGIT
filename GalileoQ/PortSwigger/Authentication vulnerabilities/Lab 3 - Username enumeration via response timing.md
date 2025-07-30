@@ -19,3 +19,5 @@ haciendo pruebas podemos observar que tenemos un mensaje nuevo. este mensaje nos
 ya sabemos que manipulando la cabecera de la solicitud podemos implementar el parámetro `X-Forwarded-For` para manipular nuestra dirección IP de cara al servidor. de esta forma tenemos la web habilitada nuevamente para seguir haciendo pruebas.
 ![[Pasted image 20250730153415.png]]
 
+enviamos la solicitud al intruder 
+![[Pasted image 20250730154322.png]]
