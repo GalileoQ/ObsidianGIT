@@ -14,8 +14,8 @@ ahora. para este ataque haremos exactamente lo mismo. una fuerza bruta de usuari
 en este caso la diferencia es sutil. pero suficiente diferenciarla. es simplemente el `.` al final del mensaje de error. así que por ahora trabajaremos con este usuario 
 ![[Pasted image 20250729161512.png]]
 
-ahora realizamos un ataque de fuerza bruta para la contraseña y analizando la respuesta podemos encontrar l
+ahora realizamos un ataque de fuerza bruta para la contraseña y analizando la respuesta podemos encontrar la correcta
 ![[Pasted image 20250729162234.png]]
 
-
+iniciamos sesión con las credenciales y resolvemos el laboratorio
 ![[Pasted image 20250729162219.png]]
