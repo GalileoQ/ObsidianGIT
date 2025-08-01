@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/API/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
+                "file": "GalileoQ/PortSwigger/API testing/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dce668747219dcdb",
+  "active": "c4f20df599aa0871",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 3 - Username enumeration via response timing.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730160316.png",
@@ -247,8 +247,8 @@
     "GalileoQ/PortSwigger/CSRF/Lab 4 - CSRF where token is not tied to user session.md",
     "GalileoQ/PortSwigger/CSRF/Img",
     "GalileoQ/PortSwigger/CSRF",
-    "GalileoQ/PortSwigger/LLM/Img",
-    "GalileoQ/PortSwigger/LLM",
+    "GalileoQ/PortSwigger/Web LLM attacks/Img",
+    "GalileoQ/PortSwigger/Web LLM attacks",
     "Sin título.canvas"
   ]
 }
