@@ -29,5 +29,5 @@ en cuanto al `payload 1 - 0` aquí indicamos desde cual dirección IP vamos a em
 ![[Pasted image 20250730155510.png]]
 
 realizamos el ataque y podemos ver que en este caso activando `Response complete` podemos ver que una de las respuestas contiene una longitud mas larga que el resto. esto es una señal ya que basado en esto podemos determinar que este usuario es valido
-![[Pasted image 20250805145628.png]]
+![[Pasted image 20250805152313.png]]
 
