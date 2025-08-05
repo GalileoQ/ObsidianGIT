@@ -4,3 +4,5 @@
 - Nombre de usuario de la víctima: `carlos`
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
+intentamos iniciar sesión con la cuenta de carlos y enviamos la solicitud al repeater. nos damos cuenta que la web solo te
+![[Pasted image 20250805154459.png]]
