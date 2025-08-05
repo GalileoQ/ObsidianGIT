@@ -33,3 +33,7 @@ realizamos el ataque y podemos ver que en este caso activando `Response complete
 
 ahora realizamos el mismo ataque pero para intentar conseguir la contraseña. en este caso buscaremos un `Status Code 302` ya que este es el que nos indica una redirección. lo cual quiere decir que las credenciales que hemos probado son las correctas 
 ![[Pasted image 20250805152853.png]]
+
+iniciamos sesión con las credenciales y resolvemos el laboratorio
+![[Pasted image 20250805153122.png]]
+
