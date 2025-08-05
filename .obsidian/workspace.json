@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -202,8 +203,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "dce668747219dcdb",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805145628.png",
     "GalileoQ/PortSwigger/API testing/Lab 4 - Exploiting server-side parameter pollution in a query string.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 3 - Username enumeration via response timing.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730160316.png",
@@ -245,7 +247,6 @@
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
     "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/Hacking/1-Tecnicas/1-Técnicas fundamentales.md",
-    "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Lab 4 - CSRF where token is not tied to user session.md",
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img",
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)",
     "GalileoQ/PortSwigger/Web LLM attacks/Img",
