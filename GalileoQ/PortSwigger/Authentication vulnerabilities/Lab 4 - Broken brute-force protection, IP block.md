@@ -4,5 +4,5 @@
 - Nombre de usuario de la víctima: `carlos`
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
-intentamos iniciar sesión con la cuenta de carlos y enviamos la solicitud al repeater. nos damos cuenta que la web solo te
+intentamos iniciar sesión con la cuenta de carlos y enviamos la solicitud al repeater. nos damos cuenta que la web solo te deja enviar 2 veces la solicitud antes de darte el mensaje `You have made too many incorrect login attempts. Please try again in 1 minute(s).` por lo que tenemos que tener esto en consideracion
 ![[Pasted image 20250805154459.png]]
