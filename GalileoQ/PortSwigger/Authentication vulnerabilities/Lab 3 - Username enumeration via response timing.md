@@ -31,5 +31,5 @@ en cuanto al `payload 1 - 0` aquí indicamos desde cual dirección IP vamos a em
 realizamos el ataque y podemos ver que en este caso activando `Response complete` podemos ver que una de las respuestas contiene una longitud mas larga que el resto. esto es una señal ya que basado en esto podemos determinar que este usuario es valido
 ![[Pasted image 20250805152313.png]]
 
-ahora realizamos el mismo ataque pero para intentar conseguir la contraseña. en este caso buscaremos un `Status Code 302`  
+ahora realizamos el mismo ataque pero para intentar conseguir la contraseña. en este caso buscaremos un `Status Code 302` ya que este es el que nos indica una redirección. lo cual quiere decir que las credenciales que hemos probado son las correctas 
 ![[Pasted image 20250805152853.png]]
