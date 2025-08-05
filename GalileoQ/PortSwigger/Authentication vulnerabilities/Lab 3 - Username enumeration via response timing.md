@@ -28,5 +28,6 @@ ahora. cuando cargamos nuestra lista de usuarios vemos que tiene un valor de `10
 en cuanto al `payload 1 - 0` aquí indicamos desde cual dirección IP vamos a empezar a realizar el ataque. recordemos que la IP es `10.10.10.0` en este caso vamos a empezar desde el `10.10.10.1` ¿por que? porque ya hicimos algunas pruebas con la dirección IP `10.10.10.0` entonces hemos gastado algunos intentos. 
 ![[Pasted image 20250730155510.png]]
 
-realizamos el ataque y podemos ver que en este caso activando `Response complete` podemos ver que una de las respuestas contiene una longitud mas larga que el resto. esto es una señal ya que basado en esto podemos determinar que e
+realizamos el ataque y podemos ver que en este caso activando `Response complete` podemos ver que una de las respuestas contiene una longitud mas larga que el resto. esto es una señal ya que basado en esto podemos determinar que este usuario es valido
 ![[Pasted image 20250805145628.png]]
+
