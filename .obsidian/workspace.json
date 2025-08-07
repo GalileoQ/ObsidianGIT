@@ -18,17 +18,15 @@
             }
           },
           {
-            "id": "69209f1499ac6c9f",
+            "id": "962d0c87392087ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 4 - Broken brute-force protection, IP block.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-08-06 21.18.27.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Lab 4 - Broken brute-force protection, IP block"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-06 21.18.27.excalidraw"
             }
           }
         ],
@@ -189,10 +187,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "69209f1499ac6c9f",
+  "active": "962d0c87392087ee",
   "lastOpenFiles": [
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805154459.png",
+    "Excalidraw/Sin título.md",
+    "Excalidraw/Drawing 2025-08-06 21.18.27.excalidraw.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 4 - Broken brute-force protection, IP block.md",
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805154459.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 3 - Username enumeration via response timing.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805153122.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805152853.png",
@@ -204,7 +204,6 @@
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730155202.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730154322.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730153415.png",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250730152738.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 2 - Username enumeration via subtly different responses.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 1 - Username enumeration via different responses.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img",
@@ -232,7 +231,6 @@
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/Windows/impacket.md",
     "GalileoQ/Hacking/Windows/msfvenom shell.md",
-    "GalileoQ/Hacking/Windows/Windows Tools.md",
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img",
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)",
     "GalileoQ/PortSwigger/Web LLM attacks/Img",
