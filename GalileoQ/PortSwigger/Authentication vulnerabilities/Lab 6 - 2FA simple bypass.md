@@ -6,5 +6,6 @@
 iniciamos sesión con las credenciales de `wiener` aqui podemos ver que el inicio de sesión tiene 2 solicitudes diferentes una solicitud `POST /login` y otra `GET /login2` 
 ![[Pasted image 20250807140527.png]]
 
-la solicitud `GET /login2` vemos que no tiene ningun tipo de restricción y ademas el parametro `X-Frame-Options: SAMEORIGIN` esta seteado asi que esto esta haciendo una verificacion de 2 pasos pero no tiene ninguna restricción o 
+la solicitud `GET /login2` vemos que no tiene ningún tipo de restricción y además el parámetro `X-Frame-Options: SAMEORIGIN` esta seteado así que esto esta haciendo una verificación de 2 pasos pero no tiene ninguna restricción o key que la este protegiendo
 ![[Pasted image 20250807140745.png]]
+
