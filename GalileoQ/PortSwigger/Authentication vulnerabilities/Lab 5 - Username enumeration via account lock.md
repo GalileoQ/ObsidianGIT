@@ -3,4 +3,5 @@
 - [Nombres de usuario de los candidatos](https://portswigger.net/web-security/authentication/auth-lab-usernames)
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
-primero vam
+primero vamos a intentar iniciar sesión y vamos a capturar la solicitud en el a
+![[Pasted image 20250807134000.png]]
