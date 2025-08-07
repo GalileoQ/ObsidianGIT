@@ -10,5 +10,6 @@ intentamos iniciar sesión con la cuenta de carlos y enviamos la solicitud al re
 haciendo una prueba podemos ver que solo nos permite 2 intentos inválidos así que debemos jugar con esta característica 
 ![[Pasted image 20250807120137.png]]
 
-cuando hacemos una solicitud con las credenciales correctas nos da un `Status code 302` es un estado corr
+cuando hacemos una solicitud con las credenciales correctas nos da un `Status code 302` es un estado correcto pero nos hace una redirección
 ![[Pasted image 20250807120237.png]]
+
