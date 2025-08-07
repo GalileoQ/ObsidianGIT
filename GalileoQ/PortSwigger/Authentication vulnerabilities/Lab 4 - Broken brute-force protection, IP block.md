@@ -13,5 +13,5 @@ haciendo una prueba podemos ver que solo nos permite 2 intentos inválidos así 
 cuando hacemos una solicitud con las credenciales correctas nos da un `Status code 302` es un estado correcto pero nos hace una redirección
 ![[Pasted image 20250807120237.png]]
 
-debemos agregar una lista de usuarios partiendo del usuario correcto `wiener`
+debemos agregar una lista de usuarios partiendo del usuario correcto `wiener` y la contraseña correcta `peter` y debemos alterar la contraseña correcta y el usuario correcto por cada intento fallito para que de esta forma la pagina no aplique i
 ![[Pasted image 20250807122139.png]]
