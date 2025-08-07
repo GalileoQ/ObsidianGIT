@@ -10,5 +10,9 @@ enviamos la petición al intruder y vamos a realizar un ataque tipo `Cluster bom
 ![[Pasted image 20250807134115.png]]
 
 ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - Extract` > `Add` y vamos a agregar el mensaje de `Invalid username or password` 
+
+`NOTA:` el segundo payload debes identificarlo como null payload. en la siguiente imagen puedes ver un ejemplo.
 ![[Pasted image 20250807134535.png]]
 
+
+![[Pasted image 20250807134946.png]]
