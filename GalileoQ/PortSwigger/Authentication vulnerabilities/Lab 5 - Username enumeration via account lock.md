@@ -9,5 +9,6 @@ primero vamos a intentar iniciar sesión y vamos a capturar la solicitud en el r
 enviamos la petición al intruder y vamos a realizar un ataque tipo `Cluster bomb attack` y hacemos un ataque al usuario y un ataque a la contraseña. es importante lo hagas al lado de la contraseña ya que será un ataque `null`
 ![[Pasted image 20250807134115.png]]
 
-ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - Extract` > `Add` y vamos a agregar 
+ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - Extract` > `Add` y vamos a agregar el mensaje de `Invalid username or password` 
 ![[Pasted image 20250807134535.png]]
+
