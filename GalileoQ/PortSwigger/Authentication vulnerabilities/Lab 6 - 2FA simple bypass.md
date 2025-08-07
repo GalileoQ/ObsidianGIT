@@ -9,3 +9,6 @@ iniciamos sesión con las credenciales de `wiener` aqui podemos ver que el inici
 la solicitud `GET /login2` vemos que no tiene ningún tipo de restricción y además el parámetro `X-Frame-Options: SAMEORIGIN` esta seteado así que esto esta haciendo una verificación de 2 pasos pero no tiene ninguna restricción o key que la este protegiendo
 ![[Pasted image 20250807140745.png]]
 
+vamos a iniciar sesión con las credenciales de `carlos` y vamos a enviar la solicitud haciendo clic en `Forward`
+![[Pasted image 20250807141111.png]]
+
