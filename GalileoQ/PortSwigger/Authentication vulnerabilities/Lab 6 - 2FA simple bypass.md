@@ -6,3 +6,5 @@
 iniciamos sesión con las credenciales de `wiener` aqui podemos ver que el inicio de sesión tiene 2 solicitudes diferentes una solicitud `POST /login` y otra `GET /login2` 
 ![[Pasted image 20250807140527.png]]
 
+la solicitud `GET /login2` vemos que no tiene ningun tipo de 
+![[Pasted image 20250807140745.png]]
