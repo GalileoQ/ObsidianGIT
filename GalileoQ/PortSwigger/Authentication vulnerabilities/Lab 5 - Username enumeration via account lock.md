@@ -17,3 +17,5 @@ ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - 
 en este ataque identificamos una longitud diferente para `ap` así que vamos a probar con esto
 ![[Pasted image 20250807134946.png]]
 
+ahora podemos realizar un ataque de tipo `Sniper attack`
+![[Pasted image 20250807135411.png]]
