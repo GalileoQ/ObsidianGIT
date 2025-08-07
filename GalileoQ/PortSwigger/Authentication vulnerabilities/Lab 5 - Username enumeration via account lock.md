@@ -6,3 +6,5 @@
 primero vamos a intentar iniciar sesión y vamos a capturar la solicitud en el repeater podemos ver que efectivamente nuestras credenciales son invalidads
 ![[Pasted image 20250807134000.png]]
 
+enviamos la petición al intruder y vamos a realizar un ataque tipo `Cluster bomb attack` y hacemos un ataque al usuario y un ataque a la contraseña. es importante que 
+![[Pasted image 20250807134115.png]]
