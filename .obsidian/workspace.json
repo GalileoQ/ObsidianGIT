@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "962d0c87392087ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-06 21.18.27.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-06 21.18.27.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -187,10 +173,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "962d0c87392087ee",
+  "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
-    "Excalidraw/Sin título.md",
     "Excalidraw/Drawing 2025-08-06 21.18.27.excalidraw.md",
+    "Excalidraw/Sin título.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 4 - Broken brute-force protection, IP block.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250805154459.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 3 - Username enumeration via response timing.md",
