@@ -12,5 +12,5 @@ la solicitud `GET /login2` vemos que no tiene ningún tipo de restricción y ade
 vamos a iniciar sesión con las credenciales de `carlos` y vamos a enviar la solicitud haciendo clic en `Forward`
 ![[Pasted image 20250807141111.png]]
 
-despues de esto tenemos la solcitud `GET` que esta apuntando al `/login2` lo que podemo
+después de esto tenemos la solicitud `GET` que esta apuntando al `/login2` lo que podemos intentar es tirar esta solicitud haciendo clic en `Drop` y despues de esto podemos intentar iniciar sesión 
 ![[Pasted image 20250807141221.png]]
