@@ -14,5 +14,6 @@ ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - 
 `NOTA:` el segundo payload debes identificarlo como null payload. en la siguiente imagen puedes ver un ejemplo.
 ![[Pasted image 20250807134535.png]]
 
-en este ataque identificamos una longitud diferente para `ap` asi que vamos a probar con esto
+en este ataque identificamos una longitud diferente para `ap` así que vamos a probar con esto
 ![[Pasted image 20250807134946.png]]
+
