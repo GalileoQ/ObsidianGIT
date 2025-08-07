@@ -20,5 +20,8 @@ en este ataque identificamos una longitud diferente para `ap` así que vamos a p
 ahora podemos realizar un ataque de tipo `Sniper attack` para intentar encontrar la contraseña
 ![[Pasted image 20250807135411.png]]
 
-con estas credenciales logramos un `Status code 302` lo cual nos indica que esta redireccionando asi que estas crede
+con estas credenciales logramos un `Status code 302` lo cual nos indica que esta redireccionando así que estas credenciales son correctas
 ![[Pasted image 20250807135511.png]]
+
+iniciamos sesión y resolvemos el lab
+![[Pasted image 20250807135608.png]]
