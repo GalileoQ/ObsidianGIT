@@ -3,3 +3,5 @@
 - Sus credenciales: `wiener:peter`
 - Credenciales de la víctima `carlos:montoya`
 
+iniciamos sesión con las credenciales de `wiener` aqui podemos ver que el inicio de sesión tiene 2 solicitudes diferentes una solici
+![[Pasted image 20250807140527.png]]
