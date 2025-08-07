@@ -17,5 +17,8 @@ ahora vamos a agregar una opción extra. para ello vamos a `settings` > `Grep - 
 en este ataque identificamos una longitud diferente para `ap` así que vamos a probar con esto
 ![[Pasted image 20250807134946.png]]
 
-ahora podemos realizar un ataque de tipo `Sniper attack`
+ahora podemos realizar un ataque de tipo `Sniper attack` para intentar encontrar la contraseña
 ![[Pasted image 20250807135411.png]]
+
+con estas credenciales logramos un `Status code 302` lo cual nos indica que esta redireccionando asi que estas crede
+![[Pasted image 20250807135511.png]]
