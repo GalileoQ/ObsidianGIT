@@ -3,5 +3,6 @@
 - [Nombres de usuario de los candidatos](https://portswigger.net/web-security/authentication/auth-lab-usernames)
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
-primero vamos a intentar iniciar sesión y vamos a capturar la solicitud en el a
+primero vamos a intentar iniciar sesión y vamos a capturar la solicitud en el repeater podemos ver que efectivamente nuestras credenciales son invalidads
 ![[Pasted image 20250807134000.png]]
+
