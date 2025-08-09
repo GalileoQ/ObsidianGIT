@@ -15,5 +15,8 @@ vamos a iniciar sesión con las credenciales de `carlos` y vamos a enviar la sol
 después de esto tenemos la solicitud `GET` que esta apuntando al `/login2` lo que podemos intentar es tirar esta solicitud haciendo clic en `Drop` y después de esto podemos intentar iniciar sesión haciendo un redireccionamiento hacia `/my-account`
 ![[Pasted image 20250807141221.png]]
 
-
+ahora solo debemos darle `Forward` y nos redirige a la pagina sin pasar por el proceso de `2FA` o doble autenticación
 ![[Pasted image 20250809114344.png]]
+
+de esta manera podemos 
+![[Pasted image 20250809114426.png]]
