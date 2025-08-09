@@ -14,5 +14,5 @@ tenemos nuestro código y podemos verificarlo
 efectivamente iniciamos sesión con las credenciales de `wiener`
 ![[Pasted image 20250809115231.png]]
 
-ahora si vemos la solicitud `GET` que se hace en el inicio de sesión con el código de wiener podemos ver que tenemos el parámetro `verify` que verifica que este código es del usuario `wiener` 
+ahora si vemos la solicitud `GET` que se hace en el inicio de sesión con el código de wiener podemos ver que tenemos el parámetro `verify` que verifica que este código es del usuario `wiener` lo que podemos hacer es cambiar el usuario por carlos y tratar de conseguir un código de verificación para carlos 
 ![[Pasted image 20250809115329.png]]
