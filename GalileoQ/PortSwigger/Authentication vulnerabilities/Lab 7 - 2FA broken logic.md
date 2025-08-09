@@ -14,3 +14,5 @@ tenemos nuestro código y podemos verificarlo
 efectivamente iniciamos sesión con las credenciales de `wiener`
 ![[Pasted image 20250809115231.png]]
 
+ahora si vemos la solicitud `GET` que se hace en el inicio 
+![[Pasted image 20250809115329.png]]
