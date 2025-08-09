@@ -25,5 +25,6 @@ enviamos nuestra solicitud al repeater. cambiamos al usuario por carlos que en e
 `NOTA:` debemos eliminar la cookie de sesión ya que esta pertenece al usuario `wiener` 
 ![[Pasted image 20250809120101.png]]
 
-ya que si eliminamos la cookie el servidor nos sigue respondiendo de manera correcta. y aqui es donde se encuentra la vulnerabilida
+ya que si eliminamos la cookie el servidor nos sigue respondiendo de manera correcta. y aquí es donde se encuentra la vulnerabilidad
 ![[Pasted image 20250809123200.png]]
+
