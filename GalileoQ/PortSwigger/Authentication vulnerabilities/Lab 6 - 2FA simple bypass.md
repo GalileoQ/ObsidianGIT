@@ -15,3 +15,5 @@ vamos a iniciar sesión con las credenciales de `carlos` y vamos a enviar la sol
 después de esto tenemos la solicitud `GET` que esta apuntando al `/login2` lo que podemos intentar es tirar esta solicitud haciendo clic en `Drop` y después de esto podemos intentar iniciar sesión haciendo un redireccionamiento hacia `/my-account`
 ![[Pasted image 20250807141221.png]]
 
+
+![[Pasted image 20250809114344.png]]
