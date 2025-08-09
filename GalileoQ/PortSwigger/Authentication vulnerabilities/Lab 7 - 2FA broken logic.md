@@ -19,7 +19,7 @@ ahora si vemos la solicitud `GET` que se hace en el inicio de sesión con el có
 
 en este caso específicamente nos interesa la solicitud `POST /login2` ya que esta contiene la verificación del usuario y el código. los parámetros que podemos modificar para intentar acceder como el usuario carlos
 
-`NOTA:` 
+`NOTA:` la solicitud `GET /login2` es importante ya que usaremos esta para intentar que el servidor envie un codigo de 4 digitos para el usuario carlos. usando la `Cookie` del usuario wiener. slo debemos 
 ![[Pasted image 20250809115831.png]]
 
 enviamos nuestra solicitud al repeater. cambiamos al usuario por carlos que en este caso es nuestra victima. también tenemos que marcar el código de 4 dígitos para aplica fuerza bruta. el tipo de payload debe ser fuerza bruta y eliminamos los caracteres de las letras y solo dejamos los números.
