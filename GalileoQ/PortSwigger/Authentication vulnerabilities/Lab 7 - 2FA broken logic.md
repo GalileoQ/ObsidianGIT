@@ -23,3 +23,5 @@ en este caso específicamente nos interesa la solicitud `POST /login2` ya que es
 enviamos nuestra solicitud al repeater. cambiamos al usuario por carlos que en este caso es nuestra victima. también tenemos que marcar el código de 4 dígitos para aplica fuerza bruta. el tipo de payload debe ser fuerza bruta y eliminamos los caracteres de las letras y solo dejamos los números.
 ![[Pasted image 20250809120101.png]]
 
+podemos ver que el unico que tiene un
+![[Pasted image 20250809121248.png]]
