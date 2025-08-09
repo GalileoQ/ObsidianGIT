@@ -25,3 +25,5 @@ enviamos nuestra solicitud al repeater. cambiamos al usuario por carlos que en e
 
 podemos ver que el unico que tiene un
 ![[Pasted image 20250809121248.png]]
+
+![[Pasted image 20250809121407.png]]
