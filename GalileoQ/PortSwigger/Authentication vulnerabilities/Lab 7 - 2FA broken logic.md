@@ -17,5 +17,6 @@ efectivamente iniciamos sesión con las credenciales de `wiener`
 ahora si vemos la solicitud `GET` que se hace en el inicio de sesión con el código de wiener podemos ver que tenemos el parámetro `verify` que verifica que este código es del usuario `wiener` lo que podemos hacer es cambiar el usuario por carlos y tratar de conseguir un código de verificación para carlos 
 ![[Pasted image 20250809115329.png]]
 
-en este caso especificamente nos interesa la solicitud `POST /login2` ya que esta contiene la verificaci
+en este caso específicamente nos interesa la solicitud `POST /login2` ya que esta contiene la verificación del usuario y el código. los parámetros que podemos modificar para intentar acceder como el usuario carlos
 ![[Pasted image 20250809115831.png]]
+
