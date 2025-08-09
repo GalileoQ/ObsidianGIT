@@ -18,5 +18,5 @@ después de esto tenemos la solicitud `GET` que esta apuntando al `/login2` lo q
 ahora solo debemos darle `Forward` y nos redirige a la pagina sin pasar por el proceso de `2FA` o doble autenticación
 ![[Pasted image 20250809114344.png]]
 
-de esta manera podemos 
+de esta manera podemos baypasear la doble autenticación y acceder a la cuenta
 ![[Pasted image 20250809114426.png]]
