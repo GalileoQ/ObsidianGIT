@@ -5,5 +5,5 @@
 
 También tienes acceso al servidor de correo electrónico para recibir tu código de verificación 2FA.
 
-iniciamos sesión con las credenciales de `wiener` y necesitamos un codigo de 4 digitos p
+iniciamos sesión con las credenciales de `wiener` y necesitamos un código de 4 dígitos para realizar la autenticación en dos pasos. para ello podemos ir a `Email client` que sera nuestro cliente de correo donde recibiremos el código 
 ![[Pasted image 20250809115030.png]]
