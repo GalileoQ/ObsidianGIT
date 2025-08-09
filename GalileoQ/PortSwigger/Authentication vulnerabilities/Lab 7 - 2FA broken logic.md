@@ -5,3 +5,5 @@
 
 También tienes acceso al servidor de correo electrónico para recibir tu código de verificación 2FA.
 
+iniciamos sesión con las credenciales de `wiener` y necesitamos un codigo de 4 digitos p
+![[Pasted image 20250809115030.png]]
