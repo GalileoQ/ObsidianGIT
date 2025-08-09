@@ -17,7 +17,7 @@ efectivamente iniciamos sesión con las credenciales de `wiener`
 ahora si vemos la solicitud `GET` que se hace en el inicio de sesión con el código de wiener podemos ver que tenemos el parámetro `verify` que verifica que este código es del usuario `wiener` lo que podemos hacer es cambiar el usuario por carlos y tratar de conseguir un código de verificación para carlos 
 ![[Pasted image 20250809115329.png]]
 
-`NOTA:` la solicitud `GET /login2` es importante ya que usaremos esta para intentar que el servidor envié un código de 4 dígitos para el usuario carlos. usando la `Cookie` del usuario wiener. solo debemos cambiar el usuario wiener por carlos. primero enviamo
+`NOTA:` la solicitud `GET /login2` es importante ya que usaremos esta para intentar que el servidor envié un código de 4 dígitos para el usuario carlos. usando la `Cookie` del usuario wiener. solo debemos cambiar el usuario wiener por carlos. primero enviamos esta solicitud para que el servidor envié un código para carlos y después modificamos la segunda
 
 en este caso específicamente nos interesa la solicitud `POST /login2` ya que esta contiene la verificación del usuario y el código. los parámetros que podemos modificar para intentar acceder como el usuario carlos
 
