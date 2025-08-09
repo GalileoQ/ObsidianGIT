@@ -28,3 +28,4 @@ enviamos nuestra solicitud al repeater. cambiamos al usuario por carlos que en e
 ya que si eliminamos la cookie el servidor nos sigue respondiendo de manera correcta. y aquí es donde se encuentra la vulnerabilidad
 ![[Pasted image 20250809123200.png]]
 
+![[Pasted image 20250809133110.png]]
