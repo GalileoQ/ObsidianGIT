@@ -18,5 +18,6 @@ esta cookie es el nombre del usuario que inicia sesión y un código que parece 
 confirmamos que es un hash MD5 y básicamente es la contraseña del usuario
 ![[Pasted image 20250811115739.png]]
 
-esto es importante saberlo ya que si esta cookie de sesión no tiene ninguna prevención contra fuerza bruta podemos realizar un ataque pera buscar la contraseña. vamos a capturar la solicitud `GET` de la cuenta del usuario `wiener` para poder enviarla a
+esto es importante saberlo ya que si esta cookie de sesión no tiene ninguna prevención contra fuerza bruta podemos realizar un ataque pera buscar la contraseña. vamos a capturar la solicitud `GET` de la cuenta del usuario `wiener` para poder enviarla al intruder y hacer nuestras pruebas
 ![[Pasted image 20250811120250.png]]
+
