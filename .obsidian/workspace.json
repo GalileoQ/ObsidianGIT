@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
+                "file": "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 12 - Password brute-force via password change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 11 - Password reset poisoning via middleware"
+              "title": "Lab 12 - Password brute-force via password change"
             }
           }
         ],
@@ -191,6 +191,8 @@
   },
   "active": "8038bdb27e4c339d",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
+    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 12 - Password brute-force via password change.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811154615.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811154213.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811154022.png",
@@ -199,11 +201,9 @@
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811143839.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811140353.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 10 - Password reset broken logic.md",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132838.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132640.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132331.png",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132237.png",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 9 - Offline password cracking.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 8 - Brute-forcing a stay-logged-in cookie.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 7 - 2FA broken logic.md",
