@@ -38,5 +38,5 @@ de esta forma podemos encontrar una respuesta que tiene un estado `200 OK`
 ahora solo vamos a mirar este respuesta en el navegador
 ![[Pasted image 20250811122523.png]]
 
-y de esta manera hemos conseguido 
+y de esta manera hemos conseguido iniciar sesión de manera correcta en el laboratorio
 ![[Pasted image 20250811122552.png]]
