@@ -9,3 +9,5 @@ iniciamos sesión con las credenciales que nos da el laboratorio y tenemos un co
 ahora lo importante aquí es el parámetro de `Forgot passord` el cual nos permite reestablecer la contraseña del usuario y esta es la tarea que debemos cumplir
 ![[Pasted image 20250811131049.png]]
 
+como no tenemos acceso al servidor de correo electrónico de carlos no podemos realizar esta tarea así que debemos usar las solicitudes del usuario wiener
+![[Pasted image 20250811131250.png]]
