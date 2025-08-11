@@ -6,3 +6,5 @@
 iniciamos sesión como siempre con las credenciales que nos da el laboratorio y vamos a capturar la solicitud para analizarla
 ![[Pasted image 20250811124154.png]]
 
+ahora hemos activado el parametro `stay-logged-in`
+![[Pasted image 20250811124306.png]]
