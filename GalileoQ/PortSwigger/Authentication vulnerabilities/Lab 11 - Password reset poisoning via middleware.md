@@ -7,3 +7,6 @@ bien. al realizar un cambio de contraseña para el usuario `wiener` podemos ver 
 
 una solicitud `POST` principal una solicitud `GET` encargada de enviarnos el link que hemos recibido al correo y nuevamente una solicitud `POST` la cual contiene los datos de la nueva contraseña. 
 ![[Pasted image 20250811143839.png]]
+
+ahora bien. lo primero que tenemos que hacer es modificar la solicitud y enviarla con el usuario carlos. agregando el parámetro `X-Forwarded-Host`
+![[Pasted image 20250811153550.png]]
