@@ -17,3 +17,5 @@ de esta forma hemos generado un ataque XSS lo cual nos da una pequeña pista de 
 
 ahora lo que vamos a intentar es capturar la 
 ![[Pasted image 20250811125041.png]]
+
+enviamos el comentario y
