@@ -6,5 +6,6 @@ Para resolver el laboratorio, fuerza brutamente la cookie de Carlos para obtener
 - Nombre de usuario de la víctima: `carlos`
 - [Contraseñas de candidatos](https://portswigger.net/web-security/authentication/auth-lab-passwords)
 
-primero vamos a iniciar sesión con las credenciales que 
+primero vamos a iniciar sesión con las credenciales que nos han proporcionado y lo importante aquí es marcar la opción de `Stay logged in`
 ![[Pasted image 20250811114612.png]]
+
