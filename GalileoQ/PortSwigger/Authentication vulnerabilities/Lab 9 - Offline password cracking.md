@@ -9,3 +9,6 @@ iniciamos sesión como siempre con las credenciales que nos da el laboratorio y 
 ahora hemos activado el parámetro `stay-logged-in` pero no tenemos un cookie o un has MD5 así que tenemos que buscar otra opción 
 ![[Pasted image 20250811124306.png]]
 
+ahora. tenemos un apartado de blogs donde podemos realizar comentarios. así que vamos a realizar pruebas aquí. 
+![[Pasted image 20250811124701.png]]
+
