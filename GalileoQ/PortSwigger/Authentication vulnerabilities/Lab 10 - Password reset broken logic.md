@@ -26,3 +26,6 @@ ahora lo importante de esto es que podemos ver una solicitud `POST` donde se pue
 
 ahora aquí lo que podemos intentar es cambiar la cookie por cualquier cosa ya que al ser una cookie temporal probablemente no tenga ningún sistema de seguridad. y cambiamos al usuario para que en este caso la solicitud se envié con el usuario carlos y vemos un código `302 Found` esto es bueno ya que es una redirección correcta
 ![[Pasted image 20250811132640.png]]
+
+ahora podemos iniciar sesión con las credenciales de carlos y la nueva contraseña
+![[Pasted image 20250811132838.png]]
