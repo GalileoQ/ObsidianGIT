@@ -3780,6 +3780,7 @@
       "GalileoQ/PortSwigger/API testing/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/Authentication vulnerabilities": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 10 - Password reset broken logic.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 9 - Offline password cracking.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 8 - Brute-forcing a stay-logged-in cookie.md",
@@ -3793,6 +3794,15 @@
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Img"
     ],
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811130651.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811131049.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811131250.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811131528.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811131722.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132237.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132331.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132640.png",
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811132838.png",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811124154.png",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811124306.png",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Img/Pasted image 20250811124701.png",
