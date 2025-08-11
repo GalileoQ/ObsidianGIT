@@ -12,3 +12,6 @@ ahora hemos activado el parámetro `stay-logged-in` pero no tenemos un cookie o 
 ahora. tenemos un apartado de blogs donde podemos realizar comentarios. así que vamos a realizar pruebas aquí. 
 ![[Pasted image 20250811124701.png]]
 
+de esta forma hemos generado un ataque XSS lo cual nos da una pequeña pista de lo que podemos hacer ahora.
+![[Pasted image 20250811124816.png]]
+
