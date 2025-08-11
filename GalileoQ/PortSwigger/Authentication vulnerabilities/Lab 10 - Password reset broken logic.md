@@ -15,3 +15,5 @@ como no tenemos acceso al servidor de correo electrónico de carlos no podemos r
 capturamos la solicitud del usuario wiener y la enviamos al repeater para analizarla
 ![[Pasted image 20250811131528.png]]
 
+por otro lado la web nos indica que debemos revisar el correo para 
+![[Pasted image 20250811131722.png]]
