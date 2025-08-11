@@ -20,3 +20,6 @@ por otro lado la web nos indica que debemos revisar el correo para
 
 el servidor de correos nos da el link donde podemos hacer el cambio de contraseña
 ![[Pasted image 20250811132237.png]]
+
+ahora lo importnate de esto es que podemos ver una solicitud `POST` donde se pueden 
+![[Pasted image 20250811132331.png]]
