@@ -17,3 +17,6 @@ capturamos la solicitud del usuario wiener y la enviamos al repeater para analiz
 
 por otro lado la web nos indica que debemos revisar el correo para 
 ![[Pasted image 20250811131722.png]]
+
+el servidor de correos nos da el link donde podemos hacer el cambio de contraseña
+![[Pasted image 20250811132237.png]]
