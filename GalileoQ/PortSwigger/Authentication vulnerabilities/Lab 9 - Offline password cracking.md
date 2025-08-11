@@ -21,3 +21,6 @@ ahora lo que vamos a intentar es capturar la
 enviamos el comentario y vamos a revisar nuestro servidor de exploit. donde vemos que efectivamente hemos conseguido una cookie
 ![[Pasted image 20250811125319.png]]
 
+decodeamos la cookie y obtenemos las credenciales del usuario carlos
+![[Pasted image 20250811125414.png]]
+
