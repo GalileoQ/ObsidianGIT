@@ -12,5 +12,6 @@ ahora lo importante aquí es el parámetro de `Forgot passord` el cual nos permi
 como no tenemos acceso al servidor de correo electrónico de carlos no podemos realizar esta tarea así que debemos usar las solicitudes del usuario wiener
 ![[Pasted image 20250811131250.png]]
 
-
+capturamos la solicitud del usuario wiener y la enviamos al repeater para analizarla
 ![[Pasted image 20250811131528.png]]
+
