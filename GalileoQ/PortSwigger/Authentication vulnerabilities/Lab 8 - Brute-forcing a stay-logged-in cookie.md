@@ -15,3 +15,6 @@ capturamos esta solicitud y la enviamos al repeater. podemos ver que tenemos una
 esta cookie es el nombre del usuario que inicia sesión y un código que parece ser MD5
 ![[Pasted image 20250811115525.png]]
 
+confirmamos que es un hash MD5 y básicamente es la contraseña del usuario
+![[Pasted image 20250811115739.png]]
+
