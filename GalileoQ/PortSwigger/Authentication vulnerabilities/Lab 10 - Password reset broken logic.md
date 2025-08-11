@@ -6,3 +6,5 @@ La función de restablecimiento de contraseña de este laboratorio es vulnerable
 iniciamos sesión con las credenciales que nos da el laboratorio y tenemos un correo electrónico y también podemos ir al `email client` y tenemos la opción de `update email`
 ![[Pasted image 20250811130651.png]]
 
+ahora lo importante aqui es el parametro de `Forgot passord` el cual nos permite reestablecer la contraseña del usuario
+![[Pasted image 20250811131049.png]]
