@@ -24,3 +24,6 @@ esto es importante saberlo ya que si esta cookie de sesión no tiene ninguna pre
 ahora lo que nos interesa es intentar conseguir una cookie que contenga el nombre del usuario y la contraseña en formato MD5 ya que sabemos que este es el formato en el que se construye la solicitud. asi que vamos a seleccionar la cookie para realizar el ataque. es importante que en el segundo apartado `Payload processing` marquemos las opciones `hash` y `MD5` 
 ![[Pasted image 20250811120633.png]]
 
+y también debemos agregar el prefijo carlos que en este caso será nuestro nombre de usuario. y los `:` ya que esto es lo que separa nuestro nombre de la contraseña
+![[Pasted image 20250811120939.png]]
+
