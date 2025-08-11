@@ -24,3 +24,6 @@ enviamos el comentario y vamos a revisar nuestro servidor de exploit. donde vemo
 decodeamos la cookie y obtenemos las credenciales del usuario carlos
 ![[Pasted image 20250811125414.png]]
 
+ahora vamos a decodear el HASH MD5 del usuario carlos y obtenemos la contraseña en texto plano
+![[Pasted image 20250811125537.png]]
+
