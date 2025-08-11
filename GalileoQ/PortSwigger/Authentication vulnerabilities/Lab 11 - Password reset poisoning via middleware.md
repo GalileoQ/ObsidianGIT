@@ -14,5 +14,6 @@ ahora bien. lo primero que tenemos que hacer es modificar la solicitud y enviarl
 de esta manera una ves que el usuario carlos haga clic en el enlace esto generara una respuesta que contiene la cookie temporal para reestablecer la contraseña
 ![[Pasted image 20250811153936.png]]
 
-ahora en la solicitud `GET` vamos a reemplazar 
+ahora en la solicitud `GET` vamos a reemplazar este cookie temporal y enviamos. tenemos un estatus `200 OK` 
 ![[Pasted image 20250811154022.png]]
+
