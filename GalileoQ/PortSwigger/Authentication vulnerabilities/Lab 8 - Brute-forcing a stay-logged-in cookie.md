@@ -26,7 +26,7 @@ ahora lo que nos interesa es intentar conseguir una cookie que contenga el nombr
 
 y también debemos agregar el prefijo carlos que en este caso será nuestro nombre de usuario. y los `:` ya que esto es lo que separa nuestro nombre de la contraseña
 
-`NOTA:` recuerda cambiar el nombre de usuario `wiener` a 
+`NOTA:` recuerda cambiar el nombre de usuario `wiener` al usuario victima que en este caso es `carlos` : `GET /my-account?id=carlos` 
 ![[Pasted image 20250811120939.png]]
 
 por ultimo debemos agregar que este formato este encodeado en base64 ya que así es como la solicitud lo trabaja. de esta manera no tendremos ningún inconveniente en como se procesa la solicitud 
