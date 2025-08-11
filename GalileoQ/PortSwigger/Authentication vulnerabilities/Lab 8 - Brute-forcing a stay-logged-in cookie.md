@@ -12,5 +12,6 @@ primero vamos a iniciar sesión con las credenciales que nos han proporcionado y
 capturamos esta solicitud y la enviamos al repeater. podemos ver que tenemos una cookie de sesión donde esta el parámetro `Stay-logget-in` así que vamos a decodear esta cookie para ver que información nos da.
 ![[Pasted image 20250811115235.png]]
 
-esta cookie es el nombre del usuario que inicia sesión y un codigo que par
+esta cookie es el nombre del usuario que inicia sesión y un código que parece ser MD5
 ![[Pasted image 20250811115525.png]]
+
