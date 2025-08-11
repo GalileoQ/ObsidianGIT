@@ -3780,6 +3780,7 @@
       "GalileoQ/PortSwigger/API testing/Img/Pasted image 20250616154436.png"
     ],
     "GalileoQ/PortSwigger/Authentication vulnerabilities": [
+      "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 9 - Offline password cracking.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 8 - Brute-forcing a stay-logged-in cookie.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 7 - 2FA broken logic.md",
       "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 6 - 2FA simple bypass.md",
