@@ -5,5 +5,5 @@ vamos a realizar un cambio de contraseñas nuevamente para el usuario calros, pr
 
 bien. al realizar un cambio de contraseña para el usuario `wiener` podemos ver que tenemos 3 solicitudes diferentes que son las encargadas de reestablecer la contraseña. 
 
-una solicitud `POST` principal una solicitud `GET` encargada de enviarnos el link que hemos recibido al correo y nuevamente una solicitud `POST` la cual contiene 
+una solicitud `POST` principal una solicitud `GET` encargada de enviarnos el link que hemos recibido al correo y nuevamente una solicitud `POST` la cual contiene los datos de la nueva contraseña. 
 ![[Pasted image 20250811143839.png]]
