@@ -3,3 +3,7 @@
 vamos a realizar un cambio de contraseñas nuevamente para el usuario calros, primero debemos iniciar sesión con las credenciales de wiener y analizar la solicitud
 ![[Pasted image 20250811140353.png]]
 
+bien. al realizar un cambio de contraseña para el usuario `wiener` podemos ver que tenemos 3 solicitudes diferentes que son las encargadas de reestablecer la contraseña. 
+
+una solicitud `POST`
+![[Pasted image 20250811143839.png]]
