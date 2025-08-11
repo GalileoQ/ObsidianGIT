@@ -15,3 +15,5 @@ ahora. tenemos un apartado de blogs donde podemos realizar comentarios. así que
 de esta forma hemos generado un ataque XSS lo cual nos da una pequeña pista de lo que podemos hacer ahora.
 ![[Pasted image 20250811124816.png]]
 
+ahora lo que vamos a intentar es capturar la 
+![[Pasted image 20250811125041.png]]
