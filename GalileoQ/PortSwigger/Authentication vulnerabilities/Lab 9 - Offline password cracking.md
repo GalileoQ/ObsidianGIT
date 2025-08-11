@@ -27,3 +27,5 @@ decodeamos la cookie y obtenemos las credenciales del usuario carlos
 ahora vamos a decodear el HASH MD5 del usuario carlos y obtenemos la contraseña en texto plano
 ![[Pasted image 20250811125537.png]]
 
+ahoram podemos 
+![[Pasted image 20250811125707.png]]
