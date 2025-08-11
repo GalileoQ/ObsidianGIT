@@ -21,5 +21,6 @@ confirmamos que es un hash MD5 y básicamente es la contraseña del usuario
 esto es importante saberlo ya que si esta cookie de sesión no tiene ninguna prevención contra fuerza bruta podemos realizar un ataque pera buscar la contraseña. vamos a capturar la solicitud `GET` de la cuenta del usuario `wiener` para poder enviarla al intruder y hacer nuestras pruebas
 ![[Pasted image 20250811120250.png]]
 
-ahora lo que nos interesa es intentar conseguir una cookie que contenga el nombre del usuario y la contraseña en formato MD5 ya que sabemos que este es el formato en el que se construye la solicitud. asi que vamos a seleccionar la cookie para realizar el ataque. es importante que en el segundo apartado `Payload `
+ahora lo que nos interesa es intentar conseguir una cookie que contenga el nombre del usuario y la contraseña en formato MD5 ya que sabemos que este es el formato en el que se construye la solicitud. asi que vamos a seleccionar la cookie para realizar el ataque. es importante que en el segundo apartado `Payload processing` marquemos las opciones `hash` y `MD5` 
 ![[Pasted image 20250811120633.png]]
+
