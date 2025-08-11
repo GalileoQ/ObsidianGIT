@@ -34,3 +34,9 @@ por ultimo debemos agregar que este formato este encodeado en base64 ya que así
 
 de esta forma podemos encontrar una respuesta que tiene un estado `200 OK` 
 ![[Pasted image 20250811122318.png]]
+
+ahora solo vamos a mirar este respuesta en el navegador
+![[Pasted image 20250811122523.png]]
+
+y de esta manera hemos conseguido 
+![[Pasted image 20250811122552.png]]
