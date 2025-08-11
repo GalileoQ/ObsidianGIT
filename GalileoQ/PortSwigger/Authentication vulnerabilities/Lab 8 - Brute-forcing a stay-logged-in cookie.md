@@ -9,3 +9,5 @@ Para resolver el laboratorio, fuerza brutamente la cookie de Carlos para obtener
 primero vamos a iniciar sesión con las credenciales que nos han proporcionado y lo importante aquí es marcar la opción de `Stay logged in`
 ![[Pasted image 20250811114612.png]]
 
+capturamos esta solicitud y la enviamos al repeater. podemos ver que tenemos una cookie de sesión donde esta el parametr
+![[Pasted image 20250811115235.png]]
