@@ -20,3 +20,5 @@ ahora en la solicitud `GET` vamos a reemplazar este cookie temporal y enviamos. 
 ahora en nuestra tercera solicitud. `POST` cambiamos la cookie temporal por la que hemos generado para el usuario carlos. y tambien cambiamos la contraseña que le vamos a poner a carlos. enviamos y tenemos un estatus `302` esto es una buena noticia
 ![[Pasted image 20250811154213.png]]
 
+enviamos la solicitud y de esta manera logramos cambiar la contraseña para el usuario carlos
+![[Pasted image 20250811154615.png]]
