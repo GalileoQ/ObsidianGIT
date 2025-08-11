@@ -11,5 +11,8 @@ una solicitud `POST` principal una solicitud `GET` encargada de enviarnos el lin
 ahora bien. lo primero que tenemos que hacer es modificar la solicitud y enviarla con el usuario carlos. agregando el parámetro `X-Forwarded-Host` para definir el host hacia donde se enviara. en este caso vamos a usar nuestro servidor de exploit para poder ver la respuesta
 ![[Pasted image 20250811153550.png]]
 
-de 
+de esta manera una ves que el usuario carlos haga clic en el enlace esto generara una respuesta que contiene la cookie temporal para reestablecer la contraseña
 ![[Pasted image 20250811153936.png]]
+
+ahora en la solicitud `GET` vamos a reemplazar 
+![[Pasted image 20250811154022.png]]
