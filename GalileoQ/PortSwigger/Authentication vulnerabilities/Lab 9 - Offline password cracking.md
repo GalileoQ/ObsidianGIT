@@ -27,5 +27,8 @@ decodeamos la cookie y obtenemos las credenciales del usuario carlos
 ahora vamos a decodear el HASH MD5 del usuario carlos y obtenemos la contraseña en texto plano
 ![[Pasted image 20250811125537.png]]
 
-ahoram podemos 
+ahora podemos completar la terea que nos solicitan que seria eliminar la cuenta del usuario carlos
 ![[Pasted image 20250811125707.png]]
+
+y de esta manera podemos resolver el laboratorio
+![[Pasted image 20250811125738.png]]
