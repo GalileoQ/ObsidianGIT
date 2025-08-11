@@ -24,3 +24,5 @@ el servidor de correos nos da el link donde podemos hacer el cambio de contrase�
 ahora lo importante de esto es que podemos ver una solicitud `POST` donde se puede ver la cookie temporal para el cambio de contraseñas también el nombre del usuario y también podemos ver la nueva contraseña
 ![[Pasted image 20250811132331.png]]
 
+ahora aqui lo que podemos intentar es cambiar la cookie por cualquier cosa ya que al ser una cookie temporal probablemente no tenga ningun 
+![[Pasted image 20250811132640.png]]
