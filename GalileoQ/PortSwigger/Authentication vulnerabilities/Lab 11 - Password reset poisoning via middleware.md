@@ -17,3 +17,5 @@ de esta manera una ves que el usuario carlos haga clic en el enlace esto generar
 ahora en la solicitud `GET` vamos a reemplazar este cookie temporal y enviamos. tenemos un estatus `200 OK` 
 ![[Pasted image 20250811154022.png]]
 
+ahora en nuestra tercera solicitud. `POST` cambiamos la cookie temporal por la que hemos generado pa
+![[Pasted image 20250811154213.png]]
