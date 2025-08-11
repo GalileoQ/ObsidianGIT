@@ -27,5 +27,6 @@ ahora lo que nos interesa es intentar conseguir una cookie que contenga el nombr
 y también debemos agregar el prefijo carlos que en este caso será nuestro nombre de usuario. y los `:` ya que esto es lo que separa nuestro nombre de la contraseña
 ![[Pasted image 20250811120939.png]]
 
-por ultimo debemos agregar que este formato este enc
+por ultimo debemos agregar que este formato este encodeado en base64 ya que así es como la solicitud lo trabaja. de esta manera no tendremos ningún inconveniente en como se procesa la solicitud 
 ![[Pasted image 20250811121133.png]]
+
