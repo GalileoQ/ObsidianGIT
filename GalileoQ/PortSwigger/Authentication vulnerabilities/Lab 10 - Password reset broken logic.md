@@ -3,3 +3,5 @@ La función de restablecimiento de contraseña de este laboratorio es vulnerable
 - Sus credenciales: `wiener:peter`
 - Nombre de usuario de la víctima: `carlos`
 
+iniciamos sesión con las credenciales que nos da el laboratorio y tenemos un correo electronico y tambien podemos v
+![[Pasted image 20250811130651.png]]
