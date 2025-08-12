@@ -7,3 +7,5 @@ La función de cambio de contraseña de este laboratorio lo hace vulnerable a at
 iniciamos sesión con las credenciales que nos proporciona el laboratorio y detectamos el proceso para el cambio de contraseña. debemos proporcionar la contraseña actual y luego la nueva contraseña y después confirmarla. así que vamos a interceptar esta solicitud
 ![[Pasted image 20250812114608.png]]
 
+la solicitud de cambio de contraseña se ve así. contiene los datos que hemos enviado y hace una solicitud `POST` a 
+![[Pasted image 20250812114816.png]]
