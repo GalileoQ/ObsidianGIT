@@ -14,5 +14,5 @@ cambiamos la url y vemos que el servidor nos da un estatus `200 OK` así que vam
 ahora podemos eliminar al usuario carlos. pero el problema es que no estamos logeados así que no nos deja.
 ![[Pasted image 20250812155147.png]]
 
-inspeccionamos la web para identificar que la
+inspeccionamos la web para identificar que la `URL` para eliminar al usuario carlos es 
 ![[Pasted image 20250812155852.png]]
