@@ -12,3 +12,12 @@ la solicitud de cambio de contraseña se ve así. contiene los datos que hemos e
 `NOTA:` el comportamiento al ingresar la contraseña actual incorrecta. Si las dos entradas de la nueva contraseña coinciden, la cuenta se bloquea. Sin embargo, si ingresa dos contraseñas nuevas diferentes, un mensaje de error simplemente indica `Current password is incorrect`Si ingresa una contraseña actual válida, pero dos contraseñas nuevas diferentes, el mensaje dice `New passwords do not match`Podemos usar este mensaje para enumerar las contraseñas correctas.
 ![[Pasted image 20250812114816.png]]
 
+
+
+
+
+
+
+
+
+![[Pasted image 20250812120303.png]]
