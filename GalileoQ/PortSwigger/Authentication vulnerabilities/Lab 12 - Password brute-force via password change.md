@@ -15,5 +15,5 @@ la solicitud de cambio de contraseña se ve así. contiene los datos que hemos e
 sabiendo esto podemos enumerar una contraseña para el usuario carlos. simplemente con una contraseña incorrecta a la cual le aplicaremos el ataque de fuerza bruta y un par de contraseñas que no coincidan para que nuestra cuenta no sea bloquee ya que estaríamos cayendo en uno de los pasos que hemos comentado anteriormente.
 ![[Pasted image 20250812120341.png]]
 
-despues simplemente buscamos e
+después simplemente buscamos la solicitud que tenga un `Length` diferente y probaremos estas credenciales. de esta manera resolvemos el laboratorio.
 ![[Pasted image 20250812120303.png]]
