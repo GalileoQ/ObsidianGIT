@@ -20,3 +20,5 @@ inspeccionamos la web para identificar que la `URL` para eliminar al usuario car
 nuevamente en el repeater enviamos la solicitud y vemos que tenemos un estatus `302` lo cual es una redirección. esto es una buena señal. solo debemos ver esta solicitud en el navegador y ver que pasa
 ![[Pasted image 20250812160103.png]]
 
+efectivamente esto funciono. y de esta manera eliminamos al usuario carlos y resolvemos el laboratorio
+![[Pasted image 20250812160231.png]]
