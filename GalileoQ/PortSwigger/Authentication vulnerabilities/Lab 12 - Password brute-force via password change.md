@@ -12,14 +12,8 @@ la solicitud de cambio de contraseña se ve así. contiene los datos que hemos e
 `NOTA:` el comportamiento al ingresar la contraseña actual incorrecta. Si las dos entradas de la nueva contraseña coinciden, la cuenta se bloquea. Sin embargo, si ingresa dos contraseñas nuevas diferentes, un mensaje de error simplemente indica `Current password is incorrect`Si ingresa una contraseña actual válida, pero dos contraseñas nuevas diferentes, el mensaje dice `New passwords do not match`Podemos usar este mensaje para enumerar las contraseñas correctas.
 ![[Pasted image 20250812114816.png]]
 
+sabiendo esto podemos enumerar una contraseña para el usuario carlos. simplemente con una contraseña incorrecta a la cual le aplicaremos el ataque de fuerza bruta y un par de contraseñas que no coincidan para que nuestra cuenta no sea bloquee ya que estaríamos cayendo en uno de los pasos que hemos comentado anteriormente.
 ![[Pasted image 20250812120341.png]]
 
-sabiendo esto podemos enumerar una contraseña para el usuario carlos. simplemente con una contraseña incorrecta a la cual le aplicaremos el ataque de fuerza bruta y un par de contraseñas que no coincidan para que nuestra cuenta no sea bloquee ya que estariamos cat
-
-
-
-
-
-
-
+despues simplemente buscamos e
 ![[Pasted image 20250812120303.png]]
