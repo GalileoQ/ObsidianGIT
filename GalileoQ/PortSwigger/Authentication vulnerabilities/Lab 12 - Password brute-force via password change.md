@@ -14,7 +14,7 @@ la solicitud de cambio de contraseña se ve así. contiene los datos que hemos e
 
 ![[Pasted image 20250812120341.png]]
 
-sabiendo esto podemos enumerar una contraseña para el usuario carlos. simplemente con una con
+sabiendo esto podemos enumerar una contraseña para el usuario carlos. simplemente con una contraseña incorrecta a la cual le aplicaremos el ataque de fuerza bruta y un par de contraseñas que no coincidan para que nuestra cuenta no sea bloquee ya que estariamos cat
 
 
 
