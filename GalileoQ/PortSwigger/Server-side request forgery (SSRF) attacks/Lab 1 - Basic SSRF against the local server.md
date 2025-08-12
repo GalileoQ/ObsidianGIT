@@ -8,3 +8,8 @@ iniciamos sesión y vamos a revisar un producto para luego darle `Check stock`
 capturamos la solicitud de `Check stock` y al analizarla vemos que el parámetro `stockApi` hace referencia a una url. vamos a cambiar esta url para intentar hacer un redireccionamiento
 ![[Pasted image 20250812154902.png]]
 
+cambiamos la url y vemos que el servidor nos da un estatus `200 OK` así que vamos a ver esta solicitud en el navegador
+![[Pasted image 20250812155205.png]]
+
+
+![[Pasted image 20250812155147.png]]
