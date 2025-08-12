@@ -8,4 +8,7 @@ iniciamos sesión con las credenciales que nos proporciona el laboratorio y dete
 ![[Pasted image 20250812114608.png]]
 
 la solicitud de cambio de contraseña se ve así. contiene los datos que hemos enviado y hace una solicitud `POST` a `/my-account/change-password`
+
+`NOTA:` el comportamiento al ingresar la contraseña actual incorrecta. Si las dos entradas de la nueva contraseña coinciden, la cuenta se bloquea. Sin embargo, si ingresa dos contraseñas nuevas diferentes, un mensaje de error simplemente indica `Current password is incorrect`Si ingresa una contraseña actual válida, pero dos contraseñas nuevas diferentes, el mensaje dice `New passwords do not match`Podemos usar este mensaje para enumerar las contraseñas correctas.
 ![[Pasted image 20250812114816.png]]
+
