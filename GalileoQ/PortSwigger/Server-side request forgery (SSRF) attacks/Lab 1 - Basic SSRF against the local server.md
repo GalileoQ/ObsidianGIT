@@ -11,5 +11,8 @@ capturamos la solicitud de `Check stock` y al analizarla vemos que el parámetro
 cambiamos la url y vemos que el servidor nos da un estatus `200 OK` así que vamos a ver esta solicitud en el navegador
 ![[Pasted image 20250812155205.png]]
 
-
+ahora podemos eliminar al usuario carlos. pero el problema es que no estamos logeados así que no nos deja.
 ![[Pasted image 20250812155147.png]]
+
+inspeccionamos la web para identificar que la
+![[Pasted image 20250812155852.png]]
