@@ -17,5 +17,6 @@ ahora podemos eliminar al usuario carlos. pero el problema es que no estamos log
 inspeccionamos la web para identificar que la `URL` para eliminar al usuario carlos es `/admin/delete?username=carlos` así que podemos enviar esto en el parámetro vulnerable para intentar eliminar al usuario carlos
 ![[Pasted image 20250812155852.png]]
 
-nuevamente en el repe
+nuevamente en el repeater enviamos la solicitud y vemos que tenemos un estatus `302` lo cual es una redirección. esto es una buena señal. solo debemos ver esta solicitud en el navegador y ver que pasa
 ![[Pasted image 20250812160103.png]]
+
