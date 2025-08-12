@@ -5,5 +5,6 @@ Para resolver el laboratorio, cambie la URL de verificación de existencias para
 iniciamos sesión y vamos a revisar un producto para luego darle `Check stock`
 ![[Pasted image 20250812154436.png]]
 
-capturamos la solicitud de `Check stock` y al analizarla vemos que el parámetro `stockApi` hace referencia a una url. vamos a cambiar est
+capturamos la solicitud de `Check stock` y al analizarla vemos que el parámetro `stockApi` hace referencia a una url. vamos a cambiar esta url para intentar hacer un redireccionamiento
 ![[Pasted image 20250812154902.png]]
+
