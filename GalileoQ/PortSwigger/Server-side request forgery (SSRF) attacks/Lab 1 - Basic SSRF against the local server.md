@@ -5,3 +5,5 @@ Para resolver el laboratorio, cambie la URL de verificación de existencias para
 iniciamos sesión y vamos a revisar un producto para luego darle `Check stock`
 ![[Pasted image 20250812154436.png]]
 
+capturamos la solicitud de `Check stock` 
+![[Pasted image 20250812154902.png]]
