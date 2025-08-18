@@ -10,5 +10,12 @@ nuevamente iniciamos sesión y vamos a interceptar la solicitud de `Check Stock`
 tenemos el parámetro `StockApi` que ya sabemos que es vulnerable así que vamos a enviar esto al repeater para ver como se comporta
 ![[Pasted image 20250818111213.png]]
 
-sabemos que existen algunas defensas anti SSRF que debemos baypasear 
+sabemos que existen algunas defensas anti SSRF que debemos baypasear para esto debemos hacer muchas pruebas e ir analizando la respuesta del servidor. 
+
+```python
+- `http://127.0.0.1/` and observe that the request is blocked.
+- Bypass the block by changing the URL to: `http://127.1/`
+- Change the URL to `http://127.1/admin` and observe that the URL is blocked again.
+- Obfuscate the "a" by double-URL encoding it to %2561
+```
 ![[Pasted image 20250818111514.png]]
