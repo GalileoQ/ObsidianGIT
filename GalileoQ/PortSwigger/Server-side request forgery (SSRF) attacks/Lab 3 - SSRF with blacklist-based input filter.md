@@ -23,3 +23,6 @@ sabemos que existen algunas defensas anti SSRF que debemos baypasear para esto d
 
 con la doble ofuscación tenemos un estatus `200` 
 ![[Pasted image 20250818111514.png]]
+
+vamos a ver esta solicitud en el navegador y tenemos acceso y podemos eliminar al usuario carlos
+![[Pasted image 20250818111917.png]]
