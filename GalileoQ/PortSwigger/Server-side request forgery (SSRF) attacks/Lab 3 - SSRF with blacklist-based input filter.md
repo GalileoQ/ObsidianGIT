@@ -30,3 +30,8 @@ vamos a ver esta solicitud en el navegador y tenemos acceso y podemos eliminar a
 para ello debemos hacer una solicitud directamente al endpoint ya que si intentamos eliminarlo a mano no nos dejara
 ![[Pasted image 20250818112038.png]]
 
+nos da in estado `401` Unauthorized pero la solicitud se ha echo al servidor
+![[Pasted image 20250818112136.png]]
+
+y de esta manera resolvemos el
+![[Pasted image 20250818112219.png]]
