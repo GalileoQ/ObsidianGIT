@@ -8,5 +8,5 @@ vamos al laboratorio y podemos hacer un `Check stock` para ver esta solicitud
 podemos ver que el parámetro `StockApi` parece estar resolviendo a una URL asi que vamos a enviar esto al intruder para intentar hacer algún tipo de ataque
 ![[Pasted image 20250818104606.png]]
 
-ya sabemos que el laboratorio se resuelve haciendo un escaneo para encontrar otro endpoint en el servidor. asi que debemos usar 
+ya sabemos que el laboratorio se resuelve haciendo un escaneo para encontrar otro endpoint en el servidor. asi que debemos usar la URL que nos da el enunciado para resolver esto. `http://192.168.0.1:8080/admin` agregamos 
 ![[Pasted image 20250818104801.png]]
