@@ -5,5 +5,5 @@ Para resolver el laboratorio, utilice la función de verificación de existencia
 vamos al laboratorio y podemos hacer un `Check stock` para ver esta solicitud
 ![[Pasted image 20250818104450.png]]
 
-podemos ver que el parámetro `StockApi` parece estar resolviendo a una URL a
+podemos ver que el parámetro `StockApi` parece estar resolviendo a una URL asi que vamos a enviar esto al intruder para intentar hacer algún tipo de ataque
 ![[Pasted image 20250818104606.png]]
