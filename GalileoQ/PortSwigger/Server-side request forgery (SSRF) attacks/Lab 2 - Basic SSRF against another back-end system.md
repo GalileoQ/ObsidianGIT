@@ -13,3 +13,7 @@ ya sabemos que el laboratorio se resuelve haciendo un escaneo para encontrar otr
 
 después de seleccionar la lista de payload en `numbers` y decirle que haga un escaneo desde la IP 1 hasta 255 realizamos el ataque y solo tenemos una sola solicitud de estatus `200` así que vamos a ver esta 
 ![[Pasted image 20250818105101.png]]
+
+ahora recordemos que nuestra tarea es eliminar al usuario carlos y esto lo podemos intentar mediente la solicitud a `http://192.168.0.196:8080/admin/delete?username=carlos`
+![[Pasted image 20250818105342.png]]
+
