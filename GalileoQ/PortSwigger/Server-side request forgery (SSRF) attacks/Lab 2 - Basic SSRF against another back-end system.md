@@ -2,3 +2,5 @@ Este laboratorio tiene una función de verificación de existencias que obtiene 
 
 Para resolver el laboratorio, utilice la función de verificación de existencias para escanear el interior `192.168.0.X`rango para una interfaz de administrador en el puerto `8080`, luego úsalo para eliminar al usuario `carlos`.
 
+vamos al laboratorio y podemos hacer un `Check stock` para ver esta solicitud
+![[Pasted image 20250818104450.png]]
