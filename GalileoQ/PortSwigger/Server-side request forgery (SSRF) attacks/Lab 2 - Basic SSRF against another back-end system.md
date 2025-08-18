@@ -17,3 +17,5 @@ después de seleccionar la lista de payload en `numbers` y decirle que haga un e
 ahora recordemos que nuestra tarea es eliminar al usuario carlos y esto lo podemos intentar mediente la solicitud a `http://192.168.0.196:8080/admin/delete?username=carlos`
 ![[Pasted image 20250818105342.png]]
 
+enviamos la solicitud y revisamos el servidor y efectivamente emos eliminado a carlos, también podríamos hacerlo visitando el servidor y eliminarlo manualmente
+![[Pasted image 20250818105653.png]]
