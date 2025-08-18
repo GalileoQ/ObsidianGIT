@@ -18,4 +18,8 @@ sabemos que existen algunas defensas anti SSRF que debemos baypasear para esto d
 - http://127.1/admin
 - Ofuscamos la  "a" con doble-URL encoding que seria esto `%2561`
 ```
+
+![[Pasted image 20250818111830.png]]
+
+con la doble ofuscación tenemos un estatus `200` 
 ![[Pasted image 20250818111514.png]]
