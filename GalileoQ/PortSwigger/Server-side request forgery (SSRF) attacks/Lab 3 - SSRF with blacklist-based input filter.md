@@ -6,5 +6,6 @@ El desarrollador ha implementado dos defensas anti-SSRF débiles que deberás ev
 
 nuevamente iniciamos sesión y vamos a interceptar la solicitud de `Check Stock`
 ![[Pasted image 20250818111225.png]]
-tenemos el apa
+
+tenemos el parámetro `StockApi` que ya sabemos que es vulnerable así que vamos a enviar esto al repeater para ver como se comporta
 ![[Pasted image 20250818111213.png]]
