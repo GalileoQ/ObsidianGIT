@@ -4,3 +4,7 @@ Para resolver el laboratorio, cambie la URL de verificación de existencias para
 
 El desarrollador ha implementado dos defensas anti-SSRF débiles que deberás evitar.
 
+nuevamente iniciamos sesión y vamos a interceptar la solicitud de `Check Stock`
+![[Pasted image 20250818111225.png]]
+tenemos el apa
+![[Pasted image 20250818111213.png]]
