@@ -9,3 +9,6 @@ nuevamente iniciamos sesión y vamos a interceptar la solicitud de `Check Stock`
 
 tenemos el parámetro `StockApi` que ya sabemos que es vulnerable así que vamos a enviar esto al repeater para ver como se comporta
 ![[Pasted image 20250818111213.png]]
+
+sabemos que existen algunas defensas anti SSRF que debemos baypasear 
+![[Pasted image 20250818111514.png]]
