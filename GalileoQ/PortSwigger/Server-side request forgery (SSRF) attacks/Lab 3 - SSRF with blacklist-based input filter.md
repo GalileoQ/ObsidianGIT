@@ -33,5 +33,5 @@ para ello debemos hacer una solicitud directamente al endpoint ya que si intenta
 nos da in estado `401` Unauthorized pero la solicitud se ha echo al servidor
 ![[Pasted image 20250818112136.png]]
 
-y de esta manera resolvemos el
+y de esta manera resolvemos el laboratorio
 ![[Pasted image 20250818112219.png]]
