@@ -26,3 +26,7 @@ con la doble ofuscación tenemos un estatus `200`
 
 vamos a ver esta solicitud en el navegador y tenemos acceso y podemos eliminar al usuario carlos
 ![[Pasted image 20250818111917.png]]
+
+para ello debemos hacer una solicitud directamente al endpoint ya que si intentamos eliminarlo a mano no nos dejara
+![[Pasted image 20250818112038.png]]
+
