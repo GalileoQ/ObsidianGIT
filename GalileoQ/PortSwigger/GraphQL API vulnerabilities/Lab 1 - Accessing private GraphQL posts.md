@@ -3,7 +3,9 @@
 
 ![[Pasted image 20250820125828.png]]
 
-en la respuesta observamos que el parámetro `getAllBlogPosts` contiene todos 
+en la respuesta observamos que el parámetro `getAllBlogPosts` contiene todos los post pero falta el numero `3`
 ![[Pasted image 20250820144317.png]]
+
+
 ![[Pasted image 20250820125802.png]]
 
