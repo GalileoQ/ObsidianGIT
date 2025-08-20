@@ -8,5 +8,5 @@ seleccionamos cualquier producto para analizar la solicitud
 
 ![[Pasted image 20250820113155.png]]
 
-
+enviamos la solicitud al Repeater "Insertar carga útil de colaborador" para reemplazar el dominio original con un dominio generado por Burp Collaborator. Envíe la solicitud.
 ![[Pasted image 20250820113957.png]]
