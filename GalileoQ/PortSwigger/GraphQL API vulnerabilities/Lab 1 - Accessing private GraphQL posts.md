@@ -26,7 +26,8 @@ vamos a usar la segunda solicitud de queries ya que esta contiene el parámetro 
 en la solicitud podemos enviar el identificador `id: 3` ya que si recordamos el post numero 3 estaba oculto. y de esta manera conseguimos identificar el post y tambien podemos ver el parámetro `postPassword` 
 ![[Pasted image 20250820153031.png]]
 
-
+enviamos la contraseña del post
 ![[Pasted image 20250820153300.png]]
 
+y de esta manera podemos resolver el laboratorio
 ![[Pasted image 20250820153318.png]]
