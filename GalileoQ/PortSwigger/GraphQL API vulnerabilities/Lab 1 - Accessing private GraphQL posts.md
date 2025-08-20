@@ -16,3 +16,6 @@ vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `P
 
 `NOTA:` esta sección se ha realizado con la extensión `InQL` que puedes descargar desde el apartado de extensiones 
 ![[Pasted image 20250820151342.png]]
+
+vamos a copiar todos los parame
+![[Pasted image 20250820151848.png]]
