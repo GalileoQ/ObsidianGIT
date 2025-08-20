@@ -17,7 +17,7 @@ vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `P
 `NOTA:` esta sección se ha realizado con la extensión `InQL` que puedes descargar desde el apartado de extensiones 
 ![[Pasted image 20250820151342.png]]
 
-vamos a usar e
+vamos a usar la segunda solicitud de queries ya que esta contiene el parámetro id
 ![[Pasted image 20250820152805.png]]
 
 vamos a copiar todos los parámetros que hemos encontrado y lo vamos a enviar al repeater para reemplazarlos en la sección de `InQL` despues de enviar la solicitud observamos que la respuesta de los post ahora tienen mucha mas información como `autor, date` 
