@@ -3,5 +3,7 @@
 
 ![[Pasted image 20250820125828.png]]
 
+en la respuesta observamos que el parámetro `getAllBlogPosts` contiene todos 
+![[Pasted image 20250820144317.png]]
 ![[Pasted image 20250820125802.png]]
 
