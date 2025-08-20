@@ -3739,6 +3739,7 @@
       "GalileoQ/Hacking/Windows/Active-Directory/Servicios/Img/Pasted image 20240615210904.png"
     ],
     "GalileoQ/PortSwigger": [
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities",
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks",
       "GalileoQ/PortSwigger/Authentication vulnerabilities",
       "GalileoQ/PortSwigger/WebSockets vulnerabilities",
@@ -4018,6 +4019,9 @@
       "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img/Pasted image 20250703103348.png",
       "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img/Pasted image 20250703105132.png",
       "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img/Pasted image 20250703113614.png"
+    ],
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities": [
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md"
     ],
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks": [
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 5 - Blind SSRF with out-of-band detection.md",
