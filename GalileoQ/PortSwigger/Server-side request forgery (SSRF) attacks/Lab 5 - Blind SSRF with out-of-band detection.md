@@ -11,8 +11,8 @@ seleccionamos cualquier producto para analizar la solicitud
 enviamos la solicitud al Repeater y seleccionamos "Insert Collaborator Payload" para reemplazar el dominio original con un dominio generado por Burp Collaborator. podemos ver que en la parte de abajo se nos ha generado una nueva dirección de dominio que vamos a reemplazar en el parámetro `Referer` 
 ![[Pasted image 20250820113957.png]]
 
-hacemos clic en `Poll n`
+hacemos clic en `Poll now` y vemos la solicitud DNS que se ha hecho desde y hacia nuestro nuevo dominio
 ![[Pasted image 20250820114407.png]]
 
-
+de esta forma podemos ver la solicitud en la web y hemos resuelto el laboratorio
 ![[Pasted image 20250820114435.png]]
