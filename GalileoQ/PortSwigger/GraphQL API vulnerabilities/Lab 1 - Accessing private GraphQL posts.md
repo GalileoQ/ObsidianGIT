@@ -23,5 +23,10 @@ vamos a copiar todos los parámetros que hemos encontrado y lo vamos a enviar al
 vamos a usar la segunda solicitud de queries ya que esta contiene el parámetro id
 ![[Pasted image 20250820152805.png]]
 
-en la solicitud podemos enviar el identificador `id: 3` ya que si recordamos el post numero 3 estaba oculto. y de esta manera conseguimos identificar el post y tambien podemos ver la 
+en la solicitud podemos enviar el identificador `id: 3` ya que si recordamos el post numero 3 estaba oculto. y de esta manera conseguimos identificar el post y tambien podemos ver el parámetro `postPassword` 
 ![[Pasted image 20250820153031.png]]
+
+
+![[Pasted image 20250820153300.png]]
+
+![[Pasted image 20250820153318.png]]
