@@ -7,3 +7,6 @@ seleccionamos cualquier producto para analizar la solicitud
 
 
 ![[Pasted image 20250820113155.png]]
+
+
+![[Pasted image 20250820113957.png]]
