@@ -12,5 +12,5 @@ en la respuesta observamos que el parámetro `getAllBlogPosts` contiene todos lo
 enviamos la solicitud y vemos que la respuesta tiene un parámetro `postPassword` pero parece estar oculto.
 ![[Pasted image 20250820151254.png]]
 
-vamos a verificar esto
+vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `POST /graphql/v1` y enviamos esta solicitud a analizar. 
 ![[Pasted image 20250820151342.png]]
