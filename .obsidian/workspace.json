@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 3 - SSRF with blacklist-based input filter.md",
+                "file": "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 4 - SSRF with filter bypass via open redirection vulnerability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 3 - SSRF with blacklist-based input filter"
+              "title": "Lab 4 - SSRF with filter bypass via open redirection vulnerability"
             }
           }
         ],
@@ -191,6 +191,8 @@
   },
   "active": "6c7a7bc05bfc8396",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 3 - SSRF with blacklist-based input filter.md",
+    "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 4 - SSRF with filter bypass via open redirection vulnerability.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818112219.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818112136.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818112038.png",
@@ -200,10 +202,8 @@
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818111225.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818111213.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 2 - Basic SSRF against another back-end system.md",
-    "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 3 - SSRF with blacklist-based input filter.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818105653.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818105407.png",
-    "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250818105342.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 1 - Basic SSRF against the local server.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 12 - Password brute-force via password change.md",

@@ -4020,6 +4020,7 @@
       "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img/Pasted image 20250703113614.png"
     ],
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks": [
+      "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 4 - SSRF with filter bypass via open redirection vulnerability.md",
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 3 - SSRF with blacklist-based input filter.md",
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 2 - Basic SSRF against another back-end system.md",
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 1 - Basic SSRF against the local server.md",
