@@ -8,5 +8,6 @@ seleccionamos cualquier producto para analizar la solicitud
 
 ![[Pasted image 20250820113155.png]]
 
-enviamos la solicitud al Repeater y seleccionamos "Insert Collaborator Payload" para reemplazar el dominio original con un dominio generado por Burp Collaborator. 
+enviamos la solicitud al Repeater y seleccionamos "Insert Collaborator Payload" para reemplazar el dominio original con un dominio generado por Burp Collaborator. podemos ver que en la parte de abajo se nos ha generado una nueva dirección de dominio que vamos a reemplazar en el parámetro `Referer` 
 ![[Pasted image 20250820113957.png]]
+
