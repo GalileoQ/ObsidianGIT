@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -180,6 +181,8 @@
   },
   "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820125802.png",
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 5 - Blind SSRF with out-of-band detection.md",
@@ -220,12 +223,10 @@
     "GalileoQ/PortSwigger/Authentication vulnerabilities",
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
-    "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities",
     "GalileoQ/PortSwigger/Web cache deception/Img",
     "GalileoQ/PortSwigger/Web cache deception",
-    "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img",
     "Sin título.canvas"
   ]
 }
