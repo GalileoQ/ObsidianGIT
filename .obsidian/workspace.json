@@ -191,6 +191,7 @@
   },
   "active": "6c7a7bc05bfc8396",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250820113155.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 4 - SSRF with filter bypass via open redirection vulnerability.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 5 - Blind SSRF with out-of-band detection.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250820112133.png",
@@ -230,7 +231,6 @@
     "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Lab 12 - CSRF with broken Referer validation.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 2 - Manipulating the WebSocket handshake to exploit vulnerabilities.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Lab 1 - Manipulating WebSocket messages to exploit vulnerabilities.md",
-    "GalileoQ/PortSwigger/Web cache deception/Lab 1 - Exploiting path mapping for web cache deception.md",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities",
     "GalileoQ/PortSwigger/Web cache deception/Img",

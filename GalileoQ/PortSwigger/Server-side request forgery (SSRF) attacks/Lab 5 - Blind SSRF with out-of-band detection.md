@@ -2,3 +2,4 @@
 
 Para resolver el laboratorio, utilice esta funcionalidad para generar una solicitud HTTP al servidor público Burp Collaborator.
 
+![[Pasted image 20250820113155.png]]
