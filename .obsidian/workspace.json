@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "Lab 5 - Blind SSRF with out-of-band detection"
             }
+          },
+          {
+            "id": "f03fe5f6b144da80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -189,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c7a7bc05bfc8396",
+  "active": "f03fe5f6b144da80",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250820114435.png",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img/Pasted image 20250820114407.png",
