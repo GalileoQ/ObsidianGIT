@@ -14,5 +14,5 @@ enviamos la solicitud y vemos que la respuesta tiene un parámetro `postPassword
 
 vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `POST /graphql/v1` y enviamos esta solicitud a analizar. efectivamente encontramos el parámetro `postPassword`
 
-`NOTA:` esta sección se ha realizado con la extension 
+`NOTA:` esta sección se ha realizado con la extensión `InQL` que puedes descargar desde el apartado de extensiones 
 ![[Pasted image 20250820151342.png]]
