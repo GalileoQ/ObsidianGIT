@@ -12,5 +12,7 @@ en la respuesta observamos que el parámetro `getAllBlogPosts` contiene todos lo
 enviamos la solicitud y vemos que la respuesta tiene un parámetro `postPassword` pero parece estar oculto.
 ![[Pasted image 20250820151254.png]]
 
-vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `POST /graphql/v1` y enviamos esta solicitud a analizar. 
+vamos a verificar esto en la sección de `InQL` usando la URL de la solicitud `POST /graphql/v1` y enviamos esta solicitud a analizar. efectivamente encontramos el parámetro `postPassword`
+
+`NOTA:` esta sección se ha realizado con la extension 
 ![[Pasted image 20250820151342.png]]
