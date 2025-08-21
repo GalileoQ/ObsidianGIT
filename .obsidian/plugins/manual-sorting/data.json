@@ -4021,7 +4021,23 @@
       "GalileoQ/PortSwigger/Cross-site request forgery (CSRF)/Img/Pasted image 20250703113614.png"
     ],
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities": [
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img",
       "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md"
+    ],
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img": [
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820125802.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820125821.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820125828.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820144317.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820151254.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820151342.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820151848.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820152758.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820152805.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153016.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153031.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153300.png",
+      "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153318.png"
     ],
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks": [
       "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 5 - Blind SSRF with out-of-band detection.md",
