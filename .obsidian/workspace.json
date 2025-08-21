@@ -11,17 +11,28 @@
             "id": "3cbd608b1b962eca",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "8621fd5528e7a1e1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md",
+                "file": "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 2 - Accidental exposure of private GraphQL fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1 - Accessing private GraphQL posts"
+              "title": "Lab 2 - Accidental exposure of private GraphQL fields"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5,
-    "collapsed": true
+    "width": 412.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,8 +189,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cbd608b1b962eca",
+  "active": "8621fd5528e7a1e1",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 2 - Accidental exposure of private GraphQL fields.md",
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153318.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153300.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820153031.png",
@@ -191,9 +203,7 @@
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820151342.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820151254.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820144317.png",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250820125828.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 5 - Blind SSRF with out-of-band detection.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Lab 4 - SSRF with filter bypass via open redirection vulnerability.md",
