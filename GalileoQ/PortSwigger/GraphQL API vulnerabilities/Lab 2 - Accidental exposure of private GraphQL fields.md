@@ -13,5 +13,6 @@ podemos ver que el intento de inicio se sesión se envía como una mutación de 
 enviamos nuestra solicitud al repeater y luego la marcamos como `Set introspection query` para cambiar la solicitud y la enviamos para ver el resultado
 ![[Pasted image 20250821131020.png]]
 
-ahora esta respuesta podemos copiarla para llevarla a `[GraphQL Visualizer]()`  
+ahora esta respuesta podemos copiarla para llevarla a [GraphQL Visualizer](http://nathanrandal.com/graphql-visualizer/) y de esta manera poder ver todo el flujo del grafo y entender mejor como funciona 
 ![[Pasted image 20250821131327.png]]
+
