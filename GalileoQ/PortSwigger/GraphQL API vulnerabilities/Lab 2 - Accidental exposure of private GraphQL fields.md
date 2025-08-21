@@ -21,3 +21,5 @@ podemos ver que las query `getBlogPost(id:int!): BlogPost` y `getAllBlogPost: [B
 
 ahora si vamos a la solicitud principal y vemos como se envía el nombre y la contraseña desde la pestaña de `GraphQl` podemos eliminar la contraseña y probar con el nombre de administrator y obtenemos una respuesta de estado `200 OK` 
 ![[Pasted image 20250821132542.png]]
+
+![[Pasted image 20250821132821.png]]
