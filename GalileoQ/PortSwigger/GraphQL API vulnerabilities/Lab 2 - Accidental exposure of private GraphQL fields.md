@@ -37,3 +37,8 @@ credenciales del usuario con el `id:2`
 credenciales del usuario con el `id:3`
 ![[Pasted image 20250821133711.png]]
 
+ya solo debemos iniciar sesión con el usuario administrador. ir al panel de administrador y eliminar al usuario carlos
+![[Pasted image 20250821133749.png]]
+
+de esta manera podemos 
+![[Pasted image 20250821133835.png]]
