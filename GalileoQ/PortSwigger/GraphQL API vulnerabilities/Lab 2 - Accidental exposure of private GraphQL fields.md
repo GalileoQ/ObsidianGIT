@@ -25,5 +25,6 @@ ahora si vamos a la solicitud principal y vemos como se envía el nombre y la co
 así que vamos a regresar a la solicitud de `Set introspection query` para después enviarla a `Save Graph queries to side map`
 ![[Pasted image 20250821132821.png]]
 
-en esta parte la que nos interesa analizar es la query que hemos visto en el grafico que es la encargada de la información del usuario
+en esta parte la que nos interesa analizar es la query que hemos visto en el grafico que es la encargada de la información del usuario `getUser(id:Int!): User` la enviamos al repeater para analizarla
 ![[Pasted image 20250821133144.png]]
+
