@@ -28,3 +28,5 @@ así que vamos a regresar a la solicitud de `Set introspection query` para despu
 en esta parte la que nos interesa analizar es la query que hemos visto en el grafico que es la encargada de la información del usuario `getUser(id:Int!): User` la enviamos al repeater para analizarla
 ![[Pasted image 20250821133144.png]]
 
+si enviamos la solicitud no vemos nada pero si analizamos el `GraphQl` y cambiamos el
+![[Pasted image 20250821133409.png]]
