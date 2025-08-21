@@ -16,5 +16,5 @@ enviamos nuestra solicitud al repeater y luego la marcamos como `Set introspecti
 ahora esta respuesta podemos copiarla para llevarla a [GraphQL Visualizer](http://nathanrandal.com/graphql-visualizer/) y de esta manera poder ver todo el flujo del grafo y entender mejor como funciona 
 ![[Pasted image 20250821131327.png]]
 
-po
+podemos ver que las query `getBlogPost(id:int)`
 ![[Pasted image 20250821131858.png]]
