@@ -4,3 +4,5 @@ Para resolver el laboratorio, inicie sesión como administrador y elimine el nom
 
 Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 
+para 
+![[Pasted image 20250821130744.png]]
