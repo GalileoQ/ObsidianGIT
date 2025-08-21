@@ -34,4 +34,6 @@ si enviamos la solicitud no vemos nada pero si analizamos el `GraphQl` y cambiam
 credenciales del usuario con el `id:2` 
 ![[Pasted image 20250821133628.png]]
 
-credenciales del usuai
+credenciales del usuario con el `id:3`
+![[Pasted image 20250821133711.png]]
+
