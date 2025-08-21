@@ -28,5 +28,10 @@ así que vamos a regresar a la solicitud de `Set introspection query` para despu
 en esta parte la que nos interesa analizar es la query que hemos visto en el grafico que es la encargada de la información del usuario `getUser(id:Int!): User` la enviamos al repeater para analizarla
 ![[Pasted image 20250821133144.png]]
 
-si enviamos la solicitud no vemos nada pero si analizamos el `GraphQl` y cambiamos el `id:0` `id:1` podemos ver las credenciales del usuario administrador. y no solo eso. podriamos jugar con este numero tanto como sea posible ya que el identificador no tiene re
+si enviamos la solicitud no vemos nada pero si analizamos el `GraphQl` y cambiamos el `id:0` `id:1` podemos ver las credenciales del usuario administrador. y no solo eso. podríamos jugar con este numero tanto como sea posible ya que el identificador no tiene restricciones así que podríamos enumerar tantos usuarios como existan 
 ![[Pasted image 20250821133409.png]]
+
+credenciales del usuario con el `id:2` 
+![[Pasted image 20250821133628.png]]
+
+credenciales del usuai
