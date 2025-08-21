@@ -4,5 +4,8 @@ Para resolver el laboratorio, inicie sesión como administrador y elimine el nom
 
 Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 
-para 
+para empezar vamos a intentar un inicio de sesión en el laboratorio y vamos a interceptar esta solicitud
 ![[Pasted image 20250821130744.png]]
+
+podemos ver que el int
+![[Pasted image 20250821130845.png]]
