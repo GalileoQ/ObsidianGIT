@@ -9,3 +9,6 @@ para empezar vamos a intentar un inicio de sesión en el laboratorio y vamos a i
 
 podemos ver que el intento de inicio se sesión se envía como una mutación de `GraphQL` 
 ![[Pasted image 20250821130845.png]]
+
+enviamos nuestra solicitud al repeater y luego la marcamos como `Set introspection query` 
+![[Pasted image 20250821131020.png]]
