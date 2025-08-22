@@ -28,5 +28,6 @@ vamos hacer una búsqueda rápida en internet para intentar conseguir las query 
 probamos la query y efectivamente tenemos una respuesta `200 OK` 
 ![[Pasted image 20250822121149.png]]
 
-si enviamos estos como una solicitud `Set introspection query` podemos ver que el servidor sigue respondiendo. en este caso nos indica que no soporta una query `instrospection` pero que la solicitud aun contiene el parametro 
+si enviamos estos como una solicitud `Set introspection query` podemos ver que el servidor sigue respondiendo. en este caso nos indica que no soporta una query `instrospection` pero que la solicitud aun contiene el parámetro `__schema or __type`
 ![[Pasted image 20250822143428.png]]
+
