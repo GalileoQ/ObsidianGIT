@@ -27,3 +27,6 @@ vamos hacer una búsqueda rápida en internet para intentar conseguir las query 
 
 probamos la query y efectivamente tenemos una respuesta `200 OK` 
 ![[Pasted image 20250822121149.png]]
+
+si enviamos estos como una solicitud `Set introspection quer`
+![[Pasted image 20250822143428.png]]
