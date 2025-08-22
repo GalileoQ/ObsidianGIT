@@ -4,3 +4,5 @@ Para resolver el laboratorio, busque el punto final oculto y elimínelo. `carlos
 
 Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 
+iniciamos sessión en el laboratorio y 
+![[Pasted image 20250822112309.png]]
