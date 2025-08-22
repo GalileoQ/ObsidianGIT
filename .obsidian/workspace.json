@@ -11,10 +11,14 @@
             "id": "3cbd608b1b962eca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 4 - Bypassing GraphQL brute force protections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab 4 - Bypassing GraphQL brute force protections"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -176,6 +181,7 @@
   },
   "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 4 - Bypassing GraphQL brute force protections.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 3 - Finding a hidden GraphQL endpoint.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250822151358.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250822151319.png",
