@@ -3,3 +3,4 @@
 Para resolver el laboratorio, fuerce el mecanismo de inicio de sesión para iniciar sesión como `carlos`Utilice la lista de contraseñas del laboratorio de autenticación como fuente de contraseñas.
 
 Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
+
