@@ -22,3 +22,4 @@ en este punto vamos a realizar un ataque de fuerza bruta para cada endpoint de l
 de todos estos comando particularmente el mas interesante de todos es `/api` ya que este tiene un estatus `400` diferente al de todos los demás. si analizamos la respuesta nos indica `Query not present` esto quiere decir que no esta presente la query necesaria para el endpoint `/api`
 ![[Pasted image 20250822114415.png]]
 
+vamos hacer una busqueda rapida en internet para intentar consrguir las query mas comunes y conseguimo
