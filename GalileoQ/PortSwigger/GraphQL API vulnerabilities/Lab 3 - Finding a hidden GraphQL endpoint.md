@@ -19,3 +19,5 @@ si cambiamos esta misma solicitud `POST` por una `GET` vemos que el servidor res
 en este punto vamos a realizar un ataque de fuerza bruta para cada endpoint de los mas comunes para GraphQL que hemos conseguido haciendo una búsqueda rápida en internet
 ![[Pasted image 20250822113504.png]]
 
+
+![[Pasted image 20250822114415.png]]
