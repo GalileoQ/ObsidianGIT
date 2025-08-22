@@ -10,5 +10,6 @@ iniciamos sesión en el laboratorio y buscamos cualquier solicitud que parezca i
 después de hacer una búsqueda en todos los endpoint no hemos conseguido nada interesante así que vamos a probar con los endpoint mas comunes en `GraphQL` de todas las solicitudes usare la `POST /login`
 ![[Pasted image 20250822112805.png]]
 
-
+usando esta solicitud en el repeater y enviando el parámetro `PATCH` podemos ver que la respuesta nos indica que solo están permitidos los parámetros `GET , POST`
 ![[Pasted image 20250822113108.png]]
+
