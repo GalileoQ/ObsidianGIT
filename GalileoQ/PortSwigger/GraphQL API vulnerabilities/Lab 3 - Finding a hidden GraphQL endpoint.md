@@ -37,3 +37,5 @@ ya que la consulta no permite la introspección. para pasar esto solo debemos ag
 ahora debemos hacer clic derecho en la solicitud y seleccione `GraphQL > Guardar consultas GraphQL en el mapa del sitio`
 ![[Pasted image 20250822144052.png]]
 
+
+![[Pasted image 20250822144510.png]]
