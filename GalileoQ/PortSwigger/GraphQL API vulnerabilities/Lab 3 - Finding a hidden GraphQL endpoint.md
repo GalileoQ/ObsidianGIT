@@ -7,5 +7,6 @@ Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 iniciamos sesión en el laboratorio y buscamos cualquier solicitud que parezca interesante para analizar
 ![[Pasted image 20250822112309.png]]
 
-despues de hacer una busqueda en todos los endpoint no hemos cons
+después de hacer una búsqueda en todos los endpoint no hemos conseguido nada interesante así que vamos a probar con los endpoint mas comunes en `GraphQL`
 ![[Pasted image 20250822112455.png]]
+
