@@ -16,5 +16,6 @@ usando esta solicitud en el repeater y enviando el parámetro `PATCH` podemos ve
 si cambiamos esta misma solicitud `POST` por una `GET` vemos que el servidor responde correctamente. así que vamos a ver que otros endpoint podemos consultar haciendo un llamado de solicitud `GET`
 ![[Pasted image 20250822113238.png]]
 
-en este punto vamos a realizar u
+en este punto vamos a realizar un ataque de fuerza bruta para cada endpoint de los mas comunes para GraphQL que hemos conseguido haciendo una búsqueda rápida en internet
 ![[Pasted image 20250822113504.png]]
+
