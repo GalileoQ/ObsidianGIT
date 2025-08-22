@@ -34,4 +34,6 @@ si enviamos estos como una solicitud `Set introspection query` podemos ver que e
 ya que la consulta no permite la introspección. para pasar esto solo debemos agregar un carácter nuevo después de la consulta. Observe que la respuesta ahora incluye detalles completos de la introspección. Esto se debe a que el servidor está configurado para excluir las consultas que coinciden con la expresión regular. `"__schema{"`, con la que la consulta ya no coincide aunque sigue siendo una consulta de introspección válida.
 ![[Pasted image 20250822143821.png]]
 
+ahora debemos hacer clic derecho en la solicitud y seleccione `GraphQL > Guardar consultas GraphQL en el mapa del sitio`
 ![[Pasted image 20250822144052.png]]
+
