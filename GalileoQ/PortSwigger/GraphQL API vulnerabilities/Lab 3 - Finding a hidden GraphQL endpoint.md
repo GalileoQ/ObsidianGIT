@@ -43,5 +43,7 @@ ahora en  `Site map` para ver las consultas de la API. vamos a la pestaña `Grap
 ahora vamos a usar esta query para enumerar usuarios. nnormalmente el usuario con `id: 1 es Administator`
 ![[Pasted image 20250822150725.png]]
 
-seguimos enumerando y en
+seguimos enumerando y encontramos al usuario carlos
 ![[Pasted image 20250822150634.png]]
+
+copiamos la URL y la analizamos en 
