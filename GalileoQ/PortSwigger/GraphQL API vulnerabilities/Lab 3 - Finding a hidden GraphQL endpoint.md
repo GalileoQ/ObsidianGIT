@@ -13,3 +13,5 @@ después de hacer una búsqueda en todos los endpoint no hemos conseguido nada i
 usando esta solicitud en el repeater y enviando el parámetro `PATCH` podemos ver que la respuesta nos indica que solo están permitidos los parámetros `GET , POST`
 ![[Pasted image 20250822113108.png]]
 
+si cambiamos esta misma solicitud `POST` por una `GET` vemos que el
+![[Pasted image 20250822113238.png]]
