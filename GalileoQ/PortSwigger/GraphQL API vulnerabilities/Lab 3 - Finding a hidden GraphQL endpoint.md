@@ -8,5 +8,5 @@ iniciamos sesión en el laboratorio y buscamos cualquier solicitud que parezca i
 ![[Pasted image 20250822112309.png]]
 
 después de hacer una búsqueda en todos los endpoint no hemos conseguido nada interesante así que vamos a probar con los endpoint mas comunes en `GraphQL`
-![[Pasted image 20250822112455.png]]
+![[Pasted image 20250822112805.png]]
 
