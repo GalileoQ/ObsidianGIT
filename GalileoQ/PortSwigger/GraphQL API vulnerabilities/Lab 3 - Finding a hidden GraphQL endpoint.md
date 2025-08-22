@@ -49,8 +49,8 @@ seguimos enumerando y encontramos al usuario carlos
 copiamos la URL y la analizamos en la extensión `InQL` y encontramos una función llamada `deleteOrganizationUser` esta query será la que usaremos para intentar eliminar al usuario carlos
 ![[Pasted image 20250822150923.png]]
 
-usando esta función solo debemos identificar que el valor `(input: DeleteOrganizationUserInput)` sea igual a `(input: {id: 3})` ya que este es el id de carlos. vemos que la respuesta es un 200 OK
+usando esta función solo debemos identificar que el valor `(input: DeleteOrganizationUserInput)` sea igual a `(input: {id: 3})` ya que este es el id de carlos. vemos que la respuesta es un `200 OK` 
 ![[Pasted image 20250822151319.png]]
 
-
+ahora solo debemos ver esta solicitud en el navegador y efectivamente hemos eliminado al usuario carlos y de esta manera resolvemos el laboratorio
 ![[Pasted image 20250822151358.png]]
