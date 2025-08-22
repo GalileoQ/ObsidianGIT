@@ -37,5 +37,6 @@ ya que la consulta no permite la introspección. para pasar esto solo debemos ag
 ahora debemos hacer clic derecho en la solicitud y seleccione `GraphQL > Guardar consultas GraphQL en el mapa del sitio`
 ![[Pasted image 20250822144052.png]]
 
-ahora en  `Site map` para ver las consultas de la API. vamos a la pestaña `GraphQL` y busque la Consulta.`getUser` Haga clic derecho en la solicitud y seleccione **Enviar a repetidor** .
+ahora en  `Site map` para ver las consultas de la API. vamos a la pestaña `GraphQL` y busque la consulta `getUser` y vamos a enviar esta solicitud al Repeater
 ![[Pasted image 20250822144510.png]]
+
