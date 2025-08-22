@@ -49,3 +49,8 @@ seguimos enumerando y encontramos al usuario carlos
 copiamos la URL y la analizamos en la extensión `InQL` y encontramos una función llamada `deleteOrganizationUser` esta query será la que usaremos para intentar eliminar al usuario carlos
 ![[Pasted image 20250822150923.png]]
 
+
+![[Pasted image 20250822151319.png]]
+
+
+![[Pasted image 20250822151358.png]]
