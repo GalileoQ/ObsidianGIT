@@ -19,5 +19,6 @@ si cambiamos esta misma solicitud `POST` por una `GET` vemos que el servidor res
 en este punto vamos a realizar un ataque de fuerza bruta para cada endpoint de los mas comunes para GraphQL que hemos conseguido haciendo una búsqueda rápida en internet
 ![[Pasted image 20250822113504.png]]
 
-de todos estos comando particularmente el mas interesante de todos es `/api` ya que este tiene un estatus `400` diferente al de todos los demás. si analizamos la respuesta nos indica `Query not present` esto quiere de
+de todos estos comando particularmente el mas interesante de todos es `/api` ya que este tiene un estatus `400` diferente al de todos los demás. si analizamos la respuesta nos indica `Query not present` esto quiere decir que no esta presente la query necesaria para el endpoint `/api`
 ![[Pasted image 20250822114415.png]]
+
