@@ -31,5 +31,6 @@ probamos la query y efectivamente tenemos una respuesta `200 OK`
 si enviamos estos como una solicitud `Set introspection query` podemos ver que el servidor sigue respondiendo. en este caso nos indica que no soporta una query `instrospection` pero que la solicitud aun contiene el parámetro `__schema or __type`
 ![[Pasted image 20250822143428.png]]
 
-ya que la consulta no permite la introspección.
+ya que la consulta no permite la introspección. para pasar esto solo debemos agregar un carácter nuevo después de la consulta
 ![[Pasted image 20250822143821.png]]
+
