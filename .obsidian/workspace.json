@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 2 - Accidental exposure of private GraphQL fields.md",
+                "file": "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 3 - Finding a hidden GraphQL endpoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 - Accidental exposure of private GraphQL fields"
+              "title": "Lab 3 - Finding a hidden GraphQL endpoint"
             }
           }
         ],
@@ -192,6 +192,8 @@
   },
   "active": "8621fd5528e7a1e1",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 2 - Accidental exposure of private GraphQL fields.md",
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 3 - Finding a hidden GraphQL endpoint.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821133835.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821133749.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821133711.png",
@@ -202,8 +204,6 @@
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821132759.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821132542.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821131858.png",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250821131327.png",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 2 - Accidental exposure of private GraphQL fields.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 1 - Accessing private GraphQL posts.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities",
