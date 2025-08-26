@@ -16,7 +16,7 @@ al analizar la solicitud podemos ver que después de enviarla mas de  2 veces se
 si analizamos el `GraphQL` podemos ver la query que se realiza para el inicio de sesión pero esta query no parece tener nada que la proteja así que vamos a intentar modificarla
 ![[Pasted image 20250826095829.png]]
 
-para modificar la query debemos sustituir la variable `$input` por el parámetro que nosotros vamos a analizar en este caso es el login. en este caso la función `($input: LoginInput!)` no nos interesa ya que queremos redirigir nosotros mismo el flujo del login y tambien hemos cambiado 
+para modificar la query debemos sustituir la variable `$input` por el parámetro que nosotros vamos a analizar en este caso es el login. en este caso la función `($input: LoginInput!)` no nos interesa ya que queremos redirigir nosotros mismo el flujo del login y también hemos cambiado la variable `$input` por nuestros parámetros de login de esta manera podemos agregar varias veces esta acciona para ver si el servidor responde correctamente
 
 ```python
 mutation login($input: LoginInput!) {
