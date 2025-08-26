@@ -16,5 +16,5 @@ al analizar la solicitud podemos ver que después de enviarla mas de  2 veces se
 si analizamos el `GraphQL` podemos ver la query que se realiza para el inicio de sesión pero esta query no parece tener nada que la proteja así que vamos a intentar modificarla
 ![[Pasted image 20250826095829.png]]
 
-para modificar la query debemos s
+para modificar la query debemos sustituir la variable `$input` por el parámetro que nosotros vamos a analizar en este caso es el login. 
 ![[Pasted image 20250826100713.png]]
