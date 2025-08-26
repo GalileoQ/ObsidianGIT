@@ -13,5 +13,6 @@ la solicitud nos muestra un estatus `200 OK` y tenemos un parámetro `token` y t
 al analizar la solicitud podemos ver que después de enviarla mas de  2 veces se aplica un bloqueo de 1 minuto donde tenemos el mensaje `"You have made too many incorrect login attempts. Please try again in 1 minute(s)."`  
 ![[Pasted image 20250826094710.png]]
 
-si analizamos el `GraphQL` podemos ver la query que se realiza parael 
+si analizamos el `GraphQL` podemos ver la query que se realiza para el inicio de sesión pero esta query no parece tener nada que la proteja así que vamos a intentar modificarla
 ![[Pasted image 20250826095829.png]]
+
