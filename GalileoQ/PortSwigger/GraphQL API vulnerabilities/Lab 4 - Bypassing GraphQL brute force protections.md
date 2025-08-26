@@ -40,3 +40,6 @@ efectivamente el servidor responde de manera correcta. hemos hecho un `Bypassing
 
 bien. ahora solo nos queda realizar la prueba de fuerza bruta con las credenciales que nos proporciona el laboratorio. haciendo una prueba de login por cada contraseña hasta conseguir una respuesta `success: True` cabe destacar que este método se puede automatizar con el lenguaje de programación de tu preferencia 
 ![[Pasted image 20250826102312.png]]
+
+de esta manera identificamos que el login numero 97 es el que nos da un `success: true` asi que si verificamos cual es la contrtase
+![[Pasted image 20250826102638.png]]
