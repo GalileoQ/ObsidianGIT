@@ -4,3 +4,6 @@ Para resolver el laboratorio, fuerce el mecanismo de inicio de sesión para inic
 
 Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 
+intentamos iniciar sesión para interceptar esta solicitud y analizar el flujo de trabajo de la web
+![[Pasted image 20250826094546.png]]
+
