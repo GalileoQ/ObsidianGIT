@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "Lab 5 - Performing CSRF exploits over GraphQL"
             }
+          },
+          {
+            "id": "67713016c396ff54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "986ec3863e3661f5",
+  "active": "67713016c396ff54",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
