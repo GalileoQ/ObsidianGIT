@@ -44,5 +44,5 @@ bien. ahora solo nos queda realizar la prueba de fuerza bruta con las credencial
 de esta manera identificamos que el login numero 97 es el que nos da un `success: true` asi que si verificamos cual es la contraseña de la solicitud numero 97 podemos encontrar la contraseña del usuario carlos
 ![[Pasted image 20250826102638.png]]
 
-iniciamos sesió
+iniciamos sesión y de esta manera resolvemos el laboratorio
 ![[Pasted image 20250826102816.png]]
