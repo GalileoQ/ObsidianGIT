@@ -7,8 +7,8 @@ Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 intentamos iniciar sesión para interceptar esta solicitud y analizar el flujo de trabajo de la web
 ![[Pasted image 20250826094546.png]]
 
-la solicitud nos muestra un estatus `200 OK` y tenemos un parámetro `token` y tambien un parámetro `success`
+la solicitud nos muestra un estatus `200 OK` y tenemos un parámetro `token` y también un parámetro `success` que en este caso es falso
 ![[Pasted image 20250826094820.png]]
 
-al analizar la solicitud 
+al analizar la solicitud podemos ver que después de enviarla mas de  2 veces se aplica un bloqueo de 1 minuto donde tenemos el mensaje "You have made too many incorrect login attempts. Please try again in 1 minute(s)."
 ![[Pasted image 20250826094710.png]]
