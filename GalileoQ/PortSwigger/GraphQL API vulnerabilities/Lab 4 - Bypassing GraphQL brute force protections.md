@@ -7,3 +7,5 @@ Obtenga más información sobre cómo trabajar con GraphQL en Burp Suite.
 intentamos iniciar sesión para interceptar esta solicitud y analizar el flujo de trabajo de la web
 ![[Pasted image 20250826094546.png]]
 
+al analizar la solicitud 
+![[Pasted image 20250826094710.png]]
