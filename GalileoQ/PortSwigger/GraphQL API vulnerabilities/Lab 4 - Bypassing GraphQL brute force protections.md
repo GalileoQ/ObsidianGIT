@@ -35,4 +35,5 @@ mutation login($input: LoginInput!) {
 }
 ```
 
+efectivamente el servidor responde de manera correcta. hemos hecho un `Bypassing GraphQL brute force protections` 
 ![[Pasted image 20250826100713.png]]
