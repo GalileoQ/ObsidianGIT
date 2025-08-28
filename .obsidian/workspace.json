@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Lab 5 - Performing CSRF exploits over GraphQL"
             }
+          },
+          {
+            "id": "25e686cf2e17bee2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-28 00.18.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-28 00.18.55.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -208,11 +221,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "96ead8e4cc480abd",
+  "active": "25e686cf2e17bee2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-28 00.18.55.excalidraw.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
+    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
@@ -223,7 +239,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826111520.png",
@@ -248,8 +263,6 @@
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 12 - Password brute-force via password change.md",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 10 - Password reset broken logic.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img",
     "GalileoQ/PortSwigger/Authentication vulnerabilities",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
