@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "96ead8e4cc480abd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-28 00.15.18.excalidraw"
+            }
+          },
+          {
             "id": "986ec3863e3661f5",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Lab 5 - Performing CSRF exploits over GraphQL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -192,8 +206,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cbd608b1b962eca",
+  "active": "96ead8e4cc480abd",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
@@ -232,8 +248,6 @@
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 10 - Password reset broken logic.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 9 - Offline password cracking.md",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 8 - Brute-forcing a stay-logged-in cookie.md",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 7 - 2FA broken logic.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img",
     "GalileoQ/PortSwigger/Authentication vulnerabilities",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
