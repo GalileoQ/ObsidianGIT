@@ -25,12 +25,14 @@
             "id": "96ead8e4cc480abd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md"
+                "file": "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-28 00.15.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Buffer Overflow en windows"
             }
           },
           {
@@ -80,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "overflo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +103,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +210,9 @@
   },
   "active": "96ead8e4cc480abd",
   "lastOpenFiles": [
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
+    "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md",
+    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/Hacking/Windows/Enumeración Windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/6 - Pass The Hash, impacket psexec y wmiexec.md",
     "GalileoQ/Hacking/Windows/Active-Directory/5 - Impacket-secretdumps.md",
@@ -246,7 +250,6 @@
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 11 - Password reset poisoning via middleware.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 10 - Password reset broken logic.md",
-    "GalileoQ/PortSwigger/Authentication vulnerabilities/Lab 9 - Offline password cracking.md",
     "GalileoQ/PortSwigger/Authentication vulnerabilities/Img",
     "GalileoQ/PortSwigger/Authentication vulnerabilities",
     "GalileoQ/PortSwigger/WebSockets vulnerabilities/Img",
