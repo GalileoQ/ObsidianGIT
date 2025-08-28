@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "Lab 5 - Performing CSRF exploits over GraphQL"
             }
-          },
-          {
-            "id": "25e686cf2e17bee2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-28 00.18.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-28 00.18.55.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +209,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25e686cf2e17bee2",
+  "active": "96ead8e4cc480abd",
   "lastOpenFiles": [
+    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
     "Excalidraw/Drawing 2025-08-28 00.18.55.excalidraw.md",
     "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Escalada de Privilegios/Windows/0 - Proceso Spoolsv.md",
     "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md",
