@@ -74,12 +74,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 412.5,
-    "collapsed": true
+    "width": 412.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -179,7 +179,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cbd608b1b962eca",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
