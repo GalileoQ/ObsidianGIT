@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 341.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -174,7 +174,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4f20df599aa0871",
+  "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
