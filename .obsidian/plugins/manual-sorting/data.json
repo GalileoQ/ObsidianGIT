@@ -1,8 +1,12 @@
 {
   "customFileOrder": {
     "/": [
+      "eWPTX",
       "Excalidraw",
       "GalileoQ"
+    ],
+    "eWPTX": [
+      "eWPTX/info.md"
     ],
     "Excalidraw": [
       "Excalidraw/Drawing 2025-08-28 00.15.18.excalidraw.md",
