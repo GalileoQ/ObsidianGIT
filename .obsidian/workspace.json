@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "Kitty"
             }
+          },
+          {
+            "id": "7e33085eb480beb0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +95,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -190,8 +200,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1bea7ede02710cfd",
+  "active": "750ef1e04e26a3bf",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Relevant.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Overpass-3-Hosting.md",
@@ -218,7 +229,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
     "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
     "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
-    "Excalidraw/Drawing 2025-08-28 00.18.55.excalidraw.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826111520.png",
