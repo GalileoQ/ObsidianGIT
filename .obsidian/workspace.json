@@ -30,19 +30,9 @@
               "icon": "lucide-file",
               "title": "Kitty"
             }
-          },
-          {
-            "id": "7e33085eb480beb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postre",
+                "query": "tor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "750ef1e04e26a3bf",
+  "active": "1bea7ede02710cfd",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
