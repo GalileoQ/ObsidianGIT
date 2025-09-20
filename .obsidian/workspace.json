@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "1bea7ede02710cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Runner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runner"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +189,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cbd608b1b962eca",
+  "active": "1bea7ede02710cfd",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Scrambled.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Headless.md",
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Bizness.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Forest.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
@@ -200,7 +218,6 @@
     "GalileoQ/Hacking/Windows/Active-Directory/1 - Configurar Active Directory + Equipos clientes.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Usuarios Active Directory - Lookupsid.md",
     "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de Procesos y Servicios.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/Enumeracion/Enumeración de la red.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826111520.png",
@@ -209,10 +226,8 @@
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826110257.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826110111.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826105938.png",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 4 - Bypassing GraphQL brute force protections.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826102816.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826102638.png",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 3 - Finding a hidden GraphQL endpoint.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities",
     "GalileoQ/PortSwigger/Server-side request forgery (SSRF) attacks/Img",
