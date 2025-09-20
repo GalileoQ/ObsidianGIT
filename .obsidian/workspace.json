@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
+                "file": "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kitty"
+              "title": "Codify"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tor",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,6 +191,11 @@
   },
   "active": "1bea7ede02710cfd",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/BrooklynNiveNive.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/ROOTME.md",
+    "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Anonymous.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Kitty.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Wonderland.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Medium/Relevant.md",
@@ -214,11 +218,6 @@
     "eWPTX/info.md",
     "eWPTX/192.168.0.10.md",
     "eWPTX",
-    "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Lab 5 - Performing CSRF exploits over GraphQL.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Support.md",
-    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Editorial.md",
-    "GalileoQ/Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "GalileoQ/Hacking/Windows/Active-Directory/7 - Hacking al Protocolo RDP - Puerto 3389.md",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826111520.png",
