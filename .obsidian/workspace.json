@@ -31,8 +31,7 @@
               "title": "Codify"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -189,8 +189,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1bea7ede02710cfd",
+  "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
+    "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/BrooklynNiveNive.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/Bounty-Hacker.md",
@@ -216,7 +217,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
     "eWPTX/info.md",
-    "eWPTX/192.168.0.10.md",
     "eWPTX",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
