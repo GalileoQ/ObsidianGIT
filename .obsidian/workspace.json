@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "2c07f01369e2de35",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc92316312d56026",
@@ -187,7 +175,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c07f01369e2de35",
+  "active": "3cbd608b1b962eca",
   "lastOpenFiles": [
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
