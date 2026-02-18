@@ -11,13 +11,29 @@
             "id": "3cbd608b1b962eca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "bases",
+              "state": {
+                "file": "Sin título.base",
+                "viewName": "Tabla"
+              },
+              "icon": "lucide-table",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "0673e1d0eb81c798",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "fc92316312d56026",
@@ -155,12 +170,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +189,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3cbd608b1b962eca",
+  "active": "0673e1d0eb81c798",
   "lastOpenFiles": [
+    "Sin título.base",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Crafty.md",
     "GalileoQ/Hacking/Maquinas/Try-Hack_me/Easy/BrooklynNiveNive.md",
@@ -202,7 +217,6 @@
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Sauna.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/Resolute.md",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Medium/StreamIO.md",
-    "eWPTX/info.md",
     "eWPTX",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115917.png",
     "GalileoQ/PortSwigger/GraphQL API vulnerabilities/Img/Pasted image 20250826115854.png",
