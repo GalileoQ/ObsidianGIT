@@ -31,9 +31,21 @@
               "icon": "lucide-book-up",
               "title": "Registro de cambios 1.11.7"
             }
+          },
+          {
+            "id": "6a9f7315262e0ecf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0673e1d0eb81c798",
+  "active": "6a9f7315262e0ecf",
   "lastOpenFiles": [
     "Sin título.base",
     "GalileoQ/Hacking/Maquinas/Hack-The-Box/Easy/Codify.md",
